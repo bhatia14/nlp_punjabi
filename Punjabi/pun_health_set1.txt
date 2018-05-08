@@ -1,0 +1,1013 @@
+ID	Value
+PBHED1	ਕੁਦਰਤ\N_NN ਵੱਲੋਂ\PSP ਮਨੁੱਖ\N_NN ਨੂੰ\PSP ਵਾਧੂ\QT_QTF ਦਾਤਾਂ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ਗਈਆਂ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBHED2	ਜਿਵੇਂ\N_NN ਦੋ\QT_QTC ਫੇਫੜੇ,\N_NN ਦੋ\QT_QTC ਕੰਨ\N_NN ਜਾਂ\CC_CCD ਦੋ\QT_QTC ਅੱਖਾਂ\N_NNP ।\RD_PUNC
+PBHED3	ਬਦਕਿਸਮਤੀ\N_NN ਨਾਲ\PSP ਜੇਕਰ\CC_CCS ਇਹਨਾਂ\PR_PRP ’ਚੋਂ\PSP ਇੱਕ\QT_QTC ਅੰਗ\N_NN ਖ਼ਰਾਬ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਦੂਜੇ\N_NN ਅੰਗ\N_NN ਨਾਲ\PSP ਨਾਰਮਲ\N_NN ਜ਼ਿੰਦਗੀ\N_NN ਬਤੀਤੀ\N_NN ਕੀਤੀ\V_VM ਜਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED4	ਪ੍ਰਮਾਤਮਾ\N_NNP ਨੇ\PSP ਮਨੁੱਖ\N_NN ਨੂੰ\PSP ਗੁਰਦੇ\N_NN ਵੀ\RP_RPD ਦੋ\QT_QTC (ਸੱਜਾ\RB ਤੇ\CC_CCD ਖੱਬਾ)\RB ਬਖ਼ਸ਼ੇ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBHED5	ਜੋ\DM_DMD ਪੇਟ\N_NN ਵਿੱਚ\PSP ਪਿਛਲੇ\RB ਪਾਸੇ\N_NN ਰੀੜ\N_NN ਦੀ\PSP ਹੱਡੀ\N_NN ਦੇ\PSP ਆਸ-ਪਾਸ\RB ਫਿੱਟ\N_NN ਕੀਤੇ\V_VM_VF ਹੋਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED6	ਗੁਰਦਿਆਂ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਹੈ\V_VAUX ਸਰੀਰ\N_NN ਦੀਆਂ\PSP ਵੱਖ-ਵੱਖ\PSP ਕਿਰਿਆਵਾਂ\V_VM ਦੌਰਾਨ\V_VM_VF ਪੈਦਾ\V_VM ਹੋਏ\V_VM_VF ਜ਼ਹਿਰੀਲੇ\JJ ਤੇ\CC_CCD ਫ਼ਾਲਤੂ\N_NN ਤੱਤਾਂ\N_NN ਨੂੰ\PSP ਪਿਸ਼ਾਬ\N_NN ਰਾਹੀਂ\V_VM_VF ਬਾਹਰ\RB ਕੱਢਣਾ\V_VM_VNG ਤੇ\CC_CCD ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਮਿਕਦਾਰ\N_NN ਦਾ\PSP ਸੰਤੁਲਨ\N_NN ਰੱਖਣਾ\V_VM_VNG ।\RD_PUNC
+PBHED7	ਗੁਰਦੇ\N_NN ਇੱਕ\QT_QTC ਛਣਨੀ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED8	ਅਤੇ\CC_CCD ਜ਼ਹਿਰੀਲੇ\JJ ਪਦਾਰਥਾਂ\N_NN ਨੂੰ\PSP ਪੁਣ\N_NN ਕੇ\CC_CCD ਤੇ\N_NN ਵਾਧੂ\N_NN ਪਾਣੀ\N_NN ਨੂੰ\PSP ਛਾਣ\N_NN ਕੇ\N_NN ਪਿਸ਼ਾਬ\N_NN ਬਣਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED9	ਜੋ\PR_PRQ ਬਾਅਦ\RB ਵਿੱਚ\PSP ਮਸਾਨੇ\N_NN ਤਕ\RB ਪਹੁੰਚਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED10	ਅਸੀਂ\PR_PRP ਆਪਣੀ\PR_PRF ਇੱਛਾ\JJ ਅਨੁਸਾਰ\N_NN ਇਸ\PR_PRP ਨੂੰ\PSP ਸਰੀਰ\N_NN ’ਚੋਂ\PSP ਬਾਹਰ\RB ਕੱਢਦੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBHED11	ਜੇ\PR_PRF ਗੁਰਦੇ\N_NN ਕੰਮ\N_NN ਨਾ\RP_NEG ਕਰਨ\V_VM ਭਾਵ\JJ ਫੇਲ\N_NN ਹੋ\V_VM ਜਾਣ\V_VM_VNG ਤਾਂ\CC_CCD ਸਰੀਰ\N_NN ਅੰਦਰ\RB ਫ਼ਾਲਤੂ\N_NN ਅਤੇ\CC_CCD ਜ਼ਹਿਰੀਲੇ\JJ ਪਦਾਰਥ\N_NN ਤੇ\CC_CCD ਵਾਧੂ\RB ਪਾਣੀ\N_NN ਜਮਾਂ\V_VM_VF ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED12	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਸੋਜ\N_NN ਆ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED13	ਇਹ\DM_DMD ਸੋਜ\N_NN ਅੱਖਾਂ\N_NN ਦੇ\PSP ਦੁਆਲੇ\RB ਸ਼ੁਰੂ\V_VM ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED14	ਜੋ\PR_PRL ਬਾਅਦ\RB ਵਿੱਚ\PSP ਲੱਤਾਂ,\N_NN ਬਾਹਾਂ\N_NN ਤੇ\CC_CCD ਪੇਟ\N_NN ਵਿੱਚ\PSP ਪਾਣੀ\N_NN ਜਮਾ\V_VM ਹੋਣ\V_VM_VNF ਦੇ\PSP ਰੂਪ\N_NN ਵਿੱਚ\PSP ਦਿਖਾਈ\V_VM ਦਿੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED15	ਦੋਵਾਂ\QT_QTF ਗੁਰਦਿਆਂ\N_NN ਦਾ\PSP 20\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਹਿੱਸਾ\N_NN ਵੀ\RP_RPD ਠੀਕ\N_NN ਕੰਮ\N_NN ਕਰਦਾ\V_VM_VF ਰਹੇ\V_VM ਤਾਂ\RP_RPD ਆਦਮੀ\N_NN ਸਹੀ-ਸਲਾਮਤ\RB ਰਹਿੰਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED16	ਪਰ\CC_CCD ਇਸ\PR_PRP ਤੋਂ\PSP ਵੱਧ\RD_PUNC ਨੁਕਸਾਨੇ\N_NN ਗਏ\V_VM ਗੁਰਦਿਆਂ\N_NN ਵਾਲੇ\PSP ਵਿਅਕਤੀ\N_NN ਬਾਰੇ\N_NN ਕਿਹਾ\V_VM ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਸ\DM_DMD ਦੇ\PSP ਗੁਰਦੇ\N_NN ਫੇਲ\N_NN ਹੋ\V_VAUX ਗਏ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED17	ਇਸ\DM_DMD ਪੜਾਅ\N_NN ਨੂੰ\PSP ਯੂਰੀਮੀਆ\N_NNP ਕਿਹਾ\V_VM ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED18	ਇਸ\DM_DMD ਦੌਰਾਨ\V_VM_VF ਭੁੱਖ\JJ ਘਟ\RB ਜਾਂਦੀ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED19	ਥਕਾਵਟ\JJ ਤੇ\CC_CCD ਕਮਜ਼ੋਰੀ\JJ ਰਹਿੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED20	ਜਦੋਂ\PR_PRL ਗੁਰਦੇ\N_NN ਬਿਲਕੁਲ\N_NN ਹੀ\RP_RPD ਕੰਮ\N_NN ਕਰਨਾ\V_VM_VNG ਬੰਦ\N_NN ਕਰ\V_VM ਦੇਣ\V_VM_VNG ਤਾਂ\RP_RPD ਇਸ\PR_PRP ਆਖ਼ਰੀ\N_NN ਸਟੇਜ\N_NN ਨੂੰ\PSP End\RD_RDF stage\RD_RDF Renel\RD_RDF Disease\RD_RDF ਕਿਹਾ\V_VM ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED21	ਇਸ\PR_PRP ਦੇ\PSP ਕਈ\QT_QTF ਕਾਰਨ\N_NN ਹਨ\V_VAUX ਜਿਵੇਂ\N_NN ਸ਼ੂਗਰ\N_NNP ਰੋਗ\N_NN ਕਰਕੇ\V_VM_VF ਗੁਰਦਿਆਂ\PR_PRP ਦਾ\PSP ਨੁਕਸਾਨਿਆ\RB ਜਾਣਾ,\V_VM_VNG ਗੁਰਦਿਆਂ\N_NNP ਦੀ\PSP ਸੋਜ\N_NN ਲੰਮੇ\V_VM_VF ਸਮੇਂ\N_NN ਤੋਂ\PSP ਹਾਈ\N_NN ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਅਤੇ\CC_CCD ਗੁਰਦੇ\N_NN ਦਾ\PSP ਹੀ\RP_RPD ਇੱਕ\QT_QTC ਹੋਰ\N_NN ਰੋਗ\N_NN Polycystic\RD_RDF Kidney\RD_RDF ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਫੇਲ\N_NN ਹੋ\V_VAUX ਜਾਣ\N_NN ’ਤੇ\CC_CCD ਗੁਰਦਾ\N_NN ਬਦਲੀ\N_NN ਕਰਵਾਉਣ\V_VM_VNG ਤਕ\N_NN ਨਕਲੀ\N_NN ਗੁਰਦੇ\N_NN ਦਾ\PSP ਸਹਾਰਾ\N_NN ਲੈਣਾ\V_VM_VNG ਪੈਂਦਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED22	ਇਹ\DM_DMD ਇੱਕ\QT_QTC ਮਸ਼ੀਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED23	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਡਾਇਲਸਿਸ\N_NN ਮਸ਼ੀਨ\N_NN ਆਖਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED24	ਰੋਗੀ\N_NN ਦੀ\PSP ਨਾੜੀ\N_NN ਕੱਟ\N_NN ਕੇ\V_VM_VNF ਸਰੀਰ\N_NN ਦੇ\PSP ਖ਼ੂਨ\N_NN ਨੂੰ\PSP ਪਲਾਸਟਿਕ\N_NN ਦੀਆਂ\PSP ਨਾਲੀਆਂ\N_NN ਰਾਹੀਂ\N_NN ਇਸ\PR_PRF ਮਸ਼ੀਨ\N_NN ’ਚੋਂ\PSP ਲੰਘਾਇਆ\V_VM ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED25	ਸਾਫ਼\JJ ਕੀਤਾ\V_VM ਖ਼ੂਨ\N_NN ਵਾਪਸ\RB ਸਰੀਰ\N_NN ’ਚ\PSP ਪਾ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED26	ਇਸ\PR_PRP ਵਿਧੀ\N_NN ਨਾਲ\PSP ਖ਼ੂਨ\N_NN ਅੰਦਰਲੇ\RB ਫ਼ਾਲਤੂ\N_NN ਅਤੇ\CC_CCD ਜ਼ਹਿਰੀਲੇ\JJ ਤੱਤ\N_NN ਤੇ\CC_CCD ਵਾਧੂ\N_NN ਪਾਣੀ\N_NN ਖਿੱਚ\N_NN ਲਿਆ\V_VM ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED27	ਡਾਇਲਸਿਸ\N_NN ਦੀ\PSP ਜ਼ਰੂਰਤ\N_NN ਕਦੋਂ\PR_PRQ ਪੈਂਦੀ\V_VM ਹੈ\V_VAUX ?\RD_PUNC
+PBHED28	1.\QT_QTC ਅਚਾਨਕ\RB ਗੁਰਦੇ\N_NNP ਫੇਲ\N_NN ਹੋਣ,\V_VM_VNG ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਇੱਕਦਮ\RB ਘਟਣ\QT_QTF ਕਰਕੇ\V_VM_VNF (ਗੁਰਦਿਆਂ\N_NN ਨੂੰ\PSP ਖ਼ੂਨ\N_NN ਦੀ\PSP ਸਪਲਾਈ\N_NN ਬੇਹੱਦ\JJ ਘੱਟ\QT_QTF ਹੋ\V_VAUX ਜਾਣਾ)\V_VM_VNG ਗੁਰਦੇ\N_NN ਕੰਮ\N_NN ਨਹੀਂ\RP_NEG ਕਰ\V_VM ਸਕਦੇ,\V_VM ਉਂਜ\N_NN ਇਹ\DM_DMD ਗੁਰਦਿਆਂ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM ।\RD_PUNC
+PBHED29	ਅਜਿਹਾ\RB ਦੁਰਘਟਨਾਵਾਂ\N_NN ਦੌਰਾਨ\N_NN ਜਾਂ\CC_CCD ਕਿਸੇ\PR_PRQ ਬੀਮਾਰੀ\N_NN ਕਰਕੇ\V_VM_VNF ਸਰੀਰ\N_NN ’ਚੋਂ\PSP ਵਧੇਰੇ\QT_QTF ਖ਼ੂਨ\N_NN ਵਹਿ\V_VM ਜਾਣ\V_VM_VF ਕਾਰਨ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED30	2.\QT_QTC ਗੁਰਦਿਆਂ\N_NN ਦੇ\PSP ਰੋਗ\N_NN ਕਾਰਨ\N_NN ਇਹਨਾਂ\PR_PRL ਦੇ\PSP ਫੇਲ\N_NN ਹੋਣ\V_VM_VNG ’ਤੇ\CC_CCD ਜਦੋਂ\PR_PRL ਖ਼ੂਨ\N_NN ਵਿੱਚ\PSP ਕ੍ਰੀਏਟੀਨੀਨ\N_NN ਦਾ\PSP ਪੱਧਰ\N_NN 7\QT_QTC ਮਿਲੀਗ੍ਰਾਮ\N_NN ਤੋਂ\PSP ਉੱਪਰ\RB ਪੁੱਜ\N_NN ਜਾਵੇ\V_VM ।\RD_PUNC
+PBHED31	3.\QT_QTC ਖ਼ੂਨ\N_NN ਵਿੱਚ\PSP ਯੂਰੀਆ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN 250\QT_QTC ਮਿਲੀਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀਸ਼ਤ\N_NN ਤੋਂ\PSP ਵਧ\QT_QTC ਜਾਣ\V_VM_VNG ’ਤੇ\CC_CCD ।\RD_PUNC
+PBHED32	4.\QT_QTC ਗੁਰਦਾ\N_NN ਰੋਗੀ\N_NN ਨੂੰ\PSP ਉਲਟੀਆਂ\N_NN ਸ਼ੁਰੂ\V_VM ਹੋ\V_VAUX ਜਾਣ\V_VM_VNG ਅਤੇ\CC_CCD ਉਲਟ-ਪੁਲਟ\RB ਗੱਲਾਂ\N_NN ਕਰਨ\V_VM ਲੱਗ\V_VM ਜਾਣ\V_VM_VF ’ਤੇ\DM_DMQ ।\RD_PUNC
+PBHED33	ਇਸ\PR_PRP ਨੂੰ\PSP ਯੂਰੀਮਿਕ\N_NN ਕੋਮਾ\N_NN ਦੀ\PSP ਸਟੇਜ\N_NN ਕਿਹਾ\N_NN ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED34	5.\QT_QTC ਫੇਫੜਿਆਂ\N_NN ਵਿੱਚ\PSP ਪਾਣੀ\N_NN ਜਮਾਂ\N_NN ਹੋ\V_VAUX ਜਾਣ\V_VM ਕਰਕੇ\V_VM_VNF ਸਾਹ\N_NN ਲੈਣਾ\V_VM_VINF ਔਖਾ\JJ ਹੋ\V_VAUX ਜਾਣ\V_VM ’ਤੇ\CC_CCD ।\RD_PUNC
+PBHED35	ਗੁਰਦੇ\N_NN ਬਦਲਣਾ\V_VM_VINF :-ਗੁਰਦਾ\N_NN ਦਾਨ\N_NN ਦੇਣ\V_VM ਅਤੇ\CC_CCD ਲੈਣ\V_VM ਵਾਲੇ\PSP ਵਿਅਕਤੀ\N_NN ਦੇ\PSP ਖ਼ੂਨ\N_NN ਤੇ\CC_CCD ਤੰਤੂਆਂ\N_NN ਦੀ\PSP ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਮੈਚਿੰਗ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED36	ਜੇ\CC_CCS ਇਹਨਾਂ\PR_PRF ਦਾ\PSP ਠੀਕ\N_NN ਮੇਲ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM ਤਾਂ\CC_CCD ਗੁਰਦਾ\N_NN ਲੈਣ\V_VM ਵਾਲੇ\PSP ਦਾ\PSP ਸਰੀਰ\N_NN ਨਵੇਂ\N_NN ਗੁਰਦੇ\N_NN ਨੂੰ\PSP ਨਕਾਰ\N_NN ਦਿੰਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED37	ਇੰਨੇ\QT_QTF ਵੱਡੇ\QT_QTC ਅਪਰੇਸ਼ਨ\N_NN ਦਾ\PSP ਫ਼ਾਇਦਾ\JJ ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM ।\RD_PUNC
+PBHED38	ਸਕੇ\N_NN ਭੈਣ-ਭਰਾ\N_NN ਜਾਂ\CC_CCD ਮਾਂ-ਪਿਓ\N_NN ਦੇ\PSP ਗੁਰਦਿਆਂ\N_NN ਅਤੇ\CC_CCD ਤੰਤੂਆਂ\N_NN ਦਾ\PSP ਪੂਰਾ\N_NN ਮੇਲ\N_NN ਆਸਾਨੀ\N_NN ਨਾਲ\PSP ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED39	ਅੰਗ\N_NN ਬਦਲਣ\V_VM ਵਿੱਚ\PSP ਅੰਗਦਾਨੀਆਂ\N_NN ਨਾਲ\PSP ਹੇਰਾਫੇਰੀ\N_NN ਹੋਣ\V_VM ਕਾਰਨ\N_NN ਸਰਕਾਰ\N_NN ਨੂੰ\PSP ਇਸ\PR_PRL ਸਬੰਧੀ\N_NN ਸਖ਼ਤ\N_NN ਕਾਨੂੰਨ\N_NN ਬਣਾਉਣਾ\V_VM_VINF ਪਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED40	ਇਹ\DM_DMD ਹੈ\V_VAUX -\RD_PUNC ਐਕਟ\N_NN ਨੰਬਰ\N_NN 42,\QT_QTC The\RD_RDF Transplantation\RD_RDF of\RD_RDF Human\RD_RDF Organs\RD_RDF Act\RD_RDF 1994\QT_QTO .\RD_PUNC
+PBHED41	ਇਸ\PR_PRP ਐਕਟ\N_NN ਵਿੱਚ\PSP ਸਾਲ\N_NN 2009\QT_QTO ਵਿੱਚ\PSP ਸੋਧ\N_NN ਕੀਤੀ\V_VM ਗਈ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBHED42	ਅੰਗਦਾਨੀਆਂ\N_NN ਦੀ\PSP ਇੰਟਰਵਿਊ\N_NN ਲਈ\PSP ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED43	ਪੂਰੀ\N_NN ਤਸੱਲੀ\N_NN ਹੋਣ\V_VM_VF ਤੇ\CC_CCD ਸਰਕਾਰੀ\N_NN ਮਨਜ਼ੂਰੀ\N_NN ਮਿਲਣ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB ਹੀ\RP_RPD ਦਾਨੀ\N_NN ਦਾ\PSP ਅੰਗ\N_NN (ਗੁਰਦਾ)\N_NN ਕੱਢਿਆ\V_VM_VF ਜਾ\CC_CCS ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED44	ਅਪਰੇਸ਼ਨ\N_NN ਕਰਕੇ\V_VM_VNF ਦਾਨ\N_NN ਕਰਨ\V_VM ਵਾਲੇ\PSP ਦਾ\PSP ਗੁਰਦਾ\N_NN ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਰੋਗੀ\N_NN ਦੇ\PSP ਪੇਟ\N_NN ਅੰਦਰ\RB ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਖ਼ੂਨ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਅਤੇ\CC_CCD ਪਿਸ਼ਾਬ-ਨਾਲੀਆਂ\N_NN ਨੂੰ\PSP ਜੋੜ\N_NN ਦਿੱਤਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED45	ਜੇ\CC_CCS ਸਭ\QT_QTF ਕੁਝ\QT_QTC ਠੀਕ\N_NN ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCS ਕੁਝ\QT_QTC ਮਿੰਟਾਂ\N_NN ਬਾਅਦ\RB ਹੀ\RP_RPD ਪਿਸ਼ਾਬ\N_NN ਬਣਨਾ\V_VM_VINF ਸ਼ੁਰੂ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED46	ਪੂਰਾ\N_NN ਮੇਲ\N_NN ਖਾਂਦਾ\N_NN ਗੁਰਦਾ\N_NN ਕਈ\QT_QTC ਵਾਰ\RB ਸਾਲਾਂਬੱਧੀ\N_NN ਚੱਲ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED47	ਵਿਅਕਤੀ\N_NN ਆਪਣੇ\PR_PRF ਰੋਜ਼ਾਨਾ\N_NN ਦੇ\PSP ਕੰਮ\N_NN ਬਿਨਾਂ\N_NN ਕਿਸੇ\PR_PRQ ਮੁਸ਼ਕਲ\JJ ਤੋਂ\PSP ਕਰਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED48	ਡਾਇਲਸਿਸ\N_NN ਅਤੇ\CC_CCD ਗੁਰਦਾ\N_NN ਬਦਲਣ\V_VM_VF ’ਤੇ\CC_CCD ਕਾਫੀ\QT_QTF ਖ਼ਰਚਾ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED49	ਜੇ\CC_CCS ਅਚਾਨਕ\N_NN ਦੁਰਘਟਨਾ\V_VM_VINF ਦੌਰਾਨ\N_NN ਦਿਮਾਗ਼\N_NN ਪੂਰੀ\QT_QTF ਤਰਾਂ\PSP ਨੁਕਸਾਨਿਆ\V_VM_VF ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBHED50	ਬਾਕੀ\N_NN ਅੰਗ\N_NN (\RD_SYM ਦਿਲ,\N_NNP ਗੁਰਦੇ,\N_NNP ਫੇਫੜੇ,\N_NNP ਜਿਗਰ\N_NNP )\RD_SYM ਕੰਮ\N_NN ਕਰਦੇ\V_VM ਰਹਿਣ\V_VM_VINF ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਨੂੰ\PSP ‘ਬਰੇਨ\N_NN ਡੈੱਥ’\N_NN ਕਿਹਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED51	ਅਜਿਹੇ\CC_CCS ਵਿਅਕਤੀ\N_NN ਦੇ\PSP ਰਿਸ਼ਤੇਦਾਰ\N_NN ਸਵੈ-ਇੱਛਾ\JJ ਨਾਲ\PSP ਜੇ\CC_CCS ਆਪਣੇ\PR_PRF ਸਬੰਧੀ\N_NN ਦਾ\PSP ਸਰੀਰ\N_NN ਦਾਨ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\RP_RPD ਉਸ\PR_PRP ਦੀਆਂ\PSP ਅੱਖਾਂ,\N_NNP ਜਿਗਰ\N_NNP ਤੇ\CC_CCD ਗੁਰਦੇ\N_NNP ਕਿਸੇ\PR_PRQ ਲੋੜਵੰਦ\N_NN ਦੇ\PSP ਕੰਮ\N_NN ਆ\V_VM_VF ਜਾਂਦੇ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED52	ਗੁਰਦੇ\N_NNP ਫੇਲ\N_NN ਹੋਣ\V_VM ਦਾ\PSP ਕਾਰਨ\N_NN ਬਣਨ\V_VM ਵਾਲੇ\PSP ਵਾਲੇ\N_NN ਕਈ\QT_QTF ਰੋਗ\N_NN ਅਜਿਹੇ\CC_CCS ਹੁੰਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBHED53	ਜਿੰਨਾਂ\PR_PRL ਵਿੱਚ\PSP ਨਵਾਂ\N_NN ਗੁਰਦਾ\N_NNP ਨਹੀਂ\RP_NEG ਲਗਾਇਆ\V_VM_VF ਜਾ\CC_CCS ਸਕਦਾ\V_VM_VF ਜਾਂ\CC_CCD ਜਿੰਨਾਂ\PR_PRP ਨੂੰ\PSP ਗੁਰਦਾ\N_NNP ਬਦਲਵਾਉਣ\V_VM ਨਾਲ\PSP ਕੋਈ\PR_PRQ ਫ਼ਾਇਦਾ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM ।\RD_PUNC
+PBHED54	*\RD_SYM ਬਿਰਧ\N_NN ਅਵਸਥਾ\N_NN ਵਾਲੇ\PSP ਗੁਰਦੇ\N_NN ਦੇ\PSP ਰੋਗੀ\N_NN |\RD_PUNC
+PBHED55	*\RD_SYM ਗੁਰਦਾ\N_NN ਰੋਗ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\RB ਕਿਸੇ\PR_PRF ਕੈਂਸਰ\N_NN ਦਾ\PSP ਹੋਣਾ\V_VM_VINF |\RD_PUNC
+PBHED56	*\RD_SYM ਫੇਫੜਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN ਹੋਣਾ\V_VM_VINF ਜਾਂ\CC_CCD |\RD_PUNC
+PBHED57	*\RD_SYM ਦਿਲ\N_NN ਜਾਂ\CC_CCD ਦਿਮਾਗ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN ਹੋਣਾ\V_VM_VINF |\RD_PUNC
+PBHED58	*\RD_SYM ਪਹਿਲਾ\QT_QTO ਐਂਚ.ਆਈ.ਵੀ.\N_NN ਪਾਜਿਟਿਵ\N_NN ਕੇਸਾਂ\N_NN ਦੇ\PSP ਕਿਡਨੀ\N_NN -\RD_PUNC ਫੇਲ\N_NN -\RD_PUNC ਰੋਗੀਆਂ\N_NN ਬਾਰੇ\N_NN ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM ਸੀ\V_VAUX |\RD_PUNC
+PBHED59	ਕਿ\CC_CCS ਗੁਰਦਾ\N_NN ਬਦਲਾਉਣ\V_VM_VF ਦਾ\PSP ਕੋਈ\DM_DMD ਫ਼ਾਇਦਾ\N_NN ਨਹੀਂ\RP_NEG ਪਰ\CC_CCD ਹੁਣ\N_NN ਕਈ\DM_DMD ਖੋਜੀਆਂ\N_NN ਨੇ\PSP ਸਲਾਹ\N_NN ਦਿੱਤੀ\V_VM ਹੈ\V_VAUX ਕਿ\CC_CCS ਗੁਰਦਾ\N_NN ਬਦਲਣ\N_NN ਦੇ\PSP ਬਾਅਦ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ਜਾਣ\V_VM_VF ਵਾਲੀਆਂ\N_NN immuno\RD_RDF supression\RD_RDF ਦਵਾਈਆਂ\V_VM_VF ਤੇ\CC_CCD ਏਡਜ\N_NN ਦੀਆਂ\PSP ਐਂਟੀ-ਰਿਟਰਾਇਵਲ\N_NN ਦਵਾਈਆਂ\N_NN ਐਚ.ਆਈ.ਵੀ\N_NN ਤੇ\CC_CCD ਸੀ.ਡੀ.\N_NN ਸੈੱਲਾਂ\N_NN ਦੀ\PSP ਗਿਣਤੀ\QT_QTF ਤੇ\CC_CCD ਚੰਗਾਂ\JJ ਅਸਰ\N_NN ਪਾਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED60	ਗੁਰਦਿਆਂ\N_NN ਦੀਆਂ\PSP ਵੀ\RP_RPD ਕਈ\DM_DMD ਅਜਿਹੀਆਂ\PR_PRF ਬੀਮਾਰੀਆਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED61	ਜਿੰਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਜੇ\CC_CCS ਇਹ\CC_CCD ਅੰਗ\N_NN ਬਦਲਵਾ\RB ਲਿਆ\V_VM_VF ਜਾਵੇ\V_VM ਤਾਂ\RP_RPD ਨਵੇਂ\N_NN ਗੁਰਦੇ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਉਹੀ\CC_CCD ਬੀਮਾਰੀ\N_NN ਵਿਕਸਤ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED62	ਇਸ\PR_PRP ਲਈ\PSP ਅਜਿਹੇ\DM_DMR ਕੇਸਾਂ\N_NN ਵਿੱਚ\PSP ਗੁਰਦੇ\N_NN ਨੂੰ\PSP ਬਦਲਵਾਉਣ\RB ਦੀ\PSP ਕੋਈ\DM_DMD ਤੁਕ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM ।\RD_PUNC
+PBHED63	ਅਕਸਰ\JJ ਸ਼ਾਕਾਹਾਰੀ\N_NN ਅਤੇ\CC_CCD ਮਾਸਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਬਾਰੇ\N_NN ਵਿਚਾਰ-ਚਰਚਾ\N_NN ਪੜਨ\V_VM_VF -\RD_PUNC ਸੁਣਨ\V_VM_VF ਨੂੰ\PSP ਮਿਲਦੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED64	ਕੁਝ\DM_DMD ਲੋਕ\N_NN ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਨੂੰ\PSP ਸਹੀ\N_NN ਮੰਨਦੇ\V_VM ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਕੁਝ\QT_QTF ਮਾਸਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਨੂੰ\PSP ਤਰਜੀਹ\JJ ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED65	ਇਹਨਾਂ\PR_PRP ਦੋਵਾਂ\N_NN ਬਾਰੇ\N_NN ਅਕਸਰ\N_NN ਮਨ\N_NN ਵਿੱਚ\N_NN ਕਈ\QT_QTF ਸਵਾਲ\N_NN ਪੈਦਾ\V_VM_VF ਹੁੰਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED66	ਮਾਸਾਹਾਰੀ\N_NN ਅਤੇ\CC_CCD ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਬਾਰੇ\CC_CCD ਵਿਸਥਾਰ\N_NN ਵਿੱਚ\PSP ਜਾਨਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED67	ਤਾਂ\RP_RPD ਕਿ\CC_CCS ਇਹ\DM_DMD ਫ਼ੈਸਲਾ\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\CC_CCD ਸਕੇ\N_NN ਕਿ\CC_CCS ਸਾਡੇ\PR_PRL ਲਈ\PSP ਇਹਨਾਂ\PR_PRP ’ਚੋਂ\PSP ਕਿਹੜਾ\PR_PRQ ਗੁਣਕਾਰੀ\N_NN ਹੈ\V_VAUX ?\RD_PUNC
+PBHED68	ਮਾਸਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਦੀਆਂ\PSP ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ\JJ :\RD_PUNC *\RD_PUNC ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ,\N_NN ਭਾਵ\JJ ਮਾਸ,\N_NN ਅੰਡੇ\N_NN ਅਤੇ\CC_CCD ਮੱਛੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕਰਨ\V_VM ਨਾਲ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਲੋੜੀਂਦੇ\N_NN ਪੌਸ਼ਟਿਕ\N_NN ਤੱਤ\N_NN ਮਿਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED69	ਇਹਨਾਂ\PR_PRP ਸੋਮਿਆਂ\N_NN ਤੋਂ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੋਣ\N_NN ਵਾਲੀ\PSP ਪ੍ਰੋਟੀਨ\N_NN ਨੂੰ\PSP ‘ਉੱਤਮ\JJ ਪ੍ਰੋਟੀਨ’\N_NN ਕਿਹਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED70	ਕਿਉਂ\PR_PRQ ਕਿ\CC_CCS ਇਹਨਾਂ\PR_PRP ਤੋਂ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੋਣ\N_NN ਵਾਲੀ\PSP ਪ੍ਰੋਟੀਨ\N_NN ਤੋਂ\PSP ਸਰੀਰ\N_NN ਲਈ\PSP ਜ਼ਰੂਰੀ\N_NN ਅਮੀਨੋ\N_NN ਐਸਿਡ\N_NN ਮਿਲ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED71	ਜਦਕਿ\CC_CCS ਸ਼ਾਕਾਹਾਰੀ\N_NN ਸੋਮਿਆਂ\N_NN ਤੋਂ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੋਣ\N_NN ਵਾਲੀ\PSP ਪ੍ਰੋਟੀਨ\N_NN ਵਿੱਚ\PSP ਅਕਸਰ\N_NN ਇੱਕ\N_NN ਜਾਂ\CC_CCD ਦੋ\QT_QTC ਅਮੀਨੋ\N_NN ਐਸਿਡਾਂ\N_NN ਦੀ\PSP ਘਾਟ\QT_QTC ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED72	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VINF ਅਜਿਹੀ\DM_DMR ਪ੍ਰੋਟੀਨ\N_NN ਨੂੰ\PSP ‘ਅਸੰਪੂਰਨ\N_NN ਪ੍ਰੋਟੀਨ’\N_NN ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED73	*\RD_PUNC ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੀ\PSP ਦੂਜੀ\RB ਵਿਸ਼ੇਸ਼ਤਾ\JJ ਇਹ\DM_DMD ਹੈ\V_VAUX |\RD_PUNC
+PBHED74	ਕਿ\CC_CCS ਇਸ\PR_PRP ਤੋਂ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੋਣ\N_NN ਵਾਲੇ\PSP ਪੌਸ਼ਟਿਕ\N_NN ਤੱਤ\N_NN ਸਰੀਰ\N_NN ਵੱਲੋਂ\PSP ਆਸਾਨੀ\N_NN ਨਾਲ\PSP ਹਜ਼ਮ\JJ ਕੀਤੇ\V_VM ਜਾ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED75	ਪਰ\CC_CCS ਸ਼ਾਕਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਪੂਰਨ\N_NN ਰੂਪ\N_NN ’ਚ\PSP ਅਜਿਹਾ\DM_DMR ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED76	*\RD_PUNC ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਕਾਰਬੋਜ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਨਾਮਾਤਰ\RP_NEG ਹੁੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED77	ਇਸ\PR_PRP ਲਈ\PSP ਮਾਸਾਹਾਰੀ\JJ ਪਦਾਰਥਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਉਹਨਾਂ\PR_PRP ਲਈ\PSP ਕਾਫ਼ੀ\QT_QTF ਲਾਭਦਾਇਕ\JJ ਹੈ\V_VAUX |\RD_PUNC
+PBHED78	ਜਿਹੜੇ\PR_PRL ਆਪਣਾ\PR_PRF ਭਾਰ\N_NN ਘਟਾਉਣਾ\V_VM_VINF ਚਾਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED79	ਜ਼ਿਆਦਾ\QT_QTF ਕਾਰਬੋਜ\N_NN ਵਾਲੇ\PSP ਪਦਾਰਥਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਾਲ\PSP ਭਾਰ\N_NN ਵਿੱਚ\PSP ਵਾਧਾ\QT_QTF ਹੋਣ\N_NN ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED80	*\RD_PUNC ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਖਣਿਜ\N_NN ਪਦਾਰਥ\N_NN ਜਿਵੇਂ\N_NN ਲੋਹਾ\N_NN ਅਤੇ\CC_CCD ਵਿਟਾਮਿਨ-\N_NN ਏ\N_NN ਕਾਫ਼ੀ\QT_QTF ਮਾਤਰਾ\N_NN ਵਿੱਚ\PSP ਹੁੰਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBHED81	ਜੋ\CC_CCS ਸਰੀਰ\N_NN ਵੱਲੋਂ\PSP ਆਸਾਨੀ\N_NN ਨਾਲ\PSP ਹਜ਼ਮ\N_NN ਕਰ\V_VM ਲਏ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED82	ਸ਼ਾਕਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਵਿਟਾਮਿਨ\N_NN -\RD_PUNC ਏ\N_NN ਦੀ\PSP ਬਜਾਇ\CC_CCS ਕੈਰੋਟੀਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED83	ਜੋ\CC_CCS ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਜਾ\RB ਕੇ\V_VM_VINF ਵਿਟਾਮਿਨ\N_NN ‘ਏ’\N_NN ਵਿੱਚ\PSP ਬਦਲ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED84	ਪਰ\CC_CCD ਖ਼ੁਰਾਕ\N_NN ਰਾਹੀਂ\N_NN ਹਾਸਲ\N_NN ਕੀਤੀ\V_VM_VF ਕੈਰੋਟੀਨ\N_NN ਦਾ\PSP ਸਿਰਫ਼\QT_QTF ਚੌਥਾ\QT_QTO ਹਿੱਸਾ\N_NN ਹੀ\RP_RPD ਸਰੀਰ\N_NN ਦੀ\PSP ਵਿਟਾਮਿਨ-\N_NN ਏ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਨੂੰ\PSP ਪੂਰਾ\N_NN ਕਰਨ\V_VM ਦੇ\PSP ਕੰਮ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED85	ਜੇ\CC_CCS 100\QT_QTO ਗ੍ਰਾਮ\N_NN ਕੈਰੋਟੀਨ\N_NN ਖ਼ੁਰਾਕ\N_NN ਰਾਹੀਂ\CC_CCD ਲਈਏ\RB ਤਾਂ\CC_CCD ਵਿਟਾਮਿਨ\N_NN -\RD_PUNC ਏ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿੱਚ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਇਸ\DM_DMD ਤੋਂ\PSP ਸਿਰਫ਼\QT_QTF 25\N_NN ਗ੍ਰਾਮ\N_NN ਵਿਟਾਮਿਨ\N_NN -\RD_PUNC ਏ\N_NN ਪ੍ਰਾਪਤ\N_NN ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED86	ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੇ\PSP ਔਗੁਣ\JJ :ਹਾਲਾਂਕਿ\CC_CCD ਸ਼ਾਕਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\RB ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਕਈ\DM_DMQ ਗੁਣ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBHED87	ਪਰ\CC_CCD ਇਸ\PR_PRP ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਾਲ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਕਈ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਵੀ\RP_RPD ਹੁੰਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBHED88	ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਨਾਲ\PSP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਯੂਰਿਕ\N_NN ਐਸਿਡ\N_NN ਪੈਦਾ\V_VM_VF ਹੋ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC 
+PBHED89	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VINF ਅੰਗਾਂ\N_NN ’ਤੇ\CC_CCD ਸੋਜਿਸ਼\N_NN ਆ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਗੁਰਦੇ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED90	ਅਤੇ\CC_CCD ਗੁਰਦੇ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED91	*\RD_PUNC ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਤੋਂ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੋਣ\N_NN ਵਾਲੀ\PSP ਚਿਕਨਾਈ\N_NN ਵਿੱਚ\PSP ਸੰਤ੍ਰਿਪਤ\N_NN ਫੈਟੀ\N_NN ਤੇਜ਼ਾਬ\N_NN ਜ਼ਿਆਦਾ\QT_QTF ਮਾਤਰਾ\N_NN ਵਿੱਚ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਜੋ\CC_CCS ਸਿਹਤ\N_NN ਲਈ\PSP ਨੁਕਸਾਨਦੇਹ\RP_NEG ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED92	ਇਸ\PR_PRP ਚਿਕਨਾਈ\N_NN ਵਿੱਚ\PSP ਕਲੈਸਟਰੋਲ\N_NN ਦੀ\PSP ਕਾਫ਼ੀ\QT_QTF ਮਾਤਰਾ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED93	ਅਜਿਹੇ\DM_DMR ਪਦਾਰਥਾਂ\N_NN ਦੀ\PSP ਜ਼ਿਆਦਾ\N_NN ਵਰਤੋਂ\N_NN ਨਾਲ\PSP ਦਿਲ\N_NN ਦੇ\PSP ਰੋਗ\N_NN ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED94	*\RD_PUNC ਜਾਨਵਰਾਂ\N_NN ਨੂੰ\PSP ਕਈ\QT_QTF ਤਰਾਂ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਲੱਗ\V_VM ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED95	ਬੀਮਾਰ\JJ ਪਸ਼ੂਆਂ\N_NN ਦਾ\PSP ਮੀਟ\N_NN ਖਾਣ\V_VM_VF ਨਾਲ\PSP ਬੰਦੇ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਬੀਮਾਰੀਆਂ\V_VM_VNF ਲੱਗਣ\N_NN ਦੀ\PSP ਸ਼ੰਕਾ\N_NN ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED96	*\RD_PUNC ਇਸ\PR_PRP ਤੋਂ\PSP ਇਲਾਵਾ\CC_CCD ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਮਹਿੰਗੇ\N_NN ਹੁੰਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED97	ਸ਼ਾਕਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੀਆਂ\PSP ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ\JJ :ਅੱਜ\RB ਕੱਲ\RB ਬਾਹਰਲੇ\RB ਮੁਲਕਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਜ਼ਿਆਦਾਤਰ\QT_QTF ਲੋਕ\N_NN ਸ਼ਾਕਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕਰਨ\V_VM ਲੱਗ\V_VM ਪਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED98	ਵਿਗਿਆਨਕ\N_NN ਖੋਜਾਂ\N_NN ਰਾਹੀਂ\CC_CCD ਸਿੱਧ\N_NN ਹੋ\V_VAUX ਚੁੱਕਿਆ\V_VM_VNF ਹੈ\V_VAUX ਕਿ\CC_CCS ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਸਿਹਤ\N_NN ਲਈ\PSP ਗੁਣਕਾਰੀ\RB ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBHED99	ਇਸ\PR_PRP ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਾਲ\PSP ਕਈ\PR_PRQ ਤਰਾਂ\N_NN ਦੇ\PSP ਰੋਗ\N_NN ਲੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED100	ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਕਰਨ\V_VM ਵਾਲਿਆਂ\PSP ਨੂੰ\PSP ਰਲਾ-ਮਿਲਾ\N_NN ਕੇ\V_VM_VINF ਖਾਣਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM ਹੈ\V_VAUX ਜਿਵੇਂ\N_NN ਦਾਲ-ਚਾਵਲ,\N_NN ਮਿੱਸੇ\N_NN ਆਟੇ\N_NN ਦੀ\PSP ਰੋਟੀ\N_NN ਜਾਂ\CC_CCD ਦਾਲ-ਰੋਟੀ\N_NN ਆਦਿ\PR_PRQ ।\RD_PUNC
+PBHED101	ਇੰਜ\PR_PRP ਭੋਜਨ\N_NN ਦੀ\PSP ਗੁਣਵੱਤਾ\RB ਵਿੱਚ\PSP ਸੁਧਾਰ\N_NN ਆ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED102	ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਮਾਸਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਦੀ\PSP ਤੁਲਨਾ\N_NN ਵਿੱਚ\PSP ਥੋੜੀ\RB ਜ਼ਿਆਦਾ\RB ਮਾਤਰਾ\N_NN ਵਿੱਚ\PSP ਕਰਨੀ\V_VM_VNG ਚਾਹੀਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED103	ਸ਼ਾਕਾਹਾਰੀ\N_NN ਪਦਾਰਥਾਂ\N_NN ਵਿੱਚ\PSP ਕੁਝ\PR_PRQ ਅਜਿਹੇ\DM_DMR ਤੱਤ\N_NN ਮੌਜੂਦ\N_NN ਹੁੰਦੇ\N_NN ਹਨ\V_VAUX ਜੋ\CC_CCS ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਤੱਤਾਂ\N_NN ਦੀ\PSP ਉਪਲਬੱਧਤਾ\N_NN ਨੂੰ\PSP ਘਟਾ\RB ਦਿੰਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBHED104	ਜਿਵੇਂ\PR_PRQ ਅਨਾਜ\N_NN ਵਿੱਚ\PSP ਅੋਗਜਾਲੇਟਸ\N_NN ਤੇ\CC_CCD ਫਾਈਟੇਟਸ\N_NN ਹੋਣ\N_NN ਕਰਕੇ\V_VM_VINF ਕੈਲਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਓਨੀ\N_NN ਮਾਤਰਾ\N_NN ਸਰੀਰ\N_NN ਨੂੰ\PSP ਉਪਲਬਧ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ,ਜਿੰਨੀ\N_NN ਉਸ\PR_PRP ਖ਼ੁਰਾਕੀ\N_NN ਪਦਾਰਥ\N_NN ਵਿੱਚ\PSP ਮੌਜੂਦ\N_NN ਹੁੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED105	ਇਹਨਾਂ\PR_PRL ਦੀ\PSP ਜ਼ਿਆਦਾ\QT_QTF ਮਾਤਰਾ\N_NN ਵਿੱਚ\PSP ਵਰਤੋਂ\N_NN ਕਰਨ\V_VM ਨਾਲ\PSP ਸਰੀਰ\N_NN ਲਈ\PSP ਪੌਸ਼ਟਿਕ\N_NN ਤੱਤਾਂ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਪੂਰੀ\N_NN ਕੀਤੀ\V_VM ਜਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED106	ਦੁੱਧ\N_NN ਅਤੇ\CC_CCD ਦੁੱਧ\N_NN ਤੋਂ\PSP ਬਣੇ\N_NN ਪਦਾਰਥ\N_NN :ਜ਼ਿਆਦਾਤਰ\RB ਸ਼ਾਕਾਹਾਰੀ\JJ ਲੋਕ\N_NN ਦੁੱਧ\N_NN ਅਤੇ\CC_CCD ਦੁੱਧ\N_NN ਤੋਂ\PSP ਬਣੀਆਂ\V_VM_VF ਚੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕਰਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED107	ਇੰਜ\PR_PRL ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਸਰੀਰ\N_NN ਲਈ\PSP ਉੱਤਮ\RB ਕਿਸਮ\N_NN ਦੀ\PSP ਪ੍ਰੋਟੀਨ,\N_NN ਵਿਟਾਮਿਨ-\N_NN ਏ,\N_NN ਵਿਟਾਮਿਨ-\N_NN ਡੀ\N_NN ਅਤੇ\CC_CCD ਕੈਲਸ਼ੀਅਮ\N_NN ਵੀ\RP_RPD ਚੋਖੀ\QT_QTF ਮਾਤਰਾ\N_NN ਪ੍ਰਾਪਤ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED108	ਧਿਆਨਦੇਣਯੋਗ\N_NN ਗੱਲਾਂ\N_NN :-\RD_PUNC ਸਹੀ\N_NN ਢੰਗ\N_NN ਨਾਲ\PSP ਭੋਜਨ\N_NN ਲੈਣ\V_VM_VF ਨਾਲ\PSP ਦਿਲ\N_NN ਦੇ\PSP ਰੋਗ,\N_NN ਹਾਈ\N_NN ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ,\N_NN ਮੋਟਾਪਾ\N_NN ਅਤੇ\CC_CCD ਕਿਸੇ\DM_DMD ਵੀ\RP_RPD ਤਰਾਂ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਹੋਣ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\N_NN ਘਟ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED109	ਕਈ\PR_PRQ ਗੰਭੀਰ\N_NN ਰੋਗਾਂ\N_NN ਦੇ\PSP ਇਲਾਜ\N_NN ਵਿੱਚ\PSP ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਮਦਦਗਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED110	ਅਮਰੀਕੀ\N_NNP ਸੰਸਥਾ\N_NNP ‘ਇੰਟਰਨੈਸ਼ਨਲ\N_NNP ਕਾਂਗ੍ਰੈਸ\N_NNP ਆਫ਼\N_NNP ਵੈਜੀਟੇਰੀਅਨ\N_NNP ਨਿਊਟ੍ਰੀਸ਼ੀਅਨ’\N_NNP ਅਨੁਸਾਰ\N_NN ਨਾੜੀ\N_NN ਪ੍ਰਬੰਧ,\N_NN ਪਾਚਨਤੰਤਰ\N_NN ਅਤੇ\CC_CCD ਗੁਰਦਿਆਂ\N_NN ਲਈ\PSP ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਲਾਭਦਾਇਕ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED111	ਸ਼ਾਕਾਹਾਰੀਆਂ\N_NN ਵਿੱਚ\PSP ਮੌਤ\N_NN ਦਰ\N_NN ਵੀ\RP_RPD ਘੱਟ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED112	ਮਾਸਾਹਾਰੀਆਂ\N_NN ਦੀ\PSP ਤੁਲਨਾ\N_NN ਵਿੱਚ\PSP ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਦਵਾਈਆਂ\N_NN ’ਤੇ\CC_CCD ਨਿਰਭਰਤਾ\N_NN ਘਟ\RB ਜਾਂਦੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED113	ਸ਼ੁੱਧ\N_NN ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਦੇ\PSP ਗੁਣ\N_NN ਹੇਠ\N_NN ਲਿਖੇ\N_NN ਹਨ\V_VAUX :\RD_PUNC *\RD_PUNC \V_VAUX ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਨਾਲ\PSP ਉਮਰ\N_NN ਵਧਦੀ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਸਿਹਤ\N_NN ਵੀ\RP_RPD ਬਿਹਤਰ\N_NN ਹੁੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED114	*\RD_PUNC ਇਹ\DM_DMD ਬੁੱਧੀ\N_NN ਦੇ\PSP ਵਿਕਾਸ\N_NN ਵਿੱਚ\PSP ਮਦਦਗਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED115	*\RD_PUNC ਸ਼ਾਕਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਕੈਂਸਰ\N_NN ਹੋਣ\V_VM_VF ਦੀ\PSP ਸੰਭਾਵਨਾ\V_VM_VINF 40\QT_QTO ਫ਼ੀਸਦੀ\N_NN ਘਟ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED116	ਦਿਲ\N_NN ਦੇ\PSP ਰੋਗਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD 30\QT_QTO ਫ਼ੀਸਦੀ\N_NN ਕਮੀ\RB ਆ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED117	ਸ਼ੂਗਰ\N_NN ਅਤੇ\CC_CCD ਹਾਈ\N_NN ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਦੀ\PSP ਸੰਭਾਵਨਾ\V_VM_VF ਘਟ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED118	ਵੇਜੰਸ\N_NN :-\RD_PUNC ਵੇਜੰਸ\N_NN ਉਹਨਾਂ\PR_PRP ਸ਼ਾਕਾਹਾਰੀਆਂ\JJ ਨੂੰ\PSP ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED119	ਜਿਹੜੇ\PR_PRL ਨਾ\RP_NEG ਤਾਂ\RP_INTF ਜਾਨਵਰਾਂ\N_NN ਤੋਂ\PSP ਮਿਲਣ\N_NN ਵਾਲੀਆਂ\V_VM_VNF ਚੀਜ਼ਾਂ\N_NN ਜਿਵੇਂ\DM_DMQ ਦੁੱਧ\N_NN ਅਤੇ\CC_CCD ਦੁੱਧ\N_NN ਤੋਂ\PSP ਬਣਾਏ\V_VM ਪਦਾਰਥਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED120	ਨਾ\RP_NEG ਹੀ\RP_RPD ਕੀਟ-ਪਤੰਗਿਆਂ\N_NN ਵੱਲੋਂ\PSP ਤਿਆਰ\V_VM ਪਦਾਰਥਾਂ\N_NN ਜਿਵੇਂ\PR_PRQ ਸ਼ਹਿਦ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED121	ਇਸ\PR_PRF ਵਰਗ\N_NN ਦੇ\PSP ਸ਼ਾਕਾਹਾਰੀਆਂ\N_NN ਨੂੰ\PSP ਅਕਸਰ\RB ਕਈ\DM_DMQ ਬੀਮਾਰੀਆਂ\N_NN ਲੱਗ\V_VM ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED122	ਹੁਣ\RB ਤੁਸੀਂ\PR_PRP ਖ਼ੁਦ\PR_PRF ਹੀ\RP_RPD ਫ਼ੈਸਲਾ\N_NN ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਹੋ\V_VAUX ਕਿ\CC_CCS ਰੋਗਾਂ\N_NN ਤੋਂ\PSP ਬਚਾਉਣ\N_NN ਲਈ\PSP ਸ਼ਾਕਾਹਾਰੀ\N_NN ਜਾਂ\CC_CCD ਮਾਸਾਹਾਰੀ\N_NN ਭੋਜਨ\N_NN ’ਚੋਂ\PSP ਕਿਸ\DM_DMQ ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕੀਤੀ\V_VM ਜਾਣੀ\V_VM_VNG ਚਾਹੀਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED123	ਸਾਈਟਾਲੋਜੀ\N_NN ,\RD_PUNC ਮੈਡੀਕਲ\N_NN ਸਾਇੰਸ\N_NN ਦਾ\PSP ਵਿਸ਼ਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED124	ਇਹ\DM_DMD ਕੋਸ਼ਿਕਾਵਾਂ\N_NN ਜਾਂ\CC_CCD ਸੈੱਲਾਂ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ਦਾ\PSP ਇੱਕ\DM_DMQ ਅਜਿਹਾ\DM_DMR ਤਰੀਕਾ\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBHED125	ਜਿਸ\PR_PRL ਦੁਆਰਾ\N_NN ਸਰੀਰ\N_NN ’ਚੋਂ\PSP ਨਿਕਲੇ\V_VM ਜਾਂ\CC_CCD ਕੱਢੇ\V_VM ਗਏ\V_VM ਤਰਲ\N_NN ਪਦਾਰਥਾਂ\N_NN ਵਿਚਲੇ\PSP ਸੈੱਲਾਂ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ਕਰ\V_VM ਕੇ\V_VM_VINF ਇਹ\DM_DMQ ਪਤਾ\N_NN ਲਗਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਬੰਧਤ\N_NN ਅੰਗਾਂ\N_NN ਵਿੱਚ\PSP ਕੀ\PR_PRQ ਰੋਗ\N_NN ਹੈ\V_VAUX ?\RD_PUNC
+PBHED126	ਇਹ\DM_DMD ਰੋਗ\N_NN ,\RD_PUNC ਸਾਧਾਰਨ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਘਾਤਕ\N_NN ਕੈਂਸਰ\N_NN ਵੀ\RP_RPD ।\RD_PUNC
+PBHED127	ਫਾਈਨ\N_NN ਨੀਡਲ\N_NN ਐਸਪੀਰੇਸ਼ਨ\N_NN ਸਾਈਟਾਲੋਜੀ\N_NN ਇਹ\DM_DMD ਜਾਂਚ\N_NN ਵਿਧੀ\N_NN ਦੀ\PSP ਇੱਕ\QT_QTO ਸ਼ਾਖਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED128	ਜਿਸ\PR_PRL ਰਾਹੀਂ\N_NN ਕਿਸੇ\PR_PRQ ਅੰਗ\N_NN ਜਾਂ\CC_CCD ਚਮੜੀ\N_NN ਦੇ\PSP ਹੇਠਾਂ\RB ਬਣੀ\V_VM_VNG ਕਿਸੇ\PR_PRQ ਗੰਢ\N_NN ਜਾਂ\CC_CCD ਗਿਲਟੀ\N_NN ’ਚੋਂ\PSP ਆਮ,\N_NN ਬਰੀਕ\N_NN ਸੂਈ\N_NN ਅਤੇ\CC_CCD ਸਰਿੰਜ\N_NN ਦੀ\PSP ਮਦਦ\N_NN ਨਾਲ\PSP ਕੁਝ\DM_DMQ ਪਦਾਰਥ\N_NN ਬਾਹਰ\RB ਖਿੱਚ\N_NN ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED129	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਸ਼ੀਸ਼ੇ\N_NN ਦੀਆਂ\PSP ਸਲਾਈਡਾਂ\N_NN ਉਪਰ\RB ਲਗਾ\V_VM ਕੇ\V_VM_VINF ਖ਼ੁਰਦਬੀਨ\N_NN ਨਾਲ\PSP ਘੋਖਿਆ\N_NN ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED130	ਮਾਹਰ\JJ ਡਾਕਟਰ\N_NN (ਸਾਈਟੋਪੈਥਾਲੋਜਿਸਟ)\N_NN ਇਸ\PR_PRP ਦੀ\PSP ਖ਼ੁਰਦਬੀਨੀ\N_NN ਜਾਂਚ\N_NN ਕਰ\V_VM ਕੇ\V_VM_VINF ਆਪਣੀ\PR_PRF ਰਾਏ\N_NN ਦਿੰਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBHED131	ਕਿ\CC_CCS ਇਹ\PR_PRP ਰਸੌਲੀ\N_NN ਕਿਸੇ\PR_PRQ ਇਨਫੈਕਸ਼ਨ,\N_NN ਕੈਂਸਰ\N_NN ਅਤੇ\CC_CCD ਜਾਂ\CC_CCD ਫਿਰ\CC_CCD ਕਿਸੇ\PR_PRQ ਹੋਰ\PR_PRL ਕਾਰਨ\N_NN ਕਰਕੇ\V_VM_VINF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED132	ਇਸ\PR_PRP ਜਾਂਚ\N_NN ਨਾਲ\PSP ਕਈ\RB ਵਾਰ\RB ਵੱਡੇ\JJ ਅਪਰੇਸ਼ਨ\N_NN ਤੋਂ\PSP ਬਚਿਆ\N_NN ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਦੋ\QT_QTC ਦੀ\PSP ਬਜਾਏ\N_NN ਇੱਕ\QT_QTC ਹੀ\RP_RPD ਅਪਰੇਸ਼ਨ\N_NN ਕਰਵਾਉਣਾ\V_VM_VNG ਪੈਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED133	ਉਦਾਹਰਨ\DM_DMQ ਲਈ\PSP ਜੇਕਰ\CC_CCS ਕੋਈ\DM_DMQ ਮਰੀਜ਼\N_NN ਧੌਣ\N_NN ਵਿੱਚ\PSP ਇੱਕ\QT_QTC ਜਾਂ\CC_CCD ਇੱਕ\QT_QTC ਤੋਂ\PSP ਵੱਧ\QT_QTF ਗਿਲਟੀਆਂ\N_NN ਹੋਣ\V_VM ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਨਾਲ\PSP ਆਵੇ\V_VM ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਮੁਆਇਨੇ\N_NN ਤੋਂ\PSP ਬਾਅਦ\N_NN ਇਹ\DM_DMD ਸਿੱਟਾ\N_NN ਨਿਕਲੇ\V_VM ਕਿ\CC_CCS ਇਹ\DM_DMD ਗਿਲਟੀਆਂ\N_NN ਟੀ.ਬੀ.\N_NN ਕਾਰਨ\N_NN ਹੀ\RP_RPD ਹਨ\V_VAUX |\RD_PUNC
+PBHED134	ਤਾਂ\RP_RPD ਅਪਰੇਸ਼ਨ\N_NN ਕਰਵਾਉਣ\V_VM ਦੀ\PSP ਲੋੜ\N_NN ਨਹੀਂ\RP_NEG ਪੈਂਦੀ\V_VM_VF ।\RD_PUNC
+PBHED135	ਇਸ\PR_PRP ਰਿਪੋਰਟ\N_NN ਦੇ\PSP ਆਧਾਰ\N_NN ’ਤੇ\CC_CCD ਟੀ.ਬੀ.\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਕੀਤਾ\V_VM ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED136	ਜਿਸ\PR_PRL ਦੀ\PSP ਦਵਾਈ\N_NN ਸਰਕਾਰੀ\N_NN ਹਸਪਤਾਲਾਂ\N_NN ’ਚੋਂ\PSP ਮੁਫ਼ਤ\N_NN ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED137	ਪਰ\CC_CCD ਜੇਕਰ\CC_CCS ਰਿਪੋਰਟ\N_NN ਕੈਂਸਰ\N_NN ਦੀ\PSP ਹੋਵੇ\V_VM ਤਾਂ\RP_RPD ਅੱਗੇ\RB ਇਹ\DM_DMD ਦੇਖਣਾ\V_VM_VNG ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕੈਂਸਰ\N_NN ਇਸੇ\PR_PRP ਗਿਲਟੀ\N_NN ਦਾ\PSP ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਕਿਸੇ\PR_PRQ ਹੋਰ\DM_DMQ ਅੰਗ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦੀਆਂ\PSP ਜੜਾਂ\N_NN ਪਹੁੰਚਣ\V_VM ਕਾਰਨ\N_NN ਇਹ\DM_DMD ਬਣੀ\V_VM_VINF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED138	ਆਮ\RB ਕਰਕੇ\V_VM_VINF ਸਾਈਟਾਲੋਜੀਟੈਸਟ\N_NN ਨਾਲ\PSP ਇਹ\DM_DMD ਵੀ\RP_RPD ਪਤਾ\N_NN ਲੱਗ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED139	ਪਰ\CC_CCD ਜੇਕਰ\CC_CCS ਕੋਈ\DM_DMQ ਸ਼ੱਕ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਦੂਜੇ\RB ਟੈਸਟਾਂ\N_NN (\RD_PUNC ਐਕਸਰੇ,\N_NN ਅਲਟਰਾਸਾਊਂਡ,\N_NN ਖੂਨ\N_NN ,\RD_PUNC ਪਿਸ਼ਾਬ\N_NN ਜਾਂ\CC_CCD ਥੁੱਕ\N_NN ਦੀ\PSP ਜਾਂਚ)\N_NN ਦੁਆਰਾ\PSP ਪਤਾ\N_NN ਲਗਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED140	ਕਿ\CC_CCS ਕਿਹੜੇ\PR_PRQ ਅੰਗ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦੀਆਂ\PSP ਜੜਾਂ\N_NN ਇਹਨਾਂ\PR_PRP ਗਿਲਟੀਆਂ\N_NN ਵਿੱਚ\PSP ਜਮਾਂ\N_NN ਹੋਈਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED141	ਉਸ\PR_PRP ਤੋਂ\PSP ਬਾਅਦ\RB ਹੀ\RP_RPD ਅਗਲਾ\RB ਇਲਾਜ\N_NN ਸ਼ੁਰੂ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED142	ਔਰਤਾਂ\N_NN ਦੀ\PSP ਛਾਤੀ\N_NN ਦੀਆਂ\PSP ਗਿਲਟੀਆਂ\N_NN ,\RD_PUNC ਧੌਣ\N_NN ਦੀਆਂ\PSP ਗਿਲਟੀਆਂ\N_NN ,\RD_PUNC ਗਿੱਲੜ\N_NN ,\RD_PUNC ਪੇਟ\N_NN ਵਿੱਚ\PSP ਕੋਈ\DM_DMQ ਸਖ਼ਤ\N_NN ਗੋਲਾ\N_NN ਜਾਂ\CC_CCD ਚਮੜੀ\N_NN ਦੇ\PSP ਹੇਠਾਂ\RB ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਕਿਤੇ\DM_DMQ ਵੀ\RP_RPD ਕੋਈ\DM_DMQ ਰਸੌਲੀ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ਲਈ\PSP ਸਾਈਟਾਲੋਜੀਕਲ\N_NN ਜਾਂਚ\N_NN ਬਹੁਤ\DM_DMQ ਹੀ\RP_RPD ਫ਼ਾਇਦੇਮੰਦ\JJ ਸਾਬਤ\N_NN ਹੋ\V_VAUX ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED143	ਜਿੰਨਾ\DM_DMD ਚਿਰ\N_NN ਔਰਤਾਂ\N_NN ਦੀ\PSP ਛਾਤੀ\N_NN ਦੀਆਂ\PSP ਗੰਢਾਂ\N_NN ਦੇ\PSP ਨਿਰੀਖਣ\N_NN ਅਤੇ\CC_CCD ਜਾਂਚ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਇਹ\DM_DMD ਸਿੱਧ\N_NN ਨਾ\RP_NEG ਕਰ\V_VM ਲਿਆ\V_VM_VF ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBHED144	ਕਿ\CC_CCS ਇਹ\DM_DMD ਕੈਂਸਰ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ,\RD_PUNC ਇਹਨਾਂ\PR_PRF ਨੂੰ\PSP ਕੈਂਸਰ\N_NN ਹੀ\RP_RPD ਸਮਝਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED145	ਤੇ\CC_CCD ਇਹਨਾਂ\N_NN ਗੰਢਾਂ\N_NN ਦੀ\PSP ਸਾਈਟਾਲੋਜੀਕਲ\N_NN ਜਾਂਚ\N_NN ਕਰਵਾਉਣ\V_VM_VF ਵਿੱਚ\N_NN ਦੇਰ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM ।\RD_PUNC
+PBHED146	ਕੈਂਸਰ\N_NN ਕਿਸੇ\PR_PRQ ਵੀ\RP_RPD ਅੰਗ\N_NN ਦਾ\PSP ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਇਸ\PR_PRL ਦਾ\PSP ਸ਼ੁਰੂ-ਸ਼ੁਰੂ\RB ਵਿੱਚ\PSP ਪਤਾ\N_NN ਲਗਾ\V_VM ਲਿਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਇਲਾਜ\N_NN ਸੰਭਵ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED147	ਐਸਪੀਰੇਸ਼ਨ\N_NN ਸਾਈਟਾਲੋਜੀਕਲ\N_NN ਜਾਂਚ\N_NN ਦੀ\PSP ਵਿਧੀ\N_NN ਤਕਰੀਬਨ\DM_DMQ ਦਰਦ-ਰਹਿਤ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED148	ਪੰਦਰਾਂ-ਵੀਹ\QT_QTC ਮਿੰਟ\N_NN ਬਾਅਦ\RB ਮਰੀਜ਼\N_NN ਘਰ\N_NN ਜਾ\V_VM ਸਕਦਾ\V_VM_VF /\RD_PUNC ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED149	ਸੋਜ\N_NN ਜਾਂ\CC_CCD ਗਿਲਟੀ\N_NN ਵਾਲੇ\PSP ਹਿੱਸੇ\N_NN ਦੀ\PSP ਚਮੜੀ\N_NN ਨੂੰ\PSP ਚੰਗੀ\N_NN ਤਰਾਂ\N_NN ਅਇਓਡੀਨ\N_NN /\RD_PUNC ਸਪਿਰਟ\N_NN ਜਾਂ\CC_CCD ਬੀਟਾਡੀਨ\N_NN ਨਾਲ\PSP ਸਾਫ਼\N_NN ਕੀਤਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED150	ਲੋੜ\N_NN ਪਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਮਾਸ\N_NN ਸਵਾਉਣ\JJ ਵਾਲਾ\PSP ਟੀਕਾ\N_NN ਵੀ\RP_RPD ਲਗਾ\V_VM_VF ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED151	ਗਿਲਟੀ\N_NN ਨੂੰ\PSP ਉਂਗਲਾਂ\N_NN ਵਿੱਚ\PSP ਫਿਕਸ\N_NN ਕਰ\V_VM ਕੇ\V_VM_VINF ਦੂਜੇ\DM_DMQ ਹੱਥ\N_NN ਨਾਲ\PSP ਚਮੜੀ\N_NN ਵਿੱਚੋਂ\PSP ਦੀ\PSP ਬਰੀਕ\JJ ਸੂਈ\N_NN ਗਿਲਟੀ\N_NN ਤਕ\PSP ਭੇਜੀ\V_VM ਜਾਂਦੀ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED152	ਜਿਸ\PR_PRL ਪਿੱਛੇ\RB 10\QT_QTC ਸੀ.\N_NN ਸੀ.\N_NN ਸਰਿੰਜ\N_NN ਲੱਗੀ\V_VM ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED153	ਸਰਿੰਜ\N_NN ਦੇ\PSP ਪਿਸਟਨ\N_NN ਨੂੰ\PSP ਖਿੱਚ\V_VM ਕੇ\V_VM_VINF ਮਨਫ਼ੀ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਬਣਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED154	ਇਸ\PR_PRP ਤਰਾਂ\PSP ਕਰਨ\V_VM ਨਾਲ\PSP ਸੂਈ\N_NN /\RD_PUNC ਸਰਿੰਜ\N_NN ਵਿੱਚ\PSP ਕੁਝ\DM_DMQ ਨਾ\RP_NEG ਕੁਝ\DM_DMQ ਤਰਲ\N_NN ਪਦਾਰਥ\N_NN ਆ\V_VM_VF ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED155	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਸ਼ੀਸ਼ੇ\N_NN ਦੀਆਂ\PSP ਸਲਾਈਡਾਂ\N_NN ’\RD_PUNC ਤੇ\CC_CCD ਲਗਾ\V_VM_VF ਦਿੱਤਾ\V_VM ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED156	ਇਸ\PR_PRP ‘\RD_PUNC ਪਦਾਰਥ\N_NN ’\RD_PUNC ਵਿੱਚ\PSP ਖ਼ੂਨ\N_NN ਅਤੇ\CC_CCD ਗਿਲਟੀ\N_NN ਦੇ\PSP ਸੈੱਲ\N_NN ਮੌਜੂਦ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED157	ਜੇਕਰ\CC_CCS ਕੋਈ\DM_DMQ ਇਨਫੈਕਸ਼ਨ\N_NN ਹੋਵੇ\V_VM ਤਾਂ\RP_RPD ਪੀਕ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED158	ਸਲਾਈਡ\N_NN ਨੂੰ\PSP ਇੱਕ\RB ਖ਼ਾਸ\RB ਦਵਾਈ\N_NN ਵਿੱਚ\PSP ਰੱਖ\N_NN ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED159	ਤਾਂ\RP_RPD ਜੋ\CC_CCS ਉਹ\PR_PRP ਪਦਾਰਥ\N_NN ਸਲਾਈਡ\N_NN ਨਾਲ\PSP ਚੰਬੜ\N_NN ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBHED160	ਰੰਗਾਈ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਇਸ\PR_PRL ਦੀ\PSP ਵਿਸਥਾਰ\N_NN ਸਹਿਤ\N_NN ਖ਼ੁਰਦਬੀਨੀ\N_NN ਜਾਂਚ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED161	ਸੈੱਲਾਂ\N_NN ਅਤੇ\CC_CCD ਹੋਰ\DM_DMQ ਪਦਾਰਥਾਂ\N_NN ਦੇ\PSP ਰੰਗ\N_NN ਦਾ\PSP ਗੂੜਾ\JJ ਜਾਂ\CC_CCD ਫਿੱਕਾ\JJ ਹੋਣਾ\V_VM_VINF ,\RD_PUNC ਸੈੱਲਾਂ\N_NN ਦੀ\PSP ਆਪਸੀ\PR_PRL ਤਰਤੀਬ\N_NN ,\RD_PUNC ਘੱਟ\QT_QTF ਜਾਂ\CC_CCD ਵੱਧ\QT_QTF ਗਿਣਤੀ\N_NN ਅਤੇ\CC_CCD ਵੱਖ-ਵੱਖ\RB ਬੀਮਾਰੀਆਂ\N_NN ਵਿੱਚ\PSP ਐਸਪੀਰੇਸ਼ਨ\N_NN ਦੀ\PSP ਵੱਖ-ਵੱਖ\N_NN ਖ਼ਾਸ\JJ ‘ਪਿਕਚਰ’\N_NN ਹੋਣ\V_VM_VF ’ਤੇ\CC_CCD ਕਿਸੇ\DM_DMQ ਬਿਮਾਰੀ\N_NN ਦੇ\PSP ਹੋਣ\N_NN ਜਾਂ\CC_CCD ਨਾ\RP_NEG ਹੋਣ\N_NN ਬਾਰੇ\N_NN ਪਤਾ\V_VM ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED162	ਪਰ\CC_CCD ਇਹ\DM_DMD ਕੰਮ\N_NN ਸਿਰਫ਼\DM_DMQ ਇਸ\PR_PRL ਖੇਤਰ\N_NN ਦੇ\PSP ਮਾਹਰ\N_NN ਡਾਕਟਰ\N_NN ਹੀ\RP_RPD ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED163	ਜੇਕਰ\CC_CCS ਪੇਟ\N_NN ਦੇ\PSP ਅੰਦਰਲੇ\RB ਅੰਗਾਂ\N_NN ਜਾਂ\CC_CCD ਫੇਫੜਿਆਂ\N_NN ਨਾਲ\PSP ਸਬੰਧਤ\N_NN ਕੋਈ\DM_DMQ ਰਸੌਲੀ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਉਸ\PR_PRP ’ਚੋਂ\PSP ਸੈੱਲ\N_NN ਕੱਢਣ\V_VM ਲਈ\PSP ਲੰਮੀ\N_NN ਸੂਈ\N_NN ਦੀ\PSP ਮਦਦ\N_NN ਲਈ\PSP ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED164	ਜੋ\N_NN ਅਲਟਰਾਸਾਊਂਡ\N_NN ਜਾਂ\CC_CCD ਸੀ.ਟੀ.\N_NN ਸਕੈਨ\N_NN ਦੀ\PSP ਸੇਧ\N_NN ਨਾਲ\PSP ਹਿੱਸੇ\N_NN ਤਕ\N_NN ਪੁੱਜਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED165	ਸਰੀਰ\N_NN ਦੇ\PSP ਵੱਖ-ਵੱਖ\RB ਹਿੱਸਿਆਂ\N_NN ਦੇ\PSP ਸਧਾਰਨ\N_NN ਜਾਂ\CC_CCD ਅਸਾਧਾਰਨ\N_NN ਤਰਲਾਂ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਸਬੰਧਤ\N_NN ਅੰਗਾਂ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਲਗਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED166	ਜਿਵੇਂ\PR_PRQ ਦਿਮਾਗ\N_NN ਅਤੇ\CC_CCD ਇਸ\PR_PRL ਦੀਆਂ\N_NN ਝਿੱਲੀਆਂ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਵਾਸਤੇ\N_NN ਰੀੜ\N_NN ਦੀ\PSP ਹੱਡੀ\N_NN ਦੇ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ,\RD_PUNC
+PBHED167	ਗੁਰਦੇ\N_NN ਜਾਂ\CC_CCD ਮਸਾਨੇ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਲਈ\PSP ਪਿਸ਼ਾਬ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ,\RD_PUNC ਪੇਟ\N_NN ਅਤੇ\CC_CCD ਫੇਫੜਿਆਂ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਵਾਸਤੇ\PSP ਪੇਟ\N_NN ਜਾਂ\CC_CCD ਫੇਫੜਿਆਂ\N_NN ’ਚ\PSP ਪਏ\V_VM ਪਾਣੀ\N_NN ਦੀ\PSP ਸਾਈਟਾਲੋਜੀਕਲ\N_NN ਜਾਂਚ\N_NN ।\RD_PUNC
+PBHED168	ਇਹਨਾਂ\PR_PRL ਤਰਲਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਸੈੱਲ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED169	ਜਿਨਾਂ\DM_DMR ਦੀ\PSP ਜਾਂਚ\N_NN ਕੀਤੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED170	ਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਲਗਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED171	ਪੇਟ,\N_NN ਫੇਫੜਿਆਂ\N_NN ਜਾਂ\CC_CCD ਹੱਡੀਆਂ\N_NN ਦੇ\PSP ਜੋੜਾਂ\N_NN ਦਾ\PSP ਪਾਣੀ\N_NN ਤਾਂ\RP_RPD ਸਿਰਫ਼\DM_DMQ ਇੱਕ\QT_QTC ਦਾਖ਼ਲ\N_NN ਮਰੀਜ਼\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਪ੍ਰਾਪਤ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED172	ਪਰ\CC_CCD ਜਿਨਾਂ\PR_PRF ਰੋਗੀਆਂ\N_NN ਦੇ\PSP ਕੋਈ\DM_DMQ ਗਿਲਟੀ\N_NN ਜਾਂ\CC_CCD ਸੋਜ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਉਹ\PR_PRP ਖ਼ੁਦ\PR_PRP ਪੈਥਾਲੋਜਿਸਟ\N_NN ਕੋਲ\PSP ਜਾ\V_VM ਕੇ\V_VM_VINF ਆਪਣਾ\PR_PRF ਨਿਰੀਖਣ\N_NN ਕਰਵਾ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED173	ਬਰੀਕ\N_NN ਸੂਈ\N_NN ਦੁਆਰਾ\PSP ਕੱਢੇ\V_VM ਗਏ\V_VM ਪਦਾਰਥ\N_NN ਵਿੱਚ\PSP ਸੈੱਲਾਂ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਗਿਲਟੀ\N_NN ਜਾਂ\CC_CCD ਸੋਜ\N_NN ਦੇ\PSP ਆਕਾਰ\N_NN ਮੁਤਾਬਿਕ\N_NN ਬਹੁਤ\DM_DMQ ਥੋੜ\DM_DMQ ਹੀ\RP_RPD ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED174	93\QT_QTC ਤੋਂ\PSP 95\QT_QTC ਮਾਮਲਿਆਂ\N_NN ਵਿੱਚ\PSP ਇਸ\PR_PRP ਵਿਧੀ\N_NN ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਪਤਾ\V_VM ਲੱਗ\N_NN ਹੀ\RP_RPD ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED175	ਬਾਕੀ\N_NN 5\QT_QTC ਤੋਂ\PSP 7\QT_QTC ‚\RD_PUNC ਕੇਸਾਂ\N_NN ਵਿੱਚ\PSP ਸਫ਼ਲਤਾ\N_NN ਨਹੀਂ\RP_NEG ਮਿਲਦੀ\V_VM_VF ਅਤੇ\CC_CCD ਛੋਟਾ\N_NN ਅਪਰੇਸ਼ਨ\N_NN ਕਰਨ\V_VM ਦੀ\PSP ਜ਼ਰੂਰਤ\N_NN ਪੈ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED176	ਕਈ\RB ਵਾਰ\RB ਅਸਿੱਖਿਅਤ\N_NN ਤਕਨੀਸ਼ੀਅਨ\N_NN ਜਾਂ\CC_CCD ਡਾਕਟਰ\N_NN ਕਿਸੇ\PR_PRQ ਡੂੰਘੀ\JJ ਗਿਲਟੀ\N_NN ਤਕ\N_NN ਪਹੁੰਚਦੇ\V_VM_VF ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹਨ\V_VAUX ।\RD_PUNC
+PBHED177	ਇਸ\PR_PRP ਹਾਲਤ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਵਿਧੀ\N_NN ਅਸਫਲ\N_NN ਲੱਗਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED178	ਕੱਲ\N_NN ਮਿਲਾ\V_VM ਕੇ\V_VM_VINF ਜਾਂਚ\N_NN ਅਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਨੂੰ\PSP ਸ਼ੁਰੂ-ਸ਼ੁਰੂ\RB ਵਿੱਚ\PSP ਹੀ\RP_RPD ਲੱਭਣ\N_NN ਦਾ\PSP ਇਹ\DM_DMD ਬਹੁਤ\DM_DMQ ਸੌਖਾ\N_NN ,\RD_PUNC ਸਮਾਂ-ਬਚਾਊ\RB ਅਤੇ\CC_CCD ਦਰਦ-ਰਹਿਤ\RB ਤਰੀਕਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED179	ਭਾਰਤ\N_NNP ਵਿੱਚ\PSP ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਵਾਲੇ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਗਿਣਤੀ\N_NN ਸਭ\DM_DMQ ਤੋਂ\PSP ਵੱਧ\DM_DMQ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED180	ਦੇਸ਼\N_NN ਵਿੱਚ\PSP ਦਸ\QT_QTC ਕੈਂਸਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਵਿੱਚੋਂ\PSP ਚਾਰ\QT_QTC ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED181	ਹਰ\DM_DMQ ਸਾਲ\N_NN ਡੇਢ\QT_QTC ਲੱਖ\V_VM ਦੇ\PSP ਕਰੀਬ\N_NN ਨਵੇਂ\N_NN ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼\N_NN ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED182	ਆਮ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਮੂੰਹ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN 40\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਤੋਂ\PSP ਬਾਅਦ\N_NN ਹੁੰਦਾ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBHED183	ਪਰ\CC_CCD ਅੱਜ-ਕੱਲ\RB ਇਹ\PR_PRP ਨੌਜਵਾਨਾਂ\N_NN ਵਿੱਚ\PSP ਜ਼ਿਆਦਾ\DM_DMQ ਹੋਣ\V_VM ਲੱਗ\V_VM_VF ਪਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED184	ਇਸ\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਸਿਗਰਟ\N_NN ਅਤੇ\CC_CCD ਤੰਬਾਕੂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\RB ਸੰਤੁਲਿਤ\N_NN ਖ਼ੁਰਾਕ\N_NN ਨਾ\RP_NEG ਲੈਣਾ\V_VM_VINF ਵੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBHED185	ਮੂੰਹ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਔਰਤਾਂ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN ਪੁਰਸ਼ਾਂ\N_NN ਵਿੱਚ\PSP ਜ਼ਿਆਦਾ\DM_DMQ ਪਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED186	ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਨਾਲ\PSP ਮੌਤਾਂ\N_NN ਬਾਕੀ\N_NN ਸਾਰੇ\DM_DMQ ਕੈਂਸਰਾਂ\N_NN ਨਾਲੋਂ\PSP ਵੱਧ\QT_QTF ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਕਿਉਂਕਿ\CC_CCS ਇਸ\PR_PRP ਦਾ\PSP ਪਤਾ\N_NN ਬਹੁਤ\DM_DMQ ਦੇਰ\N_NN ਨਾਲ\PSP ਲੱਗਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED187	ਮਰੀਜ਼\N_NN ਆਮ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਦੰਦਾਂ\N_NN ਦੇ\PSP ਡਾਕਟਰ\N_NN ਤੋਂ\PSP ਚੈੱਕਅਪ\N_NN ਲਈ\PSP ਉਦੋਂ\N_NN ਹੀ\RP_RPD ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ,\RD_PUNC
+PBHED188	ਜਦੋਂ\PR_PRL ਮੂੰਹ\N_NN ਵਿੱਚ\PSP ਕਿਸੇ\PR_PRQ ਕਿਸਮ\N_NN ਦਾ\PSP ਦਰਦ\N_NN ਹੋਵੇ\V_VM_VINF ।\RD_PUNC
+PBHED189	ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦੀ\PSP ਸ਼ੁਰੂਆਤ\N_NN ਵਿੱਚ\PSP ਕੋਈ\DM_DMQ ਦਰਦ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED190	ਕੀ\PR_PRQ ਹਨ\V_VAUX ਕਾਰਨ\N_NN ?\RD_PUNC 1.\QT_QTC ਤੰਬਾਕੂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਸਿਗਰਟ\N_NN ,\RD_PUNC ਬੀੜੀ\N_NN ,\RD_PUNC ਗੁਟਕੇ\N_NN ਅਤੇ\CC_CCD ਪਾਨ\N_NN ਮਸਾਲਾ\N_NN ਵਿੱਚ\PSP ਤੰਬਾਕੂ\N_NN ਭਾਰੀ\QT_QTF ਮਾਤਰਾ\N_NN ਵਿੱਚ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED191	ਸਿਗਰਟ\N_NN ਵਿੱਚੋਂ\PSP ਨਿਕਲੀ\V_VM ਗਰਮੀ\N_NN ਮੂੰਹ\N_NN ਦੇ\PSP ਮਾਸ\N_NN ਨੂੰ\PSP ਨੁਕਸਾਨ\N_NN ਪਹੁੰਚਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED192	ਤੰਬਾਕੂ\N_NN ਵਿੱਚ\PSP ਕੈਂਸਰ\N_NN ਬਣਾਉਣ\V_VM_VF ਵਾਲੇ\PSP ਪਦਾਰਥ\N_NN ਮੌਜੂਦ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED193	ਤੰਬਾਕੂ\N_NN ਵਿੱਚ\PSP ਕੈਂਸਰ\N_NN ਪੈਦਾ\V_VM ਕਰਨ\V_VM ਵਾਲੇ\PSP 60\QT_QTC ਤੱਤ\N_NN ਹੁੰਦੇ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED194	2.\QT_QTC ਸ਼ਰਾਬ\N_NN ਦਾ\PSP ਸੇਵਨ\N_NN 90\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਸ਼ਰਾਬ\N_NN ਅਤੇ\CC_CCD ਤੰਬਾਕੂ\N_NN ਦੀ\PSP ਲਤ\N_NN ਲੱਗੀ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED195	ਜਦੋਂ\PR_PRL ਸ਼ਰਾਬ\N_NN ਦਾ\PSP ਸੇਵਨ\N_NN ਬੀੜੀ\N_NN ਜਾਂ\CC_CCD ਜਰਦੇ\N_NN ਨਾਲ\PSP ਕੀਤਾ\V_VM ਜਾਵੇ\V_VM ਤਾਂ\RP_RPD ਕੈਂਸਰ\N_NN ਹੋਣ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\JJ 15\QT_QTC ਗੁਣਾਂ\N_NN ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED196	3.\QT_QTC ਇਨਫੈਕਸ਼ਨ\N_NN ਬੈਕਟੀਰੀਅਲ\N_NN ,\RD_PUNC ਫੰਗਲ\N_NN ਅਤੇ\CC_CCD ਵਾਇਰਲ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਵੀ\RP_RPD ਮੂੰਹ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਕਰ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED197	ਅੱਜ\RB ਕੱਲ\RB ਐੱਚਪੀਵੀ-16\N_NN (ਹਿਊਮਨ\N_NN ਪੈਪੀਲੋਮਾ\N_NN ਵਾਇਰਸ)\N_NN ਮੂੰਹ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਦਾ\PSP ਪ੍ਰਮੁੱਖ\N_NN ਕਾਰਨ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED198	4.\QT_QTC ਅਸੰਤੁਲਿਤ\N_NN ਖ਼ੁਰਾਕ\N_NN ਵਿਟਾਮਿਨ\N_NN -\RD_PUNC ‘ਏ’\N_NN ਅਤੇ\CC_CCD ‘ਸੀ’\N_NN ਦੀ\PSP ਕਮੀ\RB ਕੈਂਸਰ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\JJ ਬਣਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED199	ਹਰੀਆਂ\N_NN ਸਬਜ਼ੀਆਂ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਾ\RP_NEG ਕਰਨਾ\V_VM_VINF ਕੁਪੋਸ਼ਣ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\N_NN ਵਧਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED200	ਸੰਤੁਲਿਤ\N_NN ਖ਼ੁਰਾਕ\N_NN ਲੈਣਾ\V_VM_VINF ਬਹੁਤ\RB ਜ਼ਰੂਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED201	ਅੱਜ\RB ਕੱਲ\RB ਦੀ\PSP ਜੀਵਨ\N_NN ਸ਼ੈਲੀ\N_NN ਵੀ\RP_RPD ਕੈਂਸਰ\N_NN ਦੇ\PSP ਖ਼ਤਰੇ\N_NN ਨੂੰ\PSP ਸੱਦਾ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED202	5.\QT_QTC ਮੂੰਹ\N_NN ਦੀ\PSP ਸਫ਼ਾਈ\JJ ਨਾ\RP_NEG ਰੱਖਣਾ\V_VM_VINF ।\RD_PUNC
+PBHED203	6.\QT_QTC ਦੰਦਾਂ\N_NN ਦੇ\PSP ਖੁਰਦਰੇ\JJ ਹਿੱਸਿਆਂ\N_NN ਦੁਆਰਾ\PSP ਮੂੰਹ\N_NN ਦੇ\PSP ਮਾਸ\N_NN ਨੂੰ\PSP ਨੁਕਸਾਨ\N_NN ਪਹੁੰਚਣਾ\V_VM_VINF ।\RD_PUNC
+PBHED204	ਪਛਾਣ\N_NN ਕਿਵੇਂ\PR_PRQ ਕਰੀਏ\V_VM_VF ?\RD_PUNC
+PBHED205	ਮੂੰਹ\N_NN ਵਿੱਚ\PSP ਕੋਈ\DM_DMQ ਵੀ\RP_RPD ਛਾਲਾ\N_NN ਜਾਂ\CC_CCD ਜ਼ਖ਼ਮ\N_NN ਜਿਹੜਾ\CC_CCS 14\QT_QTC ਦਿਨਾਂ\N_NN ਤਕ\RB ਠੀਕ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM ,\RD_PUNC ਸਬੰਧੀ\N_NN ਅਣਗਹਿਲੀ\N_NN ਨਹੀਂ\RP_NEG ਵਰਤਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਇਹ\DM_DMD ਮੂੰਹ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED206	*\RD_PUNC ਕੀ\PR_PRQ ਹਨ\V_VAUX ਲੱਛਣ\N_NN ?\RD_PUNC
+PBHED207	ਸ਼ੁਰੂਆਤ\N_NN ਵਿੱਚ\PSP ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਲਗਾਉਣਾ\V_VM_VINF ਔਖਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED208	ਹਾਲਾਂਕਿ\PR_PRQ ਦੰਦਾਂ\N_NN ਦੇ\PSP ਮਾਹਰ\N_NN ਡਾਕਟਰ\N_NN ਦੁਆਰਾ\PSP ਕੀਤੇ\V_VM_VF ਚੈੱਕਅਪ\N_NN ਨਾਲ\PSP ਇਸ\DM_DMD ਦਾ\PSP ਪਤਾ\N_NN ਅਸਾਨੀ\N_NN ਨਾਲ\PSP ਲੱਗ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED209	ਜੇਕਰ\CC_CCS ਇਸ\DM_DMD ਦਾ\PSP ਪਤਾ\V_VM ਸ਼ੁਰੂਆਤੀ\N_NN ਪੜਾਅ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਲੱਗ\N_NN ਜਾਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਇਸ\DM_DMD ਦਾ\PSP ਇਲਾਜ\N_NN ਸੰਭਵ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED210	ਆਮ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਮਰੀਜ਼\N_NN ਤੀਜੀ\RB ਜਾਂ\CC_CCD ਚੌਥੀ\RB ਸਟੇਜ\N_NN ਵਿੱਚ\PSP ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਪਹੁੰਚਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਉਦੋਂ\RB ਇਸ\DM_DMD ਦਾ\PSP ਇਲਾਜ\N_NN ਕਰਨਾ\V_VM_VINF ਬੇਹੱਦ\RB ਔਖਾ\JJ ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED211	ਪਹਿਲਾਂ\RB ਇਹ\DM_DMD ਤਕਲੀਫ਼-ਰਹਿਤ\RB ਹੁੰਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED212	ਕੈਂਸਰ\N_NN ਦੇ\PSP ਵਾਧੇ\RB ਨਾਲ\PSP ਇਹ\DM_DMD ਦਰਦਨਾਕ\JJ ਬਣ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED213	ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਇਹ\DM_DMD ਛੋਟੇ\RB ਆਕਾਰ\N_NN ਦਾ\PSP ਹੁੰਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED214	ਅਤੇ\CC_CCD ਫਿਰ\DM_DMQ ਇਹ\DM_DMD ਸਖ਼ਤ\JJ ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED215	ਹੌਲੀ-ਹੌਲੀ\RB ਖਾਣ-ਪੀਣ\RB ਅਤੇ\CC_CCD ਬੋਲਣ\N_NN ਵਿੱਚ\PSP ਤਕਲੀਫ਼\JJ ਹੋਣ\V_VM ਲੱਗ\V_VM ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED216	ਮੂੰਹ\N_NN ਵਿੱਚ\PSP ਜ਼ਖ਼ਮ\N_NN ਚਿੱਟੇ\JJ ਰੰਗ\N_NN (\RD_PUNC ਲਿਊਕੋਪਲਾਕੀਆ\N_NN )\RD_PUNC ਦਾ\PSP ਜਾਂ\CC_CCD ਲਾਲ\JJ ਰੰਗ\N_NN (\RD_PUNC ਰਿਥਰੋਪਲਾਕੀਆ\N_NN )\RD_PUNC ਜਾਂ\CC_CCD ਫਿਰ\DM_DMQ ਦੋਵਾਂ\N_NN ਰੰਗਾਂ\N_NN ਦਾ\PSP ਮਿਸ਼ਰਣ\N_NN (\RD_PUNC ਰਿਥਰੋਲਿਊਕੋਪਲਾਕੀਆ\N_NN )\RD_PUNC ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED217	ਇਹ\DM_DMD ਆਮ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਜੀਭ\N_NN ,\RD_PUNC ਗੱਲਾਂ\N_NN ਦੇ\PSP ਅੰਦਰਲੇ\RB ਹਿੱਸਿਆਂ\N_NN ,\RD_PUNC ਬੁੱਲਾਂ\N_NN ਅਤੇ\CC_CCD ਮੂੰਹ\N_NN ਦੇ\PSP ਜੀਭ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\RB ਹੁੰਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED218	ਇਸ\DM_DMD ਕਾਰਨ\N_NN ਕੰਨਾਂ\N_NN ਦੇ\PSP ਪਿਛਲੇ\RB ਹਿੱਸੇ\RB ਵਿੱਚ\PSP ਦਰਦ\JJ ਅਤੇ\CC_CCD ਜੀਭ\N_NN ਦੀ\PSP ਹਿਲਜੁਲ\N_NN ਵਿੱਚ\PSP ਰੁਕਾਵਟ\N_NN ਵੀ\RP_RPD ਪੈਦਾ\V_VM ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED219	ਦੰਦ\N_NN ਹਿੱਲਣ\V_VM ਲੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED220	ਮੂੰਹ\N_NN ਵਿੱਚੋਂ\PSP ਖ਼ੂਨ\N_NN ਵਗਣ\V_VM_VNF ਲੱਗ\V_VM ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED221	ਮੂੰਹ\N_NN ਦਾ\PSP ਖੁਲਣਾ\V_VM_VNG ਵੀ\RP_RPD ਘਟ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED222	ਟੈਸਟ\N_NN -\RD_PUNC ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਲਗਾੳਣ\V_VM_VF ਲਈ\PSP ਕਈ\RB ਤਰਾਂ\RB ਦੇ\PSP ਟੈਸਟ\N_NN ਵੀ\RP_RPD ਕੀਤੇ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC
+PBHED223	ਜਿਵੇਂ\DM_DMQ ਬਾਇਓਪਸੀ\N_NN ,\RD_PUNC ਜਿਸ\PR_PRL ਵਿੱਚ\PSP ਜ਼ਖ਼ਮ\N_NN ਦੇ\PSP ਕੁਝ\RB ਹਿੱਸੇ\N_NN ਨੂੰ\PSP ਕੱਟ\N_NN ਕੇ\V_VM_VINF ਲੈਬਾਰਟਰੀ\N_NN ਵਿੱਚ\PSP ਕੈਂਸਰ\N_NN ਸੈੱਲਾਂ\N_NN ਦੀ\PSP ਮੌਜੂਦਗੀ\N_NN ਬਾਰੇ\PSP ਜਾਂਚ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED224	-\RD_PUNC ਐਕਸ-ਰੇਅ\N_NN ,ਸੀ.ਟੀ.\N_NN ਸਕੈਨ\N_NN ,\RD_PUNC ਐਮ.ਆਰ.ਆਈ.\N_NN
+PBHED225	ਇਹਨਾਂ\RB ਐਕਸਰਿਆਂ\N_NN ਦੁਆਰਾ\PSP ਕੈਂਸਰ\N_NN ਦੇ\PSP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਫੈਲਾਅ\V_VM ਬਾਰੇ\N_NN ਜਾਂਚ\N_NN ਕੀਤੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED226	ਕਿਉਂਕਿ\CC_CCS ਅਕਸਰ\N_NN ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਸਮੇਂ\N_NN ਸਿਰ\N_NN ਨਾ\RP_NEG ਕਰਵਾਉਣ\V_VM_VINF ’ਤੇ\CC_CCD ਇਹ\DM_DMD ਭੋਜਨ\N_NN ਨਾਲੀ\N_NN ,\RD_PUNC ਗਲੇ\N_NN ਜਾਂ\CC_CCD ਫੇਫੜਿਆਂ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਵੀ\RP_RPD ਬਣਾ\V_VM_VNG ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED227	*\RD_PUNC ਇਲਾਜ\N_NN 1.\QT_QTC ਸਰਜਰੀ\N_NN :\RD_PUNC ਜੇਕਰ\CC_CCS ਜ਼ਖ਼ਮ\N_NN ਛੋਟੇ\RB ਆਕਾਰ\N_NN ਦਾ\PSP ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਆਮ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਸਰਜਰੀ\N_NN ਹੀ\RP_RPD ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED228	2.\QT_QTC ਰੇਡੀਓਥੈਰੇਪੀ\N_NN ਜਿਹੜੇ\CC_CCS ਮਰੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਸਰਜਰੀ\N_NN ਨਹੀਂ\RP_NEG ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ,\RD_PUNC ਉਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਰੇਡੀਓਥਰੈਪੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕੀਤੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED229	ਰੇਡੀਓਥਰੈਪੀ\N_NN ਸਰਜਰੀ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਵੀ\RP_RPD ਲਈ\PSP ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED230	ਇਸ\DM_DMD ਨਾਲ\PSP ਕੈਂਸਰ\N_NN ਸੈੱਲ\N_NN ਖ਼ਤਮ\N_NN ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBHED231	ਅਤੇ\CC_CCD ਟਿਊਮਰ\N_NN ਦਾ\PSP ਆਕਾਰ\N_NN ਵੀ\RP_RPD ਛੋਟਾ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED232	ਇਸ\PR_PRP ਥੈਰੇਪੀ\N_NN ਵਿੱਚ\PSP ਸਿਰਫ਼\DM_DMQ ਜ਼ਖ਼ਮ\N_NN ਵਾਲੀ\PSP ਜਗਾ\N_NN ’ਤੇ\CC_CCD ਹੀ\RP_RPD ਕਿਰਨਾਂ\N_NN ਪਹੁੰਚਾਈਆਂ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ,\V_VAUX ਬਾਕੀ\N_NN ਸਰੀਰ\N_NN ਇਹਨਾਂ\PR_PRF ਤੋਂ\PSP ਰਹਿਤ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED233	3.\QT_QTC ਕੀਮੋਥੈਰੇਪੀ\N_NN ਇਸ\DM_DMD ਥੈਰੇਪੀ\N_NN ਨੂੰ\PSP ਹਮੇਸ਼ਾਂ\RB ਸਰਜਰੀ\N_NN ਅਤੇ\CC_CCD ਰੇਡੀਓਥੈਰੇਪੀ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਸਹਾਇਕ\N_NN ਦੇ\PSP ਤੌਰ\RB ’ਤੇ\CC_CCD ਵਰਤਿਆ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED234	ਇਸ\DM_DMD ਥੈਰੇਪੀ\N_NN ਵਿੱਚ\PSP ਟੀਕੇ\N_NN ਦੁਆਰਾ\PSP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਸਾਰੇ\RB ਕੈਂਸਰ\N_NN ਸੈੱਲਾਂ\N_NN ਨੂੰ\PSP ਖ਼ਤਮ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED235	ਧਿਆਨਦੇਣਯੋਗ\RP_INJ ਗੱਲਾਂ\N_NN ਕੈਂਸਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਦੇ\PSP ਇਲਾਜ\N_NN ਦੌਰਾਨ\V_VM_VF ਪਹਿਲਾਂ\RB ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿੱਚ\PSP ਸੰਤੁਲਿਤ\N_NN ਖ਼ੁਰਾਕ\N_NN ਦਾ\PSP ਧਿਆਨ\N_NN ਰੱਖਣਾ\V_VM_VINF ਬੇਹੱਦ\N_NN ਜ਼ਰੂਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED236	ਚੰਗੇ\JJ ਖਾਣ-ਪੀਣ\N_NN ਨਾਲ\PSP ਭਾਰ\N_NN ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਘਟਦਾ\RB ਅਤੇ\CC_CCD ਸਰੀਰ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਮਜ਼ਬੂਤੀ\JJ ਮਿਲਦੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED237	ਭੋਜਨ\N_NN ਵਿੱਚ\PSP ਹਰੀਆਂ\N_NN ਸਬਜ਼ੀਆਂ\N_NN ,\RD_PUNC ਫ਼ਲਾਂ\N_NN ਅਤੇ\CC_CCD ਸਲਾਦ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED238	ਮੂੰਹ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਕੋਈ\DM_DMD ਲਾ-ਇਲਾਜ\RB ਬੀਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBHED239	ਇਸ\DM_DMD ਦਾ\PSP ਇਲਾਜ\N_NN ਸੰਭਵ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜੇਕਰ\CC_CCS ਇਸ\DM_DMD ਦਾ\PSP ਪਤਾ\N_NN ਸਮੇਂ\N_NN ਸਿਰ\N_NN ਲੱਗ\V_VM ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBHED240	ਬੁਰੀਆਂ\N_NN ਆਦਤਾਂ\N_NN ਦਾ\PSP ਤਿਆਗ\N_NN ਕਰਨ\V_VM ਨਾਲ\PSP ਮੂੰਹ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\N_NN ਕਾਫ਼ੀ\RB ਘਟ\RB ਜਾਂਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED241	ਚੰਗੀ\JJ ਜੀਵਨ\N_NN ਸ਼ੈਲੀ,\N_NN ਸਰੀਰਕ\N_NN ਤੰਦਰੁਸਤੀ\JJ ,\RD_PUNC ਸੰਤੁਲਿਤ\V_VAUX ਖ਼ੁਰਾਕ\N_NN ਦਾ\PSP ਸੇਵਨ\N_NN ਅਤੇ\CC_CCD ਤੰਬਾਕੂ\N_NN ਤੇ\CC_CCD ਸ਼ਰਾਬ\N_NN ਤੋਂ\PSP ਗੁਰੇਜ਼\N_NN ਕਰਨ\V_VM ਨਾਲ\PSP ਕੈਂਸਰ\N_NN ਤੋਂ\PSP ਬਚਾਅ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED242	ਕੁਦਰਤ\N_NN ਅੰਦਰ\RB ਸੂਖ਼ਮ\N_NN ਤੋਂ\PSP ਸੂਖ਼ਮ\N_NN ਅਤੇ\CC_CCD ਅਣਵਿਕਸਤ\N_NN ਜੀਵਾਂ\N_NN ਦੀ\PSP ਭਰਮਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED243	ਇਹ\PR_PRP ਜੀਵ\N_NN ਲਾਭਦਾਇਕ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਹਾਨੀਕਾਰਕ\N_NN ਵੀ\RP_RPD ।\RD_PUNC
+PBHED244	ਇਹ\DM_DMD ਜੀਵ\N_NN ਵਾਤਾਵਰਨ\N_NN ,\RD_PUNC ਤਾਪਮਾਨ\N_NN ਅਤੇ\CC_CCD ਨਮੀ\N_NN ਦੀ\PSP ਕਮੀ\RB ਜਾਂ\CC_CCD ਵਾਧੇ\RB ਕਰਕੇ\V_VM_VINF ਵਧਦੇ-ਫੁੱਲਦੇ\RB ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED245	ਮਨੁੱਖ\N_NN ਵਿੱਚ\PSP ਵੱਖ-ਵੱਖ\PSP ਰੋਗ\N_NN ਪੈਦਾ\V_VM ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED246	ਇਹ\DM_DMD ਸੂਖ਼ਮ\N_NN ਜੀਵ\N_NN ਬੈਕਟੀਰੀਆ\N_NN ,\RD_PUNC ਵਾਇਰਸ\N_NN ,\RD_PUNC ਫੰਗਲ\N_NN ਅਤੇ\CC_CCD ਐਲਗੀ\N_NN ਮਾਈਕ੍ਰੋਬ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿੱਚ\PSP ਅੱਜ\RB ਦੀ\PSP ਆਧੁਨਿਕ\N_NN ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀ\N_NN ਵਿੱਚ\PSP ਜਾਣੇ\V_VM_VNF ਜਾਂਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED247	ਲਾਭਦਾਇਕ\JJ ਸ਼੍ਰੇਣੀ\N_NN ਵਾਲੇ\PSP ਬੈਕਟੀਰੀਆ\N_NN ਦਾ\PSP ਵਿਸ਼ੇਸ਼\JJ ਮਹੱਤਵ\JJ ਹੈ\V_VAUX |\RD_PUNC
+PBHED248	ਜੋ\CC_CCS ਅਕਸਰ\N_NN ਮਨੁੱਖ\N_NN ਦੀਆਂ\PSP ਅੰਤੜੀਆਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਪਾਏ\V_VM ਜਾਂਦੇ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED249	ਪਰ\CC_CCD ਹਾਨੀਕਾਰਕ\N_NN ਬੈਕਟੀਰੀਆ\N_NN ਵੀ\RP_RPD ਹੁੰਦੇ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED250	ਜੋ\CC_CCS ਵੱਖ-ਵੱਖ\RB ਰੋਗ\N_NN ਪੈਦਾ\V_VM_VNF ਕਰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED251	ਇਹਨਾਂ\DM_DMD ’ਚੋਂ\N_NN ਕੁਝ\DM_DMQ ਹੇਠ\RB ਲਿਖੇ\RB ਅਨੁਸਾਰ\N_NN ਹਨ\V_VAUX :\RD_PUNC
+PBHED252	*\RD_PUNC ਟਿਊਬਰਕੂਲੋਸਿਸ\N_NN ਜਾਂ\CC_CCD ਟੀ.ਬੀ.\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਇੱਕ\DM_DMQ ਬੈਕਟੀਰੀਆ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX ਜੋ\CC_CCS ਹਰ\CC_CCS ਸਾਲ\N_NN ਘੱਟੋ-ਘੱਟ\RB ਦੋ\QT_QTC ਅਰਬ\N_NN ਅਬਾਦੀ\N_NN ਨੂੰ\PSP ਪ੍ਰਭਾਵਿਤ\JJ ਕਰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED253	*\RD_PUNC ਨਿਮੂਨੀਆ\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਸਟ੍ਰੈਪਟੋਕੋਕਸ\N_NN ਬੈਕਟੀਰੀਆ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED254	*\RD_PUNC ਸਿਊਡੋਮੋਨਾਸਾ\N_NN ਤੇ\CC_CCD ਭੋਜਨ\N_NN ਤੋਂ\PSP ਪੈਦਾ\V_VM_VNF ਰੋਗਾਂ\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਸ਼ਿਗੈਲਾ\N_NN ਕੈਮਿਪਲੋਬੇਕਟਰ\N_NN ਅਤੇ\CC_CCD ਸਾਲਮੋਨੇਲਾ\N_NN ਵਰਗੇ\N_NN ਬੈਕਟੀਰੀਆ\N_NN ਹੁੰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED255	*\RD_PUNC ਲੈਪਰੋਸੀ\N_NN ਜਾਂ\CC_CCD ਕੋਹੜ\N_NN ਰੋਗ\N_NN ਵੀ\RP_RPD ਮਾਈਕੋਬੈਕਟੀਰੀਆ\N_NN ਲੈਪਰੋਸੀ\N_NN ਨਾਲ\PSP ਹੁੰਦਾ\V_VM_VNF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED256	*\RD_PUNC ਟਿਟੇਨਸ\N_NN ,\RD_PUNC ਟਾਇਫਾਈਡ,\N_NN ਡਿਪਥੀਰੀਆ\N_NN ਅਤੇ\CC_CCD ਸਿਫਲਿਸ\N_NN ਵਰਗੇ\N_NN ਰੋਗ\N_NN ਬੈਕਟੀਰੀਆ\N_NN ਕਰਕੇ\V_VM_VINF ਹੁੰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED257	*\RD_PUNC ਹਾਲਾਤ\N_NN ਪੈਦਾ\V_VM_VNF ਕਰਨ\V_VM ਵਾਲੇ\PSP ਬੈਕਟੀਰੀਆ\N_NN ਜਦੋਂ\PR_PRL ਹਾਲਾਤ\N_NN ’ਚ\PSP ਵਿਗਾੜ\N_NN ਪੈਦਾ\V_VM_VNF ਕਰਦੇ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED258	ਤਾਂ\RP_RPD ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ‘ਹਾਲਾਤਵੱਸ\N_NN ਬੈਕਟੀਰੀਆ’\N_NN ਕਹਿੰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED259	ਮਿਸਾਲ\N_NN ਵਜੋਂ\DM_DMQ ਇੱਕ\DM_DMQ ਜ਼ਖ਼ਮ\N_NN ਖ਼ੂਨ\N_NN ਰਾਹੀਂ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ਫੈਲਾਉਣ\V_VM ਦੀ\PSP ਹਾਲਤ\N_NN ਪੈਦਾ\V_VM_VNF ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਰੋਗ\N_NN ਪ੍ਰਤੀਰੋਧਕ\N_NN ਸਮਰੱਥਾ\JJ ਨੂੰ\PSP ਘੱਟ\RB ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED260	‘ਸਟੇਫਿਲੋਕੋਕਸ’\N_NN ਜਾਂ\CC_CCD ‘ਸਟਰੈਪਟੋਕੋਕਸ’\N_NN ਜੋ\CC_CCS ਮਨੁੱਖ\N_NN ਦੀਆਂ\PSP ਅੰਤੜੀਆਂ\N_NN ਵਿੱਚ\PSP ਮਿਲਦੇ\V_VM_VNF ਹਨ\V_VAUX ,\RD_PUNC ਆਮ\RB ਕਰਕੇ\V_VM_VINF ਚਮੜੀ\N_NN ਜਾਂ\CC_CCD ਨੱਕ\N_NN ਵਿੱਚ\PSP ਬਿਨਾਂ\N_NN ਕਿਸੇ\DM_DMQ ਰੋਗ\N_NN ਤੋਂ\PSP ਮਿਲਦੇ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED261	ਪਰ\CC_CCD ਲੋੜੀਂਦੀ\DM_DMQ ਮਾਤਰਾ\N_NN ’ਚ\PSP ਚਮੜੀ\N_NN ਦੀ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ,\RD_PUNC ਨਿਮੋਨੀਆ\N_NN ,\RD_PUNC ਦਿਮਾਗ਼ੀ\N_NN ਬੁਖ਼ਾਰ\N_NN ,\RD_PUNC ਸੇਮਿਸਸ\N_NN ਤੇ\CC_CCD ਤੰਤੂਆਂ\N_NN ਦੀ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਨਾਲ\PSP ਜ਼ਬਰਦਸਤ\N_NN ਮਾਰ\V_VM ਤੇ\CC_CCD ਮੌਤ\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਵੀ\RP_RPD ਬਣ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED262	ਸੈੱਲਾਂ\N_NN ਅੰਦਰ\RB ਰਹਿਣ\V_VM_VF ਵਾਲੇ\PSP ਬੈਕਟੀਰੀਆ\N_NN :\RD_PUNC
+PBHED263	ਕੁਝ\DM_DMQ ਬੈਕਟੀਰੀਆ\N_NN ਸੈੱਲਾਂ\N_NN ਅੰਦਰ\RB ਰਹਿ\V_VM_VF ਕੇ\V_VM_VINF ਹੀ\RP_RPD ਵਿਗਾੜ\N_NN ਖ਼ਾਤਰ\N_NN ਵਾਧਾ\RB ਕਰਦੇ\V_VM_VNF ਹਨ\V_VAUX ਜਿਵੇਂ\DM_DMQ ਕਲੇਮਾਈਡੋਫਿਲਾ\N_NN ਅਤੇ\CC_CCD ਰਿਕਟੇਸਿਆ\N_NN ।\RD_PUNC
+PBHED264	ਕਲੇਮਾਈਡੀਆ\N_NN ਸੈੱਲਾਂ\N_NN ਅੰਦਰਲੇ\RB ਪਰਜੀਵੀ\N_NN ਵੱਧ\DM_DMQ ਇਨਫੈਕਸ਼ਨ\N_NN ਕਰਦੇ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED265	ਜੋ\PR_PRL ਨਿਮੋਨੀਆ\N_NN ,\RD_PUNC ਪਿਸ਼ਾਬ\N_NN ਦੀ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ਅਤੇ\CC_CCD ਇੱਥੋਂ\PSP ਤਕ\N_NN ਕਿ\CC_CCS ਦਿਲ\N_NN ਦੇ\PSP ਰੋਗ\N_NN ਵੀ\RP_RPD ਪੈਦਾ\V_VM_VF ਕਰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED266	ਸਾਲਮੋਨੇਲਾ\N_NN ,\RD_PUNC ਬਸੇਲਾ\N_NN ਅਤੇ\CC_CCD ਮਾਈਕੋਬੈਕਟ੍ਰੀਰੀਅਮ\N_NN ਵੀ\RP_RPD ਸੈੱਲਾਂ\N_NN ਅੰਦਰ\RB ਰਹਿਣ\V_VM_VNF ਵਾਲੇ\PSP ਬੈਕਟੀਰੀਆ\N_NN ਵਿੱਚ\PSP ਆਉਂਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED267	*\RD_PUNC ਬੈਕਟੀਰੀਅਲ\N_NN ਮੈਨੇਜਾਈਟਸ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੈਕਟੀਰੀਆ\N_NN ਤੋਂ\PSP ਪੈਦਾ\V_VM_VF ਦਿਮਾਗ਼ੀ\N_NN ਪ੍ਰਣਾਲੀ\N_NN ਸੋਜ\N_NN ਹੈ\V_VAUX ਜੋ\CC_CCS ਦਿਮਾਗ਼\N_NN ਤੇ\CC_CCD ਸਪਾਈਨਲ\N_NN ਕਾਰਡ\N_NN ਨੂੰ\PSP ਪ੍ਰਭਾਵਿਤ\JJ ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED268	*\RD_PUNC ਬੈਕਟੀਰੀਅਲ\N_NN ਨਿਮੂਨੀਆ\N_NN ਫੇਫੜਿਆਂ\N_NN ਦੀ\PSP ਬੈਕਟੀਰੀਅਲ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED269	ਪਿਸ਼ਾਬ\N_NN ਦੀ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ਹੋਵੇ\V_VM ਤਾਂ\RP_RPD ਪਿਸ਼ਾਬ\N_NN ’ਚ\PSP ਜਲਣ\V_VM ‘ਇਸ਼ਚਰਿਆ\V_VM_VNF ਕੋਲਾਈ’\N_NN ਨਾਂ\N_NN ਦੇ\PSP ਬੈਕਟੀਰੀਆ\N_NN ਕਾਰਨ\N_NN ਹੁੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED270	*\RD_PUNC ਬੈਕਟੀਰੀਅਲ\N_NN ਗੈਸਟ੍ਰੋਇੰਟ\N_NN ਰਾਈਟਸ\N_NN ਅੰਤੜੀਆਂ\N_NN ’ਚ\PSP ਵਿਗੜੇ\V_VM ਹੋਏ\V_VM ਬੈਕਟੀਰੀਆ\N_NN ਨਾਲ\PSP ਹੁੰਦੇ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED271	ਪਰ\CC_CCD ਸਿਹਤਮੰਦ\JJ ਬੈਕਟੀਰੀਆ\N_NN ਵੀ\RP_RPD ਇਸ਼ਰੀਚੀਆ\N_NN ਸਮੂਹ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED272	ਅਕਸਰ\N_NN ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਸਥਿਤੀ\N_NST ਮੁਤਾਬਕ\N_NN ਉਹ\PR_PRP ਕੁਦਰਤੀ\N_NN ਜਾਂ\CC_CCD ਵਿਗਾੜ\N_NN ਵਾਲੇ\PSP ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED273	ਬੈਕਟੀਰੀਅਲ\N_NN ਚਮੜੀ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN :\RD_PUNC ਇਮਪਟਿਗੋ\N_NN ਚਮੜੀ\N_NN ਦਾ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ਰੋਗ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED274	ਜੋ\PR_PRL ਛੋਟੇ\RB ਬੱਚਿਆਂ\N_NN ਵਿੱਚ\PSP ਖ਼ਾਸ\JJ ਕਰਕੇ\V_VM_VNF 2-3\QT_QTC ਸਾਲਾਂ\N_NN ਦੇ\PSP ਬੱਚਿਆਂ\N_NN ਵਿੱਚ\PSP ਹੁੰਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED275	ਉਸ\PR_PRP ਦਾ\PSP ਕਾਰਨ\N_NN ਮੁਢਲੇ\N_NN ਤੌਰ\RB ’ਤੇ\CC_CCD ਸਟੈਫਾਈਲੋਕੋਕੋਸ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED276	ਕਦੇ-ਕਦੇ\RB ਸਟਰੈਪਟੋਰਕੋਕਸ\N_NN ਬੈਕਟੀਰੀਅਲ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਤੇ\CC_CCD ਲਸੀਕਾ\N_NN ਰਾਹੀਂ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਨਾਲ\PSP ਫੈਲਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED277	ਇਹ\DM_DMD ਸਟਰੈਪਟੋਕੋਕਿਸ\N_NN ਪਾਇਓਜਨਸ\N_NN ਕਰਕੇ\V_VM_VINF ਵੀ\RP_RPD ਹੁੰਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED278	ਰੀਸਿਪੇਲਿਸ\N_NN ਇੱਕ\DM_DMQ ਤੇਜ਼\JJ ਰੋਗ\N_NN ਹੈ\V_VAUX ਜੋ\CC_CCS ਚਮੜੀ\N_NN ਦੀ\PSP ਬਾਹਰੀ\RB ਤਹਿ\N_NN (ਇਪੀਡਰਮਸ),\N_NN ਸਟਰੇਪਟੋਕਕਸ\N_NN ਬੈਕਟੀਰੀਅਲ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਤੇ\CC_CCD ਲਿੰਫ\N_NN ਰਾਹੀਂ\PSP ਫੈਲਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED279	ਸੈਲੂਲਾਈਟਸ\N_NN ਉੱਥੇ\N_NST ਫੈਲਦਾ\V_VM ਹੈ\V_VAUX ਜਿੱਥੇ\PR_PRL ਜ਼ਖ਼ਮ\N_NN ਕੱਟਿਆ\N_NN ਜਾਂ\CC_CCD ਖੁੱਲਾ\RB ਛੱਡਿਆ\V_VM_VF ਹੋਵੇ\V_VM ।\RD_PUNC
+PBHED280	ਚਮੜੀ\N_NN ਦੇ\PSP ਛਾਲੇ\N_NN ,\RD_PUNC ਸੜਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਜ਼ਖ਼ਮ,\N_NN ਕੀਟਾਣੂ\N_NN ,\RD_PUNC ਕੀੜੇ\N_NN ਕੱਟਣ\N_NN ਨਾਲ\PSP ,\RD_PUNC ਅਪਰੇਸ਼ਨ\N_NN ਨਾਲ\PSP ਕੀਤੇ\V_VM ਜ਼ਖ਼ਮ\N_NN ,\RD_PUNC ਖ਼ੂਨ\N_NN ਸਪਲਾਈ\N_NN ਰਾਹੀਂ\PSP ਫੈਲਾਅ\N_NN ,\RD_PUNC ਪਿਸ਼ਾਬ\N_NN ਦੀ\PSP ਨਾਲ\PSP ਪਾਉਣ\N_NN ਨਾਲ\PSP ਹੋਏ\V_VM ਜ਼ਖ਼ਮ\N_NN ਸੈਲੂਲਾਈਟਸ\N_NN ਬਣਨ\V_VM_VNF ਦਾ\PSP ਕਾਰਨ\N_NN ਹੁੰਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED281	ਬੈਕਟੀਰੀਆ\N_NN ਹਾਲਾਤ\N_NN ,\RD_PUNC ਸੈੱਲਾਂ\N_NN ਅਤੇ\CC_CCD ਸਥਾਨ\N_NN ਮੁਤਾਬਕ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਪੈਦਾ\V_VM_VF ਕਰਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBHED282	ਵਾਇਰਲ\N_NN ਸੰਜਕਿਟੀਵਾਈਟਸ\N_NN ਵਿੱਚ\PSP ਅੱਖਾਂ\N_NN ਮਚਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED283	ਹਮਪੀਜ਼\N_NN ਵਿੱਚ\PSP ਦਰਦਨਾਕ\JJ ਸਥਾਨਕ\N_NN ਵਾਇਰਲ\N_NN ਇਨਫੈਕਸ਼ਨ\N_NN ਹੁੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED284	ਬੈਕਟੀਰੀਆ\N_NN ਦੀ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ਨਾਲ\PSP ਪੀੜ\N_NN ਵਧ\RB ਜਾਂਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED285	ਸਾਵਧਾਨੀਆਂ\N_NN :\RD_PUNC *\RD_PUNC ਬੈਕਟੀਰੀਆ\N_NN ਤੋਂ\PSP ਮੁਕਤ\N_NN ਪਾਣੀ\N_NN ਹੀ\RP_RPD ਪੀਓ\V_VM ।\RD_PUNC
+PBHED286	*\RD_PUNC ਭਾਂਡੇ\N_NN ਅਤੇ\CC_CCD ਹੱਥ\N_NN ਧੋ\V_VM ਕੇ\V_VM_VINF ਵਰਤੋ\V_VM ।\RD_PUNC
+PBHED287	*\RD_PUNC ਸਬਜ਼ੀ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲ\N_NN ਸਾਫ਼\JJ ਪਾਣੀ\N_NN ਨਾਲ\PSP ਚੰਗੀ\RB ਤਰਾਂ\RB ਧੋ\V_VM ਕੇ\V_VM_VINF ਵਰਤੋ\V_VM_VF ।\RD_PUNC
+PBHED288	*\RD_PUNC ਖਾਣਾ\N_NN ਖਾਣ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਅਤੇ\CC_CCD ਖਾਣਾ\N_NN ਖਾਣ\N_NN ਤੋਂ\PSP ਪਿੱਛੋਂ\RB ਬਣਾਉਂਦੇ\V_VM_VF ਸਮੇਂ\N_NN ਭਾਂਡੇ\N_NN ’ਚ\PSP ਭੋਜਨ\N_NN ਪਦਾਰਥ\N_NN ਰੱਖਦੇ\V_VM_VF ਸਮੇਂ\N_NN ਸਾਫ਼-ਸਫ਼ਾਈ\RB ਦਾ\PSP ਧਿਆਨ\N_NN ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBHED289	*\RD_PUNC ਕੱਟੇ\N_NN ਅਤੇ\CC_CCD ਖੁੱਲੇ\N_NN ਜ਼ਖ਼ਮਾਂ\N_NN ਦੀ\PSP ਸਫ਼ਾਈ\JJ ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED290	*\RD_PUNC ਬਿਨਾਂ\V_VM_VF ਸਹੀ\N_NN ਪਛਾਣ\N_NN ਦੇ\PSP ਐਂਟੀਬਾਓਇਟਕ\N_NN ਦੀ\PSP ਲਾਪਰਵਾਹੀ\V_VM ਨਾਲ\PSP ਵਰਤੋਂ\V_VM ਨਾਲ\PSP ਸਰੀਰ\N_NN ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਹੁੰਗਾਰਾ\N_NN ਨਹੀਂ\RP_NEG ਦਿੰਦਾ\V_VM_VF ਤੇ\CC_CCD ਰੋਗ\N_NN ਲਾਇਲਾਜ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED291	ਰੋਗੀ\N_NN ਦੀ\PSP ਰੋਗ-ਪ੍ਰਤੀਰੋਧਕ\RB ਸਮਰੱਥਾ\JJ ਘਟਣ\RB ਨਾਲ\PSP ਆਮ\RB ਨਾਲੋਂ\PSP ਵੱਧ\RB ਰੋਗਾਂ\N_NN ਨਾਲ\PSP ਗ੍ਰਸਿਤ\N_NN ਹੋਣ\V_VM ਦਾ\PSP ਡਰ\N_NN ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED292	ਸ਼ੂਗਰ\N_NN ਰੋਗ\N_NN ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਇਨਸੂਲੀਨ\N_NN ਹਾਰਮੋਨ\N_NN ਦੀ\PSP ਕਮੀ\RB ਕਾਰਨ\DM_DMQ ਪੈਦਾ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED293	ਇਸ\DM_DMQ ਦੇ\PSP ਸਿੱਟੇ\N_NN ਵਜੋਂ\DM_DMQ ਖ਼ੂਨ\N_NN ਵਿੱਚ\PSP ਗੁਲੂਕੋਜ਼\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵਧ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED294	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਸਾਡੀਆਂ\PR_PRP ਅੱਖਾਂ\N_NN ,\RD_PUNC ਗੁਰਦਿਆਂ,\N_NN ਦਿਮਾਗ\N_NN ਅਤੇ\CC_CCD ਦਿਲ\N_NN ’ਤੇ\CC_CCD ਮਾੜਾ\N_NN ਅਸਰ\N_NN ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED295	ਦਰਅਸਲ\N_NN ਇਹਨਾਂ\DM_DMD ਅੰਗਾਂ\N_NN ਵਿੱਚ\PSP ਖ਼ੂਨ\N_NN ਦੀਆਂ\PSP ਬਹੁਤ\RB ਛੋਟੀਆਂ\RB ਅਤੇ\CC_CCD ਬਰੀਕ\N_NN ਨਾੜੀਆਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED296	ਜੋ\PR_PRL ਗੁਲੂਕੋਜ਼\N_NN ਵਧਣ\RB ਕਾਰਨ\RB ਖ਼ਤਮ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED297	ਇੱਕ\RB ਸਰਵੇਖਣ\N_NN ਅਨੁਸਾਰ\N_NN ਪੂਰੇ\RB ਭਾਰਤ\N_NNP ਵਿੱਚ\PSP 17\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਸ਼ਹਿਰ\N_NN ਵਾਸੀ\N_NN ਅਤੇ\CC_CCD 2.5\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਪਿੰਡਾਂ\N_NN ਦੇ\PSP ਲੋਕ\N_NN ਇਸ\PR_PRP ਰੋਗ\N_NN ਤੋਂ\PSP ਪੀੜਤ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBHED298	ਅਤੇ\CC_CCD ਸਾਲ\N_NN 2030\N_NN ਤਕ\PSP ਇਹਨਾਂ\PR_PRL ਰੋਗੀਆਂ\N_NN ਦੀ\PSP ਗਿਣਤੀ\N_NN 8\QT_QTC ਕਰੋੜ\N_NN ਦੇ\PSP ਕਰੀਬ\N_NN ਹੋ\V_VAUX ਜਾਵੇਗੀ\V_VM |\RD_PUNC
+PBHED299	ਜਿੰਨਾਂ\RB ਵਿੱਚ\PSP 20\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਅੱਖਾਂ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\RB ਹੋਵੇਗਾ\V_VM ।\RD_PUNC
+PBHED300	ਕੀ\PR_PRQ ਹਨ\V_VAUX ਲੱਛਣ\N_NN ?\RD_PUNC ਸ਼ੁਰੂ-ਸ਼ੁਰੂ\RB ਵਿੱਚ\PSP ਖ਼ੂਨ\N_NN ਵਿੱਚ\PSP ਗੁਲੂਕੋਜ਼\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵਧਣ-ਘਟਣ\RB ਨਾਲ\PSP ਸ਼ੂਗਰ\N_NN ਰੋਗ\N_NN ਨਾਲ\N_NN ਸਬੰਧਤ\N_NN ਮਰੀਜ਼\N_NN ਦੀਆਂ\PSP ਅੱਖਾਂ\N_NN ਦਾ\PSP ਨੰਬਰ\N_NN ਲਗਾਤਾਰ\V_VM_VF ਬਦਲਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED301	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਅੱਖਾਂ\N_NN ਵਿੱਚ\PSP ਦਬਾਅ\N_NN ਮਹਿਸੂਸ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED302	ਹੌਲੀ-ਹੌਲੀ\RB ਗੁਲੂਕੋਜ਼\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਲਗਾਤਾਰ\RB ਵਧਣ\RB ਕਾਰਨ\RB ਚਿੱਟਾ\JJ ਮੋਤੀਆ\N_NN ,\RD_PUNC ਕਾਲਾ\JJ ਮੋਤੀਆ\N_NN ਅਤੇ\CC_CCD ਅੱਖਾਂ\N_NN ਦੇ\PSP ਪਰਦੇ\N_NN ਸਬੰਧੀ\N_NN ਰੋਗ\N_NN ਪੈਦਾ\V_VM_VF ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED303	ਜੋ\PR_PRL ਅੱਖਾਂ\N_NN ਦੀ\PSP ਰੋਸ਼ਨੀ\JJ ਨੂੰ\PSP ਅਚਾਨਕ\RB ਖ਼ਤਮ\JJ ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED304	ਪੰਦਰਾਂ\RB ਸਾਲਾਂ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB 80\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਸ਼ੂਗਰ\N_NN ਰੋਗ\N_NN ਨਾਲ\PSP ਅੱਖਾਂ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਸਬੰਧੀ\N_NN ਕੋਈ\DM_DMQ ਨਾ\RP_NEG ਕੋਈ\DM_DMQ ਲੱਛਣ\N_NN ਸਾਹਮਣੇ\RB ਜ਼ਰੂਰ\RB ਆ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED305	ਕੀ\PR_PRQ ਹੈ\V_VAUX ਇਲਾਜ\N_NN ?\RD_PUNC
+PBHED306	ਸ਼ੂਗਰ\N_NN ਰੋਗ\N_NN ਨਾਲ\PSP ਅੱਖਾਂ\N_NN ’ਤੇ\CC_CCD ਪੈਣ\V_VM ਵਾਲੇ\PSP ਅਸਰ\N_NN ਨੂੰ\PSP ਲੱਭਣ\V_VM ਅਤੇ\CC_CCD ਇਲਾਜ\N_NN ਲਈ\PSP ਅੱਜ\RB ਸਾਡੇ\PR_PRP ਕੋਲ\PSP ਆਧੁਨਿਕ\N_NN ਟੈਸਟ\N_NN ਅਤੇ\CC_CCD ਮਸ਼ੀਨਾਂ\N_NN ਉਪਲਬਧ\N_NN ਹਨ\V_VAUX ਜੋ\CC_CCS ਸ਼ੁਰੂ-ਸ਼ੁਰੂ\RB ਵਿੱਚ\PSP ਹੀ\RP_RPD ਅੱਖਾਂ\N_NN ਦੇ\PSP ਪਰਦੇ\N_NN ’ਤੇ\CC_CCD ਪੈਣ\V_VM ਵਾਲੇ\PSP ਮਾੜੇ\JJ ਅਸਰ\JJ ਨੂੰ\PSP ਲੱਭ\V_VM ਲੈਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED307	ਜਿਵੇਂ\DM_DMQ ਐੱਫ.ਐੱਫ.ਏ.,\N_NN ਓ.ਸੀ.ਟੀ.\N_NN ਅਤੇ\CC_CCD ਗਰੀਨ\JJ ਲੇਜ਼ਰ\N_NN ਦੀਆਂ\PSP ਕਿਰਨਾਂ\N_NN ।\RD_PUNC
+PBHED308	ਜੇ\CC_CCS ਲੇਜ਼ਰ\N_NN ਕਿਰਨਾਂ\N_NN ਅਤੇ\CC_CCD ਦਵਾਈਆਂ\N_NN ਅਸਰਦਾਰ\JJ ਨਾ\RP_NEG ਹੋਣ\V_VM ਤਾਂ\RP_RPD ਅੱਖਾਂ\N_NN ਵਿੱਚ\PSP ਇਨਜੈਕਸ਼ਨ\N_NN ਜਾਂ\CC_CCD ਸਰਜਰੀ\N_NN ਕਰਨੀ\V_VM_VINF ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED309	ਸਾਵਧਾਨੀਆਂ\RP_INJ ਹਰ\RB ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਸਾਲ\N_NN ਵਿੱਚ\PSP ਇੱਕ\RB ਵਾਰ\RB ਆਪਣੀਆਂ\PR_PRP ਅੱਖਾਂ\N_NN ਦੇ\PSP ਪਰਦੇ\N_NN ਦੀ\PSP ਚੰਗੀ\RB ਤਰਾਂ\RB ਜਾਂਚ\JJ ਅੱਖਾਂ\N_NN ਦੇ\PSP ਕਿਸੇ\DM_DMD ਮਾਹਰ\N_NN ਡਾਕਟਰ\N_NN ਕੋਲੋਂ\PSP ਕਰਵਾਉਣੀ\V_VM ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED310	ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਅਨੁਸਾਰ\RB ਸ਼ੂਗਰ\N_NN ,\RD_PUNC ਚਰਬੀ\N_NN ਅਤੇ\CC_CCD ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਨੂੰ\PSP ਸਮੇਂ-ਸਮੇਂ\RB ’ਤੇ\CC_CCS ਚੈੱਕ\N_NN ਕਰਵਾਉਣਾ\V_VM_VNG ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED311	w\RD_RDF ਖਾਣ-ਪੀਣ\RB ਅਤੇ\CC_CCD ਸੈਰ\N_NN ਨਾਲ\PSP ਆਪਣਾ\PR_PRF ਵਜ਼ਨ\N_NN ਕੰਟਰੋਲ\N_NN ਕਰਨਾ\V_VM_VNG ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED312	w\RD_RDF ਸ਼ਰਾਬ\N_NN ,\RD_PUNC ਸਿਗਰਟ\N_NN ਅਤੇ\CC_CCD ਕਿਸੇ\PR_PRQ ਕਿਸਮ\N_NN ਦੇ\PSP ਨਸ਼ੇ\N_NN ਤੋਂ\PSP ਹਮੇਸ਼ਾਂ\RB ਪਰਹੇਜ਼\N_NN ਕਰਨ\V_VM ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਬਾਹਰੀ\RB ਦਵਾਈਆਂ\N_NN ਦਾ\PSP ਪ੍ਰਯੋਗ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC
+PBHED313	w\RD_RDF ਡਾਕਟਰ\N_NN ਵੱਲੋਂ\PSP ਲਿਖੀ\V_VM_VF ਦਵਾਈ\N_NN ਦੀ\PSP ਹੀ\RP_RPD ਵਰਤੋਂ\V_VM ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED314	ਅਤੇ\CC_CCD ਡਾਕਟਰ\N_NN ਨੂੰ\PSP ਦੱਸੇ\N_NN ਬਗ਼ੈਰ\RB ਕਦੇ\RB ਵੀ\RP_RPD ਆਪਣੇ-ਆਪ\PR_PRP ਦਵਾਈ\N_NN ਬੰਦ\RB ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBHED315	ਜੇ\PR_PRL ਅਸੀਂ\PR_PRP ਇਹਨਾਂ\PR_PRL ਸਾਵਧਾਨੀਆਂ\RP_INJ ਨੂੰ\PSP ਅਮਲ\N_NN ਵਿੱਚ\PSP ਲਿਆਵਾਂਗੇ\V_VM ਤਾਂ\RP_RPD ਕਾਫ਼ੀ\RB ਹੱਦ\RB ਤਕ\PSP ਸ਼ੂਗਰ\N_NN ਨਾਲ\PSP ਅੱਖਾਂ\N_NN ’ਤੇ\CC_CCD ਪੈਣ\V_VM ਵਾਲੇ\PSP ਮਾੜੇ\JJ ਪ੍ਰਭਾਵਾਂ\N_NN ਦੀ\PSP ਰੋਕਥਾਮ\N_NN ਆਸਾਨੀ\RB ਨਾਲ\PSP ਕਰ\V_VM_VF ਸਕਾਂਗੇ\V_VM ।\RD_PUNC
+PBHED316	ਜਿਗਰ\N_NN ਸਰੀਰ\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\PSP ਰਸਾਇਣਕ\JJ ਕਿਰਿਆਵਾਂ\V_VM_VF ’ਤੇ\CC_CCD ਕੰਟਰੋਲ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED317	ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਇਕੱਠੀ\RB ਹੋਣੀ\V_VM_VINF ਅੱਜ\RB ਕੱਲ\RB ਬਹੁਤ\RB ਵੱਡੀ\RB ਸਮੱਸਿਆ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED318	ਚਾਹੇ\RP_INJ ਇਸ\DM_DMQ ਦਾ\PSP ਮੁੱਖ\V_VM ਕਾਰਨ\N_NN ਸ਼ਰਾਬ\N_NN ਦਾ\PSP ਸੇਵਨ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED319	ਪਰ\CC_CCD ਅੱਜ\RB ਕੱਲ\RB ਇਹ\DM_DMQ ਬੀਮਾਰੀ\N_NN ਉਹਨਾਂ\PR_PRP ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਵੇਖਣ\V_VM_VF ਨੂੰ\PSP ਮਿਲ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED320	ਜੋ\PR_PRL ਸ਼ਰਾਬ\N_NN ਦਾ\PSP ਸੇਵਨ\V_VM_VF ਨਹੀਂ\RP_NEG ਕਰਦੇ\V_VM_VF ।\RD_PUNC
+PBHED321	ਇਹ\DM_DMQ ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾਤਰ\RB ਮੋਟੇ\JJ ਵਿਅਕਤੀਆਂ\N_NN ਵਿੱਚ\PSP ਵੇਖਣ\V_VM_VF ਨੂੰ\PSP ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED322	ਜਿਹਨਾਂ\PR_PRL ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਪਾਈ\V_VM_VINF ਜਾਂਦੀ\V_VM_VINF ਹੈ\V_VAUX ,\RD_PUNC ਉਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਦਿਲ\N_NN ਦੇ\PSP ਦੌਰੇ\N_NN ਤੇ\CC_CCD ਦਿਲ\N_NN ਦੀਆਂ\N_NN ਹੋਰ\N_NN ਬੀਮਾਰੀਆਂ\N_NN ਹੋਣ\V_VM_VF ਦੀਆਂ\PSP ਸੰਭਾਵਨਾਵਾਂ\JJ ਵਧ\RB ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED323	ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਇਕੱਠੀ\RB ਹੋਣ\V_VM_VF ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਨੂੰ\PSP ਅਸੀਂ\PR_PRP ਮੋਟੇ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਚਾਰ\QT_QTC ਭਾਗਾਂ\N_NN ਵਿੱਚ\PSP ਵੰਡ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX :\RD_PUNC
+PBHED324	*\RD_RDF ਸ਼ੁਰੂਆਤੀ\RB ਸਟੇਜ\N_NN ਆਮ\RB ਤੌਰ\RB ’ਤੇ\CC_CCD ਜਿਗਰ\N_NN ਦੇ\PSP ਹਰ\RB ਸੈੱਲ\N_NN ਵਿੱਚ\PSP ਥੋੜੀ\RB ਜਿਹੀ\RB ਮਾਤਰਾ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED325	ਪਰ\CC_CCD ਇਸ\DM_DMQ ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਸ਼ੁਰੂਆਤੀ\RB ਸਟੇਜ\N_NN ਵਿੱਚ\PSP ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਕਾਫ਼ੀ\RB ਮਾਤਰਾ\RB ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਇਕੱਠੀ\N_NN ਹੋਣੀ\N_NN ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED326	ਪਰ\CC_CCD ਜਿਗਰ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਠੀਕ\JJ ਢੰਗ\N_NN ਨਾਲ\PSP ਚੱਲਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED327	*\RD_PUNC ਜਿਗਰ\N_NN ਦੀ\PSP ਸੋਜ਼ਿਸ਼\JJ ਇਸ\DM_DMQ ਸਥਿਤੀ\JJ ਵਿੱਚ\CC_CCD ਜ਼ਿਆਦਾ\RB ਜੰਮੀ\N_NN ਹੋਈ\V_VM_VF ਚਰਬੀ\N_NN ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਸੋਜ਼ਿਸ਼\JJ ਦੀ\PSP ਸ਼ੁਰੂਆਤ\RB ਕਰ\V_VM_VF ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED328	*\RD_PUNC ਜਿਗਰ\N_NN ਦਾ\PSP ਸੁੰਗੜਨਾ\V_VM_VINF ਲਗਾਤਾਰ\RB ਸੋਜ਼ਿਸ਼\JJ ਰਹਿਣ\V_VM ਕਰਕੇ\V_VM_VNF ਜਿਗਰ\N_NN ਸੁੰਗੜਨਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCD ਇਸ\DM_DMQ ਸਥਿਤੀ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਹ\DM_DMQ ਕਾਫ਼ੀ\RB ਹੱਦ\RB ਤਕ\PSP ਠੀਕ\JJ ਕੰਮ\N_NN ਕਰਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED329	*\RD_PUNC ਜਿਗਰ\N_NN ਦਾ\PSP ਫੇਲ\N_NN ਹੋਣਾ\V_VM_VINF :\RD_PUNC ਕਾਫ਼ੀ\RB ਸਮੇਂ\N_NN ਤਕ\PSP ਸੁੰਗੜਨ\V_VM_VINF ਵਾਲੀ\PSP ਅਵਸਥਾ\N_NN ਰਹਿਣ\V_VM_VF ਉਪਰੰਤ\PSP ਜਿਗਰ\N_NN ਫੇਲ\N_NN ਹੋਣਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED330	ਜਿਗਰ\N_NN ਫੇਲ\N_NN ਹੋਣ\V_VM_VF ਦੇ\PSP ਲੱਛਣ\N_NN ਦਿਖਣੇ\V_VM_VNF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਿਵੇਂ\DM_DMQ ਪੇਟ\N_NN ਵਿੱਚ\PSP ਪਾਣੀ\N_NN ਭਰਨਾ\V_VM_VINF ਅਤੇ\CC_CCD ਪੀਲੀਆ\JJ ਆਦਿ\DM_DMQ ।\RD_PUNC
+PBHED331	ਜ਼ਿਆਦਾਤਰ\RB ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਹੀ\RP_RPD ਇਕੱਠੀ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਗਰ\N_NN ਫੇਲ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED332	ਕੀ\PR_PRQ ਹਨ\V_VAUX ਕਾਰਨ\N_NN ?\RD_PUNC
+PBHED333	ਭਾਵੇਂ\DM_DMQ ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਇਕੱਠੀ\RB ਹੋਣ\V_VM_VF ਅਤੇ\CC_CCD ਫੇਲ\N_NN ਹੋਣ\V_VM_VF ਦਾ\PSP ਮੁੱਖ\JJ ਕਾਰਨ\N_NN ਸ਼ਰਾਬ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBHED334	ਪਰ\CC_CCD ਇਸ\DM_DMQ ਤੋਂ\PSP ਬਿਨਾਂ\RB ਵੀ\RP_RPD ਕਈ\RB ਹੋਰ\RB ਕਾਰਨਾਂ\N_NN ਕਰਕੇ\V_VM_VINF ਵੀ\RP_RPD ਜਿਗਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਇਕੱਠੀ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED335	ਸਭ\DM_DMQ ਤੋਂ\PSP ਵੱਡਾ\DM_DMQ ਕਾਰਨ\N_NN ਜ਼ਿਆਦਾ\RB ਚਿਕਨਾਈ\N_NN ਵਾਲੇ\PSP ਭੋਜਨ\N_NN ਪਦਾਰਥਾਂ\N_NN ਦਾ\PSP ਸੇਵਨ\N_NN ਅਤੇ\CC_CCD ਕਸਰਤ\N_NN ਦੀ\PSP ਘਾਟ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED336	ਸਰੀਰ\N_NN ਦੀਆਂ\PSP ਕੁਝ\DM_DMQ ਹੋਰ\RB ਬੀਮਾਰੀਆਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਵਧਣ\DM_DMQ ਦੀ\PSP ਸੰਭਾਵਨਾ\RP_INJ ਵਧ\DM_DMQ ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਜੋ\PR_PRP ਹੇਠ\N_NN ਲਿਖੇ\RB ਅਨੁਸਾਰ\N_NN ਹਨ\V_VAUX :\RD_PUNC
+PBHED337	*\RD_PUNC ਮੋਟਾਪਾ\N_NN :\RD_PUNC ਜ਼ਿਆਦਾਤਰ\DM_DMQ ਲੋਕ\N_NN ਜਿਨਾਂ\PR_PRF ਵਿੱਚ\PSP ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਉਹ\PR_PRP ਮੋਟੇ\JJ ਜਾਂ\CC_CCD ਲੋੜੋਂ\RB ਵੱਧ\RB ਭਾਰੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED338	*\RD_PUNC ਸ਼ੂਗਰ\N_NN :\RD_PUNC ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਪੀੜਤ\N_NN ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਹੋਣ\V_VM_VF ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਵਧ\DM_DMQ ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED339	*\RD_PUNC ਉਮਰ\N_NN :\RD_PUNC ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾਤਰ\DM_DMQ 50\QT_QTC ਸਾਲ\N_NN ਜਾਂ\CC_CCD ਇਸ\DM_DMR ਤੋਂ\PSP ਵੱਧ\RB ਉਮਰ\N_NN ਦੇ\PSP ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED340	*\RD_PUNC ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN :\RD_PUNC ਜਿਨਾਂ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN ਵਿੱਚ\PSP ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਵੱਧ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED341	ਉਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਹੋਣ\V_VM_VF ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਵਧ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED342	*\RD_PUNC ਥਾਇਰਾਇਡ\N_NN ਦੀ\PSP ਕਮੀ\RB :\RD_PUNC ਜਿਹਨਾਂ\PR_PRF ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਥਾਇਰਾਇਡ\N_NN ਹਾਰਮੋਨ\N_NN ਦੀ\PSP ਕਮੀ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਹੋਣ\V_VM_VF ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਵਧ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED343	*\RD_PUNC ਖਾਣ-ਪੀਣ\RB :\RD_PUNC ਜਿਹੜੇ\PR_PRL ਲੋਕ\N_NN ਜ਼ਿਆਦਾਤਰ\RB ਫਾਸਟਫੂਡ\N_NN ਅਤੇ\CC_CCD ਕੋਲਡ\N_NN ਡਰਿੰਕਸ\N_NN ਦਾ\PSP ਸੇਵਨ\V_VM ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED344	ਉਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਹੋਣ\V_VM ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਬਹੁਤ\DM_DMQ ਜ਼ਿਆਦਾ\DM_DMQ ਵਧ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED345	*\RD_PUNC ਖਾਨਦਾਨੀ\N_NN ਕਾਰਨ\N_NN :\RD_PUNC ਕਈ\RB ਵਾਰ\RB ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਪਰਿਵਾਰਕ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਪੁਸ਼ਤਾਂ\N_NN ਤੋਂ\PSP ਚੱਲੀ\V_VM ਆ\V_VM_VF ਰਹੀ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED346	ਕੀ\PR_PRQ ਹਨ\V_VAUX ਲੱਛਣ\N_NN ?\RD_PUNC
+PBHED347	ਜ਼ਿਆਦਾਤਰ\RB ਮਰੀਜ਼ਾਂ\N_NN ਵਿੱਚ\PSP ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਲੱਛਣ\N_NN ਵਿਖਾਈ\V_VM_VF ਨਹੀਂ\RP_NEG ਦਿੰਦੇ\V_VM_VF ।\RD_PUNC
+PBHED348	ਮਰੀਜ਼\N_NN ਵਿੱਚ\PSP ਜ਼ਿਆਦਾ\RB ਥਕਾਵਟ\JJ ਮਹਿਸੂਸ\JJ ਹੋਣ\V_VM_VF ਅਤੇ\CC_CCD ਸਰੀਰ\N_NN ਟੁੱਟਣ\V_VM_VINF ਜਿਹੇ\RB ਲੱਛਣ\N_NN ਵੇਖੇ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED349	ਕਈ\RB ਵਾਰ\RB ਮਰੀਜ਼\N_NN ਦੇ\PSP ਸੱਜੇ\RB ਪਾਸੇ\RB ਵੱਖੀ\N_NN ਦੇ\PSP ਹੇਠਾਂ\RB ਹਲਕਾ\JJ ਦਰਦ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED350	ਬੀਮਾਰੀ\N_NN ਵਧਣ\DM_DMQ ਕਾਰਨ\N_NN ਕਈ\RB ਵਾਰ\RB ਪੀਲੀਆ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED351	ਜ਼ਿਆਦਾਤਰ\RB ਹਾਲਤਾਂ\N_NN ਵਿੱਚ\PSP ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਖ਼ੂਨ\N_NN ਦੇ\PSP ਟੈਸਟਾਂ\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਜੋ\CC_CCD ਕਿਸੇ\PR_PRQ ਹੋਰ\RB ਕਾਰਨ\N_NN ਕਰਵਾਏ\V_VM_VF ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED352	ਨੁਕਸਾਨ\JJ :\RD_PUNC ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਕਰਕੇ\V_VM_VINF ਦਿਲ\N_NN ਦੇ\PSP ਰੋਗਾਂ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\JJ ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED353	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\PSP ਜਿਗਰ\N_NN ਫੇਲ\N_NN ਹੋਣ\V_VM ਦੀ\PSP ਸੂਰਤ\N_NN ਵਿੱਚ\PSP ਸਰੀਰ\N_NN ਦੇ\PSP ਹੋਰ\RB ਅੰਗ\N_NN ਜਿਵੇਂ\DM_DMQ ਗੁਰਦੇ\N_NN ,\RD_PUNC ਫੇਫੜੇ\N_NN ਅਤੇ\CC_CCD ਦਿਮਾਗ਼\N_NN ਵੀ\RP_RPD ਆਪਣਾ\PR_PRF ਕੰਮ\N_NN ਕਰਨਾ\V_VM_VINF ਬੰਦ\N_NN ਕਰ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED354	ਜ਼ਿਆਦਾ\DM_DMQ ਬੀਮਾਰੀ\N_NN ਵਧਣ\RB ’ਤੇ\CC_CCD ਪੇਟ\N_NN ਵਿੱਚ\PSP ਪਾਣੀ\N_NN ,\RD_PUNC ਖ਼ੂਨ\N_NN ਦੀਆਂ\PSP ਉਲਟੀਆਂ\N_NN ਅਤੇ\CC_CCD ਲੈਟਰੀਨ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਖ਼ੂਨ\N_NN ਆ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED355	ok\N_NN
+PBHED356	ਆਦਮੀ\N_NN ਦਾ\PSP ਸਰੀਰ\N_NN ਕਾਲਾ\JJ ਪੈ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED357	ਕਈ\DM_DMQ ਲੋਕਾਂ\N_NN ਦੀ\PSP ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਹੋਰ\RB ਵਧ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED358	ਟੈਸਟ\N_NN ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਪਤਾ\N_NN ਲਗਾਉਣ\V_VM_VF ਲਈ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਖ਼ੂਨ\N_NN ਦੇ\PSP ਟੈਸਟ\N_NN ਕਰਵਾ\V_VM_VF ਕੇ\V_VM_VINF ਵੇਖੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED359	ਕਿ\CC_CCS ਜਿਗਰ\N_NN ਠੀਕ\N_NN ਕੰਮ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਨਹੀਂ\RP_NEG ?\RD_PUNC
+PBHED360	ਜੇ\CC_CCS ਬੀਮਾਰੀ\N_NN ਵਧੀ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਟੈਸਟਾਂ\N_NN ਦੀਆਂ\PSP ਰਿਪੋਰਟਾਂ\N_NN ਵਿੱਚ\PSP ਗੜਬੜ\N_NN ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED361	ਇਸ\DM_DMD ਤੋਂ\PSP ਬਾਅਦ\RB ਜਿਗਰ\N_NN ਦਾ\PSP ਅਲਟਰਾਸਾਊਂਡ\N_NN ਸਕੈਨ\N_NN ਕਰਵਾ\V_VM_VF ਕੇ\V_VM_VINF ਵੇਖਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED362	ਕਿ\CC_CCS ਬੀਮਾਰੀ\N_NN ਕਿੰਨੀ\RB ਕੁ\RB ਵਧੀ\RB ਹੋਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED363	ਜੇ\CC_CCS ਜ਼ਿਆਦਾ\RB ਜ਼ਰੂਰਤ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਜਿਗਰ\N_NN ਵਿੱਚੋਂ\RB ਇੱਕ\RB ਸੂਈ\N_NN ਦੀ\PSP ਮਦਨ\N_NN ਨਾਲ\PSP ਟੁਕੜਾ\N_NN ਲੈ\V_VM_VF ਕੇ\V_VM_VINF ਦੇਖਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED364	ਕਿ\CC_CCS ਬੀਮਾਰੀ\N_NN ਕਿਸ\PR_PRQ ਸਟੇਜ\N_NN ’ਤੇ\CC_CCD ਹੈ\V_VAUX ।\RD_PUNC
+PBHED365	ਅੱਜ-ਕੱਲ\RB ਇੱਕ\RB ਨਵਾਂ\N_NN ਟੈਸਟ\N_NN ਫਾਈਬਰੋ\N_NN ਸਕੈਨ\N_NN ਆਇਆ\V_VM_VF ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਦੀ\PSP ਮਦਦ\N_NN ਨਾਲ\PSP ਜਿਗਰ\N_NN ਦੇ\PSP ਸੁੰਗੜਨ\JJ ਦਾ\PSP ਪਤਾ\N_NN ਲੱਗ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED366	ਇਲਾਜ\N_NN ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਵੱਡਾ\RB ਇਲਾਜ\N_NN ਇਸ\DM_DMD ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਤੋਂ\PSP ਹੀ\RP_RPD ਬਚਾਅ\N_NN ਕਰਨਾ\V_VM_VINF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED367	ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਨਸਾਨ\N_NN ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਚਰਬੀ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਘੱਟ\RB ਲੈ\V_VM_VF ਕੇ\V_VM_VINF ਜਾਵੇ\V_VM ।\RD_PUNC
+PBHED368	ਜ਼ਿਆਦਾ\RB ਮਿੱਠੀਆਂ\JJ ਅਤੇ\CC_CCD ਚਰਬੀ\N_NN ਵਾਲੀਆਂ\PSP ਚੀਜ਼ਾਂ\N_NN ਤੋਂ\PSP ਪਰਹੇਜ਼\N_NN ਕਰੇ\V_VM_VF ।\RD_PUNC
+PBHED369	ਹੌਲੀ-ਹੌਲੀ\RB ਵਜ਼ਨ\N_NN ਘਟਾਉਣਾ\V_VM_VINF ਬਹੁਤ\RB ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED370	ਜੇ\CC_CCS ਛੇਤੀ\RB ਕੀਤੇ\V_VM_VF ਵਜ਼ਨ\N_NN ਘਟਾਇਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਵਧਣ\RB ਦਾ\PSP ਖ਼ਤਰਾ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED371	ਸਭ\DM_DMQ ਤੋਂ\PSP ਵਧੀਆ\RB ਕਸਰਤ\N_NN ਹੈ\V_VAUX ਤੇਜ਼\RB ਤੁਰਨਾ\V_VM_VINF ।\RD_PUNC
+PBHED372	ਹਰ\RB ਰੋਜ਼\RB ਚਾਲੀ\QT_QTC ਤੋਂ\PSP ਪੰਤਾਲੀ\QT_QTC ਮਿੰਟ\N_NN ਤੇਜ਼\RB ਤੁਰਨ\V_VM_VF ਨਾਲ\PSP ਜਿਗਰ\N_NN ਨੂੰ\PSP ਕਾਫ਼ੀ\RB ਫ਼ਾਇਦਾ\JJ ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED373	ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਇਲਾਜ\N_NN ਲਈ\PSP ਕਈ\DM_DMQ ਤਰਾਂ\PSP ਦੀਆਂ\PSP ਦਵਾਈਆਂ\N_NN ਵੀ\RP_RPD ਵਿਕਸਤ\N_NN ਹੋਈਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED374	ਵਿਟਾਮਿਨ-\N_NN ਈ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਇਸ\DM_DMD ਦੇ\PSP ਇਲਾਜ\N_NN ਵਿੱਚ\PSP ਕਾਫ਼ੀ\DM_DMQ ਫ਼ਾਇਦਾ\JJ ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED375	ਜੇ\CC_CCS ਜਿਗਰ\N_NN ਬਿਲਕੁਲ\RB ਫੇਲ\N_NN ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਇਸ\DM_DMD ਨੂੰ\PSP ਟਰਾਂਸਪਲਾਂਟ\N_NN ਕਰਵਾਉਣ\V_VM_VF ਤੋਂ\PSP ਇਲਾਵਾ\PSP ਕੋਈ\DM_DMQ ਹੋਰ\RB ਚਾਰਾ\N_NN ਨਹੀਂ\RP_NEG ਰਹਿ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ।\RD_PUNC
+PBHED376	ਅੱਜ-ਕੱਲ\RB ਤਾਂ\RP_RPD ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਵੱਡਿਆਂ\DM_DMQ ਤੋਂ\PSP ਲੈ\V_VM_VF ਕੇ\V_VM_VINF ਬੱਚਿਆਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਵੇਖਣ\V_VM_VINF ਨੂੰ\PSP ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED377	ਮੋਟੇ\JJ ਬੱਚਿਆਂ\N_NN ਵਿੱਚ\PSP ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਹੋਣ\V_VM_VF ਦੇ\PSP ਆਸਾਰ\N_NN ਵਧੇਰੇ\DM_DMQ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED378	ਬੱਚਿਆਂ\N_NN ਵਿੱਚ\PSP ਜ਼ਿਆਦਾ\DM_DMQ ਲੱਛਣ\N_NN ਨਹੀਂ\RP_NEG ਵਿਖਾਈ\V_VM_VF ਨਹੀਂ\RP_NEG ਦਿੰਦੇ\V_VM_VF |\RD_PUNC
+PBHED379	ਸਿਰਫ਼\RB ਸੱਜੇ\RB ਪਾਸੇ\RB ਵੱਖੀ\N_NN ਦੇ\PSP ਥੱਲੇ\RB ਹਲਕਾ-ਹਲਕਾ\JJ ਦਰਦ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED380	ਬੱਚਿਆਂ\N_NN ਵਿੱਚ\PSP ਸਿਰਫ਼\RB ਵਜ਼ਨ\N_NN ਘਟਾ\RB ਕੇ\V_VM_VINF ਹੀ\RP_RPD ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਤੋਂ\PSP ਛੁਟਕਾਰਾ\V_VM ਪਾਇਆ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED381	ਇਹ\DM_DMD ਪੁਰਾਣੀ\N_NN ਕਹਾਵਤ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਿਹਤਮੰਦ\N_NN ਸਰੀਰ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਸਿਹਤਮੰਦ\N_NN ਦਿਮਾਗ\N_NN ਦਾ\PSP ਵਾਸ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED382	ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਦਾ\PSP ਵਿਕਾਸ\N_NN ਸਾਡੇ\PR_PRP ਭੋਜਨ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਨਿਰਭਰ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED383	ਭੋਜਨ\N_NN ਸਾਡੇ\PR_PRP ਸਰੀਰਕ\N_NN ਵਿਕਾਸ\N_NN ਲਈ\PSP ਕੱਚੇ\N_NN ਮਾਲ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED384	ਪੇਟ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਪਚਾ\V_VM_VF ਕੇ\V_VM_VINF ਸਰੀਰ\N_NN ਨੂੰ\PSP `\RD_PUNC ਪੌਸ਼ਟਿਕ\JJ ਤੱਤ\N_NN `\RD_PUNC ਪ੍ਰਦਾਨ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED385	ਜੇ\CC_CCD ਤੁਹਾਡਾ\PR_PRP ਪਾਚਣਤੰਤਰ\N_NN ਠੀਕ\N_NN ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਤੁਸੀਂ\PR_PRP ਜੋ\PR_PRL ਕੁਝ\DM_DMQ ਵੀ\RP_RPD ਖਾਓਗੇ\V_VM_VF ,\RD_PUNC ਉਹ\PR_PRP ਤੁਹਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਲੱਗੇਗਾ\V_VM_VF |\RD_PUNC
+PBHED386	ਪੇਟ\N_NN ਦੀ\PSP ਬਿਮਾਰੀ\N_NN ਹਜ਼ਾਰ\RB ਬਿਮਾਰੀਆਂ\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਬਣਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED387	ਇਸ\DM_DMD ਲਈ\PSP ਪਾਚਣਤੰਤਰ\N_NN ਵਿਚ\PSP ਹੋਣ\V_VM_VF ਵਾਲੀ\PSP ਗੜਬੜੀ\N_NN ਨੂੰ\PSP ਨਜ਼ਰਅੰਦਾਜ਼\N_NN ਨਾ\RP_NEG ਕਰੋ,\V_VM_VF ਨਹੀਂ\RP_NEG ਤਾਂ\RP_RPD ਇਹ\DM_DMD ਵੱਡੀ\RB ਸਮੱਸਿਆ\N_NN ਬਣ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED388	ਦੂਸ਼ਿਤ\N_NN ਵਾਤਾਵਰਨ\N_NN ਦਾ\PSP ਸਿੱਧਾ\JJ ਪ੍ਰਭਾਵ\N_NN ਸਿਹਤ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED389	ਸਰੀਰ\N_NN ਵਿਚ\PSP ਪੇਟ\N_NN ਇਕ\DM_DMQ ਅਜਿਹਾ\DM_DMR ਅੰਗ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜੋ\PR_PRL ਦੂਸ਼ਿਤ\JJ ਵਾਤਾਵਰਨ\N_NN ਕਾਰਨ\N_NN ਬਿਮਾਰੀਆਂ\N_NN ਦਾ\PSP ਘਰ\N_NN ਬਣ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED390	ਆਮ\RB ਤੌਰ\RB `\RD_PUNC ਤੇ\CC_CCS ਹਲਕਾ-ਹਲਕਾ\RB ਦਰਦ\JJ ਹੋਣ\V_VM ,\RD_PUNC ਲੈਟਰੀਨ\N_NN ਠੀਕ\N_NN ਤਰਾਂ\PSP ਨਾ\RP_NEG ਆਉਣ\V_VM_VF ਜਾਂ\CC_CCD ਵਾਰ-ਵਾਰ\RB ਆਉਣ\V_VM_VF `\RD_PUNC ਤੇ\CC_CCD ਕਮਜ਼ੋਰੀ\JJ ਮਹਿਸੂਸ\JJ ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED391	ਇਹ\DM_DMD ਸਾਰੀਆਂ\DM_DMQ ਤਕਲੀਫਾਂ\N_NN ਇਕ\RB ਕਾਮਨ\N_NN ਬਿਮਾਰੀ\N_NN ਦੀ\PSP ਵਜਾ\N_NN ਨਾਲ\PSP ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਨੂੰ\PSP `\RD_PUNC ਏਮਬਿਓਸਿਸ\N_NN `\RD_PUNC ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED392	ਅਸਲ\RB ਵਿਚ\PSP ਸਾਡੇ\PR_PRP ਤੰਤਰ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਲਿਵਰ\N_NN ਵਿਚ\PSP ਅੰਤੜੀਆਂ\N_NN ਦਾ\PSP ਸਥਾਨ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED393	ਵੱਡੀ\RB ਤੇ\CC_CCD ਛੋਟੀ\RB ਅੰਤੜੀ\N_NN ਤੋਂ\PSP ਕਈ\DM_DMQ ਤਰਾਂ\PSP ਦੇ\PSP ਰਸ\N_NN ਨਿਕਲਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED394	ਇਹ\DM_DMD ਸਾਡੇ\PR_PRP ਭੋਜਨ\N_NN ਨੂੰ\PSP ਪਚਾਉਣ\V_VM_VF ਵਿਚ\PSP ਸਹਾਇਕ\JJ ਸਿੱਧ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED395	ਅੰਤੜੀ\N_NN ਵਿਚ\PSP ਤਕਲੀਫ\N_NN ਦਾ\PSP ਸਾਡੇ\PR_PRP ਪੇਟ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਸਿੱਧਾ\RB ਪ੍ਰਭਾਵ\N_NN ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED396	ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਕਈ\DM_DMQ ਬਿਮਾਰੀਆਂ\N_NN ਦਾ\PSP ਸ਼ਿਕਾਰ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED397	ਪੇਟ\N_NN ਦੇ\PSP ਰੋਗ\N_NN ਦਾ\PSP ਮੁੱਖ\JJ ਕਾਰਨ\N_NN ਅੰਤੜੀ\N_NN ਅਤੇ\CC_CCD ਜਿਗਰ\N_NN ਦੀ\PSP ਸੋਜ\JJ ਹੈ\V_VAUX |\RD_PUNC
+PBHED398	ਇਸ\DM_DMD ਦੇ\PSP ਕਾਰਨ\N_NN ਪੇਟ\N_NN ਵਿਚ\PSP ਹਲਕਾ-ਹਲਕਾ\RB ਦਰਦ\N_NN ਅਤੇ\CC_CCD ਪਖਾਨਾ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED399	ਹੌਲੀ-ਹੌਲੀ\RB ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਕਮਜ਼ੋਰੀ\JJ ਮਹਿਸੂਸ\JJ ਹੋਣ\V_VM_VF ਲਗਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਭੁੱਖ\N_NN ਘੱਟ\RB ਲਗਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਕੋਈ\DM_DMQ ਵੀ\RP_RPD ਕੰਮ\N_NN ਕਰਨ\V_VM_VF ਨੂੰ\PSP ਮਨ\N_NN ਨਹੀਂ\RP_NEG ਕਰਦਾ\V_VM_VF |\RD_PUNC
+PBHED400	ਮਰੀਜ਼\N_NN ਦਾ\PSP ਭਾਰ\N_NN ਘਟ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਅੰਤੜੀ\N_NN ਅਤੇ\CC_CCD ਜਿਗਰ\N_NN ਦੀ\PSP ਸੋਜ\N_NN ਨਾਲ\PSP ਪੇਟ\N_NN ਫੁੱਲਿਆ-ਫੁੱਲਿਆ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED401	ਅੰਤੜੀ\N_NN ਦੀ\PSP ਸੋਜ\N_NN :\RD_PUNC ਅੰਤੜੀ\N_NN ਦੀ\PSP ਸੋਜ\N_NN ਦਾ\PSP ਮੁੱਖ\N_NN ਕਾਰਨ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਕੀਟਾਣੂ\N_NN ,\RD_PUNC ਜੋ\PR_PRL ਸਾਡੀਆਂ\PR_PRP ਅੰਤੜੀਆਂ\N_NN ਦੀਆਂ\PSP ਝਿੱਲੀਆਂ\N_NN ਵਿਚਾਲੇ\PSP ਇਕੱਠੇ\RB ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED402	ਇਸ\DM_DMD ਨਾਲ\PSP ਅੰਤੜੀਆਂ\N_NN ਦੀ\PSP ਹਜ਼ਮ\N_NN ਕਰਨ\N_NN ਦੀ\PSP ਤਾਕਤ\JJ ਘੱਟ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED403	ਅਤੇ\CC_CCD ਵਾਰ-ਵਾਰ\RB ਲੈਟਰੀਨ\N_NN ਜਾਣ\V_VM_VF ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਮਹਿਸੂਸ\JJ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED404	ਇਲਾਜ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਬਿਮਾਰੀ\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਬਹੁਤ\RB ਅਸਾਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED405	ਪੇਟ\N_NN ਦੇ\PSP ਡਾਕਟਰ\N_NN ਨਾਲ\PSP ਸੰਪਰਕ\N_NN ਕਰੋ\V_VM_VF |\RD_PUNC
+PBHED406	ਉਸ\PR_PRP ਦੀ\PSP ਸਲਾਹ\N_NN ਅਨੁਸਾਰ\PSP ਇਲਾਜ\N_NN ਕਰਨ\V_VM ਅਤੇ\CC_CCD ਖਾਣ-ਪੀਣ\N_NN ਦਾ\PSP ਧਿਆਨ\N_NN ਰੱਖਣ\V_VM_VF ਨਾਲ\PSP ਥੋੜੇ\RB ਹੀ\RP_RPD ਦਿਨਾਂ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਬਿਮਾਰੀ\N_NN ਖਤਮ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED407	ਲਿਵਰ\N_NN ਦੀ\PSP ਸੋਜ\N_NN :\RD_PUNC ਲਿਵਰ\N_NN ਸਾਡੇ\PR_PRP ਪਾਚਣਤੰਤਰ\N_NN ਦਾ\PSP ਮੁੱਖ\JJ ਅੰਗ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED408	ਇਸ\DM_DMD ਵਿਚੋਂ\PSP ਕਈ\DM_DMQ ਤਰਾਂ\PSP ਦੇ\PSP ਤਰਲ\N_NN ਪਦਾਰਥ\N_NN ਨਿਕਲਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED409	ਇਹ\DM_DMD ਸਾਡੇ\PR_PRP ਭੋਜਨ\N_NN ਨੂੰ\PSP ਹਜ਼ਮ\N_NN ਕਰਨ\V_VM ਵਿਚ\PSP ਮਦਦ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED410	ਲੱਛਣ\N_NN :\RD_PUNC ਭੁੱਖ\N_NN ਘੱਟ\RB ਲੱਗਣਾ\V_VM_VINF ,\RD_PUNC ਉਲਟੀ\N_NN ਆਉਣਾ\V_VM_VINF ,\RD_PUNC ਜੀਅ\N_NN ਕੱਚਾ\JJ ਹੋਣਾ\V_VM_VF ,\RD_PUNC ਸੁਸਤੀ\N_NN ਪੈਣਾ\N_NN ,\RD_PUNC ਹਲਕਾ\JJ ਬੁਖਾਰ\N_NN ਰਹਿਣਾ\V_VM_VINF ਤੋਂ\PSP ਇਲਾਵਾ\PSP ਕਈ\RB ਵਾਰ\RB ਬੇਹੋਸ਼ੀ\N_NN ਵੀ\RP_RPD ਆ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED411	ਇਲਾਜ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਦੇ\PSP ਇਲਾਜ\N_NN ਲਈ\PSP ਵੀ\RP_RPD ਬਹੁਤ\DM_DMQ ਦਵਾਈਆਂ\N_NN ਖਾਣ\N_NN ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਨਹੀਂ\RP_NEG ਪੈਂਦੀ\V_VM_VF |\RD_PUNC
+PBHED412	ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਖੁਰਾਕ\N_NN ਵਿਚ\PSP ਗੁਲੂਕੋਜ਼\N_NN ਅਤੇ\CC_CCD ਮਿੱਠੀਆਂ\JJ ਚੀਜ਼ਾਂ\N_NN ਜ਼ਿਆਦਾ\RB ਦੇ\PSP ਕੇ\V_VM_VINF ,\RD_PUNC ਤਲੀਆਂ\JJ ਤੇ\CC_CCD ਖੱਟੀਆਂ\JJ ਚੀਜ਼ਾਂ\N_NN ਤੋਂ\PSP ਪ੍ਰਹੇਜ਼\N_NN ਕਰਕੇ\V_VM_VINF ਪੂਰਾ\N_NN ਆਰਾਮ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED413	ਨਾਲ\PSP ਹੀ\RP_RPD ਡਾਕਟਰ\N_NN ਨਾਲ\PSP ਸੰਪਰਕ\N_NN ਵੀ\RP_RPD ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBHED414	ਹਰ\RB ਇੱਕ\DM_DMQ ਮੌਸਮ\N_NN ਵਿੱਚ\PSP ਸਿਹਤ\N_NN ਦੀ\PSP ਸੰਭਾਲ\N_NN ਕਰਨੀ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED415	ਗਰਮੀ\N_NN ਦੀ\PSP ਸ਼ੁਰੂਆਤ\RB ਹੁੰਦਿਆਂ\V_VM_VF ਹੀ\RP_RPD ਇੱਕ\RB ਵਾਰ\RB ਭਾਵੇਂ\RB ਸਾਰੇ\DM_DMQ ਖ਼ੁਸ਼\JJ ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED416	ਪਰ\CC_CCD ਜਿਵੇਂ-ਜਿਵੇਂ\RB ਇਹ\DM_DMD ਆਪਣਾ\PR_PRP ਰੰਗ\JJ ਵਿਖਾਉਣ\V_VM_VF ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED417	ਤਾਂ\RP_RPD ਸਾਨੂੰ\PR_PRP ਕਈ\DM_DMQ ਸਿਹਤ\N_NN ਸਮੱਸਿਆਵਾਂ\N_NN ਦਾ\PSP ਸਾਹਮਣਾ\V_VM_VINF ਕਰਨਾ\V_VM_VINF ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED418	ਇਸ\DM_DMD ਮੌਸਮ\N_NN ਵਿਚ\PSP ਪਿੱਤ\N_NN ,\RD_PUNC ਚਮੜੀ\N_NN ’ਤੇ\CC_CCD ਖੁਸ਼ਕੀ\JJ ਅਤੇ\CC_CCD ਖੁਜਲੀ\N_NN ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਆਮ\RB ਹੀ\RP_RPD ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED419	ਜ਼ਿਆਦਾ\RB ਪਸੀਨਾ\N_NN ਆਉਣ\V_VM_VF ਕਰਕੇ\V_VM_VINF ਲੱਤਾਂ\N_NN ਵਿੱਚ\PSP ਪੀੜ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED420	ਸਰੀਰ\N_NN ਵਿੱਚੋਂ\RB ਪਸੀਨੇ\N_NN ਅਤੇ\CC_CCD ਪਿਸ਼ਾਬ\N_NN ਰਾਹੀਂ\PSP ਪਾਣੀ\N_NN ਨਿਕਲਣ\V_VM_VF ਕਰਕੇ\V_VM_VINF ਵਿਅਕਤੀ\N_NN ਵਿੱਚ\PSP ਸੋਡੀਅਮ\N_NN ਤੇ\CC_CCD ਪੋਟਾਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਘਾਟ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED421	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VINF ਸਟਰੋਕ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED422	ਤੇ\CC_CCD ਬੰਦਾ\N_NN ਬੇਹੋਸ਼\JJ ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED423	ਉਲਟੀਆਂ-ਟੱਟੀਆਂ\RB ਲੱਗ\V_VM ਜਾਣੀਆਂ\V_VM_VNF ,\RD_PUNC ਢਿੱਡ\N_NN ਵਿੱਚ\PSP ਪੀੜ\N_NN ਹੋਣੀ\V_VM_VINF ,\RD_PUNC ਚੱਕਰ\N_NN ਆਉਣੇ\V_VM_VF ਅਤੇ\CC_CCD ਭੁੱਖ\N_NN ਘੱਟ\RB ਲੱਗਣ\V_VM ਵਰਗੀਆਂ\N_NN ਅਲਾਮਤਾਂ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀਆਂ\V_VM_VINF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED424	ਪਰਹੇਜ\N_NN ਹੈ\V_VAUX ਜ਼ਰੂਰੀ\RB ਗਰਮੀਆਂ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਵਿੱਚ\PSP ਹਲਕਾ\JJ ਭੋਜਨ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED425	ਪਰੌਂਠੇ\N_NN ,\RD_PUNC ਪਿੱਜ਼ਾ\N_NN ,\RD_PUNC ਬਰਗਰ\N_NN ਅਤੇ\CC_CCD ਤਲੀਆਂ\JJ ਚੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਤੋਂ\PSP ਗੁਰੇਜ਼\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED426	ਜ਼ਿਆਦਾ\DM_DMQ ਚਿਕਨਾਈ\N_NN ਵਾਲੀਆਂ\PSP ਚੀਜ਼ਾਂ\N_NN ਨਾਲ\PSP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਫੈਟ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵਧ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED427	ਇਸ\DM_DMD ਕਰਕੇ\V_VM_VINF ਸਰੀਰ\N_NN ਵਿੱਚੋਂ\RB ਗਰਮੀ\N_NN ਬਾਹਰ\RB ਨਿਕਲਣ\V_VM_VF ਵਿੱਚ\PSP ਰੁਕਾਵਟ\N_NN ਪੈਦਾ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED428	ਅਤੇ\CC_CCD ਸਰੀਰ\N_NN ਦਾ\PSP ਤਾਪਮਾਨ\N_NN ਵਧ\RB ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਨਾਲ\PSP ਨੁਕਸਾਨ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED429	ਕਿਹੋ\PR_PRQ ਜਿਹੀ\RB ਖ਼ੁਰਾਕ\N_NN ਲਈਏ\V_VM_VF ?\RD_PUNC
+PBHED430	*\RD_PUNC ਗਰਮੀਆਂ\N_NN ਵਿੱਚ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਜ਼ਿਆਦਾ\RB ਧਿਆਨ\N_NN ਪਾਣੀ\N_NN ਪੀਣ\N_NN ਵੱਲ\PSP ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED431	ਦਿਨ\RB ਵਿੱਚ\PSP ਥੋੜੀ-ਥੋੜੀ\RB ਦੇਰ\RB ਮਗਰੋਂ\RB ਸਾਫ਼\JJ ਪਾਣੀ\N_NN ਜ਼ਰੂਰ\RB ਪੀਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED432	ਦੂਸ਼ਿਤ\JJ ਪਾਣੀ\N_NN ਪੀਣ\V_VM_VF ਨਾਲ\PSP ਹੈਜਾ\N_NN ,\RD_PUNC ਪੇਚਿਸ,\N_NN ਹੈਪਾਟਾਇਟਸ-\N_NN ਏ\N_NN ,\RD_PUNC ਪੀਲੀਆ\N_NN ਅਤੇ\CC_CCD ਟਾਈਫਾਈਡ\N_NN ਵਰਗੇ\PSP ਰੋਗ\N_NN ਲੱਗ\N_NN ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED433	ਚੰਗਾ\JJ ਹੋਵੇ\V_VM_VF ਜੇ\CC_CCS ਤੁਸੀਂ\PR_PRP ਫਿਲਟਰ\N_NN ਪਾਣੀ\N_NN ਜਾਂ\CC_CCD ਉਬਾਲ\N_NN ਕੇ\V_VM_VINF ਠੰਢਾ\JJ ਕੀਤਾ\V_VM_VF ਪਾਣੀ\N_NN ਆਪਣੇ\PR_PRF ਨਾਲ\PSP ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBHED434	ਬਾਜ਼ਾਰ\N_NN ਵਿੱਚ\PSP ਪਲਾਸਟਿਕ\N_NN ਦੀਆਂ\PSP ਬੋਤਲਾਂ\N_NN ਵਿੱਚ\PSP ਪੈਕ\N_NN ਕੀਤਾ\V_VM_VF ਪਾਣੀ\N_NN ਖ਼ਰੀਦਣ\V_VM_VINF ਤੋਂ\PSP ਗੁਰੇਜ਼\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED435	ਕਿਉਂਕਿ\CC_CCS ਜੇ\CC_CCS ਲੰਮੇ\N_NN ਸਮੇਂ\N_NN ਤਕ\PSP ਇਹਨਾਂ\PR_PRF ਬੋਤਲਾਂ\N_NN ਵਿੱਚ\PSP ਇਹ\DM_DMD ਪਾਣੀ\N_NN ਪਿਆ\V_VM_VF ਰਹੇ\V_VM_VF ਤਾਂ\RP_RPD ਉਹ\PR_PRP ਜ਼ਹਿਰੀਲਾ\JJ ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED436	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਵਿਅਕਤੀ\N_NN ਨੂੰ\PSP ਨੁਕਸਾਨ\N_NN ਪੁੱਜ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED437	*\RD_PUNC ਕੋਲਡ\N_NN ਡਰਿੰਕਸ\N_NN ਜਾਂ\CC_CCD ਲੈਮਨ-ਸੋਡਾ\N_NN ਦੀ\PSP ਬਜਾਇ\RB ਨਿੰਬੂ\N_NN ਪਾਣੀ\N_NN ,\RD_PUNC ਨਾਰੀਅਲ\N_NN ਪਾਣੀ\N_NN ,\RD_PUNC ਲੱਸੀ\N_NN ਅਤੇ\CC_CCD ਜਲ\N_NN ਜੀਰੇ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਨੂੰ\PSP ਤਰਜੀਹ\RB ਦੇਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED438	ਕੋਲਡ\N_NN ਡਰਿੰਕਸ\N_NN ਵਿੱਚ\PSP ਕੈਫੀਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED439	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਪਿਸ਼ਾਬ\N_NN ਜ਼ਿਆਦਾ\RB ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED440	ਇਸ\DM_DMD ਕਾਰਨ\N_NN ਸਰੀਰ\N_NN ’ਚੋਂ\RB ਲੋੜੀਂਦੇ\RB ਇਲੈਕਟਰੋਲਾਈਟ\N_NN ਪਿਸ਼ਾਬ\N_NN ਰਾਹੀਂ\PSP ਬਾਹਰ\RB ਨਿਕਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED441	ਚਾਹ-ਕੌਫੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਵੀ\RP_RPD ਘੱਟ\RB ਤੋਂ\PSP ਘੱਟ\RB ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED442	ਕਿਉਂਕਿ\CC_CCS ਇਹਨਾਂ\PR_PRF ਵਿੱਚ\PSP ਵੀ\RP_RPD ਕੈਫੀਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED443	*\RD_PUNC ਆਈਸ\N_NN ਕਰੀਮ\N_NN ਅਤੇ\CC_CCD ਠੰਢੀ\JJ ਬੀਅਰ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਤੋਂ\PSP ਗੁਰੇਜ਼\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED444	ਜ਼ਿਆਦਾ\RB ਠੰਢੀਆਂ\JJ ਚੀਜ਼ਾਂ\N_NN ਖਾਣ\V_VM_VF ਨਾਲ\PSP ਖ਼ੂਨ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਸੁੰਗੜ\N_NN ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED445	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VINF ਇਨਾਂ\RB ਵਿੱਚ\PSP ਖ਼ੂਨ\N_NN ਦਾ\PSP ਵਗਣਾ\V_VM_VINF ਘਟ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED446	ਅਤੇ\CC_CCD ਸਰੀਰ\N_NN ’ਚੋਂ\RB ਵਾਧੂ\RB ਗਰਮੀ\N_NN ਬਾਹਰ\RB ਨਹੀਂ\RP_NEG ਨਿਕਲ\N_NN ਸਕਦੀ\V_VM_VF ਜੋ\CC_CCS ਨੁਕਸਾਨਦੇਹ\N_NN ਸਾਬਤ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED447	ਕਈ\DM_DMQ ਲੋਕ\N_NN ਗਰਮੀਆਂ\N_NN ਵਿੱਚ\PSP ਬੀਅਰ\N_NN ਬਹੁਤ\DM_DMQ ਪੀਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED448	ਕਿਉਂਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਬੀਅਰ\N_NN ਗਰਮੀ\N_NN ਘਟਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED449	ਪਰ\CC_CCD ਅਸਲ\RB ਵਿੱਚ\PSP ਇਸ\DM_DMD ਦੀ\PSP ਜ਼ਿਆਦਾ\DM_DMQ ਵਰਤੋਂ\V_VM_VF ਕਰਨ\V_VM ਨਾਲ\PSP ਯੂਰਿਕ\N_NN ਐਸਿਡ\N_NN ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED450	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VINF ਜੋੜਾਂ\N_NN ਵਿੱਚ\PSP ਪੀੜ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED451	ਆਈਸ\N_NN ਕਰੀਮ\N_NN ਵੀ\RP_RPD ਸਿਰਫ਼\RB ਖਾਣ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਠੰਢੀ\N_NN ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED452	ਪਰ\CC_CCD ਅਸਲ\RB ਵਿੱਚ\PSP ਇਹ\DM_DMD ਸਰੀਰ\N_NN ਨੂੰ\PSP ਗਰਮੀ\N_NN ਪਹੁੰਚਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED453	*\RD_PUNC ਪਾਲਕ,\N_NN ਮੂਲੀ\N_NN ,\RD_PUNC ਲਸਣ\N_NN ,\RD_PUNC ਪਿਆਜ਼\N_NN ਅਤੇ\CC_CCD ਚੁਕੰਦਰ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਘੱਟ\RB ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED454	ਕਿਉਂਕਿ\CC_CCS ਇਹ\DM_DMD ਜ਼ਿਆਦਾ\RB ਗਰਮੀ\N_NN ਪੈਦਾ\V_VM_VF ਕਰਦੀਆਂ\V_VM_VINF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED455	ਪੱਕੇ\RB ਅੰਬ\N_NN ਵੀ\RP_RPD ਹਰ\RB ਰੋਜ਼\RB 300\QT_QTC ਗ੍ਰਾਮ\N_NN ਤੋਂ\PSP ਵੱਧ\RB ਨਹੀਂ\RP_NEG ਖਾਣੇ\V_VM_VF ਚਾਹੀਦੇ\V_VM_VF ।\RD_PUNC
+PBHED456	ਚੰਗਾ\JJ ਹੋਵੇ\V_VM_VF ਜੇ\CC_CCD ਤੁਸੀਂ\PR_PRP ਰਾਤ\RB ਨੂੰ\PSP ਅੰਬਾਂ\N_NN ਨੂੰ\PSP ਪਾਣੀ\N_NN ਵਿੱਚ\PSP ਭਿਉਂ\N_NN ਕੇ\V_VM_VINF ਰੱਖ\V_VM_VF ਦੇਵੋ\V_VM_VF ।\RD_PUNC
+PBHED457	ਜ਼ਿਆਦਾ\RB ਮਾਤਰਾ\RB ਵਿੱਚ\PSP ਅੰਬ\N_NN ਖਾਣ\V_VM_VF ਨਾਲ\PSP ਖ਼ੂਨ\N_NN ਵਿੱਚ\PSP ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵਧ\RB ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED458	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਪੇਟ\N_NN ਖ਼ਰਾਬ\N_NN ਹੋਣ\V_VM_VF ਜਾਂ\CC_CCD ਜੀਅ\N_NN ਕੱਚਾ\JJ ਹੋਣ\V_VM_VF ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਆ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਲਟੀ\N_NN ਆ\N_NN ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਪੇਟ\N_NN ਵਿੱਚ\PSP ਅਫਰੇਵਾਂ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED459	ਜ਼ਿਆਦਾ\RB ਭਾਰ\N_NN ਵਾਲੇ\PSP ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਅੰਬਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਘੱਟ\RB ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED460	ਕਿਉਂਕਿ\CC_CCS ਇਹਨਾਂ\PR_PRP ਦੀ\PSP ਜ਼ਿਆਦਾ\RB ਵਰਤੋਂ\PSP ਨਾਲ\PSP ਭਾਰ\N_NN ਵਧ\RB ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED461	*\RD_PUNC ਘੀਆ\N_NN ,\RD_PUNC ਟਿੰਡਾ\N_NN ,\RD_PUNC ਖੀਰਾ\N_NN ,\RD_PUNC ਤੋਰੀ\N_NN ਅਤੇ\CC_CCD ਕੱਦੂ\N_NN ਵਰਗੀਆਂ\PSP ਸਬਜ਼ੀਆਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED462	ਖਰਬੂਜਾ\N_NN ,\RD_PUNC ਤਰਬੂਜ\N_NN ,\RD_PUNC ਲੀਚੀ\N_NN ਅਤੇ\CC_CCD ਆੜੂ\N_NN ਵਰਗੇ\N_NN ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਇਸਤੇਮਾਲ\N_NN ਕਰਨਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED463	ਤਰਬੂਜ\N_NN ਅਤੇ\CC_CCD ਖਰਬੂਜੇ\N_NN ਵਿੱਚ\PSP ਵਿਟਾਮਿਨ-\N_NN ਏ,ਬੀ\N_NN ਅਤੇ\CC_CCD ਸੀ\V_VAUX ਤੋਂ\PSP ਇਲਾਵਾ\PSP ਪੋਟਾਸ਼ੀਅਮ\N_NN ਵੀ\RP_RPD ਕਾਫ਼ੀ\RB ਮਾਤਰਾ\RB ਵਿੱਚ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED464	ਜੋ\PR_PRL ਗੁਰਦੇ\N_NN ਵਿੱਚੋਂ\RB ਜ਼ਹਿਰੀਲੇ\JJ ਤੱਤ\N_NN ਸਾਫ਼\JJ ਕਰਨ\V_VM ਵਿੱਚ\PSP ਮਦਦ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED465	*\RD_PUNC ਇਸ\DM_DMD ਮੌਸਮ\N_NN ਵਿੱਚ\PSP ਛੱਲੀ\N_NN ਖਾਣੀ\N_NN ਵੀ\RP_RPD ਲਾਭਦਾਇਕ\N_NN ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਇਸ\DM_DMD ਵਿੱਚ\PSP ਮੌਜੂਦ\RB ਐਂਟੀ-ਆਕਸੀਡੈਂਟ\N_NN ਸੂਰਜ\N_NN ਦੀਆਂ\PSP ਤੇਜ਼\RB ਕਿਰਨਾਂ\N_NN ਤੋਂ\PSP ਚਮੜੀ\N_NN ਦੀ\PSP ਰੱਖਿਆ\V_VM_VF ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED466	*\RD_PUNC ਪੀਣ\N_NN ਵਾਲੇ\PSP ਤਰਲ\N_NN ਪਦਾਰਥ\N_NN ਵਿੱਚ\PSP ਤੁਲਸੀ\N_NN ਦੇ\PSP ਬੀਜ\N_NN ਪਾਏ\V_VM_VF ਜਾ\CC_CCS ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED467	ਇਸ\DM_DMD ਨਾਲ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਠੰਢਕ\JJ ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED468	*\RD_PUNC ਘੱਟ\RB ਫੈਟ\N_NN ਵਾਲੇ\PSP ਦੁੱਧ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED469	ਦਹੀਂ\N_NN ਦੇ\PSP ਨਿਯਮਿਤ\N_NN ਢੰਗ\N_NN ਨਾਲ\PSP ਸੇਵਨ\N_NN ਕਰਨ\V_VM ਨਾਲ\PSP ਬਦਹਜ਼ਮੀ\N_NN ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED470	*\RD_PUNC ਸਾਨੂੰ\PR_PRP ਹਰ\RB ਰੋਜ਼\RB 6\QT_QTC ਤੋਂ\PSP 8\QT_QTC ਚਮਚਿਆਂ\N_NN ਤੋਂ\PSP ਵੱਧ\RB ਚੀਨੀ\N_NN ਨਹੀਂ\RP_NEG ਖਾਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBHED471	ਮਿੱਠੀਆਂ\JJ ਚੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਤੋਂ\PSP ਸੰਕੋਚ\N_NN ਕਰੋ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਇਹਨਾਂ\PR_PRP ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਨਾਲ\PSP ਪਿਆਸ\N_NN ਜ਼ਿਆਦਾ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED472	ਇਸ\DM_DMD ਦੀ\PSP ਬਜਾਇ\RB ਮਿੱਠੇ\JJ ਫ਼ਲਾਂ\N_NN ਅਤੇ\CC_CCD ਸਬਜ਼ੀਆਂ\N_NN ਨੂੰ\PSP ਤਰਜੀਹ\RB ਦੇਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED473	*\RD_PUNC ਜ਼ਿਆਦਾ\RB ਮਿਰਚ-ਮਸਾਲੇ\N_NN ਵਾਲੀਆਂ\PSP ਚੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਘੱਟ\RB ਤੋਂ\PSP ਘੱਟ\RB ਵਰਤੋਂ\V_VM_VF ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED474	*\RD_PUNC ਤਾਜ਼ਾ\JJ ਬਣਿਆ\V_VM_VF ਖਾਣਾ\N_NN ਹੀ\RP_RPD ਖਾਣਾ\N_NN ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED475	ਬਾਸੀ\JJ ਖਾਣਾ\V_VM_VINF ਖਾਣ\N_NN ਨਾਲ\PSP ਪੇਟ\N_NN ਖਰਾਬ\N_NN ਹੋਣ\V_VM_VF ਦਾ\PSP ਡਰ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED476	*\RD_PUNC ਗਰਮੀਆਂ\N_NN ਵਿੱਚ\PSP ਸੱਤੂ\N_NN ਵੀ\RP_RPD ਪੀਣੇ\V_VM_VF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED477	ਪਰ\CC_CCD ਇਸ\DM_DMD ਵਿੱਚ\PSP ਚੀਨੀ\N_NN ਦੀ\PSP ਬਜਾਇ\RB ਗੁੜ\N_NN ਜਾਂ\CC_CCD ਸ਼ੱਕਰ\N_NN ਦਾ\PSP ਇਸਤੇਮਾਲ\N_NN ਕਰਨਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED478	ਕਿਉਂਕਿ\CC_CCS ਇਹਨਾਂ\PR_PRL ਵਿੱਚ\PSP ਲੋਹਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED479	*\RD_PUNC ਦੋ-ਤਿੰਨ\RB ਵਾਰ\RB ਢਿੱਡ\N_NN ਭਰ\N_NN ਕੇ\V_VM_VNF ਖਾਣ\N_NN ਦੀ\PSP ਬਜਾਇ\RB 5-6\QT_QTC ਵਾਰ\RB ਹਲਕਾ\JJ ਭੋਜਨ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED480	*\RD_PUNC ਪੁਦੀਨੇ\N_NN ਦੀ\PSP ਚਟਨੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਲਾਹੇਵੰਦ\N_NN ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਇਸ\DM_DMD ਨਾਲ\PSP ਵਿਟਾਮਿਨ\N_NN ਅਤੇ\CC_CCD ਖਣਿਜ\N_NN ਪਦਾਰਥ\N_NN ਵੀ\RP_RPD ਮਿਲ\V_VM ਜਾਣਗੇ\V_VM_VF ਤੇ\CC_CCD ਭੁੱਖ\N_NN ਵੀ\RP_RPD ਠੀਕ\N_NN ਤਰਾਂ\PSP ਨਾਲ\PSP ਲੱਗੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED481	*\RD_PUNC ਸਲਾਦ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਸਿਹਤ\N_NN ਲਈ\PSP ਗੁਣਕਾਰੀ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED482	ਦਾਲ\N_NN ਵਿੱਚ\PSP ਨਿੰਬੂ\N_NN ਨਚੋੜ\V_VM ਕੇ\V_VM_VINF ਖਾਣ\N_NN ਨਾਲ\PSP ਇਹ\DM_DMD ਛੇਤੀ\RB ਹਜ਼ਮ\N_NN ਹੋ\V_VAUX ਜਾਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED483	ਘਰੋਂ\N_NN ਬਾਹਰ\RB ਜਾਣ\V_VM_VF ਵੇਲੇ\RB ਧਿਆਨਦੇਣਯੋਗ\N_NN ਗੱਲਾਂ\N_NN :\RD_PUNC
+PBHED484	*\RD_PUNC ਜੇ\CC_CCS ਤੁਹਾਨੂੰ\PR_PRP ਕਿਤੇ\RB ਜਾਣਾ\V_VM_VINF ਪੈ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਸਿਰ\N_NN ਨੂੰ\PSP ਚੰਗੀ\JJ ਤਰਾਂ\PSP ਢਕ\N_NN ਕੇ\V_VM_VINF ਜਾਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED485	ਘਰੋਂ\N_NN ਬਾਹਰ\RB ਜਾਣ\V_VM_VF ਤੋਂ\PSP ਪਹਿਲਾਂ\JJ ਇੱਕ-ਦੋ\RB ਗਿਲਾਸ\N_NN ਪਾਣੀ\N_NN ਜ਼ਰੂਰ\RB ਪੀ\V_VM_VF ਕੇ\V_VM_VINF ਜਾਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED486	ਚੰਗਾ\JJ ਹੋਵੇ\V_VM_VF ਜੇ\CC_CCS ਤੁਸੀਂ\PR_PRP ਪਾਣੀ\N_NN ਵਿੱਚ\PSP ਚੁਟਕੀ\DM_DMQ ਲੂਣ\N_NN ਵੀ\RP_RPD ਪਾ\V_VM_VF ਲਵੋ\V_VM_VF |\RD_PUNC
+PBHED487	ਪਰ\CC_CCD ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਵਾਲੇ\PSP ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਇਸ\DM_DMD ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBHED488	ਵਿਸ਼ੇਸ਼\JJ ਧਿਆਨਦੇਣਯੋਗ\N_NN ਗੱਲਾਂ\N_NN ਗਰਮੀਆਂ\N_NN ਵਿੱਚ\PSP ਸਿਹਤਮੰਦ\JJ ਰਹਿਣ\V_VM ਲਈ\PSP ਸਰੀਰਕ\N_NN ਸਫ਼ਾਈ\N_NN ਦਾ\PSP ਉਚੇਚਾ\JJ ਧਿਆਨ\N_NN ਰੱਖਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED489	ਕੋਈ\DM_DMQ ਵੀ\RP_RPD ਚੀਜ਼\N_NN ਖਾਣ\V_VM_VF ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਹੱਥਾਂ\N_NN ਨੂੰ\PSP ਸਾਬਣ\N_NN ਨਾਲ\PSP ਚੰਗੀ\JJ ਤਰਾਂ\PSP ਧੋਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED490	ਕੱਚੇ\N_NN ਜਾਂ\CC_CCD ਬਹੁਤ\DM_DMQ ਜ਼ਿਆਦਾ\DM_DMQ ਪੱਕੇ\JJ ਹੋਏ\V_VM_VF ਫ਼ਲ\N_NN ਅਤੇ\CC_CCD ਕੱਟ\N_NN ਕੇ\V_VM_VINF ਨੰਗੇ\V_VAUX ਰੱਖੇ\V_VM_VF ਹੋਏ\V_VM_VF ਫ਼ਲ\N_NN ਭੁੱਲ\N_NN ਕੇ\V_VM_VINF ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਖਾਣੇ\V_VM_VF ਚਾਹੀਦੇ\V_VM_VNF ।\RD_PUNC
+PBHED491	ਗਰਮੀਆਂ\N_NN ਵਿੱਚ\PSP ਪਿਆਸ\JJ ਬਹੁਤ\DM_DMQ ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED492	ਅਤੇ\CC_CCD ਰੋਟੀ\N_NN ਖਾਣ\V_VM_VF ਵੇਲੇ\PSP ਵੀ\RP_RPD ਠੰਢਾ\N_NN ਪਾਣੀ\N_NN ਪੀਣ\V_VM_VF ਨੂੰ\PSP ਚਿੱਤ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਰੋਟੀ\N_NN ਖਾਣ\V_VM_VF ਵੇਲੇ\PSP ਪਾਣੀ\N_NN ਨਹੀਂ\RP_NEG ਪੀਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC
+PBHED493	ਰੋਟੀ\N_NN ਖਾਣ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਅੱਧਾ\RB ਘੰਟਾ\RB ਮਗਰੋਂ\RB ਹੀ\RP_RPD ਪਾਣੀ\N_NN ਪੀਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED494	ਰੋਟੀ\N_NN ਖਾਣ\V_VM_VF ਵੇਲੇ\PSP ਪਾਣੀ\N_NN ਪੀਣ\V_VM_VF ਨਾਲ\PSP ਭੋਜਨ\N_NN ਨੂੰ\PSP ਹਜ਼ਮ\N_NN ਕਰਨ\V_VM ਵਾਲੇ\PSP ਐੱਨਜਾਈਮ\N_NN ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਆਪਣਾ\PR_PRF ਅਸਰ\N_NN ਨਹੀਂ\RP_NEG ਵਿਖਾ\V_VM_VF ਪਾਉਂਦੇ\V_VM_VF ।\RD_PUNC
+PBHED495	ਭੋਜਨ\N_NN ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਨਾ\RP_NEG ਪਚਣ\V_VM ਕਰਕੇ\V_VM_VINF ਹਲਕੀ\JJ ਢਿੱਡ\N_NN ਪੀੜ\N_NN ,\RD_PUNC ਕਲੇਜੇ\N_NN ਵਿੱਚ\PSP ਜਲਣ\JJ ,\RD_PUNC ਪੇਟ\N_NN ਵਿੱਚ\PSP ਗੈਸ\N_NN ਹੋਣ\V_VM ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED496	ਇਸ\DM_DMD ਲਈ\PSP ਗਰਮੀਆਂ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਵਿੱਚ\PSP ਤੰਦਰੁਸਤ\N_NN ਰਹਿਣ\V_VM_VF ਲਈ\PSP ਆਪਣੇ\PR_PRF ਖਾਣ-ਪੀਣ\N_NN ਦਾ\PSP ਉਚੇਚਾ\N_NN ਧਿਆਨ\N_NN ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBHED497	ਅਧਰੰਗ\N_NN ਤੋਂ\PSP ਭਾਵ\N_NN ਹੈ\V_VAUX ਸਰੀਰ\N_NN ਦੇ\PSP ਇੱਕ\RB ਪਾਸੇ\RB ਦੇ\PSP ਪੱਠਿਆਂ\N_NN ਜਾਂ\CC_CCD ਮਾਸਪੇਸ਼ੀਆਂ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਨਾ\RP_NEG ਕਰਨਾ\V_VM_VINF ।\RD_PUNC
+PBHED498	ਆਮ\RB ਭਾਸ਼ਾ\N_NN ਵਿੱਚ\PSP ਇਸ\DM_DMD ਨੂੰ\PSP ‘ਸਰੀਰ\N_NN ਦਾ\PSP ਇੱਕ\RB ਪਾਸਾ\RB ਮਾਰਿਆ\V_VM_VF ਜਾਣਾ’\N_NN ਵੀ\RP_RPD ਕਿਹਾ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED499	ਸਰੀਰ\N_NN ਦੇ\PSP ਅਜਿਹੇ\RB ਹਿੱਸੇ\N_NN ਵਿੱਚ\PSP ਸੂਕਸ਼ਮਤਾ\N_NN ਖ਼ਤਮ\RB ਹੋਣ\PSP ਕਰਕੇ\V_VM_VINF ਨਾ\RP_NEG ਤਾਂ\RP_RPD ਕੁਝ\DM_DMQ ਮਹਿਸੂਸ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX (ਜਿਵੇਂ\DM_DMQ ਚੁਭਨ\N_NN ,\RD_PUNC ਦਰਦ\N_NN ,\RD_PUNC ਸਾੜ\N_NN ਆਦਿ)\DM_DMQ ਅਤੇ\CC_CCD ਨਾ\RP_NEG ਹੀ\RP_RPD ਪੱਠੇ\N_NN ਕੰਮ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED500	ਬੱਚੇ\N_NN ਪ੍ਰਮਾਤਮਾ\N_NN ਦੀਆਂ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਖੂਬਸੂਰਤ\JJ ਰਚਨਾਵਾਂ\N_NN ‘ਚੋਂ\RB ਇਕ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED501	ਇਹ\DM_DMD ਜਿੰਨੇ\RB ਪਿਆਰੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਓਨੇ\RB ਹੀ\RP_RPD ਨਾਜ਼ੁਕ\JJ ਵੀ\RP_RPD ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED502	ਇਸ\DM_DMD ਲਈ\PSP ਬੱਚਿਆਂ\N_NN ਦੇ\PSP ਬੀਮਾਰ\N_NN ਹੁੰਦਿਆਂ\V_VM_VF ਹੀ\RP_RPD ਮਾਤਾ-ਪਿਤਾ\N_NN ਦੇ\PSP ਦਿਨ\RB ਦਾ\PSP ਚੈਨ\JJ ਅਤੇ\CC_CCD ਰਾਤਾਂ\RB ਦੀ\PSP ਨੀਂਦ\N_NN ਉਡ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED503	ਜਦੋਂ\PR_PRL ਬੱਚੇ\N_NN ਬੀਮਾਰ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED504	ਤਾਂ\CC_CCD ਮਾਤਾ-ਪਿਤਾ\N_NN ਹੌਸਲਾ\JJ ਛੱਡ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED505	ਅਤੇ\CC_CCD ਜਾਣੇ-ਅਣਜਾਣੇ\RB ਕਈ\DM_DMQ ਇਲਾਜ\N_NN ਕਰਨ\V_VM ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED506	ਪਰ\CC_CCD ਤੁਸੀਂ\PR_PRP ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ‘ਚ\RB ਹੌਸਲਾ\N_NN ਨਾ\RP_NEG ਛੱਡੋ\V_VM_VF ਸਗੋਂ\RB ਸਮਝ\N_NN ਨਾਲ\PSP ਕੰਮ\N_NN ਲਓ\V_VM_VF |\RD_PUNC
+PBHED507	ਅਤੇ\CC_CCD ਆਪਣੇ\PR_PRF ਨੰਨੇ-ਮੁੰਨੇ\N_NN ਦੀ\PSP ਪਿਆਰ\JJ ਨਾਲ\PSP ਦੇਖਭਾਲ\V_VM ਕਰੋ\V_VM_VF ਤਾਂ\RP_RPD ਉਹ\PR_PRP ਛੇਤੀ\RB ਹੀ\RP_RPD ਤੰਦਰੁਸਤ\JJ ਹੋ\V_VAUX ਕੇ\V_VM_VF ਚਹਿਕਣ\JJ ਲੱਗੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED508	ਆਓ\RP_INJ ਜਾਣੀਏ\V_VM_VF ਬੱਚਿਆਂ\N_NN ਦੀਆਂ\PSP ਕੁਝ\DM_DMQ ਸਾਧਾਰਨ\N_NN ਬੀਮਾਰੀਆਂ\N_NN ‘ਚ\RB ਤੁਹਾਨੂੰ\PR_PRP ਕੀ\PR_PRQ ਕਰਨਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED509	ਬੁਖਾਰ\N_NN ਅਤੇ\CC_CCD ਝਟਕੇ\V_VM_VF ਆਉਣਾ\V_VM_VINF :\RD_PUNC ਕਈ\DM_DMQ ਵਾਰ\RB ਤੇਜ਼\RB ਬੁਖਾਰ\N_NN ‘ਚ\RB ਬੱਚੇ\N_NN ਨੂੰ\PSP ਝਟਕੇ\V_VM_VINF ਆਉਣੇ\V_VM_VF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED510	ਉਸ\PR_PRP ਦੇ\PSP ਚਿਹਰੇ\N_NN ‘ਤੇ\CC_CCD ਨੀਲਾਪਣ\JJ ਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਅੱਖਾਂ\N_NN ਘੁੰਮਣ\V_VM_VF ਲੱਗਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED511	ਅਤੇ\CC_CCD ਹੱਥ-ਪੈਰ\N_NN ਜ਼ੋਰ-ਜ਼ੋਰ\RB ਨਾਲ\PSP ਕੰਬਣ\V_VM_VF ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED512	ਇਕ\QT_QTC ਸਾਲ\N_NN ਤੋਂ\PSP ਵਧੇਰੀ\RB ਉਮਰ\N_NN ਦੇ\PSP ਅਤੇ\CC_CCD ਖਾਸਕਰ\JJ ਦੋ\QT_QTC ਤੋਂ\PSP ਪੰਜ\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਦੇ\PSP ਬੱਚਿਆਂ\N_NN ‘ਚ\RB ਇਹ\DM_DMD ਵਧੇਰੇ\RB ਦੇਖਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED513	ਇਸ\DM_DMD ਦਾ\PSP ਕਾਰਨ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਸ\DM_DMD ਉਮਰ\N_NN ‘ਚ\RB ਬੱਚਿਆਂ\N_NN ਦਾ\PSP ਦਿਮਾਗ\N_NN ਵਧੇ\RB ਹੋਏ\V_VM_VF ਤਾਪਮਾਨ\N_NN ਨੂੰ\PSP ਸਹਿਣ\N_NN ਨਹੀਂ\RP_NEG ਕਰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED514	ਗਲਾ\N_NN ,\RD_PUNC ਕੰਨ,\N_NN ਛਾਤੀ\N_NN ਜਾਂ\CC_CCD ਮੂਤਰ-ਮਾਰਗ\N_NN ਦੀ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ਤੇਜ਼\RB ਬੁਖਾਰ\N_NN ਅਤੇ\CC_CCD ਝਟਕਿਆਂ\N_NN ਲਈ\PSP ਮੁੱਖ\JJ ਰੂਪ\N_NN ‘ਚ\RB ਜ਼ਿੰਮੇਵਾਰ\V_VM ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED515	ਪਰ\CC_CCD ਇਨਾਂ\RB ਝਟਕਿਆਂ\V_VM_VF ਦਾ\PSP ਇਹ\DM_DMD ਅਰਥ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਗਾਂਹ\RB ਚੱਲ\V_VM_VF ਕੇ\V_VM_VINF ਬੱਚੇ\N_NN ਨੂੰ\PSP ਮਿਰਗੀ\N_NN ਜਾਂ\CC_CCD ਫਿਟ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਹੋ\V_VAUX ਜਾਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED516	ਬੱਚੇ\N_NN ਨੂੰ\PSP ਝਟਕੇ\V_VM_VF ਆਉਣ\V_VM_VF ‘ਤੇ\CC_CCD ਆਪਣਾ\PR_PRF ਮਾਨਸਿਕ\N_NN ਸੰਤੁਲਨ\N_NN ਨਾ\RP_NEG ਗੁਆਓ\V_VM_VF ।\RD_PUNC
+PBHED517	ਬਹੁਤ\RB ਜ਼ਿਆਦਾ\RB ਘਬਰਾ\JJ ਜਾਣ\JJ ਜਾਂ\CC_CCD ਹੜਬੜੀ\JJ ਕਰਨ\V_VM ਨਾਲ\PSP ਫਾਇਦਾ\JJ ਨਹੀਂ\RP_NEG ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED518	ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਬੱਚੇ\N_NN ਦੇ\PSP ਆਲੇ-ਦੁਆਲਿਓਂ\PSP ਤਿੱਖੀਆਂ\JJ ਚੀਜ਼ਾਂ\JJ ਪਾਸੇ\RB ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਬੱਚੇ\N_NN ਨੂੰ\PSP ਉਹਨਾਂ\PR_PRP ਤੋਂ\PSP ਨੁਕਸਾਨ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF ।\RD_PUNC
+PBHED519	ਬੱਚੇ\N_NN ਦੇ\PSP ਮੂੰਹ\N_NN ਅੰਦਰ\RB ਕੁਝ\DM_DMQ ਵੀ\RP_RPD ਪਾਉਣ\V_VM_VF ਦੀ\PSP ਕੋਸ਼ਿਸ਼\JJ ਨਾ\RP_NEG ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED520	ਝਟਕੇ\V_VM_VINF ਘਟਣ\V_VM_VF ਪਿੱਛੋਂ\RB ਉਸ\PR_PRP ਨੂੰ\PSP ਇਕ\RB ਪਾਸੇ\RB ਗਰਦਨ\N_NN ਪਰਨੇ\N_NN ਲੇਟਣ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED521	ਜਿਵੇਂ\N_NN ਹੀ\RP_RPD ਝਟਕੇ\N_NN ਘੱਟ\RB ਜਾਣ\V_VM_VF ,\RD_PUNC ਬੱਚੇ\N_NN ਨੂੰ\PSP ਕੋਲ\PSP ਲਿਆ\V_VM_VF ਕੇ\V_VM_VINF ਉਸ\PR_PRP ਨੂੰ\PSP ਹੌਸਲਾ\JJ ਦਿਓ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਬੱਚਾ\N_NN ਡਰ\JJ ਅਤੇ\CC_CCD ਸਹਿਮ\JJ ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED522	ਉਸ\PR_PRP ਦਾ\PSP ਤਾਪਮਾਨ\N_NN ਨੋਟ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED523	ਉਸ\PR_PRP ਪਿੱਛੋਂ\RB ਉਸ\PR_PRP ਦੇ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਠੰਡਕ\JJ ਪਹੁੰਚਾਉਣ\V_VM_VF ਦੇ\PSP ਉਪਾਅ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED524	ਉਸ\PR_PRP ਦੇ\PSP ਕੱਪੜੇ\N_NN ਢਿੱਲੇ\N_NN ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ,ਕਮਰੇ\N_NN ਦੀਆਂ\PSP ਖਿੜਕੀਆਂ\N_NN ਖੋਲ੍ਹ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED525	ਪੱਖਾ\N_NN ਚਲਾ\V_VM_VF ਦਿਓ\V_VM_VF ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਪੀਣ\N_NN ਲਈ\PSP ਕੋਈ\DM_DMQ ਠੰਡੀ\JJ ਚੀਜ਼\N_NN ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED526	ਜੇਕਰ\CC_CCS ਸਰੀਰ\N_NN ਦਾ\PSP ਤਾਪਮਾਨ\N_NN ਬਹੁਤ\RB ਜ਼ਿਆਦਾ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਠੰਡੇ\JJ ਪਾਣੀ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਹੇਠਾਂ\RB ਖੜਾ\V_VM_VF ਕਰਕੇ\V_VM_VINF ਉਸ\PR_PRP ਦੇ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਪੂੰਝਦੇ\V_VM_VF ਰਹੋ\V_VM_VF ।\RD_PUNC
+PBHED527	ਜਦੋਂ\PR_PRL ਬੱਚਾ\N_NN ਖੁਦ\PR_PRF ਨੂੰ\PSP ਤੰਦਰੁਸਤ\JJ ਮਹਿਸੂਸ\JJ ਕਰਨ\V_VM ਲੱਗੇ\V_VM_VF ਤਾਂ\CC_CCD ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਲਓ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਨੂੰ\PSP ਬੱਚੇ\N_NN ਦੇ\PSP ਤਾਪਮਾਨ\N_NN ਦੀ\PSP ਸੂਚਨਾ\V_VM_VINF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED528	ਜੇਕਰ\CC_CCS ਡਾਕਟਰ\N_NN ਨੂੰ\PSP ਆਉਣ\V_VM_VF ‘ਚ\RB ਦੇਰ\RB ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਕਰੋਸਿਨ\N_NN ਜਾਂ\CC_CCD ਕਾਲਪੋਲ\N_NN ਦੀ\PSP ਅੱਧੀ\RB ਗੋਲੀ\N_NN ਦੇ\PSP ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED529	ਜਦੋਂ\PR_PRL ਵੀ\RP_RPD ਬੱਚੇ\N_NN ਨੂੰ\PSP ਬੁਖਾਰ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਇਹੀ\DM_DMD ਕੋਸ਼ਿਸ਼\JJ ਕਰੋ\V_VM_VF ਕਿ\CC_CCS ਬੱਚੇ\N_NN ਦੇ\PSP ਸਰੀਰ\N_NN ਅਤੇ\CC_CCD ਆਲੇ-ਦੁਆਲੇ\RB ਦਾ\PSP ਤਾਪਮਾਨ\N_NN ਘੱਟ\RB ਕੀਤਾ\V_VM_VF ਜਾ\V_VM_VF ਸਕੇ\V_VM_VF ।\RD_PUNC
+PBHED530	ਜੇਕਰ\CC_CCS ਕੂਲਰ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਚਲਾ\V_VM_VF ਕੇ\V_VM_VINF ਬੱਚੇ\N_NN ਨੂੰ\PSP ਉਸ\PR_PRP ਅੱਗੇ\RB ਲਿਟਾਉਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਉਸ\PR_PRP ਉੱਪਰ\RB ਕੋਈ\DM_DMQ ਕੱਪੜਾ\N_NN ਨਹੀਂ\RP_NEG ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC
+PBHED531	ਯਾਦ\N_NN ਰੱਖੋ\V_VM_VF ਕਿ\CC_CCS ਅਜਿਹੀ\DM_DMR ਸਥਿਤੀ\N_NN ਦੇਖਣ\V_VM_VF ‘ਚ\RB ਬੜੀ\RB ਗੰਭੀਰ\JJ ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED532	ਪਰ\CC_CCD ਜੇਕਰ\CC_CCS ਸ਼ਾਂਤ\JJ ਦਿਮਾਗ\N_NN ਤੋਂ\PSP ਕੰਮ\N_NN ਲਿਆ\V_VM ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਨਾਲ\PSP ਆਸਾਨੀ\N_NN ਨਾਲ\PSP ਨਜਿੱਠਿਆ\N_NN ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED533	ਗੈਸਟਰੋ\N_NN :\RD_PUNC ਅਸਲ\RB ‘ਚ\RB ਇਹ\DM_DMD ਪਾਚਨ\N_NN ਤੰਤਰ\N_NN ‘ਚ\RB ਇਨਫੈਕਸ਼ਨ\N_NN ਹੋਣ\V_VM_VF ਕਾਰਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED534	ਇਸ\DM_DMD ਦੇ\PSP ਲੱਛਣ\N_NN ਅਚਾਨਕ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED535	ਜਦੋਂ\PR_PRL ਬੱਚੇ\N_NN ਨੂੰ\PSP ਉਲਟੀ\N_NN ,\RD_PUNC ਦਸਤ\N_NN ਅਤੇ\CC_CCD ਪੇਟ\N_NN ਦਰਦ\N_NN ਹੋਣ\V_VM ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED536	ਅਜਿਹੇ\DM_DMR ‘ਚ\RB ਅਕਸਰ\RB ਹਲਕਾ\JJ ਬੁਖਾਰ\N_NN ਹੋ\V_VAUX ਜਾਣਾ\V_VM_VINF ਵੀ\RP_RPD ਆਮ\RB ਗੱਲ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED537	ਅਜਿਹੀ\DM_DMR ਸਥਿਤੀ\N_NN ‘ਚ\RB ਬੱਚੇ\N_NN ਦੇ\PSP ਸਰੀਰ\N_NN ‘ਚੋਂ\RB ਪਾਣੀ\N_NN ਅਤੇ\CC_CCD ਲੋੜੀਂਦੇ\PSP ਤੱਤਾਂ\N_NN ਦੀ\PSP ਬੇਹੱਦ\RB ਕਮੀ\RB ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED538	ਜੋ\PR_PRL ਘਾਤਕ\JJ ਸਿੱਧ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED539	ਇਸ\DM_DMD ਲਈ\PSP ਆਪਣੇ\PR_PRF ਡਾਕਟਰ\N_NN ਨਾਲ\PSP ਤੁਰੰਤ\RB ਸੰਪਰਕ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED540	ਇਸ\DM_DMD ਦੌਰਾਨ\N_NN ਬੱਚੇ\N_NN ਨੂੰ\PSP ਨਮਕ\N_NN ਵਾਲਾ\PSP ਨਿੰਬੂ\N_NN ਦਾ\PSP ਸ਼ਰਬਤ\N_NN ਜਾਂ\CC_CCD ਸਿਰਫ\RB ਨਮਕ\N_NN ਜਾਂ\CC_CCD ਖੰਡ\N_NN ਮਿਲਾ\V_VM_VF ਕੇ\V_VM_VINF ਪਿਲਾਉਂਦੇ\V_VM_VF ਰਹੋ\V_VM_VF ।\RD_PUNC
+PBHED541	ਪਾਚਨ\N_NN ਤੰਤਰ\N_NN ਨੂੰ\PSP 24\QT_QTC ਤੋਂ\PSP 48\QT_QTC ਘੰਟਿਆਂ\N_NN ਦਾ\PSP ਆਰਾਮ\N_NN ਦੇਣਾ\V_VM_VINF ਹੀ\RP_RPD ਇਲਾਜ\N_NN ਦਾ\PSP ਮੁੱਖ\JJ ਟੀਚਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED542	ਇਸ\DM_DMD ਦੇ\PSP ਲਈ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਸਿਰਫ\RB ਤਰਲ\N_NN ਪਦਾਰਥ\N_NN ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED543	ਜੇਕਰ\CC_CCS ਬੱਚਾ\N_NN ਉਲਟੀ\N_NN ਕਾਰਨ\N_NN ਇਹ\DM_DMD ਸਭ\DM_DMQ ਲੈਣ\V_VM_VF ਤੋਂ\PSP ਸਮਰੱਥ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਸਲਾਈਨ\N_NN ਰਾਹੀਂ\RB ਸਿੱਧਾ\RB ਖੂਨ\N_NN ‘ਚ\RB ਲੋੜੀਂਦੇ\PSP ਤਰਲ\N_NN ਪਦਾਰਥਾਂ\N_NN ਦੀ\PSP ਪੂਰਤੀ\N_NN ਕਰਨੀ\V_VM_VINF ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED544	ਅਜਿਹੇ\DM_DMR ਲੱਛਣ\N_NN ਘੱਟ\RB ਹੁੰਦਿਆਂ\V_VM_VF ਹੀ\RP_RPD ਉਸ\PR_PRP ਨੂੰ\PSP ਸਾਦਾ\JJ ਖਾਣਾ\N_NN ਦੇਣਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED545	ਬੱਚੇ\N_NN ਦਾ\PSP ਸਰੀਰ\N_NN ਠੰਡਾ\N_NN ਪੈਣਾ\V_VM_VINF :\RD_PUNC ਇਹ\DM_DMD ਇਕ\RB ਗੰਭੀਰ\JJ ਸਥਿਤੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਦੋਂ\PR_PRL ਬੱਚੇ\N_NN ਦੇ\PSP ਸਰੀਰ\N_NN ਦਾ\PSP ਤਾਪਮਾਨ\N_NN ਅਚਾਨਕ\RB ਘੱਟ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED546	ਸਾਧਾਰਨ\N_NN ਤਾਪਮਾ\N_NN 98.4\QT_QTC ਡਿਗਰੀ\N_NN ਫਾਰਨਹੀਟ\N_NN ਹੋਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED547	ਛੇ\QT_QTC ਮਹੀਨਿਆਂ\N_NN ਤੋਂ\PSP ਘੱਟ\RB ਉਮਰ\N_NN ਦੇ\PSP ਬੱਚਿਆਂ\N_NN ਦੇ\PSP ਸਰੀਰ\N_NN ‘ਚ\RB ਤਾਪਮਾਨ\N_NN ਨੂੰ\PSP ਕੰਟੋਰਲ\N_NN ਕਰਨ\V_VM ਵਾਲੀ\PSP ਤੰਤਰ\N_NN ਪ੍ਰਣਾਲੀ\N_NN ਵਿਕਸਿਤ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ,\RD_PUNC
+PBHED548	ਇਸ\DM_DMD ਲਈ\PSP ਉਹ\PR_PRP ਜ਼ਰਾ\N_NN ਵੀ\RP_RPD ਠੰਡ\N_NN ਬਰਦਾਸ਼ਤ\JJ ਨਹੀਂ\RP_NEG ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF ।\RD_PUNC
+PBHED549	ਇਸ\DM_DMD ਲਈ\PSP ਛੋਟੇ\RB ਬੱਚਿਆਂ\N_NN ਨੂੰ\PSP ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\RB ਢੱਕ\N_NN ਕੇ\V_VM_VINF ਰੱਖਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED550	ਇਸ\DM_DMD ‘ਚ\RB ਬੱਚਿਆਂ\N_NN ਦੀ\PSP ਚਮੜੀ\N_NN ਗੁਲਾਬੀ\JJ ਜਾਂ\CC_CCD ਹਲਕੀ\JJ ਨੀਲੀ\JJ ਪੈ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਸਰੀਰ\N_NN ਦਾ\PSP ਹਰ\RB ਹਿੱਸਾ\RB ਠੰਡਾ\JJ ਜਾਪਦਾ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਬੱਚਾ\N_NN ਚੁੱਪ\N_NN ਅਤੇ\CC_CCD ਹਲਕੀ\JJ ਖੁਮਾਰੀ\JJ ਜਾਂ\CC_CCD ਨਸ਼ੇ\N_NN ਦੀ\PSP ਸਥਿਤੀ\N_NN ‘ਚ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED551	ਉਸ\PR_PRP ਦੇ\PSP ਸਰੀਰ\N_NN ਦਾ\PSP ਤਾਪਮਾਨ\N_NN 95\QT_QTC ਡਿਗਰੀ\N_NN ਫਾਰਨਹੀਟ\N_NN ਤੋਂ\PSP ਘੱਟ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED552	ਇਸ\DM_DMD ਸਥਿਤੀ\N_NN ‘ਚ\RB ਤੁਰੰਤ\RB ਡਾਕਟਰ\N_NN ਦੀ\PSP ਮਦਦ\N_NN ਲੈਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED553	ਉਦੋਂ\RB ਤਕ\PSP ਲਈ\PSP ਹੇਠ\RB ਲਿਖੀਆਂ\V_VM_VINF ਸਾਵਧਾਨੀਆਂ\V_VM_VINF ਵਰਤੋ\V_VM_VINF ।\RD_PUNC
+PBHED554	ਜਿਸ\PR_PRL ਕਮਰੇ\N_NN ‘ਚ\RB ਬੱਚਾ\N_NN ਹੋਵੇ\V_VM_VINF ,\RD_PUNC ਉਸ\PR_PRP ਦਾ\PSP ਤਾਪਮਾਨ\N_NN ਵਧਾਉਣ\V_VM_VF ਦੀ\PSP ਕੋਸ਼ਿਸ਼\JJ ਕਰੋ\V_VM_VF ,\RD_PUNC ਰੂਮ\N_NN ਹੀਟਰ\N_NN ਜਾਂ\CC_CCD ਅੰਗੀਠੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED555	ਬੱਚੇ\N_NN ਨੂੰ\PSP ਕੋਈ\DM_DMQ ਗਰਮ\JJ ਚੀਜ਼\N_NN ਪਿਲਾਓ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਨੂੰ\PSP ਆਪਣੇ\PR_PRF ਸਰੀਰ\N_NN ਨਾਲ\PSP ਲਗਾ\V_VM_VF ਕੇ\V_VM_VINF ਗਰਮਾਹਟ\JJ ਦੇਣ\V_VM_VF ਦੀ\PSP ਕੋਸ਼ਿਸ਼\JJ ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED556	ਬੱਚੇ\N_NN ਨੂੰ\PSP ਕੰਬਲ\N_NN ਜਾਂ\CC_CCD ਰਜਾਈ\N_NN ‘ਚ\RB ਢਕਣ\N_NN ਦੀ\PSP ਕੋਸ਼ਿਸ਼\JJ ਨਾ\RP_NEG ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED557	ਇਸ\DM_DMD ਨਾਲ\PSP ਸਰੀਰ\N_NN ਦੇ\PSP ਅੰਦਰੋਂ\RB ਠੰਡ\JJ ਬਾਹਰ\RB ਨਹੀਂ\RP_NEG ਨਿਕਲ\V_VM_VF ਸਕੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED558	ਨਾ\RP_NEG ਹੀ\RP_RPD ਉਸ\PR_PRP ਨੂੰ\PSP ਗਰਮ\JJ ਪਾਣੀ\N_NN ਜਾਂ\CC_CCD ਥੈਲੀ\N_NN ਜਾਂ\CC_CCD ਬੋਤਲ\N_NN ਨਾਲ\PSP ਸੇਕ\N_NN ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED559	ਇਸ\DM_DMD ਨਾਲ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਨਾਜ਼ੁਕ\JJ ਚਮੜੀ\N_NN ਸੜ\N_NN ਵੀ\RP_RPD ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED560	ਬੱਚੇ\N_NN ਦੇ\PSP ਹੱਥਾਂ-ਪੈਰਾਂ\N_NN ਦੀਆਂ\PSP ਤਲੀਆਂ\N_NN ਨੂੰ\PSP ਪੋਲੀ-ਪੋਲੀ\JJ ਮਾਲਿਸ਼\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED561	ਸੁੱਕਾ\N_NN ਰੋਗ\N_NN ਜਾਂ\CC_CCD ਰਿਕੇਟਸ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ‘ਚ\RB ਹੱਡੀਆਂ\N_NN ਦਾ\PSP ਸਾਧਾਰਨ\N_NN ਵਿਕਾਸ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਕਮਜ਼ੋਰ\JJ ਹੋ\V_VAUX ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED562	ਇਸ\DM_DMD ਦਾ\PSP ਮੁੱਖ\JJ ਕਾਰਨ\N_NN ਸਰੀਰ\N_NN ‘ਚ\RB ਵਿਟਾਮਿਨ-ਡੀ\N_NN ਦੀ\PSP ਕਮੀ\RB ਹੋਣਾ\V_VM_VINF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED563	ਬੱਚਾ\N_NN ਚਿੜਚਿੜਾ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦਾ\PSP ਸਰੀਰਕ\N_NN ਵਿਕਾਸ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED564	ਖੁਰਾਕ\N_NN ‘ਚ\RB ਪੂਰੀ\N_NN ਮਾਤਰਾ\N_NN ‘ਚ\RB ਵਿਟਾਮਿਨ-ਡੀ\N_NN ਦਾ\PSP ਹੋਣਾ\V_VM_VINF ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਰੋਕਥਾਮ\N_NN ਕਰ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED565	ਇਹ\DM_DMD ਭੋਜਨ\N_NN ਅਤੇ\CC_CCD ਸੂਰਜ\N_NN ਦੀ\PSP ਰੋਸ਼ਨੀ\N_NN ਤੋਂ\PSP ਮਿਲ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED566	ਮਾਂ\N_NN ਦੇ\PSP ਦੁੱਧ\N_NN ‘ਚ\RB ਵੀ\RP_RPD ਭਰਪੂਰ\JJ ਮਾਤਰਾ\N_NN ‘ਚ\RB ਵਿਟਾਮਿਨ-ਡੀ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ,\RD_PUNC
+PBHED567	ਇਸ\DM_DMD ਲਈ\PSP ਜੋ\CC_CCD ਬੱਚੇ\N_NN ਪੂਰੀ\N_NN ਤਰਾਂ\RB ਮਾਂ\N_NN ਦੇ\PSP ਦੁੱਧ\N_NN ‘ਤੇ\CC_CCD ਹੀ\RP_RPD ਨਿਰਭਰ\N_NN ਹੋਣ\N_NN ,\RD_PUNC ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਵਿਟਾਮਿਨ-ਡੀ\N_NN ਯੁਕਤ\N_NN ਦਵਾਈ\N_NN ਦੀਆਂ\PSP ਕੁਝ\DM_DMQ ਬੂੰਦਾਂ\N_NN ਰੋਜ਼ਾਨਾ\RB ਦੇਣੀਆਂ\V_VM_VNF ਚਾਹੀਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED568	ਜੋ\CC_CCS ਬੱਚੇ\N_NN ਠੋਸ\N_NN ਖੁਰਾਕ\N_NN ਲੈਂਦੇ\V_VM_VF ਹੋਣ\V_VM_VF ,\RD_PUNC ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਮੱਖਣ\N_NN ,\RD_PUNC ਆਂਡੇ\N_NN ਅਤੇ\CC_CCD ਮੱਛੀ\N_NN ਤੋਂ\PSP ਬਣੇ\V_VM_VF ਪਦਾਰਥ\N_NN ਦੇਣੇ\V_VM_VF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED569	ਜਿਸ\PR_PRL ‘ਚ\RB ਇਹ\DM_DMD ਭਰਪੂਰ\JJ ਮਾਤਰਾ\N_NN ‘ਚ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED570	ਧੁੱਪ\N_NN ਦੀਆਂ\PSP ਕਿਰਨਾਂ\N_NN ਨਾਲ\PSP ਸਰੀਰ\N_NN ਦੇ\PSP ਅੰਦਰ\RB ਵਿਟਾਮਿਨ-ਡੀ\N_NN ਬਣਨ\V_VM_VF ‘ਚ\RB ਮਦਦ\N_NN ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED571	ਇਸ\DM_DMD ਲਈ\PSP ਬੱਚਿਆਂ\N_NN ਨੂੰ\PSP ਹਲਕੀ\JJ ਧੁੱਪ\N_NN ‘ਚ\RB ਅੱਧਾ\RB ਘੰਟਾ\RB ਬਿਠਾਉਣਾ\V_VM_VINF ਲਾਭਦਾਇਕ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED572	ਬੱਚਿਆਂ\N_NN ‘ਚ\RB ਭੈਂਗਾਪਣ\N_NN ਜਾਂ\CC_CCD ਟੇਢਾ\JJ ਦੇਖਣਾ\V_VM_VINF :\RD_PUNC ਹਰ\RB ਨਵਜੰਮਿਆ\N_NN ਬੱਚਾ\N_NN ਭੈਂਗਾ\N_NN ਦੇਖਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED573	ਇਹ\DM_DMD ਸਥਿਤੀ\N_NN ਲੱਗਭਗ\RB ਤਿੰਨ\QT_QTC ਮਹੀਨਿਆਂ\N_NN ਤਕ\PSP ਬਣੀ\V_VM_VF ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED574	ਇਸ\DM_DMD ਲਈ\PSP ਛੇ\QT_QTC ਮਹੀਨੇ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਪਿੱਛੋਂ\RB ਵੀ\RP_RPD ਬੱਚੇ\N_NN ਦੀਆਂ\PSP ਅੱਖਾਂ\N_NN ਦਾ\PSP ਟੇਢਾਪਣ\JJ ਬਣਿਆ\V_VM_VF ਰਹੇ\V_VM_VF ਤਾਂ\CC_CCD ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਲੈਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED575	ਇਹ\DM_DMD ਅੱਖਾਂ\N_NN ਦੀ\PSP ਹਲਚਲ\N_NN ਨੂੰ\PSP ਕੰਟਰੋਲ\N_NN ਕਰਨ\V_VM ਵਾਲੀਆਂ\PSP ਮਾਸਪੇਸ਼ੀਆਂ\N_NN ਵਿਚਾਲੇ\PSP ਤਾਲਮੇਲ\N_NN ਦੀ\PSP ਘਾਟ\RB ਕਾਰਨ\N_NN ਪੈਦਾ\V_VM_VF ਹੋਈ\V_VM_VF ਸਥਿਤੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED576	ਦੂਜਾ\QT_QTO ਕਾਰਨ\N_NN ਦੂਰ\RB ਜਾਂ\CC_CCD ਕੋਲ\RB ਦੀਆਂ\PSP ਚੀਜ਼ਾਂ\N_NN ਪ੍ਰਤੀ\N_NN ਪੈਦਾ\V_VM_VF ਹੋਈ\V_VM_VF ਨਜ਼ਰ\N_NN ਦੀ\PSP ਕਮਜ਼ੋਰੀ\JJ ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED577	ਭੈਂਗੇਪਣ\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਛੇਤੀ\RB ਤੋਂ\PSP ਛੇਤੀ\RB ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED578	ਇਸ\DM_DMD ਲਈ\PSP ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਵਿਕਾਸ\N_NN ਵੇਲੇ\PSP ਜੇਕਰ\CC_CCS ਬੱਚੇ\N_NN ਦਾ\PSP ਦਿਮਾਗ\N_NN ਇਕੋ\RB ਚੀਜ਼\N_NN ਦੇ\PSP ਦੋ\QT_QTC ਅਕਸ\N_NN ਦੇਖਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED579	ਤਾਂ\CC_CCD ਅਗਾਂਹ\RB ਚੱਲ\V_VM ਕੇ\V_VM_VINF ਇਹ\DM_DMD ਸਥਿਤੀ\N_NN ਉਸ\PR_PRP ‘ਚ\RB ਭੁਲੇਖਾਪਾਊ\JJ ਕਲਪਨਾਵਾਂ\JJ ਪੈਦਾ\V_VM_VF ਕਰਵਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED580	ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਨੂੰ\PSP ਠੀਕ\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED581	ਜੇਕਰ\CC_CCS ਰੋਗ\N_NN ਸ਼ੁਰੂਆਤੀ\RB ਪੜਾਅ\N_NN ‘ਚ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਸਰਜਰੀ\N_NN ਦੀ\PSP ਲੋੜ\V_VM ਪੈ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED582	ਸਰੀਰ\N_NN ‘ਤੇ\CC_CCD ਲਾਲ\JJ ਰੰਗ\JJ ਦੇ\PSP ਦਾਣੇ\N_NN ਹੋਣਾ\V_VM_VINF :\RD_PUNC ਇਹ\DM_DMD ਸਥਿਤੀ\N_NN ਬੱਚੇ\N_NN ਦੇ\PSP ਜਨਮ\N_NN ਤੋਂ\PSP ਕੁਝ\DM_DMQ ਹਫਤਿਆਂ\N_NN ਪਿੱਛੋਂ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED583	ਇਸ\DM_DMD ‘ਚ\RB ਸਰੀਰ\N_NN ਦੇ\PSP ਵੱਖ-ਵੱਖ\RB ਅੰਗਾਂ\N_NN ‘ਤੇ\CC_CCD ਲਾਲ\JJ ਰੰਗ\JJ ਦੇ\PSP ਉਭਰੇ\JJ ਹੋਏ\V_VM_VF ਦਾਣੇ\N_NN ਨਜ਼ਰ\N_NN ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED584	ਇਹਨਾਂ\PR_PRL ਦੇ\PSP ਆਕਾਰ\N_NN ‘ਚ\RB ਹੌਲੀ-ਹੌਲੀ\RB ਵਾਧਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED585	ਅਤੇ\CC_CCD 6\QT_QTC ਤੋਂ\PSP 9\QT_QTC ਮਹੀਨਿਆਂ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਤਕ\PSP ਇਹ\DM_DMD ਕਾਫੀ\RB ਵੱਡੇ\RB ਨਜ਼ਰ\N_NN ਆਉਣ\V_VM_VF ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED586	ਇਹਨਾਂ\PR_PRL ਲਈ\PSP ਕਿਸੇ\PR_PRQ ਇਲਾਜ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBHED587	ਬੱਚੇ\N_NN ਦੀ\PSP ਸਕੂਲ\N_NN ਜਾਣ\V_VM_VF ਦੀ\PSP ਉਮਰ\N_NN ਤਕ\PSP ਇਹ\DM_DMD ਧੱਬੇ\N_NN ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਹਲਕੇ\JJ ਹੋਣ\V_VM_VF ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਗਾਇਬ\JJ ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED588	ਸਿਰਫ\RB ਉਹਨਾਂ\PR_PRP ਬੱਚਿਆਂ\N_NN ‘ਚ,\RB ਜਿੰਨਾਂ\RB ‘ਚ\RB ਉਮਰ\N_NN ਦੇ\PSP ਸੱਤ-ਅੱਠ\QT_QTC ਸਾਲਾਂ\N_NN ਪਿੱਛੋਂ\RB ਵੀ\RP_RPD ਇਹ\DM_DMD ਦਾਗ\N_NN ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਇਲਾਜ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED589	ਬੱਚਿਆਂ\N_NN ਦੇ\PSP ਪੈਰ\N_NN ਦਾ\PSP ਟੇਢਾ\JJ ਹੋਣਾ\V_VM_VINF :\RD_PUNC ਜਨਮ\N_NN ਵੇਲੇ\PSP ਬੱਚੇ\N_NN ਦੇ\PSP ਪੈਰ\N_NN ਅੰਦਰ\RB ਵੱਲ\RB ਮੁੜੇ\RB ਹੋਏ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED590	ਬੱਚੇ\N_NN ਦੇ\PSP ਪੈਰ\N_NN ਨੂੰ\PSP ਦਿਨ\RB ‘ਚ\PSP ਤਿੰਨ-ਚਾਰ\RB ਵਾਰ\RB ਗੋਲਾਈ\N_NN ‘ਚ\PSP ਘੁਮਾਓ\V_VM_VF ,\RD_PUNC ਪੈਰਾਂ\N_NN ਦੀ\PSP ਹਲਕੀ\PSP ਮਾਲਸ਼\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਲਾਭ\JJ ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED591	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\PSP ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਲੈਣੀ\V_VM_VF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBHED592	ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਜੇਕਰ\CC_CCS ਕਿਸੇ\PR_PRQ ਹੋਰ\DM_DMQ ਪ੍ਰਕਿਰਿਆ\V_VM_VF ਦੀ\PSP ਲੋੜ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਹ\PR_PRP ਕੀਤੀ\V_VM_VF ਜਾ\V_VM ਸਕੇ\V_VM_VF ।\RD_PUNC
+PBHED593	ਸ਼ੂਗਰ\N_NN ਮਤਲਬ\N_NN ‘ਡਾਇਬਟੀਜ਼’\N_NN ਵਿਚ\PSP ਗਲੂਕੋਜ਼\N_NN ਸਰੀਰ\N_NN ਦੇ\PSP ਅੰਗਾਂ\N_NN ਨੂੰ\PSP ਸ਼ਕਤੀ\JJ ਪ੍ਰਦਾਨ\N_NN ਕਰਨ\V_VM ਦੀ\PSP ਬਜਾਏ\RB ਮੂਤਰ\N_NN ਮਾਰਗ\N_NN ਤੋਂ\PSP ਬਾਹਰ\RB ਆਉਣ\V_VM_VF ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED594	ਸ਼ੂਗਰ\N_NN ਦਾ\PSP ਮਰੀਜ਼\N_NN ਸਰੀਰਕ\N_NN ਰੂਪ\N_NN ‘ਚ\RB ਕਮਜ਼ੋਰ\JJ ਹੋਣ\V_VM_VF ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED595	ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਜਲਦੀ\RB ਇਲਾਜ\N_NN ਨਾ\RP_NEG ਹੋਣ\V_VM ‘ਤੇ\CC_CCD ਮਰੀਜ਼\N_NN ਦੀ\PSP ਸਿਹਤ\N_NN ਤੇਜ਼ੀ\RB ਨਾਲ\PSP ਵਿਗੜਣ\V_VM_VINF ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED596	ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦੀ\PSP ਮੌਤ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED597	ਸਾਡੇ\PR_PRP ਦੇਸ਼\N_NN ਵਿਚ\PSP ਸ਼ੂਗਰ\N_NN ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਲੱਗਭਗ\N_NN ਤਿੰਨ\QT_QTC ਕਰੋੜ\N_NN ਵਿਅਕਤੀ\N_NN ਪੀੜਤ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBHED598	ਪਰ\CC_CCD ਉਹਨਾਂ\PR_PRP ਵਿਚੋਂ\PSP ਤਕਰੀਬਨ\N_NN ਡੇਢ\QT_QTC ਕਰੋੜ\QT_QTC ਨੂੰ\PSP ਪਤਾ\V_VM ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED599	ਕਿਉਂਕਿ\CC_CCS ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਕਦੇ\RB ਆਪਣਾ\PR_PRF ਬਲੱਡ\N_NN ਸ਼ੂਗਰ\N_NN ਟੈਸਟ\N_NN ਨਹੀਂ\RP_NEG ਕਰਵਾਇਆ\V_VM_VF |\RD_PUNC
+PBHED600	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਇਹ\DM_DMD ਪਤਾ\V_VM ਲੱਗ\V_VM_VF ਸਕੇ\V_VM_VF ਕਿ\CC_CCS ਡਾਇਬਟੀਜ਼\N_NN ਉਹਨਾ\PR_PRP ਵਿਚ\PSP ਲੁਕੇ\V_VM_VINF ਰੂਪ\N_NN ‘ਚ\RB ਮੌਜੂਦ\RB ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBHED601	ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਮੁੱਖ\JJ ਲੱਛਣ\N_NN ਇਸ\DM_DMD ਤਰਾਂ\PSP ਹਨ\V_VAUX :\RD_PUNC
+PBHED602	ਵੱਧ\RB ਪਿਆਸ\JJ ਅਤੇ\CC_CCD ਭੁੱਖ\JJ ਲੱਗਣਾ\V_VM_VINF :\RD_PUNC ਜਦੋਂ\PR_PRL ਗ੍ਰਹਿਣ\N_NN ਕੀਤੇ\V_VM_VF ਭੋਜਨ\N_NN ਦੇ\PSP ਵਧੇਰੇ\RB ਤੱਤ\N_NN (ਕਾਰਬੋਹਾਈਡ੍ਰੇਟਸ)\N_NN ਗਲੂਕੋਜ਼\N_NN ਦੇ\PSP ਰੂਪ\N_NN ‘ਚ\RB ਪੇਸ਼ਾਬ\N_NN ‘ਚ\RB ਵਿਅਰਥ\RB ਹੀ\RP_RPD ਨਿਕਲਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED603	ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਆਪਣੇ\PR_PRF ਨਾਲ\PSP ਸਰੀਰ\N_NN ਦੇ\PSP ਪਾਣੀ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਲੈ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED604	ਜਿਸ\PR_PRL ਦੀ\PSP ਪੂਰਤੀ\N_NN ਲਈ\PSP ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਵੱਧ\RB ਤੋਂ\PSP ਵੱਧ\RB ਪਾਣੀ\N_NN ਪੀਣਾ\V_VM_VINF ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED605	ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਵੱਧ\RB ਪਿਆਸ\JJ ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED606	ਸਰੀਰ\N_NN ਨੂੰ\PSP ਊਰਜਾ\N_NN ਦੀ\PSP ਚਾਹ\JJ ਵਿਚ\PSP ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਭੁੱਖ\JJ ਵੀ\RP_RPD ਵੱਧ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBHED607	ਇਸ\DM_DMD ਲਈ\PSP ਸ਼ੂਗਰ\N_NN ਦਾ\PSP ਮਰੀਜ਼\N_NN ਬਹੁਤ\DM_DMQ ਵੱਧ\RB ਮਾਤਰਾ\N_NN ‘ਚ\RB ਖਾਣਾ\N_NN ਖਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED608	ਜ਼ਿਆਦਾ\DM_DMQ ਪੇਸ਼ਾਬ\N_NN ਆਉਣਾ\V_VM_VINF :\RD_PUNC ਸਾਧਾਰਨ\N_NN ਵਿਅਕਤੀਆਂ\N_NN ਵਿਚ\PSP ਪੇਸ਼ਾਬ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਡੇਢ\QT_QTC ਲਿਟਰ\N_NN ਰੋਜ਼ਾਨਾ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED609	ਜਦਕਿ\CC_CCD ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼\N_NN ‘ਚ\RB ਇਹ\DM_DMD ਮਾਤਰਾ\N_NN ਕਈ\DM_DMQ ਲਿਟਰ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED610	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਊਰਜਾ\N_NN ਨਹੀਂ\RP_NEG ਮਿਲਦੀ\V_VM_VF ਅਤੇ\CC_CCD ਜਦੋਂ\PR_PRL ਖੂਨ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਦਾ\PSP ਪ੍ਰਤੀਸ਼ਤ\N_NN ਵੱਧ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਇਹ\DM_DMD ਗੁਰਦੇ\N_NN ਰਾਹੀਂ\RB ਪੇਸ਼ਾਬ\N_NN ‘ਚ\RB ਨਿਕਲਣ\V_VM_VINF ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED611	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਭੋਜਨ\N_NN (ਮੁੱਖ\JJ ਰੂਪ\N_NN ‘ਚ\RB ਕਾਰਬੋਹਾਈਡ੍ਰੇਟਸ)\N_NN ਦਾ\PSP ਇਹ\DM_DMD ਅੰਸ਼\N_NN ਸਰੀਰ\N_NN ਨੂੰ\PSP ਊਰਜਾ\N_NN ਨਾ\RP_NEG ਦੇ\PSP ਕੇ\V_VM_VINF ਬੇਕਾਰ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED612	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਮਰੀਜ਼\N_NN ਕਮਜ਼ੋਰੀ\JJ ਅਤੇ\CC_CCD ਭਾਰ\N_NN ਘਟਣ\RB ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED613	ਅਜਿਹੇ\DM_DMR ਮਰੀਜ਼ਾਂ\N_NN ਦੇ\PSP ਪੇਸ਼ਾਬ\N_NN ਵਿਚ\PSP ਨਿਕਲਣ\V_VM_VF ਵਾਲਾ\PSP ਗਲੂਕੋਜ਼\N_NN ਦਾ\PSP ਪੇਸ਼ਾਬ\N_NN ਦੇ\PSP ਸਾਧਾਰਨ\N_NN ਪ੍ਰੀਖਣ\N_NN ਦੁਆਰਾ\PSP ਲੱਗਭਗ\N_NN ਅੱਧੇ\QT_QTC ਮਿੰਟ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਪਛਾਣ\RB ਕਰਕੇ\V_VM_VINF ਅਤੇ\CC_CCD ਫਿਰ\RB ਖੂਨ\N_NN ਦੀ\PSP ਸਾਧਾਰਨ\N_NN ਜਾਂਚ\N_NN ਕਰਕੇ\V_VM_VINF ਸ਼ੂਗਰ\N_NN ਤੋਂ\PSP ਛੁਟਕਾਰਾ\V_VM ਮਿਲ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED614	ਧਿਆਨ\RP_INJ ਰੱਖੋ\RP_INJ ,\RD_PUNC ਪੇਸ਼ਾਬ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਜ਼ਿਆਦਾ\RB ਹੋਣ\V_VM ਵਾਲੇ\PSP ਹਰੇਕ\RB ਵਿਅਕਤੀ\N_NN ਨੂੰ\PSP ਜ਼ਰੂਰੀ\RB ਨਹੀਂ\RP_NEG ਕਿ\CC_CCS ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਹੋਵੇ\V_VM_VF ।\RD_PUNC
+PBHED615	ਅਜਿਹਾ\DM_DMR ਕੁਝ\DM_DMQ ਹੋਰ\RB ਕਾਰਨਾਂ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਿਵੇਂ\DM_DMQ ਇਕ\RB ਹੋਰ\RB ਤਰਾਂ\PSP ਦੀ\PSP ਡਾਇਬਟੀਜ਼\N_NN ਜਿਸ\PR_PRL ਵਿਚ\PSP ਜ਼ਿਆਦਾ\DM_DMQ ਪੇਸ਼ਾਬ\N_NN ਤਾਂ\RP_RPD ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED616	ਪਰ\CC_CCD ਉਸ\PR_PRP ਵਿਚ\PSP ਸ਼ੂਗਰ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED617	ਜ਼ਿਆਦਾ\DM_DMQ ਪੇਸ਼ਾਬ\N_NN ਦਾ\PSP ਇਕ\RB ਹੋਰ\RB ਕਾਰਨ\RB ਗੁਰਦਾ\N_NN ਖਰਾਬ\N_NN ਹੋਣਾ\V_VM_VINF ਵੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBHED618	ਜਿਸ\PR_PRL ਦੀ\PSP ਮੁੱਢਲੀ\N_NN ਸਥਿਤੀ\N_NN ‘ਚ\RB ਖਾਸ\RB ਤੌਰ\RB ‘ਤੇ\CC_CCD ਰਾਤ\RB ਸਮੇਂ\N_NN ਪੇਸ਼ਾਬ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਜ਼ਿਆਦਾ\DM_DMQ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED619	ਵਾਰ-ਵਾਰ\RB ਜ਼ਿਆਦਾ\DM_DMQ ਮਾਤਰਾ\N_NN ‘ਚ\PSP ਆਉਣ\V_VM ਵਾਲੇ\PSP ਪੇਸ਼ਾਬ\N_NN ਦੀ\PSP ਪਛਾਣ\N_NN ਵਾਰ-ਵਾਰ\RB ਥੋੜੀ\RB ਮਾਤਰਾ\N_NN ‘ਚ\PSP ਆਉਣ\V_VM_VF ਵਾਲੇ\PSP ਪੇਸ਼ਾਬ\N_NN ਦੇ\PSP ਰੋਗੀਆਂ\N_NN ਦੀਆਂ\PSP ਹਾਲਤਾਂ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਕਰਨੀ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED620	ਬੇਹੋਸ਼ੀ\N_NN :\RD_PUNC ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਬਹੁਤ\RB ਸਾਰੇ\RB ਮਰੀਜ਼\N_NN ਬੇਹੋਸ਼ੀ\N_NN ਦੀ\PSP ਹਾਲਤ\N_NN ‘ਚ\RB ਐਮਰਜੈਂਸੀ\N_NN ਵਾਰਡ\N_NN ਵਿਚ\PSP ਲਿਆਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED621	ਜਿੰਨਾਂ\RB ਵਿਚੋਂ\RB ਬਹੁਤਿਆਂ\RB ਦੇ\PSP ਪਰਿਵਾਰਕ\N_NN ਮੈਂਬਰਾਂ\N_NN ਨੂੰ\PSP ਪਤਾ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ਕਿ\CC_CCS ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਪਹਿਲਾਂ\RB ਤੋਂ\PSP ਹੀ\RP_RPD ਡਾਇਬਿਟੀਜ਼\N_NN ਸੀ\V_VAUX ,\RD_PUNC
+PBHED622	ਜਿਸ\PR_PRL ਦਾ\PSP ਇਲਾਜ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੋ\V_VAUX ਸਕਿਆ\V_VM_VNF ਸੀ\V_VAUX ।\RD_PUNC
+PBHED623	ਬਲੱਡ\N_NN ਸ਼ੂਗਰ\N_NN ਟੈਸਟ\N_NN ਕਰਾਉਣ\V_VM_VF ‘ਤੇ\CC_CCD ਹੀ\RP_RPD ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਪਛਾਣ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED624	ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਕੁਝ\DM_DMQ ਹੋਰ\RB ਮਰੀਜ਼\N_NN ਜੇਕਰ\CC_CCS ਇਲਾਜ\N_NN ਨਾ\RP_NEG ਕਰਵਾਉਣ\V_VM_VF (\RD_PUNC ਖਾਸਕਰ\JJ ਬੱਚੇ\N_NN ਸ਼ੂਗਰ\N_NN ਰੋਗੀ\N_NN )\RD_PUNC ਤਾਂ\CC_CCD ਉਹ\PR_PRP ਵੀ\RP_RPD ਬੇਹੋਸ਼\N_NN ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED625	ਜਦਕਿ\RB ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਕੁਝ\DM_DMQ ਹੋਰ\RB ਮਰੀਜ਼\N_NN ਦਵਾਈ\N_NN ਜਾਂ\CC_CCD ਇੰਸੁਲਿਨ\N_NN ਦੀ\PSP ਲੋੜ\JJ ਤੋਂ\PSP ਵਧੇਰੇ\RB ਮਾਤਰਾ\N_NN ‘ਚ\RB ਵਰਤੋਂ\V_VM ਨਾਲ\PSP ਵੀ\RP_RPD ਅਟੈਕ\N_NN ਕਾਰਨ\RB ਬੇਹੋਸ਼\N_NN ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED626	ਬੇਹੋਸ਼ੀ\N_NN ਦੀ\PSP ਹਾਲਤ\N_NN ਤੋਂ\PSP ਬਚਣ\V_VM ਲਈ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਵਧੀਆ\JJ ਤਰੀਕਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED627	ਕਿ\CC_CCS ਸ਼ੂਗਰ\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਨੂੰ\PSP ਕੰਟਰੋਲ\N_NN ‘ਚ\PSP ਰੱਖਿਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBHED628	ਅੱਖਾਂ\N_NN ਦੀ\PSP ਰੌਸ਼ਨੀ\N_NN ਘਟਣਾ\RB :\RD_PUNC ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼\N_NN ਦੀ\PSP ਰੌਸ਼ਨੀ\N_NN ਹੌਲੀ-ਹੌਲੀ\RB ਜਾਂ\CC_CCD ਤੇਜ਼ੀ\RB ਨਾਲ\PSP ਜਾਂ\CC_CCD ਅਚਾਨਕ\RB ਘੱਟ\RB ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED629	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਮਰੀਜ਼\N_NN ਅੰਨਾਂ\JJ ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED630	ਅਜਿਹੇ\PR_PRF ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਮੋਤੀਆਬਿੰਦ\N_NN (\RD_PUNC ਕੈਟੇਰਕਟ\N_NN )\RD_PUNC ਘੱਟ\RB ਉਮਰ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਬਣ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED631	ਸ਼ੂਗਰ\N_NN ਕੰਟਰੋਲ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਰੱਖਣ\V_VM_VF ‘ਤੇ\CC_CCD ਖਾਸ\JJ ਮਾੜਾ\JJ ਅਸਰ\N_NN ਅੱਖ\N_NN ਦੇ\PSP ਅੰਦਰੂਨੀ\RB (\RD_PUNC ਰੇਟੀਨਾ\N_NN )\RD_PUNC ਪਰਦੇ\N_NN ‘ਤੇ\CC_CCD ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED632	ਅਤੇ\CC_CCD ਕੁਝ\DM_DMQ ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਅੱਖਾਂ\N_NN ਅੰਦਰ\RB ਦੇ\PSP ਤਰਲ\N_NN ਪਦਾਰਥ\N_NN ਦਾ\PSP ਪ੍ਰੈਸ਼ਰ\N_NN ਵੀ\RP_RPD ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED633	ਅਜਿਹੇ\DM_DMR ਸਾਰੇ\DM_DMQ ਵਿਅਕਤੀਆਂ\N_NN ਨੂੰ\PSP ਆਪਣਾ\PR_PRF ਬਲੱਡ\N_NN ਸ਼ੂਗਰ\N_NN ਟੈਸਟ\N_NN ਜ਼ਰੂਰ\RB ਕਰਵਾ\V_VM_VF ਲੈਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED634	ਫੇਫੜਿਆਂ\N_NN ਦੀ\PSP ਟੀ.\N_NN ਬੀ.\N_NN :\RD_PUNC ਜੇਕਰ\CC_CCS ਲੱਗਭਗ\RB ਵੀਹ\RB ਦਿਨਾਂ\RB ਜਾਂ\CC_CCD ਜ਼ਿਆਦਾ\RB ਸਮੇਂ\N_NN ਤੋਂ\PSP ਸ਼ੂਗਰ\N_NN ਦਾ\PSP ਕੋਈ\DM_DMQ ਮਰੀਜ਼\N_NN ਖਾਂਸੀ\N_NN ਨਾਲ\PSP ਖੂਨ\N_NN ਆਉਣ\V_VM_VF ਦੀ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਕਰੇ\V_VM_VF ਤਾਂ\CC_CCD ਫੇਫੜਿਆਂ\N_NN ਦੀ\PSP ਟੀ.\N_NN ਬੀ.\N_NN ਲਈ\PSP (ਖਾਸ\RB ਤੌਰ\RB ‘ਤੇ\CC_CCD ਚੈਸਟ\N_NN ਐਕਸਰੇ,\N_NN ਟੀ.\N_NN ਐੱਲ.\N_NN ਸੀ.,\N_NN ਡੀ.\N_NN ਐੱਲ.\N_NN ਸੀ.)\N_NN ਜਾਂਚ\N_NN ਜ਼ਰੂਰ\RB ਕਰਵਾਉਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED635	ਕਿਉਂਕਿ\CC_CCS ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਮਰੀਜ਼\N_NN ਟੀ.ਬੀ.\N_NN ਤੋਂ\PSP ਬੜੀ\RB ਆਸਾਨੀ\N_NN ਨਾਲ\PSP ਪੀੜਤ\N_NN ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED636	ਅਜਿਹੇ\DM_DMR ਬਹੁਤ\RB ਸਾਰੇ\RB ਮਰੀਜ਼\N_NN ਇਨ੍ਹਾਂ\PR_PRL ਲੱਛਣਾਂ\N_NN ਨੂੰ\PSP ਅਣਗੌਲਿਆਂ\N_NN ਕਰਦੇ\V_VM_VF ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED637	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਟੀ.ਬੀ.\N_NN ਬਹੁਤ\RB ਤੇਜ਼ੀ\RB ਨਾਲ\PSP ਵਧਦੀ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਸ਼ੂਗਰ\N_NN ‘ਤੇ\CC_CCD ਕੰਟਰੋਲ\N_NN ਵੀ\RP_RPD ਵਿਗੜ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED638	ਟੀ.ਬੀ.\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਕਰਵਾਉਣ\V_VM_VF ਵਾਲੇ\PSP ਮਰੀਜ਼\N_NN ਦਾ\PSP ਭਾਰ\N_NN ਸਾਧਾਰਨ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED639	ਅਤੇ\CC_CCD ਸ਼ੂਗਰ\N_NN ‘ਤੇ\RB ਵੀ\RP_RPD ਚੰਗਾ\JJ ਕੰਟਰੋਲ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED640	ਦੂਜੇ\RB ਪਾਸੇ\RB ਫੇਫੜੇ\N_NN ਦੀ\PSP ਟੀ.ਬੀ.\N_NN ਦੇ\PSP ਹਰੇਕ\RB ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਜਾਂਚ\N_NN ਜ਼ਰੂਰ\RB ਕਰਵਾਉਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED641	ਹੋਰ\DM_DMQ ਲੱਛਣ\N_NN :\RD_PUNC ਸ਼ੂਗਰ\N_NN ਦੇ\PSP ਕੁਝ\DM_DMQ ਹੋਰ\DM_DMQ ਲੱਛਣ\N_NN ਇਸ\RB ਤਰਾਂ\RB ਹਨ\V_VAUX |\RD_PUNC
+PBHED642	ਅੱਖਾਂ\N_NN ‘ਚ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ,\RD_PUNC ਜ਼ਖਮ\N_NN ਨਾ\RP_NEG ਭਰਨਾ\V_VM_VINF ਜਾਂ\CC_CCD ਦੇਰ\RB ਨਾਲ\PSP ਭਰਨਾ\V_VM_VINF ,\RD_PUNC ਮੂਤਰ\N_NN ਤੰਤਰ\N_NN ‘ਚ\PSP ਇਨਫੈਕਸ਼ਨ\N_NN ,\RD_PUNC ਭੋਜਨ\N_NN ਨਿਗਲਣ\V_VM_VF ‘ਚ\PSP ਤਕਲੀਫ\N_NN ,\RD_PUNC ਪੈਰਾਂ\N_NN ਜਾਂ\CC_CCD ਹੱਥਾਂ\N_NN ਵਿਚ\PSP ਦਰਦ\N_NN ,\RD_PUNC ਅੰਗਾਂ\N_NN ਦਾ\PSP ਸੁੰਨ\JJ ਹੋਣਾ\V_VM_VINF ,\RD_PUNC
+PBHED643	ਭਾਰੀਪਨ\JJ ,\RD_PUNC ਸੂਈ\N_NN ਜਿਹੀ\PR_PRL ਚੁਭਣ\N_NN ,\RD_PUNC ਪੱਟਾਂ\N_NN ਦੇ\PSP ਉਪਰਲੇ\RB ਹਿੱਸੇ\RB ‘ਚ\PSP ਦਰਦ\N_NN ,\RD_PUNC ਚਿਹਰੇ\N_NN ਦਾ\PSP ਟੇਢਾਪਨ\N_NN ,\RD_PUNC ਅੱਧੇ\RB ਸਰੀਰ\N_NN ‘ਚ\PSP ਲਕਵਾ\N_NN ,\RD_PUNC ਚੱਕਰ\N_NN ਆਉਣਾ\V_VM_VINF ,\RD_PUNC ਗਰਭ\N_NN ਨਾ\RP_NEG ਠਹਿਰਣਾ\V_VM_VINF ,\RD_PUNC ਪਿਸ਼ਾਬ\N_NN ਘੱਟ\RB ਹੋਣਾ\V_VM_VINF ,\RD_PUNC ਖੂਨ\N_NN ਦੀ\PSP ਕਮੀ\RB ,\RD_PUNC ਕਬਜ਼\N_NN ਰਹਿਣਾ\RB ,\RD_PUNC ਭੁੱਖ\N_NN ਨਾ\RP_NEG ਲੱਗਣਾ\V_VM_VINF ਆਦਿ\DM_DMQ ।\RD_PUNC
+PBHED644	ਖੂਨ\N_NN ਦਾ\PSP ਦਬਾਅ\N_NN ਜਾਂ\CC_CCD ਬਲੱਡ-ਪਰੈੱਸ਼ਰ\N_NN ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਵਿਚ\PSP ਦੌਰਾ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਖੂਨ\N_NN ਦਾ\PSP ਬਲੱਡ-ਵੈੱਸਲਾਂ\N_NN ਭਾਵ\JJ ਖੂਨ-ਨਾੜੀਆਂ\N_NN ਦੀਆਂ\PSP ਕੰਧਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਪਿਆ\V_VM_VF ਦਬਾਅ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED645	ਖੂਨ\N_NN ਦੇ\PSP ਦਬਾਅ\N_NN ਦੇ\PSP ਆਮ\RB ਨਾਲੋਂ\PSP ਵੱਧ\RB ਜਾਣ\V_VM_VF ਨੂੰ\PSP `\RD_PUNC ਹਾਈ\N_NN ਬਲੱਡ\N_NN ਪ੍ਰੈੱਸ਼ਰ\N_NN `\RD_PUNC ਜਾਂ\CC_CCD ਡਾਕਟਰੀ\N_NN ਸ਼ਬਦਾਵਲੀ\N_NN ਵਿਚ\PSP `\RD_PUNC ਹਾਈਪਰਟੈਂਨਸ਼ਨ\N_NN `\RD_PUNC ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED646	ਇਸ\DM_DMD ਨਾਲ\PSP ਦਿਲ\N_NN ਦੀਆਂ\PSP ਕਈ\DM_DMQ ਬੀਮਾਰੀਆਂ\N_NN ਜਿਵੇਂ\DM_DMQ ਦਿਲ\N_NN ਨੂੰ\PSP ਝਟਕਾ\N_NN (\RD_PUNC ਹਾਰਟ-ਸਟਰੋਕ\N_NN ),\RD_PUNC ਦਿਲ\N_NN ਫੇਲ\N_NN ਹੋਣਾ\V_VM_VINF ,\RD_PUNC ਕਿਡਨੀਆਂ\N_NN ਦਾ\PSP ਖਰਾਬ\N_NN ਹੋਣਾ\V_VM_VINF ਤੇ\CC_CCD ਅੱਖਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਬੁਰਾ\JJ ਪ੍ਰਭਾਵ\N_NN ਪੈਣਾ\V_VM_VINF ਆਦਿ\DM_DMQ ਹੋ\V_VAUX ਸਕਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED647	ਖੂਨ\N_NN ਦਾ\PSP ਦਬਾਅ\N_NN ਜਾਂ\CC_CCD `\RD_PUNC ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN `\RD_PUNC ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਦੀਆਂ\PSP ਆਰਟਰੀਆਂ\N_NN ਵਿਚ\PSP ਖੂਨ\N_NN ਦੇ\PSP ਦਬਾਅ\N_NN ਨੂੰ\PSP ਦਰਸਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED648	ਇਸ\DM_DMD ਦਬਾਅ\N_NN ਨੂੰ\PSP ਇਕ\RB ਵਿਸ਼ੇਸ਼\JJ ਜੰਤਰ\N_NN ਨਾਲ\PSP ਮਾਪਿਆ\RB ਜਾਂਦਾ\PSP ਜੋ\PR_PRL ਇਸ\DM_DMD ਨੂੰ\PSP ਮਿਲੀਮੀਟਰਾਂ\N_NN ਵਿਚ\PSP ਪਾਰੇ\N_NN ਦਾ\PSP ਦਬਾਅ\N_NN (mm/hg)\N_NN ਦਰਸਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED649	ਉਪਰਲਾ\RB ਦਬਾਅ\N_NN ਪਹਿਲਾਂ\RB ਲਿਖਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਹੇਠਲਾ\RB ਬਾਅਦ\RB ਵਿਚ\PSP ਤੇ\CC_CCD ਇਹਨਾਂ\PR_PRL ਦੋਹਾਂ\RB ਵਿਚਕਾਰ\PSP ਸਲੈਸ਼\N_NN (\RD_PUNC /\RD_PUNC )\RD_PUNC ਪਾਈ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਵੇਂ\DM_DMQ ਕਿ\CC_CCS ਆਮ\RB ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਖੂਨ\N_NN ਦਾ\PSP ਦਬਾਅ\N_NN 120/80\QT_QTC ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED650	ਇਸ\DM_DMD ਦੇ\PSP 140/90\QT_QTC ਤੱਕ\PSP ਹੋ\V_VAUX ਜਾਣ\V_VM_VF ਨੂੰ\PSP ਬਲੱਡ-ਪ੍ਰੈਸ਼ਰ\N_NN ਦੇ\PSP ਵੱਧਣ\RB ਦੀ\PSP ਸ਼ੁਰੂਆਤ\RB ਵਾਲੀ\PSP ਹਾਲਤ\N_NN ਤੇ\CC_CCD ਇਸ\DM_DMD ਤੋਂ\PSP ਉੱਪਰ\RB `\RD_PUNC ਵੱਧ\RB ਖ਼ੂਨ\N_NN ਦੇ\PSP ਦਬਾਅ\N_NN `\RD_PUNC ਦੀ\PSP ਸਟੇਜ\N_NN ਆ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED651	ਜੇ\CC_CCD ਇਹ\DM_DMD 160/100\QT_QTC ਜਾਂ\CC_CCD ਇਸ\DM_DMD ਤੋਂ\PSP ਉੱਪਰ\RB ਪਹੁੰਚ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਇਹ\DM_DMD ਖਤਰਨਾਕ\N_NN ਹਾਲਤ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED652	180/120\QT_QTC ਤੋਂ\PSP ਉੱਪਰ\RB ਤਾਂ\RP_RPD ਇਹ\DM_DMD ਜ਼ਿਆਦਾ\RB ਹੀ\RP_RPD ਖਤਰਨਾਕ\N_NN ਸਮਝੀ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED653	ਇਨਾਂ\RB ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਸਾਨੂੰ\PR_PRP ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਜਾਣ\V_VM_VF ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED654	ਇਸ\DM_DMD ਦਬਾਅ\N_NN ਦੇ\PSP ਵੱਧਣ\RB ਦਾ\PSP ਕਾਰਨ\RB ਜਾਨਣ\V_VM_VF ਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਇਲਾਜ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED655	ਉਪਰਲਾ\RB ਦਬਾਅ\N_NN ਦਿਲ\N_NN ਦੀ\PSP ਧੜਕਨ\N_NN ਨੂੰ\PSP ਦਰਸਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਹੇਠਲਾਂ\RB ਜਦੋਂ\PR_PRL ਸਾਡਾ\PR_PRP ਦਿਲ\N_NN ਇਸ\DM_DMD ਦੀਆਂ\PSP ਦੋ\QT_QTC ਧੜਕਨਾਂ\V_VM_VINF ਵਿਚਕਾਰ\PSP ਆਰਾਮ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED656	ਦਰਅਸਲ\RB ,\RD_PUNC ਇਹ\DM_DMD ਖੂਨ\N_NN ਦਾ\PSP ਦਬਾਅ\N_NN ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਵਿਚ\PSP ਇਕਸਾਰ\N_NN ਨਹੀਂ\RP_NEG ਰਹਿੰਦਾ\V_VM_VF ਤੇ\CC_CCD ਇਹ\DM_DMD ਵੱਧਦਾ\RB ਘੱਟਦਾ\RB ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED657	ਰਾਤ\RB ਸੌਣ\N_NN ਵੇਲੇ\PSP ਇਹ\DM_DMD ਘੱਟ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED658	ਦਿਨ\RB ਵੇਲੇ\PSP ਜਾਗਦਿਆਂ\N_NN ਕੰਮ\RB ਕਾਜ\RB ਕਰਦਿਆਂ\V_VM_VNF ,\RD_PUNC ਕਿਸੇ\PR_PRQ ਉਤੇਜਨਾ\V_VM_VNF ,\RD_PUNC ਥਕਾਵਟ\JJ ਜਾਂ\CC_CCD ਘਬਰਾਹਟ\N_NN ਕਾਰਨ\RB ਇਹ\DM_DMD ਵੱਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED659	ਜੇ\CC_CCD ਇਹ\DM_DMD ਵੱਖ-ਵੱਖ\RB ਸਮਿਆਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਦੋ\QT_QTC ਜਾਂ\CC_CCD ਇਸ\DM_DMD ਤੋਂ\PSP ਵਧੀਕ\RB ਵਾਰੀ\RB ਆਮ\RB ਨਾਲੋਂ\PSP ਵੱਧ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਡਾਕਟਰ\N_NN ਇਸ\DM_DMD ਨੂੰ\PSP ਵਧਿਆ\RB ਹੋਇਆ\V_VM_VF ਬਲੱਡ-ਪ੍ਰੈਸਰ\N_NN ਕਰਾਰ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED660	ਤੇ\CC_CCD ਇਸ\DM_DMD ਦੇ\PSP ਉਪਚਾਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਅਤੇ\CC_CCD ਦਵਾਈ\N_NN ਦੀ\PSP ਸਿਫਾਰਿਸ਼\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED661	ਕਈ\DM_DMQ ਲੋਕਾਂ\N_NN ਦਾ\PSP ਬਲੱਡ-ਪ੍ਰੈਸ਼ਰ\N_NN ਡਾਕਟਰ\N_NN ਦੇ\PSP ਕਲੀਨਿਕ\N_NN ਜਾਂ\CC_CCD ਹਸਪਤਾਲ\N_NN ਵਿਚ\PSP ਆ\V_VM ਕੇ\V_VM_VINF ਵੱਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED662	ਇਸ\DM_DMD ਨੂੰ\PSP ਡਾਕਟਰ\N_NN “ਵਾਈਟ\N_NN ਕੋਟ\N_NN ਹਾਈਪਰਟੈਂਸ਼ਨ”\N_NN ਦਾ\PSP ਨਾਂ\N_NN ਵੀ\RP_RPD ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED663	ਜੋ\PR_PRL ਡਾਕਟਰ\N_NN ਦਾ\PSP ਚਿੱਟਾ\JJ ਕੋਟ\N_NN ਵੇਖ\V_VM_VF ਕੇ\V_VM_VINF ਵੱਧਣਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED664	ਅਜਿਹੀਆਂ\PR_PRL ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP `\RD_PUNC ਇਹ\DM_DMD ਮਰੀਜ਼\N_NN `\RD_PUNC ਆਪਣੇ\PR_PRF ਘਰਾਂ\N_NN ਵਿਚ\PSP ਰੱਖੀਆਂ\V_VM_VNF ਮਸ਼ੀਨਾਂ\N_NN ਨਾਲ\PSP ਜਾਂ\CC_CCD ਫਾਰਮੇਸੀਆਂ\N_NN ਵਿਚ\PSP ਉਪਲੱਬਧ\N_NN ਮਸ਼ੀਨਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਆਪਣਾ\PR_PRF ਬਲੱਡ-ਪ੍ਰੈਸ਼ਰ\N_NN ਚੈੱਕ\N_NN ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED665	ਤੇ\CC_CCD ਆਪਣੀ\PR_PRF ਤਸੱਲੀ\N_NN ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED666	ਤੇ\CC_CCD ਜੇਕਰ\CC_CCS ਇਹ\DM_DMD ਉਥੇ\N_NST ਵੀ\RP_RPD ਵੱਧ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਫਿਰ\RB ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਜਾਣਾ\V_VM_VINF ਹੀ\RP_RPD ਪਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED667	ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਵਿਚ\PSP ਖੂਨ\N_NN ਵੱਖ-ਵੱਖ\RB ਨਾੜੀਆਂ\N_NN ਰਾਹੀਂ\RB ਦੌੜਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED668	ਇਹ\DM_DMD ਨਾੜੀਆਂ\N_NN ਦੋ\QT_QTC ਕਿਸਮ\N_NN ਦੀਆਂ\PSP ਹਨ\V_VAUX ,\RD_PUNC ਆਰਟਰੀਆਂ\N_NN ਤੇ\CC_CCD ਵੇਨਾਂ\N_NN ।\RD_PUNC
+PBHED669	ਆਰਟਰੀਆਂ\N_NN ਖੂਨ\N_NN ਨੂੰ\PSP ਦਿਲ\N_NN ਵੱਲੋਂ\PSP ਸਰੀਰ\N_NN ਦੇ\PSP ਵੱਖ-ਵੱਖ\RB ਭਾਗਾਂ\N_NN ਵੱਲ\PSP ਲੈ\V_VM_VF ਕੇ\V_VM_VNF ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED670	ਅਤੇ\CC_CCD ਵੇਨਾਂ\N_NN ਦਿਲ\N_NN ਵੱਲ\PSP ਨੂੰ\PSP ਖੂਨ\N_NN ਲੈ\V_VM_VF ਕੇ\V_VM_VINF ਆਉਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED671	ਆਰਟਰੀਆਂ\N_NN ਵਿਚ\PSP ਕੋਲੈਸਟਰੋਲ\N_NN ਦੇ\PSP ਜੰਮਣ\N_NN ਕਰਕੇ\V_VM_VINF ਜਾਂ\CC_CCD ਕਿਸੇ\PR_PRQ ਹੋਰ\DM_DMQ ਕਾਰਨ\RB ਆਰਟਰੀਆਂ\N_NN ਦੇ\PSP ਸੁੰਗੜ\N_NN ਜਾਣ\V_VM_VF ਕਾਰਨ\N_NN ਖੂਨ\N_NN ਦੇ\PSP ਦਬਾਅ\N_NN ਨੂੰ\PSP ਕੰਟਰੋਲ\N_NN ਵਿਚ\PSP ਰੱਖਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED672	ਅਜਿਹਾ\PR_PRL ਨਾ\RP_NEG ਹੋਣ\V_VM_VF ਦੀ\PSP ਹਾਲਤ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਦਾ\PSP ਅਸਰ\N_NN ਸਰੀਰ\N_NN ਦੇ\PSP ਕਈ\DM_DMQ ਹੋਰ\DM_DMQ ਅੰਗਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਹੋਣ\V_VM_VF ਦਾ\PSP ਖ਼ਤਰਾ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED673	ਸਰੀਰ\N_NN ਵਿਚ\PSP ਬਲੱਡ-ਪ੍ਰੈੱਸ਼ਰ\N_NN ਵੱਧਣ\RB ਦੇ\PSP ਕਈ\DM_DMQ ਕਾਰਨ\RB ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED674	ਜਿਵੇਂ\DM_DMQ ਖੂਨ\N_NN ਵਿਚ\PSP ਕੋਲੈਸਟਰੋਲ\N_NN ਜਾਂ\CC_CCD ਟਰਾਈਗਲਿਸਰਾਈਡਾਂ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵੱਧਣਾ\V_VM_VINF ,\RD_PUNC ਆਰਟਰੀਆਂ\N_NN ਦਾ\PSP ਸੁੰਗੜਨਾ\V_VM_VINF ,\RD_PUNC ਮਾਨਸਿਕ\N_NN ਪ੍ਰੇਸ਼ਾਨੀ\JJ ,\RD_PUNC ਸਰੀਰਕ\N_NN ਤੇ\CC_CCD ਦਿਮਾਗੀ\N_NN ਥਕਾਵਟ\JJ ਜਾਂ\CC_CCD ਕਈ\DM_DMQ ਹੋਰ\DM_DMQ ।\RD_PUNC
+PBHED675	ਇਸ\DM_DMD ਬਾਰੇ\RB ਡਾਕਟਰ\N_NN ਕਈ\DM_DMQ ਤਰਾਂ\PSP ਦੇ\PSP ਟੈਸਟਾਂ\N_NN ਰਾਹੀਂ\PSP ਜਾਂਚ\N_NN ਕਰਕੇ\V_VM_VINF ਹੀ\RP_RPD ਕਿਸੇ\PR_PRQ ਸਿੱਟੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਪਹੁੰਚਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED676	ਤੇ\CC_CCD ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਲੋੜੀਦਾ\N_NN ਮਸ਼ਵਰਾ\N_NN ਤੇ\CC_CCD ਦਵਾਈ\N_NN ਦੇਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED677	ਇਸ\DM_DMD ਦਾ\PSP ਇਕ\RB ਮੁੱਖ\JJ ਕਾਰਨ\RB ਸਾਡੀਆਂ\PR_PRP ਖਾਣ-ਪੀਣ\N_NN ਦੀਆਂ\PSP ਆਦਤਾਂ\N_NN ਵਿਚ\PSP ਵਿਗਾੜ\JJ ਅਤੇ\CC_CCD ਵਰਜਿਸ਼\N_NN ਦੀ\PSP ਘਾਟ\RB ਵੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBHED678	ਖਾਣੇ\N_NN ਵਿਚ\PSP ਲੂਣ\N_NN (ਸੋਡੀਅਮ\N_NN ਕਲੋਰਾਈਡ)\N_NN ਦਾ\PSP ਵਧੇਰੇ\RB ਪ੍ਰਯੋਗ\N_NN ,\RD_PUNC ਰੈਡੀ-ਮੇਡ\N_NN ਤੇ\CC_CCD ਜੰਕ\N_NN ਫੂਡਜ਼\N_NN ਵੀ\RP_RPD ਇਸ\DM_DMD ਦਾ\PSP ਕਾਰਨ\RB ਬਣਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED679	ਅਲਕੋਹਲ\N_NN ਦਾ\PSP ਵਧੇਰੇ\RB ਸੇਵਨ\N_NN ਵੀ\RP_RPD ਮੁੱਖ\JJ ਕਾਰਨਾਂ\RB ਵਿੱਚੋਂ\PSP ਇਕ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED680	ਅਸੀ\PR_PRP ਕਈ\RB ਵਾਰ\RB ਅਨਜਾਣਤਾ\RB ਕਾਰਨ\RB ਤੇ\CC_CCD ਬਹੁਤੀ\RB ਵਾਰੀ\RB ਜਾਣ\N_NN ਬੁੱਝ\N_NN ਕੇ\V_VM_VINF ਵੀ\RP_RPD ਆਪਣੀ\PR_PRF ਖੁਰਾਕ\N_NN ਵੱਲ\PSP ਧਿਆਨ\N_NN ਨਹੀਂ\RP_NEG ਦੇਂਦੇ\V_VM_VF ।\RD_PUNC
+PBHED681	ਆਮ\RB ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਖੁਰਾਕ\N_NN ਦੇ\PSP ਵੱਖ-ਵੱਖ\RB ਉਪਯੋਗੀ\N_NN ਤੱਤਾਂ\N_NN ਵੱਲ\PSP ਸਾਡਾ\PR_PRP ਧਿਆਨ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਜਾਂਦਾ\V_VM_VF ਤੇ\CC_CCD ਨਾ\RP_NEG ਹੀ\RP_RPD ਅਸੀਂ\PR_PRP ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਮੰਨਦੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBHED682	ਜਦੋਂ\PR_PRL ਪਾਣੀ\N_NN ਸਿਰ\N_NN ਤੋਂ\PSP ਲੰਘਣ\V_VM_VF ਵਾਲਾ\PSP ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹਾਂ\V_VAUX ਜਾਂ\CC_CCD ਕਈ\RB ਵਾਰ\RB ਲੰਘਣਾਂ\V_VM_VNG ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਸਾਡੀ\PR_PRP ਜਾਗ\N_NN ਖੁੱਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED683	ਬਹੁਤ\RB ਸਾਰੀਆਂ\RB ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਤਾਂ\CC_CCD ਡਾਕਟਰ\N_NN ਹੀ\RP_RPD ਸਾਨੂੰ\PR_PRP ਹਲੂਣਦਾ\V_VM_VINF ਹੈ\V_VAUX ਜਦ\PR_PRL ਉਹ\PR_PRP ਵੇਖਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED684	ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੇ\PSP ਮਰੀਜ਼\N_NN ਦਾ\PSP ਬਲੱਡ-ਪਰੈੱਸ਼ਰ\N_NN 150/100\QT_QTC ਨੂੰ\PSP ਪਹੁੰਚ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED685	ਕਈ\RB ਵਾਰ\RB ਇਸ\DM_DMD ਨੂੰ\PSP ਵੀ\RP_RPD ਪਾਰ\N_NN ਹੋਣ\V_VM_VF ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED686	ਬਹੁਤੀ\RB ਵਾਰ\RB ਸਾਨੂੰ\PR_PRP ਖੂਨ\N_NN ਦੇ\PSP ਇਸ\DM_DMD ਵਧੇ\RB ਹੋਏ\RB ਦਬਾਅ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਲੱਗਦਾ\V_VM_VF ।\RD_PUNC
+PBHED687	ਕਈਆਂ\DM_DMQ ਨੂੰ\PSP ਤਾਂ\CC_CCD ਸਿਰ\N_NN ਦਰਦ,\N_NN ਗੁੱਸਾ\N_NN ,\RD_PUNC ਸੁਭਾਅ\N_NN ਵਿਚ\PSP ਕਾਹਲਾਪਨ\JJ ,\RD_PUNC ਘਬਰਾਹਟ\JJ ਵਰਗੀਆਂ\N_NN ਅਲਾਮਤਾਂ\N_NN ਨਾਲ\N_NN ਇਸ\DM_DMD ਦਾ\PSP ਥੋੜਾ\RB ਬਹੁਤ\RB ਗਿਆਨ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED688	ਤੇ\CC_CCD ਉਹ\PR_PRP ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਚੈੱਕ\N_NN ਕਰਾਉਣ\V_VM_VF ਲਈ\PSP ਪਹੁੰਚ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED689	ਪਰ\CC_CCD ਕਈ\DM_DMQ ਮੇਰੇ\PR_PRP ਵਰਗਿਆਂ\N_NN ਨੂੰ\PSP ਇਹਨਾਂ\PR_PRL ਨਿਸਾਨੀਆਂ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਲੱਗਦਾ\V_VM_VF ਤੇ\CC_CCD ਉਹ\PR_PRP ਇਸ\DM_DMD ਖ਼ੁਸ਼-ਫਹਿਮੀ\RB ਵਿਚ\PSP ਹਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਠੀਕ-ਠਾਕ\RB ਹਨ\V_VAUX |\RD_PUNC
+PBHED690	ਪਰ\CC_CCD ਗਾਹੇ-ਬਗਾਹੇ\RB ਇਹ\DM_DMD 140/90\QT_QTC ਤੋਂ\PSP ਉੱਪਰ\RB ਪਹੁੰਚਿਆ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED691	ਇਹੋ\RB ਜਿਹੇ\RB ?\RD_PUNC ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਡਾਕਟਰ\N_NN ਤੋਂ\PSP ਬੀ.ਪੀ\N_NN ਹਫ਼ਤੇ\QT_QTF ਵਿਚ\PSP ਇਕ-ਦੋ\RB ਵਾਰ\RB ਲਗਾਤਾਰ\RB ਚੈੱਕ\N_NN ਕਰਾਉਣ\V_VM_VINF ਦੀ\PSP ਸਲਾਹ\N_NN ਦੇਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED692	ਤੇ\CC_CCD ਨਾਲ\PSP ਦਵਾਈ\N_NN ਲੈਣ\V_VM_VF ਦੀ\PSP ਵੀ\RP_RPD ਹਾਈ\N_NN ਬੀਥਪੀਥਵਾਲੇ\N_NN ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਨਾਲ\PSP ਦਵਾਈ\N_NN ਆਮ\RB ਤੌਰ\RB `\RD_PUNC ਤੇ\CC_CCD ਲਗਾਤਾਰ\RB ਹੀ\RP_RPD ਲੈਣੀ\V_VM_VF ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED693	ਇਸ\DM_DMD ਬਾਰੇ\RB ਕਈ\DM_DMQ ਡਾਕਟਰਾਂ\N_NN ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਮਰੀਜ਼\N_NN ਰੋਟੀ\N_NN ਖਾਣੀ\N_NN ਭਾਵੇਂ\DM_DMQ ਭੁੱਲ\N_NN ਜਾਏ\V_VM_VF ਪਰ\CC_CCD ਦਵਾਈ\N_NN ਖਾਣੀ\V_VM_VINF ਨਾ\RP_NEG ਭੁੱਲੇ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਹਾਈ\N_NN ਬਲੱਡ-ਪਰੈੱਸ਼ਰ\N_NN ਨੂੰ\PSP ਡਾਕਟਰਾਂ\N_NN ਵੱਲੋਂ\PSP “ਸਾਈਲੈਂਟ-ਕਿੱਲਰ“\N_NN ਗਰਦਾਨਿਆ\N_NN ਜਾ\V_VM ਚੁੱਕਾ\V_VM_VNF ਹੈ\V_VAUX ਤੇ\CC_CCD ਇਸ\DM_DMD ਤੋਂ\PSP ਬੱਚ\N_NN ਕੇ\V_VM_VNF ਰਹਿਣਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ।\V_VAUX
+PBHED694	ਅਸੀਂ\PR_PRP ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਨੂੰ\PSP ਆਪਣੀ\PR_PRF ਖੁਰਾਕ\N_NN ਵਿਚ\PSP ਲੂਣ\N_NN ਭਾਵ\JJ ਸੋਡੀਅਮ\N_NN ਤੱਤ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਘਟਾ\RB ਕੇ\V_VM_VINF ਅਤੇ\CC_CCD ਪੋਟਾਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਵਧਾ\RB ਕੇ\V_VM_VINF ਠੀਕ\RB ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBHED695	ਇਸ\DM_DMD ਦੇ\PSP ਲਈ\PSP ਸਾਰੀ\RB ਉਮਰ\N_NN ਗੋਲੀਆਂ\N_NN ਖਾਣ\V_VM_VF ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਨਹੀਂ\RP_NEG ਪੈਂਦੀ\V_VM_VF ਤੇ\CC_CCD ਇਹ\DM_DMD ਹੌਲੀ\RB ਹੌਲੀ\RB ਘਟਾਈਆਂ\V_VM_VINF ਜਾ\V_VM ਸਕਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED696	ਪਰ\CC_CCD ਨਾਲ\PSP ਹੀ\RP_RPD ਇਸ\DM_DMD ਸਬੰਧੀ\N_NN ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਲੈਣੀ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED697	ਇਸ\DM_DMD ਦੇ\PSP ਨਾਲ\PSP ਹੀ\RP_RPD ਰੋਜ਼ਾਨਾ\RB ਸੈਰ\N_NN ਤੇ\CC_CCD ਹਲਕੀ\JJ ਵਰਜਿਸ਼\N_NN ਵੀ\RP_RPD ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED698	ਯੋਗਾ\N_NN ?\RD_PUNC ਵੀ\RP_RPD ਇਸ\DM_DMD ਵਿਚ\PSP ਕਾਫੀ\RB ਸਹਾਈ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED699	ਪਰ\CC_CCD ਜੇਕਰ\CC_CCS ਇਸ\DM_DMD ਨੂੰ\PSP ਨੇਮ\RB ਨਾਲ\PSP ਕੀਤਾ\V_VM ਜਾਏ\V_VM_VF ।\RD_PUNC
+PBHED700	ਇਹ\DM_DMD ਸੋਡੀਅਮ\N_NN ਅਤੇ\CC_CCD ਪੋਟਾਸ਼ੀਅਮ\N_NN ਤੱਤ\N_NN ਮਨੁੱਖਾਂ\N_NN ਤੇ\CC_CCD ਹੋਰ\DM_DMQ ਜੀਵਾਂ\N_NN ਦੇ\PSP ਸਰੀਰਾਂ\N_NN ਵਿਚ\PSP ਇਕ\RB ਥਾਂ\N_NN ਤੋਂ\PSP ਦੂਜੀ\RB ਥਾਂ\N_NN ਦਿਮਾਗ\N_NN ਦੀ\PSP ਨਸਾਂ\N_NN ਰਾਹੀਂ\PSP ਸੁਨੇਹੇ\N_NN ਪਹੁੰਚਾਉਣ\V_VM_VF ਵਿਚ\PSP ਸਹਾਇਤਾ\JJ ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED701	ਪੋਟਾਸ਼ੀਅਮ\N_NN ਜੀਵਾਂ\N_NN ਨਾਲੋਂ\PSP ਪੌਦਿਆਂ\N_NN ਵਿਚ\PSP ਵਧੇਰੇ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED702	ਇਸ\DM_DMD ਦਾ\PSP ਨਾਂ\N_NN “ਪੋਟਾਸ਼”\N_NN ਵੀ\RP_RPD ਸੁਆਹ\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਪਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED703	ਕਿਉਂਕਿ\CC_CCS ਪੌਦਿਆਂ\N_NN ਦੀ\PSP ਸੁਆਹ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਦੀ\PSP ਮਾਤਰਾ\N_NN ਬਹੁਤ\RB ਪਾਈ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED704	ਆਦਿ-ਮਨੁੱਖ\N_NN ਦੀ\PSP ਖੁਰਾਕ\N_NN ਵਿਚ\PSP ਇਹ\DM_DMD ਫਲਾਂ\N_NN ਤੇ\CC_CCD ਸਬਜ਼ੀਆਂ\N_NN ਕੇਲੇ\RP_CL ,\RD_PUNC ਸੰਤਰੇ\RP_CL ,\RD_PUNC ਟਮਾਟਰ\RP_CL ਵਗੈਰਾ\N_NN ਤੋਂ\PSP ਲੋੜੀਂਦੀ\N_NN ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਮਿਲ\V_VM_VF ਜਾਂਦਾ\V_VM_VNF ਸੀ\V_VAUX ।\RD_PUNC
+PBHED705	ਉਦੋਂ\RB ਉਹ\PR_PRP ਲੂਣ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਵੀ\RP_RPD ਬੜੀ\RB ਘੱਟ\RB ਕਰਦਾ\V_VM_VNF ਸੀ\V_VAUX ।\RD_PUNC
+PBHED706	ਫਿਰ\RB ਸਮੇਂ\N_NN ਦੀ\PSP ਚਾਲ\N_NN ਨਾਲ\PSP ਜਦੋਂ\PR_PRL ਉਹ\PR_PRP ਸੁਆਦਾਂ\N_NN ਵਿਚ\PSP ਪੈ\V_VM ਗਿਆ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦੀ\PSP ਖੁਰਾਕ\N_NN ਵਿਚ\PSP ਸੋਡੀਅਮ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵੱਧਦੀ\RB ਗਈ\V_VM_VF ।\RD_PUNC
+PBHED707	ਹੌਲੀ\RB ਹੌਲੀ\RB ਪੌਦਿਆਂ\N_NN ਦੀ\PSP ਥਾਂ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਖੁਰਾਕ\N_NN ਵਿਚ\PSP ਮੀਟ\N_NN ਸ਼ਾਂਮਲ\RB ਹੋ\V_VAUX ਜਾਣ\V_VM_VF ਨਾਲ\PSP ਪੋਟਾਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਘੱਟ\RB ਗਈ\V_VM_VF ।\RD_PUNC
+PBHED708	ਸੋਡੀਅਮ\N_NN ਤੇ\CC_CCD ਪੋਟਾਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਵੱਧਦੀ-ਘੱਟਦੀ\RB ਮਾਤਰਾ\RB ਨੂੰ\PSP ਕੁਝ\DM_DMQ ਦੇਰ\RB ਤੀਕ\RB ਤਾਂ\RP_RPD ਮਨੁੱਖੀ\N_NN ਸਰੀਰ\N_NN ਸੰਤੁਲਿਤ\N_NN ਕਰ\V_VM ਲੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਬਹੁਤ\RB ਸਾਰੇ\RB ਮਨੁੱਖਾਂ\N_NN ਵਿਚ\PSP ਇਹ\DM_DMD ਸੰਤੁਲਨ\N_NN ਹੌਲੀ\RB ਹੌਲੀ\RB ਵਿਗੜ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ?\RD_PUNC
+PBHED709	ਹਾਈ\N_NN ਬਲੱਡ-ਪ੍ਰੈਸ਼ਰ\N_NN ?\RD_PUNC ਦੀ\PSP ਮੁਸ਼ਕਲ\JJ ਆਉਣੀ\V_VM_VF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED710	ਪੋਟਾਸ਼ੀਅਮ\N_NN ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਦੀਆਂ\PSP ਮਾਸਪੇਸ਼ੀਆਂ\N_NN ਦੇ\PSP ਅੰਦਰ\RB ਤੇ\CC_CCD ਬਾਹਰ\RB ਆ\V_VM_VF ਜਾ\V_VM_VF ਕੇ\V_VM_VINF ਇਕ\RB ਖਾਸ\RB ਕਿਸਮ\N_NN ਦਾ\PSP ਕਰੰਟ\N_NN ਪੇਦਾ\V_VM_VF ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED711	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਮਾਸਪੇਸ਼ੀਆਂ\N_NN ਹਰਕਤ\N_NN ਕਰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED712	ਖੂਨ\N_NN ਵਿਚ\PSP ਪੋਟਾਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਘੱਟਣ\RB ਨਾਲ\PSP ਸਰੀਰ\N_NN ਬੇਹੱਦ\RB ਕਮਜ਼ੋਰੀ\JJ ਮਹਿਸੂਸ\JJ ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED713	ਤੇ\CC_CCD ਮਾਸਪੇਸ਼ੀਆਂ\N_NN ਵਿਚ\PSP ਜਕੜਨ\JJ ਪੈਦਾ\V_VM_VF ਹੋਣ\V_VM_VF ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED714	ਹਾਈ\N_NN ਬਲੱਡ-ਪਰੈੱਸ਼ਰ\N_NN ਤੇ\CC_CCD ਪਿਸ਼ਾਬ-ਵਰਧਕ\N_NN ਦਵਾਈਆਂ\N_NN ਵੀ\RP_RPD ਇਸ\DM_DMD ਦੀ\PSP ਮਾਤਰਾ\N_NN ਘੱਟ\RB ਕਰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED715	ਤੇ\CC_CCD ਇਹ\DM_DMD ਬਹੁਤ\RB ਜ਼ਿਆਦਾ\RB ਘੱਟਣ\RB `\RD_PUNC ਤੇ\CC_CCD ਮੌਤ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED716	ਕਈ\RB ਵਾਰੀ\RB ਜਦ\CC_CCS ਅਸੀ\PR_PRP ਡਾਕਟਰਾਂ\N_NN ਕੋਲ\PSP ਆਪਣਾ\PR_PRF ਆਮ\RB ਚੈੱਕ-ਅੱਪ\N_NN ਕਰਾਉਣ\V_VM_VF ਲਈ\PSP ਜਾਂਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਤਾਂ\RP_RPD ਉਹਨਾਂ\PR_PRP ਵੱਲੋਂ\PSP ਪਹਿਲੀ\RB ਵਾਰੀ\RB ਬਲੱਡ\N_NN ਪਰੈੱਸ਼ਰ\N_NN ਦੱਸਣ\V_VM_VF ਜਾਂ\CC_CCD ਦਿਲ\N_NN ਦਾ\PSP ਦੌਰਾ\N_NN ਪੈਣ\V_VM_VF ਬਾਰੇ\N_NN ਸੁਣ\V_VM_VF ਕੇ\V_VM_VINF ਏਨਾ\RB ਡਰ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਕਿ\CC_CCS ਆਪਣੀ\PR_PRF ਖੁਰਾਕ\N_NN ਵਿਚੋਂ\PSP ਸੋਡੀਅਮ\N_NN ਬਿਲਕੁਲ\RB ਹੀ\RP_RPD ਘਟਾ\RB ਦਿੰਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਜੋ\CC_CCS ਕਿ\CC_CCS ਬਹੁਤ\RB ਖਤਰਨਾਕ\N_NN ਸਿੱਧ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED717	ਇਹ\DM_DMD ਕੁਝ\DM_DMQ ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਨੂੰ\PSP ਅਤਿ-ਲੋੜੀਂਦਾ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED718	ਇਹਨਾਂ\PR_PRL ਦੋਹਾਂ\RB ਤੱਤਾਂ\N_NN ਦੀ\PSP ਸੰਤੁਲਤ\N_NN ਮਾਤਰਾ\N_NN ਸਾਡੇ\PR_PRP ਸਰੀਰ\N_NN ਵਿਚ\PSP ਹੋਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED719	ਅਮਰੀਕਾ\N_NNP ਤੇ\CC_CCD ਕੈਨੇਡਾ\N_NNP ਵਿਚ\PSP ਮਨੁੱਖ\N_NN ਨੂੰ\PSP ਸਿਹਤਮੰਦ\N_NN ਰਹਿਣ\N_NN ਲਈ\PSP ਇਥੋਂ\N_NST ਦੀ\PSP ਇਨਸਟੀਚਿਊਟ\N_NN ਆਫ\N_NN ਮੈਡੀਸੀਨ\N_NN ਅਨੁਸਾਰ\N_NN ਹਰੇਕ\PSP ਵਿਅਕਤੀ\N_NN ਨੂੰ\PSP ਹਰ\PR_PRQ ਰੋਜ਼\RB 2300\QT_QTC ਮਿਲੀਗਰਾਮ\N_NN ਸੋਡੀਅਮ\N_NN ਤੇ\CC_CCD 4700\QT_QTC ਮਿਲੀਗਰਾਮ\N_NN ਪੋਟਾਸ਼ੀਅਮ\N_NN ਖੁਰਾਕ\N_NN ਵਿਚੋਂ\PSP ਮਿਲਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED720	ਇਹ\DM_DMD 2300\QT_QTC ਗਰਾਮ\N_NN ਸੋਡੀਅਮ\N_NN 5750\QT_QTC ਗ੍ਰਾਮ\N_NN ਲੂਣ\N_NN (ਸੋਡੀਅਮ\N_NN ਕਲੋਰਾਈਡ)\N_NN ਵਿਚੋਂ\PSP ਪੂਰਾ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED721	ਇਕ\RB ਮੋਟੇ\JJ ਅੰਦਾਜ਼ੇ\RB ਮੁਤਾਬਿਕ\RB ਸਾਨੂੰ\PR_PRP ਹਰ\RB ਰੋਜ਼\RB ਇਕ\RB ਛੋਟਾ\RB ਚਮਚਾ\N_NN ਲੂਣ\N_NN ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED722	ਪਰ\CC_CCD ਅਮਰੀਕਾ\N_NNP ਤੇ\CC_CCD ਕੈਨੇਡਾ\N_NNP ਵਿਚ\PSP ਇਹ\DM_DMD ਇਸ\DM_DMD ਤੋਂ\PSP ਲਗਭਗ\RB ਤਿੰਨ\QT_QTC ਗੁਣਾਂ\N_NN ਲੂਣ\N_NN ਵਰਤਿਆ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED723	ਜੋ\PR_PRL ਬਲੱਡ\N_NN ਪਰੈੱਸ਼ਰ\N_NN ਦੇ\PSP ਵੱਧਣ\RB ਦਾ\PSP ਮੁੱਖ\JJ ਕਾਰਨ\RB ਬਣਦਾ\V_VM_VF ਜਾ\V_VM_VF ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED724	ਇਥੇ\N_NST ਇਹ\DM_DMD ਜਾਨਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBHED725	ਕਿ\CC_CCS ਲੂਣ\N_NN ਵਿਚਲਾ\PSP ਸੋਡੀਅਮ\N_NN ਸਾਨੂੰ\PR_PRP ਕੇਵਲ\RB ਲੂਣ\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ,\RD_PUNC ਸਗੋਂ\RB ਹੋਰ\DM_DMQ ਵੀ\RP_RPD ਕਈ\DM_DMQ ਖਾਣ\N_NN ਵਾਲੇ\PSP ਪਦਾਰਥਾਂ\N_NN ਤੋੰ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED726	ਇਹ\DM_DMD 2300\QT_QTC ਮਿਲੀਗ੍ਰਾਮ\N_NN ਵਿਚੋਂ\PSP ਬਹੁਤਾ\RB ਹਿੱਸਾ\RB ਆਮ\RB ਖੁਰਾਕ\N_NN ਵਿਚੋਂ\PSP ਹੀ\RP_RPD ਪੂਰਾ\N_NN ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED727	ਡਾਕਟਰ\N_NN ਹੁਣ\RB ਬਲੱਡ\N_NN ਪਰੈੱਸ਼ਰ\N_NN ਘਟਾਉਣ\RB ਲਈ\PSP ਪੋਟਾਸ਼ੀਅਮ\N_NN ਦੇ\PSP ਨਾਲ\RB ਨਾਲ\RB ਮੈਗਨੀਸ਼ੀਅਮ\N_NN ਵੀ\RP_RPD ਮਹੱਤਵ\JJ ਪੂਰਨ\JJ ਮੰਨਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED728	ਕੁਝ\DM_DMQ ਵਿਅੱਕਤੀਆਂ\N_NN ਵਿਚ\PSP ਮੈਗਨੀਸ਼ੀਅਮ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਵਧਾਉਣ\RB ਨਾਲ\PSP ਵੀ\RP_RPD ਬਲੱਡ\N_NN ਪਰੈੱਸ਼ਰ\N_NN ਠੀਕ\RB ਹੋਣ\V_VM ਵਿਚ\PSP ਆਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED729	ਇਕ\RB ਸਿਫਾਰਿਸ਼\RB ਅਨੁਸਾਰ\RB ਸਾਡੀ\PR_PRP ਖੁਰਾਕ\N_NN ਵਿਚ\PSP ਹਰ\RB ਰੋਜ਼\RB 400\QT_QTC ਮਿਲੀ\N_NN ਗਰਾਮ\N_NN ਮੈਗਨੀਸ਼ੀਅਮ\N_NN ਸ਼ਾਮਲ\RB ਹੋਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED730	ਇਸ\DM_DMD ਦੇ\PSP ਲਈ\PSP ਸਾਨੂੰ\PR_PRP ਮੈਗਨੀਸ਼ੀਅਮ\N_NN ਤੱਤ\N_NN ਵਾਲੇ\PSP ਫਲ\N_NN ਤੇ\CC_CCD ਸਬਜ਼ੀਆਂ\N_NN ਖਾਣੇ\N_NN ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED731	ਕਈਆਂ\DM_DMQ ਵਿਚ\PSP ਸੋਡੀਅਮ\N_NN ਬਹੁਤ\RB ਜ਼ਿਆਦਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਿਵੇਂ\DM_DMQ ਚਕੰਦਰ\RP_CL ,\RD_PUNC ਬੰਦ\RP_CL ਗੋਭੀ\RP_CL ਆਦਿ\DM_DMQ ।\RD_PUNC
+PBHED732	ਇਹਨਾਂ\PR_PRL ਨੂੰ\PSP ਘੱਟ\RB ਮਾਤਰਾ\RB ਵਿਚ\PSP ਹੀ\RP_RPD ਲਿਆ\V_VM_VF ਜਾਏ\V_VM_VF ਤਾਂ\CC_CCD ਚੰਗਾ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED733	ਹਰੀਆਂ-ਸਬਜ਼ੀਆਂ\JJ ਤੇ\CC_CCD ਤਾਜ਼ੇ-ਫਲਾਂ\JJ ਵਿਚੋਂ\PSP ਸਾਨੂੰ\PR_PRP ਬਹੁਤ\RB ਸਾਰੇ\DM_DMQ ਉਪਯੋਗੀ\N_NN ਤੱਤ\N_NN ਮਿਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED734	ਇਹਨਾਂ\PR_PRL ਦਾ\PSP ਰੋਜਾਂਨਾ\RB ਸੇਵਨ\N_NN ਅਤੇ\CC_CCD ਲੂਣ\N_NN ,\RD_PUNC ਤਲੀਆਂ\JJ ਹੋਈਆਂ\V_VM_VNF ਚੀਜ਼ਾਂ\N_NN ਤੇ\CC_CCD ਵਧੇਰੇ\RB ਕਾਫ਼ੀ\RB ਦਾ\PSP ਲੋੜੀਦਾ\N_NN ਪ੍ਰਹੇਜ਼\N_NN ਸਾਨੂੰ\PR_PRP ਹਾਈ\N_NN ਬਲੱਡ-ਪ੍ਰੈਸ਼ਰ\N_NN ਤੋਂ\PSP ਦੂਰ\RB ਰੱਖਣ\V_VM_VF ਵਿਚ\PSP ਕਾਫ਼ੀ\RB ਹੱਦ\RB ਤੀਕ\PSP ਸਹਾਈ\JJ ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED735	ਬਾਕੀ\RB ,\RD_PUNC ਲੋੜ\N_NN ਪੈਣ\V_VM_VF `\RD_PUNC ਤੇ\CC_CCD ਡਾਕਟਰ\N_NN ਮੌਜੂਦ\RB ਹੈਨ\V_VAUX ਹੀ\RP_RPD ।\RD_PUNC
+PBHED736	ਉਹ\PR_PRP ਜਾਨਣ\V_VM_VF ਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਕੰਮ\N_NN ,\RD_PUNC ਆਪਾਂ\PR_PRP ਕਿਉਂ\PR_PRQ ਐਵੇਂ\RB ਇਸ\DM_DMD ਦੀ\PSP ਚਿੰਤਾ\JJ ਲਾ\V_VM_VF ਕੇ\V_VM_VINF ਆਪਣਾ\PR_PRF ਬੀ.ਪੀ.\N_NN ਵਧਾਈਏ\V_VM_VF ।\RD_PUNC
+PBHED737	ਹੋਮਿਓਪੈਥੀ\N_NN ਦੁਨੀਆਂ\N_NN ਦੀਆਂ\PSP ਮੁੱਢਲੀਆਂ\N_NN ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀਆਂ\N_NN ਵਿਚੋਂ\PSP ਇੱਕ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBHED738	ਜਿਸ\PR_PRL ਦੀ\PSP ਖੋਜ\N_NN ਜਰਮਨ\N_NNP ਵਾਸੀ\N_NN ਡਾ.ਸੈਮੂਅਲ\N_NNP ਹਨੈਮੈਨ\N_NNP ਨੇ\PSP ਕੀਤੀ\V_VM_VNF ।\RD_PUNC
+PBHED739	ਹੌਲੀ\RB ਹੌਲੀ\RB ਇਹ\DM_DMD ਪੈਥੀ\N_NN ਸਾਰੇ\DM_DMQ ਸੰਸਾਰ\N_NN ਵਿੱਚ\PSP ਫੈਲਦੀ\V_VM_VF ਗਈ\V_VM_VF |\RD_PUNC
+PBHED740	ਅਤੇ\CC_CCD ਅੱਜ\RB ਇਹ\DM_DMD ਦੁਨੀਆਂ\N_NN ਦੀਆਂ\PSP ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀਆਂ\N_NN ਵਿਚੋਂ\PSP ਇੱਕ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED741	ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਵਿਚ\PSP ਹੋਮਿਓਪੈਥੀ\N_NN ਸਬੰਧੀ\JJ ਬਹੁਤ\RB ਭਰਮ\JJ ਭੁਲੇਖੇ\JJ ਪਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED742	ਹਥਲੇ\N_NN ਲੇਖ\N_NN ਵਿਚ\PSP ਇੰਨਾਂ\RB ਭਰਮ\JJ ਭੁਲੇਖਿਆਂ\JJ ਨੂੰ\PSP ਦੂਰ\RB ਕਰਨ\RB ਦਾ\PSP ਉਪਰਾਲਾ\V_VM_VF ਕਰ\V_VM_VF ਰਿਹਾ\V_VM_VF ਹਾਂ\V_VAUX ਤਾਂ\RB ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥੀ\N_NN ਸਬੰਧੀ\N_NN ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਹੋਰ\DM_DMQ ਜਾਗਰੂਕਤਾ\JJ ਹੋ\V_VAUX ਸਕੇ\V_VM_VNF ।\RD_PUNC
+PBHED743	ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਗੱਲ\N_NN ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਵਿੱਚ\PSP ਪਾਈ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥੀ\N_NN ਦਵਾਈ\N_NN ਜੇਕਰ\CC_CCS ਫਾਇਦਾ\N_NN ਨਹੀਂ\RP_NEG ਕਰਦੀ\V_VM_VF ਤਾਂ\RP_RPD ਨੁਕਸਾਨ\N_NN ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਕਰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED744	ਇਸੇ\DM_DMD ਗੱਲ\N_NN ਨੂੰ\PSP ਲੈਕੇ\V_VM_VNF ਪੰਜਾਬੀ\N_NN ਦੇ\PSP ਗੀਤਕਾਰਾਂ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਗੀਤਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਹ\DM_DMD ਲਾਇਨਾਂ\N_NN ਪਾ\V_VM ਦਿੱਤੀਆਂ\V_VM_VNF ਹਰਭਜਨ\N_NN ਸ਼ੇਰੇ\N_NN ਨੇ\PSP `\RD_PUNC ਮੁੰਡਾ\N_NN ਹੋਮਿਓਪੈਥੀ\N_NN ਦੀ\PSP ਦਵਾਈ\N_NN ਵਰਗਾ\PSP ਕਰਦਾ\V_VM_VF ਨਹੀਂ\RP_NEG ਨੁਕਸਾਨ\N_NN `\RD_PUNC ਅਤੇ\CC_CCD ਗੁਰਦਾਸ\N_NN ਮਾਨ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਗੀਤ\N_NN `\RD_PUNC ਇਥੇ\N_NST ਹਰ\JJ ਬੰਦਾ\N_NN ਰੱਬ\N_NN ਦੇ\PSP ਜਵਾਈ\N_NN ਵਰਗਾ\PSP `\RD_PUNC ਵਿਚ\PSP ਇੱਕ\N_NN ਸਤਰ\N_NN `\RD_PUNC ਮੁੰਡਾ\N_NN ਹੋ\V_VAUX ਗਿਆ\N_NN ਜਵਾਨ\N_NN ,\RD_PUNC ਨਾ\RP_NEG ਕੋਈ\N_NN ਫਾਇਦਾ\N_NN ਨੁਕਸਾਨ\N_NN ,\RD_PUNC ਨਿਰਾ\N_NN ਪੁਰਾ\N_NN ਹੋਮਿਓਪੈਥੀ\N_NN ਦੀ\PSP ਦਵਾਈ\N_NN ਵਰਗਾ\N_NN `\RD_PUNC ਪਾਈ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED745	ਕਹਿਣ\V_VM_VINF ਤੋਂ\PSP ਭਾਵ\N_NN ,\RD_PUNC ਇਹ\DM_DMD ਬਹੁਤ\RB ਵੱਡਾ\RB ਭਰਮ\N_NN ਭੁਲੇਖਾ\N_NN ਜੋ\CC_CCD ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਵਿੱਚ\PSP ਪਲਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED746	ਦੁਨੀਆਂ\N_NN ਉਤੇ\RB ਕੋਈ\DM_DMQ ਵੀ\RP_RPD ਚੀਜ਼\N_NN ਜੇਕਰ\CC_CCS ਉਸ\PR_PRP ਦਾ\PSP ਬਿਨਾਂ\RB ਸੋਚੇ\N_NN ਸਮਝੇ\N_NN ਉਪਯੋਗ\N_NN ਕਰਾਂਗੇ\V_VM_VF ਤਾਂ\RP_RPD ਉਹ\PR_PRP ਨੁਕਸਾਨ\N_NN ਕਰੇਗੀ\V_VM_VF ਹੀ\RP_RPD ।\RD_PUNC
+PBHED747	ਕਈ\DM_DMQ ਲੋਕ\N_NN ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਕਿਤਾਬਾਂ\N_NN ਪੜ\V_VM_VF ਕੇ\V_VM_VNF ਹੋਮਿਓਪੈਥੀ\N_NN ਨੂੰ\PSP ਅਜਮਾਉਣ\N_NN ਲੱਗ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜੋ\CC_CCD ਕਿ\CC_CCS ਖਤਰਨਾਕ\N_NN ਰੁਝਾਨ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED748	ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈਆਂ\N_NN ਦੇ\PSP ਅਸਰ\N_NN ਬਹੁਤ\RB ਡੂੰਘੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED749	ਜੇਕਰ\CC_CCS ਬਿਨਾਂ\RB ਕਿਸੇ\PR_PRQ ਚੰਗੇ\JJ ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਦੇ\PSP ਅਸੀਂ\PR_PRP ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਕਰਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਮੰਨੋ\N_NN ਕਿ\CC_CCS ਅਸੀਂ\PR_PRP ਆਪਣੀ\PR_PRF ਸਿਹਤ\N_NN ਨਾਲ\PSP ਖਿਲਵਾੜ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBHED750	ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਬਹੁਤ\RB ਹੌਲੀ\JJ ਅਸਰ\JJ ਕਰਦੀ\V_VM_VINF ਹੈ\V_VAUX :-\RD_PUNC ਇਹ\DM_DMD ਬੜਾ\RB ਵੱਡਾ\RB ਭਰਮ\N_NN ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਵਿਚ\PSP ਪਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED751	ਕਿ\CC_CCS ਜਦੋਂ\PR_PRL ਨੂੰ\PSP ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਨੇ\PSP ਅਸਰ\N_NN ਸ਼ੁਰੂ\RB ਕਰਨਾ\RB ਉਦੋਂ\RB ਨੂੰ\PSP ਜਾਨ\N_NN ਨਿਕਲ\V_VM ਜਾਊ\V_VM_VF ।\RD_PUNC
+PBHED752	ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਦੋ\RB ਤਰਾਂ\RB ਦੀਆਂ\PSP ਦਵਾਈਆਂ\N_NN ਮਿਲਦੀਆ\V_VM_VNF ਹਨ\V_VAUX ,\RD_PUNC ਇੱਕ\RB ਨਵੀਂ\JJ ਬੀਮਾਰੀ\N_NN ਲਈ\PSP ਅਤੇ\CC_CCD ਇੱਕ\QT_QTC ਪੁਰਾਣੀ\JJ ਬੀਮਾਰੀ\N_NN ਲਈ\PSP ।\RD_PUNC
+PBHED753	ਮੰਨ\N_NN ਲਓ\V_VM_VF ਕਿਸੇ\PR_PRQ ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਸ਼ੂਗਰ\N_NN ਦੀ\PSP ਤਕਲੀਫ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜੋ\CC_CCD ਕਿ\CC_CCS ਦਸ\RB ਸਾਲ\N_NN ਪੁਰਾਣੀ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED754	ਜੇਕਰ\CC_CCS ਉਸ\PR_PRP ਰੋਗੀ\N_NN ਨੂੰ\PSP ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਦਿੱਤੀ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਤਾਂ\RP_RPD ਹੈ\V_VAUX ਨਹੀਂ\RP_NEG ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਸ਼ੂਗਰ\N_NN ਦੋ\QT_QTC ਹਫ਼ਤਿਆਂ\N_NN ਵਿੱਚ\PSP ਠੀਕ\RB ਹੋ\V_VAUX ਜਾਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED755	ਜਿੰਨੀ\RB ਪੁਰਾਣੀ\JJ ਬੀਮਾਰੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਨਾਂ\RB ਹੀ\RP_RPD ਸਮਾਂ\N_NN ਵੱਧ\RB ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED756	ਇਸ\DM_DMD ਤੋਂ\PSP ਉਲਟ\RB ਜੇਕਰ\CC_CCS ਕਿਸੇ\PR_PRQ ਦੇ\PSP ਸਿਰ\N_NN ਵਿੱਚ\PSP ਸੱਟ\N_NN ਲੱਗ\V_VM_VF ਜਾਵੇ\V_VM_VF ,\RD_PUNC ਆਦਮੀ\N_NN ਬੇਹੋਸ਼\JJ ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ,\RD_PUNC ਅਗਰ\RB ਉਸ\PR_PRP ਵੇਲੇ\PSP ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਦੀ\PSP ਇੱਕ\QT_QTC ਖੁਰਾਕ\N_NN ਮੂੰਹ\N_NN ਵਿੱਚ\PSP ਪਾਈ\V_VM_VF ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBHED757	ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਕਿਸੇ\PR_PRQ ਚਮਤਕਾਰ\N_NN ਨਾਲੋਂ\PSP ਘੱਟ\RB ਨਹੀਂ\RP_NEG ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED758	ਸੋ\DM_DMD ਕਹਿਣ\V_VM_VF ਤੋਂ\PSP ਭਾਵ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਾਡੀਆਂ\PR_PRP ਬੀਮਾਰੀਆਂ\N_NN ਹੀ\RP_RPD ਬਹੁਤ\RB ਪੁਰਾਣੀਆਂ\JJ ਹੁੰਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED759	ਪਹਿਲਾਂ\RB ਹੋਰ\DM_DMQ ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀਆਂ\N_NN ਰਾਹੀਂ\PSP ਰੋਗ\N_NN ਨੂੰ\PSP ਠੀਕ\RB ਕਰਨ\RB ਦਾ\PSP ਯਤਨ\N_NN ਕੀਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED760	ਫਿਰ\RB ਜਦੋਂ\PR_PRL ਰੋਗੀ\N_NN ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਕਾਫ਼ੀ\RB ਸਮਾਂ\N_NN ਲੰਘ\V_VM ਚੁੱਕਾ\V_VM_VNF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED761	ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈਆਂ\N_NN ਨਾਲ\PSP ਦੂਜੀਆਂ\RB ਦਵਾਈਆਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM :-\RD_PUNC ਮੰਨ\N_NN ਲਓ\V_VM_VF ਕਿ\CC_CCS ਪਹਿਲਾਂ\RB ਕੋਈ\DM_DMQ ਰੋਗੀ\N_NN ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ,\RD_PUNC ਸ਼ੂਗਰ\N_NN ਜਾਂ\CC_CCD ਥਾਇਰਾਇਡ\N_NN ਦੀ\PSP ਅੰਗਰੇਜ਼ੀ\JJ ਗੋਲੀ\N_NN ਖਾ\V_VM_VF ਕੇ\V_VM_VINF ਸਮਾਂ\N_NN ਗੁਜ਼ਾਰ\N_NN ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED762	ਇੱਕ\RB ਦਮ\RB ਉਸਦੇ\PR_PRP ਮਨ\N_NN ਵਿੱਚ\PSP ਹੋਮਿਓਪੈਥੀ\N_NN ਦਾ\PSP ਖ਼ਿਆਲ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਆ\V_VM_VF ਕੇ\V_VM_VINF ਰੋਗੀ\N_NN ਇਹੋ\DM_DMD ਸਵਾਲ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਡਾਕਟਰ\N_NN ਸਾਹਿਬ\N_NN ਹੁਣ\N_NN ਮੈਂ\PR_PRP ਇਹ\DM_DMD ਗੋਲੀ\N_NN ਜਾਂ\CC_CCD ਕੈਪਸੂਲ\N_NN ਛੱਡ\V_VM ਦਿਆਂ\V_VM_VNF ,\RD_PUNC ਜਾਂ\CC_CCD ਕਈ\DM_DMQ ਮਰੀਜ਼\N_NN ਬਿਨਾਂ\RB ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਦੇ\PSP ਦਵਾਈ\N_NN ਛੱਡ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED763	ਕਿਉਂਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਮਨ\N_NN ਦਾ\PSP ਵਿਚਾਰ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਕੋਈ\DM_DMQ ਹੋਰ\DM_DMQ ਦਵਾਈ\N_NN ਨਹੀਂ\RP_NEG ਲੈਣੀ\V_VM_VF ,\RD_PUNC ਇਹ\DM_DMD ਖਤਰਨਾਕ\N_NN ਰੁਝਾਨ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED764	ਜਿਸ\PR_PRL ਦਵਾਈ\N_NN ਨੂੰ\PSP ਰੋਗੀ\N_NN ਸਾਲਾਂ\N_NN ਬੱਧੀ\N_NN ਲੈ\V_VM ਰਿਹਾ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBHED765	ਉਸ\PR_PRP ਨੂੰ\PSP ਇਕਦਮ\RB ਛੱਡਣ\V_VM_VF ਨਾਲ\PSP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਕਿਸੇ\PR_PRP ਵੀ\RP_RPD ਪ੍ਰਕਾਰ\N_NN ਦਾ\PSP ਨੁਕਸ\N_NN ਪੈ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED766	ਜਿਸ\PR_PRL ਤਰਾਂ\PSP ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਦੀ\PSP ਗੋਲੀ\N_NN ਇਕਦਮ\RB ਛੱਡਣ\V_VM_VF ਨਾਲ\PSP ਅਧਰੰਗ\N_NN ਹੋਣ\V_VM_VF ਦਾ\PSP ਖਤਰਾ\N_NN ਬਣ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਇਹ\DM_DMD ਗੋਲੀਆਂ\N_NN ,\RD_PUNC ਕੈਪਸੂਲ\N_NN ਇਕ\RB ਤਰਾਂ\RB ਨਸ਼ੇ\JJ ਵਾਂਗ\PSP ਸ਼ਰੀਰ\N_NN ਨੂੰ\PSP ਲੱਗੇ\V_VM_VF ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED767	ਜੇਕਰ\CC_CCS ਕਿਸੇ\PR_PRQ ਅਮਲੀ\N_NN ਦਾ\PSP ਨਸ਼ਾ\N_NN ਇੱਕਦਮ\RB ਛੁਡਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਤੋੜ\JJ ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED768	ਇਸੇ\DM_DMD ਤਰਾਂ\RB ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਸ਼ੁਰੂ\RB ਕਰਨ\RB ਵੇਲੇ\PSP ਉਹ\PR_PRP ਦਵਾਈਆਂ\N_NN ਜਿੰਨਾਂ\RB ਦੀ\PSP ਰੋਗੀ\N_NN ਵਰਤੋਂ\V_VM ਕਰਦਾ\V_VM_VNF ਸੀ\V_VAUX ,\RD_PUNC ਇੱਕਦਮ\RB ਨਹੀਂ\RP_NEG ਛੱਡਣੀਆਂ\V_VM_VNF ਚਾਹੀਦੀਆਂ\V_VM_VNF ।\RD_PUNC
+PBHED769	ਜਦੋਂ\PR_PRL ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਆਪਣਾ\PR_PRF ਅਸਰ\N_NN ਦਿਖਾਉਣਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਕਰ\V_VM_VF ਦੇਵੇ\V_VM_VF ਉਦੋਂ\RB ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਨਾਲ\PSP ਹੀ\RP_RPD ਇਹ\DM_DMD ਦਵਾਈਆਂ\V_VM_VNF ਛੱਡਣੀਆਂ\V_VM_VNF ਚਾਹੀਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED770	ਜਾਂ\CC_CCD ਕਈ\RB ਵਾਰ\RB ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈਆਂ\N_NN ਦੇ\PSP ਚੱਲਦੇ\V_VM_VF ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਕੋਈ\DM_DMQ ਬੁਖਾਰ\N_NN ਜਾਂ\CC_CCD ਖੰਘ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED771	ਫਿਰ\RB ਮਰੀਜ਼\N_NN ਦਾ\PSP ਸਵਾਲ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਕੋਈ\DM_DMQ ਹੋਰ\RB ਦਵਾਈ\N_NN ਲੈ\V_VM ਲਵੇ\N_NN ਜਾਂ\CC_CCD ਜੇਕਰ\CC_CCS ਕੋਈ\N_NN ਹੋਰ\N_NN ਦਵਾਈ\N_NN ਲਵੇਗਾ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਨਾਲ\PSP ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਦਾ\PSP ਅਸਰ\JJ ਤਾਂ\RP_RPD ਨਹੀਂ\RP_NEG ਕੱਟਿਆ\N_NN ਜਾਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED772	ਅਗਰ\CC_CCD ਤਾਂ\CC_CCD ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਲੈਣ\V_VM ਤੋਂ\PSP ਇੱਕ-ਦੋ\RB ਦਿਨਾਂ\RB ਬਾਅਦ\RB ਬੁਖਾਰ\N_NN ,\RD_PUNC ਖੰਘ,\N_NN ਨਜ਼ਲਾ\N_NN ,\RD_PUNC ਰੇਸ਼ਾ\N_NN ਜਾਂ\CC_CCD ਟੱਟੀਆਂ\N_NN ਲੱਗ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VNF ਹੈ\V_VAUX ਤਾਂ\RB ਇਹ\DM_DMD ਬਹੁਤ\RB ਵਧੀਆ\RB ਲੱਛਣ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED773	ਇਸ\DM_DMD ਦਾ\PSP ਭਾਵ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਨੇ\PSP ਆਪਣਾ\PR_PRF ਅਸਰ\N_NN ਸ਼ੁਰੂ\RB ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED774	ਅਗਰ\CC_CCD ਇਹ\DM_DMD ਅਲਾਮਤਾਂ\N_NN ਹੋਮਿਓਪੈਥਿਕ\N_NN ਇਲਾਜ\N_NN ਦੌਰਾਨ\RB ਵੈਸੇ\RB ਹੋ\V_VAUX ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED775	ਜਿਵੇਂ\DM_DMQ ਕਿ\CC_CCS ਮੌਸਮ\N_NN ਦੇ\PSP ਬਦਲਣ\V_VM_VF ਨਾਲ\PSP ਜਾਂ\CC_CCD ਕੁੱਝ\DM_DMQ ਖਾਣ-ਪੀਣ\N_NN ਕਰਕੇ\V_VM_VINF ਤਾਂ\CC_CCD ਕਾਹਲੀ\RB ਕੀਤਿਆਂ\V_VM_VNF ਕੋਈ\DM_DMQ ਹੋਰ\DM_DMQ ਦਵਾਈ\N_NN ਨਹੀਂ\RP_NEG ਲੈਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VINF ।\RD_PUNC
+PBHED776	ਹੋ\V_VAUX ਸਕਦੈ\V_VM_VF ਇੱਕ-ਦੋ\RB ਦਿਨਾਂ\RB ਵਿੱਚ\PSP ਇਹ\DM_DMD ਤਕਲੀਫ\N_NN ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਠੀਕ\RB ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF ਜਾਂ\CC_CCD ਆਪਣੇ\PR_PRF ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਲੈਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VINF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED777	ਬੁਖਾਰ\N_NN ,\RD_PUNC ਖੰਘ\N_NN ,\RD_PUNC ਸਿਰ\N_NN ਦਰਦ\N_NN ,\RD_PUNC ਜ਼ੁਕਾਮ\N_NN ਦੀ\PSP ਗੋਲੀ\N_NN ਇੱਕਦਮ\RB ਲੈਣ\V_VM_VF ਤੋਂ\PSP ਪ੍ਰਹੇਜ਼\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED778	ਕਈ\DM_DMQ ਰੋਗ\N_NN ਜਿੱਥੇ\PR_PRL ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈਆਂ\N_NN ਨਾਲ\PSP ਦੂਸਰੀਆਂ\RB ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀਆਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਵੀ\RP_RPD ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਿਵੇਂ\DM_DMQ ਕਿ\CC_CCS ਐਕਸੀਡੈਂਟ\N_NN ,\RD_PUNC ਜਲ\N_NN ਜਾਣਾ\V_VM_VINF ਜਾਂ\CC_CCD ਓਪਰੇਸ਼ਨ\N_NN ਵਗੈਰਾ\JJ ਦੀ\PSP ਹਾਲਤ\N_NN ਵਿੱਚ\PSP ਹੋਮਿਓਪੈਥੀ\N_NN ਦਵਾਈ\N_NN ਨਾਲ\PSP ਦੂਸਰੀ\RB ਦਵਾਈ\N_NN ਲਈ\PSP ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਦਾ\PR_PRL ਕੋਈ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED779	ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਅਤੇ\CC_CCD ਪ੍ਰਹੇਜ਼\N_NN :-\RD_PUNC ਆਮ\RB ਸੁਣਨ\N_NN ਵਿਚ\PSP ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈਆਂ\N_NN ਨਾਲ\PSP ਲਸਣ\N_NN ,\RD_PUNC ਪਿਆਜ\N_NN ,\RD_PUNC ਇਲੈਚੀ\N_NN ਆਦਿ\RB ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VINF ।\RD_PUNC
+PBHED780	ਅਸਲ\N_NN ਇਹ\DM_DMD ਗੱਲਾਂ\N_NN ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਦੀ\PSP ਘਾੜਤ\JJ ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਪ੍ਰਹੇਜ਼\N_NN ਕਰਨਾ\V_VM_VINF ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED781	ਸੈਂਟ\N_NN ਆਦਿ\RB ਨਹੀਂ\RP_NEG ਲਾਉਣਾ\V_VM_VINF ।\RD_PUNC
+PBHED782	ਦਰਅਸਲ\RB ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਕਿਸੇ\PR_PRQ ਵੀ\RP_RPD ਚੀਜ਼\N_NN ਦਾ\PSP ਪ੍ਰਹੇਜ਼\N_NN ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBHED783	ਪਰ\CC_CCD ਇਲਾਜ\N_NN ਨਾਲੋਂ\PSP ਪ੍ਰਹੇਜ਼\N_NN ਚੰਗਾ\JJ ਜਾਂ\CC_CCD ਜਿਹੋ\RB ਜਿਹੀ\RB ਬੀਮਾਰੀ\N_NN ਉਹੋ\RB ਜਿਹਾ\RB ਪ੍ਰਹੇਜ਼\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED784	ਅਗਰ\CC_CCD ਸ਼ੂਗਰ\N_NN ਵਾਲੇ\PSP ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਖੰਡ\N_NN ਅਤੇ\CC_CCD ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ਵਾਲੇ\PSP ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਨਮਕ\N_NN ਬੰਦ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਦਾ\PSP ਮਤਲਬ\N_NN ਇਹ\DM_DMD ਤਾਂ\RP_RPD ਨਹੀਂ\RP_NEG ਕਿ\CC_CCS ਸਾਰੇ\DM_DMQ ਮਰੀਜਾਂ\N_NN ਦੀ\PSP ਖੰਡ\N_NN ਜਾਂ\CC_CCD ਨਮਕ\N_NN ਬੰਦ\N_NN ਹੋ\V_VAUX ਗਏ\V_VM_VF ।\RD_PUNC
+PBHED785	ਪ੍ਰਹੇਜ\N_NN ਦਵਾਈ\N_NN ਨਾਲ\PSP ਨਹੀਂ\RP_NEG ਸਗੋਂ\RB ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED786	ਪਿਆਜ\N_NN ਜਾਂ\CC_CCD ਲਸਣ\N_NN ਉਹਨਾਂ\PR_PRP ਲੋਕਾਂ\N_NN ਦਾ\PSP ਬੰਦ\N_NN ਕੀਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VNF ਹੈ\V_VAUX ਜਿੰਨਾਂ\RB ਨੂੰ\PSP ਪਿਆਜ\N_NN ਜਾਂ\CC_CCD ਲਸਣ\N_NN ਤੋਂ\PSP ਕੋਈ\DM_DMQ ਤਕਲੀਫ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED787	ਜਾਂ\CC_CCD ਜਿੰਨਾਂ\RB ਦੀ\PSP ਦਵਾਈ\N_NN ਲਸਣ\N_NN ਜਾਂ\CC_CCD ਪਿਆਜ\N_NN ਆਦਿ\RB ਤੋਂ\PSP ਬਣੀ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਹਰ\DM_DMQ ਚੀਜ਼\N_NN ਤੋਂ\PSP ਦਵਾਈ\N_NN ਤਿਆਰ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED788	ਜਿਸ\PR_PRL ਚੀਜ਼\N_NN ਤੋਂ\PSP ਉਹ\PR_PRP ਦਵਾਈ\N_NN ਤਿਆਰ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਉਸ\PR_PRP ਦਾ\PSP ਪ੍ਰਹੇਜ਼\N_NN ਕਰ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਇਹ\DM_DMD ਵੀ\RP_RPD ਹਰ\PR_PRQ ਥਾਂ\N_NN ਲਾਗੂ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ।\RD_PUNC
+PBHED789	ਸੋ\CC_CCD ਭਾਵੇਂ\CC_CCD ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਨੂੰ\PSP ਲਸਣ\N_NN ਜਾਂ\CC_CCD ਪਿਆਜ\N_NN ਵਿੱਚ\PSP ਲਪੇਟ\N_NN ਕੇ\V_VM_VINF ਲੈ\V_VM_VF ਲਵੋ\V_VM_VF ਤਾਂ\CC_CCD ਵੀ\RP_RPD ਅਸਰ\JJ ਕਰੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED790	ਹਾਂ\V_VAUX ਦਵਾਈ\N_NN ਦੌਰਾਨ\RB ਸ਼ਰਾਬ\N_NN ,\RD_PUNC ਕੌਫੀ\N_NN ,\RD_PUNC ਚਾਹ\N_NN ਜਾਂ\CC_CCD ਜਿਆਦਾ\RB ਤਲੀਆਂ\N_NN ਚੀਜਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਇਹ\DM_DMD ਚੀਜਾਂ\N_NN ਸਿਹਤ\N_NN ਲਈ\PSP ਹਾਨੀਕਾਰਕ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED791	ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਸਿਰਫ਼\RB ਕੱਚ\N_NN ਦੇ\PSP ਗਿਲਾਸ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਲੈਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBHED792	ਇਹ\DM_DMD ਵੀ\RP_RPD ਕੋਈ\DM_DMQ ਬੰਦਿਸ਼\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਭਾਵੇਂ\CC_CCD ਦਵਾਈ\N_NN ਸਟੀਲ\N_NN ਦੇ\PSP ਗਿਲਾਸ\N_NN ਵਿੱਚ\PSP ਲੈ\V_VM_VF ਲਵੋ\V_VM_VF ਜਾਂ\CC_CCD ਪਿੱਤਲ\N_NN ਦੇ\PSP ਗਲਾਸ\N_NN ਵਿੱਚ\PSP ।\RD_PUNC
+PBHED793	ਅਗਰ\CC_CCD ਤੀਰ\N_NN ਨਿਸ਼ਾਨੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਲੱਗਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਦਵਾਈ\N_NN ਅਸਰ\JJ ਕਰੇਗੀ\V_VM_VF ਹੀ\RP_RPD ।\RD_PUNC
+PBHED794	ਹੋਮਿਓਪੈਥਿਕ\N_NN ਦਵਾਈ\N_NN ਨੂੰ\PSP ਹੱਥ\N_NN ਨਹੀਂ\RP_NEG ਲਗਾਉਣਾ\V_VM_VINF :-\RD_PUNC ਇਸ\DM_DMD ਪਿੱਛੇ\RB ਇਹ\DM_DMD ਕਾਰਨ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਕਈ\RB ਵਾਰ\RB ਹੱਥ\N_NN ਨੂੰ\PSP ਕੁੱਝ\DM_DMQ ਲੱਗਿਆ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਜਾਂ\CC_CCD ਸਾਨੂੰ\PR_PRP ਹੱਥ\N_NN ਧੋਣ\N_NN ,\RD_PUNC ਸਾਫ\N_NN ਸਫਾਈ\N_NN ਰੱਖਣ\V_VM_VF ਦੀ\PSP ਆਦਤ\N_NN ਘੱਟ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBHED795	ਅਗਰ\CC_CCD ਉਹੀ\PR_PRP ਲਿਬੜੇ\N_NN ਤਿਬੜੇ\N_NN ਹੱਥਾਂ\N_NN ਨਾਲ\PSP ਅਸੀਂ\PR_PRP ਦਵਾਈ\N_NN ਲਵਾਂਗੇ\V_VM_VF ਤਾਂ\CC_CCD ਦਵਾਈ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਨਾਲ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਫੈਲਾਉਣ\V_VM_VF ਵਾਲੇ\PSP ਵੀਸ਼ਾਣੂੰ\N_NN ਵੀ\RP_RPD ਸਾਡੇ\PR_PRP ਅੰਦਰ\RB ਚਲੇ\V_VM ਜਾਣਗੇ\V_VM_VF ,\RD_PUNC ਨਾਲੇ\PSP ਆਪਾਂ\PR_PRL ਰੋਜ਼\RB ਪੜਦੇ\V_VM_VF ਸੁਣਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਕਿਸੇ\PR_PRQ ਵੀ\RP_RPD ਚੀਜ਼\N_NN ਨੂੰ\PSP ਖਾਣ\N_NN ਲੱਗਿਆਂ\V_VM_VNF ਚੰਗੀ\JJ ਤਰਾਂ\RB ਹੱਥ\N_NN ਧੋ\N_NN ਲੈਣੇ\V_VM_VF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED796	ਸੋ\CC_CCD ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਇਹ\DM_DMD ਕਿਤੇ\RB ਨਹੀਂ\RP_NEG ਲਿਖਿਆ\V_VM_VF ਕਿ\CC_CCS ਦਵਾਈ\N_NN ਨੂੰ\PSP ਹੱਥ\N_NN ਨਾ\RP_NEG ਲੱਗੇ\V_VM_VF ,\RD_PUNC ਪਰ\CC_CCD ਇਹ\DM_DMD ਜ਼ਰੂਰ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਗਰ\CC_CCD ਹੱਥ\N_NN ਚੰਗੀ\JJ ਤਰਾਂ\RB ਸਾਫ਼\JJ ਕੀਤੇ\V_VM_VF ਹਨ\V_VAUX ਬੇਸ਼ੱਕ\RB ਦਵਾਈ\N_NN ਹੱਥ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਧਰਕੇ\V_VM_VNF ਲੈ\V_VM ਲਵੋ\V_VM_VF ਤਾਂ\RP_RPD ਵੀ\RP_RPD ਦਵਾਈ\N_NN ਦਾ\PSP ਅਸਰ\JJ ਉਨਾਂ\RB ਹੀ\RP_RPD ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED797	ਇਸ\DM_DMD ਦੇ\PSP ਨਾਲ\PSP ਹੀ\RP_RPD ਭੁੰਜੇ\N_NN ਡਿੱਗੀ\V_VM_VF ਗੋਲੀ\N_NN ਖਾਣ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਇਹੋ\DM_DMD ਤੱਥ\N_NN ਜੁੜਿਆ\N_NN ਹੋਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED798	ਕਿ\CC_CCS ਜੋ\PR_PRL ਚੀਜ਼\N_NN ਇੱਕ\RB ਵਾਰ\RB ਭੁੰਜੇ\N_NN ਡਿੱਗ\N_NN ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਵਿੱਚ\PSP ਮਿੱਟੀ\N_NN ਆਦਿ\RB ਦੇ\PSP ਕਣ\N_NN ਮਿਲ\N_NN ਜਾਂਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED799	ਇਥੇ\N_NST ਵੀ\RP_RPD ਇਹੀ\DM_DMD ਗੱਲ\N_NN ਕਹਿਣੀ\V_VM_VF ਬਣਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਸੀਂ\PR_PRP ਰੋਜ਼ਾਨਾ\RB ਜੀਵਨ\N_NN ਵਿੱਚ\PSP ਭੁੰਜੇ\N_NN ਡਿੱਗੀਆਂ\V_VM_VNF ਚੀਜ਼ਾਂ\N_NN ਖਾਂਦੇ\N_NN ਨਹੀਂ\RP_NEG ਜਾਂ\CC_CCD ਫਿਰ\RB ਧੋਣ\N_NN ਵਾਲੀ\PSP ਵਸਤੂ\N_NN ਨੂੰ\PSP ਜ਼ਰੂਰ\RB ਧੋ\N_NN ਕੇ\V_VM_VINF ਖਾ\N_NN ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED800	ਅਗਰ\CC_CCD ਗੋਲੀ\N_NN ਸਾਫ਼\JJ ਜਗਾ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਡਿੱਗ\N_NN ਪਈ\V_VM_VF ਤਾਂ\CC_CCD ਚੁੱਕ\N_NN ਕੇ\V_VM_VINF ਖਾ\N_NN ਲਓ\N_NN ਫਿਰ\RB ਵੀ\RP_RPD ਉਨਾਂ\RB ਹੀ\RP_RPD ਅਸਰ\JJ ਕਰੇਗੀ\V_VM_VF ਅਗਰ\CC_CCD ਗੋਲੀ\N_NN ਮਿੱਟੀ\N_NN ਤੇ\CC_CCD ਜਾਂ\CC_CCD ਗੰਦੇ\JJ ਮੰਦੇ\JJ ਫਰਸ਼\N_NN `\RD_PUNC ਤੇ\CC_CCD ਡਿੱਗੀ\N_NN ਹੈ\V_VAUX ਤਾਂ\PSP ਬਿਲਕੁੱਲ\RB ਨਹੀਂ\RP_NEG ਖਾਣੀ\N_NN ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBHED801	ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਤਾਂ\PSP ਇੱਕੋ\RB ਤਰਾਂ\RB ਦੀਆਂ\PSP ਮਿੱਠੀਆਂ\JJ ਗੋਲੀਆਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED802	ਡਾਕਟਰ\N_NN ਸਭ\PR_PRQ ਨੂੰ\PSP ਚੱਕ-ਚੱਕ\RB ਉਹੀ\DM_DMD ਗੋਲੀਆਂ\N_NN ਫੜਾਈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED803	ਇਹ\DM_DMD ਨਿੱਕੀਆਂ\RB ਨਿੱਕੀਆਂ\RB ਗੋਲੀਆਂ\N_NN ਐਡੀਆਂ\N_NN ਵੱਡੀਆਂ\RB ਬਿਮਾਰੀਆਂ\N_NN ਨੂੰ\PSP ਠੀਕ\RB ਕਿਵੇਂ\PR_PRQ ਕਰਨਗੀਆਂ\V_VM_VNF ?\RD_PUNC
+PBHED804	ਇਹ\DM_DMD ਸਵਾਲ\N_NN ਆਮ\RB ਲੋਕਾਂ\N_NN ਵੱਲੋਂ\PSP ਅਕਸਰ\RB ਪੁੱਛੇ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED805	ਇਸ\DM_DMD ਦੇ\PSP ਜਵਾਬ\N_NN ਵਿੱਚ\PSP ਇਹ\DM_DMD ਮਿੱਠੀਆਂ\JJ ਗੋਲੀਆਂ\N_NN ਤਾਂ\CC_CCD ਦਵਾਈ\N_NN ਦੇਣ\V_VM ਦਾ\PSP ਇੱਕ\RB ਸਾਧਨ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED806	ਅਸਲ\RB ਦਵਾਈ\N_NN ਤਾਂ\PSP ਅਰਕ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਜੋ\CC_CCD ਦੁਨੀਆਂ\N_NN ਦੀਆਂ\PSP ਲਗਭਗ\PSP ਸਾਰੀਆਂ\DM_DMQ ਧਾਤਾਂ-ਅਧਾਤਾਂ\N_NN ,\RD_PUNC ਰਸਾਇਣਾਂ\N_NN ,\RD_PUNC ਜੀਵ-ਜੰਤੂਆਂ\N_NN ,\RD_PUNC ਜੜ੍ਹੀ-ਬੂਟੀਆਂ\N_NN ਆਦਿ\RB ਤੋਂ\PSP ਤਿਆਰ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED807	ਅਗਰ\CC_CCD ਉਸ\PR_PRP ਅਰਕ\N_NN ਨੂੰ\PSP ਸਿੱਧਾ\RB ਜੀਭ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਪਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\PSP ਜੀਭ\N_NN ਫੱਟ\N_NN ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED808	ਇਸੇ\DM_DMD ਕਰਕੇ\V_VM_VINF ਮਿੱਠੀਆਂ\JJ ਗੋਲੀਆਂ\N_NN ਰਾਹੀਂ\DM_DMQ ਇਹ\DM_DMD ਦਵਾਈਆਂ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ਤਾਂ\PSP ਕਿ\CC_CCS ਦਵਾਈ\N_NN ਲੈਣ\N_NN ਲੱਗਿਆਂ\V_VM_VNF ਕਿਸੇ\DM_DMQ ਨੂੰ\PSP ਕੋਈ\DM_DMQ ਪ੍ਰੇਸ਼ਾਨੀ\N_NN ਨਾ\RP_NEG ਆਵੇ\V_VM_VF ।\RD_PUNC
+PBHED809	ਇਸੇ\DM_DMD ਕਰਕੇ\V_VM_VINF ਛੋਟੇ-ਛੋਟੇ\RB ਬੱਚੇ\N_NN ਵੀ\RP_RPD ਹੋਮਿਓਪੈਥਿਕ\N_NN ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਜਾਣ\V_VM_VF ਲੱਗਿਆਂ\V_VM_VNF ਘਬਰਾਉਂਦੇ\JJ ਨਹੀਂ\RP_NEG ਸਗੋਂ\RB ਚਾਅ\JJ ਨਾਲ\PSP ਦਵਾਈਆਂ\N_NN ਖਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED810	ਇਹ\DM_DMD ਭਰਮ\N_NN ਭੁਲੇਖੇ\N_NN ਤਾਂ\CC_CCD ਆਮ\RB ਲੋਕਾਂ\N_NN ਵੱਲੋਂ\PSP ਪਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\DM_DMD ਗੱਲਾਂ\N_NN ਆਮ\RB ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਵਿੱਚ\PSP ਵਸੀਆਂ\N_NN ਹੋਈਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED811	ਕੁੱਝ\DM_DMQ ਪੜੇ\N_NN ਲਿਖੇ\N_NN ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਨੂੰ\PSP ਵਿਗਿਆਨਕ\N_NN ਹੋਣ\N_NN ਦਾ\PSP ਦਾਅਵਾ\RB ਕਰਨ\RB ਵਾਲੇ\PSP ਤਰਕਸ਼ੀਲ\N_NN ਸੱਜਣ\N_NN ਹੋਮਿਓਪੈਥੀ\N_NN ਨੂੰ\PSP ਸਾਇੰਸ\N_NN ਮੰਨਣ\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਇਨਕਾਰੀ\RP_NEG ਹੋਈ\V_VM_VF ਫਿਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED812	ਐਵੋਗੇਡਰੋ\N_NN ਦੇ\PSP ਲਾਅ\N_NN ਨੂੰ\PSP ਅਧਾਰ\N_NN ਮੰਨ\N_NN ਕੇ\V_VM_VINF ਇਹ\DM_DMD ਲੋਕ\N_NN ਹੋਮਿਓਪੈਥੀ\N_NN ਨੂੰ\PSP ਗੈਰਵਿਗਿਆਨਕ\N_NN ਸਿੱਧ\RB ਕਰਨਾ\V_VM_VINF ਚਾਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED813	ਪਰ\CC_CCD ਇਹ\DM_DMD ਕੋਈ\DM_DMQ ਜ਼ਰੂਰੀ\RB ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ਕਿ\CC_CCS ਜੋ\PR_PRL ਗੱਲ\N_NN ਇੱਕ\RB ਸਾਇੰਸਦਾਨ\N_NN ਨੇ\PSP ਕਹਿ\N_NN ਦਿੱਤੀ\V_VM_VF ਉਹ\PR_PRP ਅਟੱਲ\N_NN ਹੋਵੇਗੀ\V_VM_VF ਨਾਲੇ\PSP ਵਿਗਿਆਨਕ\N_NN ਯੁੱਗ\N_NN ਵਿੱਚ\PSP ਅਸੀਂ\PR_PRP ਦੇਖ\N_NN ਰਹੇ\V_VM_VF ਹਾਂ\JJ ਕਿ\CC_CCS ਇੱਕ\RB ਦਾ\PSP ਬਣਾਇਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਲਾਅ\N_NN ,\RD_PUNC ਕਾਨੂੰਨ\N_NN ,\RD_PUNC ਫਾਰਮੂਲਾ\N_NN ਦੂਜੇ\RB ਸਾਇੰਸਦਾਨਾਂ\N_NN ਨੇ\PSP ਰੱਦ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC ਇਹੀ\DM_DMD ਵਿਗਿਆਨਕ\N_NN ਤਰੱਕੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED814	ਹੋਮਿਓਪੈਥੀ\N_NN ਦੇ\PSP ਬਾਨੀ\N_NN ਡਾਕਟਰ\N_NN ਹੈਨੇਮੈਨ\N_NN ਨੇ\PSP ਫਿਲਾਸਫੀ\N_NN ਵਿੱਚ\PSP ਜ਼ਿਕਰ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਮਿਓਪੈਥੀ\N_NN ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀ\N_NN ਕੁਦਰਤ\N_NN ਦੇ\PSP ਸਿਧਾਤਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਅਧਾਰਿਤ\N_NN ਇੱਕ\RB ਸਾਇੰਸ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED815	ਘੁੱਗੀ\N_NN ਕੀ\PR_PRQ ਜਾਣੇ\V_VM_VF ,\RD_PUNC ਸਤਿਗੁਰੂ\N_NN ਦੀਆਂ\PSP ਬਾਤਾਂ\N_NN ਦੇ\PSP ਕਹਿਣ\V_VM_VF ਵਾਂਗ\V_VM_VF ਇਹ\DM_DMD ਲੋਕ\N_NN ਬੜਾ\RB ਰੌਲਾ\N_NN ਪਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED816	ਪਰ\N_NN ਮੰਨਣ\N_NN ਨੂੰ\PSP ਤਿਆਰ\N_NN ਨਹੀਂ\RP_NEG ਹੋਮਿਓਪੈਥੀ\N_NN ਦੇ\PSP ਨਤੀਜਿਆਂ\N_NN ਨੂੰ\PSP ਵੇਖਦਿਆਂ\V_VM_VNF ,\RD_PUNC ਤਾਂ\CC_CCD ਇਹਨਾਂ\PR_PRL ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਇਹੋ\DM_DMD ਕਹਿਣਾ\V_VM_VINF ਬਣਦਾ\V_VM_VNF ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਧੂਰਾ\RB ਗਿਆਨ\N_NN ਹਮੇਸ਼ਾ\RB ਮਾੜਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED817	ਅੱਜ\RB ਉਹ\PR_PRP ਬਿਮਾਰੀਆਂ\N_NN ਜਿੰਨਾਂ\RB ਦਾ\PSP ਹੋਰ\DM_DMQ ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀਆਂ\N_NN ਵਿੱਚ\PSP ਇਲਾਜ\N_NN ਸੰਭਵ\N_NN ਨਹੀਂ\RP_NEG ਉਹ\PR_PRP ਹੋਮਿਓਪੈਥੀ\N_NN ਨਾਲ\PSP ਠੀਕ\RB ਹੋ\V_VAUX ਰਹੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED818	ਪ੍ਰਤੱਖ\N_NN ਨੂੰ\PSP ਪ੍ਰਮਾਣ\N_NN ਕੀ\PR_PRQ ।\RD_PUNC
+PBHED819	ਅਗਰ\CC_CCD ਇਹ\DM_DMD ਸੱਜਣ\N_NN ਅਜਮਾ\N_NN ਕੇ\V_VM_VINF ਵੇਖਣਾ\V_VM_VINF ਚਾਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\PSP ਅਜ਼ਮਾ\N_NN ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED820	ਪਰ\CC_CCD ਬਿਨਾ\RB ਸੋਚੇ\N_NN ਸਮਝੇ\N_NN ਇੱਕ\RB ਕੁਦਰਤੀ\N_NN ਇਲਾਜ\N_NN ਪ੍ਰਣਾਲੀ\N_NN ਨੂੰ\PSP ਗੈਰ-ਵਿਗਿਆਨਕ\N_NN ਸਿੱਧ\N_NN ਕਰਨਾ\V_VM_VINF ਲੋਕ\N_NN ਮਨਾਂ\N_NN ਵਿੱਚ\PSP ਸ਼ੰਕੇ\V_VM_VF ਪੈਦਾ\V_VM_VF ਕਰਨ\N_NN ਤੋਂ\PSP ਵਧੇਰੇ\RB ਹੋਰ\DM_DMQ ਕੁੱਝ\DM_DMQ ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBHED821	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\PSP ਲੰਡਨ\N_NNP ਦੇ\PSP ਜੂਨੀਅਰ\N_NN ਡਾਕਟਰਾਂ\N_NN ਵੱਲੋਂ\PSP ਕੀਤੀ\V_VM_VF ਟਿੱਪਣੀ\N_NN ਹੋਮਿਓਪੈਥੀ\N_NN ਸਿਰਫ਼\RB `\RD_PUNC ਜਾਦੂ\N_NN ਟੂਣਾ\N_NN `\RD_PUNC ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਹੋਮਿਓਪੈਥੀ\N_NN ਸਿਰਫ਼\RB ਸਾਇਕਲੋਜੀਕਲੀ\N_NN ਕੰਮ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ?\RD_PUNC
+PBHED822	ਇਹ\DM_DMD ਸਿਰਫ਼\RB ਬੁਖਲਾਏ\N_NN ਹੋਏ\V_VM_VF ਡਾਕਟਰਾਂ\N_NN ਦੇ\PSP ਬਿਆਨ\N_NN ਹਨ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਹੁਣ\RB ਇੰਗਲੈਂਡ\N_NNP ਵਿੱਚ\PSP ਵੀ\RP_RPD ਹੋਮਿਓਪੈਥੀ\N_NN ਦਿਨ-ਬ-ਦਿਨ\RB ਚੜਤ\N_NN ਵਿੱਚ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBHED823	ਇਸੇ\DM_DMD ਕਰਕੇ\V_VM_VINF ਉਥੋਂ\N_NST ਦੇ\PSP ਡਾਕਟਰ\N_NN ਇਹ\DM_DMD ਗਲਤ\N_NN ਬਿਆਨਬਾਜ਼ੀ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED824	ਇੰਗਲੈਂਡ\N_NNP ਵਿੱਚ\PSP ਵੱਸਦੇ\V_VM_VF ਮਿੱਤਰ\N_NN ਯਾਰ\N_NN ਦੱਸਦੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਇੱਥੇ\N_NST ਸਰਜਰੀ\N_NN ਦਾ\PSP ਬਦਲ\N_NN ਸਿਰਫ਼\RB ਹੋਮਿਓਪੈਥੀ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBHED825	ਸਰਜਰੀ\N_NN ਬਹੁਤੀ\RB ਮਹਿੰਗੀ\JJ ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED826	ਇਸ\DM_DMD ਦੇ\PSP ਉਲਟ\RB ਹੋਮਿਓਪੈਥੀ\N_NN ਵਿੱਚ\PSP ਬਹੁਤ\RB ਸਾਰੀਆਂ\RB ਲਾਇਲਾਜ਼\N_NN ਬਿਮਾਰੀਆਂ\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਸੌਖਾ\JJ ਅਤੇ\CC_CCD ਸਸਤਾ\JJ ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED827	ਇਹੀ\DM_DMD ਕਾਰਨ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਥੋਂ\N_NST ਦੇ\PSP ਡਾਕਟਰਾਂ\N_NN ਨੇ\PSP ਹੋਮਿਓਪੈਥੀ\N_NN ਸਬੰਧੀ\N_NN ਗਲਤ\N_NN ਅਫ਼ਵਾਹਾਂ\N_NN ਫੈਲਾ\V_VM ਰੱਖੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED828	ਜੋ\CC_CCD ਕਿ\CC_CCS ਸਚਾਈ\N_NN ਤੋਂ\PSP ਕੋਹਾਂ\N_NN ਦੂਰ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBHED829	ਇਹ\DM_DMD ਰੋਗ\N_NN ਕਈ\DM_DMQ ਨਾਂਵਾਂ\N_NN ਨਾਲ\PSP ਜਾਣਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED830	ਜਿਵੇਂ\N_NN ਤੇਜ਼ਾਬ\N_NN ਬਣਨਾ\V_VM_VINF ,\RD_PUNC ਬਦਹਜ਼ਮੀ\N_NN ,\RD_PUNC ਮਿਹਦੇ\N_NN ਦੀ\PSP ਜਲਣ\N_NN ਆਦਿ\RB ।\RD_PUNC
+PBHED831	ਇਹ\N_NN ਇਕੋ\RB ਹੀ\RP_RPD ਗੱਲ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED832	ਇਹ\DM_DMD ਤਕਲੀਫ਼\N_NN ਤਦ\RB ਪੇਸ਼\N_NN ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਦ\RB ਅਸੀਂ\PR_PRP ਜ਼ਿਆਦਾ\RB ਥੰਦਿਆਈ\N_NN ਵਾਲੀ\PSP ਖੁਰਾਕ\N_NN ਜਾਂ\CC_CCD ਬਹੁਤ\RB ਭਾਰੀ\RB ਜਾਂ\CC_CCD ਬਾਸੀ\N_NN ਖਾਣਾ\N_NN ਖਾਂਦੇ\N_NN ਹਾਂ\V_VAUX ਜਾਂ\CC_CCD ਅਤਿ\RB ਜ਼ਿਆਦਾ\RB ਦਾਰੂ\N_NN ਜਾਂ\CC_CCD ਕਾਫੀ\N_NN ਪੀਂਦੇ\N_NN ਹਾਂ\V_VAUX ।\RD_PUNC
+PBHED833	ਇਸ\DM_DMD ਨਾਲ\PSP ਮਿਹਦੇ\N_NN ਵਿਚ\PSP ਬੇਚੈਨੀ\N_NN ਮਹਿਸੂਸ\JJ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਭਾਵ\N_NN ਕਿ\CC_CCS ਜੀਅ\N_NN ਘਬਰਾਉਂਦਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED834	ਕਈ\RB ਵਾਰ\RB ਇਹ\DM_DMD ਤਕਲੀਫ਼\N_NN ਦਿਲ\N_NN ਦੀ\PSP ਦਰਦ\N_NN ਸਮਝ\N_NN ਲਈ\PSP ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED835	ਇਸ\DM_DMD ਵਿਚ\PSP ਫਰਕ\RB ਇਹ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਜੇਕਰ\CC_CCS ਇਹ\DM_DMD ਪੀੜ\N_NN ਲੰਮੇ\N_NN ਪੈਣ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਵਧ\RB ਜਾਏ\V_VM_VF ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਮਿਹਦੇ\N_NN ਦੀ\PSP ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਨਾ\RP_NEG ਵਧੇ\RB ਤਾਂ\RP_RPD ਦਿਲ\N_NN ਦੀ\PSP ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED836	ਇਹ\DM_DMD ਗੱਲ\N_NN ਖਾਸ\RB ਧਿਆਨ\N_NN ਦੇਣ\RB ਯੋਗ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਵਾਰ-ਵਾਰ\RB ਬਦਹਜ਼ਮੀ\N_NN ਹੋਣਾ\V_VM_VNG ਜਾਂ\CC_CCD ਕਾਫ਼ੀ\RB ਲੰਮੇ\N_NN ਸਮੇਂ\N_NN ਤੱਕ\PSP ਰਹਿਣਾ\V_VM_VNG ਅਲਸਰ\N_NN ਦੀ\PSP ਸ਼ੁਰੂਆਤ\RB ਦੀ\PSP ਪਹਿਲੀ\RB ਅਲਾਮਤ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED837	ਅਲਸਰ\N_NN ਕੀ\PR_PRQ ਹੁੰਦਾ\V_VAUX ਹੈ\V_VAUX ?\RD_PUNC
+PBHED838	ਇਹ\DM_DMD ਮਿਹਦੇ\N_NN ਜਾਂ\CC_CCD ਛੋਟੀ\RB ਆਂਤੜੀ\N_NN ਵਿਚ\PSP ਤੇਜ਼ਾਬੀ\N_NN ਮਾਦੇ\N_NN ਕਾਰਨ\RB ਹੋਇਆ\V_VM_VF ਪੁਰਾਣਾ\JJ ਜ਼ਖ਼ਮ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED839	ਇਸ\DM_DMD ਦੇ\PSP ਹੋਣ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਰੋਗੀ\N_NN ਦੀ\PSP ਧੁਨੀ\N_NN ਦੇ\PSP ਆਸਪਾਸ\RB ਲਗਾਤਾਰ\RB ਹਲਕੀ\RB ਦਰਦ\N_NN ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜੋ\PR_PRL ਕਦੇ-ਕਦੇ\RB ਬੜੀ\RB ਤੀਬਰ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED840	ਜ਼ਿਆਦਾ\RB ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਪਾਣੀ\N_NN ਪੀਣ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਬਹੁਤ\RB ਭਾਰੀ\RB ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਭੋਜਨ\N_NN ਖਾਣ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਅਕਸਰ\RB ਇਹ\DM_DMD ਦਰਦ\N_NN ਮੱਠੀ\RB ਪੈ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED841	ਕਿਉਂਕਿ\CC_CCS ਖਾਣੇ\N_NN ਜਾਂ\CC_CCD ਪਾਣੀ\N_NN ਦੀ\PSP ਵੱਧ\RB ਮਾਤਰਾ\N_NN ਕਾਰਨ\RB ਤੇਜ਼ਾਬੀ\JJ ਮਾਦਾ\JJ ਕੁਝ\DM_DMQ ਦੇਰ\RB ਲਈ\PSP ਹਲਕਾ\JJ ਪੈ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED842	ਖਾਣਾ\N_NN ਅੱਗੇ\RB ਲੰਘਣ\V_VM_VF ਤੇ\CC_CCD ਫਿਰ\DM_DMQ ਦਰਦ\N_NN ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED843	ਜੇ\CC_CCD ਅਲਸਰ\N_NN ਦਾ\PSP ਰੋਗੀ\N_NN ਜ਼ਿਆਦਾ\RB ਥੰਦਿਆਈ\N_NN ਅਤੇ\CC_CCD ਮਸਾਲੇਦਾਰ\N_NN ਚੀਜ਼ਾਂ\N_NN ਖਾ\N_NN ਲੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦੀ\PSP ਦਰਦ\N_NN ਤੀਬਰ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED844	ਸ਼ਰਾਬ\N_NN ਸੇਵਨ\N_NN ਕਰਨ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਵੀ\RP_RPD ਦਰਦ\N_NN ਵਧਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED845	ਰਾਤ\RB ਸਮੇਂ\N_NN ਉਂਝ\RB ਹੀ\RP_RPD ਹਰ\RB ਦਰਦ\N_NN ਵਾਂਗ\RB ਤੀਬਰ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED846	ਪੇਟ\N_NN ਯਾਨੀ\N_NN ਮਿਹਦੇ\N_NN ਦਾ\PSP ਇਕ\RB ਖਾਸ\RB ਟੈਸਟ\N_NN `\RD_PUNC ਐਂਡੋਸਕੋਪੀ\N_NN `\RD_PUNC ਇਕ\RB ਅਜਿਹਾ\PR_PRL ਟੈਸਟ\N_NN ਹੈ,\V_VAUX ਜਿਸ\PR_PRL ਵਿਚ\PSP ਇਹ\DM_DMD ਪਤਾ\N_NN ਲੱਗ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਰੋਗੀ\N_NN ਨੂੰ\PSP ਅਲਸਰ\N_NN ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBHED847	ਗੰਭੀਰ\N_NN ਅਵਸਥਾ\N_NN ਜੇ\PR_PRL ਇਲਾਜ\N_NN ਨਾ\RP_NEG ਕੀਤਾ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਅਲਸਰ\N_NN ਗੰਭੀਰ\N_NN ਰੂਪ\N_NN ਧਾਰਨ\N_NN ਕਰ\V_VM ਲੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਰੋਗੀ\N_NN ਨੂੰ\PSP ਉਲਟੀਆਂ\N_NN ਵੀ\RP_RPD ਆ\N_NN ਸਕਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED848	ਕਈ\DM_DMQ ਵਾਰ\RB ਉਲਟੀ\N_NN ਵਿਚ\PSP ਤਾਜ਼ਾ\JJ ਲਹੂ\N_NN ਜਾਂ\CC_CCD ਕੌਫ਼ੀ\N_NN ਦੇ\PSP ਰੰਗ\N_NN ਦਾ\PSP ਗੰਦਾ\JJ ਲਹੂ\N_NN ਵੀ\RP_RPD ਆ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED849	ਜੇਕਰ\CC_CCS ਪਖਾਨੇ\N_NN ਵਿਚ\PSP ਲਹੂ\N_NN ਆਵੇ\V_VM ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦੀ\PSP ਰੰਗਤ\N_NN ਤਾਰਕੋਲ\N_NN ਵਰਗੀ\PSP ਕਾਲੀ\JJ ਹੋਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED850	ਨੋਟ\N_NN :\RD_PUNC ਕੁਝ\DM_DMQ ਅਲਸਰ\N_NN ਅੰਦਰੋ-ਅੰਦਰ\RB ਚੁੱਪ-ਚਾਪ\RB ਵਧਦੇ\V_VM ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਰੋਗੀ\N_NN ਨੂੰ\PSP ਕੋਈ\DM_DMQ ਤਕਲੀਫ਼\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED851	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਪਹਿਲੀ\RB ਅਲਾਮਤ\N_NN ਉਲਟੀ\N_NN ਵਿਚ\PSP ਲਹੂ\N_NN ਦਾ\PSP ਹੋਣਾ\V_VM_VNG ਜਾਂ\CC_CCD ਕਾਲੇ\JJ ਲੇਸਦਾਰ\N_NN ਪਖਾਨੇ\N_NN ਦਾ\PSP ਆਉਣਾ\V_VM_VNG ਹੀ\RP_RPD ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED852	ਅਜਿਹੀ\PR_PRL ਹਾਲਤ\N_NN ਵਿਚ\PSP ਰੋਗੀ\N_NN ਦੀ\PSP ਝੱਟ\RB ਹੀ\RP_RPD ਮੌਤ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਉਸ\PR_PRP ਦੇ\PSP ਅੰਦਰ\RB ਪੁਰਾਣਾ\JJ ਅਲਸਰ\N_NN ਵੱਧ\RB ਚੁੱਕਾ\V_VM_VNF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED853	ਸੋ\PSP ,\RD_PUNC ਉਸ\PR_PRP ਨੂੰ\PSP ਉਲਟੀ\N_NN ਆਉਣ\N_NN ਤੋਂ\PSP ਛੇਤੀ\RB ਡਾਕਟਰ\N_NN ਕੋਲ\PSP ਲੈ\V_VM ਜਾਓ\V_VM_VF ।\RD_PUNC
+PBHED854	ਜੇਕਰ\CC_CCS ਇਹ\DM_DMD ਪੱਕਾ\RB ਪਤਾ\N_NN ਚੱਲ\RB ਜਾਵੇ\V_VM_VF ਕਿ\CC_CCS ਰੋਗੀ\N_NN ਜਾਂ\CC_CCD ਪੇਟ\N_NN ਦਰਦ\N_NN ਅਲਸਰ\N_NN ਦੇ\PSP ਕਾਰਨ\RB ਹੀ\RP_RPD ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਹੇਠ\RB ਲਿਖੀਆਂ\V_VM_VNF ਸਾਵਧਾਨੀਆਂ\JJ ਨਾਲ\PSP ਇਸ\DM_DMD ਦਰਦ\N_NN ਨੂੰ\PSP ਹਲਕਾ\JJ ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX :-\RD_PUNC
+PBHED855	ਖਾਣਾ\N_NN ਸਮੇਂ\N_NN ਸਿਰ\N_NN ਖਾਓ\V_VM_VF ਅਤੇ\CC_CCD ਬਹੁਤਾ\RB ਜ਼ਿਆਦਾ\RB ਨਾ\RP_NEG ਖਾਓ\V_VM_VF ਖਾਣਾ\N_NN ਉਹੀ\PR_PRP ਖਾਓ\N_NN ਜੋ\PR_PRF ਤੁਹਾਡੀ\PR_PRL ਪੀੜ\N_NN ਨੂੰ\PSP ਘਟਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED856	ਜਿੰਨਾਂ\RB ਖਾਣਿਆਂ\N_NN ਨਾਲ\PSP ਪੀੜ\N_NN ਵਧਦੀ\V_VM_VF ਹੋਵ\N_NN ,\RD_PUNC ਉਹ\PR_PRP ਨਾ\RP_NEG ਖਾਓ\N_NN ,\RD_PUNC ਜਿਵੇਂ\DM_DMQ ਸ਼ਰਾਬ\N_NN ,\RD_PUNC ਕੋਫ਼ੀ\N_NN ,\RD_PUNC ਕਾਲੀ\N_NN ਮਿਰਚ\N_NN ,\RD_PUNC ਮਸਾਲੇ\N_NN ,\RD_PUNC ਬਾਜ਼ਾਰੂ\N_NN ਪੀਣ\N_NN ਦੀਆਂ\PSP ਚੀਜ਼ਾਂ\N_NN (\RD_PUNC ਸੋਡਾ\N_NN ,\RD_PUNC ਕੋਲਾ\N_NN ਆਦਿ\RB )\RD_PUNC ਅਤੇ\CC_CCD ਚਰਬੀਯੁਕਤ\N_NN ਆਹਾਰ\N_NN ਆਦਿ\RB ।\RD_PUNC
+PBHED857	ਜੇਕਰ\CC_CCS ਰਾਤ\RB ਨੂੰ\PSP ਸਿੱਧੇ\N_NN ਲੇਟਣ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਜਲਣ\N_NN ਜ਼ਿਆਦਾ\RB ਹੁੰਦੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਸਰੀਰ\N_NN ਦਾ\PSP ਉਪਰਲਾ\RB ਹਿੱਸਾ\RB ਜ਼ਰਾ\N_NN ਉਤਾਂਹ\RB ਵੱਲ\PSP ਰੱਖ\V_VM_VF ਕੇ\V_VM_VINF ਸੌਣ\V_VM_VF ਦੀ\PSP ਕੋਸ਼ਿਸ਼\JJ ਕਰੋ\N_NN ।\RD_PUNC
+PBHED858	ਪਾਣੀ\N_NN ਬਹੁਤੀ\RB ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਪੀਣਾ\V_VM_VNG ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਖਾਣੇ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਵੀ\RP_RPD ,\RD_PUNC ਵਿਚਕਾਰ\RB ਵੀ\RP_RPD ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਵੀ\RP_RPD ਬਹੁਤ\RB ਸਾਰਾ\N_NN ਪਾਣੀ\N_NN ਪੀਓ\N_NN ।\RD_PUNC
+PBHED859	ਤੰਬਾਕੂਨੋਸ਼ੀ\N_NN ਤੋਂ\PSP ਪ੍ਰਹੇਜ਼\N_NN ਕਰੋ\V_VM_VF ,\RD_PUNC ਇਸ\DM_DMD ਨਾਲ\PSP ਮਿਹਦੇ\N_NN ਦਾ\PSP ਤੇਜ਼ਾਬ\N_NN ਵਧ\RB ਕੇ\V_VM_VINF ਤਕਲੀਫ਼\N_NN ਵਧਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED860	ਡਾਕਟਰ\N_NN ਦੀ\PSP ਸਲਾਹ\N_NN ਨਾਲ\PSP ਕੋਈ\DM_DMQ ਤੇਜ਼ਾਬ\N_NN ਵਿਰੋਧੀ\N_NN ਦਵਾਈ\N_NN (\RD_PUNC ਮੈਗਨੀਸ਼ੀਅਮ\N_NN ਜਾਂ\CC_CCD ਐਲੂਮੀਨੀਅਮ\N_NN ਵਾਲੀ\PSP )\RD_PUNC ਲਵੋ\V_VM_VF ।\RD_PUNC
+PBHED861	ਜੇਕਰ\CC_CCS ਅਲਸਰ\N_NN ਠੀਕ\RB ਨਾ\RP_NEG ਹੁੰਦਾ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਰੈਨੀਟੀਡਿਨ\N_NN ਗੋਲੀਆਂ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VINF ਦੇਖੋ\V_VM_VF ।\RD_PUNC ਵਧੇਰੇ\JJ ਅਸਰਦਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED862	ਪਿਛਲੇ\RB ਲਗਭਗ\N_NN 20\QT_QTC ਸਾਲਾਂ\N_NN ਤੋਂ\PSP ਦਿਲ\N_NN ਦੇ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਦਾ\PSP ਇਲਾਜ\N_NN ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਦੁਆਰਾ\PSP ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED863	ਅੱਜ\RB ਤੋਂ\PSP ਤਕਰੀਬਨ\RB ਢਾਈ\RB ਕੁ\DM_DMQ ਸਾਲ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਜਦੋਂ\PR_PRL ਤੋਂ\PSP ਖਾਸ\RB ਕਰਕੇ\V_VM_VINF ਦਵਾਈ\N_NN ਛੱਡਣ\N_NN ਵਾਲੇ\N_NN ਸਟੈਂਟਾਂ\N_NN ਜਿਨ੍ਹਾਂ\N_NN ਨੂੰ\PSP ਡੀ.\N_NN ਈ.\N_NN ਐਸ.\N_NN ਕਿਹਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ,\V_VAUX ਦੇ\PSP ਮਾੜੇ\N_NN ਨਤੀਜੇ\N_NN ਸਾਡੇ\PR_PRP ਸਾਹਮਣੇ\N_NN ਆਏ\V_VM_VF ਤਾਂ\RP_RPD ਉਦੋਂ\RB ਤੋਂ\PSP ਮਰੀਜ਼\N_NN ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਨੂੰ\PSP ਵਧੇਰੇ\RB ਤਰਜੀਹ\N_NN ਦੇਣ\V_VM ਲੱਗ\V_VM_VF ਪਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED864	ਭਾਵੇਂ\N_NN ਪਿਛਲੇ\RB 10\QT_QTF ਸਾਲ\N_NN ਨਾਲੋਂ\PSP ਅੱਜ\RB ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਵਧੇਰੇ\RB ਸੁਰੱਖਿਅਤ\N_NN ਹੋ\V_VAUX ਗਈ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਫਿਰ\CC_CCD ਵੀ\RP_RPD ਇਹ\DM_DMD ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਖਤਰੇ\N_NN ਤੋਂ\PSP ਖਾਲੀ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBHED865	ਖਾਸ\RB ਕਰਕੇ\V_VM_VINF ਜਿਹੜੇ\PR_PRL ਮਰੀਜ਼\N_NN ਜਿਵੇਂ\RB ਵਡੇਰੀ\N_NN ਉਮਰ\N_NN ,\RD_PUNC ਕਮਜ਼ੋਰ\JJ ਸਰੀਰ\N_NN ,\RD_PUNC ਸਿਗਰਟਨੋਸ਼ੀ\N_NN ,\RD_PUNC ਸ਼ੂਗਰ\N_NN ,\RD_PUNC ਥਾਇਰਾਇਡ\N_NN ,\RD_PUNC ਬਲੱਡ\N_NN ਪ੍ਰੈਸ਼ਰ\N_NN ,\RD_PUNC ਮੋਟਾਪਾ\N_NN ,\RD_PUNC ਗੁਰਦੇ\N_NN ਦੇ\PSP ਰੋਗ\N_NN ,\RD_PUNC ਦਮਾ\N_NN ਤੇ\CC_CCD ਅਧਰੰਗ\N_NN ਆਦਿ\RB ਤੋਂ\PSP ਪ੍ਰਭਾਵਿਤ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED866	ਅਜਿਹੇ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN `\RD_PUNC ਚ\PSP ਬਾਈਪਾਸ\N_NN ਦਾ\PSP ਖ਼ਤਰਾ\N_NN ਆਮ\RB ਮਰੀਜ਼\N_NN ਨਾਲੋਂ\PSP ਕਿਤੇ\RB ਜ਼ਿਆਦਾ\RB ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED867	ਅਮਰੀਕਨ\N_NNP ਹਾਰਟ\N_NN ਐਸੋਸੀਏਸ਼ਨ\N_NN ਨੇ\PSP ਮਾਰਚ\N_NN 2005\QT_QTC ਵਿਚ\PSP ਇਕ\RB ਅਧਿਐਨ\N_NN ਦੌਰਾਨ\N_NN ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਦੇ\PSP ਹੇਠ\RB ਲਿਖੇ\RB ਖ਼ਤਰੇ\N_NN ਦਰਸਾਏ\V_VM_VF ਹਨ\V_VAUX :\RD_PUNC
+PBHED868	ਮੌਤ\N_NN :\RD_PUNC ਜਿਨਾਂ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN ਦੀ\PSP ਪਹਿਲਾਂ\RB ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਹੋਈ\V_VM_VF ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਹਾਰਟ\N_NN ਫੇਲ\N_NN (ਈ.\N_NN ਐਫ਼.\N_NN 25%)\QT_QTC ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਕਰੀਏਟਨਿਨ\N_NN 2.5\N_NN ਹੋਵੇ\N_NN ,\RD_PUNC ਅਜਿਹੇ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN `\RD_PUNC ਚ\PSP ਮੌਤ\N_NN ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN 10\QT_QTC ਫੀਸਦੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED869	ਕਿਉਂਕਿ\CC_CCS ਬਾਈਪਾਸ\N_NN ਆਪਰੇਸ਼ਨ\N_NN 6\QT_QTC ਘੰਟੇ\N_NN ਚਲਦਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਲਗਭਗ\N_NN 6\QT_QTC ਬੋਤਲਾਂ\N_NN ਖੂਨ\N_NN ਦੀਆਂ\PSP ਚੜਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED870	ਉਸ\PR_PRP ਦਾ\PSP ਦਿਲ\N_NN ਬਿਲਕੁਲ\RB ਬੰਦ\RB ਕਰ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਮਸ਼ੀਨ\N_NN ਰਾਹੀਂ\CC_CCD ਸਾਹ\N_NN ਲੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED871	ਅਜਿਹੇ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਬਾਈਪਾਸ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਸੰਬਧਤ\N_NN ਸਰਜਨ\N_NN ਕੋਲੋਂ\PSP ਮੌਤ\N_NN ਦੀ\PSP ਦਰ\N_NN ਜਾਂ\CC_CCD ਸੰਭਾਵਨਾ\N_NN ਬਾਰੇ\N_NN ਚੰਗੀ\JJ ਤਰਾਂ\PSP ਜਾਣਕਾਰੀ\N_NN ਲੈ\V_VM_VF ਲੈਣ\V_VM_VF ।\RD_PUNC
+PBHED872	ਖੂਨ\N_NN ਦਾ\PSP ਵਹਿਣਾ\V_VM_VNG :\RD_PUNC 3\QT_QTC ਫੀਸਦੀ\N_NN ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਖ਼ੂਨ\N_NN ਵਹਿ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਇਸ\DM_DMD ਤਰਾਂ\PSP ਅਜਿਹੇ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਦੁਬਾਰਾ\N_NN ਆਪਰੇਸ਼ਨ\N_NN ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਪੈ\N_NN ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED873	ਇਨਫੈਕਸ਼ਨ\N_NN :\RD_PUNC 4\QT_QTC ਫੀਸਦੀ\N_NN ਤੱਕ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਬਾਈਪਾਸ\N_NN ਦੇ\PSP ਜ਼ਖ਼ਮਾਂ\N_NN ਵਿਚ\PSP ਪਾਕ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED874	ਸ਼ੂਗਰ\N_NN ਤੇ\CC_CCD ਮੋਟਾਪੇ\N_NN ਵਾਲੇ\PSP ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਹੋਰ\DM_DMQ ਵੀ\RP_RPD ਵਧੇਰੇ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED875	ਇਨਫੈਕਸ਼ਨ\N_NN ਵਾਲੇ\PSP ਅਜਿਹੇ\PR_PRL ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚੋਂ\PSP 25%\QT_QTC ਦੀ\PSP ਮੌਤ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED876	ਹਾਰਟ\N_NN ਅਟੈਕ\N_NN :\RD_PUNC ਕਈ\DM_DMQ ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਦੌਰਾਨ\N_NN ਜਾਂ\CC_CCD ਤਿੰਨ\RB ਦਿਨ\N_NN ਦੇ\PSP ਅੰਦਰ-ਅੰਦਰ\RB ਦੁਬਾਰਾ\RB ਵੱਡਾ\RB ਹਾਰਟ\N_NN ਅਟੈਕ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED877	9\QT_QTC ਫੀਸਦੀ\N_NN ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਹਾਰਟ\N_NN ਫੇਲੀਅਰ\N_NN ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED878	ਅਧਰੰਗ\N_NN :\RD_PUNC 6\QT_QTC ਫੀਸਦੀ\N_NN ਮਰੀਜ਼ਾਂ\N_NN ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਅੰਗ\N_NN ਜਾਂ\CC_CCD ਪਾਸਾ\RB ਮਾਰਿਆ\V_VM_VF ਜਾ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਸੋਚਣ\N_NN ਤੇ\CC_CCD ਪਹਿਚਾਨਣ\V_VM_VF ਦੀ\PSP ਸ਼ਕਤੀ\N_NN ਹਮੇਸ਼ਾ\JJ ਲਈ\PSP ਗੁਆਚ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED879	ਗੁਰਦੇ\N_NN ਫੇਲ\N_NN ਹੋ\V_VAUX ਜਾਣ\N_NN :\RD_PUNC 8\QT_QTC ਫੀਸਦੀ\N_NN ਮਰੀਜ਼ਾਂ\N_NN ਦੇ\PSP ਗੁਰਦੇ\N_NN ਫੇਲ\N_NN ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਇਨਾਂ\RB ਵਿਚੋਂ\PSP 20\QT_QTC ਫੀਸਦੀ\N_NN ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਸਾਰੀ\RB ਉਮਰ\N_NN ਲਈ\PSP ਡਾਇਲਾਸਿਜ਼\N_NN ਕਰਵਾਉਣਾ\V_VM_VNG ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED880	ਮਰੀਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਤੋਂ\PSP ਬਚਾਉਣ\N_NN ਲਈ\PSP ਐਡਵਾਂਸ\N_NN ਮੈਡੀਕਲ\N_NN ਟਰੀਟਮੈਂਟ\N_NN ਤੇ\CC_CCD ਈ.\N_NN ਸੀ.\N_NN ਪੀ.\N_NN ਤਕਨੀਕ\N_NN ਦੇ\PSP ਸਸਤੇ\N_NN ਤੇ\CC_CCD ਸੁਰੱਖਿਅਤ\N_NN ਇਲਾਜ\N_NN ਉਪਲਬਧ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED881	ਇਹ\DM_DMD ਦੋਵੇਂ\RB ਇਲਾਜ\N_NN ਯੂ.\N_NN ਐਸ.\N_NN ਐਫ.\N_NN ਡੀ.\N_NN ਏ.\N_NN ਤੇ\CC_CCD ਯੂਰੋਪੀਅਨ\N_NN ਹਾਰਟ\N_NN ਸੁਸਾਇਟੀ\N_NN ਵਲੋਂ\PSP ਪ੍ਰਮਾਣਿਤ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED882	ਐਡਵਾਂਸ\N_NN ਮੈਡੀਕਲ\N_NN ਟਰੀਟਮੈਂਟ\N_NN ਤੇ\CC_CCD ਈ.\N_NN ਸੀ.\N_NN ਪੀ.\N_NN :\RD_PUNC ਐਡਵਾਂਸ\N_NN ਮੈਡੀਕਲ\N_NN ਟਰੀਟਮੈਂਟ\N_NN ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਬਿਲਕੁਲ\RB ਇਕ\RB ਨਵਾਂ\JJ ਇਲਾਜ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBHED883	ਪਰ\CC_CCD ਡਾਕਟਰ\N_NN ਇਸ\DM_DMD ਨੂੰ\PSP ਵਧੇਰੇ\RB ਤਰਜੀਹ\N_NN ਇਸ\DM_DMD ਲਈ\PSP ਨਹੀਂ\RP_NEG ਦਿੰਦੇ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਇਹ\DM_DMD ਇਲਾਜ\N_NN ਬਹੁਤ\RB ਸਸਤਾ\JJ ਤੇ\CC_CCD ਸਿਰਫ਼\RB ਦਵਾਈਆਂ\N_NN ਨਾਲ\PSP ਹੀ\RP_RPD ਕੀਤਾ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED884	ਇਸ\DM_DMD ਇਲਾਜ\N_NN ਦੁਆਰਾ\PSP ਮਰੀਜ਼\N_NN ਦਾ\PSP ਭਾਰ\N_NN ਘਟਾ\RB ਕੇ\V_VM_VINF ਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਐਲ.\N_NN ਡੀ.\N_NN ਐਲ.\N_NN ਨੂੰ\PSP 70\QT_QTC ਮਿਲੀਗ੍ਰਾਮ\N_NN ਤੋਂ\PSP ਹੇਠਾਂ\RB ਰੱਖ\V_VM_VF ਕੇ\V_VM_VINF ਸਟੈਂਟਾਂ\N_NN ਤੋਂ\PSP ਬਿਹਤਰ\N_NN ਤੇ\CC_CCD ਬਾਈਪਾਸ\N_NN ਜਿੰਨੀ\RB ਸਫ਼ਲਤਾ\N_NN ਪ੍ਰਾਪਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED885	ਈ.\N_NN ਸੀ.\N_NN ਪੀ.\N_NN ਦੁਆਰਾ\PSP ਦਿਲ\N_NN ਦੀਆਂ\PSP ਬੰਦ\RB ਨਾੜੀਆਂ\N_NN ਨੂੰ\PSP ਬਗੈਰ\RB ਬੇਹੋਸ਼\JJ ਕੀਤਿਆਂ\V_VM_VNF ,\RD_PUNC ਬਗੈਰ\RB ਕਿਸੇ\DM_DMQ ਚੀਰ-ਫਾੜ\RB ,\RD_PUNC ਬਗੈਰ\RB ਹਸਪਤਾਲ\N_NN ਦਾਖ਼ਲ\N_NN ਕੀਤਿਆਂ\V_VM_VF ਖੋਲਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED886	ਇਸ\DM_DMD ਦਾ\PSP ਸਟੈਂਟਾਂ\N_NN ਤੇ\CC_CCD ਬਾਈਪਾਸ\N_NN ਨਾਲੋਂ\PSP ਖਰਚ\N_NN ਅੱਧਾ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBHED887	ਬਾਈਪਾਸ\N_NN ਜਾਂ\CC_CCD ਸਟੈਂਟ\N_NN ਦੁਆਰਾ\PSP ਇਲਾਜ\N_NN ਮਰੀਜ਼\N_NN ਦੀ\PSP ਜ਼ਿੰਦਗੀ\N_NN ਵਿਚ\PSP ਇਕ-ਦੋ\RB ਵਾਰ\RB ਹੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਮਰੀਜ਼\N_NN ਈ.\N_NN ਸੀ.\N_NN ਪੀ.\N_NN ਰਾਹੀਂ\CC_CCD ਜਿੰਨੀ\RB ਵਾਰ\RB ਮਰਜ਼ੀ\N_NN ਇਲਾਜ\N_NN ਕਰਵਾ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED888	ਇਹ\DM_DMD ਇਲਾਜ\N_NN ਹਰੇਕ\PR_PRQ ਮਰੀਜ਼\N_NN ਲਈ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBHED889	ਇਸ\DM_DMD ਨਾਲ\PSP ਪੰਜ\RB ਦਿਨ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਮਰੀਜ਼\N_NN ਦੀ\PSP ਛਾਤੀ\N_NN ਦੀ\PSP ਦਰਦ\N_NN ਤੇ\CC_CCD ਸਾਹ\N_NN ਦੀ\PSP ਤਕਲੀਫ਼\N_NN ਠੀਕ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED890	ਮਰੀਜ਼\N_NN ਜ਼ਿਆਦਾ\RB ਚੱਲਣ\V_VM_VF ਲੱਗ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਕੰਮ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਵਾਪਸੀ\N_NN ਜਲਦੀ\RB ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED891	ਹਾਰਟ\N_NN ਅਟੈਕ\N_NN ,\RD_PUNC ਬਾਈਪਾਸ\N_NN ਜਾਂ\CC_CCD ਸਟੈਂਟਾਂ\N_NN ਦੀ\PSP ਚਿੰਤਾ\N_NN ਖ਼ਤਮ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED892	ਜਦੋਂ\PR_PRL ਮਰੀਜ਼\N_NN ਦੀ\PSP ਬਾਈਪਾਸ\N_NN ਸਰਜਰੀ\N_NN ਫੇਲ\N_NN ਹੋ\V_VAUX ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBHED893	ਜਾਂ\CC_CCD ਸਟੈਂਟ\N_NN ਬੰਦ\N_NN ਹੋ\V_VAUX ਜਾਣ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਨੂੰ\PSP ਹਰ\PR_PRQ ਪਾਸੇ\RB ਤੋਂ\PSP ਜਵਾਬ\N_NN ਮਿਲ\V_VM_VF ਜਾਵੇ\N_NN |\RD_PUNC
+PBHED894	ਉਸ\PR_PRP ਕੋਲ\PSP ਕੋਈ\DM_DMQ ਹੋਰ\DM_DMQ ਚਾਰਾ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF |\RD_PUNC
+PBHED895	ਤਾਂ\CC_CCD ਅਜਿਹੀ\PR_PRL ਹਾਲਤ\N_NN ਵਿਚ\PSP ਸਿਰਫ਼\RB ਈ.\N_NN ਸੀ.\N_NN ਪੀ.\N_NN ਹੀ\RP_RPD ਮਰੀਜ਼\N_NN ਦੀ\PSP ਜਾਨ\N_NN ਨੂੰ\PSP ਬਚਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED896	ਬਵਾਸੀਰ\N_NN ਇਕ\RB ਆਮ\RB ਕਲਿਨੀਕਲ\N_NN ਸਮੱਸਿਆ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED897	ਕਈਆਂ\DM_DMQ ਦੇਸ਼ਾਂ\N_NN ਵਿਚ\PSP ਚਾਲੀ\QT_QTC ਸਾਲ\N_NN ਤੋਂ\PSP ਉਪਰ\RB ਵਾਲੇ\PSP 40\QT_QTO ਤੋਂ\PSP 50\QT_QTC ‚\N_NN ਲੋਕ\N_NN ਇਸ\N_NN ਤੋਂ\PSP ਪੀੜਤ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED898	ਇਹ\DM_DMD ਤਕਲੀਫ\N_NN ਗਰਭਵਤੀਆਂ\N_NN ਜਾਂ\CC_CCD ਜਣੇਪੇ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਵਾਲੀਆਂ\PSP ਔਰਤਾਂ\N_NN ਵਿਚ\PSP ਕੁਝ\DM_DMQ ਵਧੇਰੇ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ।\V_VAUX
+PBHED899	ਗੁਦਾ\N_NN ਵਿੱਚ\PSP ਨਾਰਮਲ\N_NN ਤੌਰ\RB `\RD_PUNC ਤੇ\CC_CCS ਹੀ\RP_RPD ਖ਼ੂਨ\N_NN ਦੀਆਂ\PSP ਨਾੜਾਂ\N_NN ਦਾ\PSP ਇਕ\RB ਗੁੱਛਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਸੋਜ\N_NN ਤੇ\CC_CCD ਇਨਫਲੇਮੇਸ਼ਨ\N_NN ਹੋਣ\V_VM_VF ਕਰਕੇ\V_VM_VF ਜਦ\RB ਇਹ\DM_DMD ਨਾੜੀਆਂ\N_NN ਵਧ\RB ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਗੁੱਛਾ\N_NN ਜਿਹਾ\RB ,\RD_PUNC ਗੁਦਾ\N_NN `\RD_PUNC ਚੋਂ\PSP ਬਾਹਰ\RB ਆ\V_VM_VF ਜਾਂਦਾ/ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED900	ਪਹਿਲਾਂ\DM_DMD ਸਮਝਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VNF ਸੀ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਤਕਲੀਫ਼\N_NN ਪੱਛਮੀ\N_NN ਮੁਲਕਾਂ\N_NN ਦੇ\PSP ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਜ਼ਿਆਦਾ\RB ਪਾਈ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED901	ਪਰ\CC_CCD ਹੁਣ\RB ਤਾਂ\CC_CCD ਏਸ਼ੀਅਨ\N_NN ਦੇਸ਼ਾਂ\N_NN ਵਿੱਚ\PSP ਵੀ\RP_RPD ਇਸ\DM_DMD ਦੇ\PSP ਚੰਗੇ-ਖ਼ਾਸੇ\JJ ਕੇਸ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED902	ਇਹ\DM_DMD ਸਮੱਸਿਆ\N_NN ਕੋਈ\DM_DMQ ਨਵੀਂ\RD_PUNC ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBHED903	ਅੱਜ\RB ਤੋਂ\PSP ਹਜ਼ਾਰਾਂ\N_NN ਸਾਲ\N_NN ਪਹਿਲਾਂ\RB ਵੀ\RP_RPD ਇਸ\DM_DMD ਰੋਗ\N_NN ਦਾ\PSP ਜ਼ਿਕਰ\N_NN ਮੈਡੀਕਲ\N_NN ਸਾਹਿਤ\N_NN ਵਿਚ\PSP ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED904	ਇਸ\DM_DMD ਦੀਆਂ\PSP ਅਲਾਮਤਾਂ\N_NN ਇਸ\DM_DMD ਗੱਲ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਨਿਰਭਰ\N_NN ਕਰਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ਕਿ\CC_CCS ਬਵਾਸੀਰ\N_NN ਕਿਸ\PR_PRQ ਕਿਸਮ\N_NN ਦੀ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBHED905	ਇਸ\DM_DMD ਦੀਆਂ\PSP ਮੁੱਖ\JJ ਰੂਪ\N_NN ਵਿਚ\PSP ਦੋ\QT_QTC ਕਿਸਮਾਂ\N_NN ਹਨ\V_VAUX :\RD_PUNC 1.\RD_PUNC ਬਾਹਰੀ\JJ ਬਵਾਸੀਰ\N_NN ਜਿਸ\PR_PRL ਨਾਲ\PSP ਦਰਦ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC 2.\QT_QTC ਅੰਦਰੂਨੀ\JJ ,\RD_PUNC ਜਿਸ\PR_PRL ਵਿੱਚ\PSP ਆਮ\RB ਕਰਕੇ\V_VM_VF ਦਰਦ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ਪਰ\CC_CCD ਖ਼ੂਨ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED906	ਬਾਹਰੀ\RB ਬਵਾਸੀਰ\N_NN :\RD_PUNC ਗੁਦਾ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਇਕ\QT_QTF ਤਿਹਾਈ\QT_QTF ਹਿੱਸੇ\N_NN ਵਿਚ\PSP ਉਤਪੰਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED907	ਇਹ\DM_DMD ਬਵਾਸੀਰ\N_NN ਗੁਦਾ\N_NN ਤੋਂ\PSP ਬਾਹਰ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED908	ਜਿਸ\PR_PRL ਵਿਚ\PSP ਸੋਜ\N_NN ਅਤੇ\CC_CCD ਦਰਦ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED909	ਖ਼ਾਰਸ਼\N_NN ,\RD_PUNC ਜੋ\CC_CCD ਇਸ\DM_DMD ਦਾ\PSP ਮੁੱਖ\JJ ਲੱਛਣ\N_NN ਸਮਝਿਆ\V_VM ਜਾਂਦਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED910	ਅਸਲ\RB ਵਿਚ\PSP ਨਜ਼ਦੀਕ\RB ਵਾਲੀ\PSP ਚਮੜੀ\N_NN ਦੇ\PSP ਅਸਰ\N_NN ਅਧੀਨ\N_NN ਹੋਣ\RB ਕਰਕੇ\V_VM_VINF ਹੁੰਦਾ\V_VM_VINF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED911	ਸੋ\CC_CCD ਇਸ\DM_DMD ਥਾਂ\N_NN ਤੋਂ\PSP ਪਾਣੀ\N_NN ਜਿਹਾ\PSP ਵੀ\RP_RPD ਨਿਕਲਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED912	ਜਲਣ\N_NN ਵੀ\RP_RPD ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED913	ਇਸ\DM_DMD ਕਿਸਮ\N_NN ਦੀ\PSP ਬਵਾਸੀਰ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਅੰਦਰ\RB ਜਦ\PR_PRF ਖ਼ੂਨ\N_NN ਜੰਮ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਇਹਨਾਂ\PR_PRL ਨੂੰ\PSP `\RD_PUNC `\RD_PUNC ਥਰੋਂਬੋਜ਼ਡ\N_NN ਪਾਈਲਜ਼\N_NN `\RD_PUNC `\RD_PUNC ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED914	ਅੰਦਰੂਨੀ\RB ਬਵਾਸੀਰ\N_NN :\RD_PUNC ਗੁਦਾ\N_NN ਦੇ\PSP ਉਪਰੀ\RB ਦੋ-ਤਿਹਾਈ\RB ਹਿੱਸੇ\N_NN ਵਿਚ\PSP ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED915	ਇਸ\DM_DMD ਹਿੱਸੇ\N_NN ਵਿਚ\PSP ਕਿਉਂਕਿ\CC_CCS ਨਰਵਜ਼\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀਆਂ\V_VM_VINF ,\RD_PUNC ਇਸ\DM_DMD ਲਈ\PSP ਇਹ\DM_DMD ਦਰਦ\N_NN ਨਹੀਂ\RP_NEG ਕਰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED916	ਸੋ\CC_CCD ਇਸ\DM_DMD ਕਿਸਮ\N_NN ਵਿਚ\PSP ਪੀੜ-ਰਹਿਤ\N_NN ਖ਼ੂਨ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED917	ਕਈ\DM_DMQ ਵਾਰ\RB ਮਰੀਜ਼\N_NN ਨੂੰ\PSP ਪਤਾ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਲਗਦਾ\V_VM_VF ਕਿ\CC_CCS ਉਸ\PR_PRP ਨੂੰ\PSP ਬਵਾਸੀਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED918	ਇਸ\DM_DMD ਦਾ\PSP ਇਲਾਜ\N_NN ਨਾ\RP_NEG ਕਰਵਾਇਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਕੰਮ\N_NN ਕਾਫੀ\RB ਵਿਗੜ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED919	ਇਹ\DM_DMD ਗੁਦਾ\N_NN `\RD_PUNC ਚੋਂ\PSP ਬਾਹਰ\RB ਨੂੰ\PSP ਦਿਖਾਈ\V_VM_VF ਦੇਣ\V_VM_VF ਲਗਦੀ\V_VM_VF ਹੈ\V_VAUX (\RD_PUNC ਪ੍ਰੋਲੈਪਸਡ\N_NN )।\RD_PUNC
+PBHED920	ਕਈ\RB ਵਾਰ\RB ਜਦ\PR_PRL ਇਹ\DM_DMD ਬਾਹਰ\RB ਨੂੰ\PSP ਦਿਖਾਈ\V_VM_VF ਦੇ\PSP ਰਹੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਸਫਿੰਕਟਰ\N_NN ਪੱਠਿਆਂ\N_NN ਦੇ\PSP ਸੁੰਗੜਨ\N_NN ਨਾਲ\PSP ਇਹਨਾਂ\PR_PRL ਦੇ\PSP ਖੂਨ\N_NN ਦੀ\PSP ਸਪਲਾਈ\N_NN ਬੰਦ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED921	ਇਸ\DM_DMD ਨੂੰ\PSP `\RD_PUNC `\RD_PUNC ਸਟਰੈਂਗੂਲੇਟਡ\N_NN ਹੈਮਰਾਇਡ\N_NN `\RD_PUNC `\RD_PUNC ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX (\RD_PUNC ਸਟਰੈਂਗੂਲੇ-ਸ਼ਨ\N_NN ਦਾ\PSP ਮਤਲਬ\N_NN ਫਾਂਸੀ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX )\RD_PUNC ।\RD_PUNC
+PBHED922	ਇਸ\DM_DMD ਦੀਆਂ\PSP ਚਾਰ\QT_QTF ਸਟੇਜਾਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED923	ਪਹਿਲੀ\RB ਸਟੇਜ\N_NN ਵਿਚ\PSP ਨਾੜੀਆਂ\N_NN ਫੁੱਲੀਆਂ\V_VM_VNF ਤਾਂ\RP_RPD ਹੁੰਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ਪਰ\CC_CCD ਗੁਦਾ\N_NN ਤੋਂ\PSP ਬਾਹਰ\RB ਨਹੀਂ\RP_NEG ਨਿਕਲਦੀਆਂ\V_VM_VNF ।\RD_PUNC
+PBHED924	ਦੂਸਰੀ\RB ਸਟੇਜ\N_NN ਵਿਚ\PSP ਜ਼ੋਰ\N_NN ਲਗਾ\V_VM_VF ਕੇ\V_VM_VINF ਟੱਟੀ\N_NN ਕਰਨ\N_NN ਵੇਲੇ\PSP ਬਾਹਰ\RB ਆਉਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ਪਰ\CC_CCD ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਅੰਦਰ\RB ਚਲੇ\N_NN ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED925	ਤੀਸਰੀ\RB ਸਟੇਜ\N_NN :\RD_PUNC ਜਦ\DM_DMR ਬਾਹਰ\RB ਆ\V_VM ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਹੱਥ\N_NN ਨਾਲ\PSP ਧੱਕ\N_NN ਕੇ\V_VM_VINF ਅੰਦਰ\RB ਕੀਤੀਆਂ\V_VM_VINF ਜਾ\V_VM ਸਕਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED926	ਚੌਥੀ\RB ਸਟੇਜ\N_NN :\RD_PUNC ਇਹਨਾਂ\PR_PRL ਨੂੰ\PSP ਹੱਥ\N_NN ਨਾਲ\PSP ਧੱਕ\N_NN ਕੇ\V_VM_VINF ਵੀ\RP_RPD ਅੰਦਰ\RB ਨਹੀਂ\RP_NEG ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ।\RD_PUNC
+PBHED927	ਕਾਰਨ\RB :\RD_PUNC ਕਬਜ਼\N_NN ਜਾਂ\CC_CCD ਦਸਤਾਂ\N_NN ਸਮੇਤ\N_NN ਕਈ\RB ਤਰਾਂ\PSP ਦੇ\PSP ਕਾਰਨ\RB ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX :\RD_PUNC
+PBHED928	ਜਿਵੇਂ\RB ਵਰਜ਼ਿਸ਼\N_NN ਦੀ\PSP ਕਮੀ\RB ,\RD_PUNC ਆਹਾਰ\N_NN /\RD_PUNC ਖਾਣ-ਪਾਣ\N_NN ਵਿੱਚ\PSP ਰੇਸ਼ੇ\N_NN (ਫਾਇਬਰ)\N_NN ਦੀ\PSP ਕਮੀ\RB ,\RD_PUNC ਕਬਜ਼\N_NN ਕਾਰਨ\RB ਟਾਇਲੈਟ\N_NN ਵਿੱਚ\PSP ਜਾ\V_VM ਕੇ\V_VM_VINF ਵਧੇਰੇ\RB ਕਿੱਲਣਾ\V_VM_VNG ਜਿਸ\PR_PRL ਨਾਲ\PSP ਜ਼ਿਆਦਾ\RB ਦੇਰ\RB ਪੇਟ\N_NN ਅੰਦਰ\RB ਪ੍ਰੈਸ਼ਰ\N_NN ਵਧਿਆ\V_VM_VF ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBHED929	ਗਰਭ\N_NN ਅਵਸਥਾ\N_NN ,\RD_PUNC ਜੈਨਟਿਕ\N_NN ਕਾਰਨ\RB ,\RD_PUNC ਗੁਦਾ\N_NN ਦੀਆਂ\PSP ਖ਼ੂਨ-ਨਾੜੀਆਂ\N_NN ਦੇ\PSP ਵਾਲ਼\N_NN (ਵੈਲਵ)\N_NN ਠੀਕ\RB ਨਾ\RP_NEG ਹੋਣੇ\N_NN ਅਤੇ\CC_CCD ਬੁਢਾਪੇ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਵੀ\RP_RPD ਇਹ\DM_DMD ਸਮੱਸਿਆ\N_NN ਉਤਪੰਨ\N_NN ਹੋਣ\RB ਦੇ\PSP ਮੁੱਖ\JJ ਕਾਰਨ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBHED930	ਮੋਟਾਪਾ\N_NN ਅਤੇ\CC_CCD ਬੈਠੇ\N_NN ਰਹਿਣ\N_NN ਵਾਲੇ\PSP ਕਾਰੋਬਾਰੀ\N_NN ,\RD_PUNC ਜੋ\CC_CCD ਸਾਰਾ\RB ਸਾਰਾ\RB ਦਿਨ\RB ਇੱਕੋ\RB ਥਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਬੈਠੇ\V_VM ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਵਿੱਚ\PSP ਵੀ\RP_RPD ਗੁਦਾ\N_NN ਦੀਆਂ\PSP ਖ਼ੂਨ-ਨਾੜੀਆਂ\N_NN ਵਿਚ\PSP ਪ੍ਰੈਸ਼ਰ\N_NN ਵਧਿਆ\V_VM_VF ਰਹਿਣ\V_VM_VINF ਕਰਕੇ\V_VM_VINF ਇਹ\DM_DMD ਸਮੱਸਿਆ\N_NN ਵਧੇਰੇ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED931	ਜ਼ਿਆਦਾ\RB ਦੇਰ\RB ਖੜੇ\N_NN ਰਹਿਣਾ\V_VM_VNG :\RD_PUNC ਕਈਆਂ\DM_DMQ ਲੋਕਾਂ\N_NN ਦੇ\PSP ਕਾਰੋਬਾਰ\N_NN ਹੀ\RP_RPD ਇਸ\DM_DMD ਤਰਾਂ\PSP ਦੇ\PSP ਹਨ\V_VAUX |\RD_PUNC
+PBHED932	ਕਿ\CC_CCS ਉਨਾਂ\PR_PRP ਨੂੰ\PSP ਕਈ\DM_DMQ ਕਈ\DM_DMQ ਘੰਟੇ\N_NN ਖਲੋਤੇ\N_NN ਰਹਿਣਾ\V_VM_VNG ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਿਵੇਂ\RB ਸੁਰੱਖਿਆ\N_NN ਗਾਰਡ\N_NN ,\RD_PUNC ਸਰਜਨ\N_NN ,\RD_PUNC ਆਦਿ\RB ।\RD_PUNC
+PBHED933	ਇਹਨਾਂ\PR_PRL ਵਿਅਕਤੀਆਂ\N_NN ਵਿੱਚ\PSP ਬਵਾਸੀਰ\N_NN ਹੋਣ\N_NN ਦਾ\PSP ਵਧੇਰੇ\RB ਰਿਸਕ\JJ ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED934	ਗਰਭ\N_NN ਅਵਸਥਾ\N_NN ਦੌਰਾਨ\RB ਪਣਪ\N_NN ਰਹੇ\V_VM_VF ਬੱਚੇ\N_NN ਦਾ\PSP ਪੇਟ\N_NN ਅੰਦਰ\RB ਪ੍ਰੈਸ਼ਰ\N_NN ਤੇ\CC_CCD ਹਾਰਮੋਨਜ਼\N_NN ਕਰਕੇ\V_VM_VINF ਆਈਆਂ\V_VM_VNF ਹੋਈਆਂ\V_VM_VNF ਤਬਦੀਲੀਆਂ\V_VM_VNF ਵੀ\RP_RPD ਇਸ\DM_DMD ਦਾ\PSP ਕਾਰਨ\RB ਬਣਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED935	ਪੇਟ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਹਿੱਸੇ\N_NN ਦੇ\PSP ਕਿਸੇ\PR_PRQ ਅੰਗ\N_NN ਦਾ\PSP ਕੈਂਸਰ\N_NN ਜਿਸ\PR_PRL ਨਾਲ\PSP ਪੇਟ\N_NN ਅੰਦਰ\RB ਪ੍ਰੈਸ਼ਰ\N_NN ਵਧ\RB ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED936	ਇਸੇ\DM_DMD ਤਰਾਂ\PSP ਜਨਣ\N_NN ਕਿਰਿਆ\N_NN (\RD_PUNC ਡਲਿਵਰੀ\N_NN )\RD_PUNC ਵੇਲੇ\PSP ਵੀ\RP_RPD ਇਹ\DM_DMD ਪ੍ਰੈਸ਼ਰ\N_NN ਬਹੁਤ\RB ਵਧ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜੋ\CC_CCD ਗੁਦਾ\N_NN ਦੀਆਂ\PSP ਇਹਨਾਂ\PR_PRL ਨਾੜੀਆਂ\N_NN ਵਿਚ\PSP ਅਸਾਧਾਰਣਤਾ\N_NN ਲਿਆ\V_VM_VF ਕੇ\V_VM_VINF ਬਵਾਸੀਰ\N_NN ਦਾ\PSP ਕਾਰਨ\N_NN ਬਣ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED937	ਪਰ\CC_CCD ਬੱਚੇ\N_NN ਦੇ\PSP ਜਨਮ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਇਹ\DM_DMD ਸਭ\DM_DMQ ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਹੀ\RP_RPD ਠੀਕ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED938	ਬਚਾਓ\N_NN :\RD_PUNC ਸਭ\DM_DMQ ਤੋਂ\PSP ਪੁਖ਼ਤਾ\N_NN ਤਰੀਕਾ\N_NN ਤਾਂ\CC_CCD ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਟੱਟੀ\N_NN ਨੂੰ\PSP ਸਖ਼ਤ\JJ ਨਾ\RP_NEG ਹੋਣ\RB ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBHED939	ਨਰਮ\JJ ਟੱਟੀ\N_NN ,\RD_PUNC ਪੇਟ\N_NN ਦਾ\PSP ਪ੍ਰੈਸ਼ਰ\N_NN ਵਧਾਉਣ\V_VM_VF ਤੋਂ\PSP ਬਿਨਾਂ\RB ਹੀ\RP_RPD ਆਰਾਮ\N_NN ਨਾਲ\PSP ਖ਼ਾਰਜ\N_NN ਹੋ\V_VAUX ਜਾਵੇਗੀ\V_VM_VF ਤੇ\CC_CCD ਦੁਆਲੇ\N_NN ਦੀਆਂ\V_VM_VNF ਨਾੜੀਆਂ\N_NN ਨੂੰ\PSP ਜ਼ਖ਼ਮੀ\N_NN ਨਹੀਂ\RP_NEG ਕਰੇਗੀ\V_VM_VF ।\RD_PUNC
+PBHED940	ਜਦ\PR_PRL ਵੀ\RP_RPD ਹਾਜ਼ਤ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਉਸੇ\DM_DMD ਵੇਲੇ\PSP ਪਖ਼ਾਨੇ\N_NN ਜਾ\V_VM_VF ਕੇ\V_VM_VINF ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਨੂੰ\PSP ਸੌਖਿਆਂ\N_NN (ਈਜ਼ੀ)\N_NN ਕਰ\V_VM ਲਵੋ\V_VM_VF ।\RD_PUNC
+PBHED941	ਵਰਜ਼ਿਸ਼\N_NN ਦੀ\PSP ਆਦਤ\N_NN ਪਾਓ\V_VM_VF ।\RD_PUNC
+PBHED942	ਭੋਜਨ\N_NN ਵਿਚ\PSP ਰੇਸ਼ਿਆਂ\N_NN (ਫਾਇਬਰ)\N_NN ਵਾਲੇ\PSP ਤੱਤਾਂ\N_NN ਦਾ\PSP ਸੇਵਨ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBHED943	ਰੇਸ਼ੇ\N_NN ਵਾਲੇ\PSP ਖਾਧ\N_NN ਪਦਾਰਥ\N_NN ਹਨ\V_VAUX :\RD_PUNC ਛਿਲਕੇ\JJ ਸਮੇਤ\N_NN ਸੇਬ\RP_CL ,\RD_PUNC ਨਾਖਾਂ\RP_CL ,\RD_PUNC ਖੀਰਾ\RP_CL ,\RD_PUNC ਬੱਘੂਗੋਸ਼ਾ\RP_CL ਜਾਂ\CC_CCD ਨਾਸ਼ਪਾਤੀ\RP_CL ,\RD_PUNC ਆੜੂ\RP_CL ,\RD_PUNC ਕੇਲਾ\RP_CL ,\RD_PUNC ਅੰਗੂਰ,\RP_CL ਸੰਤਰਾ\RP_CL ,\RD_PUNC ਤਰਾਂ\N_NN ,\RD_PUNC ਖ਼ਰਬੂਜ਼ਾ\RP_CL ,\RD_PUNC ਲੀਚੀਆਂ,\RP_CL ਬੇਰ\RP_CL ,\RD_PUNC ਪਲੱਮ\RP_CL ,\RD_PUNC ਸਟਰਾਬੈਰੀ\RP_CL ,\RD_PUNC ਚੀਕੂ\RP_CL ,\RD_PUNC ਗਾਜਰਾਂ\RP_CL ,\RD_PUNC ਮੂਲੀ\RP_CL ,\RD_PUNC ਪਾਲਕ\RP_CL ,\RD_PUNC ਗੰਢਾ\RP_CL ,\RD_PUNC ਟਮਾਟਰ\RP_CL ,\RD_PUNC ਬੰਦ\N_NN ਗੋਭੀ\N_NN ,\RD_PUNC ਗੰਢ\N_NN ਗੋਭੀ\N_NN ,\RD_PUNC ਫੁੱਲ\N_NN ਗੋਭੀ\N_NN ,\RD_PUNC ਬ੍ਰੋਕਲੀ\RP_CL ,\RD_PUNC ਕੱਚੇ\JJ ਜਾਂ\CC_CCD ਸਟੀਮਡ\N_NN ਮਟਰ\RP_CL ,\RD_PUNC ਮੇਥੀ\N_NN ,\RD_PUNC ਹਰੀਆਂ\JJ ਫਲੀਆਂ\RP_CL ,\RD_PUNC ਬੀਨਜ਼\N_NN ,\RD_PUNC ਮਕਈ\N_NN ਦੇ\PSP ਫੁੱਲੇ\N_NN (ਅੱਜ\RB ਕੱਲ\RB ਇਹਨੂੰ\PR_PRL ਪੋਪਕੋਰਨ\N_NN ਕਿਹਾ\V_VM_VF ਜਾਣ\V_VM_VF ਲੱਗਾ\V_VM_VF ਹੈ)\V_VAUX ਭੁੱਬਲ\N_NN ਵਿਚ\PSP ਭੁੰਨੇ\N_NN ਜਾਂ\CC_CCD ਉਬਾਲੇ\N_NN ਹੋਏ\V_VM_VF ਆਲੂ\N_NN ,\RD_PUNC ਘੁੰਙਣੀਆਂ\N_NN ।\RD_PUNC
+PBHED944	ਇਲਾਜ\N_NN :\RD_PUNC ਬਵਾਸੀਰ\N_NN ਵਾਸਤੇ\N_NN ਗਰਮ\JJ ਪਾਣੀ\N_NN ਵਾਲਾ\PSP ਇਲਾਜ\N_NN ਸਭ\DM_DMQ ਤੋਂ\PSP ਸੌਖਾ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBHED945	ਟੱਬ\N_NN ਵਿਚ\PSP ਗਰਮ\N_NN ਪਾਣੀ\N_NN ਪਾ\V_VM_VF ਕੇ\V_VM_VNG ,\RD_PUNC ਉਹਦੇ\V_VM_VF ਵਿੱਚ\PSP ਬੈਠੇ\N_NN ਰਹੋ\V_VM_VINF ,\RD_PUNC
+PBHED946	ਅਤੇ\CC_CCD ਦਿਨ\RB ਵਿਚ\PSP ਕਈ\RB ਵਾਰ\RB ਬੈਠੋ\N_NN ,\RD_PUNC ਇਸ\DM_DMD ਕੋਸੇ\N_NN ਪਾਣੀ\N_NN ਨਾਲ\PSP ਗੁਦਾ\N_NN ਦੇ\PSP ਪੱਠੇ\N_NN ਰੀਲੈਕਸ\N_NN ਹੋ\V_VAUX ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਤੇ\CC_CCD ਖ਼ੂਨ\N_NN ਨਾੜੀਆਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਚੰਗਾ\JJ ਅਸਰ\JJ ਪੈਂਦਾ\JJ ਹੈ\V_VAUX |\RD_PUNC
+PBHED947	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਬਵਾਸੀਰ\N_NN ਤੋਂ\PSP ਕੁਝ\DM_DMQ ਰਾਹਤ\N_NN ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED948	ਇਸ\DM_DMD ਪਾਣੀ\N_NN ਵਿੱਚ\PSP ਕਿਸੇ\DM_DMQ ਤਰਾਂ\PSP ਦਾ\PSP ਤੇਲ\N_NN ਜਾਂ\CC_CCD ਕੋਈ\DM_DMQ ਨਮਕ\N_NN ਪਾਉਣ\V_VM_VF ਦੀ\PSP ਕੋਈ\RB ਜ਼ਰੂਰਤ\RB ਨਹੀਂ\RP_NEG ਕਿਉਂਕਿ\CC_CCS ਇਸ\DM_DMD ਨਾਲ\PSP ਖ਼ਾਰਿਸ਼\N_NN ਜਾਂ\CC_CCD ਜਲਣ\N_NN ਵਧ\RB ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED949	ਰੇਸ਼ੇ\N_NN ਵਾਲੇ\PSP ਖਾਣੇ\N_NN ਤੇ\CC_CCD ਵਧੇਰੇ\RB ਤਰਲ\N_NN ਲਓ…,\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਟੱਟੀ\N_NN ਸਖਤ\JJ ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF |\RD_PUNC
+PBHED950	ਗਰਮ\JJ ਪਾਣੀ\N_NN ਵਿਚ\PSP ਬੈਠਣਾ\V_VM_VNG ,\RD_PUNC ਦਰਦ\N_NN ਨਿਵਾਰਕ\N_NN ਦਵਾਈਆਂ\N_NN (\RD_PUNC ਨਸੈਡ\N_NN )\RD_PUNC ਅਤੇ\CC_CCD ਅਰਾਮ\N_NN ਦੀ\PSP ਹਦਾਇਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED951	ਜਿੰਨਾਂ\PR_PRL ਕੇਸਾਂ\N_NN ਵਿਚ\PSP ਇਨਾਂ\RB ਤਰੀਕਿਆਂ\N_NN ਨਾਲ\PSP ਫ਼ਰਕ\N_NN ਨਾ\RP_NEG ਪਵੇ\V_VM_VF |\RD_PUNC
+PBHED952	ਤਾਂ\CC_CCD ਅਪ੍ਰੇਸ਼ਨ\N_NN ਕਰਨਾ\V_VM_VINF ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED953	ਛੋਟੀ\RB ਬਵਾਸੀਰ\N_NN ਵਿਚ\PSP ਇਲਾਜ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਤਰੀਕਾ\RB ਟੀਕਾ\N_NN ਲਗਾਉਣ\V_VM_VF ਵਾਲਾ\PSP ਵੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBHED954	ਇਸ\DM_DMD ਨੂੰ\PSP ਸਕਲੀਰੋ-ਥੈਰਾਪੀ\N_NN ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED955	ਟੀਕੇ\N_NN ਦਾ\PSP ਕੈਮੀਕਲ\N_NN ,\RD_PUNC ਬਵਾਸੀਰ\N_NN ਦੀਆਂ\PSP ਖ਼ੂਨ\N_NN ਵਾਲੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਨੂੰ\PSP ਬੰਦ\RB ਕਰ\V_VM ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਜੋ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਆਪਣੇ\PR_PRF ਆਪ\PR_PRF ਝੜ\N_NN ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED956	ਇਸ\DM_DMD ਇਲਾਜ\N_NN ਵਾਸਤੇ\N_NN ਦਾਖ਼ਲ\N_NN ਹੋਣ\PSP ਦੀ\PSP ਲੋੜ\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਡਾਕਟਰ\N_NN ਆਪਣੇ\PR_PRF ਚੈਂਬਰ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਕਰ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED957	ਇੰਜੈਕਸ਼ਨ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ,\RD_PUNC 5-6\QT_QTC ਦਿਨ\RB ਤਕ\RB ਖ਼ੂਨ\N_NN ਆ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED958	ਪਰ\CC_CCD ਜਦ\CC_CCD ਬਵਾਸੀਰ\N_NN ਵਾਲੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਝੜ\N_NN ਜਾਂਦੀਆਂ\V_VM_VNF ਹਨ\V_VAUX |\RD_PUNC
+PBHED959	ਤਾਂ\CC_CCD ਖ਼ੂਨ\N_NN ਬੰਦ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED960	ਟੀਕੇ\N_NN ਵਾਲੇ\PSP ਇਲਾਜ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਦੁਬਾਰਾ\RB ਵੀ\RP_RPD ਇਹ\DM_DMD ਸਮੱਸਿਆ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED961	ਸੋ\CC_CCD ਦੁਬਾਰਾ\RB ਟੀਕਾ\N_NN ਲਗਵਾਇਆ\JJ ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED962	ਜਾਂ\CC_CCD ਕੋਈ\DM_DMQ ਹੋਰ\RB ਤਰੀਕਾ\N_NN ਜਿਵੇਂ\RB ਅਪ੍ਰੇਸ਼ਨ\N_NN ਵਾਲਾ\PSP ਇਲਾਜ\N_NN ਕਰਵਾਇਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED963	1980\QT_QTC ਵਿਚ\PSP ਵਰਲਡ\N_NN ਸੀਰੀਜ਼\N_NN ਵਿਚ\PSP ਬੇਸ-ਬਾਲ\N_NN ਦੇ\PSP ਮਸ਼ਹੂਰ\JJ ਅਮਰੀਕਨ\N_NNP ਖਿਡਾਰੀ\N_NN ਜਾਰਜ\N_NN ਬਰੈਟ\N_NN ਨੂੰ\PSP ਬਵਾਸੀਰ\N_NN ਦੀ\PSP ਪੀੜ\N_NN ਕਾਰਨ\RB ਮੈਚ\N_NN `\RD_PUNC ਚੋਂ\PSP ਬਾਹਰ\RB ਆਉਣਾ\V_VM_VINF ਪਿਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBHED964	ਫਰਵਰੀ\N_NN 1981\QT_QTC ਵਿਚ\PSP ਇਸ\DM_DMD ਦਾ\PSP ਅਪ੍ਰੇਸ਼ਨ\N_NN ਕਰਵਾਉਣ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB ਅਗਲੀ\RB ਵਾਰ\RB ਉਸ\PR_PRP ਨੂੰ\PSP ਦੁਬਾਰਾ\RB ਟੀਮ\N_NN ਵਿਚ\PSP ਲੈ\V_VM ਲਿਆ\V_VM_VF ਗਿਆ\V_VM_VNF ।\RD_PUNC
+PBHED965	ਦਰਦ\N_NN ,\RD_PUNC ਖ਼ਾਰਿਸ਼\JJ ਜਾਂ\CC_CCD ਜਲੂਣ\N_NN ਤੇ\PSP ਖ਼ੂਨ\N_NN ਦੀ\PSP ਤਕਲੀਫ਼\N_NN ਤਾਂ\CC_CCD ਹੁੰਦੀ\V_VM_VF ਹੀ\RP_RPD ਹੈ\V_VAUX ,\RD_PUNC
+PBHED966	ਕਈ\RB ਵਾਰ\RB ਬਵਾਸੀਰ\N_NN ਜਾਨ-ਲੇਵਾ\N_NN ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED967	ਜੇਕਰ\CC_CCS ਖ਼ੂਨ\N_NN ਵਧੇਰੇ\RB ਨਿਕਲ\V_VM_VF ਜਾਵੇ\V_VM_VF ,\RD_PUNC ਇਲਾਜ\N_NN ਕਰਵਾਉਣ\V_VM_VF ਵਿਚ\PSP ਦੇਰੀ\RB ਕਰ\V_VM_VF ਦਿੱਤੀ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਬੜੀ\RB ਵੱਡੀ\RB ਸਮੱਸਿਆ\N_NN ਪੈਦਾ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED968	ਸਾਡੇ\PR_PRP ਇਕ\RB ਜਾਣਕਾਰ\RB ,\RD_PUNC 40-45\QT_QTC ਸਾਲਾ\N_NN ਸੋਹਣੇ\JJ ਸੁਨੱਖੇ\JJ ਸਰਦਾਰ\N_NN ਜੀ\N_NN ,\RD_PUNC ਸੰਗ\N_NN ਸ਼ਰਮ\N_NN ਕਾਰਨ\RB ਹੀ\RP_RPD ਐਸੇ\PR_PRL ਪੰਗੇ\N_NN `\RD_PUNC ਚ\PSP ਪੈ\V_VM ਗਏ\V_VM_VF ਸਨ…\V_VAUX ਕਿ\CC_CCS ਅੱਠ\RB ਬੋਤਲਾਂ\N_NN ਖ਼ੂਨ\N_NN ਦੀਆਂ\PSP ਚੜਾਉਣੀਆਂ\V_VM_VNF ਪਈਆਂ\V_VM_VNF ਸਨ\V_VAUX …,\N_NN ਤਾਂ\CC_CCD ਜਾ\CC_CCD ਕੇ\V_VM_VINF ਜਾਨ\N_NN ਬਚੀ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBHED969	ਸਮਾਜ\N_NN ਸੇਵਾ\N_NN ਵਿੱਚ\PSP ਲੱਗੀਆਂ\V_VM_VNF ਥੈਲਾਸੀਮੀਆ\N_NN ਸੁਸਾਇਟੀਆਂ\N_NN ਦੇ\PSP ਕਾਰਜ\N_NN ਕਰਤਾ\N_NN ਬੜੀ\RB ਤਨ\N_NN ਦੇਹੀ\N_NN ਨਾਲ\PSP ,\RD_PUNC ਤਨੋਂ\N_NN ,\RD_PUNC ਮਨੋਂ\N_NN ਤੇ\PSP ਧਨੋਂ\N_NN ,\RD_PUNC ਐਸੇ\DM_DMQ ਬੱਚਿਆਂ\N_NN ਵਾਸਤੇ\PSP ਖੂਨ\N_NN ਦਾਨ\N_NN ਕੈਂਪ\N_NN ਤੇ\CC_CCD ਮਾਲੀ\N_NN ਸਹਾਇਤਾ\N_NN ਦੇ\PSP ਪ੍ਰਬੰਧਾਂ\N_NN ਵਿੱਚ\PSP ਜੁਟੇ\N_NN ਰਹਿੰਦੇ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED970	ਹਰੇਕ\RB ਦੇਸ਼\N_NN ਤੇ\CC_CCD ਵੱਖ-ਵੱਖ\RB ਸ਼ਹਿਰਾਂ\N_NN ਵਿਚ\PSP ਦਾਨੀ\N_NN ਅਤੇ\CC_CCD ਸੇਵਾ\N_NN ਕਰਨ\RB ਵਾਲੇ\PSP ਸੱਜਣ\N_NN ਮਿਲਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBHED971	ਜਿੰਨਾ\PR_PRP ਦੇ\PSP ਯਤਨਾਂ\N_NN ਸਦਕਾ\RB ਥੈਲਾਸੀਮੀਆ\N_NN ਰੋਗੀਆਂ\N_NN ਨੂੰ\PSP ਖ਼ੂਨ\N_NN ਮੁਹੱਈਆ\N_NN ਕਰਵਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED972	ਇਲਾਜ\N_NN ਵਾਸਤੇ\PSP ਮਾਲੀ\N_NN ਮਦਦ\RB ਦਾ\PSP ਪ੍ਰਬੰਧ\N_NN ਵੀ\RP_RPD ਕੀਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED973	ਅੱਜ\RB ਦਾ\PSP ਲੇਖ\N_NN ,\RD_PUNC ਅੱਠ\RB ਮਈ\N_NN ਨੂੰ\PSP ਕੁੱਲ\N_NN ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਮਨਾਏ\V_VM_VF ਗਏ\V_VM_VF `\RD_PUNC `\RD_PUNC ਵਿਸ਼ਵ\N_NN ਥੈਲਾਸੀਮੀਆ\N_NN ਦਿਵਸ\N_NN `\RD_PUNC `\RD_PUNC ਨੂੰ\PSP ਸਮਰਪਿਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED974	ਖ਼ੂਨ\N_NN ਨਾਲ\PSP ਸਬੰਧਤ\N_NN ਕਈ\DM_DMQ ਰੋਗ\N_NN ਹਨ\V_VAUX ਜਿਵੇਂ\RB ਚਿੱਟੇ\JJ ਸੈੱਲਾਂ\N_NN ਦੇ\PSP (\RD_PUNC ਲਿਊਕੀਮੀਆ\N_NN ਜਾਂ\CC_CCD ਖ਼ੂਨ\N_NN ਦੇ\PSP ਕੈਂਸਰ\N_NN ਆਦਿ\N_NN )\RD_PUNC ,\RD_PUNC ਪਲੇਟਲੈਟਸ\N_NN ਦੇ\PSP (\RD_PUNC ਜਿਵੇਂ\RB ਪਲੇਟਲੈਟ\N_NN ਸੈੱਲਾਂ\N_NN ਦੇ\PSP ਘਟਣ\RB ਨਾਲ\PSP ਸਰੀਰ\N_NN ਦੇ\PSP ਵੱਖ-ਵੱਖ\RB ਹਿੱਸਿਆ\N_NN `\RD_PUNC ਚੋਂ\PSP ਖ਼ੂਨ\N_NN ਵਗਣਾ\N_NN )\RD_PUNC ਅਤੇ\CC_CCD ਖ਼ੂਨ\N_NN ਦੇ\PSP ਲਾਲ\JJ ਸੈੱਲਾਂ\N_NN ਦੇ\PSP (\RD_PUNC ਜਿਵੇਂ\RB ਖ਼ੂਨ\N_NN ਦੀ\PSP ਕਮੀ\RB ਜਾਂ\CC_CCD ਅਨੀਮੀਆ\N_NN ,\N_NN ਥੈਲਾਸੀਮੀਆ\N_NN ਆਦਿ\N_NN )\RD_PUNC ।\RD_PUNC ਥੈਲਾਸੀਮੀਆ\N_NN ,\RD_PUNC ਖ਼ੂਨ\N_NN ਦੇ\PSP ਲਾਲ\JJ ਸੈੱਲਾਂ\N_NN ਦਾ\PSP ਇਕ\RB ਜੈਨੇਟਿਕ\N_NN ਰੋਗ\N_NN ਹੈ\V_VAUX ਜੋ\CC_CCD ,\RD_PUNC ਇਕ\RB ਅਸਾਧਾਰਨ\N_NN (\RD_PUNC ਅਬਨਾਰਮਲ\N_NN )\RD_PUNC ਜੀਨ\N_NN ਦੇ\PSP ਕਾਰਨ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED975	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VINF ,\RD_PUNC ਲੋਹੇ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਤੇ\CC_CCD ਬਾਕੀ\RB ਤੱਤ\N_NN ,\RD_PUNC ਲੋੜ\N_NN ਅਨੁਸਾਰ\N_NN ਹੋਣ\RB ਦੇ\PSP ਬਾਵਜੂਦ\RB ਵੀ\RP_RPD ਲਾਲ\JJ ਸੈੱਲਾਂ\N_NN ਨੂੰ\PSP (\RD_PUNC ਲਾਲ\JJ )\RD_PUNC ਰੰਗ\N_NN ਪ੍ਰਦਾਨ\N_NN ਕਰਨ\RB ਵਾਲੀ\PSP ਹੀਮੋਗਲੋਬਿਨ\N_NN ,\RD_PUNC ਠੀਕ\RB ਨਹੀਂ\RP_NEG ਬਣ\RB ਸਕਦੀ\V_VM_VF ।\RD_PUNC
+PBHED976	ਸੋ\CC_CCD ਬੱਚੇ\N_NN ਨੂੰ\PSP ਖ਼ੂਨ\N_NN ਦੀ\PSP ਕਮੀ\RB ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX (\RD_PUNC ਅਨੀਮੀਆ\N_NN )\RD_PUNC ਤੇ\CC_CCD ਇਹ\DM_DMD ਸੈੱਲ\N_NN ,\RD_PUNC ਸਹੀ\RB ਤਰੀਕੇ\N_NN ਨਾਲ\PSP ਆਕਸੀਜਨ\N_NN ਲਿਜਾਣ\V_VM_VF ਦਾ\PSP ਕੰਮ\N_NN ਨਹੀਂ\RP_NEG ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF ।\RD_PUNC
+PBHED977	ਇਹ\DM_DMD ਸਮੱਸਿਆ\N_NN ਠੀਕ\RB ਹੋਣ\RB ਵਾਲੀ\RB ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ਤੇ\CC_CCD ਸਾਰੀ\RB ਉਮਰ\N_NN ਬੱਚੇ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਉਹਦੇ\PR_PRP ਮਾਪਿਆਂ\N_NN ,\RD_PUNC ਰਿਸ਼ਤੇਦਾਰਾਂ\N_NN ਤੇ\CC_CCD ਸਮਾਜ\N_NN ਨੂੰ\PSP ਕਸ਼ਟ\N_NN ਵਿਚ\PSP ਰੱਖਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED978	ਥੈਲਾਸੀਮੀਆ\N_NN ,\RD_PUNC ਇਕ\RB ਬੀਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਸਗੋਂ\N_NN ਕਈ\DM_DMQ ਰੋਗਾਂ\N_NN ਦਾ\PSP ਇਕ\RB ਗਰੁੱਪ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED979	ਇਹਨਾਂ\PR_PRL `\RD_PUNC ਚੋਂ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਖ਼ਤਰਨਾਕ\N_NN ਤੇ\CC_CCD ਵਧੇਰੇ\RB ਕੇਸਾਂ\N_NN ਵਿਚ\PSP ਹੋਣ\RB ਵਾਲੀ\PSP ਕਿਸਮ\N_NN ਨੂੰ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ਮੇਜਰ\N_NN ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED980	ਜਿਸ\PR_PRL ਵਾਸਤੇ\N_NN ਸਾਰੀ\RB ਉਮਰ\N_NN ,\RD_PUNC ਹਰ\RB ਮਹੀਨੇ\N_NN ਜਾਂ\CC_CCD ਇਸ\DM_DMD ਤੋਂ\PSP ਵੀ\RP_RPD ਜ਼ਿਆਦਾ\RB ਵਾਰ\RB ਖ਼ੂਨ\N_NN ਚੜਾਉਣ\V_VM_VF ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED981	ਇਹ\DM_DMD ਦਰਦਨਾਕ\N_NN ਸਮੱਸਿਆ\N_NN ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਨਾਲ\PSP ਮਰੀਜ਼\N_NN ਤੇ\PR_PRL ਉਹਦੇ\PR_PRP ਮਾਪਿਆਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਭਾਵਾਤਮਿਕ\N_NN ਤੇ\CC_CCD ਮਾਇਕ\N_NN ਬੋਝ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED982	ਥੈਲਾਸੀਮੀਆ\N_NN ਭਾਵੇਂ\RB ਇਕ\RB ਗੰਭੀਰ\N_NN ਰੋਗ\N_NN ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਦਾ\PSP ਸਾਰੀ\RB ਉਮਰ\N_NN ਇਲਾਜ\N_NN ਕਰਦੇ\V_VM_VF ਰਹਿਣਾ\V_VM_VINF ਪੈਂਦਾ\N_NN ਹੈ\V_VAUX ਫਿਰ\RB ਵੀ\RP_RPD ਅਜੋਕੇ\N_NN ਸਮੇਂ\N_NN ਵਿਚ\PSP ਜੋ\CC_CCD ਵੀ\RP_RPD ਉਪਲਬਧ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਨਾਲ\PSP ਵਿਅਕਤੀ\N_NN ਕਾਫੀ\RB ਦੇਰ\RB ਜ਼ਿੰਦਗ਼ੀ\N_NN ਜੀ\N_NN ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED983	ਥੈਲਾਸੀਮੀਆ\N_NN ਕਿਵੇਂ\PR_PRQ ਹੁੰਦਾ\V_VM_VF ਹੈ..\V_VAUX ?\RD_PUNC
+PBHED984	ਹਰੇਕ\DM_DMD ਬੱਚਾ\N_NN ,\RD_PUNC ਸਰੀਰਕ\N_NN ਬਣਤਰ\N_NN ਦੇ\PSP ਗੁਣ\N_NN ਆਪਣੇ\PR_PRF ਮਾਂ\N_NN ਬਾਪ\N_NN ਤੋਂ\PSP ਪ੍ਰਾਪਤ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED985	ਸ਼ਕਲ\N_NN ਸੂਰਤ\N_NN ਵਾਲੇ\PSP ਗੁਣ\N_NN ਜਿਵੇਂ\RB ਨੱਕ\N_NN ਦੀ\PSP ਸ਼ੇਪ\N_NN ,\RD_PUNC ਅੱਖਾਂ\N_NN ਦਾ\PSP ਰੰਗ\JJ ,\RD_PUNC ਕੱਦ-ਕਾਠ\N_NN ਆਦਿ\RB ।\RD_PUNC
+PBHED986	ਇਸੇ\DM_DMD ਤਰਾਂ\PSP ਲਾਲ\JJ ਸੈੱਲਾਂ\N_NN ਅੰਦਰਲੀ\RB ਹੀਮੋਗਲੋਬਿਨ\N_NN ਦੀ\PSP ਕਿਸਮ\N_NN ਵੀ\RP_RPD ਵਿਰਾਸਤ\N_NN ਵਿਚ\PSP ਮਾਪਿਆਂ\N_NN ਦੀਆਂ\PSP ਜੀਨਜ਼\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਇਕ\RB ਜੀਨ\N_NN ਮਾਂ\N_NN ਤੋਂ\PSP ਤੇ\CC_CCD ਇਕ\RB ਪਿਉ\N_NN ਤੋਂ\PSP ।\RD_PUNC
+PBHED987	ਨਾਰਮਲ\N_NN `\RD_PUNC `\RD_PUNC ਹੀਮੋਗਲੋਬਿਨ\N_NN ਏ\N_NN `\RD_PUNC `\RD_PUNC ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED988	ਜੇ\CC_CCS ਮਾਂ\N_NN ਦੀਆਂ\PSP ਦੋਵਾਂ\RB ਜੀਨਜ਼\N_NN `\RD_PUNC ਚੋਂ\PSP ਇਕ\RB ਥੈਲਾਸੀਮੀਆ\N_NN ਦੀ\PSP ਹੋਵੇ\V_VM_VF ਤੇ\CC_CCD ਪਿਉ\N_NN ਦੀ\PSP ਵੀ\RP_RPD ਇਕ\RB ਜੀਨ\N_NN ਖ਼ਰਾਬ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਕ\N_NN ਬੱਚਾ\N_NN ਥੈਲਾਸੀਮੀਆ\N_NN (\RD_PUNC ਮੇਜਰ\N_NN )\RD_PUNC ਵਾਲਾ\PSP ਹੋਵੇਗਾ\V_VM_VF ਤੇ\CC_CCD ਇਕ\RB ਨਾਰਮਲ\N_NN ਜਾਂ\CC_CCD ਕੈਰੀਅਰ\N_NN ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBHED989	ਕੈਰੀਅਰ\N_NN ਬੱਚੇ\N_NN ਨੂੰ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ਟਰੇਟ\N_NN ਜਾਂ\CC_CCD `\RD_PUNC `\RD_PUNC ਥੈਲਾਸੀਮੀਆ\N_NN ਮਾਇਨਰ\N_NN `\RD_PUNC `\RD_PUNC ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED990	ਐਸੇ\PR_PRF ਬੱਚਿਆਂ\N_NN ਨੂੰ\PSP ਖ਼ੂਨ\N_NN ਦੀ\PSP ਕੁਝ\DM_DMQ ਕਮੀ\RB ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBHED991	ਪਰ\CC_CCD ਆਮ\RB ਕਰਕੇ\V_VM_VINF ਖ਼ੂਨ\N_NN ਦੇਣ\V_VM_VF ਜਾਂ\CC_CCD ਇਲਾਜ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਨਹੀਂ\RP_NEG ਪੈਂਦੀ\V_VM_VF ।\RD_PUNC
+PBHED992	ਉਂਜ\RB ਐਸੇ\PR_PRL ਵਿਅਕਤੀਆਂ\N_NN ਦੇ\PSP ਅੱਗੋਂ\RB ਬੱਚਿਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਇਹ\DM_DMD ਬੀਮਾਰੀ\N_NN ਹੋਣ\RB ਦਾ\PSP 50\QT_QTC ਪ੍ਰਤੀਸ਼ਤ\N_NN ਰਿਸਕ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED993	ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ਟਰੇਟ\N_NN ਦੇ\PSP 60\QT_QTC ਤੋਂ\PSP 80\QT_QTC ਮਿਲੀਅਨ\N_NN ਮਰੀਜ਼\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBHED994	ਥੈਲਾਸੀਮੀਆ\N_NN ਮੇਜਰ\N_NN ਦੇ\PSP ਲੱਛਣ\N_NN :\RD_PUNC ਜੇਕਰ\CC_CCS ਖ਼ੂਨ\N_NN ਨਾ\RP_NEG ਚੜਾਇਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਬੱਚਾ\N_NN ਪੀਲ਼ਾ\JJ ਭੂਕ\N_NN ਦਿਖਾਈ\V_VM_VF ਦੇਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਥੱਕਿਆ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਭੁੱਖ\N_NN ਘੱਟ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਕੋਈ\DM_DMQ ਨਾ\RP_NEG ਕੋਈ\DM_DMQ ਇਨਫੈਕਸ਼ਨ\N_NN ਹੋਈ\V_VM_VF ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED995	ਕੁਝ\DM_DMQ ਦੇਰ\RB ਬਾਅਦ\RB ਜਿਗਰ\N_NN ਤੇ\CC_CCD ਤਿੱਲੀ\N_NN ,\RD_PUNC ਦੋਵੇਂ\RB ਹੀ\RP_RPD ਵਧ\RB ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਿਨਾਂ\PR_PRP ਨਾਲ\PSP ਢਿੱਡ\N_NN ਫੁੱਲਿਆ\RB ਫੁੱਲਿਆ\RB ਦਿਸਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBHED996	ਲਗਾਤਾਰ\RB ਖ਼ੂਨ\N_NN ਨਾ\RP_NEG ਚੜਾਇਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ,\RD_PUNC
+PBHED997	ਤਾਂ\CC_CCD ਜ਼ਿੰਦਗੀ\N_NN ਵਧੇਰੇ\RB ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED998	ਪੂਰੀ\N_NN ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ,\RD_PUNC
+PBHED998	ਪੂਰੀ\N_NN ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ,\RD_PUNC
+PBHED999	ਖ਼ੂਨ\N_NN ਦੀ\PSP ਇਕ\RB ਆਮ\RB ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED1000	ਹਰੇਕ\DM_DMQ ਸਾਲ\N_NN ਹਜ਼ਾਰਾਂ\N_NN ਹੀ\RP_RPD ਐਸੇ\PR_PRF ਬੱਚੇ\N_NN ਜੰਮਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBHED998	ਪੂਰੀ\N_NN ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ,\RD_PUNC
+PBHED997	ਤਾਂ\CC_CCD ਜ਼ਿੰਦਗੀ\N_NN ਵਧੇਰੇ\RB ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED999	ਖ਼ੂਨ\N_NN ਦੀ\PSP ਇਕ\RB ਆਮ\RB ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBHED997	ਤਾਂ\CC_CCD ਜ਼ਿੰਦਗੀ\N_NN ਵਧੇਰੇ\RB ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED998	ਪੂਰੀ\N_NN ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਥੈਲਾਸੀਮੀਆ\N_NN ,\RD_PUNC
+PBHED996	ਲਗਾਤਾਰ\RB ਖ਼ੂਨ\N_NN ਨਾ\RP_NEG ਚੜਾਇਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ,\RD_PUNC
+PBHED997	ਤਾਂ\CC_CCD ਜ਼ਿੰਦਗੀ\N_NN ਵਧੇਰੇ\RB ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBHED1	ਕੁਦਰਤ\N_NN ਵੱਲੋਂ\PSP ਮਨੁੱਖ\N_NN ਨੂੰ\PSP ਵਾਧੂ\QT_QTF ਦਾਤਾਂ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ਗਈਆਂ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBHED14	ਜੋ\PR_PRL ਬਾਅਦ\RB ਵਿੱਚ\PSP ਲੱਤਾਂ,\N_NN ਬਾਹਾਂ\N_NN ਤੇ\CC_CCD ਪੇਟ\N_NN ਵਿੱਚ\PSP ਪਾਣੀ\N_NN ਜਮਾ\V_VM ਹੋਣ\V_VM_VNF ਦੇ\PSP ਰੂਪ\N_NN ਵਿੱਚ\PSP ਦਿਖਾਈ\V_VM ਦਿੰਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBHED15	ਦੋਵਾਂ\QT_QTF ਗੁਰਦਿਆਂ\N_NN ਦਾ\PSP 20\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਹਿੱਸਾ\N_NN ਵੀ\RP_RPD ਠੀਕ\N_NN ਕੰਮ\N_NN ਕਰਦਾ\V_VM_VF ਰਹੇ\V_VM ਤਾਂ\RP_RPD ਆਦਮੀ\N_NN ਸਹੀ-ਸਲਾਮਤ\RB ਰਹਿੰਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBHED88	ਮਾਸਾਹਾਰੀ\JJ ਭੋਜਨ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਨਾਲ\PSP ਸਰੀਰ\N_NN ਵਿੱਚ\PSP ਯੂਰਿਕ\N_NN ਐਸਿਡ\N_NN ਪੈਦਾ\V_VM_VF ਹੋ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC 

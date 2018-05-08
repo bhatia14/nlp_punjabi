@@ -1,0 +1,1001 @@
+ID	Value
+PBLTD3001	ਅੱਵਲ\JJ ਹਮਦ\N_NNP ਜਨਾਬ\N_NNP ਅੱਲਾਹ\N_NNP ਦੀ\PSP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3002	ਜਿਹੜਾ\PR_PRL ਕੁਦਰਤੀ\JJ ਖੇਲ\N_NN ਬਣਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3003	ਚੌਦਾਂ\QT_QTC ਤਬਕਾਂ\N_NN ਦਾ\PSP ਨਕਸ਼\N_NN ਨਿਗਾਰ\N_NN ਕਰਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3004	ਰੰਗਾ\N_NN ਰੰਗ\N_NN ਦੇ\PSP ਭੇਖ\N_NN ਰਚਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3005	ਸਫਾਂ\N_NN ਪਿਛਲੀਆਂ\JJ ਸਭ\DM_DMQ ਸਮੇਟ\V_VM ਲੈਂਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3006	ਅੱਗੇ\RB ਹੋਰ\JJ ਹੀ\RP_RPD ਹੋਰ\JJ ਵਿਛਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3007	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਓਸ\DM_DMD ਤੋਂ\PSP ਸਦਾ\RB ਡਰੀਏ\V_VM_VF ,\RD_PUNC
+PBLTD3008	ਬਾਦਸ਼ਾਹਾਂ\N_NN ਥੀਂ\RP_RPD ਭੀਖ\N_NN ਮੰਗਾਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3009	ਇਹ\DM_DMD ਤੇ\RP_RPD ਜੀਆਂ\N_NN ਨੂੰ\PSP ਪਕੜ\N_NN ਕੇ\V_VM_VNF ਮੋਹ\N_NN ਲੈਂਦੀ\V_VM_VF ,\RD_PUNC
+PBLTD3010	ਦੁਨੀਆਂ\N_NN ਵੇਸਵਾ\N_NN ਦਾ\PSP ਰੱਖੇ\V_VM_VF ਭੇਸ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3011	ਸਦਾ\RB ਨਹੀਂ\RP_NEG ਜੁਆਨੀ\N_NN ਤੇ\CC_CCD ਐਸ਼\N_NN ਮਾਪੇ\V_VM_VF ,\RD_PUNC
+PBLTD3012	ਸਦਾ\N_NN ਨਹੀਂ\RP_NEG ਜੇ\PR_PRL ਬਾਲ\N_NN ਵਰੇਸ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3013	ਸਦਾ\RB ਨਹੀਂ\RP_NEG ਜੇ\CC_CCS ਦੌਲਤਾਂ\N_NN ਫੀਲ\N_NN ਘੋੜੇ\N_NN ,\RD_PUNC
+PBLTD3014	ਸਦਾ\RB ਨਹੀਂ\RP_NEG ਜੇ\CC_CCS ਰਾਜਿਆਂ\N_NN ਦੇਸ਼\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3015	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਦਾ\RB ਨਹੀਂ\RP_NEG ਰੂਪ\N_NN ਦੁਨੀਆਂ\N_NN ,\RD_PUNC
+PBLTD3016	ਸਦਾ\RB ਨਹੀਂ\RP_NEG ਜੇ\CC_CCS ਕਾਲੜੇ\N_NN ਕੇਸ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3017	ਇਕ\QT_QTC ਰੋਜ਼\N_NN ਬਡਾਲੇ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਬੈਠੇ\V_VM_VF ,\RD_PUNC
+PBLTD3018	ਚਲੀ\V_VM_VF ਆਣ\V_VM_VF ਫਿਰੰਗੀ\N_NN ਦੀ\PSP ਬਾਤ\N_NN ਆਹੀ\V_VM_VF ।\RD_PUNC
+PBLTD3019	ਸਾਨੂੰ\PR_PRP ਆਖਿਆ\V_VM_VF ਹੀਰੇ\N_NNP ਤੇ\CC_CCD ਹੋਰ\JJ ਯਾਰਾਂ\N_NN ,\RD_PUNC
+PBLTD3020	ਜਿਨ੍ਹਾਂ\PR_PRP ਨਾਲ\PSP ਸਾਡੀ\PR_PRP ਮੁਲਾਕਾਤ\N_NN ਆਹੀ\V_VM_VF ।\RD_PUNC
+PBLTD3021	ਰਾਜ਼ੀ\JJ ਬਹੁਤ\JJ ਰਹਿੰਦੇ\V_VM_VF ਮੁਸਲਮਾਨ\N_NN ਹਿੰਦੂ\N_NN ,\RD_PUNC
+PBLTD3022	ਨਹੀਂ\RP_NEG ਮੋੜਦੇ\V_VM_VF ਸੂਰਮੇ\N_NN ਅੰਗ\N_NN ਮੀਆਂ\N_NN
+PBLTD3023	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਵਿਚ\PSP ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3024	ਕੋਈ\DM_DMQ ਨਹੀਂ\RP_NEG ਸੀ\V_VAUX ਦੂਸਰੀ\QT_QTO ਜ਼ਾਤ\N_NN ਆਹੀ\V_VM_VF ।\RD_PUNC
+PBLTD3025	ਏਹੁ\DM_DMD ਜੱਗ\N_NN ਸਰਾਇਂ\N_NN ਮੁਸਾਫਿਰਾਂ\N_NN ਦੀ\PSP ,\RD_PUNC
+PBLTD3026	ਏਥੇ\RB ਜ਼ੋਰ\N_NN ਵਾਲੇ\PSP ਕਈ\DM_DMQ ਆਇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3027	ਸ਼ਿਦਾਦ\N_NNP ,\RD_PUNC ਨਮਰੂਦ\N_NNP ,\RD_PUNC ਫਿਰਊਨ\N_NNP ਜੇਹੇ\JJ ,\RD_PUNC
+PBLTD3028	ਦਾਅਵੇ\N_NN ਬੰਨ\V_VM ਖ਼ੁਦਾਇ\N_NN ਕਹਾਇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3029	ਅਕਬਰ\N_NNP ਸ਼ਾਹ\N_NNP ਜੇਹੇ\JJ ਆਏ\V_VM_VF ਵਿਚ\PSP ਦਿੱਲੀ\N_NNP ,\RD_PUNC
+PBLTD3030	ਫੇਰੀ\RB ਵਾਂਗ\N_NN ਵਣਜਾਰਿਆਂ\N_NN ਪਾਇ\N_NN ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3031	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰਹੇਗਾ\V_VM_VF ਰੱਬ\N_NN ਸੱਚਾ\JJ ,\RD_PUNC
+PBLTD3032	ਵਾਜੇ\N_NN ਕੂੜ\N_NN ਦੇ\PSP ਕਈ\DM_DMQ ਵਜਾਇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3033	ਮਹਾਂਬਲੀ\JJ ਰਣਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਹੋਇਆ\V_VM_VF ਪੈਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3034	ਨਾਲ\PSP ਜ਼ੋਰ\N_NN ਦੇ\PSP ਮੁਲਖ\N_NN ਹਿਲਾਇ\V_VM ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3035	ਮੁਲਤਾਨ\N_NNP ,\RD_PUNC ਕਸ਼ਮੀਰ\N_NNP ,\RD_PUNC ਪਿਸ਼ੌਰ\N_NNP ,\RD_PUNC ਚੰਬਾ\N_NNP ,\RD_PUNC
+PBLTD3036	ਜੰਮੂ\N_NNP ,\RD_PUNC ਕਾਂਗੜਾ\N_NNP ਕੋਟ\N_NNP ,\RD_PUNC ਨਿਵਾਇ\N_NN ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3037	ਤਿੱਬਤ\N_NNP ਦੇਸ਼\N_NN ਲੱਦਾਖ\N_NNP ਤੇ\CC_CCD ਚੀਨ\N_NNP ਤੋੜੀਂ\V_VM_VF ,\RD_PUNC
+PBLTD3038	ਸਿੱਕਾ\N_NN ਆਪਣੇ\PR_PRF ਨਾਮ\N_NN ਚਲਾਇ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3039	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜਾਣ\V_VM_VF ਪਚਾਸ\QT_QTC ਬਰਸਾਂ\N_NN ,\RD_PUNC
+PBLTD3040	ਹੱਛਾ\JJ ਰੱਜ\N_NN ਕੇ\V_VM_VNF ਰਾਜ\N_NN ਕਮਾਇ\V_VM ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3041	ਜਦੋਂ\PR_PRL ਹੋਏ\V_VM_VF ਸਰਕਾਰ\N_NN ਦੇ\PSP ਸਾਸ\N_NN ਪੂਰੇ\JJ ,\RD_PUNC
+PBLTD3042	ਜਮ੍ਹਾ\N_NN ਹੋਏ\V_VM_VF ਨੀ\RP_INJ ਸਭ\DM_DMQ ਸਰਦਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3043	ਚੇਤ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਮਾਰਿਆ\V_VM_VF ਕੌਰ\N_NNP ਸਾਹਿਬ\N_NNP ,\RD_PUNC
+PBLTD3044	ਸ਼ੁਰੂ\N_NN ਹੋਈ\V_VM_VF ਦਰਬਾਰ\N_NN ਤਲਵਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3045	ਖੜਕ\N_NNP ਸਿੰਘ\N_NNP ਮਹਾਰਾਜ\N_NN ਨੇ\PSP ਢਾਹ\N_NN ਮਾਰੀ\V_VM_VF ,\RD_PUNC
+PBLTD3046	ਮੋਇਆ\JJ ਮੁੱਢ\N_NN ਕਦੀਮ\N_NN ਦਾ\PSP ਯਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3047	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅਸਾਂ\PR_PRP ਭੀ\RP_RPD ਨਾਲ\PSP ਮਰਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD3048	ਸਾਡਾ\PR_PRP ਇਹੋ\DM_DMD ਸੀ\V_VAUX ਕੌਲ\N_NN -\RD_PUNC ਕਰਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3049	ਮੇਰੇ\PR_PRP ਬੈਠਿਆਂ\V_VM_VF ਇਨ੍ਹਾਂ\DM_DMD ਨੇ\PSP ਖ਼ੂਨ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3050	ਇਹ\DM_DMD ਤਾਂ\RP_RPD ਗਰਕ\V_VM_VF ਜਾਵੇ\V_VM_VF ਦਰਬਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3051	ਪਿੱਛੇ\RB ਸਾਡੇ\PR_PRP ਵੀ\RP_RPD ਕੌਰ\N_NN ਨਾ\RP_NEG ਰਾਜ\N_NN ਕਰਸੀ\V_VM_VF ,\RD_PUNC
+PBLTD3052	ਅਸੀਂ\PR_PRP ਮਰਾਂਗੇ\V_VM_VF ਏਸ\DM_DMD ਨੂੰ\PSP ਮਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3053	ਨਾਹੱਕ\RB ਦਾ\PSP ਇਨ੍ਹਾਂ\DM_DMD ਨੇ\PSP ਖ਼ੂਨ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3054	ਇਹ\DM_DMD ਤਾਂ\RP_RPD ਮਰਨਗੇ\V_VM_VF ਸਭ\DM_DMQ ਸਿਰਦਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3055	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਧੁਰੋਂ\N_NN ਤਲਵਾਰ\N_NN ਵੱਗੀ\V_VM_VF ,\RD_PUNC
+PBLTD3056	ਸਭੇ\DM_DMQ ਕਤਲ\N_NN ਹੋਂਦੇ\V_VM_VF ਵਾਰੋ\N_NN ਵਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3057	ਖੜਕ\N_NNP ਸਿੰਘ\N_NNP ਮਹਾਰਾਜ\N_NN ਹੋਯਾ\V_VM_VF ਬਹੁਤ\JJ ਮਾਂਦਾ\JJ ,\RD_PUNC
+PBLTD3058	ਬਰਸ\N_NN ਇਕ\QT_QTC ਪਿੱਛੇ\RB ਵੱਸ\V_VM ਕਾਲ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3059	ਆਈ\V_VM_VF ਮੌਤ\N_NN ਨਾ\RP_NEG ਅਟਕਿਆ\V_VM_VF ਇਕ\QT_QTC ਘੜੀ\N_NN ,\RD_PUNC
+PBLTD3060	ਚੇਤ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਗਮ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਮੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3061	ਕੌਰ\N_NNP ਸਾਹਿਬ\N_NNP ਮਹਾਰਾਜੇ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਸੁਣ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3062	ਜ਼ਰਾ\RB ਗਮ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਨਾ\RP_NEG ਮੂਲ\N_NN ਰੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3063	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕਈਆਂ\DM_DMQ ਦੇ\PSP ਬੰਨ੍ਹਣੇ\V_VM_VF ਦਾ\PSP ,\RD_PUNC
+PBLTD3064	ਵਿਚ\PSP ਕੌਂਸਲ\N_NN ਦੇ\PSP ਕੌਰ\N_NNP ਨੂੰ\PSP ਫਿਕਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3065	ਖੜਕ\N_NNP ਸਿੰਘ\N_NNP ਮਹਾਰਾਜੇ\N_NN ਨੂੰ\PSP ਚੁੱਕ\V_VM ਲਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD3066	ਵੇਖੋ\V_VM_VF ਸਾੜਨੇ\V_VM_VF ਨੂੰ\PSP ਹੁਣ\RB ਲੈ\V_VM ਚੱਲੇ\V_VM_VF ।\RD_PUNC
+PBLTD3067	ਧਰਮ\N_NNP ਰਾਇ\N_NNP ਨੂੰ\PSP ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਖਬਰ\N_NN ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD3068	ਕੌਰ\N_NNP ਮਾਰਨੇ\V_VM_VF ਨੂੰ\PSP ਓਨ\N_NN ਦੂਤ\N_NN ਘੱਲੇ\V_VM_VF ।\RD_PUNC
+PBLTD3069	ਮਾਰੋ\N_NN ਮਾਰ\V_VM ਕਰਦੇ\V_VM_VF ਦੂਤ\N_NN ਉੱਠ\V_VM ਦੌੜੇ\V_VM_VF ,\RD_PUNC
+PBLTD3070	ਜਦੋਂ\PR_PRL ਹੋਏ\V_VM_VF ਨੀ\RP_INJ ਮੌਤ\N_NN ਦੇ\PSP ਆਇ\V_VM_VF ਹੱਲੇ\N_NN ।\RD_PUNC
+PBLTD3071	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਦੇਖ\V_VM ਰਜ਼ਾਇ\N_NN ਰੱਬ\N_NN ਦੀ\PSP ,\RD_PUNC
+PBLTD3072	ਊਧਮ\N_NNP ਸਿੰਘ\N_NNP ਤੇ\CC_CCD ਕੌਰ\N_NNP ਦੇ\PSP ਸਾਸ\N_NN ਚੱਲੇ\V_VM_VF ।\RD_PUNC
+PBLTD3073	ਇਕ\QT_QTC ਦੂਤ\N_NN ਨੇ\PSP ਆਇ\V_VM ਕੇ\V_VM_VNF ਫ਼ਿਕਰ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3074	ਪਲਕ\N_NN ਵਿਚ\PSP ਦਰਵਾਜ਼ੇ\N_NN ਦੇ\PSP ਆਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3075	ਜਿਹੜਾ\PR_PRL ਧੁਰੋਂ\RB ਦਰਗਾਹੋਂ\N_NN ਸੀ\V_VAUX ਹੁਕਮ\N_NN ਆਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3076	ਦੇਖੋ\V_VM_VF ਓਸ\DM_DMD ਨੇ\PSP ਖੂਬ\JJ ਬਜਾਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3077	ਅੰਦਰ\RB ਤਰਫ\N_NN ਹਵੇਲੀ\N_NN ਦੇ\PSP ਤੁਰੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3078	ਛੱਜਾ\N_NN ਢਾਹ\V_VM ਦੋਹਾਂ\QT_QTC ਉੱਤੇ\PSP ਪਾਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3079	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਊਧਮ\N_NNP ਸਿੰਘ\N_NNP ਥਾਇਂ\N_NN ਮੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3080	ਕੌਰ\N_NNP ਸਾਹਿਬ\N_NNP ਜੋ\PR_PRL ਸਹਿਕਦਾ\N_NN ਆਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3081	ਅੱਠ\QT_QTC ਪਹਿਰ\N_NN ਲੁਕਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਰੱਖਿਓ\V_VM_VF ਨੇ\PSP ,\RD_PUNC
+PBLTD3082	ਦਿਨ\N_NN ਦੂਜੇ\QT_QTO ਰਾਣੀ\N_NN ਚੰਦ\N_NNP ਕੌਰ\N_NNP ਆਈ\V_VM_VF ।\RD_PUNC
+PBLTD3083	ਖੜਗ\N_NNP ਸਿੰਘ\N_NNP ਦਾ\PSP ਮੂਲ\N_NN ਦਰੇਗ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD3084	ਕੌਰ\N_NNP ਸਾਹਿਬ\N_NNP ਤਾਈਂ\RB ਓਥੇ\RB ਰੋਣ\V_VM_VF ਆਈ\V_VM_VF ।\RD_PUNC
+PBLTD3085	ਮ੍ਰਿਤ\N_NN ਹੋਇਆ\V_VM_VF ਤੇ\CC_CCD ਕਰੋ\V_VM_VF ਸਸਕਾਰ\N_NN ਇਸ\PR_PRP ਦਾ\PSP ,\RD_PUNC
+PBLTD3086	ਰਾਣੀ\N_NN ਆਖਦੀ\V_VM_VF -\RD_PUNC ``\RD_PUNC ਤੁਸਾਂ\PR_PRP ਕਿਉਂ\PR_PRQ ਦੇਰ\N_NN ਲਾਈ\V_VM_VF ?\RD_PUNC ``\RD_PUNC
+PBLTD3087	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰੋਂਦੀ\V_VM_VF ਏ\RP_INJ ਚੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3088	ਜਿਹਦਾ\PR_PRL ਮੋਇਆ\V_VM_VF ਪੁਤ੍ਰ\N_NN ਸੋਹਣਾ\JJ ਸ਼ੇਰ\N_NN ਸਾਈ\N_NN ।\RD_PUNC
+PBLTD3089	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਕਿਸੇ\DM_DMQ ਜਾ\V_VM ਖਬਰ\N_NN ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3090	ਜਿਹਦਾ\PR_PRP ਮੋਇਆ\V_VM_VF ਭਤੀਜਾ\N_NN ਵੀਰ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3091	ਓਨ\PR_PRP ਤੁਰਤ\RB ਵਟਾਲਿਓਂ\N_NNP ਕੂਚ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3092	ਰਾਹੀਂ\N_NN ਆਂਵਦਾ\V_VM_VF ਘੱਤ\N_NN ਵਹੀਰ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3093	ਜਦੋਂ\PR_PRL ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਹੋਇਆ\V_VM_VF ਲਾਹੌਰ\N_NNP ਦਾਖਲ\N_NN ,\RD_PUNC
+PBLTD3094	ਅੱਖੀਂ\N_NN ਰੋਵੇ\V_VM_VF ਪਲੱਟਦਾ\V_VM_VF ਨੀਰ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3095	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਲੋਕ\N_NN ਦਿਲਬਰੀ\N_NN ਦੇਂਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3096	ਚੰਦ\N_NNP ਕੌਰ\N_NNP ਹੋਈ\V_VM_VF ਦਿਲਗੀਰ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3097	ਦਿੱਤੇ\V_VM_VF ਸੰਤਰੀ\JJ ਚਾਰ\QT_QTC ਖਲ੍ਹਾਰ\N_NN ਚੋਰੀਂ\N_NN ,\RD_PUNC
+PBLTD3098	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਅੰਦਰ\RB ਅੱਜ\RB ਆਵਣਾ\V_VM_VF ਜੇ\CC_CCS ,\RD_PUNC
+PBLTD3099	ਤੁਰਤ\RB ਫੂਕ\V_VM ਦੇਹੋ\QT_QTC ਤੁਸੀਂ\PR_PRP ਕਰਾਬੀਨਾਂ\N_NN ,\RD_PUNC
+PBLTD3100	ਪਲਕ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਮਾਰ\V_VM ਗਵਾਵਣਾ\V_VM_VINF ਜੇ\CC_CCS ।\RD_PUNC
+PBLTD3101	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਰਾਜੇ\N_NN ਨੇ\PSP ਖਬਰ\N_NN ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3102	ਅੰਦਰ\RB ਅੱਜ\RB ਹਜ਼ੂਰ\N_NN ਨਾ\RP_NEG ਆਵਣਾ\V_VM_VINF ਜੇ\CC_CCS ।\RD_PUNC
+PBLTD3103	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅਜੇ\RB ਨਾ\RP_NEG ਜ਼ੋਰ\N_NN ਤੇਰਾ\PR_PRP ,\RD_PUNC
+PBLTD3104	ਤੈਨੂੰ\PR_PRP ਅਸਾਂ\PR_PRP ਹੀ\RP_RPD ਅੰਤ\N_NN ਸਦਾਵਣਾ\V_VM_VINF ਜੇ\CC_CCS ।\RD_PUNC
+PBLTD3105	ਚੰਦ\N_NNP ਕੌਰ\N_NNP ਦੀ\PSP ਮੰਦੀ\JJ ਜੋ\PR_PRL ਨਜ਼ਰ\N_NN ਦੇਖੀ\V_VM_VF ,\RD_PUNC
+PBLTD3106	ਦਗੇਬਾਜ਼ੀਆਂ\N_NN ਹੋਰ\JJ ਬਥੇਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3107	ਓਨ\DM_DMD ਤੁਰਤ\RB ਲਾਹੌਰ\N_NNP ਥੀਂ\RP_RPD ਕੂਚ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3108	ਬੈਠਾ\V_VM_VF ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਵਿਚ\PSP ਮੁਕੇਰੀਆਂ\N_NNP ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3109	ਪਿੱਛੇ\RB ਰਾਜ\N_NN ਬੈਠੀ\V_VM_VF ਰਾਣੀ\N_NN ਚੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3110	ਦੇਂਦੇ\V_VM_VF ਆਇ\V_VM_VF ਮੁਸਾਹਿਬ\N_NN ਦਲੇਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3111	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕੌਰ\N_NNP ਨਾ\RP_NEG ਜੰਮਣਾ\V_VM_VINF ਏ\RP_INJ ,\RD_PUNC
+PBLTD3112	ਕਿਲ੍ਹੇ\N_NN ਕੋਟ\N_NN ਤੇ\CC_CCD ਰਈਅਤਾਂ\N_NN ਤੇਰੀਆਂ\PR_PRP ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3113	ਰਾਜੇ\N_NN ਲਸ਼ਕਰਾਂ\N_NN ਵਿਚ\PSP ਸਲਾਹ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3114	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਕਿਵੇਂ\PR_PRQ ਸਦਾਈਏ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3115	ਉਹ\PR_PRP ਹੈ\V_VAUX ਪੁਤ੍ਰ\N_NN ਸਰਕਾਰ\N_NN ਦਾ\PSP ਫਤੇ\JJ -\RD_PUNC ਜੰਗੀ\JJ ,\RD_PUNC
+PBLTD3116	ਗੱਦੀ\N_NN ਓਸ\N_NN ਨੂੰ\PSP ਚਾਇ\N_NN ਬਹਾਈਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3117	ਸਿੰਘਾਂ\N_NN ਆਖਿਆ\V_VM_VF ,\RD_PUNC ``\RD_PUNC ਰਾਜਾ\N_NN ਜੀ\RP_INJ !\RD_PUNC ਹੁਕਮ\N_NN ਤੇਰਾ\PR_PRP ``\RD_PUNC
+PBLTD3118	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਕਹੇਂ\V_VM_VF ਸੋ\CC_CCD ਫਤਹਿ\N_NN ਬੁਲਾਈਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3119	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਿਰਾਂ\N_NN ਦੀ\PSP ਲਾਇ\V_VM_VF ਬਾਜ਼ੀ\N_NN
+PBLTD3120	ਇਸੇ\RB ਵਖਤ\N_NN ਹੀ\RP_RPD ਤੁਰਤ\RB ਮੰਗਾਈਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3121	ਬਾਈਆਂ\QT_QTC ਦਿਨਾਂ\N_NN ਦੀ\PSP ਰਾਜੇ\N_NN ਨੇ\PSP ਲਈ\PSP ਰੁਖਸਤ\N_NN ,\RD_PUNC
+PBLTD3122	ਤਰਫ\N_NN ਜੰਮੂ\N_NNP ਦੀ\PSP ਹੋਏ\V_VM_VF ਨੀ\RP_INJ ਕੂਚ\N_NN ਡੇਰੇ\N_NN ,\RD_PUNC
+PBLTD3123	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਤਾਈਂ\RB ਲਿਖ\V_VM ਘੱਲੀ\V_VM_VF ਚਿੱਠੀ\N_NN ,\RD_PUNC
+PBLTD3124	ਮੈਂ\PR_PRP ਤਾਂ\RP_RPD ਰਫੂ\N_NN ਕਰ\V_VM ਛੱਡੇ\V_VM_VF ਨੀ\RP_INJ ਕੰਮ\N_NN ਤੇਰੇ\PR_PRP ।\RD_PUNC
+PBLTD3125	ਧੌਂਸਾ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਪਹੁੰਚ\N_NN ਲਾਹੌਰ\N_NNP ਜਲਦੀ\RB ,\RD_PUNC
+PBLTD3126	ਅਗੋਂ\RB ਆਇ\V_VM ਮਿਲਨ\V_VM_VF ਤੈਨੂੰ\PR_PRP ਸਭ\DM_DMQ ਡੇਰੇ\N_NN ।\RD_PUNC
+PBLTD3127	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮਿਲਣਗੇ\V_VM_VF ਸਭ\DM_DMQ ਅਫਸਰ\N_NN ,\RD_PUNC
+PBLTD3128	ਜਿਸ\PR_PRL ਵੇਲੜੇ\N_NN ਸ਼ਹਿਰ\N_NN ਦੇ\PSP ਜਾਇਂ\V_VM ਨੇੜੇ\RB ।\RD_PUNC
+PBLTD3129	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਰਾਜੇ\N_NN ਦਾ\PSP ਖ਼ਤ\N_NN ਪੜ੍\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3130	ਫ਼ੌਜਾਂ\N_NN ਤੁਰਤ\RB ਲਾਹੌਰ\N_NNP ਨੂੰ\PSP ਘੱਲੀਆਂ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3131	ਘੋੜੇ\N_NN ਹਿਣਕਦੇ\V_VM_VF ਤੇ\CC_CCD ਮਾਰੂ\N_NN ਵੱਜਦੇ\V_VM_VF ਨੀ\RP_INJ ,\RD_PUNC
+PBLTD3132	ਧੂੜਾਂ\N_NN ਉੱਡ\V_VM ਕੇ\V_VM_VNF ਘਟਾ\N_NN ਹੋ\V_VM ਚੱਲੀਆਂ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3133	ਆਵੇ\N_NN ਬੁੱਧੂ\N_NN ਦੇ\PSP ਪਾਸ\RB ਨੀ\RP_NEG ਲਾਏ\V_VM_VF ਡੇਰੇ\N_NN ,\RD_PUNC
+PBLTD3134	ਫ਼ੌਜਾਂ\N_NN ਲੱਥੀਆਂ\V_VM_VF ਆਣ\V_VM_VF ਇਕੱਲੀਆਂ\JJ ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3135	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਆਣ\V_VM_VF ਜਾਂ\CC_CCD ਰਥ\N_NN ਪਹੁੰਚੇ\V_VM_VF ,\RD_PUNC
+PBLTD3136	ਗੱਲਾਂ\N_NN ਸ਼ਹਿਰ\N_NN ਲਾਹੌਰ\N_NNP ਵਿਚ\PSP ਚੱਲੀਆਂ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3137	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਫਿਰ\RB ਬੁੱਧੂ\N_NN ਦੇ\PSP ਆਵਿਓਂ\V_VM_VF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3138	ਕਰ\N_NNP ਤੁਰਮ\N_NNP ਲਾਹੌਰ\N_NNP ਵੱਲ\PSP ਧਾਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3139	ਫਲ੍ਹੇ\N_NN ਪੜਤਲਾਂ\N_NN ਦੇ\PSP ਅੱਗੋਂ\RB ਪਾੜ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3140	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਤੁਰਤ\RB ਲੰਘਾਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3141	ਓਸ\DM_DMD ਬਲੀ\JJ ਸ਼ਹਿਜ਼ਾਦੇ\N_NN ਦਾ\PSP ਤੇਜ\N_NN ਭਾਰੀ\JJ ,\RD_PUNC
+PBLTD3142	ਜਿਸ\PR_PRL ਕਿਲ੍ਹੇ\N_NN ਨੂੰ\PSP ਮੋਰਚਾ\N_NN ਲਾਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3143	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਹਾਰ\V_VM ਕੇ\V_VM_VNF ਵਿਚਲਿਆਂ\N_NN ਨੇ\PSP ,\RD_PUNC
+PBLTD3144	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਤਖਤ\N_NN ਬਿਠਾਇਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3145	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਗੱਦੀ\N_NN ਉੱਤੇ\PSP ਆਣ\V_VM_VF ਬੈਠਾ\V_VM_VF ,\RD_PUNC
+PBLTD3146	ਰਾਣੀ\N_NN ਕੈਦ\N_NN ਕਰਕੇ\V_VM_VNF ਕਿਲ੍ਹੇ\N_NN ਵਿਚ\PSP ਪਾਈ\V_VM_VF ।\RD_PUNC
+PBLTD3147	ਘਰ\N_NN ਬੈਠਿਆਂ\V_VM_VNF ਰੱਬ\N_NN ਨੇ\PSP ਰਾਜ\N_NN ਦਿੱਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3148	ਉਹ\DM_DMD ਤਾਂ\RP_RPD ਮੱਲ\N_NN ਬੈਠਾ\V_VM_VF ਸਾਰੀ\DM_DMQ ਪਾਦਸ਼ਾਹੀ\N_NN ।\RD_PUNC
+PBLTD3149	ਬਰਸ\N_NN ਹੋਇਆ\V_VM_VF ਜਦ\CC_CCS ਓਸ\DM_DMD ਨੂੰ\PSP ਕੈਦ\N_NN ਹੋਇਆਂ\V_VM_VNF ,\RD_PUNC
+PBLTD3150	ਰਾਣੀ\N_NN ਦਿਲ\N_NN ਦੇ\PSP ਵਿਖੇ\PSP ਜੋ\PR_PRL ਜਿੱਚ\N_NN ਆਹੀ\V_VM_VF ।\RD_PUNC
+PBLTD3151	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਚੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3152	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਗਲੋਂ\N_NN ਬਲਾਇ\N_NN ਲਾਹੀ\V_VM_VF ।\RD_PUNC
+PBLTD3153	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਰੱਬ\N_NN ਨੇ\PSP ਰਾਜ\N_NN ਦਿੱਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3154	ਲਿਆ\V_VM_VF ਖੋਹ\V_VM ਲਾਹੌਰ\N_NNP ਜੋ\PR_PRL ਰਾਣੀਆਂ\N_NN ਥੀਂ\RP_RPD ।\RD_PUNC
+PBLTD3155	ਸੰਧਾਵਾਲੀਆਂ\N_NN ਦੇ\PSP ਦੇਸ਼ੋਂ\N_NN ਪੈਰ\N_NN ਖਿਸਕੇ\V_VM_VF ,\RD_PUNC
+PBLTD3156	ਜਾ\V_VM ਕੇ\V_VM_VNF ਪੁੱਛ\V_VM ਲੈ\V_VM ਰਾਹ\N_NN ਪਧਾਣੀਆਂ\N_NN ਥੀਂ\RP_RPD ।\RD_PUNC
+PBLTD3157	ਮੁੜ\V_VM ਕੇ\V_VM_VNF ਫੇਰ\RB ਅਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਲਈ\PSP ਬਾਜ਼ੀ\N_NN ,\RD_PUNC
+PBLTD3158	ਪੈਦਾ\N_NN ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ਅਸਲ\JJ ਸਵਾਣੀਆਂ\N_NN ਥੀਂ\RP_RPD ।\RD_PUNC
+PBLTD3159	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜੰਮਿਆ\V_VM_VF ਅਲੀ\N_NNP ਅਕਬਰ\N_NNP ,\RD_PUNC
+PBLTD3160	ਆਂਦਾ\V_VM_VF ਬਾਪ\N_NN ਨੂੰ\PSP ਕਾਲਿਆਂ\N_NN ਪਾਣੀਆਂ\N_NN ਥੀਂ\RP_RPD ।\RD_PUNC
+PBLTD3161	ਜਿਨ੍ਹਾਂ\PR_PRP ਗੋਲੀਆਂ\N_NN ਨੇ\PSP ਮਾਰੀ\V_VM_VF ਚੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3162	ਉਹਨਾਂ\PR_PRP ਤਾਈਂ\PSP ਹਜ਼ੂਰ\N_NN ਚਾ\N_NN ਸੱਦਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3163	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਬੁੱਘੇ\N_NN ਨੂੰ\PSP ਹੁਕਮ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3164	ਓਹਨਾਂ\PR_PRP ਕਿਲੇਓਂ\N_NN ਬਾਹਰ\RB ਚਾ\N_NN ਕੱਢਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3165	ਰਾਜੇ\N_NN ਸਿੰਘਾਂ\N_NN ਦਾ\PSP ਗਿਲਾ\N_NN ਮਿਟਾਵਣੇ\V_VM_VNF ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3166	ਨੱਕ\N_NN ਕੰਨ\N_NN ਚਾ\N_NN ਓਹਨਾਂ\PR_PRP ਦਾ\PSP ਵੱਢਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3167	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਲਾਹਿ\V_VM ਕੇ\V_VM_VNF ਸਭ\DM_DMQ ਜੇਵਰ\N_NN ,\RD_PUNC
+PBLTD3168	ਕਾਲਾ\JJ ਮੂੰਹ\N_NN ਕਰ\V_VM ਕੇ\V_VM_VNF ਫੇਰ\RB ਛੱਡਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3169	ਬਰਸ\N_NN ਹੋਇਆ\V_VM_VF ਜਾਂ\CC_CCD ਹਾਜ਼ਰੀ\N_NN ਲੈਣ\V_VM_VF ਬਦਲੇ\N_NN ,\RD_PUNC
+PBLTD3170	ਡੇਰਾ\N_NN ਸ਼ਾਹ\N_NN ਬਿਲਾਵਲ\N_NN ਲਗਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3171	ਅਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਗੁੱਝੀ\JJ ਕਰਾਬੀਨ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3172	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਆਣ\V_VM_VF ਦਿਖਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3173	ਸਿੱਧੀ\JJ ਜਦੋਂ\PR_PRL ਸ਼ਹਿਜ਼ਾਦੇ\N_NN ਨੇ\PSP ਨਜ਼ਰ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3174	ਜਲਦੀ\RB ਨਾਲ\PSP ਚਾ\N_NN ਕਲਾ\N_NN ਦਬਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3175	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜ਼ਿਮੀਂ\N_NN ਤੇ\PSP ਪਿਆ\V_VM_VF ਤੜਫੇ\V_VM_VF ,\RD_PUNC
+PBLTD3176	ਤੇਗ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਸੀਸ\N_NN ਉਡਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3177	ਲਹਿਣਾ\N_NNP ਸਿੰਘ\N_NNP ਜੋ\PR_PRL ਬਾਗ\N_NN ਦੀ\PSP ਤਰਫ\RB ਆਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3178	ਅੱਗੇ\RB ਕੌਰ\N_NNP ਜੋ\PR_PRL ਹੋਮ\N_NN ਕਰਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3179	ਲਹਿਣਾ\N_NNP ਸਿੰਘ\N_NNP ਦੀ\PSP ਮੰਦੀ\JJ ਜੋ\PR_PRL ਨਜ਼ਰ\N_NN ਦੇਖੀ\V_VM_VF ,\RD_PUNC
+PBLTD3180	ਅੱਗੋਂ\RB ਵਾਸਤਾ\N_NN ਰੱਬ\N_NN ਦਾ\PSP ਪਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3181	ਮੈਂ\PR_PRP ਤਾਂ\RP_RPD ਕਰਾਂਗਾ\V_VM_VF ਬਾਬਾ\N_NN ਜੀ\RP_INJ ਟਹਿਲ\N_NN ਤੇਰੀ\PR_PRP ,\RD_PUNC
+PBLTD3182	ਹੱਥ\N_NN ਜੋੜ\V_VM ਕੇ\V_VM_VNF ਸੀਸ\N_NN ਨਿਵਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3183	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਓਸ\DM_DMD ਨਾ\RP_NEG ਇਕ\QT_QTC ਮੰਨੀ\V_VM_VF ,\RD_PUNC
+PBLTD3184	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਪ੍ਰਤਾਪ\N_NNP ਸਿੰਘ\N_NNP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3185	ਸੰਧਾਵਾਲੀਏ\N_NN ਸ਼ਹਿਰ\N_NN ਨੂੰ\PSP ਉੱਠ\N_NN ਧਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD3186	ਰਾਜਾ\N_NN ਮਿਲਿਆ\V_VM_VF ਤਾਂ\RB ਕਹਿਆ\V_VM_VF ਅਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ,\RD_PUNC
+PBLTD3187	ਸ਼ੇਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਅਸੀਂ\PR_PRP ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD3188	ਗੱਲੀਂ\N_NN ਲਾਇ\V_VM ਕੇ\V_VM_VNF ਤੇ\CC_CCD ਕਿਲੇ\N_NN ਵਿਚ\PSP ਆਂਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3189	ਕੈਸੇ\PR_PRQ ਅਕਲ\N_NN ਦੇ\PSP ਉਨ੍ਹਾਂ\DM_DMD ਨੇ\PSP ਪੇਚ\N_NN ਪਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD3190	ਕਿੱਥੇ\PR_PRQ ਮਾਰੀ\V_VM_VF ਸੀ\V_VAUX ਰਾਜਾ\N_NN ਜੀ\RP_INJ !\RD_PUNC ਚੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ?\RD_PUNC
+PBLTD3191	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਪੁੱਛਣੇ\V_VM_VNF ਉਨ੍ਹਾਂ\DM_DMD ਚਾਹੇ\V_VM_VF ।\RD_PUNC
+PBLTD3192	ਗੁਰਮੁਖ\N_NNP ਸਿੰਘ\N_NNP ਗਿਆਨੀ\N_NNP ਨੇ\PSP ਮਤ\N_NN ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3193	ਤੁਸਾਂ\PR_PRP ਇਹ\DM_DMD ਕਿਉਂ\PR_PRQ ਜੀਂਵਦਾ\JJ ਛੱਡਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3194	ਮਗਰੋਂ\RB ਮਹਿਰ\N_NNP ਘਸੀਟਾ\N_NNP ਭੀ\RP_RPD ਬੋਲਿਆ\V_VM_VF ਈ\RP_RPD ,\RD_PUNC
+PBLTD3195	ਅੱਗੋਂ\RB ਸੁਖਨ\N_NNP ਸਲਾਹੀ\N_NNP ਨੇ\PSP ਕੱਢਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3196	ਇਕ\QT_QTC ਅੜਦਲੀ\N_NN ਨੇ\PSP ਕਰਾਬੀਨ\N_NN ਮਾਰੀ\V_VM_VF ,\RD_PUNC
+PBLTD3197	ਰੱਸਾ\N_NN ਆਸ\N_NN -\RD_PUNC ਉਮੈਦ\N_NN ਦਾ\PSP ਵੱਢਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3198	ਦਲੀਪ\N_NNP ਸਿੰਘ\N_NNP ਤਾਈਂ\PSP ਫੇਰ\RB ਸੱਦਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3199	ਪਹਿਲਾਂ\RB ਰਾਜੇ\N_NN ਦੇ\PSP ਖ਼ੂਨ\N_NN ਦਾ\PSP ਲਾਇ\V_VM ਟਿੱਕਾ\N_NN ,\RD_PUNC
+PBLTD3200	ਪਿੱਛੋਂ\RB ਦਿੱਤੀਆਂ\V_VM_VNF ਸੱਤ\QT_QTC ਪ੍ਰਦੱਖਣਾਂ\V_VM ਈ\RP_RPD ।\RD_PUNC
+PBLTD3201	`\RD_PUNC ਤੇਰੇ\PR_PRP ਵਾਸਤੇ\PSP ਹੋਏ\V_VM_VF ਨੀ\RP_INJ ਸਭ\DM_DMQ ਕਾਰੇ\N_NN ,\RD_PUNC
+PBLTD3202	ਅੱਗੇ\RB ਸਾਹਿਬ\N_NN ਸੱਚੇ\JJ ਤੈਨੂੰ\PR_PRP ਰੱਖਣਾ\V_VM_VINF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3203	ਸਾਨੂੰ\PR_PRP ਘੜੀ\N_NN ਦੀ\PSP ਕੁਝ\DM_DMQ ਉਮੈਦ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD3204	ਅੱਜ\RB ਰਾਤ\N_NN ਪ੍ਰਸਾਦ\N_NN ਕਿਨ\PR_PRQ ਚੱਖਣਾ\V_VM_VINF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3205	ਤੇਰੀ\PR_PRP ਵਲ\RB ਜੋ\PR_PRL ਕਰੇਗਾ\V_VM_VF ਨਜ਼ਰ\N_NN ਮੈਲੀ\JJ ,\RD_PUNC
+PBLTD3206	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕਰਾਂਗੇ\V_VM_VF ਸੱਖਣਾ\JJ ਈ\RP_RPD ।\RD_PUNC `\RD_PUNC
+PBLTD3207	ਹੀਰਾ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਰਾਜੇ\N_NN ਦੀ\PSP ਖ਼ਬਰ\N_NN ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD3208	ਸੂਬੇਦਾਰਾਂ\N_NN ਨੂੰ\PSP ਸੱਦ\V_VM ਕੇ\V_VM_VNF ਤੁਰਤ\RB ਚੜ੍ਹਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3209	ਧੌਂਸਾ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਪਹੁਤਾ\V_VM ਲਾਹੌਰ\N_NNP ਜਲਦੀ\RB ,\RD_PUNC
+PBLTD3210	ਗੁੱਸੇ\JJ ਨਾਲ\PSP ਸੀ\V_VAUX ਸ਼ਹਿਰ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਵੜਿਆ\V_VM_VF
+PBLTD3211	ਰਾਜਪੂਤ\N_NN ਉਹ\PR_PRP ਡੋਗਰਾ\N_NN ਖੂਬ\RB ਚੰਗਾ\JJ ,\RD_PUNC
+PBLTD3212	ਸੰਧਾਵਾਲੀਆਂ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਖੂਬ\RB ਲੜਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3213	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਮੁਇਆ\N_NN ਲੱਧਾ\N_NN ,\RD_PUNC
+PBLTD3214	ਲਹਿਣਾ\N_NNP ਸਿੰਘ\N_NNP ਜੋ\PR_PRL ਜੀਂਵਦਾ\JJ ਆਇ\V_VM ਫੜਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3215	ਦੋਹਾਂ\QT_QTC ਸਿੰਘਾਂ\N_NN ਤੋਂ\PSP ਬਹੁਤ\RB ਸੂਰਮੱਤ\N_NN ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD3216	ਖੰਡਾ\N_NN ਵਿਚ\PSP ਦਰਬਾਰ\N_NN ਵਜਾਇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3217	ਧਿਆਨ\N_NNP ਸਿੰਘ\N_NNP ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਨੂੰ\PSP ਵਧਣ\V_VM_VF ਦੇਂਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3218	ਸਾਰੇ\DM_DMQ ਮੁਲਕ\N_NN ਦੀ\PSP ਕਲਹ\N_NN ਮਿਟਾਇ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3219	ਰਾਜਾ\N_NN ਕਰਦਾ\V_VM_VF ਸੀ\V_VAUX ਮੁਲਕ\N_NN ਦੀ\PSP ਬਾਦਸ਼ਾਹੀ\N_NN ,\RD_PUNC
+PBLTD3220	ਪਿੱਛੇ\RB ਰਹਿੰਦਿਆਂ\V_VM_VNF ਨੂੰ\PSP ਵਖਤ\N_NN ਪਾਇ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3221	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਮੁਏ\N_NN ਦੋਵੇਂ\QT_QTC ,\RD_PUNC
+PBLTD3222	ਚੰਗੇ\JJ ਸੂਰਮੇ\N_NN ਹੱਥ\N_NN ਦਿਖਾਇ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBLTD3223	ਦੁੱਲੇ\N_NNP ਭੱਟੀ\N_NNP ਨੂੰ\PSP ਗਾਂਵਦਾ\V_VM_VF ਜਗ\N_NN ਸਾਰਾ\DM_DMQ ,\RD_PUNC
+PBLTD3224	ਜੈਮਲ\N_NNP ਫੱਤੇ\N_NNP ਦੀਆਂ\PSP ਵਾਰਾਂ\N_NN ਸਾਰੀਆਂ\DM_DMQ ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3225	ਮੀਰ\N_NNP ਦਾਦ\N_NNP ਚੌਹਾਨ\N_NNP ਦੇ\PSP ਸਤਰ\N_NN ਅੰਦਰ\RB ,\RD_PUNC
+PBLTD3226	ਮੋਈਆਂ\V_VM_VNF ਰਾਣੀਆਂ\N_NN ਖਾਇ\V_VM ਕਟਾਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3227	ਸੰਧਾਵਾਲੀਆਂ\N_NN ਜੇਹੀ\JJ ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3228	ਤੇਗਾਂ\N_NN ਵਿਚ\PSP ਦਰਬਾਰ\N_NN ਦੇ\PSP ਮਾਰੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3229	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮੁਏ\V_VM_VF ਨੀ\RP_INJ ਬੀਰ\N_NN ਬਣਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3230	ਜਾਨਾਂ\N_NN ਕੀਤੀਆਂ\V_VM_VNF ਨਹੀਂ\RP_NEG ਪਿਆਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3231	ਪਿੱਛੋਂ\RB ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਸਭਨਾਂ\DM_DMQ ਨੂੰ\PSP ਫ਼ਿਕਰ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3232	ਸੋਚੀਂ\N_NN ਪਏ\V_VM_VF ਨੀ\RP_INJ ਸਭ\DM_DMQ ਸਿਰਦਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3233	ਅੱਗੇ\RB ਰਾਜ\N_NN ਆਇਆ\V_VM_VF ਹੱਥ\N_NN ਬੁਰਛਿਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD3234	ਜੈਸੇ\RP_INTF ਚੜ੍ਹੇ\V_VM_VF ਆਕਾਸ਼\N_NN ਪਤੰਗ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3235	ਗੱਦੀ\N_NN ਵਾਲਿਆਂ\PSP ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਬਹਿਣ\V_VM_VF ਦੇਂਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3236	ਹੋਰ\JJ ਕੌਣ\PR_PRQ ਕਿਸ\DM_DMQ ਦੇ\PSP ਪਾਣੀਹਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3237	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਹੋਈ\V_VM_VF ਹੁਣ\RB ਮੌਤ\N_NN ਸਸਤੀ\JJ ,\RD_PUNC
+PBLTD3238	ਖ਼ਾਲੀ\JJ ਨਹੀਂ\RP_NEG ਜਾਣਾ\V_VM_VINF ਕੋਈ\DM_DMQ ਵਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3239	ਲਹਿਣਾ\N_NNP ਸਿੰਘ\N_NNP ਸਿਰਦਾਰ\N_NN ਮਜੀਠੀਆ\N_NN ਸੀ\V_VAUX ,\RD_PUNC
+PBLTD3240	ਵੱਡਾ\JJ ਅਕਲ\N_NN ਦਾ\PSP ਕੋਟ\N_NN ਕਮਾਲ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3241	ਮਹਾਂਬਲੀ\JJ ਸਿਰਦਾਰ\N_NN ਸੀ\V_VAUX ਪੰਥ\N_NN ਵਿਚੋਂ\PSP ,\RD_PUNC
+PBLTD3242	ਡਿੱਠੀ\N_NN ਬਣੀ\V_VM_VF ਕੁਚਲਣੀ\JJ ਚਾਲ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3243	ਦਿਲ\N_NN ਆਪਣੇ\PR_PRF ਬੈਠ\V_VM ਵਿਚਾਰ\N_NN ਕਰਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3244	ਏਥੇ\RB ਕਈਆਂ\QT_QTF ਦੇ\PSP ਹੋਣਗੇ\V_VM_VF ਕਾਲ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3245	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਤੁਰ\V_VM ਗਿਆ\V_VM_VF ਤੀਰਥਾਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3246	ਸਾਰਾ\DM_DMQ ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਦੰਗ\N_NN ਦਵਾਲ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3247	32\QT_QTC ਦਲੀਪ\N_NNP ਸਿੰਘ\N_NNP ਗੱਦੀ\N_NN ਉੱਤੇ\PSP ਰਹੇ\V_VM_VF ਬੈਠਾ\V_VM_VF ,\RD_PUNC
+PBLTD3248	ਹੀਰਾ\N_NNP ਸਿੰਘ\N_NNP ਜੋ\PR_PRL ਰਾਜ\N_NN ਕਮਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD |\RD_PUNC
+PBLTD3249	ਜੱਲਹਾ\N_NNP ਓਸ\DM_DMD ਦਾ\PSP ਖਾਸ\JJ ਵਜ਼ੀਰ\N_NN ਹੈ\V_VAUX ਸੀ\V_VAUX ,\RD_PUNC
+PBLTD3250	ਖ਼ਾਤਰ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਲਿਆਂਵਦਾ\V_VM_VF ਈ\RP_RPD |\RD_PUNC
+PBLTD3251	ਅੰਦਰ\RB ਬਾਹਰ\RB ਸਰਕਾਰ\N_NN ਨੂੰ\PSP ਪਿਆ\V_VM_VF ਘੂਰੇ\V_VM_VF ,\RD_PUNC
+PBLTD3252	ਕਹੇ\V_VM_VF ਕੁਝ\DM_DMQ ਤੇ\CC_CCD ਕੁਝ\DM_DMQ ਕਮਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD |\RD_PUNC
+PBLTD3253	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਪੰਥ\N_NN ਨੂੰ\PSP ਦੁੱਖ\N_NN ਦੇਂਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3254	ਹੀਰਾ\N_NNP ਸਿੰਘ\N_NNP ਦਾ\PSP ਨਾਸ\N_NN ਕਰਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD |\RD_PUNC
+PBLTD3255	ਸਿੰਘਾ\N_NN ਲਿਖਿਆ\V_VM_VF ਖ਼ਤ\N_NN ਸੁਚੇਤ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3256	ਬੁਰਾ\JJ ਕਰਨ੍ਹਾਰਾ\N_NN ਜੱਲਹਾ\N_NN ਠੀਕਦਾ\N_NN ਈ\RP_RPD |\RD_PUNC
+PBLTD3257	ਜਲਦੀ\RB ਪਹੁੰਚ\V_VM ਵਜ਼ੀਰ\N_NN ਬਣਾ\V_VM_VF ਲਈਏ\V_VM_VF |\RD_PUNC
+PBLTD3258	ਤੈਨੂੰ\PR_PRP ਖਾਲਸਾ\N_NN ਪਿਆ\V_VM_VF ਉਡਿਕਦਾ\V_VM_VF ਈ\RP_RPD |\N_NN
+PBLTD3259	ਅਕਸਰ\RB ਰਾਜ\N_NN ਪਿਆਰੇ\N_NN ਨੀ\RP_RPD ਰਾਜਿਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3260	ਹੀਰਾ\N_NNP ਸਿੰਘ\N_NNP ਤਾਂ\RP_RPD ਪੁਤ੍ਰ\N_NN ਸ਼ਰੀਕ\N_NN ਦਾ\PSP ਈ\RP_RPD ।\RD_PUNC
+PBLTD3261	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜੱਲ੍ਹੇ\N_NN ਦਾ\PSP ਨੱਕ\N_NN ਵੱਢੋ\V_VM_VF ,\RD_PUNC
+PBLTD3262	ਭੱਜ\V_VM ਜਾਏਗਾ\V_VM_VF ਮਾਰਿਆ\V_VM_VF ਲੀਕ\N_NN ਦਾ\PSP ਈ\RP_RPD ।\RD_PUNC
+PBLTD3263	ਜਿਸ\PR_PRL ਵੇਲੜੇ\N_NN ਰਾਜੇ\N_NN ਨੇ\PSP ਖ਼ਤ\N_NN ਪੜਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD3264	ਜਾਮੇ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਮੂਲ\N_NN ਸਮਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3265	ਵੱਗਾ\N_NN ਤੱਗ\N_NN ਲਾਹੌਰ\N_NNP ਨੂੰ\PSP ਅਸਾਂ\PR_PRP ਜਾਣਾ\V_VM_VINF ,\RD_PUNC
+PBLTD3266	ਡੇਰੇ\N_NN ਕਾਠੀਆਂ\N_NN ਚਾਇ\N_NN ਪਵਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3267	ਮੰਜੀ\N_NN ਕਾਕੜੀ\N_NN ਫੌਜ਼\N_NN ਉਤਾਰ\V_VM ਸਾਰੀ\DM_DMQ ,\RD_PUNC
+PBLTD3268	ਬਾਈ\N_NN ਆਦਮੀ\N_NN ਨਾਲ\PSP ਲੈ\V_VM ਆਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3269	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਆ\V_VM ਲਾਹੌਰ\N_NNP ਪਹੁੰਚਾ\V_VM_VF ,\RD_PUNC
+PBLTD3270	ਮੀਆਂਮੀਰ\N_NNP ਡੇਰਾ\N_NN ਆਣ\V_VM_VF ਲਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3271	ਸਭੇ\DM_DMQ ਪੜਤਲਾਂ\N_NN ਤੁਰਤ\RB ਲਪੇਟੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3272	ਸਿੰਘਾਂ\N_NN ਆਖਿਆ\V_VM_VF ,\RD_PUNC ਰਾਜਾ\N_NN ਜੀ\RP_INJ !\RD_PUNC ਜਾਓ\V_VM_VF ਮੁੜ\V_VM_VF ਕੇ\V_VM_VNF
+PBLTD3273	ਫ਼ੌਜ਼ਾਂ\N_NN ਰਹਿੰਦੀਆਂ\V_VM_VNF ਨਹੀਂ\RP_NEG ਸਮੇਟੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3274	`\RD_PUNC ਸਿੰਘੋ\N_NN !\RD_PUNC ਜੀਉਂਦੇ\JJ ਜਾਣ\V_VM_VF ਮੁਹਾਲ\N_NN ਜੰਮੂ\N_NNP ,\RD_PUNC
+PBLTD3275	ਤਾਅਨੇ\N_NN ਦੇਣ\V_VM_VF ਰਾਜਪੂਤਾਂ\N_NN ਦੀਆਂ\PSP ਬੇਟੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3276	`\RD_PUNC ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਆਇਆ\V_VM_VF ਵਜ਼ੀਰੀ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC `\RD_PUNC
+PBLTD3277	ਆਖਣ\V_VM_VF ਸਭ\DM_DMQ ਪਹਾੜ\N_NN ਡੁਮੇਟੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3278	ਤੋਪਾਂ\N_NN ਜੋੜ\V_VM ਕੇ\V_VM_VNF ਪੜਤਲਾਂ\N_NN ਨਾਲ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3279	ਚਾਚੇ\N_NN ਸਕੇ\JJ ਉੱਤੇ\PSP ਹੀਰਾ\N_NNP ਸਿੰਘ\N_NNP ਚੜਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3280	ਜਦੋਂ\PR_PRL ਫੌਜ\N_NN ਨੇ\PSP ਘੱਤਿਆ\V_VM_VF ਆਣ\V_VM_VF ਘੇਰਾ\N_NN ,\RD_PUNC
+PBLTD3281	ਖੰਡਾ\N_NN ਸਾਰ\N_NN ਦਾ\PSP ਖਿੱਚ\V_VM ਕੇ\V_VM_VNF ਹੱਥ\N_NN ਫੜਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3282	ਭੀਮ\N_NNP ਸਿੰਘ\N_NNP ਤੇ\CC_CCD ਕੇਸਰੀ\N_NNP ਸਿੰਘ\N_NNP ਸਾਹਵੇਂ\N_NN ,\RD_PUNC
+PBLTD3283	ਲੈ\V_VM ਕੇ\V_VM_VNF ਦੋਹਾਂ\QT_QTF ਨੂੰ\PSP ਕਟਕ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਵੜਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3284	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਟਿੱਕੇ\N_NN ਦੀ\PSP ਲਾਜ\N_NN ਰੱਖੀ\V_VM_VF ,\RD_PUNC
+PBLTD3285	ਮੱਥੇ\N_NN ਸਾਹਮਣੇ\RB ਹੋਇ\V_VM ਕੇ\V_VM_VNF ਖੂਬ\RB ਲੜਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3286	ਸਿੰਘ\N_NN ਜੱਲ੍ਹੇ\N_NN ਦੇ\PSP ਹੱਥ\N_NN ਤੋਂ\PSP ਤੰਗ\N_NN ਆਏ\V_VM_VF ,\RD_PUNC
+PBLTD3287	ਦਿਲਾਂ\N_NN ਵਿਚ\PSP ਕਚੀਚੀਆਂ\N_NN ਖਾਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3288	ਅੱਗੇ\RB ਸੱਤ\QT_QTC ਤੇ\CC_CCD ਅੱਠ\QT_QTC ਸੀ\V_VAUX ਤਲਬ\N_NN ਸਾਰੀ\DM_DMQ ,\RD_PUNC
+PBLTD3289	ਬਾਰਾਂ\QT_QTC ਜ਼ੋਰ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਕਰਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3290	ਕਈ\DM_DMQ ਆਖਦੇ\V_VM_VF ਇਨਾਮ\N_NN ਸਗਵਾਂ\N_NN ,\RD_PUNC
+PBLTD3291	ਲੈ\V_VM ਬੁਤਕੀਆਂ\N_NN ਗਲੇ\N_NN ਚਾ\PSP ਪਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3292	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜੱਲ੍ਹੇ\N_NN ਦੇ\PSP ਮਾਰਨੇ\V_VM_VF ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3293	ਪੰਚ\N_NN ਕੌਂਸਲੀ\N_NN ਚਾਇ\N_NN ਬਣਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3294	ਹੋਇਆ\V_VM_VF ਹੁਕਮ\N_NN ਜੋ\PR_PRL ਬਹੁਤ\RB ਮਹਾਵਤਾਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3295	ਹੁੰਦੇ\V_VM_VF ਸੁਇਨੇ\N_NN ਦੇ\PSP ਚਾਇ\N_NN ਕਸਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3296	ਤਰਫ਼\RB ਜੰਮੂ\N_NNP ਦੀ\PSP ਦੇਇ\N_NN ਮਰੋੜ\N_NN ਚੱਲੇ\V_VM_VF ,\RD_PUNC
+PBLTD3297	ਸਾਨੂੰ\PR_PRP ਆਇ\V_VM ਕੇ\V_VM_VNF ਸਿੰਘ\N_NN ਮਨਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3298	ਘੇਰੇ\V_VM ਅਜ਼ਲ\N_NNP ਦੇ\PSP ਅਕਲ\N_NN ਨਾ\RP_NEG ਜ਼ਰਾ\RB ਆਈ\V_VM_VF ,\RD_PUNC
+PBLTD3299	ਬੁਰਾ\JJ ਆਪਣਾ\PR_PRF ਆਪ\PR_PRF ਕਰਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3300	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਿੰਘ\N_NN ਲੈ\V_VM ਮਿਲੇ\V_VM_VF ਤੋਪਾਂ\N_NN ,\RD_PUNC
+PBLTD3301	ਅੱਗੋਂ\RB ਗੋਲਿਆਂ\N_NN ਨਾਲ\PSP ਉਡਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3302	ਹੀਰਾ\N_NNP ਸਿੰਘ\N_NNP ਤੇ\CC_CCD ਜੱਲ੍ਹੇ\N_NNP ਨੂੰ\PSP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3303	ਜਵਾਹਰ\N_NNP ਸਿੰਘ\N_NNP ਵਜ਼ੀਰ\N_NN ਬਣਾਇਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3304	ਤਰਫ਼\RB ਜੰਮੂ\N_NNP ਪਹਾੜ\N_NN ਦੀ\PSP ਹੋ\V_VM ਚੱਲੇ\V_VM_VF ,\RD_PUNC
+PBLTD3305	ਰਾਹੀਂ\N_NN ਸ਼ੋਰ\N_NN ਖ਼ਰੂਦ\N_NN ਮਚਾਇਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3306	ਓਤੋਂ\PSP ਰਾਜਾ\N_NN ਗੁਲਾਬ\N_NNP ਸਿੰਘ\N_NNP ਬੰਨ\V_VM ਆਂਉਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3307	ਕੈਂਠੇ\N_NN ਫੇਰ\RB ਲੈ\V_VM ਕੇ\V_VM_VNF ਗਲੀਂ\N_NN ਪਾਇਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3308	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅਸਾਂ\PR_PRP ਹੁਣ\RB ਕੜੇ\N_NN ਲੈਣੇ\V_VM_VF ,\RD_PUNC
+PBLTD3309	ਜਵਾਹਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਆਖ\V_VM ਸੁਣਾਇਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3310	ਕੇਹਾ\V_VM_VF ਬੁਰਛਿਆਂ\N_NN ਆਣ\V_VM_VF ਹਨੇਰ\N_NN ਪਾਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3311	ਜਿਹੜਾ\PR_PRL ਬਹੇ\V_VM_VF ਗੱਦੀ\N_NN ਉਹ\PR_PRP ਨੂੰ\PSP ਮਾਰ\V_VM ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3312	ਕੈਂਠੇ\N_NN ਕੜੇ\N_NN ਇਨਾਮ\N_NN ਰੁਪਏ\N_NN ਬਾਰਾਂ\QT_QTC ,\RD_PUNC
+PBLTD3313	ਕਦੇ\RB ਪੰਜ\QT_QTC ਤੇ\CC_CCD ਸੱਤ\QT_QTC ਨਾ\RP_NEG ਚਾਰ\QT_QTC ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3314	ਕਈ\DM_DMQ ਤੁਰੇ\V_VM_VF ਨੀ\RP_INJ ਕਿਲੇ\N_NN ਦੀ\PSP ਲੁੱਟ\N_NN ਉੱਤੇ\PSP ,\RD_PUNC
+PBLTD3315	ਕਈ\DM_DMQ ਸ਼ਹਿਰ\N_NN ਦੇ\PSP ਲੁੱਟ\N_NN ਬਜ਼ਾਰ\N_NN ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3316	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਚੜੇ\V_VM_VF ਮਝੈਲ\N_NN ਭਾਈਏ\N_NN ,\RD_PUNC
+PBLTD3317	ਪੈਸਾ\N_NN ਤਲਬ\N_NN ਦਾ\PSP ਨਾਲ\PSP ਪੈਜ਼ਾਰ\N_NN ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3318	ਪਿੱਛੇ\RB ਇਕ\QT_QTC ਸਰਕਾਰ\N_NN ਦੇ\PSP ਖੇਡ\V_VM ਚੱਲੀ\V_VM_VF ,\RD_PUNC
+PBLTD3319	ਪਈ\V_VM_VF ਨਿੱਤ\N_NN ਹੁੰਦੀ\V_VM_VF ਮਾਰੋ\N_NN ਮਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3320	ਸਿੰਘਾਂ\N_NN ਮਾਰ\V_VM ਸਰਦਾਰਾਂ\N_NN ਦਾ\PSP ਨਾਸ਼\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3321	ਸਭੋ\DM_DMQ ਕਤਲ\N_NN ਹੋਏ\V_VM_VF ਵਾਰੋ\N_NN ਵਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3322	ਸਿਰ\N_NN ਤੇ\PSP ਫੌਜ਼\N_NN ਦੇ\PSP ਰਿਹਾ\V_VM_VF ਨਾ\RP_NEG ਕੋਈ\DM_DMQ ਕੁੰਡਾ\N_NN ,\RD_PUNC
+PBLTD3323	ਹੋਇਆ\V_VM_VF ਸ਼ੁਤਰ\N_NN ਜਿਉਂ\RP_INTF ਬਾਝ\N_NN ਮੁਹਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3324	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਫਿਰਨ\V_VM_VF ਸਰਦਾਰ\N_NN ਲੁਕਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3325	ਭੂਤ\N_NN ਮੰਡਲੀ\N_NN ਹੋਈ\V_VM_VF ਤਿਆਰ\JJ ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3326	ਜਵਾਹਰ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਉੱਤੇ\PSP ਨੀ\RP_INJ ਚੜੇ\V_VM_VF ਸਾਰੇ\DM_DMQ ,\RD_PUNC
+PBLTD3327	ਮੱਥਾ\N_NN ਖ਼ੂਨੀਆਂ\N_NN ਵਾਂਗ\JJ ਚਾ\PSP ਵੱਟਿਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3328	ਡਰਦਾ\JJ ਭਾਣਜੇ\N_NN ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਮਿਲਣ\V_VM_VF ਆਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3329	ਅੱਗੋਂ\RB ਨਾਲ\PSP ਸੰਗੀਨਾਂ\N_NN ਦੇ\PSP ਫੱਟਿਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3330	ਸੀਖਾਂ\N_NN ਨਾਲ\PSP ਉੜੁੰਬ\V_VM ਕੇ\V_VM_VF ਫ਼ੀਲ\N_NN ਉੱਤੇ\PSP ,\RD_PUNC
+PBLTD3331	ਕੱਢ\V_VM ਹੌਦਿਓਂ\N_NN ਜ਼ਿਮੀਂ\N_NN ਤੇ\PSP ਸੱਟਿਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3332	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਵਾਸਤੇ\PSP ਪਾਂਵਦੇ\V_VM_VF ਦਾ\PSP ,\RD_PUNC
+PBLTD3333	ਸਿਰ\N_NN ਨਾਲ\PSP ਤਲਵਾਰ\N_NN ਦੇ\PSP ਕੱਟਿਓ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD3334	ਰਾਣੀ\N_NN ਕੈਦ\N_NN ਕਨਾਤ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3335	`\RD_PUNC ਕਿਸ\PR_PRQ ਨੂੰ\PSP ਰੋਇ\V_VM ਕੇ\V_VM_VNF ਪਈ\V_VM_VF ਡਰਾਵਨੀ\N_NN ਹੈਂ\V_VAUX ?\RD_PUNC
+PBLTD3336	ਤੇਰਾ\PR_PRP ਕੌਣ\PR_PRQ ਹਮਾਇਤੀ\N_NN ਸੁਣਨ\V_VM_VF ਵਾਲਾ\PSP ,\RD_PUNC
+PBLTD3337	ਜਿਹਨੂ\PR_PRL ਪਾਇ\V_VM ਕੇ\V_VM_VNF ਵੈਣ\N_NN ਸੁਣਾਵਨੀ\V_VM_VF ਹੈਂ\JJ ।\RD_PUNC
+PBLTD3338	ਕਿਹੜੇ\PR_PRQ ਪਾਤਸ਼ਾਹ\N_NN ਦਾ\PSP ਪੁੱਤ\N_NN ਮੋਇਆ\V_VM_VF ਸਾਥੋਂ\PR_PRP ,\RD_PUNC
+PBLTD3339	ਜਿਹੜੇ\PR_PRL ਡੂੰਘੜੇ\JJ ਵੈਣ\N_NN ਤੂੰ\PR_PRP ਪਾਵਨੀ\V_VM_VF ਹੈਂ\V_VAUX ?\RD_PUNC
+PBLTD3340	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਦੇਹ\PSP ਇਨਾਮ\N_NN ਸਗੋਂ\CC_CCD ,\RD_PUNC
+PBLTD3341	ਸਾਡੇ\PR_PRP ਜ਼ੋਰ\N_NN ਤੇ\PSP ਰਾਜ\N_NN ਕਮਾਵਨੀ\V_VM_VF ਹੈਂ\V_VAUX ।\RD_PUNC `\RD_PUNC
+PBLTD3342	ਪਈ\V_VM_VF ਝੂਰਦੀ\V_VM_VF ਏ\RP_INJ ਰਾਣੀ\N_NN ਜਿੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3343	ਕਿਥੋਂ\JJ ਕੱਢਾਂ\V_VM ਮੈਂ\PR_PRP ਕਲਗੀਆਂ\N_NN ਨਿਤ\N_NN ਤੋੜੇ\V_VM_VF ।\RD_PUNC
+PBLTD3344	ਮੇਰੇ\PR_PRP ਸਾਹਮਣੇ\RB ਕੋਹਿਆ\V_VM_VF ਨੇ\PSP ਵੀਰ\N_NN ਮੇਰਾ\PR_PRP ,\RD_PUNC
+PBLTD3345	ਜੈਂਦੀ\N_NN ਤਾਬਿਆ\N_NN ਲੱਖ\N_NN ਹਜ਼ਾਰ\N_NN ਘੋੜੇ\N_NN ।\RD_PUNC
+PBLTD3346	ਕਿੱਥੋਂ\RB ਕੱਢਾਂ\V_VM_VF ਮੈਂ\PR_PRP ਦੇਸ਼\N_NN ਫਿਰੰਗੀਆਂ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD3347	ਕੋਈ\DM_DMQ ਹੋਵੇ\V_VM_VF ਜੋ\PR_PRL ਇਨ੍ਹਾਂ\DM_DMD ਦਾ\PSP ਗਰਬ\N_NN ਤੋੜੇ\V_VM_VF ।\RD_PUNC
+PBLTD3348	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਓਸ\DM_DMD ਤੋਂ\PSP ਜਾਨ\N_NN ਵਾਰਾਂ\N_NN ,\RD_PUNC
+PBLTD3349	ਜਵਾਹਰ\N_NNP ਸਿੰਘ\N_NNP ਦਾ\PSP ਵੈਰ\N_NN ਜੋ\PR_PRL ਕੋਈ\DM_DMQ ਮੋੜੇ\V_VM_VF ।\RD_PUNC
+PBLTD3350	ਮੈਨੂੰ\PR_PRP ਆਣ\V_VM_VF ਚੁਫੇਰਿਓਂ\RB ਘੂਰਦੇ\V_VM_VF ਨੀ\RP_INJ ,\RD_PUNC
+PBLTD3351	ਲੈਂਦੇ\V_VM_VF ਮੁਫ਼ਤ\JJ ਇਨਾਮ\N_NN ਰੁਪਏ\N_NN ਬਾਰਾਂ\QT_QTC ।\RD_PUNC
+PBLTD3352	ਜੱਟੀ\N_NN ਹੋਵਾਂ\V_VM_VF ਤੇ\CC_CCD ਕਰਾਂ\V_VM_VF ਪੰਜਾਬ\N_NNP ਰੰਡੀ\N_NN ,\RD_PUNC
+PBLTD3353	ਸਾਰੇ\DM_DMQ ਮੁਲਕ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਚਾ\N_NN ਛਿੜਨ\V_VM_VF ਵਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD3354	ਛੱਡਾਂ\V_VM_VF ਨਹੀਂ\RP_NEG ਲਾਹੌਰ\N_NNP ਵਿਚ\PSP ਵੜਨ\V_VM_VF ਜੋਗੇ\N_NN ,\RD_PUNC
+PBLTD3355	ਸਣੇ\PSP ਵੱਡਿਆਂ\JJ ਅਫ਼ਸਰਾਂ\N_NN ਜਮਾਦਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD3356	ਪਏ\V_VM_VF ਰੁਲਣਗੇ\V_VM_VF ਵਿਚ\PSP ਪਰਦੇਸ\N_NN ਮੁਰਦੇ\N_NN ,\RD_PUNC
+PBLTD3357	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮਾਰਨੀ\V_VM_VF ਏਸ\JJ ਮਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD3358	ਜਿਨ੍ਹਾਂ\PR_PRL ਕੋਹਿ\V_VM ਕੇ\V_VM_VNF ਮਾਰਿਆ\V_VM_VF ਵੀਰ\N_NN ਮੇਰਾ\PR_PRP ,\RD_PUNC
+PBLTD3359	ਮੈਂ\PR_PRP ਤਾਂ\RP_RPD ਖੋਹਾਂਗੀ\V_VM_VF ਉਨ੍ਹਾਂ\DM_DMD ਦੀਆਂ\PSP ਜੁੰਡੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3360	ਧਾਕਾਂ\N_NN ਪੈਣ\V_VM_VF ਵਲਾਇਤੀਂ\N_NN ਦੇਸ\N_NN ਸਾਰੇ\DM_DMQ ,\RD_PUNC
+PBLTD3361	ਪਾਵਾਂ\N_NN ਬੱਕਰੇ\N_NN ਵਾਂਗ\JJ ਚਾ\N_NN ਵੰਡੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3362	ਚੂੜੇ\N_NN ਲਹਿਣਗੇ\V_VM_VF ਬਹੁਤ\JJ ਸੁਹਾਗਣਾਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD3363	ਨੱਥ\N_NN ਚੌਂਕ\N_NN ਤੇ\CC_CCD ਵਾਲੀਆਂ\N_NN ਡੰਡੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3364	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਪੈਣਗੇ\V_VM_VF ਵੈਣ\N_NN ਡੂੰਗੇ\JJ ,\RD_PUNC
+PBLTD3365	ਜਦੋਂ\PR_PRL ਹੋਣ\V_VM_VF ਪੰਜਾਬਣਾਂ\N_NN ਰੰਡੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3366	ਅਰਜ਼ੀ\N_NN ਲਿਖੀ\V_VM_VF ਫਿਰੰਗੀ\N_NN ਨੂੰ\PSP ਕੁੰਜ\N_NN ਗੋਸ਼ੇ\N_NN ,\RD_PUNC
+PBLTD3367	ਪਹਿਲਾਂ\RB ਆਪਣੀ\PR_PRF ਸੁਖ\N_NN ਅਨੰਦ\N_NN ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3368	`\RD_PUNC ਤੇਰੇ\PR_PRP ਵੱਲ\RB ਮੈਂ\PR_PRP ਫੋਜ਼ਾਂ\N_NN ਨੂੰ\PSP ਤੋਰਨੀ\V_VM_VF ਹਾਂ\V_VAUX ,\RD_PUNC
+PBLTD3369	ਖੱਟੇ\JJ ਕਰੀਂ\V_VM_VF ਤੂੰ\PR_PRP ਇਹਨਾਂ\DM_DMD ਦੇ\PSP ਦੰਦ\N_NN ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3370	ਪਹਿਲਾਂ\RB ਆਪਣਾ\PR_PRF ਜ਼ੋਰ\N_NN ਤੂੰ\PR_PRP ਸੱਭ\DM_DMQ ਲਾਵੀਂ\V_VM_VF ,\RD_PUNC
+PBLTD3371	ਪਿੱਛੋਂ\RB ਕਰਾਂਗੀ\V_VM_VF ਖ਼ਰਚ\N_NN ਮੈਂ\PR_PRP ਬੰਦ\JJ ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3372	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਫੇਰ\RB ਨਾ\RP_NEG ਆਉਣ\V_VM_VF ਮੁੜ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3373	ਮੈਨੂੰ\PR_PRP ਏਤਨੀ\RB ਬਾਤ\N_NN ਪਸੰਦ\N_NN ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3374	ਪਹਿਲੇ\QT_QTO ਪਾਰ\N_NN ਦਾ\PSP ਮੁਲਕ\N_NN ਤੂੰ\PR_PRP ਮੱਲ\N_NN ਸਾਡਾ\PR_PRP ,\RD_PUNC
+PBLTD3375	ਆਪੇ\PR_PRF ਖਾਇ\V_VM ਗੁੱਸਾ\N_NN ਤੈਂਥੀਂ\N_NN ਆਵਨੀਗੇ\V_VM_VF ।\RD_PUNC
+PBLTD3376	ਸੋਈ\N_NN ਲੜਨਗੇ\V_VM_VF ਹੋਣ\N_NN ਬੇਖ਼ਬਰ\JJ ਜਿਹੜੇ\PR_PRL ,\RD_PUNC
+PBLTD3377	ਮੱਥਾ\N_NN ਕਦੀ\DM_DMQ ਸਰਦਾਰ\N_NN ਨਾ\RP_NEG ਡਾਹਵਨੀਗੇ\V_VM_VF ।\RD_PUNC
+PBLTD3378	ਏਸੇ\DM_DMD ਵਾਸਤੇ\PSP ਫੌਜ਼\N_NN ਮੈਂ\PR_PRP ਪਾੜ\V_VM ਛੱਡੀ\V_VM_VF ,\RD_PUNC
+PBLTD3379	ਕਈ\DM_DMQ ਭਾਂਜ\V_VM ਅਚਾਣਕੀ\JJ ਪਾਵਨੀਗੇ\V_VM_VF ।\RD_PUNC
+PBLTD3380	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਲਾਟ\N_NN ਜੀ\RP_INJ !\RD_PUNC ਕਟਕ\N_NNP ਤੇਰੇ\PR_PRP ,\RD_PUNC
+PBLTD3381	ਮੇਰੇ\PR_PRP ਗਲੋਂ\N_NN ਤਗਾਦੜੇ\N_NN ਲਾਹਵਨੀਗੇ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBLTD3382	ਨੰਦਨ\N_NNP ਕੰਪਨੀ\N_NN ਸਾਹਿਬ\N_NN ਕਿਤਾਬ\N_NN ਡਿੱਠੀ\N_NN ,\RD_PUNC
+PBLTD3383	ਇਹਨਾਂ\DM_DMD ਲਾਟਾਂ\N_NN ਵਿਚੋਂ\PSP ਕੌਣ\PR_PRQ ਲੜੇਗਾ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3384	ਟੁੰਡੇ\JJ ਲਾਟ\N_NN ਨੇ\PSP ਚੁਕਿਆ\V_VM_VF ਆਣ\V_VM_VF ਬੀੜਾ\N_NN ,\RD_PUNC
+PBLTD3385	ਹਮੀਂ\PR_PRP ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਸੀਖ\N_NN ਸੋਂ\PSP ਅੜੇਗਾ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3386	ਘੰਟੇ\N_NN ਤੀਨ\QT_QTC ਮੇਂ\PSP ਜਾਇ\V_VM ਲਾਹੌਰ\N_NNP ਮਾਰਾਂ\V_VM_VF ,\RD_PUNC
+PBLTD3387	ਏਸ\DM_DMD ਬਾਤ\N_NN ਮੇਂ\PSP ਫ਼ਰਕ\N_NN ਨਾ\RP_NEG ਪੜੇਗਾ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3388	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਫਗਣੋਂ\N_NN ਤੇਰ੍ਹਵੀਂ\QT_QTC ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3389	ਸਾਹਿਬ\N_NN ਜਾਇ\V_VM ਲਾਹੌਰ\N_NNP ਵਿਚ\PSP ਵੜੇਗਾ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3390	ਵੱਜੀ\V_VM_VF ਤੁਰਮ\N_NN ਤੰਬੂਰ\N_NN ਕਰਾਇ\V_VM_VF ਸ਼ੁਤਰੀ\N_NN ,\RD_PUNC
+PBLTD3391	ਤੰਬੂ\N_NN ਬੈਰਕਾਂ\N_NN ਲਾਲ\JJ ਨਿਸ਼ਾਨ\N_NN ਮੀਆਂ\N_NN |\RD_PUNC
+PBLTD3392	ਕੋਤਲ\N_NN ਪਾਲਕੀ\N_NN ਬੱਘੀਆਂ\N_NN ਤੋਪਖਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3393	ਦੂਰਬੀਨ\N_NN ਜੰਗੀ\JJ ਸਾਇਬਾਨ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3394	ਚੜ੍ਹਿਆ\V_VM_VF ਨੰਦਨੋਂ\N_NNP ਲਾਟ\N_NN ਉਠਾਇ\V_VM_VF ਬੀੜਾ\N_NN ,\RD_PUNC
+PBLTD3395	ਡੇਰਾ\N_NN ਪਾਂਵਦਾ\V_VM_VF ਵਿਚ\PSP ਮੈਦਾਨ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3396	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਗੋਰਿਆਂ\N_NN ਛੇੜ\N_NN ਛੇੜੀ\V_VM_VF ,\RD_PUNC
+PBLTD3397	ਮੁਲਕ\N_NN ਪਾਰ\JJ ਦਾ\PSP ਮੱਲਿਆ\V_VM_VF ਆਨ\V_VM_VF ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3398	ਫਰਾਂਸੀਸਾਂ\N_NN ਨੂੰ\PSP ਅੰਦਰੋਂ\RB ਹੁਕਮ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3399	`\RD_PUNC ਤੁਸੀਂ\PR_PRP ਜਾਹੋ\V_VM_VF ਖਾਂ\N_NN ਤਰਫ਼\RB ਕਸ਼ਮੀਰ\N_NNP ਨੂੰ\PSP ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3400	ਓਨ੍ਹਾਂ\DM_DMD ਰੱਬ\N_NN ਦਾ\PSP ਵਾਸਤਾ\PSP ਪਾਇਆ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBLTD3401	`\RD_PUNC ਮਾਈ\N_NN !\RD_PUNC ਫੜੀਂ\V_VM_VF ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਤਕਸੀਰ\N_NN ਨੂੰ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3402	ਪਾਰੋਂ\JJ ਮੁਲਕ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਮੱਲ\V_VM ਲਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD3403	ਅਸੀਂ\PR_PRP ਮਾਰਾਂਗੇ\V_VM_VF ਓਸ\DM_DMD ਬੇਪੀਰ\JJ ਨੂੰ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3404	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਆਏ\V_VM_VF ਨੀ\RP_NEG ਹੋਰ\JJ ਪਰਿਓਂ\RB ,\RD_PUNC
+PBLTD3405	ਅਸੀਂ\PR_PRP ਡੱਕਣਾ\V_VM_VINF ਓਸ\DM_DMD ਵਹੀਰ\JJ ਨੂੰ\PSP ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3406	ਮਾਈ\N_NN ਆਖਿਆ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਸੱਭੇ\DM_DMQ ਚੜ\V_VM ਜਾਣ\V_VM_VF ਫੌਜਾਂ\N_NN ,\RD_PUNC
+PBLTD3407	ਬੂਹੇ\N_NN ਸ਼ਹਿਰ\N_NN ਦੇ\PSP ਰਹਿਣ\V_VM_VF ਨਾ\RP_NEG ਸੱਖਣੇ\JJ ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3408	ਮੁਸਲਮਾਨੀਆਂ\N_NN ਪੜਤਲਾਂ\N_NN ਰਹਿਣ\V_VM_VF ਏਥੇ\RB ,\RD_PUNC
+PBLTD3409	ਘੋੜ-ਚੜੇ\JJ ਨਾਹੀਂ\RP_NEG ਪਾਸ\RB ਰੱਖਣੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3410	ਕੰਠੇ\N_NN ਕਲਗੀਆਂ\N_NN ਵਾਲੜੇ\PSP ਹੋਣ\V_VM_VF ਅੱਗੇ\RB ,\RD_PUNC
+PBLTD3411	ਮੋਹਰੇ\RB ਹੋਰ\JJ ਗਰੀਬ\N_NN ਨਾ\RP_NEG ਧੱਕਣੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3412	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜਿਨ੍ਹਾਂ\PR_PRL ਦੀ\PSP ਤਲਬ\N_NN ਤੇਰਾਂ\QT_QTC ,\RD_PUNC
+PBLTD3413	ਮਜ਼ੇ\N_NN ਤਿਨ੍ਹਾਂ\QT_QTC ਲੜਾਈ\N_NN ਦੇ\PSP ਚੱਖਣੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3414	ਸਾਰੇ\DM_DMQ ਪੰਥ\N_NN ਨੂੰ\PSP ਸੱਦ\V_VM ਕੇ\V_VM_VNF ਕਹਿਣ\V_VM_VF ਲੱਗੀ\V_VM_VF ,\RD_PUNC
+PBLTD3415	ਮੈਥੋਂ\PR_PRP ਗਏ\V_VM_VF ਖ਼ਜ਼ਾਨੇ\N_NN ਨਿਖੁੱਟ\V_VM ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3416	ਜਮਨਾ\N_NNP ਤੀਕ\PSP ਜੋ\PR_PRL ਪਿਆ\V_VM_VF ਹੈ\V_VAUX ਮੁਲਖ\N_NN ਸੁੰਞਾ\JJ ,\RD_PUNC
+PBLTD3417	ਖਾਵੋ\V_VM_VF ਦੇਸ\N_NN ਫ਼ਿਰੰਗੀ\N_NN ਦਾ\PSP ਲੁੱਟ\V_VM ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3418	ਮਾਰੋ\V_VM_VF ਸ਼ਹਿਰ\N_NN ਫ਼ਿਰੋਜ਼ਪੁਰ\N_NNP ,\RD_PUNC ਲੁਧਿਆਣਾ\N_NNP ,\RD_PUNC
+PBLTD3419	ਸੁਟੋ\V_VM_VF ਛਾਵਣੀ\N_NN ਓਸ\DM_DMD ਦੀ\PSP ਪੁਟ\V_VM ਸਾਰੀ\DM_DMQ ।\RD_PUNC
+PBLTD3420	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਲਓ\V_VM_VF ਇਨਾਮ\N_NN ਮੈਥੋਂ\PR_PRP ,\RD_PUNC
+PBLTD3421	ਕੈਂਠੇ\N_NN ਕੜੇ\N_NN ਮੈਂ\PR_PRP ਦੇਵਾਂਗੀ\V_VM_VF ਸੁਟ\N_NN ਵਾਰੀ\N_NN ।\RD_PUNC `\RD_PUNC
+PBLTD3422	ਸਿੰਘਾਂ\N_NN ਆਖਿਆ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਲੜਾਂਗੇ\V_VM_VF ਹੋਏ\V_VM_VF ਟੋਟੇ\N_NN ,\RD_PUNC
+PBLTD3423	ਸਾਨੂੰ\PR_PRP ਖ਼ਬਰ\N_NN ਭੇਜੀਂ\V_VM_VF ਦਿਨੇ\N_NN ਰਾਤ\N_NN ਮਾਈ\N_NN !\RD_PUNC
+PBLTD3424	ਤੇਰੀ\PR_PRP ਨੌਕਰੀ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਫਰਕ\N_NN ਕਰੀਏ\V_VM_VF ,\RD_PUNC
+PBLTD3425	ਭਾਵੇਂ\CC_CCD ਖੂਹ\N_NN ਘੱਤੀਂ\N_NN ਭਾਵੇਂ\CC_CCD ਖਾਤ\N_NN ਮਾਈ\N_NN ।\RD_PUNC `\RD_PUNC
+PBLTD3426	ਸਿੰਘਾਂ\N_NN ਭੋਲਿਆਂ\N_NN ਮੂਲ\N_NN ਨਾ\RP_NEG ਸਹੀ\JJ ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3427	ਗੁੱਝਾ\JJ ਕਰਨ\V_VM_VF ਲੱਗੀ\V_VM_VF ਸਾਡਾ\PR_PRP ਘਾਤ\N_NN ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3428	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅਜੇ\RB ਨਾ\RP_NEG ਜਾਣਿਓ\V_VM_VF ਨੇ\PSP ,\RD_PUNC
+PBLTD3429	ਖ਼ਾਲੀ\JJ ਪਈ\V_VM_VF ਹੈ\V_VAUX ਚੋਪੜੀ\JJ ਪਰਾਤ\N_NN ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3430	ਦਿੱਤੀ\V_VM_VF ਮਾਈ\N_NN ਨੇ\PSP ਜਦੋਂ\PR_PRL ਦਿਲਬਰੀ\N_NN ਭਾਰੀ\JJ ,\RD_PUNC
+PBLTD3431	ਸਿੰਘ\N_NN ਬੈਠੇ\V_VM_VF ਨੀ\RP_INJ ਹੋਇ\V_VM_VF ਸੁਚੇਤ\JJ ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3432	ਸੱਚੇ\JJ ਸਾਹਿਬ\N_NN ਦੇ\PSP ਹੱਥ\N_NN ਨੀ\RP_INJ ਸਭ\DM_DMQ ਗੱਲਾਂ\N_NN ,\RD_PUNC
+PBLTD3433	ਕਿਸੇ\DM_DMQ ਹਾਰ\N_NN ਦਿੰਦਾ\V_VM_VF ਕਿਸੇ\DM_DMQ ਜੇਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3434	ਇਕ\QT_QTC ਲੱਖ\N_NN ਬੇਟਾ\N_NN ਸਵਾ\QT_QTC ਲੱਖ\N_NN ਪੋਤਾ\N_NN ,\RD_PUNC
+PBLTD3435	ਰਾਵਣ\N_NNP ਮਾਰਿਆ\V_VM_VF ਘਰ\N_NN ਦੇ\PSP ਭੇਤ\N_NN ਮੀਆਂ\N_NN ,\RD_PUNC
+PBLTD3436	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਜਾਣਦਾ\V_VM_VF ਜੱਗ\N_NN ਸਾਰਾ\DM_DMQ ,\RD_PUNC
+PBLTD3437	ਕਈ\DM_DMQ ਸੂਰਮੇ\N_NN ਆਉਣਗੇ\V_VM_VF ਖੇਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3438	ਸਿੰਘਾਂ\N_NN ਸਾਰਿਆਂ\DM_DMQ ਬੈਠ\V_VM ਗੁਰਮਤਾ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3439	`\RD_PUNC ਚੱਲੋ\V_VM_VF ਹੁਣੇ\RB ਫ਼ਿਰੰਗੀ\N_NN ਨੂੰ\PSP ਮਾਰੀਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3440	ਇਕ\QT_QTC ਵਾਰ\N_NN ਜੇ\CC_CCS ਸਾਹਮਣੇ\RB ਹੋਏ\V_VM_VF ਸਾਡੇ\DM_DMQ ,\RD_PUNC
+PBLTD3441	ਇਕ\QT_QTC ਘੜੀ\N_NN ਵਿਚ\PSP ਪਾਰ\N_NN ਉਤਾਰੀਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3442	ਬੀਰ\N_NNP ਸਿੰਘ\N_NNP ਜੇਹੇ\JJ ਅਸਾਂ\PR_PRP ਨਹੀਂ\RP_NEG ਛੱਡੇ\V_VM_VF ,\RD_PUNC
+PBLTD3443	ਅਸੀਂ\PR_PRP ਕਾਸ\PR_PRQ ਤੋਂ\PSP ਓਸ\DM_DMD ਤੋਂ\PSP ਹਾਰੀਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3444	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਲੁਧਿਆਣਾ\N_NNP ,\RD_PUNC
+PBLTD3445	ਫੌਜਾਂ\N_NN ਦਿੱਲੀ\N_NNP ਦੇ\PSP ਵਿਚ\PSP ਉਤਾਰੀਏ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3446	ਜ਼ਬਤ\N_NN ਕਰਾਂਗੇ\V_VM_VF ਮਾਲ\N_NN ਫਿਰੰਗੀਆਂ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD3447	ਲੁਟ\V_VM ਲਿਆਵਾਂਗੇ\V_VM_VF ਦੌਲਤਾਂ\N_NN ਬੋਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3448	ਫੇਰ\RB ਵੜਾਂਗੇ\V_VM_VF ਉਨ੍ਹਾਂ\DM_DMD ਦੇ\PSP ਸਤਰ-ਖ਼ਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3449	ਬੰਨ\V_VM ਲਿਆਵਾਂਗੇ\V_VM_VF ਸਾਰੀਆਂ\DM_DMQ ਗੋਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3450	ਕਾਬਲ\N_NNP ਵਿਚ\PSP ਪਠਾਣ\N_NN ਜਿਉਂ\PR_PRL ਅਲੀ\N_NNP ਅਕਬਰ\N_NNP ,\RD_PUNC
+PBLTD3451	ਮਾਰ\V_VM ਵੱਢ\V_VM ਕੇ\V_VM_VNF ਕੀਤੀਆਂ\V_VM_VF ਪੋਰੀਆਂ\JJ ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3452	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਲਵਾਂਗੇ\V_VM_VF ਫੇਰ\RB ਕੈਂਠੇ\N_NN ,\RD_PUNC
+PBLTD3453	ਤਿੱਲੇਦਾਰ\JJ ਜੋ\PR_PRL ਰੇਸ਼ਮੀ\JJ ਡੋਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3454	ਧੌਂਸਾ\N_NN ਵਜਿਆ\V_VM_VF ਕੂਚ\N_NN ਦਾ\PSP ਹੁਕਮ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3455	ਚੜ੍ਹੇ\V_VM_VF ਸੂਰਮੇ\N_NN ਸਿੰਘ\N_NN ਦਲੇਰ\JJ ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3456	ਚੜ੍ਹੇ\V_VM_VF ਪੁਤਰ\N_NN ਸਰਦਾਰਾਂ\N_NN ਦੇ\PSP ਛੈਲ\JJ ਬਾਂਕੇ\JJ ,\RD_PUNC
+PBLTD3457	ਜੈਸੇ\RP_INTF ਬੇਲਿਓਂ\N_NN ਨਿਕਲਦੇ\V_VM_VF ਸ਼ੇਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3458	ਚੜ੍ਹੇ\N_NNP ਸਭ\DM_DMQ ਮਝੈਲ\JJ ਦੁਆਬੀਏ\JJ ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3459	ਜਿਨ੍ਹਾਂ\PR_PRL ਕਿਲੇ\N_NN ਨਿਵਾਏ\V_VM_VF ਨੇ\PSP ਢੇਰ\N_NN ਮੀਆਂ\N_NN
+PBLTD3460	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਤੁਰੇ\V_VM_VF ਜੰਬੂਰ\N_NN ਖਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3461	ਹੋਇਆ\V_VM_VF ਹੁਕਮ\N_NN ਨਾ\RP_NEG ਲਾਂਵਦੇ\V_VM_VF ਦੇਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3462	ਸ਼ਾਮ\N_NNP ਸਿੰਘ\N_NNP ਸਰਦਾਰ\N_NN ਨੇ\PSP ਕੂਚ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3463	ਜਲ੍ਹੇ\N_NN ਵਾਲੀਏ\PSP ਬਣਤ\N_NN ਬਣਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3464	ਆਏ\V_VM_VF ਹੋਰ\JJ ਪਹਾੜ\N_NN ਦੇ\PSP ਸਭ\DM_DMQ ਰਾਜੇ\N_NN ,\RD_PUNC
+PBLTD3465	ਜਿਹੜੇ\PR_PRL ਤੇਗ\N_NNP ਦੇ\PSP ਧਨੀ\JJ ਕਹਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3466	ਚੜ੍ਹੇ\V_VM_VF ਸਭ\DM_DMQ ਸਰਦਾਰ\N_NN ਮਜੀਠੀਏ\JJ ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3467	ਸੰਧਾਵਾਲੀਏ\JJ ਕਾਠੀਆਂ\N_NN ਪਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3468	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਚੜ੍ਹੀ\V_VM_VF ਅਕਾਲ\N_NN ਰਜਮਟ\N_NN ,\RD_PUNC
+PBLTD3469	ਖੰਡੇ\N_NN ਸਾਰ\N_NN ਦੇ\PSP ਸਿਕਲ\N_NN ਕਰਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3470	ਮਜ਼ਹਰ\N_NNP ਅਲੀ\N_NNP ਤੇ\CC_CCD ਮਾਖੇ\N_NNP ਖਾਂ\N_NNP ਕੂਚ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3471	ਤੋਪਾਂ\N_NN ਸ਼ਹਿਰ\N_NN ਥੀਂ\RP_RPD ਬਾਹਰ\RB ਨਿਕਾਲੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3472	ਬੇੜਾ\N_NN ਚੜ੍ਹਿਆ\V_VM_VF ਸੁਲਤਾਨ\N_NNP ਮਹਿਮੂਦ\N_NNP ਵਾਲਾ\PSP ,\RD_PUNC
+PBLTD3473	ਤੋਪਾਂ\N_NN ਹੋਰ\JJ ਇਮਾਮ\N_NNP ਸ਼ਾਹ\N_NNP ਵਾਲੀਆਂ\PSP ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3474	ਇਲਾਹੀ\N_NNP ਬਖਸ਼\N_NNP ਪਟੋਲੀਏ\N_NN ਮਾਂਜ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3475	ਧੂਪ\N_NN ਦੇਇ\V_VM ਕੇ\V_VM_VNF ਤਖਤ\N_NN ਬਹਾਲੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3476	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਐਸੀਆਂ\RB ਸਿਕਲ\N_NN ਹੋਈਆਂ\V_VM_VNF ,\RD_PUNC
+PBLTD3477	ਬਿਜਲੀ\N_NN ਵਾਂਗਰਾਂ\JJ ਦੇਣ\V_VM_VF ਦਿਖਾਲੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3478	ਸੁਣ\V_VM ਕੇ\V_VM_VNF ਖ਼ਬਰ\N_NN ਫਿਰੰਗੀ\N_NN ਦੀ\PSP ਚੜ੍ਹੇ\V_VM_VF ਸਾਰੇ\DM_DMQ ,\RD_PUNC
+PBLTD3479	ਫੌਜਾਂ\N_NN ਬੇਮੁਹਾਰੀਆਂ\JJ ਹੋਇ\V_VM ਤੁਰੀਆਂ\V_VM_VF ।\RD_PUNC
+PBLTD3480	ਫੇਰ\RB ਵਾਰ\N_NN ਕੁ\N_NN ਵਾਰ\N_NN ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਡਿੱਠਾ\N_NN ,\RD_PUNC
+PBLTD3481	ਇਕ\QT_QTC ਦੂਸਰੇ\QT_QTO ਦੇ\PSP ਅੱਗੇ\RB (\RD_PUNC ਪਿੱਛੇ\RB )\RD_PUNC ਲੱਗ\V_VM ਤੁਰੀਆਂ\V_VM_VNF ।\RD_PUNC
+PBLTD3482	ਅੱਗੇ\RB ਤੋਪਾਂ\N_NN ਦੇ\PSP ਧਨੀ\JJ ਵੀ\RP_RPD ਹੈਨ\V_VAUX ਗੋਰੇ\N_NN ,\RD_PUNC
+PBLTD3483	ਵੰਗਾਂ\N_NN ਪਹਿਨ\V_VM ਖਲੋਤੀਆਂ\V_VM_VNF ਨਹੀਂ\RP_NEG ਕੁੜੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3484	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਵਰਜ\V_VM ਨਾ\RP_NEG ਜਾਂਦਿਆਂ\V_VM_VNF ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3485	ਫੌਜਾਂ\N_NN ਹੋਇ\V_VM ਮੁਹਤਾਣੀਆਂ\JJ ਕਦੋਂ\PR_PRQ ਮੁੜੀਆਂ\V_VM_VNF ।\RD_PUNC
+PBLTD3486	ਚੜੇ\V_VM_VF ਸ਼ਹਿਰ\N_NN ਲਾਹੌਰ\N_NNP ਥੀਂ\RP_RPD ਮਾਰ\V_VM ਧੌਂਸਾ\N_NN ,\RD_PUNC
+PBLTD3487	ਸੱਭੇ\DM_DMQ ਗੱਭਰੂ\N_NN ਨਾਲ\PSP ਹੰਕਾਰ\N_NN ਤੁਰਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3488	ਉਰੇ\RB ਦੋਹਾਂ\QT_QTC ਦਰਿਆਵਾਂ\N_NN ਤੇ\PSP ਨਹੀਂ\RP_NEG ਅਟਕੇ\V_VM_VF ,\RD_PUNC
+PBLTD3489	ਪੱਤਣ\V_VM_VF ਲੰਘੇ\V_VM_VF ਨੀ\RP_INJ ਜਾਇ\V_VM ਫਿਰੋਜ਼ਪੁਰ\N_NNP ਦੇ\PSP ।\RD_PUNC
+PBLTD3490	ਅੱਗੇ\RB ਛੇੜਿਆ\V_VM_VF ਨਹੀਂ\RP_NEG ਫਿਰੰਗੀਆਂ\N_NN ਨੇ\PSP ,\RD_PUNC
+PBLTD3491	ਦੁਹਾਂ\QT_QTC ਧਿਰਾਂ\N_NN ਦੇ\PSP ਰੁਲਣਗੇ\V_VM_VF ਬਹੁਤ\JJ ਮੁਰਦੇ\JJ ।\RD_PUNC
+PBLTD3492	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਭੱਜਣਾ\V_VM_VINF ਰਣੋਂ\N_NN ਭਾਰੀ\JJ ,\RD_PUNC
+PBLTD3493	ਜੁੱਟੇ\V_VM_VF ਸੂਰਮੇ\N_NN ਆਖ\V_VM ਤੂੰ\PR_PRP ਕਦੋਂ\PR_PRQ ਮੁੜਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3494	ਲੱਗੀ\V_VM_VF ਧਮਕ\N_NN ਸਾਰੇ\DM_DMQ ਹਿੰਦੁਸਤਾਨ\N_NN ਅੰਦਰ\RB ,\RD_PUNC
+PBLTD3495	ਦਿੱਲੀ\N_NNP ਆਗਰੇ\N_NNP ਹਾਂਸੀ\N_NNP ਹਿਸਾਰ\N_NNP ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3496	ਬੀਕਾਨੇਰ\N_NNP ਗੁਲਨੇਰ\N_NNP ਭਟਨੇਰ\N_NNP ਜੈਪੁਰ\N_NNP ,\RD_PUNC
+PBLTD3497	ਪਈਆਂ\V_VM_VNF ਭਾਜੜਾਂ\V_VM_VF ਜਮਨਾ\N_NNP ਤੋਂ\PSP ਪਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3498	ਚੜੀ\V_VM_VF ਸਭ\DM_DMQ ਪੰਜਾਬ\N_NNP ਦੀ\PSP ਬਾਦਸ਼ਾਹੀ\N_NN ,\RD_PUNC
+PBLTD3499	ਨਹੀਂ\RP_NEG ਦਲਾਂ\N_NN ਦਾ\PSP ਅੰਤ\N_NN ਸ਼ੁਮਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3500	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕਿਸੇ\DM_DMQ ਨਾ\RP_NEG ਅਟਕਣਾ\V_VM_VINF ਈਂ\RP_RPD ,\RD_PUNC
+PBLTD3501	ਸਿੰਘ\N_NN ਲੈਣਗੇ\V_VM_VF ਦਿੱਲੀ\N_NNP ਨੂੰ\PSP ਮਾਰ\V_VM ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3502	ਅਰਜ਼ੀ\N_NN ਲਿਖੀ\V_VM_VF ਫ਼ਿਰੰਗੀਆਂ\N_NN ਖ਼ਾਲਸੇ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3503	`\RD_PUNC ਤੁਸੀਂ\PR_PRP ਕਾਸ\PR_PRQ ਨੂੰ\PSP ਜੰਗ\N_NN ਮਚਾਂਵਦੇ\V_VM_VF ਹੋ\V_VAUX ।\RD_PUNC
+PBLTD3504	ਮਹਾਰਾਜੇ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਸੀ\V_VAUX ਨੇਮ\N_NN ਸਾਡਾ\PR_PRP ,\RD_PUNC
+PBLTD3505	ਤੁਸੀਂ\PR_PRP ਸੁੱਤੀਆਂ\V_VM_VNF ਕਲਾਂ\N_NN ਜਗਾਂਵਦੇ\V_VM_VF ਹੋ\V_VAUX ।\RD_PUNC
+PBLTD3506	ਕਈ\DM_DMQ ਲੱਖ\N_NN ਰੁਪਏ\N_NN ਲੈ\V_VM ਜਾਓ\V_VM_VF ਸਾਥੋਂ\PR_PRP ,\RD_PUNC
+PBLTD3507	ਦੇਈਏ\V_VM_VF ਹੋਰ\JJ ਜੋ\PR_PRL ਤੁਸੀਂ\PR_PRP ਫੁਰਮਾਂਵਦੇ\V_VM_VF ਹੋ\V_VAUX ।\RD_PUNC
+PBLTD3508	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅਸਾਂ\PR_PRP ਨਾ\RP_NEG ਮੂਲ\N_NN ਲੜਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD3509	ਤੁਸੀਂ\PR_PRP ਏਤਨਾ\RB ਜ਼ੋਰ\N_NN ਕਿਉਂ\PR_PRQ ਲਾਂਵਦੇ\V_VM ਹੋ\V_VAUX ।\RD_PUNC `\RD_PUNC
+PBLTD3510	ਸਿੰਘਾਂ\N_NN ਲਿਖਿਆ\V_VM_VF ਖ਼ਤ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3511	`\RD_PUNC ਤੈਨੂੰ\PR_PRP ਮਾਰਾਂਗੇ\V_VM_VF ਅਸੀਂ\PR_PRP ਵੰਗਾਰ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3512	ਸਾਨੂੰ\PR_PRP ਨਹੀਂ\RP_NEG ਰੁਪਈਆਂ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਕਾਈ\DM_DMQ ,\RD_PUNC
+PBLTD3513	ਭਾਵੇਂ\CC_CCD ਦੇਹ\V_VM ਤੂੰ\PR_PRP ਢੇਰ\N_NN ਉਸਾਰ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3514	ਉਹੋ\DM_DMD ਪੰਥ\N_NN ਤੇਰੇ\PR_PRP ਉੱਤੇ\PSP ਆਣ\V_VM_VF ਚੜਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD3515	ਜਿਹੜਾ\PR_PRL ਆਇਆ\V_VM_VF ਸੀ\V_VAUX ਜੰਮੂ\N_NNP ਨੂੰ\PSP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3516	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਾਹਮਣੇ\RB ਡਾਹ\V_VM ਤੋਪਾਂ\N_NN ,\RD_PUNC
+PBLTD3517	ਸੂਰੇ\N_NN ਕੱਢ\V_VM ਮੈਦਾਨ\N_NN ਨਿਤਾਰ\N_NN ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3518	ਪੈਂਚਾਂ\N_NN ਲਿਖਿਆ\V_VM_VF ਸਾਰੀਆਂ\DM_DMQ ਪੜਤਲਾਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3519	ਸਾਡੀ\PR_PRP ਅੱਜ\RB ਹੈ\V_VAUX ਵੱਡੀ\JJ ਚੜਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3520	ਬੀਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਮਾਰਿਆ\V_VM_VF ਡਾਹ\V_VM ਤੋਪਾਂ\N_NN ,\RD_PUNC
+PBLTD3521	ਨਹੀਂ\RP_NEG ਛੱਡਿਆ\V_VM_VF ਸਾਧ\N_NN ਤੇ\CC_CCD ਸੰਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3522	ਮਾਰੇ\V_VM_VF ਅਸੀਂ\PR_PRP ਚੁਫੇਰੇ\RB ਦੇ\PSP ਕਿਲੇ\N_NN ਭਾਰੇ\N_NN ,\RD_PUNC
+PBLTD3523	ਅਸੀਂ\PR_PRP ਮਾਰਿਆ\V_VM_VF ਕੁੱਲੂ\N_NNP ਭਟੰਤ\N_NNP ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3524	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਗੱਲ\N_NN ਤਾਂ\RP_RPD ਸੋਈ\V_VM_VF ਹੋਣੀ\V_VM_VF ,\RD_PUNC
+PBLTD3525	ਜਿਹੜੀ\PR_PRL ਕਰੇਗਾ\V_VM_VF ਖ਼ਾਲਸਾ\N_NN ਪੰਥ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3526	ਦੂਰਬੀਨ\N_NN ਅੰਗਰੇਜ਼\N_NN ਨੇ\PSP ਹੱਥ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3527	ਕੀਤਾ\V_VM_VF ਫੌਜ\N_NN ਦਾ\PSP ਸਭ\DM_DMQ ਸ਼ੁਮਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3528	ਜਿੰਨੀ\RB ਥਾਵੀਂ\N_NN ਸੀ\V_VAUX ਜਮਾਂ\N_NN ਬਾਰੂਦ\N_NN ਖ਼ਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3529	ਕੀਤੇ\V_VM_VF ਸਭ\DM_DMQ ਮਾਲੂਮ\N_NN ਹਜ਼ਾਰ\QT_QTC ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3530	ਦਾਰੂ\N_NN ਵੰਡਿਆ\V_VM_VF ਜੰਗੀਆਂ\JJ ਸੂਰਿਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3531	ਦੋ\QT_QTC ਦੋ\QT_QTC ਬੋਤਲਾਂ\N_NN ਕੈਫ਼\N_NN ਖ਼ੁਮਾਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3532	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਪੀ\V_VM ਸ਼ਰਾਬ\N_NN ਗੋਰੇ\N_NN ,\RD_PUNC
+PBLTD3533	ਹੋਏ\V_VM_VF ਜੰਗ\N_NN ਨੂੰ\PSP ਤੁਰਤ\RB ਤਿਆਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3534	ਇਕ\QT_QTC ਪਿੰਡ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਜੋ\PR_PRL ਮੁਦਕੀ\N_NNP ਸੀ\V_VAUX ,\RD_PUNC
+PBLTD3535	ਓਥੇ\RB ਭਰੀ\V_VM_VF ਸੀ\V_VAUX ਪਾਣੀ\N_NN ਦੀ\PSP ਖੱਡ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3536	ਘੋੜ-ਚੜ੍ਹੇ\JJ ਅਕਾਲੀਏ\N_NN ਨਵੇਂ\JJ ਸਾਰੇ\DM_DMQ ,\RD_PUNC
+PBLTD3537	ਝੰਡੇ\N_NN ਦਿੱਤੇ\V_VM_VF ਨੀ\RP_INJ ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਗੱਡ\V_VM ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3538	ਤੋਪਾਂ\N_NN ਚੱਲੀਆਂ\V_VM_VNF ਕਟਕ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD3539	ਗੋਲੇ\N_NN ਤੋੜਦੇ\V_VM_VF ਮਾਸ\N_NN ਤੇ\CC_CCD ਹੱਡ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3540	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਪਿਛਾਂਹ\RB ਨੂੰ\PSP ਉੱਠ\V_VM ਨੱਸੇ\V_VM_VF ,\RD_PUNC
+PBLTD3541	ਤੋਪਾਂ\N_NN ਸਭ\DM_DMQ ਆਏ\V_VM_VF ਓਥੇ\RB ਛੱਡ\V_VM ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3542	ਡੇਰੇ\N_NN ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਬੈਠ\V_VM ਸਲਾਹ\N_NN ਕਰਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3543	ਐਤਵਾਰ\N_NN ਅਸੀਂ\PR_PRP ਖੰਡਾ\N_NN ਫੜਾਂਗੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3544	ਤੇਜਾ\N_NNP ਸਿੰਘ\N_NNP ਦੀ\PSP ਵੱਡੀ\JJ ਉਡੀਕ\N_NN ਸਾਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD3545	ਉਹ\DM_DMD ਦੇ\PSP ਆਏ\V_VM_VF ਬਗੈਰ\RP_NEG ਨਾ\RP_NEG ਲੜਾਂਗੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3546	ਸਰਫਾ\N_NN ਜਾਨ\N_NN ਦਾ\PSP ਨਹੀਂ\RP_NEG ਜੇ\CC_CCS ਮੂਲ\N_NN ਕਰਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD3547	ਜਦੋਂ\PR_PRL ਵਿਚ\PSP ਮੈਦਾਨ\N_NN ਦੇ\PSP ਅੜਾਂਗੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3548	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਇਕ\QT_QTC ਦੂੰ\QT_QTC ਇਕ\QT_QTC ਹੋ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3549	ਡੇਰੇ\N_NN ਚੱਲ\V_VM ਫ਼ਿਰੰਗੀ\N_NN ਦੇ\PSP ਵੜਾਂਗੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3550	ਤੇਜਾ\N_NNP ਸਿੰਘ\N_NNP ਜੋ\PR_PRL ਲਸ਼ਕਰੀਂ\N_NN ਆਣ\V_VM_VF ਵੜਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD3551	ਹੁੱਦੇਦਾਰ\N_NN ਸਭੇ\DM_DMQ ਉੱਥੇ\RB ਆਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3552	ਕਰੋ\V_VM_VF ਹੁਕਮ\N_NN ਤੇ\CC_CCD ਤੇਗ\N_NN ਉਠਾਈਏ\V_VM_VF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3553	ਪਏ\V_VM_VF ਸਿੰਘ\N_NN ਕਚੀਚੀਆਂ\N_NN ਖਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3554	ਕੂੰਜਾਂ\N_NN ਨਜ਼ਰ\N_NN ਆਈਆਂ\V_VM_VNF ਬਾਜ਼ਾਂ\N_NN ਭੁੱਖਿਆਂ\JJ ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3555	ਚੋਟਾਂ\N_NN ਕੈਸੀਆਂ\DM_DMQ ਦੇਖ\V_VM ਚਲਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3556	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਓਸ\DM_DMD ਥੀਂ\RP_RPD ਹੁਕਮ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3557	ਹੱਲਾ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਵਿਉਂਤ\N_NN ਬਣਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3558	ਫੇਰੂ\N_NNP ਸ਼ਹਿਰ\N_NN ਦੇ\PSP ਹੇਠ\RB ਜਾਂ\CC_CCD ਖੇਤ\N_NN ਰੁੱਧੇ\N_NN ,\RD_PUNC
+PBLTD3559	ਤੋਪਾਂ\N_NN ਚਲੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ਵਾਂਗੂੰ\JJ ਤੋੜਿਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3560	ਸਿੰਘ\JJ ਸੂਰਮੇ\N_NN ਆਣ\V_VM_VF ਮੈਦਾਨ\N_NN ਲੱਥੇ\V_VM_VF ,\RD_PUNC
+PBLTD3561	ਗੰਜ\N_NN ਲਾਹ\V_VM ਸੁੱਟੇ\V_VM_VF ਓਨ੍ਹਾਂ\DM_DMD ਗੋਰਿਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3562	ਟੁੰਡੇ\JJ ਲਾਟ\N_NN ਨੇ\PSP ਅੰਤ\N_NN ਨੂੰ\PSP ਖਾਇ\V_VM ਗੁੱਸਾ\N_NN ,\RD_PUNC
+PBLTD3563	ਫੇਰ\RB ਦਿੱਤੇ\V_VM_VF ਨੀ\RP_INJ ਲੱਖ\QT_QTC ਢੰਡੋਰਿਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3564	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰੰਡ\N_NN ਬਿਠਾਇ\V_VM_VF ਨੰਦਨ\N_NNP ,\RD_PUNC
+PBLTD3565	ਸਿੰਘ\N_NN ਜਾਨ\N_NN ਲੈਂਦੇ\V_VM_VF ਨਾਲ\PSP ਜ਼ੋਰਿਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3566	ਹੁਕਮ\N_NN ਲਾਟ\N_NN ਕੀਤਾ\V_VM_VF ਲਸ਼ਕਰ\N_NN ਆਪਣੇ\PR_PRF ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3567	`\RD_PUNC ਤੁਸਾਂ\PR_PRP ਲਾਜ\N_NN ਅੰਗਰੇਜ਼\N_NN ਦੀ\PSP ਰੱਖਣੀ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3568	ਸਿੰਘਾਂ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਕਟਕ\N_NN ਮੁਕਾਇ\V_VM ਦਿੱਤੇ\V_VM_VF ,\RD_PUNC
+PBLTD3569	ਹਿੰਦੁਸਤਾਨੀ\JJ ਤੇ\CC_CCD ਪੂਰਬੀ\JJ ਦੱਖਣੀ\JJ ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3570	ਨੰਦਨ\N_NNP ਟਾਪੂਆਂ\N_NN ਵਿਚ\PSP ਕੁਰਲਾਟ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3571	ਕੁਰਸੀ\N_NN ਚਾਰ\QT_QTC ਹਜ਼ਾਰ\QT_QTC ਹੈ\V_VAUX ਸੱਖਣੀ\JJ ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3572	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕਰਨੀ\V_VM_VF ਪੰਜਾਬ\N_NNP ਖਾਲੀ\JJ
+PBLTD3573	ਰੱਤ\N_NN ਸਿੰਘ\JJ ਸਿਪਾਹੀ\N_NN ਦੀ\PSP ਚੱਖਣੀ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3574	ਹੋਇਆ\V_VM_VF ਹੁਕਮ\N_NN ਅੰਗਰੇਜ਼\N_NN ਦਾ\PSP ਤੁਰਤ\RB ਜਲਦੀ\RB ,\RD_PUNC
+PBLTD3575	ਤੋਪਾਂ\N_NN ਮਾਰੀਆਂ\V_VM_VNF ਨੀਰ\N_NN ਦੇ\PSP ਆਇ\V_VM ਪੱਲੇ\N_NN ।\RD_PUNC
+PBLTD3576	ਫੂਕ\N_NN ਸੁੱਟੀਆਂ\V_VM_VNF ਸਾਰੀਆਂ\DM_DMQ ਮੇਖ਼ਜੀਨਾਂ\N_NN ,\RD_PUNC
+PBLTD3577	ਸਿੰਘ\N_NN ਉੱਡ\V_VM ਕੇ\V_VM_VNF ਪੱਤਰਾ\N_NN ਹੋਇ\V_VM ਚੱਲੇ\V_VM_VF ।\RD_PUNC
+PBLTD3578	ਛੌਲਦਾਰੀਆਂ\N_NN ,\RD_PUNC ਤੰਬੂਆਂ\N_NN ਛੱਡ\V_VM ਦੌੜੇ\V_VM_VF ,\RD_PUNC
+PBLTD3579	ਕੋਈ\DM_DMQ ਚੀਜ਼\N_NN ਨਾ\RP_NEG ਲਈ\PSP ਏ\RP_INJ ਬੰਨ੍ਹ\V_VM ਪੱਲੇ\N_NN ।\RD_PUNC
+PBLTD3580	ਓੜਕ\RB ਲਿਆ\V_VM_VF ਮੈਦਾਨ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਨੇ\PSP ,\RD_PUNC
+PBLTD3581	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰਣੋਂ\N_NN ਨਾ\RP_NEG ਮੂਲ\N_NN ਹੱਲੇ\V_VM_VF ।\RD_PUNC
+PBLTD3582	ਓਧਰ\RB ਆਪ\PR_PRF ਫ਼ਿਰੰਗੀ\N_NN ਨੂੰ\PSP ਭਾਂਜ\V_VM ਆਈ\V_VM_VF ,\RD_PUNC
+PBLTD3583	ਦੌੜੇ\V_VM_VF ਜਾਣ\V_VM_VF ਗੋਰੇ\N_NN ਦਿੱਤੀ\V_VM_VF ਕੰਡ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3584	ਚੱਲੇ\V_VM_VF ਤੋਪਖ਼ਾਨੇ\N_NN ਸਾਰੇ\DM_DMQ ਬੇੜਿਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD3585	ਮਗਰੋਂ\RB ਹੋਈ\V_VM_VF ਬੰਦੂਕਾਂ\N_NN ਦੀ\PSP ਫੰਡ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3586	ਕਿਹਨੇ\PR_PRQ ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਲਾਟ\N_NN ਨੂੰ\PSP ਖਬਰ\N_NN ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3587	`\RD_PUNC ਨੰਦਨ\N_NNP ਹੋਇ\V_VM ਬੈਠੀ\V_VM_VF ਤੇਰੀ\PR_PRP ਰੰਡ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3588	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਦੇਖ\V_VM ਮੈਦਾਨ\N_NN ਜਾ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3589	ਰੁਲਦੀ\V_VM_VF ਗੋਰਿਆਂ\N_NN ਦੀ\PSP ਓਥੇ\RB ਝੰਡ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC `\RD_PUNC
+PBLTD3590	ਪਹਾੜਾ\N_NNP ਸਿੰਘ\N_NNP ਸੀ\V_VAUX ਯਾਰ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD3591	ਸਿੰਘਾਂ\N_NN ਨਾਲ\PSP ਸੀ\V_VAUX ਓਸ\PR_PRP ਦੀ\PSP ਗੈਰਸਾਲੀ\N_NN ।\RD_PUNC
+PBLTD3592	ਪਿੱਛੋਂ\RB ਭੱਜ\V_VM ਕੇ\V_VM_VNF ਲਾਟ\N_NN ਨੂੰ\PSP ਜਾਇ\V_VM ਮਿਲਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD3593	ਗੱਲ\N_NN ਜਾਇ\V_VM ਦੱਸੀ\V_VM_VF ਸਾਰੀ\DM_DMQ ਭੇਤ\N_NN ਵਾਲੀ\PSP ।\RD_PUNC
+PBLTD3594	`\RD_PUNC ਉਥੋਂ\RB ਹੋ\V_VM ਗਿਆ\V_VM_VF ਹਰਨ\V_VM ਹੈ\V_VAUX ਖਾਲਸਾ\N_NN ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3595	ਚੌਦਾਂ\QT_QTC ਹੱਥਾਂ\N_NN ਦੀ\PSP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਜਾਣ\V_VM ਛਾਲੀ\N_NN ।\RD_PUNC
+PBLTD3596	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਾਂਭ\N_NN ਲੈ\V_VM ਸਿਲੇਖਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3597	ਛੱਡ\V_VM ਗਏ\V_VM_VF ਨੀ\RP_INJ ਸਿੰਘ\N_NN ਮੈਦਾਨ\N_NN ਖਾਲੀ\JJ ।\RD_PUNC `\RD_PUNC
+PBLTD3598	ਮੁੜ\V_VM ਕੇ\V_VM_VNF ਫੇਰ\RB ਫ਼ਿਰੰਗੀਆਂ\N_NN ਜ਼ੋਰ\N_NN ਪਾਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3599	ਲਾਟਾਂਦਾਰ\N_NN ਗੋਲੇ\N_NN ਓਥੇ\RB ਆਣ\V_VM_VF ਛੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3600	ਉਡੀ\V_VM_VF ਰਾਲ\N_NN ਤੇ\CC_CCD ਚਾਦਰਾਂ\N_NN ਕੜਕੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ,\RD_PUNC
+PBLTD3601	ਕੈਰੋਂ\N_NN ਪਾਂਡਵਾਂ\N_NN ਦੇ\PSP ਜੈਸੇ\RP_INTF ਬਾਣ\N_NN ਛੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3602	ਜਦੋਂ\PR_PRL ਡਿੱਠੇ\V_VM_VF ਨੀ\RP_INJ ਹੱਥ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD3603	ਉਥੇ\RB ਕਈਆਂ\DM_DMQ ਦੇ\PSP ਆਣ\V_VM_VF ਪ੍ਰਾਣ\N_NN ਛੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3604	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਇਕ\QT_QTC ਸੌ\QT_QTC ਤੇਈ\QT_QTC ਤੋਪਾਂ\N_NN ,\RD_PUNC
+PBLTD3605	ਤੋਸ਼ੇਖਾਨੇ\N_NN ਫ਼ਿਰੰਗੀਆਂ\N_NN ਆਣ\V_VM_VF ਲੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3606	ਜਦੋਂ\PR_PRL ਪਿਆ\V_VM_VF ਹਰਾਸ\N_NN ਤੇ\CC_CCD ਕਰਨ\V_VM_VF ਗੱਲਾਂ\N_NN ,\RD_PUNC
+PBLTD3607	ਮੁੰਡੇ\N_NN ਘੋੜ-ਚੜੇ\JJ ,\RD_PUNC ਨਵੇਂ\JJ ਛੋਕਰੇ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3608	ਅੱਧੀ\JJ ਰਾਤ\N_NN ਨੂੰ\PSP ਉੱਠ\V_VM ਕੇ\V_VM_VNF ਖਿਸਕ\V_VM ਤੁਰੀਏ\V_VM_VF ,\RD_PUNC
+PBLTD3609	ਕਿੱਥੋਂ\RB ਪਏ\V_VM_VF ਗੋਰੇ\N_NN ਸਾਨੂੰ\PR_PRP ਓਪਰੇ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3610	ਵਾਹੀ\N_NN ਕਰਦੇ\V_VM_VF ਤੇ\CC_CCD ਰੋਟੀਆਂ\N_NN ਖੂਬ\JJ ਖਾਂਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3611	ਅਸੀਂ\PR_PRP ਜਿਨ੍ਹਾਂ\PR_PRL ਦੇ\PSP ਪੁਤਰ\N_NN ਤੇ\CC_CCD ਪੋਤਰੇ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3612	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਖੂਹਾਂ\N_NN ਤੇ\CC_CCD ਮਿਲਖ\N_NN ਵਾਲੇ\PSP ,\RD_PUNC
+PBLTD3613	ਅਸੀਂ\PR_PRP ਦੱਬ\V_VM ਕੇ\V_VM_VNF ਲਾਵਾਂਗੇ\V_VM_VF ਜੋਤਰੇ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3614	ਜਿਹੜੇ\PR_PRL ਜੀਂਵਦੇ\JJ ਰਹੇ\V_VM_VF ਸੋ\CC_CCD ਪਏ\V_VM_VF ਸੋਚੀਂ\N_NN ,\RD_PUNC
+PBLTD3615	ਹੋਏ\V_VM_VF ਭੁੱਖ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਜ਼ਹੀਰ\JJ ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3616	ਬੁਰੇ\JJ ਜਿੰਨ\N_NN ਹੋ\V_VM ਕੇ\V_VM_VNF ਸਾਨੂੰ\PR_PRP ਪਏ\V_VM_VF ਗੋਰੇ\N_NN ,\RD_PUNC
+PBLTD3617	ਅਸੀਂ\PR_PRP ਜਾਣਦੇ\V_VM_VF ਸਾਂ\V_VAUX ਕੋਈ\DM_DMQ ਕੀਰ\N_NN ਮੀਆਂ\N_NN |\RD_PUNC
+PBLTD3618	ਅਸਾਂ\PR_PRP ਸ਼ਹਿਦ\N_NN ਦੇ\PSP ਵਾਸਤੇ\PSP ਹੱਥ\N_NN ਪਾਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3619	ਅੱਗੋਂ\RB ਡੂਮਣਾ\N_NN ਛਿੜੇ\V_VM_VF ਮਖੀਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3620	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰਾਹ\N_NN ਨਾ\RP_NEG ਕੋਈ\DM_DMQ ਲੱਭੇ\JJ ,\RD_PUNC
+PBLTD3621	ਜਿਥੇ\RB ਚਲੀਏ\V_VM_VF ਘੱਤ\N_NN ਵਹੀਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3622	ਘਰੋਂ\N_NN ਗਏ\V_VM_VF ਫ਼ਿਰੰਗੀ\N_NN ਦੇ\PSP ਮਾਰਨੇ\V_VM_VF ਨੂੰ\PSP ,\RD_PUNC
+PBLTD3623	ਬੇੜੇ\N_NN ਤੋਪਾਂ\N_NN ਦੇ\PSP ਸਭ\DM_DMQ ਖੁਹਾਇ\N_NN ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD3624	ਛੇੜ\V_VM ਆਫ਼ਤਾਂ\N_NN ਨੂੰ\PSP ਮਗਰ\RB ਲਾਇਓ\V_VM_VF ਨੇ\PSP ,\RD_PUNC
+PBLTD3625	ਸਗੋਂ\CC_CCD ਆਪਣਾ\PR_PRF ਆਪ\PR_PRF ਗਵਾਇ\V_VM ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD3626	ਸੁਖੀ\JJ ਵਸਦਾ\N_NN ਸ਼ਹਿਰ\N_NN ਲਾਹੌਰ\N_NNP ਸਾਰਾ\DM_DMQ ,\RD_PUNC
+PBLTD3627	ਸਗੋਂ\CC_CCD ਕੁੰਜੀਆਂ\N_NN ਹੱਥ\N_NN ਫੜਾਇ\V_VM ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD3628	ਸ਼ਾਹ\PR_PRP ਮੁਹੰਮਦਾ\N_NNP ਕਹਿੰਦੇ\V_VM_VF ਨੇ\PSP ਲੋਕ\N_NN ਸਿੰਘ\N_NN ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3629	`\RD_PUNC ਤੁਸੀਂ\PR_PRP ਚੰਗੀਆਂ\JJ ਪੂਰੀਆਂ\N_NN ਪਾਇ\V_VM ਆਏ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBLTD3630	ਘਰੀਂ\N_NN ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਫੇਰ\RB ਆਰਾਮ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3631	ਕਿਸੇ\DM_DMQ ਰਾਤ\N_NN ਕਿਸੇ\DM_DMQ ਦੋਇ\QT_QTC ਰਾਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3632	ਪਿੱਛੋਂ\RB ਫੇਰ\RB ਸਰਦਾਰਾਂ\N_NN ਨੇ\PSP ਸੱਦ\N_NN ਭੇਜੇ\V_VM_VF ,\RD_PUNC
+PBLTD3633	ਜੇ\CC_CCS ਕੋਈ\DM_DMQ ਸਿੰਘ\N_NN ਸਿਪਾਹੀ\N_NN ਦੀ\PSP ਜ਼ਾਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3634	`\RD_PUNC ਕਿੱਥੇ\PR_PRQ ਲੁਕੋਗੇ\V_VM_VF ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਖਾਲਸਾ\N_NN ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3635	ਦੱਸੋ\V_VM_VF ਖੋਲ\V_VM ਕੇ\V_VM_VNF ਅਸਲ\JJ ਦੀ\PSP ਬਾਤ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC `\RD_PUNC
+PBLTD3636	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਫੇਰ\RB ਇਕੱਠ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3637	ਲੱਗੀ\V_VM_VF ਚਾਨਣੀ\N_NN ਹੋਰ\JJ ਕਨਾਤ\JJ ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3638	ਕੰਢੇ\N_NN ਪਾਰ\N_NN ਦੇ\PSP ਜਮ੍ਹਾਂ\V_VM ਜੁ\PR_PRL ਹੋਇ\V_VM_VF ਡੇਰੇ\N_NN ,\RD_PUNC
+PBLTD3639	ਨੌਕਰ\N_NN ਇਵੇਂ\RB ਦੇ\PSP ਘਰੀਂ\N_NN ਨਾ\RP_NEG ਮਿਲਣ\V_VM_VF ਜਾਣੇ\V_VM_VF ।\RD_PUNC
+PBLTD3640	ਡੇਰੇ\N_NN ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਬਹੁ\JJ ਵਿਰਲਾਪ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3641	ਹੋਈਆਂ\V_VM_VNF ਬੁਤਕੀਆਂ\N_NN ਬੰਦ\N_NN ਤੇ\CC_CCD ਵਿਕਣ\V_VM_VF ਦਾਣੇ\N_NN ।\RD_PUNC
+PBLTD3642	ਛਹੀਆਂ\N_NN ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਮੋਰਚੀਂ\N_NN ਜਾਇ\V_VM ਬੈਠੇ\V_VM_VF ,\RD_PUNC
+PBLTD3643	ਡੇਰੀਂ\N_NN ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਫੇਰ\RB ਪ੍ਰਸਾਦ\N_NN ਖਾਣੇ\V_VM_VF ।\RD_PUNC
+PBLTD3644	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਭੇ\DM_DMQ ਮਾਲੂਮ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3645	ਕੀਕੂੰ\N_NN ਹੋਈ\V_VM_VF ਸੀ\V_VAUX ਦੱਸ\V_VM ਖਾਂ\N_NNP ਲੁਧਿਆਣੇ\N_NNP ।\RD_PUNC
+PBLTD3646	ਸਰਦਾਰ\N_NN ਰਣਜੋਧ\N_NNP ਸਿੰਘ\N_NNP ਫੌਜ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3647	ਮੱਦਦ\N_NN ਲਾਡੂਏ\N_NNP ਵਾਲੇ\PSP ਦੀ\PSP ਚੱਲਿਆ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3648	ਉਹ\PR_PRP ਦੇ\PSP ਸਭ\DM_DMQ ਕਬੀਲੇ\N_NN ਸੀ\V_VAUX ਕੈਦ\N_NN ਹੋਏ\V_VM_VF ,\RD_PUNC
+PBLTD3649	ਕੋਈ\DM_DMQ ਲਾਟ\N_NN ਫ਼ਿਰੰਗੀ\N_NN ਨੇ\PSP ਘੱਲਿਆ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3650	ਇਨ੍ਹਾਂ\DM_DMD ਜਾਇ\V_VM ਖੋਹੀਆਂ\V_VM_VNF ਬੰਦਾਂ\N_NN ਸਾਰੀਆਂ\DM_DMQ ਨੀ\RP_INJ ,\RD_PUNC
+PBLTD3651	ਉਹ\PR_PRP ਦਾ\PSP ਜ਼ੋਰ\N_NN ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਨੇ\PSP ਝੱਲਿਆ\V_VM_VF ਜੇ\RP_INJ ।\RD_PUNC
+PBLTD3652	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਛਾਵਣੀ\N_NN ਫੂਕ\V_VM ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3653	ਵਿਚੋਂ\PSP ਜੀਉ\N_NN ਫ਼ਿਰੰਗੀ\N_NN ਦਾ\PSP ਹੱਲਿਆ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3654	ਚਾਰ\QT_QTC ਪੜਤਲਾਂ\N_NN ਲੈ\V_VM ਮੇਵਾ\N_NNP ਸਿੰਘ\N_NNP ਆਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD3655	ਸਿੰਘ\N_NN ਆਪਣੇ\PR_PRF ਹੱਥ\N_NN ਹਥਿਆਰ\N_NN ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3656	ਇਨ੍ਹਾਂ\DM_DMD ਬਹੁਤ\JJ ਫ਼ਿਰੰਗੀ\N_NN ਦੀ\PSP ਫੌਜ\N_NN ਮਾਰੀ\V_VM_VF ,\RD_PUNC
+PBLTD3657	ਲੁੱਟਾਂ\N_NN ਭਾਰੀਆਂ\JJ ਬਾਝ\N_NN ਸ਼ੁਮਾਰ\N_NN ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3658	ਤੋਪਾਂ\N_NN ,\RD_PUNC ਸ਼ੁਤਰ\N_NN ,\RD_PUNC ਹਾਥੀ\N_NN ,\RD_PUNC ਉਠ\N_NN ,\RD_PUNC ਰਥ\N_NN ,\RD_PUNC ਗੱਡੇ\N_NN ,\RD_PUNC
+PBLTD3659	ਡੇਰੇ\N_NN ਆਪਣੇ\PR_PRF ਸਿੰਘ\N_NN ਉਤਾਰ\V_VM ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3660	ਸ਼ਾਹ\PR_PRP ਮੁਹੰਮਦਾ\N_NNP ਸਿੰਘ\N_NN ਜੇ\CC_CCS ਜ਼ੋਰ\N_NN ਕਰਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD3661	ਭਾਵੇਂ\CC_CCD ਲੁਧਿਆਣਾ\N_NNP ਤਦੋਂ\RB ਮਾਰ\N_NN ਲੈਂਦੇ\V_VM_VF ।\RD_PUNC
+PBLTD3662	ਮੁਹਕਮ\N_NNP ਦੀਨ\N_NNP ,\RD_PUNC ਸਰਦਾਰ\N_NN ਨੂੰ\PSP ਲਿਖੀ\V_VM_VF ਅਰਜ਼ੀ\N_NN ,\RD_PUNC
+PBLTD3663	`\RD_PUNC ਤੁਸਾਂ\PR_PRP ਰਸਦ\N_NN ਲੁੱਟੇ\V_VM_VF ਚੰਗੇ\V_VAUX ਸ਼ਾਨ\N_NN ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3664	ਦੇਹੁ\V_VM_VF ਭੇਜ\V_VM ਉਰਾਰ\N_NN ਸਭ\DM_DMQ ਕਾਰਖਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3665	ਅਸੀਂ\PR_PRP ਰੱਖਾਗੇ\V_VM_VF ਨਾਲ\PSP ਰਮਾਨ\N_NN ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3666	ਤੈਨੂੰ\PR_PRP ਅੱਜ\RB ਹਜ਼ੂਰ\N_NN ਥੀਂ\RP_RPD ਫ਼ਤਿਹ\N_NN ਆਈ\V_VM_VF ,\RD_PUNC
+PBLTD3667	ਖ਼ਬਰਾਂ\N_NN ਉੱਡੀਆਂ\V_VM_VNF ਵਿਚ\PSP ਜਹਾਨ\N_NN ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3668	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNV ਵੈਰੀ\N_NN ਨੂੰ\PSP ਜਾਣ\N_NN ਹਾਜ਼ਰ\N_NN ,\RD_PUNC
+PBLTD3669	ਸਦਾ\RB ਰੱਖੀਏ\V_VM_VF ਵਿਚ\PSP ਧਿਆਨ\N_NN ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3670	ਸੱਠ\QT_QTC ਕੋਹਾਂ\N_NN ਦਾ\PSP ਪੰਧ\N_NN ਸੀ\V_VAUX ਲੁਧਿਆਣਾ\N_NNP ,\RD_PUNC
+PBLTD3671	ਰਾਤੋ\N_NN ਰਾਤ\N_NN ਕੀਤੀ\V_VM_VF ਟੁੰਡੇ\N_NN ਦੌੜ\V_VM ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3672	ਉਹ\PR_PRP ਭੀ\RP_RPD ਲੁੱਟਿਆ\V_VM_VF ਲਾਟ\N_NN ਨੇ\PSP ਆਣ\V_VM_VF ਡੇਰਾ\N_NN ,\RD_PUNC
+PBLTD3673	ਤੋਪਾਂ\N_NN ਸਭ\DM_DMQ ਖੋਹੀਆਂ\V_VM_VNF ਕੀਤੀ\V_VM_VF ਰੌੜ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3674	ਝੱਲੀ\N_NN ਅਬੂਤਬੇਲੇ\N_NN ਦੀਆਂ\PSP ਪੜਤਲਾਂ\N_NN ਨੇ\PSP ,\RD_PUNC
+PBLTD3675	ਅੱਧੀ\QT_QTC ਘੜੀ\N_NN ਲੜਾਈ\N_NN ਦੀ\PSP ਸੌੜ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3676	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਿੰਘ\N_NN ਲੁਟਾਇ\V_VM ਡੇਰਾ\N_NN ,\RD_PUNC
+PBLTD3677	ਕਰ\V_VM ਆਏ\V_VM_VF ਨੀ\RP_INJ ਤ੍ਰੱਟੀਆਂ\N_NN ਚੌੜ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3678	ਪਹਿਲੇ\RB ਹੱਲਿਓਂ\N_NN ਸਿੰਘ\N_NN ਜੋ\PR_PRL ਨਿਕਲ\V_VM ਨੱਠੇ\V_VM_VF ,\RD_PUNC
+PBLTD3679	ਪਏ\V_VM_VF ਔਝੜੀਂ\JJ ਔਝੜੀਂ\JJ ਜਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3680	ਲੀੜੇ\N_NN ਗਏ\V_VM_VF ਸਾਰੇ\DM_DMQ ਰਹੀ\V_VM_VF ਇਕ\QT_QTC ਕੁੜਤੀ\N_NN ,\RD_PUNC
+PBLTD3681	ਬਾਹਾਂ\N_NN ਹਿੱਕ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਲਗਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3682	ਅਗੋਂ\RB ਲੋਕ\N_NN ਲੜਾਈ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਪੁਛਣ\V_VM_VF ,\RD_PUNC
+PBLTD3683	ਜੀਭ\N_NN ਹੋਠਾਂ\N_NN ਤੇ\PSP ਫੇਰ\RB ਦਿਖਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3684	ਸ਼ਾਹ\PR_PRP ਮੁਹੰਮਦਾ\PR_PRP ਆਇ\V_VM ਕੇ\V_VM_VNF ਘਰਦਿਆਂ\N_NN ਤੋਂ\PSP ,\RD_PUNC
+PBLTD3685	ਨਵੇਂ\JJ ਕਪੜੇ\N_NN ਹੋਰ\JJ ਸਿਵਾਂਵਦੇ\V_VM_VF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3686	ਕਹਿੰਦੇ\V_VM_VF ,\RD_PUNC ਜੀਉਂਦਿਆਂ\JJ ਫੇਰ\RB ਨਾ\RP_NEG ਕਦੀ\DM_DMQ ਜਾਣਾ\V_VM_VINF ,\RD_PUNC
+PBLTD3687	ਮੂੰਹ\N_NN ਲੱਗਣਾ\V_VM_VINF ਨਹੀਂ\RP_NEG ਚੰਡਾਲ\N_NN ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3688	ਕਿਤੇ\DM_DMQ ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਚਾਰ\QT_QTC ਦਿਨ\N_NN ਕੱਟ\V_VM ਆਈਏ\V_VM_VF ,\RD_PUNC
+PBLTD3689	ਢੂੰਡਣ\V_VM_VF ਆਉਣਗੇ\V_VM_VF ਸਾਡੇ\DM_DMQ ਭੀ\RP_RPD ਨਾਲ\PSP ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3690	ਤੁਸਾਂ\PR_PRP ਆਖਣਾ\V_VM_VINF `\RD_PUNC ਮਰ\V_VM ਗਿਆ\V_VM_VF ਲੁਧਿਆਣੇ\N_NNP ,\RD_PUNC
+PBLTD3691	ਅਸੀਂ\PR_PRP ਫਿਰਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਢੂੰਡਦੇ\V_VM_VF ਭਾਲਦੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3692	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰਹੇ\V_VM_VF ਹਥਿਆਰ\N_NN ਓਥੇ\RB ,\RD_PUNC
+PBLTD3693	ਲੀੜੇ\N_NN ਨਹੀਂ\RP_NEG ਆਏ\V_VM_VF ਸਾਡੇ\PR_PRP ਨਾਲ\PSP ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3694	ਪਿਛੋਂ\RB ਬੈਠ\V_VM ਸਰਦਾਰਾਂ\N_NN ਗੁਰਮਤਾ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3695	ਕੋਈ\DM_DMQ ਅਕਲ\N_NN ਦਾ\PSP ਕਰੋ\V_VM_VF ਇਲਾਜ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3696	ਛੇੜ\V_VM ਬੁਰਛਿਆਂ\N_NN ਦੀ\PSP ਸਾਡੇ\PR_PRP ਪੇਸ਼\N_NN ਆਈ\V_VM_VF ,\RD_PUNC
+PBLTD3697	ਪੱਗ\N_NN ਦਾੜੀਆਂ\N_NN ਦੀ\PSP ਰੱਖੋ\V_VM_VF ਲਾਜ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3698	ਮੁੱਠ\N_NN ਮੀਟੀ\V_VM_VF ਸੀ\V_VAUX ਏਸ\DM_DMD ਪੰਜਾਬ\N_NNP ਦੀ\PSP ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3699	ਇਹਨਾਂ\DM_DMD ਖੋਲ\V_VM ਦਿਤਾ\V_VM_VF ਸਾਰਾ\DM_DMQ ਪਾਜ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC
+PBLTD3700	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਮਰੋ\V_VM_VF ਏਥੇ\RB ,\RD_PUNC
+PBLTD3701	ਕਦੇ\DM_DMQ ਰਾਜ\N_NN ਨਾ\RP_NEG ਹੋਇ\V_VM_VF ਮੁਹਤਾਜ\N_NN ਯਾਰੋ\N_NN ।\RD_PUNC `\RD_PUNC
+PBLTD3702	ਤੀਜੀ\QT_QTO ਵਾਰ\PSP ਲਲਕਾਰ\N_NN ਕੇ\V_VM_VNF ਪਏ\V_VM_VF ਗੋਰੇ\N_NN ,\RD_PUNC
+PBLTD3703	ਵੇਲੇ\RB ਫ਼ਜ਼ਰ\N_NN ਦੇ\PSP ਹੋਇਆ\V_VM_VF ਤੰਬੂਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3704	ਕੱਸ\N_NN ਲਈਆਂ\V_VM_VNF ਨੇ\PSP ਸਿੰਘਾਂ\N_NN ਨੇ\PSP ਤੁਰਤ\RB ਕਮਰਾਂ\N_NN ,\RD_PUNC
+PBLTD3705	ਕਾਇਮ\N_NN ਜੰਗ\N_NN ਨੂੰ\PSP ਹੋਇ\V_VM_VF ਜ਼ਰੂਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3706	ਪਹਿਲਾਂ\RB ਬਾਵਿਓਂ\N_NN ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਜ਼ੋਰ\N_NN ਦਿਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3707	ਪਿਆ\V_VM_VF ਦਲਾਂ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਫਤੂਰ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3708	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਦੌੜ\V_VM ਕੇ\V_VM_VNF ਜਾਣ\V_VM_VF ਕਿਥੇ\DM_DMQ ,\RD_PUNC
+PBLTD3709	ਇਥੋਂ\RB ਸ਼ਹਿਰ\N_NN ਲਾਹੌਰ\N_NNP ਹੈ\V_VAUX ਦੂਰ\RB ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3710	ਆਈਆਂ\V_VM_VNF ਪੜਤਲਾਂ\N_NN ਬੀੜ\V_VM ਕੇ\V_VM_VNF ਤੋਪਖਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3711	ਅੱਗੋਂ\RB ਸਿੰਘਾਂ\N_NN ਨੇ\PSP ਪਾਸੜੇ\N_NN ਤੋੜ\V_VM ਸੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3712	ਮਾਖੇ\N_NNP ਖਾਂ\N_NNP ਤੇ\CC_CCD ਮੇਵਾ\N_NNP ਸਿੰਘ\N_NNP ਹੋਏ\V_VM_VF ਸਿੱਧੇ\JJ ,\RD_PUNC
+PBLTD3713	ਹੱਲੇ\N_NN ਤਿੰਨ\QT_QTC ਫ਼ਿਰੰਗੀ\N_NN ਦੇ\PSP ਮੋੜ\V_VM ਸੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3714	ਸ਼ਾਮ\N_NNP ਸਿੰਘ\N_NNP ਸਰਦਾਰ\N_NN ਅਟਾਰੀ\N_NNP ਵਾਲੇ\PSP ,\RD_PUNC
+PBLTD3715	ਮਾਰ\V_VM ਸ਼ਸਤ੍ਰੀਂ\N_NN ਜੋੜ\N_NN ਵਿਛੋੜ\N_NN ਸੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3716	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਿੰਘਾਂ\N_NN ਨੇ\PSP ਗੋਰਿਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD3717	ਵਾਂਙ\JJ ਨਿੰਬੂਆਂ\N_NN ਲਹੂ\N_NN ਨਿਚੋੜ\V_VM ਸੁੱਟੇ\V_VM_VF ।\RD_PUNC
+PBLTD3718	ਪਏ\V_VM_VF ਬਾਵਿਓਂ\N_NN ਆਣ\V_VM_VF ਕੇ\V_VM_VNF ਫੇਰ\RB ਗੋਰੇ\N_NN ,\RD_PUNC
+PBLTD3719	ਫਰਾਂਸੀਸ\N_NN ਤੇ\PSP ਜਿੱਥੇ\PR_PRL ਸੀ\V_VAUX ਚਾਰ\QT_QTC -\RD_PUNC ਯਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3720	ਕੁੰਡਲ\N_NN ਘੱਤਿਆ\V_VM_VF ਵਾਂਗ\JJ ਕਮਾਨ\N_NN ਗੋਸ਼ੇ\N_NN ,\RD_PUNC
+PBLTD3721	ਬਣੀ\V_VM_VF ਆਣ\V_VM_VF ਸਰਦਾਰਾਂ\N_NN ਨੂੰ\PSP ਬਿਪਤ\N_NN ਭਾਰੀ\JJ ,\RD_PUNC
+PBLTD3722	ਤੇਜਾ\N_NNP ਸਿੰਘ\N_NNP ਸਰਦਾਰ\N_NN ਪੁਲ\N_NN ਵੱਢ\V_VM ਦਿਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3723	ਘਰੀਂ\N_NN ਨੱਸ\V_VM ਨਾ\RP_NEG ਜਾਇ\V_VM_VF ਇਹ\DM_DMD ਫੌਜ\N_NN ਸਾਰੀ\DM_DMQ ,\RD_PUNC
+PBLTD3724	ਸ਼ਾਹ\PR_PRP ਮੁਹੰਮਦਾ\PR_PRP ਮਰਨ\V_VM_VF ਸ਼ਹੀਦ\N_NN ਹੋ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3725	ਅਤੇ\CC_CCD ਜਾਨ\N_NN ਨਾ\RP_NEG ਕਰਨਗੇ\V_VM_VF ਮੂਲ\N_NN ਪਿਆਰੀ\JJ ।\RD_PUNC
+PBLTD3726	ਜੰਗ\N_NN ਹਿੰਦ\N_NNP ਪੰਜਾਬ\N_NNP ਦਾ\PSP ਹੋਣ\V_VM_VF ਲੱਗਾ\V_VM_VF ,\RD_PUNC
+PBLTD3727	ਦੋਵੇਂ\RD_SYM ਪਾਤਸ਼ਾਹੀ\N_NN ਫੌਜਾਂ\N_NN ਭਾਰੀਆਂ\JJ ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3728	ਅੱਜ\RB ਹੋਵੇ\V_VM_VF ਸਰਕਾਰ\N_NN ਤਾਂ\RP_RPD ਮੁੱਲ\N_NN ਪਾਵੇ\V_VM_VF ,\RD_PUNC
+PBLTD3729	ਜਿਹੜੀਆਂ\PR_PRL ਖਾਲਸੇ\N_NN ਨੇ\PSP ਤੇਗਾਂ\N_NN ਮਾਰੀਆਂ\V_VM_VNF ਨੀ\RP_INJ |\N_NN
+PBLTD3730	ਘੋੜੇ\N_NN ਆਦਮੀ\N_NN ਗੋਲਿਆਂ\N_NN ਨਾਲ\PSP ਉੱਡਣ\V_VM_VF ,\RD_PUNC
+PBLTD3731	ਹਾਥੀ\N_NN ਢਹਿੰਦੇ\V_VM ਸਣੇ\PSP ਅੰਬਾਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3732	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਇਕ\QT_QTC ਸਰਕਾਰ\N_NN ਬਾਝੋਂ\RB ,\RD_PUNC
+PBLTD3733	ਫੌਜਾਂ\N_NN ਜਿੱਤ\V_VM ਕੇ\V_VM_VNF ਅੰਤ\RB ਨੂੰ\PSP ਹਾਰੀਆਂ\V_VM_VNF ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3734	ਕਈ\DM_DMQ ਸੂਰਮੇ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਮੋਏ\JJ ਉਥੇ\RB ,\RD_PUNC
+PBLTD3735	ਜਿਨ੍ਹਾਂ\PR_PRL ਹੱਥ\N_NN ਕੀਤੇ\V_VM_VF ਤੇਗਾਂ\N_NN ਨੰਗੀਆਂ\JJ ਦੇ\PSP ।\RD_PUNC
+PBLTD3736	ਰਹਿੰਦੇ\V_VM_VF ਘੇਰ\V_VM ਕੇ\V_VM_VNF ਵਿਚ\PSP ਦਰਿਆਇ\N_NN ਡੋਬੇ\V_VM_VF ,\RD_PUNC
+PBLTD3737	ਛੱਰਰੇ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਤੇ\CC_CCD ਤੋਪਾਂ\N_NN ਚੰਗੀਆਂ\JJ ਦੇ\PSP ।\RD_PUNC
+PBLTD3738	ਕਹਿੰਦੇ\V_VM_VF ਨੌਕਰੀ\N_NN ਕਾਸ\PR_PRQ ਨੂੰ\PSP ਅਸਾਂ\PR_PRP ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD3739	ਆਖੇ\N_NN ਲੱਗ\V_VM ਕੇ\V_VM_VNF ਸਾਥੀਆਂ\N_NN ਸੰਗੀਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3740	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰੱਬ\N_NN ਨਾ\RP_NEG ਫੇਰ\RB ਲਿਆਵੇ\V_VM_VF ,\RD_PUNC
+PBLTD3741	ਜੰਗ\N_NN ਵਿਚ\PSP ਜੋ\PR_PRL ਨਾਲ\PSP ਫ਼ਿਰੰਗੀਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3742	ਕਈ\DM_DMQ ਮਾਵਾਂ\N_NN ਦੇ\PSP ਪੁੱਤਰ\N_NN ਨੀ\RP_INJ ਮੋਏ\V_VM_VF ਓਥੇ\RB ,\RD_PUNC
+PBLTD3743	ਸੀਨੇ\N_NN ਲੱਗੀਆਂ\V_VM_VNF ਤੇਜ\JJ ਕਟਾਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3744	ਜਿਨਾਂ\PR_PRL ਭੈਣਾਂ\N_NN ਨੂੰ\PSP ਵੀਰ\N_NN ਨਾ\RP_NEG ਮਿਲੇ\V_VM_VF ਮੁੜ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3745	ਪਈਆਂ\V_VM_VNF ਰੋਂਦੀਆਂ\N_NN ਫਿਰਨ\V_VM_VF ਵਿਚਾਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3746	ਜੰਗੀਂ\JJ ਜਿਨਾਂ\PR_PRL ਦੇ\PSP ਸਿਰਾਂ\N_NN ਦੇ\PSP ਮੋਏ\JJ ਵਾਲੀ\PSP ,\RD_PUNC
+PBLTD3747	ਖੁਲੇ\JJ ਵਾਲ\N_NN ਤੇ\CC_CCD ਕਰਨ\V_VM_VF ਬੇਜ਼ਾਰੀਆਂ\N_NN ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3748	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਬਹੁਤ\JJ ਸਰਦਾਰ\N_NN ਮਾਰੇ\V_VM_VF ,\RD_PUNC
+PBLTD3749	ਪਈਆਂ\V_VM_VNF ਰਾਜ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਖੁਆਰੀਆਂ\JJ ਨੀ\RP_INJ ।\RD_PUNC
+PBLTD3750	ਲਿਖਿਆ\V_VM_VF ਤੁਰਤ\RB ਪੈਗ਼ਾਮ\N_NN ਰਾਣੀ\N_NN ਜਿੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3751	`\RD_PUNC ਕੋਈ\DM_DMQ ਤੁਸਾਂ\PR_PRP ਨੇ\PSP ਦੇਰ\N_NN ਨਹੀਂ\RP_NEG ਲਾਵਣੀ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3752	ਰਹਿੰਦੀ\V_VM_VF ਫੌਜ\N_NN ਦਾ\PSP ਕਰੋ\V_VM_VF ਇਲਾਜ\N_NN ਕੋਈ\DM_DMQ ,\RD_PUNC
+PBLTD3753	ਕਾਬੂ\N_NN ਤੁਸਾਂ\PR_PRP ਬਗੈਰ\RB ਨਾ\RP_NEG ਆਵਣੀ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3754	ਮੇਰੀ\PR_PRP ਜਾਨ\N_NN ਦੇ\PSP ਅਬ\RB ਹੋ\V_VAUX ਤੁਸੀਂ\PR_PRP ਰਾਖੇ\N_NN ,\RD_PUNC
+PBLTD3755	ਪਾਓ\V_VM_VF ਵਿਚ\PSP ਲਾਹੌਰ\N_NNP ਦੇ\PSP ਛਾਵਣੀ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3756	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਅੱਜ\RB ਮੈਂ\PR_PRP ਲਿਆ\V_VM_VF ਬਦਲਾ\N_NN ,\RD_PUNC
+PBLTD3757	ਅੱਗੇ\RB ਹੋਰ\JJ ਕੀ\PR_PRQ ਰੱਬ\N_NN ਨੂੰ\PSP ਭਾਵਣੀ\N_NN ਜੀ\RP_INJ ।\RD_PUNC `\RD_PUNC
+PBLTD3758	ਪੁਲ\N_NN ਬੱਧਾ\V_VM_VF ਫ਼ਿਰੰਗੀਆਂ\N_NN ਖ਼ਬਰ\N_NN ਸੁਣ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3759	ਲਾਂਘੇ\V_VM ਪਏ\V_VM_VF ਨੀ\RP_INJ ਵਿਚ\PSP ਪਲਕਾਰਿਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3760	ਆਏ\V_VM_VF ਸ਼ਹਿਰ\N_NN ਲਾਹੌਰ\N_NNP ਨੂੰ\PSP ਮਾਰ\V_VM_VF ਧੌਂਸਾ\N_NN ,\RD_PUNC
+PBLTD3761	ਵੱਜਦੇ\V_VM_VF ਵਾਜਿਆਂ\N_NN ਨਾਲ\PSP ਨਗਾਰਿਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD3762	ਸਾਂਭ\V_VM ਲਏ\V_VM_VF ਸਰਕਾਰ\N_NN ਦੇ\PSP ਸਿਲ੍ਹੇ\JJ ਖਾਨੇ\N_NN ,\RD_PUNC
+PBLTD3763	ਵਾਲੀ\PSP ਬਣੇ\V_VM_VF ਜੇ\CC_CCS ਰਾਜ-ਦੁਆਰਿਆਂ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3764	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਫੇਰ\RB ਸੀ\V_VAUX ਵਿਰਲਿਆਂ\N_NN ਦੀ\PSP ,\RD_PUNC
+PBLTD3765	ਸੋਈ\N_NN ਪੇਸ਼\N_NN ਆਈ\V_VM_VF ਸਿੰਘਾਂ\N_NN ਸਾਰਿਆਂ\DM_DMQ ਦੇ\PSP ।\RD_PUNC
+PBLTD3766	ਰਾਜਾ\N_NN ਗਿਆ\V_VM_VF ਗੁਲਾਬ\N_NNP ਸਿੰਘ\N_NNP ਆਪ\PR_PRF ਚੜ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3767	ਬਾਹੋਂ\N_NN ਪਕੜ\V_VM ਲਾਹੌਰ\N_NNP ਲੈ\V_VM ਜਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3768	`\RD_PUNC ਸਾਹਿਬ\N_NN ਲੋਕ\N_NN ਜੀ\RP_INJ !\RD_PUNC ਅਸਾਂ\PR_PRP ਪਰ\PSP ਦਇਆ\N_NN ਕਰਨੀ\V_VM_VF `\RD_PUNC ,\RD_PUNC
+PBLTD3769	ਉਹ\PR_PRP ਤਾਂ\RP_RPD ਆਪਣਾ\PR_PRF ਕੰਮ\N_NN ਬਣਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3770	ਦਿਤੇ\V_VM_VF ਕੱਢ\V_VM ਮਲਵਈ\JJ ਦੁਆਬੀਏ\JJ ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3771	ਵਿਚੋਂ\PSP ਸਿੰਘਾਂ\N_NN ਦੀ\PSP ਫੌਜ\N_NN ਖਿਸਕਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3772	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਭ\DM_DMQ ਪਹਾੜ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD3773	ਕੂਚ\N_NN ਜੰਮੂ\N_NNP ਨੂੰ\PSP ਤੁਰਤ\RB ਕਰਾਂਵਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3774	ਬਣੇ\V_VM_VF ਮਾਈ\N_NN ਦੇ\PSP ਆਣ\V_VM_VF ਅੰਗਰੇਜ਼\JJ ਰਾਖੇ\N_NN ,\RD_PUNC
+PBLTD3775	ਪਾਈ\V_VM_VF ਛਾਵਣੀ\N_NN ਵਿਚ\PSP ਲਾਹੌਰ\N_NNP ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3776	ਰੋਕ\V_VM ਮਾਲਵਾ\N_NNP ਪਾਰ\N_NN ਦਾ\PSP ਮੁਲਕ\N_NN ਸਾਰਾ\DM_DMQ ,\RD_PUNC
+PBLTD3777	ਠਾਣਾ\N_NN ਘੱਤਿਆ\V_VM_VF ਵਿਚ\PSP ਫਿਲੌਰ\N_NNP ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3778	ਲਿਆ\V_VM_VF ਸ਼ਹਿਰ\N_NN ਹੁਸ਼ਿਆਰ\N_NNP ਪੁਰ\N_NNP ਤਲਕ\N_NN ਸਾਰਾ\DM_DMQ ,\RD_PUNC
+PBLTD3779	ਜਿਹੜੇ\PR_PRL ਟਕੇ\N_NN ਆਵਣ\V_VM_VF ਨੰਦਾ\N_NNP ਚੌਰ\N_NNP ਦੇ\PSP ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3780	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕਾਂਗੜਾ\N_NNP ਮਾਰ\V_VM ਬੈਠਾ\V_VM_VF ,\RD_PUNC
+PBLTD3781	ਸਭੇ\DM_DMQ ਕੰਮ\N_NN ਗਏ\V_VM_VF ਉਸਦੇ\PR_PRP ਸੌਰਦੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3782	ਰਹਿੰਦਾ\V_VM_VF ਮੁਲਕ\N_NN ਫ਼ਿਰੰਗੀ\N_NN ਦੇ\PSP ਪਿਆ\V_VM_VF ਪੇਟੇ\N_NN ,\RD_PUNC
+PBLTD3783	ਕੀਤਾ\V_VM_VF ਹੁਕਮ\N_NN ਜੁ\PR_PRL ਗੋਰਿਆਂ\N_NN ਸਾਰਿਆਂ\DM_DMQ ਨੇ\PSP !\RD_PUNC
+PBLTD3784	ਮਾਈ\N_NN ਫੌਜ\N_NN ਨੂੰ\PSP ਚਾਇ\N_NN ਜਵਾਬ\N_NN ਦਿਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3785	ਦਿਤੀ\V_VM_VF ਨੌਕਰੀ\N_NN ਛੱਡ\V_VM ਵਿਚਾਰਿਆਂ\N_NN ਨੇ\PSP ।\RD_PUNC
+PBLTD3786	ਪਿਛੋਂ\RB ਸਾਂਭ\N_NN ਲਿਆ\V_VM_VF ਮੁਲਕ\N_NN ਕਾਰਦਾਰਾਂ\N_NN ,\RD_PUNC
+PBLTD3787	ਬਖ਼ਤਾਵਰਾਂ\N_NN ਨੇਕ\JJ ਸਤਾਰਿਆਂ\N_NN ਨੇ\PSP ।\RD_PUNC
+PBLTD3788	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਲੋਕ\N_NN ਵੈਰਾਨ\JJ ਹੋਏ\V_VM_VF ,\RD_PUNC
+PBLTD3789	ਤੋੜ\V_VM ਸੁਟਿਆ\V_VM_VF ਮੁਲਕ\N_NN ਉਜਾੜਿਆਂ\N_NN ਨੇ\PSP ।\RD_PUNC
+PBLTD3790	ਕੀਤਾ\V_VM_VF ਅਕਲ\N_NN ਦਾ\PSP ਪੇਚ\N_NN ਸੀ\V_VAUX ਜਿੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3791	ਮੱਥਾ\N_NN ਦੋਹਾਂ\QT_QTC ਬਾਦਸ਼ਾਹੀਆਂ\N_NN ਦਾ\PSP ਜੋੜਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3792	ਗੁੱਝੀ\JJ ਰਮਜ਼\N_NN ਕਰਕੇ\V_VM_VNF ਰਹੀ\V_VM_VF ਆਪ\PR_PRF ਸੱਚੀ\JJ ,\RD_PUNC
+PBLTD3793	ਬਦਲਾ\N_NN ਤੁਰਤ\RB ਭਿਰਾਉ\N_NN ਦਾ\PSP ਮੋੜਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3794	ਨਾਲੇ\PSP ਫੌਜ\N_NN ਨੂੰ\PSP ਤੁਰਤ\RB ਜਵਾਬ\N_NN ਦਿਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3795	ਉਸ\PR_PRP ਕੁਫਰ\N_NN ਮੁਦਈ\N_NN ਦਾ\PSP ਤੋੜਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3796	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਕਰੇ\V_VM_VF ਜਹਾਨ\N_NN ਗੱਲਾਂ\N_NN ,\RD_PUNC
+PBLTD3797	ਲਸ਼ਕਰ\N_NN ਵਿਚ\PSP ਦਰਿਆਇ\N_NN ਦੇ\PSP ਬੋੜਿਆ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD3798	ਪਿੱਛੋਂ\RB ਬੈਠ\V_VM ਕੇ\V_VM_VNF ਸਿੰਘਾਂ\N_NN ਨੂੰ\PSP ਅਕਲ\N_NN ਆਈ\V_VM_VF ,\RD_PUNC
+PBLTD3799	ਕੇਹੀ\PR_PRQ ਚੜੀ\V_VM_VF ਹੈ\V_VAUX ਕਹਿਰ\N_NN ਦੀ\PSP ਸਾਣ\N_NN ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3800	ਕਿੰਨਾਂ\PR_PRQ ਖੁੰਧਰਾਂ\N_NN ਵਿਚ\PSP ਫਸਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD3801	ਸਾਡੇ\DM_DMQ ਲਾਹਿ\V_VM ਸੁਟੇ\V_VM_VF ਤੂੰ\PR_PRP ਤਾਂ\RP_RPD ਘਾਣ\N_NN ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3802	ਹਥ\N_NN ਧੋ\V_VM ਕੇ\V_VM_VNF ਪਈ\V_VM_VF ਹੈਂ\V_VAUX ਮਗਰ\RB ਸਾਡੇ\DM_DMQ ,\RD_PUNC
+PBLTD3803	ਅਜੇ\RB ਘਰੀਂ\N_NN ਨਾ\RP_NEG ਦੇਂਦੀ\V_VM_VF ਹੈਂ\N_NN ਜਾਣ\V_VM_VF ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3804	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਰਹੇ\V_VM_VF ਹਥਿਆਰ\N_NN ਉਥੇ\RB ,\RD_PUNC
+PBLTD3805	ਨਾਲ\PSP ਕੁੜਤੀਆਂ\N_NN ਲਏ\V_VM_VF ਪਛਾਣ\V_VM_VF ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3806	ਹੁੰਦੇ\V_VM_VF ਆਏ\V_VM_VF ਨੀ\RP_INJ ਰੰਨਾਂ\N_NN ਦੇ\PSP ਧੁਰੋਂ\RB ਕਾਰੇ\N_NN ,\RD_PUNC
+PBLTD3807	ਰਾਵਣ\N_NNP ਲੰਕਾ\N_NNP ਦੇ\PSP ਵਿਚ\PSP ਮਰਵਾਇ\V_VM_VF ਦਿਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD3808	ਕੈਰੋਂ\N_NNP ਪਾਂਡਵਾਂ\N_NNP ਨਾਲ\PSP ਕੀ\PR_PRQ ਭਲਾ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD3809	ਠਾਰਾਂ\N_NN ਖੂਹਣੀਆਂ\N_NN ਕਟਕ\N_NNP ਮੁਕਾਇ\V_VM_VF ਦਿਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD3810	ਰਾਜੇ\N_NN ਭੋਜ\N_NN ਦੇ\PSP ਉਤੇ\PSP ਅਸਵਾਰ\N_NN ਹੋਈਆਂ\V_VM_VNF ,\RD_PUNC
+PBLTD3811	ਮਾਰ\V_VM ਅੱਡੀਆਂ\N_NN ਹੋਸ਼\N_NN ਭੁਲਾਇ\JJ ਦਿਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD3812	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਏਸ\DM_DMD ਰਾਣੀ\N_NN ਜਿੰਦ\N_NNP ਕੌਰਾਂ\N_NNP ,\RD_PUNC
+PBLTD3813	ਸਾਰੇ\DM_DMQ ਦੇਸ਼\N_NN ਦਾ\PSP ਫਰਸ਼\N_NN ਉਠਾਇ\V_VM ਦਿਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD3814	ਰੱਬ\N_NN ਚਾਹੇਗਾ\V_VM_VF ਤਾਂ\RB ਕਰੇਗਾ\V_VM_VNF ਮਿਹਰਬਾਨੀ\N_NN ,\RD_PUNC
+PBLTD3815	ਹੋਇਆ\V_VM_VF ਸਿੰਘਾਂ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਅਰਾਸਤਾ\N_NN ਈ\RP_RPD ।\RD_PUNC
+PBLTD3816	ਵੱਡੀ\JJ ਸਾਂਝ\N_NN ਹੈ\V_VAUX ਹਿੰਦੂਆਂ\N_NN ਮੁਸਲਮਾਨਾਂ\N_NN ,\RD_PUNC
+PBLTD3817	ਉਹ\PR_PRP ਦੇ\PSP ਨਾਲ\PSP ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਦਾ\PSP ਵਾਸਤਾ\PSP ਈ\RP_RPD ।\RD_PUNC
+PBLTD3818	ਉਹਦੇ\DM_DMD ਨਾਲ\PSP ਨਾ\RP_NEG ਬੈਠ\V_VM ਕੇ\V_VM_VNF ਗੱਲ\N_NN ਕਰਨੀ\V_VM_VF ,\RD_PUNC
+PBLTD3819	ਖੁਦੀ\JJ ਆਪਣੀ\PR_PRF ਵਿਚ\PSP ਮਹਾਸਭਾ\N_NN ਈ\RP_RPD ।\RD_PUNC
+PBLTD3820	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਦੌਲਤਾਂ\N_NN ਜਮਾਂ\V_VM ਕਰਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD3821	ਸ਼ਾਹੂਕਾਰ\N_NN ਦਾ\PSP ਜਿਵੇਂ\RP_INTF ਗੁਮਾਸ਼ਤਾ\N_NN ਈ\RP_RPD ।\RD_PUNC
+PBLTD3822	ਜਿਹੜੀ\PR_PRL ਹੋਈ\V_VM_VF ਸੋ\CC_CCD ਲਈ\PSP ਹੈ\V_VAUX ਵੇਖ\V_VM ਅੱਖੀਂ\N_NN ,\RD_PUNC
+PBLTD3823	ਅਗੇ\RB ਹੋਰ\JJ ਕੀ\PR_PRQ ਬਣਤ\N_NN ਬਣਾਵਣੀ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3824	ਇਕ\QT_QTC ਘੜੀ\N_NN ਦੀ\PSP ਕੁਝ\DM_DMQ ਉਮੈਦ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD3825	ਕਿਸੇ\DM_DMR ਲਈ\PSP ਹਾੜੀ\N_NN ਕਿਸੇ\DM_DMQ ਸਾਵਣੀ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3826	ਨਿਕੇ\JJ ਪੋਚ\N_NN ਹੁਣ\RB ਬੈਠ\V_VM ਕੇ\V_VM_VNF ਕਰਨ\V_VM_VF ਗੱਲਾਂ\N_NN ,\RD_PUNC
+PBLTD3827	ਡਿਠੀ\N_NN ,\RD_PUNC ਅਸਾਂ\PR_PRP ਫ਼ਿਰੰਗੀ\N_NN ਦੀ\PSP ਛਾਵਣੀ\N_NN ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3828	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਨਹੀਂ\RP_NEG ਮਾਲੂਮ\N_NN ਸਾਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD3829	ਅਗੇ\RB ਹੋਰ\JJ ਕੀ\PR_PRQ ਖੇਡ\N_NN ਰਚਾਵਣੀ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD3830	ਸੰਮਤ\N_NN ਉੱਨੀ\QT_QTC ਸੈ\QT_QTC ਦੂਸਰਾ\QT_QTO ਵਰਤਦਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBLTD3831	ਜਦੋਂ\PR_PRL ਹੋਇਆ\V_VM_VF ਫ਼ਿਰੰਗੀ\N_NN ਦਾ\PSP ਜੰਗ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3832	ਹੈ\V_VAUX ਸੀ\V_VAUX ਖ਼ੂਨ\N_NN ਦੀ\PSP ਇਹ\DM_DMD ਜ਼ਮੀਨ\N_NN ਪਿਆਸੀ\JJ ,\RD_PUNC
+PBLTD3833	ਹੋਈ\V_VM_VF ਸੁਰਖ\JJ ਸ਼ਰਾਬ\N_NN ਦੇ\PSP ਰੰਗ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3834	ਧਰਤੀ\N_NN ਉਡ\V_VM ਕੇ\V_VM_VNF ਧੂੜ\N_NN ਦੇ\PSP ਬਣੇ\V_VM_VF ਬੱਦਲ\N_NN ,\RD_PUNC
+PBLTD3835	ਜੈਸੇ\RP_INTF ਚੜੇ\V_VM_VF ਆਕਾਸ਼\N_NN ਪਤੰਗ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3836	ਸ਼ਾਹ\N_NNP ਮੁਹੰਮਦਾ\N_NNP ਸਿਰਾਂ\N_NN ਦੀ\PSP ਲਾਇ\V_VM ਬਾਜ਼ੀ\N_NN ,\RD_PUNC
+PBLTD3837	ਨਹੀਂ\RP_NEG ਮੋੜਦੇ\V_VM_VF ਸੂਰਮੇ\N_NN ਅੰਗ\N_NN ਮੀਆਂ\N_NN ।\RD_PUNC
+PBLTD3838	ਹਿਕਮਤ\N_NN ਓਸ\DM_DMD ਖ਼ੁਦਾਵੰਦ\JJ ਵਾਲੀ\N_NN ,\RD_PUNC ਮਾਲਕ\N_NN ਮੁਲਕ\N_NN ਮਲਕ\N_NN ਦਾ\PSP ।\RD_PUNC
+PBLTD3839	ਲੱਖ\N_NN ਕਰੋੜ\N_NN ਕਰਨ\V_VM_VF ਚਤਰਾਈਆਂ\N_NN ,\RD_PUNC ਕੋਈ\DM_DMQ ਪਛਾਣ\N_NN ਨਾ\RP_NEG ਸਕਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3840	ਕੁਦਰਤ\N_NN ਨਾਲ\PSP ਰਹੇ\V_VM_VF ਸਰਗਰਦਾਂ\N_NN ,\RD_PUNC ਦਾਇਮ\N_NN ਚਰਖ਼\N_NN ਫ਼ਲਕ\N_NN ਦਾ\PSP ।\RD_PUNC
+PBLTD3841	ਹਾਸ਼ਮ\N_NN ਖ਼ੂਬ\JJ ਹੋਈ\V_VM_VF ਗੁਲਕਾਰੀ\N_NN ,\RD_PUNC ਫ਼ਰਸ਼\N_NN ਫ਼ਨਾਹ\N_NN ਖ਼ਲਕ\N_NN ਦਾ\PSP ।\RD_PUNC ੧\QT_QTC ।\RD_PUNC
+PBLTD3842	ਹਿਕਮਤ\N_NN ਨਾਲ\N_NN ਹਕੀਮ\N_NN ਅਜ਼ਲ\N_NNP ਦੇ\PSP ,\RD_PUNC ਨਕਸ਼\N_NN ਨਿਗਾਰ\N_NN ਬਣਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3843	ਹਰ\N_NN ਅਰਵਾਹ\N_NN ਅਸੀਰ\N_NN ਇਸ਼ਕ\N_NN ਦਾ\PSP ,\RD_PUNC ਕੈਦ\N_NN ਜਿਸਮ\N_NN ਵਿਚ\PSP ਪਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3844	ਜੋ\PR_PRL ਮਖ਼ਲੂਕ\N_NN ਨਾ\RP_NEG ਬਾਹਰ\RB ਉਸ\PR_PRP ਥੀਂ\RP_RPD ,\RD_PUNC ਅਰਜ਼\N_NN ਸਮਾਂ\N_NN ਵਿਚ\PSP ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3845	ਹਾਸ਼ਮ\N_NN ਜੋਸ਼\N_NN ਬਹਾਰ\N_NN ਇਸ਼ਕ\JJ ਦੀ\PSP ,\RD_PUNC ਹਰ\JJ ਇਕ\QT_QTC ਸ਼ਾਨ\N_NN ਸੁਹਾਇਆ\V_VM_VF ।\RD_PUNC ੨\QT_QTC ।\RD_PUNC
+PBLTD3846	ਹੁਸਨ\N_NN ਕਲਾਮ\N_NN ਜੋ\PR_PRL ਸ਼ਾਇਰ\N_NN ਕਰਦੇ\V_VM_VF ,\RD_PUNC ਸੁਖ਼ਨ\N_NN ਨਾ\RP_NEG ਸਾਥੀਂ\N_NN ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3847	ਜਿਹਾ\JJ ਕੁ\RB ਅਕਲ\N_NN ਸ਼ਊਰ\N_NN ਅਸਾਡਾ\PR_PRP ,\RD_PUNC ਅਸਾਂ\PR_PRP ਭੀ\RP_RPD ਆਖ\V_VM ਸੁਣਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3848	ਸੁਣ\V_VM ਸੁਣ\V_VM ਹੋਤ\N_NN ਸੱਸੀ\N_NN ਦੀਆਂ\PSP ਬਾਤਾਂ\N_NN ,\RD_PUNC ਕਾਮਲ\N_NN ਇਸ਼ਕ\N_NN ਕਮਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3849	ਹਾਸ਼ਮ\N_NN ਜੋਸ਼\N_NN ਤਬੀਅਤ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC ਵਹਿਮ\N_NN ਇਤੇ\RB ਵਲ\RB ਆਇਆ\V_VM_VF ।\RD_PUNC ੩\QT_QTC ।\RD_PUNC
+PBLTD3850	ਆਦਮ\JJ ਜਾਮ\N_NN ਭੰਬੋਰ\N_NNP ਸ਼ਹਿਰ\N_NN ਦਾ\PSP ,\RD_PUNC ਸਾਹਿਬ\N_NN ਤਖ਼ਤ\N_NN ਕਹਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3851	ਵਹਿਸ਼\N_NN ਤੱਯੂਰ\N_NN ਜਨਾਇਤ\N_NN ਆਦਮ\N_NN ,\RD_PUNC ਹਰ\JJ ਇਕ\QT_QTC ਸੀਸ\N_NN ਨਿਵਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3852	ਜਾਹ\N_NN ਜਲਾਲ\N_NN ਸਿਕੰਦਰ\N_NNP ਵਾਲਾ\PSP ,\RD_PUNC ਖਾਤਰ\N_NN ਮੂਲ\N_NN ਨਾ\RP_NEG ਲਿਆਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3853	ਹਾਸ਼ਮ\N_NN ਆਖ\V_VM ਜ਼ਬਾਨ\N_NN ਨਾ\RP_NEG ਸਕਦੀ\V_VM_VF ,\RD_PUNC ਕੌਣ\PR_PRQ ਤਰੀਫ਼\N_NN ਸੁਣਾਵੇ\V_VM_VF ।\RD_PUNC ੪\QT_QTC ।\RD_PUNC
+PBLTD3854	ਸ਼ਹਿਰ\N_NN ਭੰਬੋਰ\N_NNP ਸ਼ਹਿਰ\N_NN ਭੰਬੋਰ\N_NNP ਮਕਾਨ\N_NN ਇਲਾਹੀ\N_NN ,\RD_PUNC ਬਾਗ਼\N_NN ਬਹਿਸ਼ਤ\N_NN ਬਣਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3855	ਫ਼ਰਸ਼\N_NN ਫ਼ਰੂਸ਼\RD_ECH ਚਮਨ\N_NN ਗੁਲ\N_NN ਬੂਟਾ\N_NN ,\RD_PUNC ਹਰ\JJ ਇਕ\QT_QTC ਜ਼ਾਤ\N_NN ਲਗਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3856	ਨਦੀਆਂ\N_NN ਹੌਜ਼\N_NN ਤਲਾਉ\N_NN ਚੁਤਰਫ਼ੋਂ\RB ,\RD_PUNC ਰਲ\V_VM ਮਿਲ\V_VM ਖ਼ੂਬ\JJ ਸੁਹਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3857	ਹਾਸ਼ਮ\N_NN ਰੂਹ\N_NN ਰਹੇ\V_VM_VF ਵਿਚ\PSP ਫਸਿਆ\V_VM_VF ,\RD_PUNC ਦਾਮ\N_NN ਫ਼ਰੇਬ\N_NN ਵਿਛਾਇਆ\V_VM_VF ।\RD_PUNC ੫\QT_QTC ।\RD_PUNC
+PBLTD3858	ਅਮੀਰ\JJ ਵਜ਼ੀਰ\N_NN ਗ਼ੁਲਾਮ\N_NN ਕਰੋੜਾਂ\N_NN ,\RD_PUNC ਲਸ਼ਕਰ\N_NN ਫ਼ੌਜ਼\N_NN ਖ਼ਜ਼ਾਨੇ\N_NN ।\RD_PUNC
+PBLTD3859	ਬਾਰਕ\JJ ਸੁਰਖ਼\JJ ਨਿਸ਼ਾਨ\N_NN ਹਜ਼ਾਰਾਂ\N_NN ,\RD_PUNC ਸ਼ਾਮ\N_NN ਘਟਾਂ\N_NN ਸ਼ਮਿਆਨੇ\N_NN ।\RD_PUNC
+PBLTD3860	ਖਾਵਣ\V_VM_VF ਖ਼ੈਰ\N_NN ਫ਼ਕੀਰ\N_NN ਮੁਸਾਫ਼ਰ\N_NN ,\RD_PUNC ਸਾਹਿਬ\N_NN ਹੋਸ਼\N_NN ਦਿਵਾਨੇ\N_NN ।\RD_PUNC
+PBLTD3861	ਹਾਸ਼ਮ\N_NN ਏਸ\DM_DMD ਗ਼ਮੀ\JJ ਵਿਚ\PSP ਆਜਿਜ਼\N_NN ,\RD_PUNC ਹੋਸ਼\N_NN ਉਲਾਦ\N_NN ਨਾ\RP_NEG ਖ਼ਾਨੇ\N_NN ।\RD_PUNC ੬\QT_QTC ।\RD_PUNC
+PBLTD3862	ਖ਼ਾਹਿਸ਼\N_NN ਇਕਸੁ\QT_QTC ਔਲਾਦ\N_NN ਹਮੇਸ਼ਾ\RB ,\RD_PUNC ਪੀਰ\N_NN ਸ਼ਹੀਦ\N_NN ਮਨਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3863	ਦੇਇ\V_VM ਲਿਬਾਸ\N_NN ਪੁਸ਼ਾਕ\N_NN ਬਰਹਿਨਿਆਂ\N_NN ,\RD_PUNC ਭੁੱਖਿਆਂ\JJ ਤਾਮ\N_NN ਖੁਵਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3864	ਦੇਖ\V_VM ਉਜਾੜ\JJ ਮੁਸਾਫ਼ਰ\N_NN ਕਾਰਨ\N_NN ,\RD_PUNC ਤਾਲ\N_NN ਸਰਾਏ\N_NN ਬਣਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3865	ਹਾਸ਼ਮ\N_NN ਕਰਸੁ\N_NN ਜਹਾਨ\N_NN ਦੁਆਈਂ\N_NN ,\RD_PUNC ਆਸ\N_NN ਸਾਈਂ\N_NN ਵਰ\N_NN ਲਿਆਵੇ\V_VM_VF ।\RD_PUNC ੭\QT_QTC ।\RD_PUNC
+PBLTD3866	ਦੁੱਰੇ\N_NN ਯਤੀਮ\N_NN ਸਦਫ਼\N_NN ਵਿਚ\PSP ਆਇਆ\V_VM_VF ,\RD_PUNC ਸੁਣੀ\V_VM_VF ਪੁਕਾਰ\N_NN ਦਿਲਾਂ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBLTD3867	ਫਿਰੀ\V_VM_VF ਬਹਾਰ\N_NN ਸ਼ਗੂਫ਼ੇ\N_NN ਵਾਲੀ\PSP ,\RD_PUNC ਹੋਈ\V_VM_VF ਉਮੈਦ\N_NN ਗੁਲਾਂ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBLTD3868	ਸੇਜ\N_NN ਮਲੂਕ\N_NN ਹੋਈ\V_VM_VF ਅਬਰੇਸ਼ਮ\N_NN ,\RD_PUNC ਆਹੀ\DM_DMD ਸਖ਼ਤ\JJ ਸੂਲਾਂ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBLTD3869	ਹਾਸ਼ਮ\N_NNP ਦੇਖ\V_VM ਹੋਈ\V_VM_VF ਗੁਲ\N_NN ਲਾਲਾ\N_NN ,\RD_PUNC ਹੋਗੁ\V_VM_VF ਬਹਾਰ\N_NN ਫੁਲਾਂ\N_NN ਦੀ\PSP ।\RD_PUNC ੮\QT_QTC ।\RD_PUNC
+PBLTD3870	ਸੱਸੀ\N_NNP ਜਨਮ\N_NN ਲਿਆ\V_VM_VF ਸ਼ਬ\N_NN -\RD_PUNC ਕਦਰੇ\N_NN ,\RD_PUNC ਮਿਸਲ\N_NN ਹਿਲਾਲ\N_NN ਦਰਖ਼ਸ਼ਾਂ\N_NN ।\RD_PUNC
+PBLTD3871	ਵੇਖ\V_VM ਬੇਆਬ\N_NN ਹੋਣ\V_VM_VF ਨਗ\N_NN ਮੋਤੀ\N_NN ,\RD_PUNC ਮਾਣਕ\N_NNP ਲਾਲ\N_NNP ਬਦਖ਼ਸ਼ਾਂ\N_NN ।\RD_PUNC
+PBLTD3872	ਅਕਲ\N_NN ਖ਼ਿਆਲ\N_NN ਕਿਆਸੋਂ\N_NN ਬਾਹਰ\RB ,\RD_PUNC ਨਜ਼ਰ\N_NN ਕਰ\V_VM ਵਲ\RB ਨਕਸ਼ਾਂ\N_NN ।\RD_PUNC
+PBLTD3873	ਹਾਸ਼ਮ\N_NNP ਆਖ\V_VM ਤਰੀਫ਼\N_NN ਹੁਸਨ\N_NN ਦੀ\PSP ,\RD_PUNC ਸ਼ਮਸ\N_NN ਮਿਸਾਲ\N_NN ਜ਼ਰਅਫ਼ਸ਼ਾਂ\N_NN ।\RD_PUNC
+PBLTD3874	ਜੁਮਲ\N_NN ਜਹਾਨ\N_NN ਹੋਈ\V_VM_VF ਖੁਸ਼ਹਾਲੀ\JJ ,\RD_PUNC ਫਿਰਿਆ\V_VM_VF ਨੇਕ\JJ ਜ਼ਮਾਨਾ\N_NN ।\RD_PUNC
+PBLTD3875	ਨੌਬਤ\N_NN ਨਾਚ\N_NN ਸ਼ੁਮਾਰ\N_NN ਨਾ\RP_NEG ਕੋਈ\DM_DMQ ,\RD_PUNC ਧੁਰਪਦ\N_NN ਤਾਲ\N_NN ਤਰਾਨਾ\N_NN ।\RD_PUNC
+PBLTD3876	ਕਰ\V_VM ਸਿਰ\N_NN ਵਾਰ\N_NN ਸੁੱਟਣ\V_VM_VF ਜ਼ਰ\N_NN ਮੋਤੀ\N_NNP ਲਾਲ\N_NNP ਜਵਾਹਰ\N_NNP ਖ਼ਾਨਾ\N_NN ।\RD_PUNC
+PBLTD3877	ਹਾਸ਼ਮ\N_NNP ਖ਼ੈਰ\N_NN ਕੀਤਾ\V_VM_VF ਫ਼ੁਕਰਾਵਾਂ\N_NN ,\RD_PUNC ਮਿਲਕ\N_NN ਮੁਆਸ਼\N_NN ਖ਼ਜ਼ਾਨਾ\N_NN ।\RD_PUNC ੧੦\QT_QTC ।\RD_PUNC
+PBLTD3878	ਅਹਿਲ\N_NN ਨਜੂਮ\N_NN ਸੱਦੇ\V_VM_VF ਉਸ\PR_PRP ਵੇਲੇ\RB ,\RD_PUNC ਹਿਫ਼ਜ਼\N_NN ਤੁਰੇਤ\RB ਜ਼ਬਾਨੀ\JJ ।\RD_PUNC
+PBLTD3879	ਸਾਹਿਬ\N_NN ਯੁਮਨ\N_NNP ਕਰਾਮਤ\N_NN ਵਾਲੇ\PSP ,\RD_PUNC ਖ਼ਬਰ\N_NN ਦੇਣ\V_VM_VF ਅਸਮਾਨੀ\JJ ।\RD_PUNC
+PBLTD3880	ਵੇਖਣ\V_VM_VF ਉਮਰ\N_NN ਨਸੀਬ\N_NN ਸੱਸੀ\N_NN ਦੇ\PSP ,\RD_PUNC ਖੋਲ\V_VM ਕਲਾਮ\N_NN ਰੱਬਾਨੀ\JJ ।\RD_PUNC
+PBLTD3881	ਹਾਸ਼ਮ\N_NNP ਭਾਰ\N_NN ਸੱਸੀ\N_NN ਸਿਰ\N_NN ਡਾਢਾ\JJ ,\RD_PUNC ਦੱਸਦੇ\V_VM_VF ਭੇਤ\N_NN ਨਿਹਾਨੀ\N_NN ।\RD_PUNC ੧੧\QT_QTC ।\RD_PUNC
+PBLTD3882	ਦੇਖ\V_VM ਕਿਤਾਬ\N_NN ਨਜੂਮ\N_NN ਨਜੂਮੀ\N_NN ,\RD_PUNC ਹੋਇ\V_VM ਰਹੇ\V_VM_VF ਚੁਪ\N_NN ਸਾਰੇ\DM_DMQ ।\RD_PUNC
+PBLTD3883	ਜ਼ਾਲਮ\N_NN ਹੁਕਮ\N_NN ਸਹਿਮ\V_VM ਸੁਲਤਾਨਾਂ\N_NN ,\RD_PUNC ਕੌਣ\PR_PRQ ਕੋਈ\DM_DMQ ਦਮ\N_NN ਮਾਰੇ\V_VM_VF ।\RD_PUNC
+PBLTD3884	ਬਾਦਸ਼ਾਹਾਂ\N_NN ਸੱਚ\N_NN ਆਖਣ\V_VM_VF ਔਖਾ\JJ ,\RD_PUNC ਹੋਏ\V_VM_VF ਲਚਾਰ\JJ ਵਿਚਾਰੇ\N_NN ।\RD_PUNC
+PBLTD3885	ਹਾਸ਼ਮ\N_NNP ਬਖ਼ਤ\N_NN ਬਖ਼ੀਲ\N_NN ਸੱਸੀ\N_NNP ਦੇ\PSP ,\RD_PUNC ਕੌਣ\PR_PRQ ਜਿੱਤੇ\JJ ਕੌਣ\PR_PRQ ਹਾਰੇ\JJ ।\RD_PUNC ੧੨\QT_QTC ।\RD_PUNC
+PBLTD3886	ਸ਼ਾਹ\N_NNP ਦਰਬਾਰ\N_NN ਕਹਿਆ\V_VM_VF ,\RD_PUNC ``\RD_PUNC ਚੁਪ\N_NN ਕੇਹੀ\PR_PRQ ?\RD_PUNC ਕਹੋ\V_VM_VF ਜਵਾਬ\N_NN ਕੀ\PR_PRQ ਆਵੇ\V_VM_VF |\RD_PUNC
+PBLTD3887	ਅਰਜ਼\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC ``\RD_PUNC ਦਰਬਾਰ\N_NN ਅਸਾਥੀਂ\PR_PRP ਸੁਖ਼ਨ\N_NN ਕਲਾਮ\N_NN ਨਾ\RP_NEG ਆਵੇ\V_VM_VF ।\RD_PUNC ``\RD_PUNC
+PBLTD3888	ਰਾਸ\JJ ਜ਼ਬਾਨ\N_NN ਨਾ\RP_NEG ਆਖਣ\V_VM_VF ਜੋਗੀ\JJ ,\RD_PUNC ਝੂਠ\N_NN ਇਮਾਨ\N_NN ਜਲਾਵੇ\V_VM_VF ।\RD_PUNC ``\RD_PUNC
+PBLTD3889	ਹਾਸ਼ਮ\N_NNP ਕਰਨ\V_VM_VF ਲੁਕਾ\N_NN ਬਥੇਰਾ\JJ ,\RD_PUNC ਕਿਸਮਤ\N_NN ਕੌਣ\PR_PRQ ਮਿਟਾਵੇ\V_VM_VF ।\RD_PUNC ੧੩\QT_QTC ।\RD_PUNC
+PBLTD3890	ਓੜਕ\RB ਖ਼ੌਫ਼\N_NN ਉਤਾਰ\V_VM ਨਜੂਮੀ\N_NN ,\RD_PUNC ਬਾਤ\N_NN ਕਹੀ\V_VM_VF ਮਨ\N_NN ਭਾਣੀ\N_NN ।\RD_PUNC
+PBLTD3891	``\RD_PUNC ਆਸ਼ਿਕ\N_NN ਹੋਗੁ\V_VM_VF ਕਮਾਲ\N_NN ਸੱਸੀ\N_NN ,\RD_PUNC ਜਦ\CC_CCS ਹੋਗੁ\V_VM_VF ਜਵਾਨ\JJ ਸਿਆਣੀ\JJ ।\RD_PUNC
+PBLTD3892	ਮਸਤ\JJ ਬੇਹੋਸ਼\JJ ਥਲਾਂ\N_NN ਵਿਚ\PSP ਮਰਸੀ\N_NN ,\RD_PUNC ਦਰਦ\N_NN ਫ਼ਿਰਾਕ-ਰੰਞਾਣੀ\N_NN ।\RD_PUNC
+PBLTD3893	ਹਾਸ਼ਮ\N_NNP ਦਾਗ਼\N_NN ਲਗਾਉਗੁ\V_VM_VF ਕੁਲ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਰਹੁਗੁ\V_VM_VF ਜਹਾਨ\N_NN ਕਹਾਣੀ\N_NN ``\RD_PUNC ।\RD_PUNC ੧੪\QT_QTC
+PBLTD3894	ਸੁਣ\V_VM ਤਕਦੀਰ\N_NN ਹੋਏ\V_VM_VF ਦਿਲ\N_NN ਬਿਰੀਆਂ\N_NN ,\RD_PUNC ਮਾਂ\N_NN ਪਿਉ\N_NN ਖ਼ੇਸ਼\N_NN ਕਬੀਲਾ\N_NN ।\RD_PUNC
+PBLTD3895	ਆਤਸ਼\N_NN ਚਮਕ\JJ ਉਠੀ\V_VM_VF ਹਰ\JJ ਦਿਲ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਜਿਉਂਕਰ\CC_CCS ਤੇਲ\N_NN ਫ਼ਤੀਲਾ\N_NN ।\RD_PUNC
+PBLTD3896	ਖ਼ੁਸ਼ੀ\N_NN ਖ਼ਰਾਬ\V_VM ਹੋਈ\V_VM_VF ਵਿਚ\PSP ਗ਼ਮ\N_NN ਦੇ\PSP ,\RD_PUNC ਜ਼ਰਦ\N_NN ਹੋਇਆ\V_VM_VF ਰੰਗ\N_NN ਪੀਲਾ\JJ ।\RD_PUNC 
+PBLTD3897	ਹਾਸ਼ਮ\N_NNP ਬੈਠ\V_VM ਦਨਾਉ\N_NN ਸਿਆਣੇ\N_NN ,\RD_PUNC ਹੋਰ\JJ ਵਿਚਾਰਨ\V_VM_VF ਹੀਲਾ\N_NN ।\RD_PUNC ੧੫\QT_QTC ।\RD_PUNC
+PBLTD3898	ਬੇ\N_NN ਇਤਬਾਰ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC ਹੱਥ\N_NN ਧੋਤੇ\V_VM_VF ,\RD_PUNC ਬਾਪ\N_NN ਉਮੈਦ\N_NN ਮੁਰਾਦੋਂ\N_NN ।\RD_PUNC
+PBLTD3899	ਜ਼ਾਲਮ\N_NN ਰੂਪ\N_NN ਹੋਇਆ\V_VM_VF ਦਿਲ\N_NN ਉਸਦਾ\PR_PRP ,\RD_PUNC ਸਖ਼ਤ\JJ ਸਿਆਹ\N_NN ਜੱਲਾਦੋਂ\N_NN ।\RD_PUNC
+PBLTD3900	``\RD_PUNC ਨੰਗ\N_NN ਨਮੂਸ\N_NN ਕੀ\PR_PRQ ਹਾਸਲ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਏਸ\DM_DMD ਪਲੀਤ\JJ ਉਲਾਦੋਂ\N_NN ?\RD_PUNC ``\RD_PUNC
+PBLTD3901	ਹਾਸ਼ਮ\N_NNP ,\RD_PUNC ``\RD_PUNC ਖ਼ਰਚ\N_NN ਕਰੋ\V_VM_VF ``\RD_PUNC ਫ਼ਰਮਾਇਆ\V_VM_VF ,\RD_PUNC ``\RD_PUNC ਫ਼ਾਰਗ਼\N_NN ਹੋਹੁ\V_VM_VF ਫਸਾਦੋਂ\N_NN ``\RD_PUNC ।\RD_PUNC ੧\QT_QTC
+PBLTD3902	ਕਹਿਆ\V_VM_VF ਵਜ਼ੀਰ\N_NN ,\RD_PUNC \RD_PUNC ਕੀ\PR_PRQ ਦੋਸ਼\N_NN ਸੱਸੀ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਲਿਖਿਆ\V_VM_VF ਲੇਖ\N_NN ਲਿਖਾਰੀ\N_NN |\RD_PUNC
+PBLTD3903	ਬੇਤਕਸੀਰ\N_NN ਕਹਾਉਣ\V_VM_VF ਕੰਨਿਆਂ\N_NN ,\RD_PUNC ਨਸ਼ਟ\N_NN ਹੋਵੇ\V_VM_VF ਕੁਲ\N_NN ਸਾਰੀ\DM_DMQ ।\RD_PUNC
+PBLTD3904	ਇਸ\DM_DMD ਥੀਂ\RP_RPD ਪਾਪ\N_NN ਨਾ\RP_NEG ਹੋਰ\JJ ਪਰੇਰੇ\N_NN ,\RD_PUNC ਕੌਮ\N_NN ਹੋਵੇ\V_VM_VF ਹਤਿਆਰੀ\JJ ।\RD_PUNC
+PBLTD3905	ਹਾਸ਼ਮ\N_NNP ਪਾਇ\V_VM ਸੰਦੂਕ\N_NN ਰੁੜ੍ਹਾਉ\V_VM_VF ,\RD_PUNC ਦੂਰ\N_NN ਹੋਵੇ\V_VM_VF ਜਗ\N_NN ਖਵਾਰੀ\N_NN ``\RD_PUNC ।\RD_PUNC ੧੭\QT_QTC ।\RD_PUNC
+PBLTD3906	ਫ਼ਰਸ਼\N_NN ਜ਼ਿਮੀਂ\N_NN ਪਰ\PSP ਹਰ\JJ ਇਕ\QT_QTC ਤਾਈਂ\PSP ,\RD_PUNC ਮਾਂ\N_NN ਪਿਉ\N_NN ਬਹੁਤ\JJ ਪਿਆਰਾ\N_NN ।\RD_PUNC
+PBLTD3907	ਸੋ\CC_CCD ਫਿਰ\RB ਆਪ\PR_PRF ਰੁੜ੍ਹਾਵਨ\V_VM_VF ਤਿਸ\PR_PRL ਨੂੰ\PSP ,\RD_PUNC ਵੇਖ\V_VM ਗੁਨਾਹ\N_NN ਨਿਕਾਰਾ\JJ ।\RD_PUNC
+PBLTD3908	ਧੰਨ\N_NN ਉਹ\PR_PRP ਸਾਹਿਬ\N_NN ਸਿਰਜਨਹਾਰਾ\N_NN ,\RD_PUNC ਐਬ\N_NN ਛੁਪਾਵਣ\V_VM_VF ਹਾਰਾ\PSP ।\RD_PUNC
+PBLTD3909	ਹਾਸ਼ਮ\N_NNP ਜੇ\CC_CCS ਉਹ\PR_PRP ਕਰੇ\V_VM_VF ਅਦਾਲਤ\N_NN ,\RD_PUNC ਕੌਣ\PR_PRQ ਕਰੇ\V_VM_VF ਨਿਸਤਾਰਾ\N_NN ।\RD_PUNC ੧੮\QT_QTC ।\RD_PUNC
+PBLTD3910	ਵਾਹ\RP_INJ ਕਲਾਮ\N_NN !\RD_PUNC ਨਸੀਬ\N_NN ਸੱਸੀ\N_NNP ਦਾ\PSP ,\RD_PUNC ਨਾਉਂ\N_NN ਲਿਆਂ\V_VM_VF ਦਿਲ\N_NN ਡਰਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3911	ਤਖ਼ਤੋਂ\N_NN ਚਾਇ\N_NN ਸੁਟੇ\V_VM_VF ਸੁਲਤਾਨਾਂ\N_NN ,\RD_PUNC ਖ਼ੈਰ\N_NN ਮੰਗਣ\V_VM_VF ਦਰ\N_NN ਦਰ\N_NN ਦਾ\PSP ।\RD_PUNC
+PBLTD3912	ਬੈਲ\N_NN ਗ਼ਰੀਬ\N_NN ਨਾਕਾਬਲ\N_NN ਜੇਹਾ\JJ ,\RD_PUNC ਚਾਇ\N_NN ਜ਼ਿਮੀਂ\N_NN ਸਿਰ\N_NN ਧਰਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3913	ਹਾਸ਼ਮ\N_NNP ਜਾਹ\N_NN ਨਾ\RP_NEG ਬੋਲਣ\V_VM_VF ਵਾਲੀ\PSP ,\RD_PUNC ਜੋ\PR_PRL ਚਾਹੇ\N_NN ਸੋ\CC_CCD ਕਰਦਾ\V_VM_VF ।\RD_PUNC ੧੯\QT_QTC ।\RD_PUNC
+PBLTD3914	ਜਿਸ\PR_PRL ਉਸਤਾਦ\N_NN ਸੰਦੂਕ\N_NN ਸੱਸੀ\N_NNP ਦਾ\PSP ,\RD_PUNC ਘੜਿਆ\V_VM_VF ਨਾਲ\PSP ਮਿਹਰ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3915	ਅਫਲਾਤੂਨ\N_NN ਅਰਸਤੂ\N_NN ਜੇਹੇ\JJ ,\RD_PUNC ਹੋਣ\V_VM_VF ਸ਼ਗਿਰਦ\N_NN ਹੁਨਰ\N_NN ਦੇ\PSP ।\RD_PUNC
+PBLTD3916	ਜ਼ੀਨਤ\N_NNP ਜ਼ੇਬ\N_NN ਸਿਖਣ\V_VM_VF ਸਭ\DM_DMQ ਉਸ\PR_PRP ਥੀਂ\RP_RPD ,\RD_PUNC ਦਿਲਬਰ\N_NN ਚੀਨ\N_NNP ਮਿਸਰ\N_NNP ਦੇ\PSP ।\RD_PUNC
+PBLTD3917	ਹਾਸ਼ਮ\N_NNP ਵੇਖ\V_VM ਆਰਾਇਸ਼\N_NN ਕਰਦਾ\V_VM_VF ,\RD_PUNC ਸ਼ਾਬਾਸ਼\RP_INJ ਅਕਲ\N_NN ਫ਼ਿਕਰ\N_NN ਦੇ\PSP ।\RD_PUNC ੨੦\QT_QTC ।\RD_PUNC
+PBLTD3918	ਚੰਨਣ\JJ ਸ਼ਾਖ\N_NN ਮੰਗਾਇ\V_VM ਕਿਦਾਹੋਂ\RB ,\RD_PUNC ਬੈਠ\V_VM ਕਾਰੀਗਰ\N_NN ਘੜਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3919	ਬੂਟੇ\N_NN ਵੇਲ\N_NN ਸੁਨਹਿਰੀ\JJ ਕਰਕੇ\V_VM_VF ,\RD_PUNC ਲਾਲ\JJ ਜਵਾਹਰ\N_NN ਜੜਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3920	ਪਾਇ\V_VM ਜ਼ੰਜੀਰ\N_NN ਚੌਫੇਰ\RB ਪਿੰਜਰ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਬੈਠ\N_NNP ਬੇਦਰਦਾਂ\N_NN ਕੜਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD3921	ਹਾਸ਼ਮ\N_NNP ਵੇਖ\V_VM ਤਵਲਦ\N_NN ਹੁੰਦੀ\V_VM_VF ,\RD_PUNC ਆਣ\V_VM_VF ਦੁਖਾਂ\N_NN ਲੜ\N_NN ਫੜਿਆ\V_VM_VF ।\RD_PUNC ੨੧\QT_QTC ।\RD_PUNC
+PBLTD3922	ਕਰ\V_VM ਤਦਬੀਰ\N_NN ਕੀਤੇ\V_VM_VF ਤ੍ਰੈ\N_NN ਛਾਂਦੇ\N_NN ,\RD_PUNC ਖ਼ਰਚ\N_NN ਦਿੱਤਾ\V_VM_VF ਕਰ\V_VM ਨਾਲੇ\PSP ।\RD_PUNC
+PBLTD3923	ਤਿਸ\N_NN ਦੀ\PSP ਮਿਲਕ\N_NN ਹੋਇਆ\V_VM_VF ਇਕ\QT_QTC ਛਾਂਦਾ\N_NN ,\RD_PUNC ਸ਼ੀਰ\N_NN ਪਿਲਾਵਣ\V_VM_VF ਵਾਲੇ\PSP ।\RD_PUNC
+PBLTD3924	ਦੂਜਾ\QT_QTO ਦਾਜ\N_NN ਦਹੇਜ\N_NN ਸੱਸੀ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਹੋਰ\JJ ਪੜਾਵਣ\V_VM_VF ਵਾਲੇ\PSP ।\RD_PUNC
+PBLTD3925	ਹਾਸ਼ਮ\N_NNP ਲਿਖ\V_VM ਤਾਵੀਜ਼\N_NN ਹਕੀਕਤ\N_NN ,\RD_PUNC ਹਰਫ਼\N_NN ਸੱਸੀ\N_NNP ਗਲ\N_NN ਡਾਲੇ\V_VM_VF ।\RD_PUNC ੨੨\QT_QTC ।\RD_PUNC
+PBLTD3926	ਪਾਇ\V_VM ਸੰਦੂਕ\N_NN ਰੁੜਾਈ\V_VM_VF ਸੱਸੀ\N_NNP ,\RD_PUNC ਨੂਹ\N_NN ਤੂਫ਼ਾਨ\N_NN ਵਗੇਂਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3927	ਬਾਸ਼ਕ\RB ਨਾਗ\N_NN ਨਾ\RP_NEG ਹਾਥ\N_NN ਲਿਆਵੇ\V_VM_VF ,\RD_PUNC ਧੌਲ\N_NN ਪਨਾਹ\N_NN ਮੰਗੇਂਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3928	ਪਾਰ\N_NN ਉਰਾਰ\N_NN ਬਲਾਈਂ\N_NN ਭਰਿਆ\V_VM_VF ,\RD_PUNC ਦਾਨੋ\N_NN ਦੇਉ\V_VM_VF ਡਰੇਂਦਾ\V_VM_VF ।\RD_PUNC
+PBLTD3929	ਹਾਸ਼ਮ\N_NNP ਵੇਖ\V_VM ਨਸੀਬ\N_NN ਸੱਸੀ\N_NNP ਦਾ\PSP ,\RD_PUNC ਕੀ\PR_PRQ ਕੁਝ\DM_DMQ ਹੋਰ\JJ ਕਰੇਂਦਾ\V_VM_VF ।\RD_PUNC ੨੩\QT_QTC ।\RD_PUNC
+PBLTD3930	ਮਿੱਠੀ\JJ ਜਿੰਦ\N_NN ਸੱਸੀ\N_NNP ਦੀ\PSP ਸੋਹਣੀ\JJ ,\RD_PUNC ਜੰਮਣ\JJ ਰਾਤ\N_NN ਸੁਹਾਈ\N_NN ।\RD_PUNC
+PBLTD3931	ਮਾਂ\N_NN ਦੀ\PSP ਸੇਜ\N_NN ਨਸੀਬ\N_NN ਨਾ\RP_NEG ਹੋਈ\V_VM_VF ,\RD_PUNC ਕੁਛੜ\N_NN ਮਿਲੀ\V_VM_VF ਨਾ\RP_NEG ਦਾਈ\N_NN ।\RD_PUNC
+PBLTD3932	ਬੂਹੇ\N_NN ਉਤੇ\PSP ਸੱਦ\N_NN ਨਾ\RP_NEG ਕੀਤੀ\V_VM_VF ,\RD_PUNC ਡੂਮ\N_NN ਬਰਹਿਮਣ\JJ ਨਾਈ\N_NN ।\RD_PUNC
+PBLTD3933	ਹਾਸ਼ਮ\N_NNP ਖ਼ੌਫ਼\N_NN ਨਾ\RP_NEG ਦਿਲ\N_NN ਵਿਚ\PSP ਆਇਉ\V_VM_VF ,\RD_PUNC ਜੀਉਂਦੀ\JJ ਜਾਨ\N_NN ਰੁੜਾਈ\V_VM_VF |\N_NN
+PBLTD3934	ਟੁਰਿਆ\N_NN ਤੋੜ\V_VM ਜ਼ੰਜੀਰ\N_NN ਸਬਰ\N_NN ਦਾ\PSP ,\RD_PUNC ਚਾਈਆਂ\N_NN ਰਿਜ਼ਕ\N_NN ਮੁਹਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD3935	ਗਰਦਸ਼\N_NN ਫ਼ਲਕ\N_NN ਹੋਇਆ\V_VM_VF ਸਰਗਰਦਾਂ\N_NN ,\RD_PUNC ਬਾਝ\N_NN ਮਲਾਹ\N_NN ਕਹਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD3936	ਸੂਰਜ\N_NN ਤੇਜ਼\JJ ਹੋਇਆ\V_VM_VF ਜਲ\N_NN ਖ਼ੂਨੀ\JJ ,\RD_PUNC ਪੈਣ\V_VM_VF ਲਸਾਂ\N_NN ਚਮਕਾਰਾਂ\JJ ।\RD_PUNC
+PBLTD3937	ਹਾਸ਼ਮ\N_NNP ਵੇਖ\V_VM ਸੱਸੀ\N_NNP ਵਿਚ\PSP ਘੇਰੀ\V_VM_VF ,\RD_PUNC ਦੁਸ਼ਮਣ\N_NN ਲੱਖ\N_NN ਹਜ਼ਾਰਾਂ\N_NN ।\RD_PUNC ੨੫\QT_QTC ।\RD_PUNC
+PBLTD3938	ਆਦਮਖ਼ੋਰ\JJ ਜਨਾਵਰ\N_NN ਜਲ\N_NN ਦੇ\PSP ,\RD_PUNC ਰਾਖ਼ਸ਼\N_NN ਰੂਪ\N_NN ਸੁਭਾਈਂ\N_NN ।\RD_PUNC
+PBLTD3939	ਮਗਰਮੱਛ\N_NN ਕੁੰਮੇ\V_VM_VF ਜਲਹੋੜੇ\N_NN ,\RD_PUNC ਨਾਗ\N_NN ਸੈਂਸਾਰ\N_NN ਬਲਾਈਂ\V_VM_VF ।\RD_PUNC
+PBLTD3940	ਤੰਦੂਏ\N_NN ਕਹਿਰ\N_NN ਜੰਬੂਰ\N_NN ਬੁਲ੍ਹੇਣੀ\N_NN ,\RD_PUNC ਲਾਵਣ\V_VM_VF ਜ਼ੋਰ\N_NN ਤਦਾਈਂ\N_NN ।\RD_PUNC
+PBLTD3941	ਹਾਸ਼ਮ\N_NNP ਮੌਤ\N_NN ਹੋਵਸੁ\N_NN ਵਿਚ\PSP ਥਲ\N_NN ਦੇ\PSP ,\RD_PUNC ਮਾਰਸੁ\N_NN ਕੌਣ\PR_PRQ ਇਥਾਈਂ\N_NN ।\RD_PUNC ੨੬\QT_QTC ।\RD_PUNC
+PBLTD3942	ਘੁੰਮਣ-ਘੇਰ\N_NN ਚੁਫ਼ੇਰਿਉਂ\RB ਘੇਰਨ\V_VM_VF ,\RD_PUNC ਠਾਠਾਂ\N_NN ਲੈਣ\V_VM_VF ਕਲਾਵੇ\N_NN ।\RD_PUNC
+PBLTD3943	ਲਹਿਰਾਂ\N_NN ਜ਼ੋਰ\N_NN ਕਰਨ\V_VM_VF ਹਰ\JJ ਤਰਫੋਂ\N_NN ,\RD_PUNC ਇਕ\QT_QTC ਆਵੇ\V_VM_VF ਇਕ\QT_QTC ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3944	ਸੂਰਤ\N_NN ਸਿਹਰ\N_NN ਸੰਦੂਕ\N_NN ਜੜਾਊ\V_VM_VF ,\RD_PUNC ਬਿਜਲੀ\N_NN ਚਮਕ\N_NN ਡਰਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3945	ਹਾਸ਼ਮ\N_NNP ਚਾਹ\N_NN ਜਿਵੇਂ\RP_INTF ਕਨਿਆਨੀ\N_NN ,\RD_PUNC ਵੇਖ\V_VM ਸੰਦੂਕ\N_NN ਛੁਪਾਵੇ\V_VM_VF ।\RD_PUNC ੨੭\QT_QTC ।\RD_PUNC
+PBLTD3946	ਸ਼ਹਿਰੋਂ\N_NN ਦੂਰ\N_NN ਕੁ\RB ਪੱਤਣ\V_VM_VF ਧੋਬੀ\N_NN ,\RD_PUNC ਧੋਂਦਾ\V_VM_VF ਨਦੀ\N_NN ਕਿਨਾਰੇ\N_NN ।\RD_PUNC
+PBLTD3947	ਅੱਤਾ\N_NN ਨਾਮ\N_NN ਮਿਸਾਲ\N_NN ਫਰਿਸ਼ਤਾ\N_NN ,\RD_PUNC ਨੇਕ\JJ ਬਜ਼ੁਰਗ\N_NN ਸਿਤਾਰੇ\N_NN ।\RD_PUNC
+PBLTD3948	ਡਿੱਠਾ\V_VM_VF ਓਸ\N_NN ਸੰਦੂਕ\N_NN ਦੁਰਾਡਾ\RB ,\RD_PUNC ਦਿਲ\N_NN ਵਿਚ\PSP ਖ਼ੌਫ਼\N_NN ਚਿਤਾਰੇ\V_VM_VF ।\RD_PUNC
+PBLTD3949	ਹਾਸ਼ਮ\N_NNP ਗਇਓਸੁ\V_VM_VF ਹੋਸ਼\N_NN ਦਿਮਾਗੋਂ\N_NN ,\RD_PUNC ਵੇਖ\V_VM ਸੰਦੂਕ\N_NN ਵਿਚਾਰੇ\V_VM_VF ।\RD_PUNC ੨੮\QT_QTC ।\RD_PUNC
+PBLTD3950	ਕਰੇ\V_VM_VF ਖ਼ਿਆਲ\N_NN ਜਵਾਹਰਖ਼ਾਨਾ\N_NN ,\RD_PUNC ਪਾਇਆ\V_VM_VF ਆਣ\V_VM_VF ਤਬਾਹੀ\N_NN ।\RD_PUNC
+PBLTD3951	ਯਾ\CC_CCD ਕੋਈ\DM_DMQ ਆਫ਼ਤ\N_NN ਰੁੜ੍ਹੀ\V_VM_VF ਪਹਾੜੋਂ\N_NN ,\RD_PUNC ਯਾ\CC_CCD ਅਸਰਾਰ\N_NN ਇਲਾਹੀ\N_NN ।\RD_PUNC
+PBLTD3952	ਬਖ਼ਤ\RB ਬੇਦਾਰ\N_NN ਹੋਏ\V_VM_VF ਅੱਤੇ\N_NN ਦੇ\PSP ,\RD_PUNC ਭਰੀ\JJ ਨਸੀਬ\N_NN ਉਗਾਹੀ\V_VM_VF ।\RD_PUNC
+PBLTD3953	ਹਾਸ਼ਮ\N_NNP ਜਾਇ\V_VM ਪਿਆ\V_VM_VF ਜਲ\N_NN ਡੂੰਘੇ\JJ ,\RD_PUNC ਹੋ\V_VM ਦਿਲ\N_NN ਸ਼ੇਰ\N_NN ਸਿਪਾਹੀ\N_NN ।\RD_PUNC ੨੯\QT_QTC ।\RD_PUNC
+PBLTD3954	ਅੱਤੇ\N_NN ਖ਼ੂਬ\JJ ਕੀਤੀ\V_VM_VF ਜਿੰਦਬਾਜ਼ੀ\N_NN ,\RD_PUNC ਲਿਆ\V_VM_VF ਸੰਦੂਕ\N_NN ਕਿਨਾਰੇ\N_NN ।\RD_PUNC
+PBLTD3955	ਸ਼ਾਦ\N_NN ਹੋਇਆ\V_VM_VF ਦਿਲ\N_NN ਜ਼ਾਤ\N_NN ਖ਼ੁਦਾ\N_NN ਵਲ\RB ,\RD_PUNC ਨਿਅਮਤ\N_NN ਸ਼ੁਕਰ\N_NN ਗੁਜ਼ਾਰੇ\V_VM_VF ।\RD_PUNC
+PBLTD3956	ਵੜਿਆ\V_VM_VF ਸ਼ਹਿਰ\N_NN ਮੁਬਾਰਕ\N_NN ਦੇਵਣ\V_VM_VF ,\RD_PUNC ਰਲ\V_VM ਮਿਲ\V_VM ਯਾਰ\N_NN ਪਿਆਰੇ\JJ ।\RD_PUNC
+PBLTD3957	ਹਾਸ਼ਮ\N_NNP ਮਾਲ\N_NN ਲਿਆ\V_VM_VF ਫਿਰ\RB ਦੂਜਾ\QT_QTO ,\RD_PUNC ਹੋਇਆ\V_VM_VF ਸੁਆਬ\N_NN ਵਿਚਾਰੇ\V_VM_VF ।\RD_PUNC ੩੦\QT_QTC ।\RD_PUNC
+PBLTD3958	ਖੁਲ੍ਹਾ\JJ ਆਣ\V_VM_VF ਨਸੀਬ\N_NN ਅੱਤੇ\N_NN ਦਾ\PSP ,\RD_PUNC ਕਰਮ\N_NN ਭਲੇ\N_NN ਦਿਨ\N_NN ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD3959	ਜੜਤ\N_NN ਜੜਾਊਂ\JJ ਮਹਿਲ\N_NN ਬਣਾਏ\V_VM_VF ,\RD_PUNC ਸ਼ੌਕਤ\N_NN ਸ਼ਾਨ\N_NN ਵਧਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD3960	ਖ਼ਿਦਮਤਗਾਰ\JJ ਗ਼ੁਲਾਮ\N_NN ਸੱਸੀ\N_NNP ਦੇ\PSP ,\RD_PUNC ਨੌਕਰ\N_NN ਚਾਇ\N_NN ਰਖਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD3961	ਹਾਸ਼ਮ\N_NNP ਬਾਗ਼\N_NN ਸੁੱਕੇ\V_VM_VF ਰੱਬ\N_NN ਚਾਹੇ\V_VM_VF ,\RD_PUNC ਪਲ\RB ਵਿਚ\PSP ਹਰੇ\JJ ਕਰਾਏ\V_VM_VF ।\RD_PUNC ੩੧\QT_QTC ।\RD_PUNC
+PBLTD3962	ਸੱਸੀ\N_NNP ਹੋਈ\V_VM_VF ਜਵਾਨ\JJ ਸਿਆਣੀ\JJ ,\RD_PUNC ਸੂਰਜ\N_NN ਜੋਤ\N_NN ਸਵਾਈ\V_VM_VF ।\RD_PUNC
+PBLTD3963	ਸਾਹਿਬ\N_NN ਇਲਮ\N_NN ਹਯਾਓ\N_NN ਹਲੀਮੀਂ\N_NN ,\RD_PUNC ਅਕਲ\N_NN ਹੁਨਰ\N_NN ਚਤਰਾਈ\N_NN ।\RD_PUNC
+PBLTD3964	ਮਾਂ\N_NN ਪਿਉ\N_NN ਦੇਖ\V_VM ਕਾਰੀਗ਼ਰ\N_NN ਕੋਈ\DM_DMQ ,\RD_PUNC ਚਾਹੁਣ\N_NN ਕੀਤੀ\V_VM_VF ਕੁੜਮਾਈ\N_NN ।\RD_PUNC
+PBLTD3965	ਹਾਸ਼ਮ\N_NN ਸੁਣੀ\V_VM_VF ਸੱਸੀ\N_NNP ਮਸਲਾਹਿਤ\N_NN ,\RD_PUNC ਗ਼ੈਰਤ\JJ ਉਸ\PR_PRP ਨੂੰ\PSP ਆਈ\V_VM_VF ।\RD_PUNC ੩੨\QT_QTC ।\RD_PUNC
+PBLTD3966	ਬਣ\V_VM ਬਣ\V_VM ਪੈਂਚ\N_NN ਪੰਚਾਇਤ\N_NN ਧੋਬੀ\N_NN ,\RD_PUNC ਪਾਸ\RB ਅੱਤੇ\N_NN ਦੇ\PSP ਆਵਣ\V_VM_VF ।\RD_PUNC
+PBLTD3967	ਕਰ\V_VM ਤਮਸੀਲ\N_NN ਵਿਆਹ\N_NN (\RD_PUNC ਵਿਹਾਰ\N_NN )\RD_PUNC ਜਗਤ\N_NN ਦਾ\PSP ,\RD_PUNC ਬਾਤ\N_NN ਹਮੇਸ਼\RB ਚਲਾਵਣ\V_VM_VF ।\RD_PUNC
+PBLTD3968	``\RD_PUNC ਧੀਆਂ\N_NN ਸੋਹਣ\V_VM_VF ਨਹੀਂ\RP_NEG ਘਰ\N_NN ਮਾਪਿਆਂ\N_NN ,\RD_PUNC ਜੇ\CC_CCS ਲੱਖ\N_NN ਰਾਜ\N_NN ਕਮਾਵਣ\V_VM_VF ।\RD_PUNC ``\RD_PUNC
+PBLTD3969	ਹਾਸ਼ਮ\N_NNP ਵਾਂਗ\JJ ਬੁਝਾਰਤ\N_NN ਧੋਬੀ\N_NN ,\RD_PUNC ਬਾਤ\N_NN ਸੱਸੀ\N_NNP ਵਲ\RB ਲਿਆਵਣ\V_VM_VF ।\RD_PUNC ੩੩\QT_QTC ।\RD_PUNC
+PBLTD3970	ਇਕ\QT_QTC ਦਿਨ\N_NN ਮਾਂ\N_NN ਪਿਉ\N_NN ਨਾਲ\PSP ਸੱਸੀ\N_NNP ਦੇ\PSP ,\RD_PUNC ਬੈਠ\V_VM ਕੀਤੇ\V_VM_VF ਕੁਲ\N_NN ਝੇੜੇ\N_NN ।\RD_PUNC
+PBLTD3971	ਆਖ\V_VM ,\RD_PUNC ``\RD_PUNC ਬੱਚੀ\N_NN ਤੂੰ\PR_PRP ਬਾਲਗ਼\JJ ਹੋਈਓਂ\V_VM_VF ,\RD_PUNC ਵਾਗ\N_NN ਤੇਰੀ\PR_PRP ਹੱਥ\N_NN ਤੇਰੇ\PR_PRP ।\RD_PUNC
+PBLTD3972	ਧੋਬੀ\N_NN ਜ਼ਾਤ\N_NN ਉੱਚੀ\JJ ਘਰ\N_NN ਆਵਣ\V_VM_VF ,\RD_PUNC ਫਿਰ\V_VM ਫਿਰ\V_VM ਜਾਣ\V_VM_VF ਬਤੇਰੇ\JJ ।\RD_PUNC
+PBLTD3973	ਹਾਸ਼ਮ\PR_PRP ਕੌਣ\PR_PRQ ਤੇਰੇ\PR_PRP ਮਨ\N_NN ਭਾਵੇ\N_NN ,\RD_PUNC ਆਖ\V_VM ਸੁਣਾਇ\V_VM_VF ਸਵੇਰੇ\N_NN ``\RD_PUNC ।\RD_PUNC ੩੪\QT_QTC ।\RD_PUNC
+PBLTD3974	ਸੱਸੀ\N_NNP ਮੂਲ\N_NN ਜਵਾਬ\N_NN ਨਾ\RP_NEG ਕੀਤਾ\V_VM_VF ,\RD_PUNC ਮਾਂ\N_NN ਪਿਓ\N_NN ਤੋਂ\PSP ਸ਼ਰਮਾਂਦੀ\N_NN ।\RD_PUNC
+PBLTD3975	ਦਿਲ\N_NN ਵਿਚ\PSP ਸੋਜ਼\N_NN ਹੋਈ\V_VM_VF ਪੁਰ\JJ ਆਂਸੂ\N_NN ,\RD_PUNC ਦੇਖ\V_VM ਲਿਖੀ\V_VM_VF ਕਰਮਾਂ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBLTD3976	ਢੂੰਢਣ\V_VM_VF ਸਾਕ\N_NN ਨਿਮਾਣੇ\JJ ਧੋਬੀ\N_NN ,\RD_PUNC ਮੈਂ\PR_PRP ਧੀ\N_NN ਬਾਦਸ਼ਾਹਾਂ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBLTD3977	ਹਾਸ਼ਮ\N_NNP ਫਿਰ\RB ਉਹ\PR_PRP ਨਾਮ\N_NN ਨਾ\RP_NEG ਲੇਵਣ\V_VM_VF ,\RD_PUNC ਵੇਖ\V_VM ਸੱਸੀ\N_NNP ਦਰਮਾਂਦੀ\N_NN ।\RD_PUNC ੩੫\QT_QTC ।\RD_PUNC
+PBLTD3978	ਸ਼ਿਕਰਤ\N_NN ਨਾਲ\PSP ਸ਼ਰੀਕ\N_NN ਅੱਤੇ\N_NN ਦੇ\PSP ,\RD_PUNC ਮਰਦ\N_NN ਬਖ਼ੀਲ\JJ ਫ਼ਸਾਦੀ\JJ ।\RD_PUNC
+PBLTD3979	ਪਾਸ\RB ਭੰਬੋਰ\N_NNP ਸ਼ਹਿਰ\N_NN ਦੇ\PSP ਵਾਲੀ\PSP ,\RD_PUNC ਜਾ\V_VM ਹੋਏ\V_VM_VF ਫ਼ਰਿਆਦੀ\JJ ।\RD_PUNC
+PBLTD3980	``\RD_PUNC ਹੋਈ\V_VM_VF ਜਵਾਨ\JJ ਅੱਤੇ\N_NN ਘਰ\N_NN ਬੇਟੀ\N_NN ,\RD_PUNC ਸੂਰਤ\N_NN ਸ਼ਕਲ\N_NN ਸ਼ਹਿਜ਼ਾਦੀ\N_NN ।\RD_PUNC
+PBLTD3981	ਹਾਸ਼ਮ\N_NNP ਕਹਿਆ\V_VM_VF ਪੁਕਾਰ\N_NN ਬਖ਼ੀਲਾਂ\JJ ,\RD_PUNC ਲਾਇਕ\N_NN ਉਹ\PR_PRP ਤੁਸਾਡੀ\PR_PRP ``\RD_PUNC ।\RD_PUNC ੩੬\QT_QTC ।\RD_PUNC
+PBLTD3982	ਭੇਜਿਆ\V_VM_VF ਨਫ਼ਰ\N_NN ਗੁਲਾਮ\N_NN ਅੱਤੇ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਆਦਮ\N_NN ਜਾਮ\N_NN ਬੁਲਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3983	ਸੱਸੀ\N_NNP ਖੋਲ\V_VM ਤਾਵੀਜ਼\N_NN ਗਲੇ\N_NN ਦਾ\PSP ,\RD_PUNC ਸ਼ਾਹ\N_NNP ਹਜ਼ੂਰ\N_NNP ਪੁਚਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3984	ਕਾਗਜ਼\N_NN ਵਾਚ\PSP ਪਛਾਤਾ\V_VM_VF ਜਿਹੜਾ\PR_PRL ,\RD_PUNC ਪਾਇ\V_VM ਸੰਦੂਕ\N_NN ਰੁੜ੍ਹਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD3985	ਹਾਸ਼ਮ\N_NNP ਵੇਖ\V_VM ਹੋਇਆ\V_VM_VF ਸ਼ਰਮਿੰਦਾ\N_NN ,\RD_PUNC ਆਦਮ\N_NN ਜਾਮ\N_NN ਸਵਾਇਆ\V_VM_VF ।\RD_PUNC ੩੭\QT_QTC ।\RD_PUNC
+PBLTD3986	ਲੋਹੂ\N_NN ਗਰਮ\JJ ਹੋਇਆ\V_VM_VF ਦਿਲ\N_NN ਬਿਰੀਆਂ\N_NN ,\RD_PUNC ਫੇਰ\RB ਉਲਾਦ\N_NN ਪਿਆਰੀ\JJ ।\RD_PUNC
+PBLTD3987	ਮਾਂ\N_NN ਪਿਓ\N_NN ਨਾਲ\PSP ਸੱਸੀ\N_NNP ਦੇ\PSP ਚਾਹੁਣ\V_VM_VF ਬਾਤ\N_NN ਕੀਤੀ\V_VM_VF ਇਕ\QT_QTC ਵਾਰੀ\N_NN ।\RD_PUNC
+PBLTD3988	ਸੱਸੀ\N_NNP ਸਾਫ\JJ ਜਵਾਬ\N_NN ਦਿੱਤੋ\V_VM_VF ਨੇ\PSP ,\RD_PUNC ਖੋਲ\V_VM ਹਕੀਕਤ\N_NN ਸਾਰੀ\DM_DMQ ।\RD_PUNC
+PBLTD3989	ਹਾਸ਼ਮ\N_NNP ``\RD_PUNC ਮਿਲਣ\V_VM_VF ਹਰਾਮ\N_NN ਤੁਸਾਨੂੰ\PR_PRP ,\RD_PUNC ਰੋੜ\V_VM ਦਿੱਤੀ\V_VM_VF ਇਕ\QT_QTC ਵਾਰੀ\N_NN ``\RD_PUNC ।\RD_PUNC ੩੮\QT_QTC ।\RD_PUNC
+PBLTD3990	ਮਾਉਂ\N_NN ਫ਼ਿਰਾਕ\N_NN ਸੱਸੀ\N_NNP ਦੇ\PSP ਮਾਰੀ\V_VM_VF ,\RD_PUNC ਨੀਂਦ\N_NN ਅਰਾਮ\N_NN ਨਾ\RP_NEG ਆਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3991	ਹਰਦਮ\RB ਵਾਂਗ\JJ ਯਾਕੂਬ\N_NN ਪਗੰਬਰ\N_NN ,\RD_PUNC ਰੋ\V_VM ਰੋ\V_VM ਹਾਲ\N_NN ਵੰਞਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3992	ਕਰੇ\V_VM_VF ਸਵਾਲ\N_NN ਲੋੜੇ\N_NN ਘਰ\N_NN ਖੜਿਆ\V_VM_VF ,\RD_PUNC ਰੋਜ਼\N_NN ਸੱਸੀ\N_NNP ਥੇ\RP_RPD ਆਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3993	ਹਾਸ਼ਮ\N_NNP ਯਾਦ\N_NN ਸੰਦੂਕ\N_NN ਸੱਸੀ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਖ਼ਾਤਰ\N_NN ਮੂਲ\N_NN ਨਾ\RP_NEG ਲਿਆਵੇ\V_VM_VF ।\RD_PUNC ੩੯\QT_QTC ।\RD_PUNC
+PBLTD3994	ਜਲ\N_NN ਥਲ\N_NN ਮਸ਼ਰਕ\N_NN ਮਗ਼ਰਬ\N_NN ਹਰ\JJ ਸ਼ੈ\N_NN ,\RD_PUNC ਜਿਸ\PR_PRL ਦਾ\PSP ਨਾਮ\N_NN ਧਿਆਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3995	ਸਾਹਿਬ\N_NN ਕੁਦਰਤ\N_NN ਅਪਰ\N_NN ਅਪਾਰਾ\N_NN ,\RD_PUNC ਕਿਤ\PR_PRQ ਮੁਖ\N_NN ਨਾਲ\PSP ਸਲਾਹਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3996	ਅੰਤ\RB ਨਾ\RP_NEG ਪਾਰ\N_NN ਉਰਾਰ\N_NN ਤਿਸੇ\PR_PRQ ਦਾ\PSP ,\RD_PUNC ਕੀ\PR_PRQ ਕੁਝ\DM_DMQ ਆਖ\V_VM ਸੁਣਾਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD3997	ਸੂਰਜ\N_NN ਪ੍ਰਕਾਸ਼\N_NN ਭਾਈ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP 10\QT_QTC ਸਾਲਾਂ\N_NN ਦੀ\PSP ਕਰੜੀ\JJ ਮਿਹਨਤ\N_NN ਕਰਕੇ\V_VM_VNF ਤਿਆਰ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD3998	ਏਨੀ\RB ਵੱਡੀ\JJ ਪੁਸਤਕ\N_NN ਸੰਸਾਰ\N_NN ਭਰ\N_NN ਵਿੱਚ\PSP ਹੋਰ\JJ ਕਿਸੇ\PR_PRQ ਲਿਖਾਰੀ\N_NN ਨੇ\PSP ਨਹੀਂ\RP_NEG ਲਿਖੀ\V_VM_VF ।\RD_PUNC
+PBLTD3999	ਵਰਤਮਾਨ\JJ ਸਦੀ\N_NN ਦੇ\PSP ਬਹੁਤ\JJ ਸਾਰੇ\DM_DMQ ਲੇਖਕਾਂ\N_NN ਨੇ\PSP ਸਿੱਖ\N_NN ਇਤਿਹਾਸ\N_NN ਲਿਖਿਆ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਭਾਈ\N_NNP ਸੰਤੋਖ\N_NNP ਸਿੰਘ\N_NNP ਦੀਆਂ\PSP ਲਿਖਤਾਂ\N_NN ਨੂੰ\PSP ਹੀ\RP_RPD ਆਧਾਰ\N_NN ਬਣਾਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBLTD4000	ਸੂਰਜ\N_NNP ਪ੍ਰਕਾਸ਼\N_NNP ਦੇ\PSP ਕੁੱਲ\N_NN 115\QT_QTC ਅਧਿਆਏ\N_NN ਹਨ\V_VAUX ।\RD_PUNC 64\QT_QTC ਹਜ਼ਾਰ\N_NN ਤੋਂ\PSP ਵੱਧ\JJ ਛੰਦ\N_NN ਹਨ\V_VAUX ਜਿਨ੍ਹਾਂ\PR_PRL ਦੀਆਂ\PSP ਲਗਪਗ\RB ਢਾਈ\QT_QTC ਲੱਖ\N_NN ਸਤਰਾਂ\N_NN ਹਨ\V_VAUX ਇਸ\PR_PRP ਗ੍ਰੰਥ\N_NN ਦੀਆਂ\PSP ਕੁੱਲ\N_NN 14\QT_QTC ਜਿਲਦਾਂ\N_NN ਹਨ\V_VAUX ਅਤੇ\CC_CCD 6\QT_QTC ਹਜ਼ਾਰ\N_NN ਪੰਨੇ\N_NN ਹਨ\V_VAUX ।\RD_PUNC

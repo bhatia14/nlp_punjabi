@@ -1,0 +1,1004 @@
+ID	Value
+PBLTD1001	ਘਰ\N_NN ਖੀਵੇ\N_NNP ਦੇ\PSP ਸਾਹਿਬਾਂ\N_NNP ,\RD_PUNC ਜੰਮੀ\V_VM ਮੰਗਲਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1002	ਡੂਮ\N_NN ਸੋਹੇਲੇ\N_NN ਗਾਂਵਦੇ\V_VM ,\RD_PUNC ਖਾਨ\N_NNP ਖੀਵੇ\N_NNP ਦੇ\PSP ਬਾਰ\N_NN ।\RD_PUNC
+PBLTD1003	ਰੱਜ\N_NN ਦੁਆਈੰ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ,\RD_PUNC ਸੋਹਣੇ\RB ਪਰਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1004	ਰਲ\RB ਤਦਬੀਰਾਂ\N_NN ਬੱਧੀਆਂ\V_VM ,\RD_PUNC ਛੈਲ\JJ ਹੋਈ\V_VM_VF ਮੁਟਿਆਰ\JJ ।\RD_PUNC
+PBLTD1005	ਸਾਹਿਬਾਂ\N_NNP ਨਾਲ\PSP ਸਹੇਲੀਆਂ\N_NN ,\RD_PUNC ਕੂੜੀ\N_NN ਰੀਸਕਾਰ\JJ ।\RD_PUNC
+PBLTD1006	ਘਰ\N_NN ਵੰਝਲ\N_NNP ਦੇ\PSP ਮਿਰਜ਼ਾ\N_NNP ,\RD_PUNC ਜੰਮਿਆ\V_VM ਕਰੜੇ\JJ ਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1007	ਜਨਮ\N_NN ਦਿੱਤਾ\V_VM_VF ਮਾਈ\N_NN ਬਾਪ\N_NN ਨੇ\PSP ,\RD_PUNC ਰੂਪ\N_NN ਦਿੱਤਾ\V_VM_VF ਕਰਤਾਰ\N_NN ।\RD_PUNC
+PBLTD1008	ਐਸਾ\RB ਮਿਰਜ਼ਾ\N_NNP ਸੂਰਮਾ\JJ ,\RD_PUNC ਖਰਲਾਂ\N_NNP ਦਾ\PSP ਸਰਦਾਰ\JJ ।\RD_PUNC
+PBLTD1009	ਸਾਹਿਬਾਂ\N_NNP ਪੜੇ\V_VM ਪੱਟੀਆਂ\N_NN ,\RD_PUNC ਮਿਰਜ਼ਾ\N_NNP ਪੜੇ\V_VM ਕੁਰਾਨ\N_NNP ।\RD_PUNC
+PBLTD1010	ਵਿੱਚ\PSP ਮਸੀਤ\N_NN ਦੇ\PSP ਲੱਗੀਆਂ\V_VM ,\RD_PUNC ਜਾਣੇ\V_VM_VINF ਕੁਲ\RB ਜਹਾਨ\N_NN ।\RD_PUNC
+PBLTD1011	ਨਾ\RP_NEG ਮਾਰ\V_VM ਕਾਜ਼ੀ\N_NN ਛਮਕਾਂ\N_NN ,\RD_PUNC ਨਾ\RP_NEG ਦੇ\PSP ਤੱਤੀ\JJ ਨੂੰ\PSP ਤਾਇ\N_NN ।\RD_PUNC
+PBLTD1012	ਪੜਨਾ\N_NN ਸਾਡਾ\PR_PRP ਰਹਿ\V_VM_VF ਗਿਆ\V_VM_VF ,\RD_PUNC ਲੈ\V_VM_VNF ਆਏ\V_VM_VF ਇਸ਼ਕ\N_NN ਲਿਖਾਇ\V_VM_VF ।\RD_PUNC
+PBLTD1013	ਸਾਹਿਬਾਂ\N_NNP ਗਈ\V_VM_VF ਤੇਲ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਗਈ\V_VM_VF ਪਸਾਰੀ\N_NN ਦੀ\PSP ਹੱਟ\N_NN ।\RD_PUNC
+PBLTD1014	ਫੜ\N_NN ਨਾ\RP_NEG ਜਾਣੇ\V_VM_VINF ਤੱਕੜੀ\N_NN ,\RD_PUNC ਹਾੜ\N_NN ਨਾ\RP_NEG ਜਾਣੇ\V_VM_VINF ਵੱਟ\N_NN ।\RD_PUNC
+PBLTD1015	ਤੇਲ\N_NN ਭੁਲਾਵੇ\V_VM_VF ਭੁੱਲਾ\V_VM ਬਾਣੀਆ\N_NN ,\RD_PUNC ਦਿੱਤਾ\V_VM_VF ਸ਼ਹਿਤ\N_NN ਉੱਲਟ\V_VM ।\RD_PUNC
+PBLTD1016	ਵਣਜ\N_NN ਗਵਾ\V_VM ਲੈ\V_VM_VNF ਬਾਣੀਆਂ\N_NN ,\RD_PUNC ਬਲਦ\N_NN ਗਵਾ\V_VM ਲੈ\V_VM_VNF ਜੱਟ\N_NN ।\RD_PUNC
+PBLTD1017	ਤਿੰਨ\QT_QTC ਸੈ\QT_QTC ਨਾਂਗਾ\N_NN ਪਿੜ\V_VM ਰਿਹਾ\V_VM_VF ,\RD_PUNC ਹੋ\V_VM_VNF ਗਏ\V_VM_VF ਚੌੜ\RB ਚੁਪੱਟ\JJ ।\RD_PUNC
+PBLTD1018	ਮਿਰਜ਼ੇ\N_NNP ਸਾਹਿਬਾਂ\N_NNP ਦੀ\PSP ਦੋਸਤੀ\N_NN ,\RD_PUNC ਰਹੂ\V_VM ਵਿੱਚ\PSP ਜਗਤ\N_NN ।\RD_PUNC
+PBLTD1019	ਘਰ\N_NN ਤੋਂ\PSP ਸਾਹਿਬਾਂ\N_NNP ਟੁਰ\V_VM ਪਈ\V_VM_VF ,\RD_PUNC ਕਰ\V_VM_VF ਕੇ\V_VM_VNF ਪੜਨ\V_VM ਦੀ\PSP ਨੀਤ\N_NN ।\RD_PUNC
+PBLTD1020	ਕਾਜ਼ੀ\N_NN ਸਾਡਾ\PR_PRP ਮਰ\V_VM ਗਿਆ\V_VM_VF ,\RD_PUNC ਸੁੰਨੀ\JJ ਪਈ\V_VM_VF ਮਸੀਤ\N_NN ।\RD_PUNC
+PBLTD1021	ਤੂੰ\PR_PRP ਸੁਣ\V_VM ਕਰਮੂੰ\N_NNP ਬਾਹਮਣਾ\N_NN ,\RD_PUNC ਕਦੀ\RB ਨਾ\RP_NEG ਆਇਓਂ\V_VM_VF ਕਾਮ\N_NN ।\RD_PUNC
+PBLTD1022	ਘੋੜੀ\N_NN ਦਿਆਂ\V_VM_VF ਤੇਰੇ\PR_PRP ਚੜਨ\V_VM ਨੂੰ\PSP ਕਾਠੀ\N_NN ਸਣੇ\N_NN ਲਗਾਮ\V_VM_VF ।\RD_PUNC
+PBLTD1023	ਹੱਥ\N_NN ਦੀਆਂ\PSP ਦੇ\PSP ਦਿਆਂ\N_NN ਚੂੜੀਆਂ\N_NN ,\RD_PUNC ਸੋਨਾ\N_NN ਕਰਦੀ\V_VM_VF ਦਾਨ\N_NN ।\RD_PUNC
+PBLTD1024	ਝੋਟੀ\N_NN ਦਿਆਂ\V_VM_VF ਦੁੱਧ\N_NN ਪੀਣ\V_VM_VINF ਨੂੰ\PSP ,\RD_PUNC ਹਲ\N_NN ਦੀ\PSP ਜ਼ਿਮੀਂ\N_NN ਇਨਾਮ\N_NN ।\RD_PUNC
+PBLTD1025	ਜਬ\N_NN ਲੱਗ\N_NN ਜੀਵੇ\V_VM_VF ਸਾਹਿਬਾਂ\N_NNP ,\RD_PUNC ਰੱਖੇ\V_VM_VF ਤੇਰਾ\PR_PRP ਇਹਸਾਨ\N_NN ।\RD_PUNC
+PBLTD1026	ਚੌਥੇ\QT_QTO ਨੂੰ\PSP ਚੰਧੜ\N_NNP ਵਿਆਹ\N_NN ਲਿਜਾਣਗੇ\V_VM_VF ,\RD_PUNC ਫਿਰ\RB ਕੀ\PR_PRQ ਕਰੇਂਗਾ\V_VM_VF ਆਣ\V_VM_VINF ।\RD_PUNC
+PBLTD1027	ਅੱਗੋਂ\RB ਕਰਮੂੰ\N_NNP ਬੋਲਦਾ\V_VM ,\RD_PUNC ਸੱਚੀ\JJ ਦਿਆਂ\V_VM_VF ਸੁਣਾ\V_VM ।\RD_PUNC
+PBLTD1028	ਚਾਲੀ\QT_QTC ਕੋਹਾਂ\N_NN ਦਾ\PSP ਪੈਂਡਾ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਕੌਣ\PR_PRQ ਆਵੇ\V_VM_VF ,\RD_PUNC ਕੌਣ\PR_PRQ ਜਾ\V_VM ।\RD_PUNC
+PBLTD1029	ਘਰ\N_NN ਮਿਰਜ਼ੇ\N_NNP ਦੇ\PSP ਹੋਰ\RB ਇਸਤਰੀ\N_NN ,\RD_PUNC ਸੁਣੀਂਦੀ\V_VM_VF ਬੁਰੀ\JJ ਬਲਾ\JJ ।\RD_PUNC
+PBLTD1030	ਸੌਕਣ\N_NN ਉੱਤੇ\RB ਸੌਕਣ\N_NN ਪਏ\V_VM_VF ,\RD_PUNC ਲੇਵੇ\V_VM_VF ਅੱਧ\JJ ਵੰਡਾ\V_VM ।\RD_PUNC
+PBLTD1031	ਛੱਡ\V_VM ਦੇ\PSP ਪੁਰਾਣੀ\JJ ਜੱਟ\N_NN ਦੀ\PSP ਦੋਸਤੀ\N_NN ,\RD_PUNC ਨਵੀਂ\JJ ਕਰਮੂੰ\N_NNP ਵੱਲ\PSP ਲਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1032	ਘਰ\N_NN ਵਿੱਚ\PSP ਲਾ\V_VM ਲੈ\V_VM_VNF ਦੋਸਤੀ\N_NN ,\RD_PUNC ਬਹਿ\V_VM ਕੇ\V_VM_VNF ਇਸ਼ਕ\N_NN ਕਮਾ\V_VM ।\RD_PUNC
+PBLTD1033	ਅੱਗੋਂ\RB ਸਾਹਿਬਾਂ\N_NNP ਬੋਲਦੀ\V_VM ,\RD_PUNC ਤੇਰੇ\PR_PRP ਮੂੰਹ\N_NN ਵਿੱਚ\PSP ਸੁਆਹ\N_NN ।\RD_PUNC
+PBLTD1034	ਮਾਰਾਂ\V_VM ਚਪੇੜ\N_NN ਤੇਰੇ\PR_PRP ਗ਼ਜ਼ਬ\N_NN ਦੀ\PSP ,\RD_PUNC ਦਿਆਂ\V_VM ਅਕਲ\N_NN ਗਵਾ\V_VM_VF ।\RD_PUNC
+PBLTD1035	ਖ਼ਬਰ\N_NN ਹੋ\V_VM ਜਾਏ\V_VM_VF ਮੇਰੇ\PR_PRP ਬਾਪ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਤੈਨੂੰ\PR_PRP ਸ਼ਹਿਰੋਂ\N_NN ਦੇਇ\V_VM_VF ਉਜਾੜ\N_NN ।\RD_PUNC
+PBLTD1036	ਤੇ\CC_CCD ਖ਼ਬਰ\N_NN ਹੋ\V_VM_VNF ਜਾਏ\V_VM_VF ਵੀਰ\N_NNP ਸ਼ਮੀਰ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਤੈਨੂੰ\PR_PRP ਕਰਹਿ\N_NN ਮਾਰ\V_VM_VF ।\RD_PUNC
+PBLTD1037	ਜੇ\CC_CCS ਖ਼ਬਰ\N_NN ਹੋ\V_VM ਜਾਏ\V_VM_VF ਪਿੰਡ\N_NN ਦੇ\PSP ਮੁੰਡਿਆਂ\N_NN ,\RD_PUNC ਕਰਨ\V_VM_VINF ਢੀਮਾਂ\N_NN ਦੀ\PSP ਮਾਰ\V_VM ।\RD_PUNC
+PBLTD1038	ਭਲਕੇ\RB ਸਰਾਧ\N_NN ਦਾਦਾ\N_NN ਆਉਣਗੇ\V_VM_VF ,\RD_PUNC ਨਿਉਂਦੇ\N_NN ਖਾਣ\V_VM_VINF ਤੇ\CC_CCD ਜਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1039	ਲਗਨੀ\V_VM_VINF ਆਂ\V_VAUX ਮੈਂ\PR_PRP ਤੇਰੀ\PR_PRP ਪੋਤਰੀ\N_NN ,\RD_PUNC ਬਹਿ\V_VM ਗਿਆਂ\V_VM_VF ਰੰਨ\N_NN ਬਣਾ\V_VM_VINF ।\RD_PUNC
+PBLTD1040	ਲੱਗੂ\V_VM ਕਚਹਿਰੀ\N_NN ਖੀਵੇ\N_NNP ਬਾਪ\N_NN ਦੀ\PSP ,\RD_PUNC ਤੈਨੂੰ\PR_PRP ਬੰਨ\V_VM ਕੇ\V_VM_VNF ਲਊਂ\V_VM_VF ਮੰਗਾ\V_VM_VF ।\RD_PUNC
+PBLTD1041	ਇਹ\PR_PRP ਗੁਨਾਹ\N_NN ਮੇਰਾ\PR_PRP ਬਖ਼ਸ਼\V_VM ਲੈ\V_VM_VNF ,\RD_PUNC ਸਾਹਿਬਾਂ\N_NNP ਜਿੱਥੇ\PR_PRL ਘੱਲੇਂ\V_VM ਓਥੇ\PR_PRL ਜਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1042	ਡੋਰਾ\N_NN ਲੱਗਾ\V_VM_VF ਅਫ਼ੀਮ\N_NN ਦਾ\PSP ,\RD_PUNC ਸਾਡੀ\PR_PRP ਅਕਲ\N_NN ਟਿਕਾਣੇ\V_VM_VINF ਨਾਹ\RP_NEG ।\RD_PUNC
+PBLTD1043	ਮੈਂ\PR_PRP ਤੇ\CC_CCD ਭੋਲਾ\JJ ਗ਼ਰੀਬ\JJ ਹਾਂ\V_VAUX ,\RD_PUNC ਮੇਰੀ\PR_PRP ਰੱਖ\V_VM ਧੌਲਿਆਂ\N_NN ਦੀ\PSP ਲਾਜ\N_NN ।\RD_PUNC
+PBLTD1044	ਬੜੀ\DM_DMQ ਰਾਤੋਂ\N_NN ਉੱਠ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਟੁਰ\V_VM ਪਵਾਂ\V_VM_VF ਖਰਲਾਂ\N_NNP ਦੀ\PSP ਰਾਹ\V_VM_VF ।\RD_PUNC
+PBLTD1045	ਸਿਆਲਾਂ\N_NNP ਤੋਂ\PSP ਬਾਹਮਣ\N_NN ਟੁਰ\V_VM ਪਿਆ\V_VM_VF ,\RD_PUNC ਪਿਆ\V_VM_VF ਖਰਲਾਂ\N_NNP ਦੀ\PSP ਰਾਹ\N_NN ।\RD_PUNC
+PBLTD1046	ਕੋਲ\RB ਮਿਰਜ਼ੇ\N_NNP ਦੇ\PSP ਆ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਦੱਸ\V_VM ਦਿੱਤੀ\V_VM_VF ਸਾਹੇ\N_NN ਦੀ\PSP ਪਾ\V_VM ।\RD_PUNC
+PBLTD1047	ਮਹਿੰਦੀ\N_NN ਸਾਹਿਬਾਂ\N_NNP ਦੇ\PSP ਵਿਆਹ\N_NN ਦੀ\PSP ,\RD_PUNC ਚਲ\V_VM ਕੇ\V_VM_VNF ਹੱਥੀਂ\N_NN ਆਪਣੇ\PR_PRF ਲਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1048	ਭੇਜਿਆ\V_VM ਸਾਹਿਬਾਂ\N_NNP ਦਾ\PSP ਆ\V_VM ਗਿਆਂ\V_VM_VF ,\RD_PUNC ਛੇਤੀ\RB ਹੋ\V_VM_VNF ਤਿਆਰ\N_NN ।\RD_PUNC
+PBLTD1049	ਚੜਦੇ\RB ਮਿਰਜ਼ੇ\N_NNP ਖ਼ਾਨ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਛਹਿਤੀ\N_NNP ਕਰੇ\V_VM ਜਵਾਬ\N_NN ।\RD_PUNC
+PBLTD1050	”\RD_PUNC ਹਟ\RB ਕੇ\V_VM_VNF ਬੈਠੀਂ\V_VM ਮਿਰਜ਼ਿਆ\N_NNP ,\RD_PUNC ਘਰ\N_NN ਵਿੱਚ\PSP ਕਰੀਂ\V_VM_VF ਸਲਾਹ\N_NN ।\RD_PUNC
+PBLTD1051	ਪਲੰਘ\N_NN ‘ਤੇ\CC_CCD ਬਹਿ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਮੇਰਾ\PR_PRP ਹੱਥੀਂ\RB ਕਾਜ\N_NN ਸੰਵਾਰ\V_VM ।\RD_PUNC
+PBLTD1052	ਭੱਲ\V_VM ਕੇ\V_VM_VNF ਆਉਣਗੇ\V_VM_VF ਭੱਟੀ\N_NNP ਸੰਦਲ\N_NNP ਬਾਰ\N_NNP ਦੇ\PSP ,\RD_PUNC ਸਾਹਿਬ\N_NNP ਸੰਡੇ\N_NN ਬਾਰ\N_NN ।\RD_PUNC
+PBLTD1053	ਮੇਰਾ\PR_PRP ਜਾਣ\V_VM_VINF ਜ਼ਰੂਰ\RB ਦਾ\PSP ,\RD_PUNC ਪਿੱਛੇ\RB ਭਾਈ\N_NN ਚਾਰ\QT_QTC ।\RD_PUNC
+PBLTD1054	ਅੱਛੀ\JJ ਕਰਨ\V_VM_VINF ਆਪਣੇ\PR_PRF ਨੱਕ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਨਹੀਂ\RP_NEG ਖਰਲਾਂ\N_NNP ਨੂੰ\PSP ਆਊ\V_VM ਹਾਰ\N_NN ।\RD_PUNC
+PBLTD1055	ਮੇਰਾ\PR_PRP ਜਾਣਾ\V_VM_VINF ਜ਼ਰੂਰ\RB ਦਾ\PSP ,\RD_PUNC ਜਾਂਦੇ\V_VM_VF ਨੂੰ\PSP ਹੋੜ\V_VM ਨਾ\RP_NEG ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1056	ਕਾਜ-ਵਿਹੂਣਾ\JJ ਮੈਂ\PR_PRP ਫਿਰਾਂ\V_VM ,\RD_PUNC ਮੈਨੂੰ\PR_PRP ਕੀ\PR_PRQ ਕਿਸੇ\PR_PRQ ਦੇ\PSP ਕਾਜਾਂ\N_NN ਨਾਲ\PSP ।\RD_PUNC
+PBLTD1057	ਚੜਦੇ\RB ਮਿਰਜ਼ੇ\N_NNP ਖਾਨ\N_NNP ਨੂੰ\PSP ਮੱਤਾਂ\V_VM ਦੇਵੇ\V_VM_VF ਮਾਂ\N_NN ।\RD_PUNC
+PBLTD1058	ਬੁਰੇ\JJ ਸਿਆਲਾਂ\N_NN ਦੇ\PSP ਮਾਮਲੇ\N_NN ,\RD_PUNC ਬੁਰੀ\JJ ਸਿਆਲਾਂ\N_NN ਦੀ\PSP ਰਾਹ\N_NN ।\RD_PUNC
+PBLTD1059	ਬੁਰੀਆਂ\JJ ਸਿਅਲਾਂ\N_NNP ਦੀਆਂ\PSP ਔਰਤਾਂ\N_NN ,\RD_PUNC ਲੈਂਦੀਆਂ\V_VM ਜਾਦੂ\N_NN ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1060	ਕੱਢ\V_VM ਕਲੇਜੇ\N_NN ਖਾਂਦੀਆਂ\V_VM_VF ,\RD_PUNC ਮੇਰੇ\PR_PRP ਝਾਟੇ\N_NN ਤੇਲ\N_NN ਨਾ\RP_NEG ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1061	ਰੰਨ\N_NN ਦੀ\PSP ਖ਼ਾਤਿਰ\N_NN ਚਲਿਆਂ\V_VM ,\RD_PUNC ਆਵੇਂ\V_VM_VF ਜਾਨ\N_NN ਗੰਵਾ\V_VM_VF ।\RD_PUNC
+PBLTD1062	ਆਖੇ\V_VM ਮੇਰੇ\PR_PRP ਲੱਗ\V_VM_VF ਜਾ\V_VM_VNF ,\RD_PUNC ਅੱਗੇ\RB ਪੈਰ\N_NN ਨਾ\RP_NEG ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1063	ਘਰ\N_NN ਖੀਵੇ\N_NNP ਦੇ\PSP ਕਾਜ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਲਾਗੀ\N_NN ਭੇਜਿਆ\V_VM ਮੇਰੇ\PR_PRP ਦਾ\PSP ।\RD_PUNC
+PBLTD1064	ਘਰ\N_NN ਮੇਰੇ\PR_PRP ਆਣ\V_VM_VINF ਕੇ\V_VM_VNF ਦੱਸ\V_VM ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC ਸਾਹੇ\N_NN ਦੀ\PSP ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1065	ਉਹ\PR_PRP ਨਾਨਕੇ\N_NN ਮੈਂ\PR_PRP ਦੋਹਿਤਰਾ\N_NN ,\RD_PUNC ਜਾਂਦੇ\V_VM_VF ਨੂੰ\PSP ਮੋੜ\V_VM ਨਾ\RP_NEG ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1066	ਪੰਜ\QT_QTC ਰੁਪਏ\N_NN ਇੱਕ\QT_QTC ਪੱਤਰਾ\N_NN ,\RD_PUNC ਮੈਂ\PR_PRP ਨਿਉਂਦਾ\N_NN ਪਾਊਂਗਾ\V_VM_VF ਜਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1067	ਮਿਰਜ਼ੇ\N_NNP ਨੇ\PSP ਘੋੜੀ\N_NN ਸ਼ਿੰਗਾਰ\JJ ਲਈ\PSP ,\RD_PUNC ਆਸਣ\N_NN ਬੈਠਾ\V_VM ਜਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1068	ਚੜਦੇ\JJ ਦਾ\PSP ਪੱਲਾ\N_NN ਅਟਕਿਆ\V_VM ,\RD_PUNC ਛੀਂਕ\N_NN ਸਾਹਮਣੇ\V_VM_VINF ਆ\V_VM_VNF ।\RD_PUNC
+PBLTD1069	ਮਿਰਜ਼ਾ\N_NNP ਸਿਆਲਾਂ\N_NNP ਨੂੰ\PSP ਚੱਲਿਆ\V_VM_VF ,\RD_PUNC ਖੇੜੇ\N_NNP ਸੀਸ\N_NN ਨਿਵਾ\V_VM ।\RD_PUNC
+PBLTD1070	ਕੱਢ\V_VM ਕਲੇਜਾ\N_NN ਲੈ\V_VM_VNF ਗਈ\V_VM_VF ,\RD_PUNC ਖ਼ਾਨ\N_NNP ਖੀਵੇ\N_NNP ਦੀ\PSP ਧੀ\N_NN ।\RD_PUNC
+PBLTD1071	ਗਜ਼\N_NN ਗਜ਼\N_NN ਲੰਮੀਆਂ\JJ ਮੀਂਢੀਆਂ\N_NN ,\RD_PUNC ਰੰਗ\N_NN ਜੋ\PR_PRL ਗੋਰਾ\JJ ਸੀ\V_VAUX ।\RD_PUNC
+PBLTD1072	ਜੇ\PR_PRL ਦੇਵੇ\V_VM_VF ਪਿਆਲਾ\N_NN ਜ਼ਹਿਰ\N_NN ਦਾ\PSP ,\RD_PUNC ਮੈਂ\PR_PRP ਮਿਰਜ਼ਾ\N_NNP ਲੈਂਦਾ\V_VM_VF ਪੀ\V_VM_VNF ।\RD_PUNC
+PBLTD1073	ਜੇ\PR_PRL ਮਾਰੇ\V_VM ਬਰਛੀ\N_NN ਕੱਸ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਮਿਰਜ਼ਾ\N_NNP ਕਦੀ\RB ਨਾ\RP_NEG ਕਰਦਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBLTD1074	ਆਪਣੀ\PR_PRF ਮੌਤੇ\N_NN ਮੈਂ\PR_PRP ਮਰਾਂ\V_VM ,\RD_PUNC ਮੇਰੇ\PR_PRP ਨਾਲ\PSP ਤੁਹਾਨੂੰ\PR_PRP ਕੀ\PR_PRQ ।\RD_PUNC
+PBLTD1075	ਚੜਦੇ\JJ ਮਿਰਜ਼ੇ\N_NNP ਖ਼ਾਨ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਵੰਝਲ\N_NNP ਦੇਂਦਾ\V_VM ਮੱਤ\N_NN ।\RD_PUNC
+PBLTD1076	ਭੱਠ\N_NN ਰੰਨਾਂ\N_NN ਦੀ\PSP ਦੋਸਤੀ\N_NN ,\RD_PUNC ਖੁਰੀ\V_VM ਜਿਨਹਾਂ\PR_PRL ਦੀ\PSP ਮੱਤ\N_NN ।\RD_PUNC
+PBLTD1077	ਹੱਸ\V_VM ਕੇ\V_VM_VNF ਲਾਉਂਦੀਆਂ\V_VM ਯਾਰੀਆਂ\N_NN ,\RD_PUNC ਰੋ\V_VM ਕੇ\V_VM_VNF ਦਿੰਦੀਆਂ\V_VM_VF ਦੱਸ\V_VM ।\RD_PUNC
+PBLTD1078	ਜਿਸ\PR_PRL ਘਰ\N_NN ਲਾਈ\V_VM_VF ਦੋਸਤੀ,\N_NN ਮੂਲ\RB ਨਾ\RP_NEG ਘੱਤੇਂ\V_VM ਲੱਤ\N_NN ।\RD_PUNC
+PBLTD1079	ਲੱਥੀ\RB ਹੱਥ\N_NN ਨਾ\RP_NEG ਆਂਵਦੀ\V_VM_VF ,\RD_PUNC ਦਾਨਸ਼ਮੰਦਾਂ\N_NN ਦੀ\PSP ਪੱਤ\N_NN ।\RD_PUNC
+PBLTD1080	ਸਾਹਿਬਾਂ\N_NNP ਆਈਂ\V_VM_VF ਨਾ\RP_NEG ਛੱਡ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਸਿਰ\N_NN ਨਾ\RP_NEG ਰਹੂ\V_VM ਸਾਡੀ\PR_PRP ਪੱਤ\N_NN ।\RD_PUNC
+PBLTD1081	ਰਾਜਾ\N_NN ਝੂਰੇ\V_VM ਰਾਜ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਬੁਧਿ\N_NN ਨੂੰ\PSP ਝੂਰੇ\V_VM ਚੋਰ\N_NN ।\RD_PUNC
+PBLTD1082	ਗੋਰੀ\N_NN ਝੂਰੇ\V_VM ਰੂਪ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਪੈਰਾਂ\N_NN ਝੂਰੇ\V_VM ਮੋਰ\N_NN ।\RD_PUNC
+PBLTD1083	ਸੱਪਾਂ\N_NN ਸ਼ੇਰਾਂ\N_NN ਦੀ\PSP ਦੋਸਤੀ\N_NN ,\RD_PUNC ਨਾ\RP_NEG ਕਰ\V_VM_VF ਭਾਈ\N_NN ਅੜੀ\V_VM ।\RD_PUNC
+PBLTD1084	ਤਪੀ\JJ ਕੜਾਹੀ\N_NN ਤੇਲ\N_NN ਦੀ\PSP ,\RD_PUNC ਸਿਰ\N_NN ਪਰ\CC_CCD ਲਾਟ\N_NN ਜਲੀ\V_VM ।\RD_PUNC
+PBLTD1085	ਮੂਸਾ\N_NNP ਭੱਜਿਆ\V_VM ਮੌਤ\N_NN ਤੋਂ\PSP ,\RD_PUNC ਅੱਗੇ\RB ਮੌਤ\N_NN ਖੜੀ\V_VM ।\RD_PUNC
+PBLTD1086	ਪਰਬਤ\N_NN ਵੜਦੇ\V_VM_VF ਟਕਰੇ\V_VM ,\RD_PUNC ਲੰਘਣ\V_VM_VINF ਕਿਹੜੀ\PR_PRQ ਗਲੀ\N_NN ।\RD_PUNC
+PBLTD1087	ਰੋਂਦੀ\V_VM ਬੀਬੀ\N_NNP ਫ਼ਾਤਿਮਾ\N_NNP ,\RD_PUNC ਕਰ\V_VM ਕੇ\V_VM_VNF ਬਾਂਹ\N_NN ਖੜੀ\V_VM_VF ।\RD_PUNC
+PBLTD1088	ਅੱਜ\RB ਦਾ\PSP ਵਾਰ\N_NN ਬਚਾ\V_VM ਲੈ\V_VM_VNF ,\RD_PUNC ਭਲਕੇ\RB ਸਿਆਲੀਂ\N_NNP ਜਾ\V_VM_VNF ਵੜੀਂ\V_VM ।\RD_PUNC
+PBLTD1089	ਵਿਆਹੀ\N_NN ਹੋਵੇ\V_VM_VF ਛੱਡ\V_VM ਦੇਵਾਂ\V_VM_VF ,\RD_PUNC ਮੰਗ\N_NN ਨਾ\RP_NEG ਛੱਡੀ\V_VM ਜਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1090	ਜੇਕਰ\CC_CCS ਮੰਗ\N_NN ਮੈਂ\PR_PRP ਛੱਡ\V_VM ਦੇਵਾਂ\V_VM_VF ,\RD_PUNC ਲੱਗੇ\V_VM ਖਰਲਾਂ\N_NNP ਨੂੰ\PSP ਲਾਜ\N_NN ।\RD_PUNC
+PBLTD1091	ਪੁੱਤ\N_NN ਮਿਰਜ਼ਾ\N_NNP ਨੂੰਹ\N_NN ਸਾਹਿਬਾਂ\N_NNP ,\RD_PUNC ਸਾਡੀ\PR_PRP ਟੁਰਨੀ\V_VM ਜੱਗ\N_NN ਵਿਚ\PSP ਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1092	ਚੜਦੇ\JJ ਮਿਰਜ਼ੇ\N_NNP ਖ਼ਾਨ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਮਾਂ\N_NN ਮੱਤ\N_NN ਦੇਂਦੀ\V_VM_VF ਖੜੀ\V_VM ।\RD_PUNC
+PBLTD1093	ਯਾਰਾਂ\N_NN ਚੋਰਾਂ\N_NN ਵਿੱਚ\N_NN ਬੈਠ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਗੱਲ\N_NN ਨਾ\RP_NEG ਕਰੀੲ\V_VM_VF ਖਰੀ\JJ ।\RD_PUNC
+PBLTD1094	ਅੱਜ\RB ਦਾ\PSP ਵਾਰ\N_NN ਬਚਾਅ\V_VM ਲੈ\V_VM_VNF ,\RD_PUNC ਭਲਕੇ\RB ਸਿਆਲੀਂ\N_NNP ਜਾ\V_VM_VNF ਵੜੀਂ\V_VM ।\RD_PUNC
+PBLTD1095	ਅੱਗੋਂ\RB ਮਿਰਜ਼ਾ\N_NNP ਬੋਲਿਆ\V_VM ,\RD_PUNC ”\N_NN ਦੇਵਾਂ\V_VM_VF ਸੱਚ\N_NN ਸੁਣਾ\V_VM ।\RD_PUNC
+PBLTD1096	ਘਰ\N_NN ਵੰਝਲ\N_NNP ਦੇ\PSP ਜੰਮਿਆਂ\V_VM ,\RD_PUNC ਦਿੱਤੀ\V_VM_VF ਕੁਲ\N_NN ਸੰਵਾਰ\V_VM ।\RD_PUNC
+PBLTD1097	ਸੱਦਿਆ\V_VM ਸਾਹਿਬਾਂ\N_NNP ਸਿਆਲ\N_NNP ,\RD_PUNC ਕੀਕਰ\PR_PRQ ਦੇਵਾਂ\V_VM ਜਵਾਬ\N_NN ।\RD_PUNC
+PBLTD1098	ਜੀਉਂਦਾ\N_NN ਰਿਹਾ\V_VM_VF ਤਾਂ\CC_CCD ਆ\V_VM_VNF ਮਿਲਾਂ\V_VM ,\RD_PUNC ਮੱਤ\RP_NEG ਛੋਡੀਓਂ\V_VM ਆਸ\N_NN ।\RD_PUNC
+PBLTD1099	ਮਿਰਜ਼ਾ\N_NNP ਸਿਆਲਾਂ\N_NNP ਨੂੰ\PSP ਟੁਰ\V_VM ਪਿਆ\V_VM_VF ,\RD_PUNC ਚੱਲਿਆ\V_VM ਹੋ\V_VM_VNF ਅਸਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1100	ਮਿਰਜ਼ਾ\N_NNP ਪੁੱਛੇ\V_VM ਪੀਲੂ\N_NNP ਸ਼ਾਇਰ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਦੱਸੀਂ\V_VM ਸ਼ਗਨ\N_NN ਵਿਚਾਰ\V_VM ।\RD_PUNC
+PBLTD1101	ਪੀਲੂ\N_NNP ਬੈਠਾ\V_VM ਖੂਹ\N_NN ਤੇ\CC_CCD ,\RD_PUNC ਕਰਕੇ\V_VM_VNF ਲੱਖ\QT_QTC ਤਦਬੀਰ\N_NN ।\RD_PUNC
+PBLTD1102	ਕਾਂਲਣ\N_NN ਬੱਧਾ\V_VM ਤੱਕਲਾ\N_NN ,\RD_PUNC ਤੱਕਲੇ\N_NN ਬੱਧਾ\V_VM ਤੀਰ\N_NN ।\RD_PUNC
+PBLTD1103	ਲੱਠ\N_NN ਪਠਾਣਾ\N_NN ਮੇਲਿਆ\N_NN ,\RD_PUNC ਕਰੜੇ\JJ ਘੱਤ\V_VM ਜ਼ੰਜੀਰ\N_NN ।\RD_PUNC
+PBLTD1104	ਕੰਮੀਆਂ\N_NN ਮੁੰਢ\N_NN ਧਤੂਰੀਆਂ\N_NN ,\RD_PUNC ਜਿਵੇਂ\RP_CL ਬਾਦਸ਼ਾਹ\N_NN ਮੁੱਢ\N_NN ਵਜ਼ੀਰ\N_NN ।\RD_PUNC
+PBLTD1105	ਕੁੱਤਾ\N_NN ਹੱਟ\V_VM ਹੱਟ\V_VM ਕਰ\V_VM_VF ਰਿਹਾ\V_VM_VF ,\RD_PUNC ਜਿਵੇਂ\RP_CL ਦਰ\N_NN ਵਿੱਚ\PSP ਖੜਾ\V_VM ਫ਼ਕੀਰ\N_NN ।\RD_PUNC
+PBLTD1106	ਟਿੰਡਾਂ\N_NN ਗੇੜਮ\N_NN ਗੇੜੀਆਂ\V_VM ,\RD_PUNC ਭਰ\RB ਭਰ\RB ਡੋਲ੍ਹਣ\V_VM ਨੀਰ\N_NN ।\RD_PUNC
+PBLTD1107	ਅੱਗੋਂ\RB ਮਿਰਜ਼ਾ\N_NNP ਬੋਲਿਆ\V_VM ,\RD_PUNC ਤੈਨੂੰ\PR_PRP ਦਿਆਂ\V_VM_VF ਸੁਣਾ\V_VM ।\RD_PUNC
+PBLTD1108	ਤੇਰੀਆਂ\PR_PRP ਗੱਡਾਂ\N_NN ਝੂਠੀਆਂ\V_VM ,\RD_PUNC ਇੱਕ\QT_QTC ਵੀ\RP_RPD ਮੰਨਦਾ\V_VM ਨਾਂਹ\RP_NEG ।\RD_PUNC
+PBLTD1109	ਇੰਨੇ\RB ਖੜਕੇ\V_VM ਵਾਲੇ\PSP ਆਦਮੀ\N_NN ,\RD_PUNC ਕਬਰੀਂ\N_NN ਜਾ\V_VM_VNF ਪਏ\V_VM ।\RD_PUNC
+PBLTD1110	ਜੇ\PR_PRL ਭਲੀ\RB ਚਾਹੁਨੈ\V_VM ਜ਼ਿੰਦਗੀ\N_NN ,\RD_PUNC ਅਗਾਹਾਂ\RB ਪੈਰ\N_NN ਨਾ\RP_NEG ਦੇਇ\V_VM_VF ।\RD_PUNC
+PBLTD1111	ਰਸਤੇ\N_NN ਪੈ\V_VM_VNF ਜਾਓ\V_VM_VF ਰਾਹੀਓ\N_NN !\RD_PUNC ਡੰਡੀ\N_NN ਪੈਰ\N_NN ਨਾ\RP_NEG ਘੱਤ\V_VM ।\RD_PUNC
+PBLTD1112	ਜਿਸ\PR_PRL ਦਿਨ\N_NN ਸਾਹਾ\N_NN ਸਾਧਿਆ\V_VM ,\RD_PUNC ਲਾਗੀ\N_NN ਦੇਂਦੇ\V_VM_VF ਖੱਤ\N_NN ।\RD_PUNC
+PBLTD1113	ਘਰ\N_NN ਮਿਰਜ਼ੇ\N_NNP ਦੇ\PSP ਆ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਪਾਉਂਦੇ\V_VM ਸਾਹੇ\N_NN ਦੀ\PSP ਦੱਸ\N_NN ।\RD_PUNC
+PBLTD1114	ਪੰਜ\QT_QTC ਰੁਪਏ\N_NN ਇੱਕ\QT_QTC ਪਤੀਆ\N_NN ,\RD_PUNC ਨਾ\RP_NEG ਵੱਧ\RB ਜਾਣੀ\V_VM_VINF ਨਾ\RP_NEG ਘੱਟ\RB ।\RD_PUNC
+PBLTD1115	ਤੁਹਾਡੇ\PR_PRP ਬਾਰ\N_NN ਘੋੜੀਆਂ\N_NN ,\RD_PUNC ਮੇਰੀ\V_VM ਬੱਕੀ\N_NN ਦਾ\PSP ਪਤਲਾ\JJ ਲੱਕ\N_NN ।\RD_PUNC
+PBLTD1116	ਆ\V_VM ਲਓ\V_VM_VF ਰੁਪਇਆ\N_NN ਸਲਾਮੀ\N_NN ਦਾ\PSP ,\RD_PUNC ਤੁਹਾਨੂੰ\PR_PRP ਅੱਗੇ\RB ਨਾ\RP_NEG ਆਈ\V_VM_VF ਮੱਤ\N_NN ।\RD_PUNC
+PBLTD1117	ਸੂੰਮ\N_NN ਬੱਕੀ\N_NN ਦੇ\PSP ਖੜਕਦੇ\V_VM ,\RD_PUNC ਜਿਉਂ\RP_CL ਲੋਹੇ\N_NN ਪੈਣ\V_VM_VINF ਧਿਗਾਣ\N_NN ।\RD_PUNC
+PBLTD1118	ਦੁਮ\N_NN ਬੱਕੀ\N_NN ਦੀ\PSP ਇੰਜ\RB ਫਿਰੇ\V_VM ,\RD_PUNC ਜਿਉਂ\RP_CL ਚੌਰੀ\N_NN ਕਰੇ\V_VM_VF ਗ਼ੁਲਾਮ\N_NN ।\RD_PUNC
+PBLTD1119	ਮੂੰਹ\N_NN ਨਾਲ\PSP ਲਾਹੇ\V_VM ਪਗੜੀਆਂ\N_NN ,\RD_PUNC ਫੱਟ\N_NN ਕੇ\V_VM_VNF ਸੁੱਟੇ\V_VM ਅੰਜਾਣ\JJ ।\RD_PUNC
+PBLTD1120	ਬੱਕੀ\N_NN ਲਾਹੀਆਂ\V_VM ਪਗੜੀਆਂ\N_NN ,\RD_PUNC ਵੇਖੀ\V_VM ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਦੀ\PSP ਲਾਜ\N_NN ।\RD_PUNC
+PBLTD1121	ਨਾਈ\N_NN ਮੇਰਾ\PR_PRP ਮਾਰਿਆ\V_VM ,\RD_PUNC ਸ਼ਰਬਤ\N_NN ਦਿੱਤਾ\V_VM_VF ਡੋਲ੍ਹ\N_NN ,\RD_PUNC
+PBLTD1122	ਪੁੱਛ\V_VM ਨਾ\RP_NEG ਪੈਂਦੇ\V_VM_VF ਮਾਮਲੇ\N_NN ,\RD_PUNC ਨੇਹੂੰ\N_NN ਨਾ\RP_NEG ਲੱਗਦੇ\V_VM_VF ਜ਼ੋਰ\N_NN ।\RD_PUNC
+PBLTD1123	ਗੱਲਾਂ\N_NN ਕਰਨ\V_VM_VINF ਸੁਖਾਲੀਆਂ\JJ ,\RD_PUNC ਔਖੇ\JJ ਪਾਲਣੇ\V_VM_VINF ਬੋਲ\N_NN ।\RD_PUNC
+PBLTD1124	ਮਿਰਜ਼ਾ\N_NNP ਸਿਆਲਾਂ\N_NNP ਮੁੱਢ\N_NN ਆ\V_VM ਗਿਆ\V_VM_VF ,\RD_PUNC ਰੰਨ\N_NN ਸਾਹਿਬਾਂ\N_NNP ਦਾ\PSP ਚੋਰ\N_NN ।\RD_PUNC
+PBLTD1125	ਹੋਰਾਂ\RB ਦੇ\PSP ਹੱਥੀਂ\N_NN ਬਰਛੀਆਂ\N_NN ,\RD_PUNC ਮਿਰਜ਼ੇ\N_NNP ਦੀ\PSP ਸਬਜ਼\JJ ਕਮਾਨ\N_NN ।\RD_PUNC
+PBLTD1126	ਦਹਿਨੇ\N_NN ਕੰਨੀਂ\N_NN ਆਉਂਦਾ\V_VM_VF ਮੇਰਾ\PR_PRP ,\RD_PUNC ਮਿਰਜ਼ਾ\N_NNP ਸ਼ੇਰ\JJ ਜਵਾਨ\JJ ।\RD_PUNC
+PBLTD1127	ਮਿਰਜ਼ਾ\N_NNP ਘਰ\N_NN ਬੀਬੋ\N_NNP ਦੇ\PSP ਆ\V_VM_VNF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBLTD1128	ਜੇ\PR_PRL ਤੂੰ\PR_PRP ਮਾਸੀ\N_NN ਧਰਮ\JJ ਦੀ\PSP ,\RD_PUNC ਸਾਹਿਬਾਂ\N_NNP ਨੂੰ\PSP ਲਿਆ\V_VM_VF ਮਿਲਾ\V_VM ।\RD_PUNC
+PBLTD1129	ਘਰ\N_NN ਤੋਂ\PSP ਬੀਬੋ\N_NNP ਟੁਰ\V_VM ਪਈ\V_VM_VF ,\RD_PUNC ਮੁਹਰਾਂ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ਚਾਰ\QT_QTC ।\RD_PUNC
+PBLTD1130	ਉੱਠੀ\V_VM ਸਾਹਿਬਾਂ\N_NNP ਸੁੱਤੀਏ\V_VM ,\RD_PUNC ਉੱਠ\V_VM ਕੇ\V_VM_VNF ਦੇਈੰ\V_VM_VF ਦੀਦਾਰ\N_NN ।\RD_PUNC
+PBLTD1131	ਚੀਰੇ\N_NN ਵਾਲਾ\PSP ਛੋਕਰਾ\N_NN ,\RD_PUNC ਬੀਬੋ\N_NNP ਅੰਦਰ\RB ਕੌਣ\PR_PRQ ਖੜਾ\V_VM |\N_NN
+PBLTD1132	ਮਿਰਜ਼ਾ\N_NNP ਫੁੱਲ\N_NN ਗੁਲਾਬ\N_NN ਦਾ\PSP ,\RD_PUNC ਮੇਰੀ\PR_PRP ਝੋਲੀ\N_NN ਟੁੱਅ\V_VM ਪਿਆ\V_VM_VF ।\RD_PUNC
+PBLTD1133	ਨਾ\RP_NEG ਫੜ\V_VM ਬਾਹੀਆਂ\N_NN ਘੁੱਟ\RB ਕੇ\V_VM_VNF ,\RD_PUNC ਵੰਗਾਂ\N_NN ਜਾਂਦੀਆਂ\V_VM_VF ਟੁੱਟ\V_VM ।\RD_PUNC
+PBLTD1134	ਕੱਲ\RB ਚੀਰ\N_NN ਚੜ੍ਹਾਈਆਂ\V_VM ,\RD_PUNC ਪਹਿਨ\V_VM ਨਾ\RP_NEG ਵੇਖੀਆਂ\V_VM_VF ਰੱਜ\N_NN ।\RD_PUNC
+PBLTD1135	ਭੀੜੀ\JJ ਗਲੀ\N_NN ਕੁਠੀਆਂ,\N_NN ਘਰ\N_NN ਮੂਰਖ\N_NN ਧੂਲੀ\N_NN ਗੱਡ\N_NN ।\V_VM
+PBLTD1136	ਖ਼ਬਰ\N_NN ਹੋਵੇ\V_VM_VF ਖ਼ਾਨ\N_NNP ਸ਼ਮੀਰ\N_NNP ਨੂੰ\PSP ਲਹੂ\N_NN ਪੀਵੇਗਾ\V_VM ਰੱਜ\RB ।\RD_PUNC
+PBLTD1137	ਲੈ\V_VM_VNF ਚਲ\V_VM ਦਾਨਾਬਾਦ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਜੋ\PR_PRL ਸਿਰ\N_NN ਹੈਗੀ\V_VM_VF ਪੱਗ\N_NN ।\RD_PUNC
+PBLTD1138	ਤੈਨੂੰ\PR_PRP ਮਾਰ\V_VM ਗਵਾਉਣਗੇ\V_VM_VF ਤੂੰ\PR_PRP ,\RD_PUNC ਰੱਖ\V_VM ਖਰਲਾਂ\N_NNP ਦੀ\PSP ਲੱਜ\N_NN ।\RD_PUNC
+PBLTD1139	ਅੱਗੋਂ\RB ਮਿਰਜ਼ਾ\N_NNP ਬੋਲਿਆ\V_VM ,\RD_PUNC ਤੂੰ\PR_PRP ਸੁਣ\V_VM ਜਾਮ\N_NN ਲੁਹਾਰ\N_NN ।\RD_PUNC
+PBLTD1140	ਕੀ\PR_PRQ ਸੁੱਤਾ\N_NN ਕੀ\PR_PRQ ਜਾਗਦਾ\N_NN ,\RD_PUNC ਕੀ\PR_PRQ ਗਿਆ\V_VM ਪਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1141	ਮਜ਼ੂਰੀ\N_NN ਲੈ\V_VM ਲਈਂ\V_VM_VF ਆਪਣੀ\PR_PRF ਕਿੱਲੀਆਂ\N_NN ਦੇਈਂ\N_NN ਹਜ਼ਾਰ\QT_QTC ।\RD_PUNC
+PBLTD1142	ਜੇ\PR_PRL ਤੂੰ\PR_PRP ਭਾਈ\N_NN ਧਰਮ\JJ ਦਾ\PSP ,\RD_PUNC ਸਾਹਿਬਾਂ\N_NNP ਟੋਰੀਂ\V_VM ਨਾਲ\PSP |\RD_PUNC
+PBLTD1143	ਮਿਰਜ਼ੇ\N_NNP ਕਿੱਲੀਆਂ\N_NN ਗੱਡੀਆਂ\V_VM ,\RD_PUNC ਪੰਜੇ\QT_QTO ਪੀਰ\N_NN ਮਨਾ\V_VM_VF ।\RD_PUNC
+PBLTD1144	ਪੌੜੀ\N_NN ਪੌੜੀ\N_NN ਜੱਟ\N_NN ਚੜ੍ਹ\V_VM ਗਿਆ\V_VM_VF ,\RD_PUNC ਉੱਪਰ\RB ਚੜ੍ਹਿਆ\V_VM_VF ਜਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1145	ਉੱਪਰੋਂ\RB ਸਾਹਿਬਾਂ\N_NNP ਉੱਤਰੀ\V_VM ,\RD_PUNC ਪੈ\V_VM_VNF ਗਈ\V_VM_VF ਛਣਕਾਰ\V_VM ।\RD_PUNC
+PBLTD1146	ਸਾਲੂ\N_NN ਦਾ\PSP ਪੱਲਾ\N_NN ਅਟਕਿਆ\V_VM ,\RD_PUNC ਰਤਾ\RB ਕੁ\RP_RPD ਬੱਕੀ\N_NN ਨੂੰ\PSP ਫੇਰ\V_VM ।\RD_PUNC
+PBLTD1147	ਅੱਗੇ\RB ਘਰ\N_NN ਸਾਹਿਬਾਂ\N_NNP ਬਾਪ\N_NNP ਦਾ\PSP ,\RD_PUNC ਲਾ\V_VM_VNF ਦਿਊਂ\V_VM_VF ਸਲਾਊੱਆ\N_NN ਦਾ\PSP ਢੇਰ\V_VM ।\RD_PUNC
+PBLTD1148	ਚੜੀ\V_VM ਰਹਿ\V_VM_VF ਬੱਕੀ\N_NN ਦੀ\PSP ਬੇਲ\N_NN ਤੇ\CC_CCD ,\RD_PUNC ਸੁੱਖ\JJ ਮਿਰਜ਼ੇ\N_NNP ਦੀ\PSP ਲੋੜ\N_NN ।\RD_PUNC
+PBLTD1149	ਮਾੜੀ\JJ ਤੇਰੀ\PR_PRP ਟੈਰਕੀ\N_NN ,\RD_PUNC ਮਿਰਜ਼ਿਆ\N_NNP !\RD_PUNC ਲਿਆਇਆ\V_VM ਕਿਧਰੋਂ\PR_PRQ ਟੋਰ\V_VM ।\RD_PUNC
+PBLTD1150	ਸੁੱਕਾ\JJ ਇਹਦਾ\DM_DMD ਚੌਖਟਾ\N_NN ,\RD_PUNC ਕਾਵਾਂ\N_NN ਖਾਧੀ\V_VM ਕੰਗਰੋੜ\N_NN ।\RD_PUNC
+PBLTD1151	ਜੇ\PR_PRL ਘਰ\N_NN ਨਾ\RP_NEG ਸੀ\V_VAUX ਤੇਰੇ\PR_PRP ਬਾਪ\N_NN ਦੇ\PSP ,\RD_PUNC ਮੰਗ\N_NN ਲਿਆਉਂਦੇ\V_VM_VF ਹੋਰ\DM_DMQ ।\RD_PUNC
+PBLTD1152	ਘੋੜੇ\N_NN ਖੀਵੇ\N_NNP ਖ਼ਾਨ\N_NNP ਦੇ\PSP ਬੜੇ\DM_DMQ ਮੁਰਾਤਿਬ\JJ ਖੌਰ\JJ ।\RD_PUNC
+PBLTD1153	ਭੱਜਿਆਂ\V_VM ਨੂੰ\PSP ਜਾਣ\V_VM_VINF ਨਾ\RP_NEG ਦੇਣਗੇ,\V_VM_VF ਉੱਧਲ\N_NN ਗਈਆਂ\V_VM_VF ਦੇ\PSP ਚੋਰ\N_NN ।\RD_PUNC
+PBLTD1154	ਵਿੱਚ\PSP ਉਜਾੜ\N_NN ਦੇ\PSP ਮਾਰ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਤੇਰੀ\PR_PRP ਸੁੱਟਣ\V_VM_VINF ਧੌਣ\N_NN ਮਰੋੜ\V_VM ।\RD_PUNC
+PBLTD1155	ਕੰਨ\N_NN ਲੰਮੇ\JJ ਖੁਰ\N_NN ਪਤਲੇ\JJ ,\RD_PUNC ਦੁੰਮ\N_NN ਬੱਕੀ\N_NN ਦੀ\PSP ਸਿਆਹ\JJ ।\RD_PUNC
+PBLTD1156	ਦੇਖ\V_VM ਕੇ\V_VM_VNF ਮੇਰੀ\PR_PRP ਟੈਰ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਝੋਰੇ\N_NN ਚਿਤ\N_NN ਨਾ\RP_NEG ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1157	ਬਾਈ\N_NN ਡੋਗਰ\N_NNP ਜਿਨਾਂ\PR_PRL ਦੇ\PSP ਬਹਿਣ\V_VM_VINF ਪੁਆਂਦੀ\N_NN ਆ\V_VM_VNF ।\RD_PUNC
+PBLTD1158	ਬਾਪ\N_NN ਦੇ\PSP ਖੱਤਿਆਂ\N_NN ਚਾਰ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਬੱਕੀ\N_NN ਨੂੰ\PSP ਲਇਆ\V_VM ਬਣਾ\V_VM_VINF ।\RD_PUNC
+PBLTD1159	ਦਸ\QT_QTC ਮਹੀਆਂ\N_NN ਦਾ\PSP ਘਿਉ\N_NN ਦਿੱਤਾ,\V_VM_VF ਬੱਕੀ\N_NN ਦੇ\PSP ਢਿੱਡ\N_NN ਪਾ\V_VM_VNF ।\RD_PUNC
+PBLTD1160	ਬੱਕੀ\N_NN ਤੋਂ\PSP ਡਰਨ\V_VM_VINF ਫ਼ਰਿਸ਼ਤੇ\N_NN ,\RD_PUNC ਮੈਥੋਂ\PR_PRP ਡਰੇ\V_VM ਖ਼ੁਦਾ\N_NN ।\RD_PUNC
+PBLTD1161	ਚੁੱਭੇ\V_VM ਵਿੱਚ\PSP ਪਤਾਲ\N_NN ,\RD_PUNC ਉੱਡ\V_VM ਕੇ\V_VM_VNF ਚੜੇ\V_VM ਅਕਾਸ਼\N_NN ।\RD_PUNC
+PBLTD1162	ਚੜਨਾ\V_VM_VINF ਆਪਣੇ\PR_PRF ਸ਼ੌਕ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਬੱਕੀ\N_NN ਨੂੰ\PSP ਲਾਜ\N_NN ਨਾ\RP_NEG ਲਾ\V_VM_VF ।\RD_PUNC
+PBLTD1163	ਬੂਹੇ\N_NN ਤੇ\N_NN ਟੰਮਕ\N_NN ਵੱਜਿਆ\N_NN ,\RD_PUNC ਸਾਹਿਬਾਂ\N_NN ਘੱਤੇ\N_NN ਤੇਲ।\N_NN 165\N_NN ।\RD_PUNC
+PBLTD1164	ਅੰਦਰ\RB ਬੈਠੇ\V_VM ਨਾਨਕੇ\N_NN ,\RD_PUNC ਬੂਹੇ\N_NN ਬੈਠਾ\V_VM ਮੇਲ\N_NN ।\RD_PUNC
+PBLTD1165	ਥਾਲੀ\N_NN ਬਟੂਵਾ\N_NN ਰਹਿ\V_VM_VF ਗਿਆ\V_VM_VF ,\RD_PUNC ਕੁੱਪੇ\N_NN ਅਤਰ\N_NN ਫੁਲੇਲ\N_NN ।\RD_PUNC
+PBLTD1166	ਗਹਿਣੇ\N_NN ਸਣੇ\V_VM_VINF ਪਟਾਰੀਆਂ\N_NN ,\RD_PUNC ਝਾਂਜਰ\N_NN ਸਣੇ\V_VM_VINF ਹਮੇਲ\N_NN ।\RD_PUNC
+PBLTD1167	ਫੀਰੋਜ਼\N_NNP ਡੋਗਰ\N_NNP ਕੂਕਿਆ\V_VM ,\RD_PUNC ਸੁਣੀਂ\V_VM_VINF ਖ਼ਾਨ\N_NNP ਖ਼ੀਵੇ\N_NNP ਮੇਰੀ\PR_PRP ਬਾਤ\N_NN ।\RD_PUNC
+PBLTD1168	ਸਾਹਿਬਾਂ\N_NNP ਨੂੰ\PSP ਮਿਰਜ਼ਾ\N_NNP ਲੈ\V_VM_VNF ਗਿਆ\V_VM_VF ,\RD_PUNC ਰੋਂਦੀ\V_VM ਸੰਡੇ\N_NNP ਦੀ\PSP ਬਾਰ\N_NN ।\RD_PUNC
+PBLTD1169	ਲਾ\V_VM_VNF ਗਿਆ\V_VM_VF ਲਾਜ\V_VM ਸਿਆਲਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਗਿਆ\V_VM_VF ਸੀ\V_VAUX ਦਾਗ਼\N_NN ਲਗਾ\V_VM ।\RD_PUNC
+PBLTD1170	ਘੋੜੇ\N_NN ਪਾਓ\V_VM ਪਾਖਰਾਂ\N_NN ,\RD_PUNC ਪੈਦਲ\N_NN ਹੋ\V_VM_VF ਜਾਓ\V_VM_VF ਅਸਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1171	ਰਸਤੇ\N_NN ਪਵੋ\V_VM ਪੈਦਲੋ\N_NN ,\RD_PUNC ਮੁੱਛ\N_NN ਮੱਲੋ\V_VM ਅਸਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1172	ਸ਼ਾਵਾ\RP_INTF ਮਿਰਜ਼ਾ\N_NNP ਮਾਰਨਾ\V_VM_VINF ,\RD_PUNC ਕਰਕੇ\V_VM_VNF ਕੌਲ\N_NN ਕਰਾਰ\N_NN ।\RD_PUNC
+PBLTD1173	ਇਸ਼ਕ\N_NN ਲਿਤਾੜੇ\V_VM ਆਦਮੀ\N_NN ,\RD_PUNC ਬਰਫ਼\N_NN ਲਿਤਾੜੇ\V_VM ਰੁੱਖ\N_NN ।\RD_PUNC
+PBLTD1174	ਨੀਂਦ\N_NN ਨਾ\RP_NEG ਆਉਂਦੀ\V_VM_VF ਚੋਰ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਆਸ਼ਿਕ\N_NN ਨਾ\RP_NEG ਲੱਗੇ\V_VM_VF ਭੁੱਖ\N_NN ।\RD_PUNC
+PBLTD1175	ਸਾਹਿਬਾਂ\N_NNP ਮਿਰਜ਼ੇ\N_NNP ਦੀ\PSP ਦੋਸਤੀ\N_NN ,\RD_PUNC ਜੱਗ\N_NN ਨਾ\RP_NEG ਰਹਿਣੀ\V_VM_VF ਲੁੱਕ\V_VM ।\RD_PUNC
+PBLTD1176	ਲੈ\V_VM_VNF ਚਲ\V_VM ਦਾਨਾਬਾਦ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਜਾਨ\N_NN ਲੁਕਾਵੇ\V_VM_VF ਮੁੱਖ\N_NN ।\RD_PUNC
+PBLTD1177	ਜੰਡ\N_NN ਦੇ\PSP ਹੇਠ\RB ਜੱਟਾ\N_NN !\RD_PUNC ਸੌਂ\V_VM_VNG ਰਹਿਓਂ,\V_VM_VF ਉਠ\V_VM ,\RD_PUNC ਸੁਰਤ\N_NN ਸੰਭਾਲ\V_VM_VF ।\RD_PUNC
+PBLTD1178	‘\N_NN ਬੱਕੀ\N_NN ’\N_NN ਤੈਨੂੰ\PR_PRP ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਉੱਠ\V_VM ਗਈ\V_VM_VF ,\RD_PUNC ਜਿਸ\PR_PRL ਦੇ\PSP ਉੱਤੇ\RB ਬੜਾ\DM_DMQ ਇਤਬਾਰ\N_NN ।\RD_PUNC
+PBLTD1179	ਨਾਰਦ\N_NNP ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਉੱਠ\V_VM_VF ਗਿਆ\V_VM_VF ,\RD_PUNC ਤੇਰਾ\PR_PRP ਮੁੱਢ-ਕਦੀਮਾਂ\N_NN ਦਾ\PSP ਯਾਰ\N_NN ।\RD_PUNC
+PBLTD1180	ਮਾਰਨ\V_VM_VINF ਸਾਹਿਬਾਂ\N_NNP ਨੂੰ\PSP ਆ\V_VM ਗਿਆ\V_VM_VF ,\RD_PUNC ਜੈਂਦਹਾ\PR_PRL ਕਰਦਾ\V_VM_VF ਨਾ\RP_NEG ਸੀ\V_VAUX ਇਤਬਾਰ\N_NN ।\RD_PUNC
+PBLTD1181	ਮੇਰੇ\PR_PRP ਉੱਪਰ\RB ਨਾ\RP_NEG ਕੋਈ\DM_DMQ ਦੀਹਦਾ\V_VM_VF ਸੂਰਮਾ\N_NN ,\RD_PUNC ਜਿਹੜਾ\PR_PRL ਮੇਰੇ\PR_PRP ਪੁਰ\CC_CCD ਵਾਰ\N_NN ਕਰੇ\V_VM_VF ।\RD_PUNC
+PBLTD1182	ਮਾਰ\V_VM ਕੋਹਾਂ\V_VM_VF ਤੇਰੇ\PR_PRP ਜਿੰਨੇ\PR_PRL ਨੇ\PSP ਪਾਸ\RB ,\RD_PUNC ਤੇਰੇ\PR_PRP ਵੀਰ\N_NN ਖੜੇ\V_VM !\RD_PUNC
+PBLTD1183	ਝਟ\N_NN ਕੁ\RP_RPD ਝੂਟਾ\N_NN ਜੰਡ\N_NN ਹੇਠ\RB ਲੈਣ\V_VM_VINF ਦੇ\PSP ,\RD_PUNC ਮੁੜ\N_NN ਜਿਹੜੀ\PR_PRL ਰੱਬ\N_NN ਕਰੇ\V_VM_VF ।\RD_PUNC
+PBLTD1184	ਅੱਜ\RB ਦੀ\PSP ਘੜੀ\N_NN ਸੌਂ\N_NN ਲੈਣ\V_VM_VINF ਦੇ\PSP ,\RD_PUNC ਦੂਜੀ\QT_QTO ਘੜੀ\N_NN ਵੜਾਂ\V_VM ਦਾਨਾਬਾਦ\N_NNP ।\RD_PUNC
+PBLTD1185	ਜੰਡ\N_NN ਦੇ\PSP ਹੇਠਾਂ\RB ਜੱਟਾ\N_NN ਸੌਂ\V_VM_VNG ਰਹਿਓਂ\V_VM_VF ਲਾਲ\JJ ਦੁਸ਼ਾਲਾ\N_NN ਤਾਣ\V_VM_VINF ।\RD_PUNC
+PBLTD1186	ਵਹੀ\N_NN ਚਲਾਈਆਂ\V_VM_VF ਕਾਨੀਆਂ\N_NN ,\RD_PUNC ਮੌਤ\N_NN ਨਾ\RP_NEG ਦੇਂਦੀ\V_VM_VF ਜਾਣ\V_VM_VINF ।\RD_PUNC
+PBLTD1187	ਮੱਥੇ\N_NN ਵਿੱਚ\PSP ਕਲਜੋਗਣਾਂ\N_NN ,\RD_PUNC ਫ਼ਤਹਿ\N_NN ਨਾ\RP_NEG ਦਿੱਤੀ\V_VM_VF ਹੋਣ\V_VM_VINF ।\RD_PUNC
+PBLTD1188	ਲਿਕੀਆਂ\V_VM ਡਾਢੇ\JJ ਰੱਬ\N_NN ਦੀਆਂ\PSP ,\RD_PUNC ਮੇਟਣ\V_VM_VINF ਵਾਲਾ\PSP ਕੌਣ\PR_PRQ ।\RD_PUNC
+PBLTD1189	ਉੱਠੀਂ\V_VM ਮਿਰਜ਼ਿਆ\N_NNP ਸੁੱਤਿਆ\N_NN ,\RD_PUNC ਖੱਬੇ\RB ਆਏ\V_VM_VF ਅਸਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1190	ਹੱਥੀਂ\N_NN ਤੇਗ਼ਾਂ\N_NN ਰੰਗਲੀਆਂ\JJ ,\RD_PUNC ਕਰਦੇ\V_VM_VF ਮਾਰੋ\V_VM ਮਾਰ\V_VM_VF ।\RD_PUNC
+PBLTD1191	ਮੇਰੇ\PR_PRP ਬਾਬਲ\N_NN ਵਰਗੀਆਂ\RB ਘੋੜੀਆਂ\N_NN ,\RD_PUNC ਵੀਰ\N_NN ਮੇਰੇ\PR_PRP ਅਸਵਾਰ\N_NN ।\RD_PUNC
+PBLTD1192	ਕੀ\PR_PRQ ਢੂੰਡਾਊ\V_VM ਅਸਾਂ\PR_PRP ਦੇ\PSP ,\RD_PUNC ਕੀ\PR_PRQ ਕੋਈ\DM_DMQ ਮੀਰ-ਸ਼ਿਕਾਰ\N_NN ?\RD_PUNC
+PBLTD1193	ਜੰਡ\N_NN ਦੇ\PSP ਜੰਡੂਰਿਆ\N_NN !\RD_PUNC ਤੂੰ\PR_PRP ਹੀ\RP_RPD ਕਰੀਂ\V_VM ਨਿਆਉਂ\N_NN ।\RD_PUNC
+PBLTD1194	ਹੋਵੇਂ\V_VM_VF ਦੂਣਾ\QT_QTO ਫਲੇਂ\N_NN ਚੌਗੁਣਾ\QT_QTO ,\RD_PUNC ਤੇਰੀ\PR_PRP ਮਹਿੰਦੀ\N_NN ਮਾਣੇ\V_VM_VINF ਛਾਉਂ\V_VM_VF ।\RD_PUNC
+PBLTD1195	ਮੁੱਠੀਆਂ\N_NN ਭਰ\V_VM ਜਗਾਉਂਦੀ\V_VM_VF ਯਾਰ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਜਾਗੀਏ\V_VM_VF ਰੱਬ\N_NN ਦੇ\PSP ਨਾਂ\N_NN ।\RD_PUNC
+PBLTD1196	ਧੁਰ\RB ਨਾ\RP_NEG ਅਪੜੀ\V_VM ਰੰਨ\N_NN ਸਾਹਿਬਾਂ\N_NNP ,\RD_PUNC ਮੇਰੀ\PR_PRP ਵਿਚਾਲਿਓਂ\N_NN ਟੁੱਟੀ\V_VM ਲਾਂ\N_NN ।\RD_PUNC
+PBLTD1197	ਜੇ\PR_PRL ਨਾ\RP_NEG ਸੀ\V_VAUX ਤੋੜ\V_VM ਨਿਭਾਉਣੀ\V_VM_VINF ,\RD_PUNC
+PBLTD1198	ਤੇਰੀ\PR_PRP ਕਾਹਨੂੰ\PR_PRQ ਪਕੜੀ\V_VM ਬਾਂਹ\N_NN ।\RD_PUNC
+PBLTD1199	ਬਚਾਅ\N_NN ਕਰੇਂਦੇ\V_VM ਆਸ਼ਿਕਾ\N_NN ,\RD_PUNC
+PBLTD1200	ਨਾ\RP_NEG ਅੱਗੇ\RB ਮਿਲਣਾ\V_VM_VINF ਤੈਨੂੰ\PR_PRP ਥਾਂ\N_NN ।\RD_PUNC
+PBLTD1201	ਅਰਸ਼ੋਂ\N_NN ਉਤਰੇ\RB ਛੇ\QT_QTC ਜਣੇ\N_NN ,\RD_PUNC ਛੀਏ\QT_QTO ਭੈਣ\N_NN ਭਰਾ\N_NN ।\RD_PUNC
+PBLTD1202	‘ਦੁਲਦਲ’\N_NN ਲਈ\PSP ਸ਼ਾਹ\N_NNP ਅਲੀ\N_NNP ਨੇ\PSP ,\RD_PUNC ਪਾਈ\V_VM_VF ਕਾਅਬੇ\N_NNP ਦੀ\PSP ਰਾਹ\N_NN ।\RD_PUNC
+PBLTD1203	ਇਕ\QT_QTC ਲਿਆ\V_VM_VF ਗੁੱਗੇ\N_NNP ਚੌਹਾਨ\N_NNP ਨੇ\PSP ,\RD_PUNC ਬਾਗੜਾਂ\N_NNP ਦਿੱਤੀਆਂ\V_VM_VF ਢਾਹ\V_VM ।\RD_PUNC
+PBLTD1204	ਨੀਲਾ\N_NNP ਲਿਆ\V_VM_VF ਰਾਜੇ\N_NNP ਰਸਾਲੂ\N_NNP ਨੇ\PSP ,\RD_PUNC ਰਾਣੀਆਂ\N_NN ਲਈ\PSP ਛੁਡਾ\V_VM ।\RD_PUNC
+PBLTD1205	ਗਰਾੜ\N_NN ਜੈਮਲ\N_NNP ਫੱਤੇ\N_NNP ਸੌਦਲ\N_NNP ,\RD_PUNC ਬੇਟੀ\N_NN ਨਾ\RP_NEG ਦਿੱਤੀ\V_VM_VF ਵਿਆਹ\N_NN ।\RD_PUNC
+PBLTD1206	‘ਲੱਖੀ’\N_NNP ਲੈ\V_VM_VNF ਲਈ\PSP ਦੁੱਲੇ\N_NNP ਜਵਾਨ\JJ ਨੇ\PSP ,\RD_PUNC ਮਾਰੇ\V_VM ਅਕਬਰ\N_NNP ਦੀ\PSP ਰਾਹ\N_NN ।\RD_PUNC
+PBLTD1207	‘ਕੱਕੀ’\JJ ਘਰ\N_NN ਸੁਲਤਾਨ\N_NN ਦੇ\PSP ,\RD_PUNC ਚਾਰੇ\QT_QTO ਕੂੰਟਾਂ\N_NN ਲਈਆਂ\V_VM_VF ਨਿਵਾ\V_VM ।\RD_PUNC
+PBLTD1208	ਸਭਨਾਂ\N_NN ਤੋਂ\PSP ਛੋਟੀ\JJ ਹੈ\V_VAUX ‘ਬੱਕੀ’\N_NN ,\RD_PUNC ਚੱਲ\V_VM ਕੇ\V_VM_VNF ਆਈ\V_VM_VF ਮਿਰਜ਼ੇ\N_NNP ਦੇ\PSP ਪਾਸ\RB ।\RD_PUNC
+PBLTD1209	ਮੂੰਹ\N_NN ਕਢਿਆਲਾ\N_NN ਜੱਟ\N_NN ਨੇ\PSP ਦੇ\PSP ਲਿਆ\V_VM ,\RD_PUNC ਪੰਜੇ\QT_QTO ਪੀਰ\N_NN ਮਨਾ\V_VM ।\RD_PUNC
+PBLTD1210	ਛਿੱਕ\N_NN ਕੇ\V_VM_VNF ਤੰਗ\N_NN ਕੱਸਿਆ\N_NN ,\RD_PUNC ਲਏ\V_VM_VF ਨੇ\PSP ਸ਼ਗਨ\N_NN ਮਨਾ\V_VM ।\RD_PUNC
+PBLTD1211	ਸਿਰ\N_NN ਸਿਆਲਾਂ\N_NNP ਦੇ\PSP ਵੱਢ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਦੇਵਾਂ\V_VM_VF ਜੰਡ\N_NN ਚੜਾ\V_VM_VF ।\RD_PUNC
+PBLTD1212	ਬੱਕੀ\N_NN ਬੇਲ\N_NN ਪਰ\CC_CCD ਬਹਿ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ‘ਬੱਕੀ’\N_NN ਨੂੰ\PSP ਲਾਜ\N_NN ਨਾ\RP_NEG ਲਾ\V_VM_VF ।\RD_PUNC
+PBLTD1213	ਸ਼ੇਰ\N_NN ਵ\CC_CCD ਕਲਿਆਰ\N_NN ਭੌਂਕਦੇ\V_VM ,\RD_PUNC ਵੇਖ\V_VM ਜਿੰਨਾਂ\PR_PRL ਦੀ\PSP ਧੂੰ\N_NN ।\RD_PUNC
+PBLTD1214	ਜਿਉਂ\RP_CL ਮੱਕਾ\N_NNP ਲੱਭਾ\N_NN ਹਾਜੀਆਂ\N_NN ,\RD_PUNC ਮੈਨੂੰ\PR_PRP ਲੱਭਾ\V_VM ਤੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1215	ਸ਼ਹਿਰ\N_NN ਸ਼ਿਆਲਾਂ\N_NNP ਦੇ\PSP ਆ\V_VM_VNF ਲੱਗੇ\V_VM_VF ,\RD_PUNC ਜਿਉਂ\RP_CL ਫੱਟਾਂ\N_NN ਉੱਤੇ\RB ਲੂਣ\N_NN ।\RD_PUNC
+PBLTD1216	ਤੇਗ਼ਾਂ\N_NN ਮਾਰ\V_VM ਉਡਾਉਣਗੇ\V_VM_VF ,\RD_PUNC ਜਿਉਂ\RP_CL ਪੇਂਜਾ\N_NN ਪਿੰਜਦਾ\V_VM ਰੂੰ\N_NN ।\RD_PUNC
+PBLTD1217	ਮਿਰਜ਼ਾ\N_NNP ਆਖੇ\V_VM ਕੋਈ\DM_DMQ ਨਾ\RP_NEG ਦੀਹਦਾ\V_VM ਸੂਰਮਾ\JJ ,\RD_PUNC ਜਿਹੜਾ\PR_PRL ਮੈਨੂੰ\PR_PRP ਹੱਥ\N_NN ਕਰੇ\V_VM_VF ।\RD_PUNC
+PBLTD1218	ਕਟਕ\N_NN ਭਿੜਾ\V_VM ਦਿਆਂ\V_VM_VF ਟੱਕਰੀਂ\V_VM ,\RD_PUNC ਮੈਥੋਂ\PR_PRP ਭੀ\RP_RPD ਰਾਠ\N_NN ਡਰੇ\V_VM ।\RD_PUNC
+PBLTD1219	ਵਲ\N_NN ਵਲ\N_NN ਵੱਢ\V_VM ਦੇਊਂ\V_VM_VF ਸੂਰਮੇ\N_NN ,\RD_PUNC ਜਿਉਂ\RP_CL ਖੇਤੀ\N_NN ਨੂੰ\PSP ਪੈਣ\V_VM_VF ਗੜੇ\N_NN ।\RD_PUNC
+PBLTD1220	ਸਿਰ\N_NN ਸਿਆਲਾਂ\N_NNP ਦੇ\PSP ਵੱਢ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਸੁੱਟਾਂਗਾ\V_VM ਵਿੱਚ\PSP ਰੜੇ\JJ ।\RD_PUNC
+PBLTD1221	ਇਹ\PR_PRP ਥਾਂ\N_NN ਵਕਤ\N_NN ਢਲਦਾ\V_VM_VF ,\RD_PUNC ਜਿਉਂ\RP_CL ਸੁਬਹ\N_NN ਸੇ\N_NN ਹੋਇ\V_VM_VF ਸ਼ਾਮ\N_NN ।\RD_PUNC
+PBLTD1222	ਧਰਤੀ\N_NN ਤਾਂਬਾ\N_NN ਹੋ\V_VM_VNF ਗਈ\V_VM_VF ,\RD_PUNC ਸਿਆਹੀ\N_NN ਫੜੀ\V_VM ਅਸਮਾਨ\N_NN ।\RD_PUNC
+PBLTD1223	ਘਰ\N_NN ਬਿਗਾਨੇ\JJ ਮਾਰ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਸੌਂ\N_NN ਰਿਹਾ\V_VM_VF ਵਿੱਚ\PSP ਮੈਦਾਨ\N_NN ।\RD_PUNC
+PBLTD1224	ਤੇਰੇ\PR_PRP ਸਿਰ\N_NN ਸਾਂਗਾਂ\N_NN ਵਜਦੀਆਂ\V_VM ,\RD_PUNC ਜਿਉਂ\RP_CL ਲੋਹੇ\N_NN ਪੜੇ\V_VM ਧੰਗਾਨ\N_NN ।\RD_PUNC
+PBLTD1225	ਚੰਧੜ\N_NNP ਢੁਕੇ\V_VM ਜੰਨ\N_NN ਬਣ\V_VM_VINF ਕੇ\V_VM_VNF ,\RD_PUNC ਮਾਰੇ\V_VM ਤੈਨੂੰ\PR_PRP ਬਾਝ\RB ਨਾ\RP_NEG ਜਾਣ\V_VM_VINF ।\RD_PUNC
+PBLTD1226	ਛੇੜ\V_VM ਬੱਕੀ\N_NN ਚੱਲੀਏ\V_VM_VF ਦਾਨਾਬਾਦ\N_NNP ,\RD_PUNC ਕਿਉਂ\PR_PRQ ਪਿਐ\V_VM_VF ਵਿੱਚ\PSP ਮੈਦਾਨ\N_NN ?\RD_PUNC
+PBLTD1227	ਮੇਰੇ\PR_PRP ਮਿਰਜ਼ੇ\N_NNP ਦੇ\PSP ਹੱਥੋਂ\N_NN ਪਈਆਂ\V_VM_VF ਭਾਜੜਾ\N_NN ,\RD_PUNC ਅੰਬਰ\N_NN ਕੋਈ\DM_DMQ ਨਾ\RP_NEG ਪੈਂਦੀ\V_VM_VF ਠੱਲ\N_NN ।\RD_PUNC
+PBLTD1228	ਰਾਣੀ\N_NN ਮਹਿਲੀ\N_NN ਤਿਡਾੰਲਣੀ\N_NN ,\RD_PUNC ਟੁਰ\V_VM ਪਈ\V_VM_VF ਮਿਰਜ਼ੇ\N_NNP ਦੀ\PSP ਗੱਲ\N_NN ।\RD_PUNC
+PBLTD1229	ਮੈਂ\PR_PRP ਬੈਠਾਂ\V_VM ਵਿੱਚ\PSP ਕਚਹਿਰੀਆਂ\N_NN ,\RD_PUNC ਰਾਜੇ\N_NN ਹੁੰਦੇ\V_VM_VF ਮੇਰੀ\V_VM_VF ਵੱਲ\PSP ।\RD_PUNC
+PBLTD1230	ਮਾਰਾਂ\V_VM ਰਾਹ\V_VM_VF ਲਾਹੌਰ\N_NNP ਦਾ\PSP ,\RD_PUNC ਸ਼ਹਿਰੀਂ\N_NN ਘੱਤਾਂ\V_VM ਹਲਚਲ\RB ।\RD_PUNC
+PBLTD1231	ਚਾਰ\QT_QTC ਕੂੰਨਾਂ\N_NN ਲੁਟ\V_VM ਲਈਆਂ\V_VM_VF ,\RD_PUNC ਸਾਂਗਾਂ\N_NN ਨਾਲ\PSP ਉੱਥਲ\RB ।\RD_PUNC
+PBLTD1232	ਮਰਨਾ\V_VM_VINF ਤੇ\CC_CCD ਜੱਗ\N_NN ਛੱਡਣਾ\V_VM_VINF ,\RD_PUNC ਮੇਰੀ\PR_PRP ਜੱਗ\N_NN ਵਿੱਚ\PSP ਰਹਿ\V_VM_VF ਜਾਇ\V_VM_VF ਗੱਲ\N_NN ।\RD_PUNC
+PBLTD1233	ਚੰਧੜ\N_NNP ਸਿਆਲ\N_NNP ਚੜ\V_VM ਪਏ\V_VM_VF ,\RD_PUNC ਰਾਹੀਂ\N_NN ਘੱਤ\N_NN ਵਹੀਰ\N_NN ।\RD_PUNC
+PBLTD1234	ਫੌਜਾਂ\N_NN ਘੇਰਾ\V_VM ਘੱਤਿਆ\V_VM_VF ,\RD_PUNC ਕਰਕੇ\V_VM_VNF ਬੜੀ\DM_DMQ ਤਦਬੀਰ\N_NN ।\RD_PUNC
+PBLTD1235	ਕੜ\N_NN ਕੜ\N_NN ਚਲਣ\V_VM_VINF ਗੋਲੀਆਂ\N_NN ,\RD_PUNC ਮਿਰਜ਼ੇ\N_NNP ਨੂੰ\PSP ਪੈਂਦੇ\V_VM_VF ਬਹੁਤੇ\DM_DMQ ਤੀਰ\N_NN ।\RD_PUNC
+PBLTD1236	ਉਹ\PR_PRP ਸੁੱਤਾ\N_NN ਨਹੀਂ\RP_NEG ਜਾਗਦਾ\V_VM_VF ,\RD_PUNC ਕਾਇਮ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ਸਰੀਰ\N_NN ।\RD_PUNC
+PBLTD1237	ਵੇਖ\V_VM ਜੰਡੂਰੇ\N_NN ਦੀ\PSP ਛੱਤਰੀ\N_NN ,\RD_PUNC ਸਿਰ\N_NN ਪਰ\CC_CCS ਬੋਲੇ\N_NN ਕਾਂ\N_NN ।\RD_PUNC
+PBLTD1238	ਟਾਂਗੂ\N_NN ਵੱਜੇ\V_VM_VF ਮਲਕੁਲ\N_NN ਮੌਤ\N_NN ਦੇ\PSP ,\RD_PUNC ਕਿਤੇ\N_NN ਨਹੀਂ\RP_NEG ਦੇਂਦੇ\V_VM_VF ਜਾਣ\V_VM_VINF ।\RD_PUNC
+PBLTD1239	ਚੰਧੜ\N_NNP ਸਿਆਲ\N_NNP ਮਾਰਨਗੇ\V_VM_VINF ਗੁੜੇ\JJ ਸੂਰਮੇ\JJ ਜਵਾਨ\N_NN ।\RD_PUNC
+PBLTD1240	ਉਠੀਂ\V_VM ਵੇ\RP_CL ਮਿਰਜ਼ਿਆ\N_NNP ਸੁੱਤਿਆ\V_VM ,\RD_PUNC ਕਿਉਂ\PR_PRQ ਪਿਆ\V_VM_VF ਬੜੇ\DM_DMQ ਗੁਮਾਨ\N_NN ?\RD_PUNC
+PBLTD1241	ਘੋੜੀ\N_NN ਆਉਂਦੀ\V_VM_VF ਵੀਰ\N_NN ਸ਼ਮੀਰ\N_NNP ਦੀ\PSP ,\RD_PUNC ਆਉਂਦੀ\V_VM_VF ਹੀ\RP_RPD ਬੜੇ\DM_DMQ ਤਾਣ\N_NN ।\RD_PUNC
+PBLTD1242	ਸੁੱਤਾ\V_VM ਏਂ\RP_RPD ਤੂੰ\PR_PRP ਉੱਠ\V_VM ਖੜ\V_VM_VF ,\RD_PUNC ਜੇ\PR_PRL ਰੱਬ\N_NN ਰੱਖੇ\V_VM_VF ਸਿਦਕ\N_NN ਈਮਾਨ\N_NN ।\RD_PUNC
+PBLTD1243	ਮਿਰਜ਼ੇ\N_NNP ਆਉਂਦਾ\V_VM_VF ਵੇਖਿਆ\V_VM_VF ,\RD_PUNC ਸਾਹਿਬਾਂ\V_VM_VF ਦਾ\PSP ਵੀਰ\N_NN ਸ਼ਮੀਰ\N_NNP ।\RD_PUNC
+PBLTD1244	ਤੇ\CC_CCD ਮਿਰਜ਼ੇ\N_NNP ਨੇ\PSP ਗੋਸ਼ੇ\N_NN ਵਿੱਚੋਂ\PSP ਕੱਢਿਆ\V_VM ,\RD_PUNC ਕਰੜੇ\JJ ਨੁੱਕੇ\N_NN ਦਾ\PSP ਤੀਰ\N_NN ।\RD_PUNC
+PBLTD1245	ਕਰ\N_NN ਬਿਸਮਿੱਲਾਹ\N_NN ਮਾਰਿਆ\V_VM_VF ,\RD_PUNC ਭੌਂਦਾ\N_NN ਵਾਂਗ\RB ਭੰਬੀਰ\N_NN ।\RD_PUNC
+PBLTD1246	ਘੋੜੀ\N_NN ਉੱਤੋਂ\RB ਲਾਹ\V_VM ਲਿਆ\V_VM_VF ,\RD_PUNC ਸਾਹਿਬਾਂ\N_NNP ਦਾ\PSP ਵੀਰ\N_NN ਸ਼ਮੀਰ\N_NN ।\RD_PUNC
+PBLTD1247	ਅੱਗੋਂ\RB ਸਾਹਿਬਾਂ\N_NNP ਬੋਲਦੀ\V_VM_VF ,\RD_PUNC ਮੰਨ\V_VM ਮਿਰਜ਼ਿਆ\N_NNP !\RD_PUNC ਮੇਰੀ\PR_PRP ਸਲਾਹ\N_NN ।\RD_PUNC
+PBLTD1248	ਛੇੜ\N_NN ਬੱਕੀ\N_NN ਨੂੰ\PSP ਤੂੰ\PR_PRP ਰਾਹ\N_NN ਖਰਲਾਂ\N_NNP ਦੇ\PSP ,\RD_PUNC ਲੈ\V_VM_VNF ਚੱਲ\V_VM_VF ਦਾਨਾਬਾਦ\N_NNP ।\RD_PUNC
+PBLTD1249	ਸਿਆਲਾਂ\N_NNP ਦੀਆਂ\PSP ਘੋੜੀਆਂ\N_NN ਆਦਮ-ਖਾਣੀਆਂ\N_NN ,\RD_PUNC ਨਿੱਤ\RB ਰੋਕ\V_VM ਲੈਂਦੀਆਂ\V_VM_VF ਰਾਹ\N_NN ।\RD_PUNC
+PBLTD1250	ਜੇ\PR_PRL ਤੂੰ\PR_PRP ਮਿਰਜ਼ਾ\N_NNP ਸੂਰਮਾ\JJ !\RD_PUNC ਮੇਰੀ\PR_PRP ਸਾਹਿਬਾਂ\N_NNP ਦੀ\PSP ਓੜ\N_NN ਨਿਭਾਹ\N_NN ।\RD_PUNC
+PBLTD1251	ਮਿਰਜ਼ੇ\N_NNP ਵਿੱਚ\PSP ਬੜਾ\DM_DMQ ਗੁਮਾਨ\V_VM ਸੀ\V_VAUX ,\RD_PUNC ਫਿਰ\RB ਸੌਂ\QT_QTC ਗਿਆ\V_VM_VF ਜੰਡੂਰੇ\N_NNP ਦੇ\PSP ਪਾਸ\RB ।\RD_PUNC
+PBLTD1252	ਮੈਂ\PR_PRP ਵਲ\RB ਵਲ\RB ਵੱਢ\V_VM ਦਿਆਂਗਾ\V_VM_VF ਸੂਰਮੇਂ\JJ ,\RD_PUNC ਦੇਊਂ\V_VM_VF ਪੂਰ\N_NN ਖਪਾ\V_VM ।\RD_PUNC
+PBLTD1253	ਮੈਨੂੰ\PR_PRP ਝੱਟ\V_VM ਕੁ\V_VM_VNF ਠੌਂਕਾ\V_VM ਲਾ\V_VM_VNF ਲੈਣਾ\V_VM_VINF ਦੇ\PSP ,\RD_PUNC ਸੁੱਤੇ\V_VM ਨੂੰ\PSP ਨਾ\RP_NEG ਜਗਾ\V_VM ।\RD_PUNC
+PBLTD1254	ਦਿਨ\N_NN ਚੜਦੇ\JJ ਨੂੰ\PSP ਚਲਾਂਗੇ\V_VM_VF ,\RD_PUNC ਤੈਨੂੰ\PR_PRP ਲੈ\V_VM_VNF ਚਲਾਂ\V_VM_VF ਦਾਨਾਬਾਦ\N_NNP ।\RD_PUNC
+PBLTD1255	ਹੋਣੀ\V_VM_VINF ਮਿਰਜ਼ੇ\N_NNP ਤੇ\CC_CCD ਕੁੱਦ\N_NN ਪਈ\V_VM_VF ,\RD_PUNC ਰਲੀ\N_NN ਸਿਆਲਾਂ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ।\RD_PUNC
+PBLTD1256	ਛੁੱਟੀ\N_NN ਕਾਨੀ\N_NN ਗ਼ਜ਼ਬ\N_NN ਦੀ\PSP ,\RD_PUNC ਲੈ\V_VM_VNF ਗਈ\V_VM_VF ਮਿਰਜ਼ੇ\N_NNP ਨੂੰ\PSP ਨਾਲ\PSP ।\RD_PUNC
+PBLTD1257	ਰੂਹ\N_NN ਮਿਰਜ਼ੇ\N_NNP ਦੀ\PSP ਨਿਕਲ\V_VM ਗਈ\V_VM_VF ,\RD_PUNC ਲੱਗੀ\V_VM_VF ਜੰਡੂਰੇ\N_NNP ਨਾਲ\PSP ।\RD_PUNC
+PBLTD1258	ਮੰਦਾ\JJ ਕੀਤਾ\V_VM_VF ਸਾਹਿਬਾਂ\N_NNP ਤੂੰ\PR_PRP ,\RD_PUNC ਰਲ\V_VM ਗਈਆਂ\V_VM_VF ਸਿਆਲਾਂ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ।\RD_PUNC
+PBLTD1259	ਕਾਨੀ\N_NN ਘੜੀ\V_VM ਕੱਮਗਰਾਂ\N_NN ,\RD_PUNC ਫਲ\N_NN ਕਿਸੇ\DM_DMQ ਉਸਤਾਕਾਰ\N_NN ।\RD_PUNC
+PBLTD1260	ਧੋਖੇ\N_NN ਮਾਰੀ\V_VM_VF ਮੇਰੀ\PR_PRP ਸਾਹਿਬਾਂ\N_NNP ,\RD_PUNC ਨਾ\RP_NEG ਆਰ\RB ਨਾ\RP_NEG ਪਾਰ\RB ।\RD_PUNC
+PBLTD1261	ਖਿੱਚ\V_VM ਕੇ\V_VM_VNF ਕੱਢੀ\V_VM ਮਿਰਜ਼ੇ\N_NNP ਜਵਾਨ\N_NN ਨੇ\PSP ,\RD_PUNC ਕਰ\V_VM_VF ਗਈ\V_VM_VF ਮਿਰਜ਼ੇ\N_NNP ਨੂੰ\PSP ਪਾਰ\RB ।\RD_PUNC
+PBLTD1262	ਅੱਗੋਂ\RB ਸਾਹਿਬਾਂ\N_NNP ਬੋਲਦੀ\V_VM_VF ,\RD_PUNC ਮਿਰਜ਼ਿਆ\N_NNP !\RD_PUNC ਮੰਨ\V_VM ਮੇਰੀ\PR_PRP ਅਰਜ਼ਾ\N_NN ।\RD_PUNC
+PBLTD1263	ਹੋਣੀ\V_VM_VINF ਵਰਤੀ\N_NN ਪੈਗੰਬਰਾਂ\N_NN ,\RD_PUNC ਹੋਣੀ\V_VM_VINF ਮਿਰਜ਼ੇ\N_NNP ਤੇ\CC_CCD ਗਈ\V_VM_VF ਆ\V_VAUX ।\RD_PUNC
+PBLTD1264	ਬੇਟੇ\N_NN ਸ਼ਾਹ\N_NNP ਅਲੀ\N_NNP ਦੇ\PSP ,\RD_PUNC ਹਸਨ\N_NNP ਹੁਸੈਨ\N_NNP ਭਰਾ\N_NN ।\RD_PUNC
+PBLTD1265	ਲੜਦੇ\V_VM_VF ਨਾਲ\PSP ਯਜ਼ੀਦੀਆਂ\N_NN ,\RD_PUNC ਦਿੱਤੇ\V_VM_VF ਪੂਰ\V_VM_VF ਖਪਾ\N_NN ।\RD_PUNC
+PBLTD1266	ਦਰ\N_NN ਵਿੱਚ\PSP ਰੋਦੀ\V_VM ਬੀਬੀ\N_NNP ਫ਼ਾਤਿਮਾ\N_NNP ,\RD_PUNC ਮੁੜ\V_VM ਕੇ\V_VM_VNF ਨਾ\RP_NEG ਆਏ\V_VM_VF ਮੇਰੇ\PR_PRP ਪਾਹ\N_NN ।\RD_PUNC
+PBLTD1267	ਮਿਰਜ਼ਿਆ\N_NNP !\RD_PUNC ਐਡ\JJ ਪੈਗੰਬਰ\N_NN ਮਰ\V_VM ਗਏ\V_VM_VF ,\RD_PUNC ਤੂੰ\PR_PRP ਕਿਹਦਾ\PR_PRQ ਪਾਣੀਹਾਰ\N_NN ?\RD_PUNC
+PBLTD1268	ਇੱਕ\QT_QTC ਅਰਜ਼\N_NN ਮੇਰੀ\PR_PRP ਮੰਨ\V_VM ਲੈ\V_VM_VNF ,\RD_PUNC ਮੈਨੂੰ\PR_PRP ਸਾਹਿਬਾਂ,\N_NNP ਲੈ\V_VM_VNF ਚੱਲ\V_VM_VF ਨਾਲ\PSP ।\RD_PUNC
+PBLTD1269	ਮੰਦਾ\JJ ਕੀਤਾ\V_VM_VF ਸੁਣ\V_VM_VINF ਸਾਹਿਬਾਂ\N_NNP ,\RD_PUNC ਮੇਰਾ\PR_PRP ਤਰਕਸ਼\N_NN ਟੰਗਿਆ\V_VM ਜੰਡ\N_NN ।\RD_PUNC
+PBLTD1270	ਤਿੰਨ\QT_QTC ਸੌ\QT_QTC ਕਾਨੀ\N_NN ਮਿਰਜ਼ੇ\N_NNP ਜਵਾਨ\JJ ਦੀ\PSP ,\RD_PUNC ਦੇਂਦਾ\V_VM_VF ਸਿਆਲਾਂ\N_NNP ਨੂੰ\PSP ਵੰਡ\V_VM ।\RD_PUNC
+PBLTD1271	ਪਹਿਲੀ\QT_QTO ਮਾਰਦਾ\V_VM ਵੀਰ\N_NNP ਸ਼ਮੀਰ\N_NNP ਦੇ\PSP ,\RD_PUNC ਦੂਜੀ\QT_QTO ਕੁੱਲੇ\N_NN ਦੇ\PSP ਤੰਗ\N_NN ।\RD_PUNC
+PBLTD1272	ਤੀਜੀ\QT_QTO ਮਾਰਾਂ\V_VM ਜੋੜ\RB ਕੇ\V_VM_VNF ,\RD_PUNC ਜਿਹਦੀ\PR_PRL ਹੈਂ\V_VAUX ਤੂੰ\PR_PRP ਮੰਗ\N_NN ।\RD_PUNC
+PBLTD1273	ਸਿਰ\N_NN ਤੋਂ\PSP ਮੁੰਡਾਸਾ\N_NN ਉੱਡ\V_VM ਗਿਆ\V_VM_VF ,\RD_PUNC ਗਲ\N_NN ਵਿੱਚ\PSP ਪਈ\V_VM ਝੰਡ\N_NN ।\RD_PUNC
+PBLTD1274	ਬਾਝ\RB ਭਰਾਵਾਂ\N_NN ਜੱਟ\N_NN ਮਾਰਿਆ\V_VM ,\RD_PUNC ਕੋਈ\DM_DMQ ਨਾ\RP_NEG ਮਿਰਜ਼ੇ\N_NNP ਦੇ\PSP ਸੰਗ\PSP ।\RD_PUNC
+PBLTD1275	ਪੀਲੂ\N_NNP ਪੁਛੇ\V_VM ਸ਼ਾਇਰ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਕੈ\PR_PRQ ਵੱਲ\PSP ਗਿਆ\V_VM_VF ਜਹਾਨ\N_NN ।\RD_PUNC
+PBLTD1276	ਬਹਿ\V_VM ਬਹਿ\RB ਗਈਆਂ\V_VM_VF ਮਜਲਿਸਾਂ\V_VM ,\RD_PUNC ਲੱਗ\RB ਲੱਗ\RB ਗਏ\V_VM_VF ਦੀਵਾਨ\N_NN ।\RD_PUNC
+PBLTD1277	ਮਿਰਜ਼ਾ\N_NNP ਮਾਰਿਆ\N_NNP ਮਲਕੁਲ\JJ ਮੌਤ\N_NN ਦਾ\PSP ,\RD_PUNC ਕੁਝ\DM_DMQ ਮਾਰਿਆ\V_VM ਉਹਨੂੰ\PR_PRP ਗੁਮਾਨ\N_NN ।\RD_PUNC
+PBLTD1278	ਵਿੱਚ\PSP ਕਬਰਾਂ\N_NN ਦੇ\PSP ਖੱਪ\V_VM ਗਿਆ\V_VM ,\RD_PUNC ਮਿਰਜ਼ਾ\N_NNP ਸੋਹਣਾ\JJ ਜਵਾਨ\N_NN ।\RD_PUNC
+PBLTD1279	ਇਹ\PR_PRP ਕਿੱਸਾ\N_NN ਮਿਰਜ਼ਾ\N_NNP ਸਾਹਿਬਾਂ\N_NNP ਦਾ\PSP ਜੋੜਿਆ\V_VM ।\RD_PUNC
+PBLTD1280	ਪੀਲੂ\N_NNP ਸ਼ਾਇਰ\N_NNP ਨੇ\PSP ,\RD_PUNC ਜਿਹਨੂੰ\PR_PRL ਜਾਣੇ\V_VM_VINF ਕੁਲ\RB ਜਹਾਨ\N_NN ।\RD_PUNC
+PBLTD1281	ਅੱਵਲ\QT_QTC ਹਮਦ\N_NN ਖ਼ੁਦਾ\N_NN ਦਾ\PSP ਵਿਰਦ\V_VM ਕੀਜੇ\V_VM ਇਸ਼ਕ\N_NN ਕੀਤਾ\V_VM_VF ਸੂ\V_VAUX ਜੱਗ\N_NN ਦਾ\PSP ਮੂਲ\RB ਮੀਆਂ\N_NN |\RD_PUNC
+PBLTD1282	ਪਹਿਲੇ\QT_QTO ਆਪ\PR_PRF ਹੈ\V_VAUX ਰੱਬ\N_NN ਨੇ\PSP ਇਸ਼ਕ\N_NN ਕੀਤਾ\V_VM_VF ਮਾਅਸ਼ੂਕ\N_NN ਹੈ\V_VAUX ਨਬੀ\N_NNP ਰਸੂਲ\N_NNP ਮੀਆਂ\N_NN |\RD_PUNC
+PBLTD1283	ਇਸ਼ਕ\N_NN ਪੀਰ\N_NN ਫਕੀਰ\N_NN ਦਾ\PSP ਮਰਤਬਾ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਮਰਦ\N_NN ਇਸ਼ਕ\N_NN ਦਾ\PSP ਭਲਾ\JJ ਰੰਜੂਲ\N_NN ਮੀਆਂ\N_NN |\RD_PUNC
+PBLTD1284	ਖੁੱਲੇ\V_VM ਤਿਨਹਾਂ\PR_PRP ਦੇ\PSP ਬਾਬਾ\N_NN ਕਲੂਬ\N_NN ਅੰਦਰ\RB ਜਿਨਾਂ\PR_PRL ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ਇਸ਼ਕ\N_NN ਕਬੂਲ\V_VM ਮੀਆਂ\N_NN |\RD_PUNC
+PBLTD1285	ਦੂਈ\QT_QTO ਨਾਅਤ\N_NNP ਰਸੂਲ\N_NNP ਮਕਬੂਲ\N_NNP ਵਾਲੀ\PSP ਜੈਂ\PR_PRL ਦੇ\PSP ਹੱਕ\N_NN ਨਜ਼ੂਲ\N_NN ਲੌਲਾਕ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1286	ਖ਼ਾਕੀ\N_NN ਆਖ\V_VM ਕੇ\V_VM_VNF ਮਰਤਬਾ\N_NN ਬਿਦਾ\V_VM ਦਿੱਤਾ\V_VM_VF |\N_NN
+PBLTD1287	ਸਭ\DM_DMQ ਖ਼ਲਕ\N_NN ਦੇ\PSP ਐਬ\N_NN ਥੀਂ\N_NN ਪਾਕ\RB ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1288	ਸਰਵਰ\JJ ਹੋਇਕੇ\V_VM_VF ਔਲੀਆਂ\N_NN ਅੰਬੀਆਂ\N_NN ਦਾ\PSP ਅੱਗੇ\RB ਹੱਕ\N_NN ਦੇ\PSP ਆਪ\PR_PRF ਨੂੰ\PSP ਪਾਕ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1289	ਉਮੰਤੀ\RB ਉਮੰਤੀ\RB ਰੋਜ਼\RB ਮਹਿਸ਼ਰ\N_NN ਖੁਸ਼ੀ\N_NN ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਜਿਊ\RP_CL ਜ਼ਮਨਾਕ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1290	ਚਾਰੇ\QT_QTO ਯਾਰ\N_NN ਰਸੂਲ\N_NNP ਦੇ\PSP ਚਾਰ\QT_QTC ਗੌਹਰ\N_NN ਸੱਭਾ\N_NN ਇੱਥ\RB ਥੀਂ\V_VAUX ਇੱਕ\QT_QTC |\RD_PUNC
+PBLTD1291	ਚੜ੍ਹੰਦੜੇ\N_NN ਨੇ\PSP ਅਬੂ\N_NNP ਬਕਰ\N_NNP ਤੇ\N_NN ਉਮਰ\N_NNP ,\RD_PUNC ਉਸਮਾਨ\N_NNP ,\RD_PUNC ਅਲੀ\N_NNP |\RD_PUNC
+PBLTD1292	ਆਪੋ\PR_PRF ਆਪਣੇ\PR_PRF ਗੁਣੀਂ\N_NN ਸੁਹੰਦੜ\JJ ਨੇ\PSP ਜਿਨ੍ਹਾਂ\PR_PRL ਸਿਦਕ\N_NN ਯਕੀਨ\N_NN ਤਹਿਕੀਕ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1293	ਰਾਹ\N_NN ਰੱਬ\N_NN ਦੇ\PSP ਸੀਸ\N_NN ਵਕੰਦੜੇ\V_VM_VF ਨੇ\PSP ਜ਼ੌਕ\N_NN ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਜਿਨ੍ਹਾਂ\PR_PRL ਨੇ\PSP ਜ਼ੁਹਦ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1294	ਵਾਹ\RP_INTF ਵਾਹ\RP_INTF ਉਹ\PR_PRP ਰੱਬ\N_NN ਦੇ\PSP ਬੰਦੜੇ\N_NN ਨੇ\PSP |\RD_PUNC
+PBLTD1295	ਮਦ੍ਹਾ\N_NN ਪੀਰ\N_NN ਦੀ\PSP ਹੁਬ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਕੀਤੇ\V_VM_VF |\RD_PUNC
+PBLTD1296	ਜੈਂ\N_NN ਦੇ\PSP ਖ਼ਾਦਮਾਂ\N_NN ਦੇ\PSP ਵਿੱਚ\PSP ਪੀਰੀਆਂ\N_NN ਨੀ\N_NN ਬਾਝ\RP_NEG ਏਸ\PR_PRP ਜਨਾਬ\N_NN ਦੇ\PSP ਬਾਰ\N_NN ਨਾਹੀਂ\RP_NEG |\RD_PUNC
+PBLTD1297	ਲਖ\QT_QTC ਢੂੰਡਦੇ\V_VM ਫਿਰਨ\V_VM_VF ਫਕੀਰੀਆਂ\N_NN ਨੀ\V_VAUX |\RD_PUNC
+PBLTD1298	ਜਿਹੜੇ\PR_PRL ਪੀਰ\N_NN ਦੀ\PSP ਮਿਹਰ\N_NN ਮੰਜ਼ੂਰ\N_NN ਹੋਏ\V_VM_VF ਘਰ\N_NN ਤਿੰਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਪੀਰੀਆ\N_NN ਮੀਰੀਆਂ\N_NN ਨੀ\N_NN |\RD_PUNC
+PBLTD1299	ਰੋਜ਼\RB ਹਸ਼ਰ\N_NN ਦੇ\PSP ਪੀਰ\N_NN ਦੇ\PSP ਤਾਲਿਬਾਂ\JJ ਨੂੰ\PSP ਹੱਥ\N_NN ਸਜੜੇ\N_NN ਮਿਲਨ\V_VM ਗੀਆਂ\V_VM_VF ਚੀਰੀਆਂ\N_NN ਨੀਂ\N_NN |\RD_PUNC
+PBLTD1300	ਮੌਦੂਦ\N_NNP ਦਾ\PSP ਲਾਡਲਾ\JJ ਪੀਰ\N_NN ਚਿਸ਼ਤੀ\N_NNP ਸ਼ਕਰ\N_NNP ਗੰਜ\N_NNP ਮਸਉਦ\N_NNP ਭਰਪੂਰ\RB ਹੈ\V_VAUX ਜੀ\N_NN |\RD_PUNC
+PBLTD1301	ਖ਼ਾਨਦਾਨ\N_NN ਵਿੱਚ\PSP ਚਿਸ਼ਤ\N_NNP ਦੇ\PSP ਕਾਮਲੀਅੱਤ\N_NNP ਸ਼ਹਿਰ\N_NN ਫਕਰ\N_NNP ਦਾ\PSP ਪਾਕਪਟਨ\N_NNP ਮਾਅਮੂਰ\N_NNP ਹੈ\V_VAUX ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1302	ਬਾਹੀਆ\N_NN ਕੁਤਬਾਂ\N_NN ਵਿੱਚ\PSP ਹੈ\V_VAUX ਪੀਰ\N_NN ਕਾਮਲ\N_NNP ਜੈਂ\PR_PRL ਦੀ\PSP ਆਜਜ਼ੀ\N_NN ਜ਼ੁਹਦ\N_NN ਮੰਜ਼ੂਰ\RB ਹੈ\V_VAUX ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1303	ਸ਼ਕਰ\N_NNP ਗੰਜ\N_NNP ਨੇ\PSP ਆਣ\V_VM_VINF ਮੁਕਾਮ\N_NN ਕੀਤਾ\N_NN ,\RD_PUNC ਦੁਖ\RB ਦਰਦ\N_NN ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਦੂਰ\RB ਹੈ\V_VAUX ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1304	ਯਾਰਾਂ\N_NN ਅਸਾਂ\PR_PRP ਨੂੰ\PSP ਆਣ\V_VM_VF ਸਵਾਲ\N_NN ਕੀਤਾ\V_VM_VF ਇਸ਼ਕ\N_NN ਹੀਰ\N_NNP ਦਾ\PSP ਨਵਾਂ\JJ ਬਣਾਈਏ\V_VM_VF ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1305	ਏਸ\DM_DMD ਪਰੇਮ\N_NN ਦੀ\PSP ਝੋਕ\N_NN ਦਾ\PSP ਸਭ\RB ਕਿੱਸਾ\N_NN ,\RD_PUNC ਢਬ\N_NN ਸੁਹਣੇ\JJ ਨਾਲ\PSP ਸੁਣਾਈਏ\V_VM_VF ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1306	ਨਾਲ\PSP ਅਜਬ\JJ ਬਹਾਰ\N_NN ਦੇ\PSP ਸ਼ਿਅਰ\N_NN ਕਰਕੇ\PSP ,\RD_PUNC ਰਾਂਝੇ\N_NNP ਹੀਰ\N_NNP ਦਾ\PSP ਮੇਲ\N_NN ਕਰਾਈਏ\V_VM_VF ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1307	ਯਾਰਾਂ\N_NN ਨਾਲ\PSP ਮਜਾਲਸਾਂ\N_NN ਵਿੱਚ\PSP ਬਹਿ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਮਜ਼ਾ\N_NN ਹੀਰ\N_NNP ਦੇ\PSP ਇਸ਼ਕ\N_NN ਦਾ\PSP ਪਾਈਏ\V_VM_VF ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1308	ਹੁਕਮ\N_NN ਮਨ\V_VM ਕੇ\V_VM_VNF ਸੱਜਨਾਂ\N_NN ਪਿਆਰਿਆਂ\JJ ਦਾ\PSP ,\RD_PUNC ਕਿੱਸਾ\N_NN ਅਜਬ\JJ ਬਹਾਰ\N_NN ਦਾ\PSP ਜੋੜਿਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1309	ਫਿਕਰਾ\N_NN ਜੋੜ\V_VM ਕੇ\V_VM_VNF ਖ਼ੂਬ\RB ਤਿਆਰ\V_VM ਕੀਤਾ\V_VM_VF ,\RD_PUNC ਨਵਾਂ\JJ ਫੁਲ\N_NN ਗੁਲਾਬ\N_NN ਦਾ\PSP ਤੋੜਿਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1310	ਬਹੁਤ\DM_DMQ ਜਿਉ\N_NN ਦੇ\PSP ਵਿੱਚ\PSP ਤਦਬੀਰ\N_NN ਕਰਕੇ\PSP ,\RD_PUNC ਫਰਹਾਦ\N_NNP ਪਹਾੜ\N_NN ਨੂੰ\PSP ਤੋੜਿਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1311	ਇੱਕ\QT_QTC ਤਖ਼ਤ\N_NNP ਹਜ਼ਾਰਿਉਂ\N_NNP ਗੱਲ\N_NN ਕੀਜੇ\V_VM_VF ਜਿੱਥੇ\PR_PRL ਰਾਂਝਿਆਂ\N_NNP ਰੰਗ\N_NN ਮਚਾਇਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1312	ਛੈਲ\JJ ਗੱਭਰੂ\N_NN ,\RD_PUNC ਮਸਤ\JJ ਅਲਬੇਲੜੇ\JJ ਨੇਂ\PSP ,\RD_PUNC ਸੁੰਦਰ\JJ ਇੱਕ\QT_QTC ਥੀਂ\PSP ਇੱਕ\QT_QTC ਸਵਾਇਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1313	ਵਾਲੇ\N_NN ਕੋਕਲੇ\N_NN ,\RD_PUNC ਮੁੰਦਰੇ\N_NN ,\RD_PUNC ਮੱਝ\N_NN ਲੁੰਗੀ\JJ ,\RD_PUNC ਨਵਾਂ\JJ ਠਾਠ\N_NN ਤੇ\CC_CCD ਠਾਠ\N_NN ਚੜ੍ਹਾਇਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1314	ਕੇਹੀ\PR_PRQ ਸਿਫਤ\N_NN ਹਜ਼ਾਰੇ\N_NNP ਦੀ\PSP ਆਖ\V_VM ਸਕਾਂ\V_VM_VF ਗੋਇਆ\N_NN ਬਹਿਸ਼ਤ\N_NN ਜ਼ਮੀਨ\N_NN ਤੇ\CC_CCD ਆਇਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1315	ਮੌਜੂ\N_NNP ਚੌਧਰੀ\N_NNP ਪਿੰਡ\N_NN ਦੀ\PSP ਪਾਂਡ\N_NN ਵਾਲਾ\PSP ਚੰਗਾ\JJ ਭਾਈਆਂ\N_NN ਦਾ\PSP ਸਰਦਾਰ\N_NN ਆਹਾ\V_VAUX |\RD_PUNC
+PBLTD1316	ਅੱਠ\QT_QTC ਪੁੱਤਰ\N_NN ਦੋ\QT_QTC ਬੇਟੀਆਂ\N_NN ਤਿਸ\PR_PRP ਦੀਆਂ\PSP ਸਨ\V_VAUX ਵੱਡਾ\JJ ਦਰੱਬ\N_NN ਤੇ\CC_CCD ਮਾਲ\N_NN ਪਰਵਾਰ\N_NN ਆਹਾ\V_VAUX |\RD_PUNC
+PBLTD1317	ਭਲੀ\JJ ਭਾਈਆਂ\N_NN ਵਿੱਚ\PSP ਪਰਤੀਤ\N_NN ਉਸਦੀ\PR_PRP ,\RD_PUNC ਮੰਨਿਆ\V_VM ਚੌਤਰੇ\N_NN ਉਤੇ\RB ਸਰਕਾਰ\N_NN ਆਹਾ\V_VAUX |\RD_PUNC
+PBLTD1318	ਵਾਰਸ\N_NNP ਸ਼ਾਹ\N_NNP ਇਹ\PR_PRP ਕੁਦਰਤਾਂ\N_NN ਰੱਬ\N_NN ਦੀਆਂ\PSP ਨੇਂ\PSP ਧੀਦੋ\N_NNP ਨਾਲ\PSP ਉਸ\PR_PRP ਬਹੁਤ\DM_DMQ ਪਿਆਰ\N_NN ਆਹਾ\V_VAUX |\RD_PUNC
+PBLTD1319	ਬਾਪ\N_NN ਕਰੇ\V_VM_VF ਪਿਆਰ\N_NN ਤੇ\CC_CCD ਵੈਰ\N_NN ਭਾਈ\N_NN ,\RD_PUNC ਡਰ\N_NN ਬਾਪ\N_NN ਦੇ\PSP ਥੀਂ\V_VAUX ਪਏ\V_VM ਸੰਗਦੇ\N_NN ਨੇ\PSP |\RD_PUNC
+PBLTD1320	ਗੁਝੇ\JJ ਮੇਹਣੇ\N_NN ਮਾਰ\V_VM ਕੇ\V_VM_VNF ਸੱਪ\N_NN ਵਾਂਗੂੰ\RB ਉਸ\PR_PRP ਦੇ\PSP ਕਾਲਜੇ\N_NN ਨੂੰ\PSP ਪਏ\V_VM_VF ਡੰਗਦੇ\V_VM ਨੇ\PSP |\RD_PUNC
+PBLTD1321	ਕੋਈ\DM_DMQ ਵੱਸ\N_NN ਨਾ\RP_NEG ਚੱਲਣੇਂ\V_VM_VINF ਕਢ\V_VM ਛੱਡਣ\V_VM_VINF ,\RD_PUNC ਦੇਂਦੇ\V_VM_VF ਮਿਹਣੇ\N_NN ਰੰਗ\JJ ਬਰੰਗ\JJ ਦੇ\PSP ਨੇ\PSP |\RD_PUNC
+PBLTD1322	ਵਾਰਸ\N_NNP ਸ਼ਾਹ\N_NNP ਇਹ\PR_PRP ਗਰਜ਼\N_NN ਹੈ\V_VAUX ਬਹੁਤ\DM_DMQ ਪਿਆਰੀ\JJ ,\RD_PUNC ਹੋਰ\DM_DMQ ਸਾਕ\N_NN ਨਾ\RP_NEG ਸੈਨ\N_NN ਨਾ\RP_NEG |\RD_PUNC
+PBLTD1323	ਅੱਵਲ’\QT_QTC ਆਖ\V_VM ਸੁਨਾਂ\V_VM_VINF ਖੁਦਾ\N_NN ਤਾਈਂ\PSP ,\RD_PUNC ਜਿਹਨੂੰ\PR_PRL ਪੀਰ\N_NN ਫਕੀਰ\N_NN ਧਿਆਉਂਦੇ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD1324	ਲੋਹ\N_NN ਕਲਮ\N_NN ਤੇ\CC_CCD ਜ਼ਮੀਨ\N_NN ਅਸਮਾਨ\N_NN ਤਾਰੇ\N_NN ,\RD_PUNC ਚੰਨ\N_NN ਸੂਰਜ\N_NN ਭੀ\RP_RPD ਸੀਸ\N_NN ਨਿਵਾਉਂਦੇ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD1325	ਮੱਛ\N_NN ਕੱਛ\N_NN ਸੰਸਾਰ\N_NN ਸਮੁੰਦਰਾਂ\N_NN ਦੇ\PSP ,\RD_PUNC ਉਹ\PR_PRP ਭੀ\RP_RPD ਰੱਬ\N_NN ਦੇ\PSP ਜੀ\N_NN ਕਹਾਉਂਦੇ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD1326	‘ਕਾਦਰਯਾਰ’\N_NNP ਮੀਆਂ\N_NN ਜੰਗਲ\N_NN ਜੂਹ\N_NN ਬੇਲੇ\N_NN ਸੱਭੇ\DM_DMQ ਰੱਬ\N_NN ਦਾ\PSP ਬਿਰਦ\N_NN ਕਮਾਉਂਦੇ\V_VM_VF ਨੇ\PSP ।\RD_PUNC
+PBLTD1327	ਅਲਫ਼\N_NN ਆਖ\V_VM ਸਖੀ\N_NN -\RD_PUNC ਸਿਆਲਕੋਟ\N_NNP ਅੰਦਰ\RB ,\RD_PUNC ਪੂਰਨ\N_NNP ਪੁਤ\N_NN ਸਲਵਾਨ\N_NNP ਨੇ\PSP ਜਾਇਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1328	ਜਦੋਂ\PR_PRL ਜੰਮਿਆਂ\V_VM ਰਾਜੇ\N_NN ਨੂੰ\PSP ਖ਼ਬਰ\N_NN ਹੋਈ\V_VM_VF ,\RD_PUNC ਸੱਦ\V_VM ਪੰਡਤਾਂ\N_NN ਵੇਦ\N_NN ਪੜਹਾਇਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1329	ਬਾਰਾਂ\QT_QTC ਬਰਸ\N_NN ਨਾ\RP_NEG ਰਾਜਿਆਂ\N_NN ਮੂਹ\N_NN ਲੱਗੀਂ\V_VM_VF ,\RD_PUNC ਦੇਖ\V_VM ਪੰਡਤਾਂ\N_NN ਏਹ\DM_DMD ਫਰਮਾਇਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1330	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NN ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਤਾਈਂ\PSP ,\RD_PUNC ਬਾਪ\N_NN ਜੰਮਦਿਆਂ\V_VM ਹੀ\RP_RPD ਭੋਹਰੇ\N_NN ਪਾਇਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1331	ਬੇ\N_NN ਬੇਦਾ\N_NN ਉਤੇ\RB ਜਿਵੇਂ\RP_CL ਲਿਖਿਆ\V_VM ਸੀ\V_VAUX ,\RD_PUNC ਤਿਵੇਂ\PR_PRL ਪੰਡਤਾਂ\N_NN ਆਖਿ\V_VM ਸੁਣਾਇ\V_VM_VF ਦਿਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1332	ਪੂਰਨ\N_NNP ਇੱਕ\QT_QTC ਹਨੇਰਿਓਂ\N_NN ਨਿਕਲਿਆ\V_VM ਸੀ\V_VAUX ,\RD_PUNC ਦੂਜੀ\QT_QTO ਕੋਠੜੀ\N_NN ਦੇ\PSP ਵਿੱਚ\PSP ਪਾਇ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1333	ਸਭੋ\DM_DMQ ਗੋਲੀਆਂ\N_NN ਬਾਂਦੀਆਂ\N_NN ਦਾਈਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਬਾਰਾਂ\QT_QTC ਬਰਸ\N_NN ਦਾ\PSP ਖਰਚ\N_NN ਪੁਵਾਇ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1334	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NN ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਤਾਈਂ\PSP ,\RD_PUNC ਬਾਪ\N_NN ਜੰਮਦਿਆਂ\V_VM_VF ਕੈਦ\V_VM ਕਰਵਾਇ\V_VM_VF ਦਿਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1335	ਤੇ\CC_CCD ਤਾਬਿਆ\N_NN ਨਾਲ\PSP ਉਸਤਾਦ\N_NN ਹੋਏ\V_VM_VF ,\RD_PUNC ਲਗੇ\V_VM_VF ਵਿੱਦਿਆ\N_NN ਅਕਲ\N_NN ਸਿਖਾਵਣੇ\V_VM_VINF ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1336	ਛਿਆਂ\QT_QTO ਬਰਸਾਂ\N_NN ਦਾ\PSP ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਹੋਇਆ\V_VM_VF ,\RD_PUNC ਪਾਂਧੇ\N_NN ਪੋਥੀਆਂ\N_NN ਦੇਣ\V_VM_VINF ਪੜਹਾਵਣੇ\V_VM_VINF ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1337	ਤੀਰ-ਅੰਦਾਜ਼ੀਆਂ\N_NN ਹੱਥ\N_NN ਕਮਾਨ\N_NN ਦਿੰਦੇ\V_VM_VF ,\RD_PUNC ਦਸਣ\V_VM_VINF ਤਰਗਸ਼ਾ\N_NN ਤੀਰ\N_NN ਚਲਾਵਣੇ\V_VM_VINF ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1338	ਕਾਦਰਯਾਰ\N_NNP ਜੁਆਨ\N_NN ਜਦ\PR_PRL ਹੋਇਆ\V_VM_VF ਪੂਰਨ\N_NNP ,\RD_PUNC ਦੌਮ\N_NN ਦੰਮ\N_NN ਲੋਚੇ\V_VM ਬਾਹਰ\RB ਆਵਣੇ\V_VM_VINF ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1339	ਸੇ\N_NN ਸਾਬਤੀ\N_NN ਵਿੱਦਿਆ\N_NN ਸਿਖ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INTF ,\RD_PUNC ਬਾਰਾਂ\QT_QTC ਬਰਸ\N_NN ਗੁਜ਼ਰੇ\V_VM ਖ਼ਬਰਦਾਰ\RB ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1340	ਪੂਰਨ\N_NNP ਪੁੱਤਰ\N_NN ਰਾਜੇ\N_NN ਸਲਵਾਨ\N_NNP ਤਾਈਂ\PSP ,\RD_PUNC ਰੱਖ\V_VM ਪੈਂਤੜੇ\N_NN ਮਿਲਣ\V_VM_VINF ਤਿਆਰ\RB ਹੋਇਆ\V_VM_VF |\N_NN
+PBLTD1341	ਚੜ੍ਹੀ\V_VM_VF ਹਿਰਸ\N_NN ਸਲਵਾਨ\N_NNP ਨੂੰ\PSP ਓਸ\PR_PRP ਵੇਲੇ\PSP ,\RD_PUNC ਚੁਕ\V_VM ਅੱਡੀਆਂ\N_NN ਪੱਬਾਂ\N_NN ਦੇ\PSP ਭਾਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1342	ਕਾਦਰਯਾਰ\N_NNP ਸੂਰਤ\N_NN ਰਾਜੇ\N_NN ਜਦੋਂ\PR_PRL ਡਿਠੀ\V_VM ,\RD_PUNC ਚੜੀ\V_VM_VF ਹਿਰਸ\N_NN ਤੇ\N_NN ਮਸਤ\RB ਸੰਸਾਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1343	ਜੀਮ\N_NN ਜਾਇ\V_VM_VF ਰਾਜੇ\N_NN ਸਲਵਾਨ\N_NNP ਆਂਦੀ\V_VM_VF ,\RD_PUNC ਇਕ\QT_QTC ਇਸਤਰੀ\N_NN ਹੋਰ\DM_DMQ ਵਿਆਹੇ\N_NN ਕੇ\V_VM_VNF ਜੀ\RP_INTF |\RD_PUNC
+PBLTD1344	ਉਸ\PR_PRP ਦੀ\PSP ਜਾਤ\N_NN ਚਮਿਆਰੀ\N_NN ਤੇ\CC_CCD ਨਾਮ\N_NN ਲੂਣਾਂ\N_NNP ,\RD_PUNC ਘਰ\N_NN ਆਂਦੀ\V_VM_VF ਸੀ\V_VAUX ਈਣ\N_NN ਮਨਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1345	ਸੂਰਤ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਚੰਦ\N_NN ਮਹਿਤਾਬ\N_NN ਵਾਂਗੂੰ\RB ,\RD_PUNC ਜਦੋਂ\PR_PRL ਬੈਠਦੀ\V_VM_VF ਸੀ\V_VAUX ਜ਼ੇਵਰ\N_NN ਪਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1346	ਕਾਦਰਯਾਰ\N_NNP ਕੀ\PR_PRC ਆਖ\N_NN ਸੁਣਾਵਸਾਂ\V_VM_VF ਮੈਂ\PR_PRP ,\RD_PUNC ਪੰਛੀ\N_NN ਡਿਗਦੇ\V_VM_VF ਸਨ\V_VAUX ਦਰਸ਼ਨ\N_NN ਪਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1347	ਹੇ\N_NN ਹਾਰ\N_NN ਸ਼ਿੰਗਾਰ\N_NN ਸਭ\DM_DMQ ਪਹਿਨ\V_VM_VNG ਕੇ\V_VM_VNF ਜੀ\RP_INTF ,\RD_PUNC ਪੂਰਨ\N_NNP ਨਾਲ\PSP ਮਹੂਰਤਾਂ\N_NN ਬਾਹਰ\RB ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1348	ਕੱਢ\V_VM ਭੋਰਿਉਂ\N_NN ਬਾਪ\N_NN ਦਾ\PSP ਭੌਰ\N_NN ਤਾਜ਼ੀ\N_NN ,\RD_PUNC ਨਿਗਹਾ\N_NN ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਵਿੱਚ\PSP ਬਾਜ਼ਾਰ\N_NN ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1349	ਖੁਸ਼ੀ\N_NN ਬਹੁਤ\DM_DMQ ਹੋਈ\V_VM_VF ਰਾਣੀ\N_NN ਇੱਛਰਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC ਦਰਿ\N_NN ਘਰ\N_NN ਦੇਣ\V_VM_VINF ਵਧਾਈ\N_NN ਸੰਸਾਰ\N_NN ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1350	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NN ਬਾਰਾਂ\QT_QTC ਬਰਸ\N_NN ਪਿੱਛੋਂ\RB ,\RD_PUNC ਪੂਰਨ\N_NNP ਬਾਪ\N_NN ਦੇ\PSP ਰਾਜ\N_NN ਦਰਬਾਰ\N_NN ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1351	ਖੇ\N_NN ਖੁਸ਼ੀ\N_NN ਹੋਈ\V_VM_VF ਸਲਵਾਨ\N_NNP ਰਾਜੇ\N_NN ,\RD_PUNC ਪੂਰਨ\N_NNP ਆਇ\V_VM_VF ਕੇ\V_VM_VNF ਜਦੋਂ\PR_PRL ਸਲਾਮ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1352	ਖੁਸ਼ੀ\N_NN ਨਾਲ\PSP ਨਾ\RP_NEG ਮੇਉਂਦਾ\V_VM_VF ਵਿੱਚ\PSP ਜਾਮੇ\N_NN ,\RD_PUNC ਗਊਆਂ\N_NN ਮਣਸੀਆਂ\N_NN ਤੇ\CC_CCD ਪੁੰਨ\N_NN ਦਾਨ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1353	ਪੂਰਨ\N_NNP ਵਿੱਚ\PSP ਕਚਹਿਰੀ\N_NN ਦੇ\PSP ਆਣ\V_VM_VINF ਬੈਠਾ\V_VM ,\RD_PUNC ਲੋਕਾਂ\N_NN ਸਭਨਾਂ\DM_DMQ ਵਲ\PSP ਧਿਆਨ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1354	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NNP ਸਲਵਾਨ\N_NNP ਰਾਜੇ\N_NN ,\RD_PUNC ਹੱਥੋਂ\N_NN ਸਾਈਂ\N_NN ਦੇ\PSP ਨਾਮ\N_NN ਕੁੱਝ\DM_DMQ ਦਾਨ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1355	ਦਾਲ\N_NN ਦਸਦਾ\V_VM_VF ਪੁੱਛਦਾ\V_VM_VF ਲਾਗੀਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਸਲਵਾਨ\N_NNP ਰਾਜਾ\N_NN ਤਦੋਂ\PR_PRL ਗੱਜ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1356	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਦਾ\PSP ਢੂੰਡਸਾਂ\V_VM_VF ਸਾਕ\N_NN ਯਾਰੋ\N_NN ,\RD_PUNC ਜਿਥੇ\PR_PRL ਚਲ\V_VM ਢੁਕੀਏ\V_VM_VF ਦਿਨ\N_NN ਅਜ\RB ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1357	ਮੈਨੂੰ\PR_PRP ਸਿਕਦਿਆ\V_VM ਰਬ\N_NN ਨੇ\PSP ਲਾਲ\N_NN ਦਿੱਤਾ\V_VM_VF ,\RD_PUNC ਅਖੀਂ\N_NN ਵੇਖ\V_VM ਲੀਤਾ\V_VM_VF ਹੁਣ\RB ਰੱਜ\RB ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1358	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NNP ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਅੱਗੋਂ\RB ,\RD_PUNC ਕਹਿੰਦਾ\V_VM_VF ਸੁਖਨ\JJ ਸੱਚਾ\JJ ਇੱਕ\QT_QTC ਵੱਜ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1359	ਜ਼ਾਲ\N_NN ਜ਼ਰਾ\RB ਨਾ\RP_NEG ਬਾਪ\N_NN ਤੋਂ\PSP ਸੰਗ\N_NN ਕਰਦਾ\V_VM_VF |\RD_PUNC
+PBLTD1360	ਕਹਿੰਦਾ,\V_VM_VF ‘ਬਾਬਲਾ\N_NN ਪੁਤ\N_NN ਵਿਆਹੁ\N_NN ਨਾਹੀ\RP_NEG |\RD_PUNC
+PBLTD1361	ਜਿਸ\PR_PRL ਵਾਹਤੇ\PSP ਲੋਕ\N_NN ਵਿਆਹ\N_NN ਕਰਦੇ\V_VM_VF |\RD_PUNC
+PBLTD1362	ਮੇਰੇ\PR_PRP ਮਨ\N_NN ਅਜ਼ੇ\RB ਕੋਈ\DM_DMQ ਚਾਹ\N_NN ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1363	ਮੇਰਾ\PR_PRP ਭੌਰ\N_NN ਸੈਲਾਨੀ\JJ ਹੈ\V_VAUX ਨਿੱਤ\RB ਰਹਿੰਦਾ\V_VM_VF |\RD_PUNC
+PBLTD1364	ਬੰਨ੍ਹ\N_NN ਬੇੜੀਆਂ\N_NN ਬਾਬਲਾ\N_NN ਪਾਉ\V_VM_VF ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1365	ਕਾਦਰਯਾਰ\N_NNP ਨਾ\RP_NEG ਸੰਗਦਾ\V_VM_VF ਕਹੇ\V_VM ਪੂਰਨ\N_NNP |\RD_PUNC
+PBLTD1366	ਮੈਥੋਂ\PR_PRP ਰਬ\N_NN ਦਾ\PSP ਨਾਉਂ\N_NN ਭੁਲਾ\N_NN ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1367	ਰੇ\N_NN ਰੰਗ\N_NN ਤਗੀਰ\N_NN ਹੋ\V_VM ਗਿਆ\V_VM_VF ਸੁਣ\V_VM_VINF ਕੇ\V_VM_VNF |\RD_PUNC
+PBLTD1368	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਵੱਲੋਂ\PSP ਸਲਵਾਨ\N_NNP ਦਾ\PSP ਈ\RP_RPD ।\RD_PUNC
+PBLTD1369	ਕੋਲੋਂ\RB ਉਠਿ\V_VM ਵਜ਼ੀਰ\N_NN ਨੇ\PSP ਮਤਿ\N_NN ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBLTD1370	ਅਜੇ\RB ਇਹ\PR_PRP ਕੀ\PR_PRQ ਰਾਜਿਆ\N_NN ਜਾਣਦਾ\V_VM_VF ਈ\RP_RPD ।\RD_PUNC
+PBLTD1371	ਜਦੋਂ\PR_PRL ਹੋਗੂ\V_VM_VF ਜੁਆਨ\N_NN ਕਰ\V_VM_VF ਲੈਗੁ\V_VM_VF ਆਪੇ\PR_PRF |\RD_PUNC
+PBLTD1372	ਤੈਨੂੰ\PR_PRP ਬਾਹਲਾ\RB ਫਿਕਰ\N_NN ਵਿਆਹਣ\V_VM_VINF ਦਾ\PSP ਈ\RP_RPD ।\RD_PUNC
+PBLTD1373	ਕਾਦਰਯਾਰ\N_NNP ਵਜ਼ੀਰ\N_NN ਦੇ\PSP ਲੱਗ\V_VM ਆਖੇ\V_VM_VF |\RD_PUNC
+PBLTD1374	ਰਾਜਾ\N_NN ਫੇਰ\RB ਖੁਸ਼ੀ\N_NN ਦੇ\PSP ਅੰਦਰ\RB ਆਂਵਦਾ\V_VM_VF ਈ\RP_RPD |\RD_PUNC
+PBLTD1375	ਜੇ\N_NN ਜ਼ੁਬਾਨ\N_NN ਥੀਂ\PSP ਰਾਜੇ\N_NN ਨੇ\PSP ਹੁਕਮ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBLTD1376	ਘਰ\N_NN ਜਾਹੁ\V_VM_VF ਸਲਾਮ\N_NN ਕਰ\V_VM_VF ਮਾਈਆਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1377	ਜਿਸ\PR_PRL ਵਾਸਤੇ\PSP ਭੋਰੇ\N_NN ਦੇ\PSP ਵਿੱਚ\PSP ਪਾਇਆ\V_VM_VF |\RD_PUNC
+PBLTD1378	ਹੁਣ\RB ਮੋੜ\N_NN ਨਾ\RP_NEG ਖੁਸ਼ੀਆਂ\N_NN ਆਈਆਂ\V_VM_VF ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1379	ਹੁਕਮ\N_NN ਬਾਪ\N_NN ਦਾ\PSP ਉਠ\V_VM ਕੇ\V_VM_VNF ਮੰਨ\V_VM_VF ਤੁਰਦਾ\V_VM_VF |\RD_PUNC
+PBLTD1380	ਅੱਗੇ\RB ਲਾ\V_VM_VNF ਲੈਂਦਾ\V_VM_VF ਨਫਰਾਂ\N_NN ਨਾਈਆਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1381	ਕਾਦਰਯਾਰ\N_NNP ਮੈਂ\PR_PRP ਸਿਫਤਿ\N_NN ਕੀ\PR_PRQ ਕਰਾਂ\V_VM_VF ਉਸ\PR_PRP ਦੀ\PSP |\RD_PUNC
+PBLTD1382	ਰੰਨਾਂ\N_NN ਦੇਖ\V_VM ਭੁਲਾਇਆ\V_VM_VF ਸਾਈਆਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1383	ਸੀਨ\N_NN ਸ਼ਹਿਰ\N_NN ਆਇਆ\V_VM_VF ਘਰ\N_NN ਮਾਈਆਂ\N_NN ਦੇ\PSP |\RD_PUNC
+PBLTD1384	ਪੂਰਨ\N_NNP ਪੁੱਛਦਾ\V_VM_VF ਨੌਕਰਾਂ\N_NN ਚਾਕਰਾਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1385	ਜਿਸ\PR_PRL ਜਾਇਆ\N_NN ਓਸ\PR_PRP ਨੂੰ\PSP ਮਾਨ\N_NN ਵੱਡਾ\RB |\RD_PUNC
+PBLTD1386	ਮੱਥਾ\N_NN ਟੇਕ\V_VM ਲਵਾਂ\V_VM_VF ਅੱਵਲ\RB ਮਾਤਰਾਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1387	ਰਾਣੀ\JJ ਲੂਣਾਂ\N_NNP ਦੇ\PSP ਮਹਿਲ\N_NN ਨੂੰ\PSP ਰਵਾਂ\V_VM ਹੋਇਆ\V_VM_VF |\RD_PUNC
+PBLTD1388	ਅੰਦਰ\RB ਜਾਇ\V_VM_VF ਵੜਿਆ\V_VM ਪੁੱਤਰ\N_NN ਖਾਤਰਾਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1389	ਕਾਦਰਯਾਰ\N_NNP ਬਹਾਲ\V_VM ਕੇ\V_VM_VNF ਨਫਰ\N_NN ਪਿੱਛੇ\RB ।\RD_PUNC
+PBLTD1390	ਪੌੜੀ\N_NN ਚੜ੍ਹਿਆ\V_VM ਮੱਥਾ\N_NN ਟੇਕਨ\N_NN ਮਾਤਰਾਂ\N_NN ਨੂੰ\PSP ।\RD_PUNC
+PBLTD1391	ਸ਼ੀਨ\N_NN ਸ਼ੌਕ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਜੋ\PR_PRL ਭਗਤ\N_NNP ਪੂਰਨ\N_NNP |\RD_PUNC
+PBLTD1392	ਮਥਾ\N_NN ਟੇਕਣ\V_VM_VINF ਮਤਰੇਈ\JJ ਨੂੰ\PSP ਜਾਉਂਦਾ\V_VM_VF ਜੀ\RP_RPD ।\RD_PUNC
+PBLTD1393	ਅੱਗੇ\RB ਲੰਘ\V_VM ਕੇ\V_VM_VNF ਸਾਹਮਣੇ\RB ਖੜ੍ਹਾ\V_VM ਹੁੰਦਾ\V_VM_VF |\RD_PUNC
+PBLTD1394	ਹੱਥ\N_NN ਬੰਨ੍ਹ\N_NNP ਕੇ\V_VM_VNF ਸੀਸ\N_NN ਨਿਵਾਉਂਦਾ\V_VM ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1395	ਸੂਰਤ\N_NN ਵੇਖ\V_VM ਕੇ\V_VM_VNF ਹੋਇ\V_VM_VF ਬੇਤਾਬ\RB ਗਈ\V_VM_VF |\RD_PUNC
+PBLTD1396	ਹੋਰ\DM_DMQ ਕੁੱਝ\DM_DMQ ਨਾਹੀ\RP_NEG ਨਜ਼ਰ\N_NN ਆਉਂਦਾ\V_VM_VF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1397	ਕਾਦਰਯਾਰ\N_NNP ਜੋ\PR_PRL ਲੂਣਾਂ\N_NNP ਦੇ\PSP ਦਿਲ\N_NN ਅੰਦਰ\RB |\RD_PUNC
+PBLTD1398	ਆਣ\V_VM_VINF ਪਾਪ\N_NN ਜੋ\PR_PRL ਘੇਰੜਾਂ\N_NN ਪਾਉਂਦਾ\V_VM_VF ਜੀ\RP_INTF ।\RD_PUNC
+PBLTD1399	ਸੁਆਦ\N_NN ਸਿਫ਼ਤ\N_NN ਨਾ\RP_NEG ਹੁਸਨ\N_NN ਦੀ\PSP ਜਾਇ\V_VM_VF ਝੱਲੀ\V_VM |\RD_PUNC
+PBLTD1400	ਰਾਣੀ\N_NN ਦੇਖ\V_VM ਕੇ\V_VM_VNF ਪੂਰਨ\N_NNP ਨੂੰ\PSP ਤੁਰੰਤ\RB ਮੁਠੀ\N_NN ।\RD_PUNC
+PBLTD1401	ਸੂਰਤ\N_NN ਨਜ਼ਰ\V_VM ਆਈ\V_VM_VF ਰਾਜਾ\N_NN ਭੁੱਲ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBLTD1402	ਸਿਰ\N_NN ਪੈਰ\N_NN ਤਾਈਂ\PSP ਅੱਗ\N_NN ਭੜਕ\V_VM ਉਠੀ\V_VM_VF ।\RD_PUNC
+PBLTD1403	ਦਿਲੋਂ\N_NN ਪੁੱਤਰ\N_NN ਨੂੰ\PSP ਯਾਰ\N_NN ਬਣਾਇਆ\V_VM_VF ਸੂ\V_VAUX |\RD_PUNC
+PBLTD1404	ਉਸ\PR_PRP ਦੀ\PSP ਸਾਬਤੀ\JJ ਦੀ\PSP ਵਿਚੋਂ\PSP ਲੱਜ\N_NN ਟੁੱਟੀ\V_VM ।\RD_PUNC
+PBLTD1405	ਕਾਦਰਯਾਰ\N_NNP ਤਰੀਮਤ\N_NN ਹੈਂਸਿਆਰੀ\JJ |\RD_PUNC
+PBLTD1406	ਲੱਗੀ\V_VM_VF ਵੇਖ\V_VM ਵਗਾਵਣੇ\V_VM_VINF ਨਦੀ\N_NN ਪੁਠੀ\RB ।\RD_PUNC
+PBLTD1407	ਜ਼ੁਆਦ\N_NN ਜ਼ਬਤ\N_NN ਦੇ\PSP ਸਬਰ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਰਾਜਾ\N_NN |\RD_PUNC
+PBLTD1408	ਅੰਦਰ\RB ਲੰਘ\V_VM ਕੇ\V_VM_VNF ਰੰਗ-ਮਹੱਲ\N_NN ਜਾਇ\V_VM_VF ।\RD_PUNC
+PBLTD1409	ਹੱਥ\N_NN ਬੰਨ੍ਹ\V_VM ਕੇ\V_VM_VNF ਸਾਹਮਣੇ\RB ਖੜਾ\V_VM ਹੁੰਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD1410	ਮੱਥਾ\N_NN ਟੇਕਣਾ\V_VM_VINF ਹਾਂ\V_VAUX ਮੇਰੀ\PR_PRP ਧਰਮ\JJ ਮਾਇ\N_NN ।\RD_PUNC
+PBLTD1411	ਅੱਗੋਂ\RB ਦੇਵਣਾ\V_VM_VINF ਉਸ\PR_PRP ਪਿਆਰ\N_NN ਸਾਈਂ\N_NN |\RD_PUNC
+PBLTD1412	ਸਗੋਂ\CC_CCD ਦੇਖ\V_VM ਰਾਣੀ\N_NN ਮੱਥੇ\N_NN ਵੱਟ\V_VM ਪਾਇ\V_VM_VF ।\RD_PUNC
+PBLTD1413	ਕਾਦਰਯਾਰ\N_NNP ਖਲੋਇ\V_VM_VF ਕੇ\V_VM_VNF ਦੇਖ\V_VM ਅੱਖੀਂ\RB |\RD_PUNC
+PBLTD1414	ਚੜ੍ਹਿਆ\V_VM ਕਹਿਰ\RB ਚਲਿਤਡ\N_NN ਜੋ\PR_PRL ਵਰਤ\N_NN ਦਾ\PSP ਏ\RP_RPD ।\RD_PUNC
+PBLTD1415	ਤੋਇ\N_NN ਤਾਲਿਆ\N_NN ਮੇਰਿਆ\PR_PRP ਘੇਰ\V_VM ਆਂਦਾ\V_VM_VF |\RD_PUNC
+PBLTD1416	ਲੂਣਾਂ\N_NNP ਆਪ\PR_PRF ਦਲੀਲਾਂ\N_NN ਦੇ\PSP ਫਿਕਰ\N_NN ਬੰਨ੍ਹੇ\V_VM_VF ।\RD_PUNC
+PBLTD1417	ਮੈਂ\PR_PRP ਵੀ\RP_RPD ਸੁਰਗ\N_NN ਪ੍ਰਾਪਤੀ\N_NN ਥੀਵਨੀ\V_VM_VF ਹਾਂ\V_VAUX |\RD_PUNC
+PBLTD1418	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਜੇ\PR_PRL ਆਖਿਆ\V_VM_VF ਇੱਕ\QT_QTC ਮੰਨੇ\V_VM_VF ।\RD_PUNC
+PBLTD1419	ਲੱਗੀ\V_VM_VF ਦੇਣ\V_VM_VINF ਲੰਗਾਰ\N_NN ਅਸਮਾਨ\N_NN ਤਾਈਂ\PSP |\RD_PUNC
+PBLTD1420	ਉਹਦੀ\PR_PRP ਸਾਬਤੀ\N_NN ਦੇ\PSP ਵਿਚੋਂ\PSP ਥੰਮ\N_NN ਭੰਨੇ\V_VM_VINF ।\RD_PUNC
+PBLTD1421	ਭੰਨਣ\V_VM_VNG ਲੂਣ\N_NN ਲੱਗੀ\V_VM_VF ਵਿੱਚ\PSP ਥਾਲ\N_NN ਛੰਨੇ\N_NN ।\RD_PUNC
+PBLTD1422	ਜ਼ੋਇ\N_NN ਜ਼ਾਹਰਾ\RB ਆਖਦੀ\V_VM_VF ਸ਼ਰਮ\N_NN ਕੇਹੀ\PR_PRQ :\RD_PUNC
+PBLTD1423	‘ਮਾਈ\N_NN ਮਾਈ\N_NN ਨਾ\RP_NEG ਰਾਜਿਆ\N_NN ਆਖ\V_VM ਮੈਨੂੰ\PR_PRP :\RD_PUNC
+PBLTD1424	ਕੁਖੇ\N_NN ਰਖ\V_VM ਨਾ\RP_NEG ਜੰਮਿਓ\N_NN ਜਾਇਓ\N_NN ਵੇ\RP_RPD ,\RD_PUNC
+PBLTD1425	ਮਾਤਾ\N_NN ਆਖਣਾ\V_VM_VINF ਹੈਂ\V_VAUX ਕੇਹੜੇ\PR_PRQ ਸਾਕ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1426	ਹੋਗੁ\N_NN ਉਮਰ\N_NN ਤੇਰੀ\PR_PRP ਮੇਰੀ\PR_PRP ਇੱਕ\QT_QTC ਰਾਜਾ\N_NN |\RD_PUNC
+PBLTD1427	ਗੁੱਝਾ\JJ ਲਾਇਆ\V_VM_VF ਈ\RP_RPD ਦਰਦ-ਫਿਰਾਕ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1428	ਕਾਦਰਯਾਰ\N_NNP ਨਾ\RP_NEG ਸੰਗਦੀ\RB ਕਹੇ\V_VM_VF ਲੂਣਾਂ\N_NNP ,\RD_PUNC
+PBLTD1429	ਕਰ\V_VM_VNF ਚਲਿਓਂ\V_VM_VF ਮਾਰ\V_VM ਹਲਾਕ\V_VM_VF ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1430	ਐਨ\N_NN ਅਰਜ਼\N_NN ਕਰਦਾ\V_VM_VF ਸ਼ਰਮਾਇ\N_NN ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1431	‘ਮਾਇ\N_NN ਸੁਖਨ\N_NN ਅਵੱਲੜੇ\RB ਬੋਲ\N_NN ਨਾਹੀ\RP_NEG ।\RD_PUNC
+PBLTD1432	ਮਾਵਾਂ\N_NN ਪੁੱਤਰਾਂ\N_NN ਨੇਹੁ\N_NN ਨਾ\RP_NEG ਕਦੇ\RB ਲੱਗਾ\V_VM_VF ,\RD_PUNC
+PBLTD1433	ਜਗ\N_NN ਵਿੱਚ\PSP ਮੁਕਾਲਖਾ\N_NN ਘੋਲ\V_VM ਨਾਹੀ\RP_NEG ।\RD_PUNC
+PBLTD1434	ਸੀਨੇ\N_NN ਨਾਲ\PSP ਲਗਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਰੱਖ\V_VM ਮੈਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1435	ਪੁੱਤਰ\N_NN ਜਾਣ\V_VM_VINF ਮਾਏ\N_NN ਦਿਲੋਂ\N_NN ਡੋਲ\V_VM ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1436	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NN ਦੋਵੇਂ\QT_QTO ਝਗੜਦੇ\V_VM ਨੀ\RP_RPD ,\RD_PUNC
+PBLTD1437	ਸਾਈਂ\N_NN ਬਾਝ\RB ਦੂਜਾ\QT_QTO ਕੋਈ\DM_DMQ ਨਾਹੀ\RP_NEG ।\RD_PUNC
+PBLTD1438	ਗ਼ੈਨ\N_NN ਗ਼ਮ\N_NN ਨਾ\RP_NEG ਜਾਣਦੀ\V_VM_VF ਖੌਫ\N_NN ਖਤਰਾ\N_NN ,\RD_PUNC
+PBLTD1439	ਲੂਣਾਂ\N_NNP ਉਠ\V_VM ਕੇ\V_VM_VNF ਪਕੜਦੀ\V_VM ਆਣ\V_VM_VINF ਚੋਲਾ\N_NN ।\RD_PUNC
+PBLTD1440	‘ਇਕ\QT_QTC ਵਾਰ\PSP ਤੂੰ\PR_PRP ਬੈਠ\V_VM ਪਲੰਘ\N_NN ਉੱਤੇ\RB ,\RD_PUNC
+PBLTD1441	ਕਰਾਂ\V_VM_VF ਮਿਨਤ\N_NN ਤੇਰੀ\PR_PRP ਸੁਣੀ\V_VM_VINF ਅਰਜ਼\N_NN ਢੋਲਾ\N_NN ।\RD_PUNC
+PBLTD1442	ਪਰੀ\JJ ਜੇਹੀ\JJ ਮੈਂ\PR_PRP ਇਸਤਰੀ\N_NN ਅਰਜ਼\V_VM ਕਰਦੀ\V_VM_VF ,\RD_PUNC
+PBLTD1443	ਜਾਹ\V_VM ਤੂੰ\PR_PRP ਮਰਦ\N_NN ਨਾਹੀ\RP_NEG ਕੋਈ\DM_DMQ ਹੈਂ\V_VAUX ਭੋਲਾ\JJ ।\RD_PUNC
+PBLTD1444	‘ਸੇਜ\N_NN ਮਾਣ\V_VM_VINF ਮੇਰੀ\PR_PRP ਜਿੰਦ\N_NN ਜਾਨ\N_NN ਢੋਲਾ’\N_NN ।\RD_PUNC
+PBLTD1445	ਫੇ\N_NN ਫੇਰ\RB ਕਹਿਆ\V_VM ਗੁੱਸੇ\N_NN ਹੋਇ\V_VM_VF ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1446	‘ਤੈਨੂੰ\N_NNP ਵਗ\V_VM ਕੀ\PR_PRQ ਗਈ\V_VM_VF ਹੈ\V_VAUX ਬਾਣ\N_NN ਮਾਏ\N_NN ?\RD_PUNC
+PBLTD1447	ਜਿਹਦੀ\PR_PRL ਇਸਤਰੀ\N_NN ਓਹੀ\DM_DMD ਹੈ\V_VAUX ਬਾਪ\N_NN ਮੇਰਾ\PR_PRP ,\RD_PUNC
+PBLTD1448	ਤਿਸ\PR_PRL ਦੀ\PSP ਤੁਖਮ\N_NN ਥੀਂ\PSP ਜੰਮਿਆ\V_VM ਜਾਨ\N_NN ਮਾਏ\N_NN |\RD_PUNC
+PBLTD1449	ਗੱਲਾਂ\N_NN ਇਹੋ\RB ਜਹੀਆਂ\RB ਜਦੋਂ\PR_PRL ਹੋਣ\V_VM_VINF ਗੀਆਂ\V_VM_VF ,\RD_PUNC
+PBLTD1450	ਪੁਠੀ\RB ਹੋਗੁ\V_VM_VF ਜ਼ਿਮੀਂ\N_NN ਅਸਮਾਨ\N_NN ਮਾਏ\N_NN ।\RD_PUNC
+PBLTD1451	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NNP ਪੂਰਨ\N_NNP ਦਏ\V_VM_VF ਮੱਤੀ\N_NN ,\RD_PUNC
+PBLTD1452	ਕਿਧਰ\PR_PRQ ਗਿਆ\V_VM_VF ਈ\RP_RPD ਅੱਜ\RB ਧਿਆਨ\N_NN ਮਾਏ\N_NN ।\RD_PUNC
+PBLTD1453	ਕਾਫ਼\N_NN ‘ਕਹਿਰ\N_NN ਕਰਾਂ\V_VM_VF ਨਾ\RP_NEG ਪੂਰਨਾ\N_NNP ਵੇ\RP_RPD ,\RD_PUNC
+PBLTD1454	ਆਖੇ\N_NN ਲੱਗ\V_VM_VF ਜਾ\V_VM_VNF ਭਲਾ\N_NN ਜੇ\PR_PRL ਚਾਹਨਾ\V_VM_VF ਏਂ\V_VAUX ।\RD_PUNC
+PBLTD1455	ਝੋਲੀ\N_NN ਅੱਡ\V_VM ਮੈਂ\PR_PRP ਖਲੀ\V_VM ਹਾਂ\V_VAUX ਪਾਸ\RB ਤੇਰੇ\PR_PRP ,\RD_PUNC
+PBLTD1456	ਹੈਂਸਿਆਰਿਆ\N_NN ਖ਼ੈਰ\N_NN ਨਹੀਂ\RP_NEG ਪਾਉਨਾ\V_VM_VINF ਏਂ\V_VAUX ।\RD_PUNC
+PBLTD1457	ਕੁਛੜ\N_NN ਬੈਠ\N_NN ਮੰਮਾ\N_NN ਕਦੋਂ\PR_PRQ ਚੁੰਘਿਆ\V_VM ਈ\V_VAUX ,\RD_PUNC
+PBLTD1458	ਐਵੇਂ\RB ਕੂੜ\N_NN ਦੀ\PSP ਮਾਉਂ\N_NN ਬਣਾਵਣਾ\V_VM_VINF ਏਂ\V_VAUX ।\RD_PUNC
+PBLTD1459	‘ਕਿਉਂ\PR_PRQ ਗਰਦਨੀ\N_NN ਖੂਨ\N_NN ਚੜ੍ਹਾਵਨਾ\V_VM_VINF ਏਂ’\V_VAUX ।\RD_PUNC
+PBLTD1460	ਕਾਫ\N_NN ਕਹੇ\V_VM_VF ਪੂਰਨ\N_NNP ‘ਸੁਣੀ\V_VM_VINF ਸਚੁ\N_NN ਮਾਤਾ\N_NN ,\RD_PUNC
+PBLTD1461	ਤੇਰੇ\PR_PRP ਪਲੰਘ\N_NN ‘ਤੇ\PSP ਪੈਰ\N_NN ਨਾ\RP_NEG ਮੂਲ\JJ ਧਰਸਾਂ\V_VM_VF ।\RD_PUNC
+PBLTD1462	ਅਖੀਂ\N_NN ਫੇਰ\V_VM ਕੇ\V_VM_VNF ਮੂਲ\RB ਨਾ\RP_NEG ਨਜ਼ਰ\N_NN ਕਰਾਂ\V_VM_VF ,\RD_PUNC
+PBLTD1463	ਮੈਂਤਾਂ\PR_PRP ਸੂਲੀ\N_NN ‘ਤੇ\PSP ਚੜ੍ਹਨ\V_VM_VINF ਕਬੂਲ\N_NN ਕਰਸਾਂ\V_VM_VF ।\RD_PUNC
+PBLTD1464	ਕੰਨੀ\N_NN ਖਿੱਚ\V_VM ਕੇ\V_VM_VNF ਅੰਦਰੋਂ\RB ਬਾਹਰ\RB ਆਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1465	ਕਹਿੰਦਾ,\V_VM_VF ‘ਧਰਮ\N_NN ਗਵਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਕੀ\PR_PRQ ਮਰਸਾਂ\V_VM_VF ।’\RD_PUNC
+PBLTD1466	‘ਤੇਰੇ\PR_PRP ਲਹੂ\N_NN ਦਾ\PSP ਪੂਰਨਾ\N_NNP ਘੁੱਟ\N_NN ਭਰਸਾਂ’\V_VM_VF ।\RD_PUNC
+PBLTD1467	ਲਾਮ\N_NN ਲਾਹ\V_VM ਕੇ\V_VM_VNF ਹਾਰ\N_NN ਸ਼ਿੰਗਾਰ\N_NN ਰਾਣੀ\N_NN ,\RD_PUNC
+PBLTD1468	ਰਾਜੇ\N_NN ਆਂਵਦੇ\V_VM_VF ਨੂੰ\PSP ਬੁਰੇ\RB ਹਾਲ\N_NN ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBLTD1469	ਰਾਜਾ\N_NN ਦੇਖ\V_VM ਹੈਰਾਨ\N_NN ਅਸਚਰਜ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1470	ਮਹਿਲੀਂ\N_NN ਜਗਿਆ\V_VM_VF ਨਾ\RP_NEG ਸ਼ਮ੍ਹਾਦਾਨ\JJ ਕੋਈ\DM_DMQ ।\RD_PUNC
+PBLTD1471	ਬੈਠ\V_VM ਪੁੱਛਦਾ,\V_VM_VF ‘ਰਾਣੀਏ\N_NN ਦੱਸ\V_VM ਮੈਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1472	ਵਕਤ\N_NN ਸੰਧਿਆ\N_NN ਦੇ\PSP ਚੜ੍ਹ\V_VM ਪਲੰਘ\N_NN ਸੋਈ\V_VM_VF ।’\RD_PUNC
+PBLTD1473	ਕਾਦਰਯਾਰ\N_NNP ਸਲਵਾਹਨ\N_NNP ਦੀ\PSP ਗੱਲ\N_NN ਸੁਣ\V_VM_VNG ਕੇ\V_VM_VNF |\RD_PUNC
+PBLTD1474	ਰਾਣੀ\N_NN ਉਠ\V_VM ਕੇ\V_VM_VNF ਧ੍ਰੋਹ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਰੋਈ\V_VM ।\RD_PUNC
+PBLTD1475	ਮੀਮ\N_NN ‘ਮੈਨੂੰ\PR_PRP ਕੀ\PR_PRQ ਪੁਛਨਾ\V_VM_VNG ਏਂ\RP_RPD ਰਾਜਿਆ\N_NN ਓਇ\RP_INTF ,\RD_PUNC
+PBLTD1476	ਮੇਰਾ\PR_PRP ਦੁੱਖ\N_NN ਕਲੇਜੜਾ\N_NN ਜਾਲਿਓ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1477	ਪੁੱਛ\V_VM ਜਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਆਪਣੇ\PR_PRF ਪੁੱਤ\N_NN ਕੋਲੋਂ\PSP ,\RD_PUNC
+PBLTD1478	ਜਿਹੜਾ\PR_PRL ਧੌਲਰੀਂ\N_NN ਘੱਤ\V_VM ਕੇ\V_VM_VNF ਪਾਲਿਓ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1479	ਉਹਨੂੰ\PR_PRP ਰੱਖ\V_VM ਤੇ\CC_CCD ਦੇਹ\PSP ਜਵਾਬ\N_NN ਸਾਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1480	ਸਾਡਾ\PR_PRP ਸ਼ੌਕ\N_NN ਜੇ\PR_PRL ਦਿਲੋਂ\N_NN ਉਠਾਇਓ\V_VM_VF ਈ\V_VAUX ।’\RD_PUNC
+PBLTD1481	ਕਾਦਰਯਾਰ\N_NNP ਇਹ\PR_PRP ਝੂਠ\N_NN ਪਹਾੜ\N_NN ਜੇਡਾ\JJ ,\RD_PUNC
+PBLTD1482	ਰਾਣੀ\N_NN ਰਾਜੇ\N_NN ਨੂੰ\PSP ਤੁਰੰਤ\RB ਸਖਾਲਿਓ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1483	ਨੂੰਨ\N_NN ‘ਨਾਉਂ\N_NN ਲੈ\V_VM ਖਾਂ\V_VM_VF ਉਸ\PR_PRP ਗੱਲ\N_NN ਦਾ\PSP ਤੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1484	ਜਿਹੜੀ\PR_PRL ਗੱਲ\N_NN ਪੂਰਨ\N_NNP ਤੈਨੂੰ\PR_PRP ਆਖ\V_VM ਗੈਆ\V_VM_VF ।\RD_PUNC
+PBLTD1485	ਜੇਹੜਾ\PR_PRL ਨਾਲ\PSP ਤੇਰੇ\PR_PRP ਮੰਦਾ\RB ਬੋਲਿਆ\V_VM ਸੂ\V_VAUX ,\RD_PUNC
+PBLTD1486	ਉਸ\PR_PRP ਨੂੰ\PSP ਦੇਵਾਂ\V_VM_VF ਫਾਹੇ\N_NN ਮੇਰਾ\PR_PRP ਪੁੱਤ\N_NN ਕੇਹਾ\RB ।\RD_PUNC
+PBLTD1487	ਅੱਜ\RB ਨਾਲ\PSP ਮਾਵਾਂ\N_NN ਕਰੇ\V_VM_VF ਸੁਖਨ\N_NN ਐਸੇ\RB ,\RD_PUNC
+PBLTD1488	ਭਲਕੇ\RB ਦੇਗ\N_NN ਖੱਟੀ\N_NN ਮੈਨੂੰ\PR_PRP ਖੱਟ\V_VM ਏਹਾ\RB ।’\RD_PUNC
+PBLTD1489	ਕਾਦਰਯਾਰ\N_NNP ਫਿਰ\RB ਹੋਈ\V_VM_VF ਬੇਦਾਦ\N_NN ਨਗਰੀ\N_NN ,\RD_PUNC
+PBLTD1490	ਅੰਨ੍ਹੇ\JJ ਰਾਜੇ\N_NN ਦੇ\PSP ਪੂਰਨ\N_NNP ਸੀ\V_VAUX ਵੱਸ\N_NN ਪੈਆ\V_VM_VF ।\RD_PUNC
+PBLTD1491	ਵਾਉ\N_NN ‘ਵੇਖ\V_VM ਰਾਜਾ\N_NN ਮੰਦਾ\RB ਹਾਲ\N_NN ਮੇਰਾ\PR_PRP ’\RD_PUNC
+PBLTD1492	ਰਾਣੀ\N_NN ਆਪ\PR_PRF ਦਿਲੋਂ\N_NN ਦਰਦ\N_NN ਦਸਿਆ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1493	‘ਪੁੱਤਰ\N_NN ਪੁੱਤਰ\N_NN ਮੈਂ\PR_PRP ਆਖਦੀ\V_VM_VF ਰਹੀ\V_VM_VF ਮੂੰਹੋਂ\N_NN ,\RD_PUNC
+PBLTD1494	ਪੂਰਨ\N_NNP ਭਰਤਿਆਂ\JJ ਵਾਂਗਰਾਂ\JJ ਹੱਸਿਆ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1495	ਵੀਣੀ\N_NN ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਦੱਸਦੀ\V_VM_VF ਵੇਖ\V_VM ਚੂੜਾ\N_NN ,\RD_PUNC
+PBLTD1496	ਭੰਨੀ\V_VM ਵੰਗ\N_NN ਤੇ\CC_CCD ਹੱਥ\N_NN ਵਲਸਿਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1497	ਕਾਦਰਯਾਰ\N_NNP ਮੈਂ\PR_PRP ਜਦੋਂ\PR_PRL ਪੁਕਾਰ\V_VM ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD1498	ਪੂਰਨ\N_NNP ਤਦੋ\PR_PRL ਮਹਿਲਾਂ\N_NN ਥੋਂ\PSP ਨੱਸਿਆ\V_VM ਈ’\V_VAUX ।\RD_PUNC
+PBLTD1499	ਹੇ\N_NN ਹੋਇ\V_VM_VF ਖੜਾ\V_VM ਦਲਗੀਰ\N_NN ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1500	ਰਤੋ\JJ ਰਤੇ\JJ ਅਖੀਂ\N_NN ਮਥੇ\N_NN ਵੱਟ\V_VM ਪਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1501	ਪੱਥਰ\JJ ਦਿਲ\N_NN ਹੋਇਆ\V_VM_VF ਸਕੇ\JJ ਪੁੱਤ\N_NN ਵਲੋਂ\PSP ,\RD_PUNC
+PBLTD1502	ਦਿਲੋਂ\N_NN ਗ਼ਜ਼ਬ\N_NN ਦੇ\PSP ਭਾਂਬੜ\N_NN ਮਚ\V_VM ਜਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1503	ਮੱਛੀ\N_NN ਵਾਂਗ\JJ ਤੜਫਦਾ\V_VM ਰਾਤ\N_NN ਰਹਿਆ\V_VM_VF ,\RD_PUNC
+PBLTD1504	ਕਦੀ\RB ਪਵੇ\V_VM ਲੰਮਾ\JJ ਕਦੀ\RB ਉਠ\V_VM ਬਹੇ\V_VM_VF ।\RD_PUNC
+PBLTD1505	ਕਾਦਰਯਾਰ\N_NNP ਮੰਦਾ\JJ ਦੁੱਖ\N_NN ਇਸਤਰੀ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD1506	ਪੂਰਨ\N_NNP ਜੀਂਵਦਾ\V_VM_VF ਕਿਤ\PR_PRQ ਸਬੱਬ\N_NN ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBLTD1507	ਲਾਮ\N_NN ਲੂਤੀਆਂ\N_NN ਰਹਿਣ\V_VM_VINF ਨਾ\RP_NEG ਦਿੰਦੀਆਂ\V_VM_VF ਨੇ\PSP ,\RD_PUNC
+PBLTD1508	ਲਾਫ਼ਾ\N_NN ਨਾਲਸ਼ਾਂ\N_NN ਸ਼ਹਿਰ\N_NN ਵੈਰਾਨ\RB ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1509	ਮੁੱਢੋਂ\RB ਗੱਲਾਂ\N_NN ਇਹ\PR_PRP ਹੁੰਦੀਆਂ\V_VM_VF ਆਈਆਂ\V_VM_VF ਨੀਂ\V_VAUX ,\RD_PUNC
+PBLTD1510	ਅੱਗੇ\RB ਕਈਆਂ\DM_DMQ ਦਾ\PSP ਲਿਖ\V_VM ਬਿਆਨ\V_VM ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1511	ਪੂਰਨ\N_NNP ਨਾਲ\PSP ਅਵਲੀ\RB ਕੀ\PR_PRQ ਹੋਣ\V_VM_VINF ਲੱਗੀ\V_VM_VF ,\RD_PUNC
+PBLTD1512	ਜਿਸ\PR_PRL ਦੀ\PSP ਮਾਉਂ\N_NN ਐਸਾ\RB ਫਰਮਾਨ\V_VM ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1513	ਕਾਦਰਯਾਰ\N_NNP ਚੜ੍ਹਿਆ\V_VM_VF ਦਿਨ\N_NN ਸੁਖ\RB ਦਾ\PSP ਜੀ\RP_INTF ,\RD_PUNC
+PBLTD1514	ਰਾਜੇ\N_NN ਬੈਠ\V_VM ਚੌਂਕੀ\N_NN ਇਸ਼ਨਾਨ\V_VM ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1515	ਅਲਫ਼\N_NN ਆਖਦਾ\V_VM_VF ਸੱਦ\V_VM ਕੇ\V_VM_VNF ਚੋਬਦਾਰਾਂ\N_NN ,\RD_PUNC
+PBLTD1516	‘ਜ਼ਰਾ\RB ਸੱਦ\V_VM ਕੇ\V_VM_VNF ਪੂਰਨ\N_NNP ਲਿਆਵਨਾ\V_VM_VINF ਜੇ\PR_PRL ।\RD_PUNC
+PBLTD1517	ਝਬ\N_NN ਜਾਓ\V_VM_VF ਸ਼ਿਤਾਬ\N_NN ਨਾ\RP_NEG ਢਿਲ\RB ਲਾਵੋ\V_VM_VF ,\RD_PUNC
+PBLTD1518	ਨਾਲ\PSP ਸੱਦ\V_VM ਵਜ਼ੀਰ\N_NN ਲਿਆਵਨਾ\V_VM_VINF ਜੇ\PR_PRL ।\RD_PUNC
+PBLTD1519	ਕੱਢੇ\V_VM ਗਾਲੀਆਂ\N_NN ਦੁਹਾਂ\QT_QTO ਨੂੰ\PSP ਕਹੋ\V_VM ਹਾਜ਼ਰ\N_NN ,\RD_PUNC
+PBLTD1520	ਝਬਦੇ\V_VM ਜਾਓ\V_VM_VF ਨ\RP_NEG ਛੱਡ\V_VM ਕੌ\V_VM_VNF ਆਵਨਾ\V_VM_VINF ਜੇ\DM_DMR ।\RD_PUNC
+PBLTD1521	ਕਾਦਰਯਾਰ\N_NNP ਜੇ\PR_PRL ਪੁਛਸੀ\V_VM_VF ਕੰਮ\N_NN ਅੱਗੋਂ\RB ,\RD_PUNC
+PBLTD1522	ਰਾਜੇ\N_NN ਸਦਿਆ\V_VM ਜਾਇ\V_VM_VF ਫੁਰਮਾਵਨਾ\V_VM_VINF ਜੇ’\V_VAUX ।\RD_PUNC
+PBLTD1523	ਯੇ\N_NN ਯਾਦ\N_NN ਕੀਤਾ\V_VM_VF ਰਾਜੇ\N_NN ਬਾਪ\N_NN ਤੈਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1524	ਹੱਥ\N_NN ਬੰਨ੍ਹ\V_VM ਕੇ\V_VM_VNF ਆਖਿਆ\V_VM_VF ਚੋਬਦਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD1525	ਸੁਣੀ\V_VM_VINF ਗੱਲ\N_NN ਤੇ\CC_CCD ਦਿਲ\N_NN ਨੂੰ\PSP ਸੁਝ\V_VM ਗਈਅਸੁ\V_VM_VF ,\RD_PUNC
+PBLTD1526	ਜਿਹੜੀ\PR_PRL ਗਾਂਵਦੀ\V_VM_VF ਸੀ\V_VAUX ਕਲ\RB ਮਾਉਂ\N_NN ਵਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD1527	ਜਿਸ\PR_PRL ਕੰਮ\N_NN ਨੂੰ\PSP ਰਾਜੇ\N_NN ਨੇ\PSP ਯਾਦ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD1528	ਰਾਗ\N_NN ਵਜਿਆ\V_VM ਤੇ\CC_CCD ਬੁੱਝ\V_VM ਗਈਆਂ\V_VM_VF ਤਾਰਾਂ’\N_NN ।\RD_PUNC
+PBLTD1529	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NN ਤੁਰ\V_VM ਪਿਆ\V_VM_VF ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1530	ਆਣ\V_VM_VINF ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ਬਾਪ\N_NN ਨਮਸਕਾਰਾਂ\N_NN ।\RD_PUNC
+PBLTD1531	ਅਲਫ਼\N_NN ਆ\V_VM ਖਾਂ\V_VM_VNF ਪੂਰਨਾ\N_NNP ਕਹੇ\V_VM_VF ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1532	‘ਬੱਚਾ\N_NN ਨਿਜ\RB ਤੂੰ\PR_PRP ਜੰਮਿਉਂ\N_NN ਜਾਇਉਂ\N_NN ਓਏ\RP_INTF ।\RD_PUNC
+PBLTD1533	ਜੇ\PR_PRL ਮੈਂ\PR_PRP ਜਾਣਦਾ\V_VM_VF ਮਾਰਦਾ\V_VM_VF ਤਦੋਂ\RB ਤੈਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1534	ਜਦੋਂ\PR_PRL ਭੋਹਰੇ\N_NN ਪਾਲਣਾ\V_VM_VINF ਪਾਇਉਂ\V_VM_VF ਓਏ\RP_INJ ।\RD_PUNC
+PBLTD1535	ਸੀਨੇ\N_NN ਲਾਇਓ\V_VM_VF ਈ\RP_RPD ਪੂਰਨਾ\N_NNP ਦਾਗ\N_NN ਮੇਰੇ\PR_PRP ,\RD_PUNC
+PBLTD1536	ਕਹੇ\RB ਵਾਰ\N_NN ਕੁਲੱਛਣੇ\JJ ਜਾਇਉਂ\V_VM_VF ਓਏ\RP_INJ ।\RD_PUNC
+PBLTD1537	ਕਾਦਰਯਾਰ\N_NNP ਕਹਿੰਦਾ\V_VM_VF ਸਲਵਾਹਨ\N_NNP ਰਾਜਾ\N_NN ;\RD_PUNC
+PBLTD1538	ਘਰਿ\N_NN ਕੀ\PR_PRQ ਕਰਤੂਤਿ\N_NN ਕਰ\V_VM ਆਇਉਂ\V_VM_VF ਓਏ’\RP_INJ ।\RD_PUNC
+PBLTD1539	ਬੇ\N_NN ਬਹੁਤ\DM_DMQ ਹੋਇਆ\V_VM_VF ਕਹਿਰਵਾਨ\JJ ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1540	ਰੱਤੋ\JJ ਰੱਤ\JJ ਮੱਥਾ\N_NN ਚਮਕੇ\JJ ਵਾਂਗ\JJ ਖੂਨੀ\N_NN ।\RD_PUNC
+PBLTD1541	ਕਹਿੰਦਾ,\V_VM_VF ‘ਦੂਰ\RB ਹੋ\V_VM_VNF ਪੂਰਨਾ\N_NNP ਅੱਖੀਆਂ\N_NN ਥੀਂ\PSP ,\RD_PUNC
+PBLTD1542	ਲਿੰਗ\N_NN ਚੀਰ\V_VM ਟੰਗਾਊਂਗਾ\V_VM ਚੌਹੁੰ\JJ ਕੋਨੀਂ\N_NN ।\RD_PUNC
+PBLTD1543	ਜਦੋਂ\PR_PRL ਮੈਂ\PR_PRP ਵਿਆਹ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD1544	ਤਦੋਂ\RB ਰੋਣ\N_NN ਲੱਗੋਂ\V_VM_VF ਧਰ\V_VM ਹੱਥ\N_NN ਕੰਨੀ\N_NN ।’\RD_PUNC
+PBLTD1545	ਕਾਦਰਯਾਰ\N_NNP ਕਹਿੰਦਾ\V_VM_VF ਸਲਵਾਹਨ\N_NNP ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1546	‘ਹੁਣ\RB ਕੀਤੀ\V_VM_VF ਆ\V_VM_VNF ਮਾਓ\N_NN ਪਸੰਦ\N_NN ਵੰਨੀ’\N_NN ।\RD_PUNC
+PBLTD1547	ਤੇ\N_NN ਤੁਹਮਤ\N_NN ਅਜ਼ਗੈਬ\N_NN ਦੀ\PSP ਬੁਰੀ\RB ਹੁੰਦੀ\V_VM_VF ,\RD_PUNC
+PBLTD1548	ਪੂਰਨ\N_NNP ਘਤ\V_VM ਊਂਧੀ\V_VM_VF ਰੁੰਨਾ\N_NN ਜਾਰ\RB ਜ਼ਾਰੀ\RB ।\RD_PUNC
+PBLTD1549	ਕਹਿੰਦਾ,\V_VM_VF ‘ਵਸ\N_NN ਨਾ\RP_NEG ਬਾਬਲਾ\N_NN ਕੁੱਝ\DM_DMQ ਮੇਰੇ\PR_PRP ,\RD_PUNC
+PBLTD1550	ਤੁਹਾਡੀ\PR_PRP ਮਾਪਿਆਂ\N_NN ਦੀ\PSP ਗਈ\V_VM_VF ਮਤ\N_NN ਮਾਰੀ\V_VM_VF ।\RD_PUNC
+PBLTD1551	ਹੋਰ\DM_DMQ ਕਿਸੇ\DM_DMQ ਦਾ\PSP ਕੁੱਝ\DM_DMQ ਨਾ\RP_NEG ਜਾਵਣਾ\V_VM_VINF ਈ\V_VAUX ,\RD_PUNC
+PBLTD1552	ਮੈਨੂੰ\PR_PRP ਮਾਰ\V_VM ਰਾਜਾ\N_NN ਤੇਰੀ\PR_PRP ਬੁੱਧ\N_NN ਮਾਰੀ\V_VM ।\RD_PUNC
+PBLTD1553	ਕਾਦਰਯਾਰ\N_NNP ਜੇ\PR_PRL ਕੋਲ\RB ਉਗਾਹ\N_NN ਹੁੰਦੇ\V_VM_VF ,\RD_PUNC
+PBLTD1554	ਕਹਿੰਦੇ\V_VM_VF ਖੋਲ੍ਹ\V_VM ਹਕੀਕਤ\N_NN ਤੁਰਤ\RB ਸਾਰੀ’\DM_DMQ ।\RD_PUNC
+PBLTD1555	ਸੇ,\N_NN ‘ਸਾਬਤੀ’\N_NN ਮੇਰੀ\PR_PRP ਤੂੰ\PR_PRP ਵੇਖ\V_VM ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1556	ਇਕ\QT_QTC ਤੇਲ\N_NN ਦਾ\PSP ਪੂਰਾ\RB ਕੜਾਹ\N_NN ਤਾਵੋ\V_VM_VF ।\RD_PUNC
+PBLTD1557	ਤਪ\N_NN ਤੇਲ\N_NN ਜਾਂ\CC_CCD ਅੱਗ\N_NN ਦੇ\PSP ਵਾਂਗ\JJ ਹੋਵੇ\V_VM_VF ,\RD_PUNC
+PBLTD1558	ਇਕ\QT_QTC ਹੱਥ\N_NN ਮੇਰਾ\PR_PRP ਉਹਦੇ\PR_PRP ਵਿੱਚ\PSP ਪਾਵੋ\V_VM_VF ।\RD_PUNC
+PBLTD1559	ਸੱਚ\N_NN ਨਿਤਰੇ\N_NN ਸਚਿਆਂ\JJ ਝੂਠਿਆਂ\JJ ਦਾ\PSP ,\RD_PUNC
+PBLTD1560	ਅਖੀਂ\PR_PRP ਵੇਖ\V_VM ਕੇ\V_VM_VNF ਕੁੱਝ\DM_DMQ ਕਲੰਕ\N_NN ਲਾਵੋ\V_VM_VF ।\RD_PUNC
+PBLTD1561	ਕਾਦਰਯਾਰ\N_NNP ਜੇ\PR_PRL ਉੰਗਲੀ\N_NN ਦਾਗ਼\N_NN ਲੱਗੇ\V_VM_VF ,\RD_PUNC
+PBLTD1562	ਕਰੋ\V_VM ਫੇਰ\RB ਮੈਨੂੰ\PR_PRP ਜਿਹੜੀ\PR_PRL ਤਿਬਹ\N_NN ਚਾਹਵੋ’\V_VM_VF ।\RD_PUNC
+PBLTD1563	ਜੀਮ\N_NN ਜੋਸ਼\N_NN ਆਇਆ\V_VM_VF ਸਲਵਾਹਨ\N_NNP ਰਾਜੇ\N_NN ,\RD_PUNC
+PBLTD1564	ਅੱਗੋਂ\RB ਉਠ\V_VM ਕੇ\V_VM_VNF ਇੱਕ\QT_QTC ਚਪੇੜ\N_NN ਮਾਰੀ\V_VM_VF ।\RD_PUNC
+PBLTD1565	ਕਹਿੰਦਾ,\V_VM_VF ‘ਫੇਰ\RB ਬਰੋਬਰੀ\RB ਬੋਲਣਾ\V_VM_VINF ਹੈਂ\V_VAUX ,\RD_PUNC
+PBLTD1566	ਕਰੇਂ\V_VM_VF ਗ਼ਜ਼ਬ\N_NN ਹਰਾਮੀਆਂ\JJ ਐਡ\N_NN ਕਾਰੀ\V_VM_VF ।\RD_PUNC
+PBLTD1567	ਅੱਖੀਂ\N_NN ਦੇਖ\V_VM ਨਿਸ਼ਾਨੀਆਂ\N_NN ਆਇਆ\V_VM_VF ਮੈਂ\PR_PRP ,\RD_PUNC
+PBLTD1568	ਤੇਰੇ\PR_PRP ਦਿਲ\N_NN ਦੀ\PSP ਪੂਰਨਾ\N_NNP ਗੱਲ\N_NN ਸਾਰੀ\RB ’\RD_PUNC
+PBLTD1569	ਕਾਦਰਯਾਰ\N_NNP ਗੁਨਾਹ\N_NN ਨਾ\RP_NEG ਦੋਸ਼\N_NN ਕੋਈ\DM_DMQ ,\RD_PUNC
+PBLTD1570	ਪੂਰਨ\N_NNP ਘੱਤ\V_VM ਰੋਂਦਾ\V_VM_VF ਊਂਧੀ\N_NN ਜ਼ਾਰ\RB ਜ਼ਾਰੀ\RB ।\RD_PUNC
+PBLTD1571	ਹੇ\N_NN ਹੁਕਮ\N_NN ਨਾ\RP_NEG ਫੇਰਦਾ\V_VM_VF ਕੋਈ\DM_DMQ ਅੱਗੋਂ\RB ,\RD_PUNC
+PBLTD1572	ਪਰੇਸ਼ਾਨ\N_NN ਸਾਰਾ\RB ਪਰਿਵਾਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1573	ਥਰ-ਥਰ\RB ਕੰਬਦੇ\V_VM_VF ਮਹਲ\N_NN ਤੇ\CC_CCD ਮਾੜੀਆਂ\N_NN ਨੇ\PSP ,\RD_PUNC
+PBLTD1574	ਕਹਿਰਵਾਨ\N_NN ਜਦੋਂ\PR_PRL ਸਰਦਾਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1575	ਕਰੇ\V_VM_VF ਸੱਦ\V_VM ਕੇ\V_VM_VNF ਹੁਕਮ\N_NN ਜੱਲਾਦੀਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1576	ਧੁੰਮੀ\V_VM ਖਬਰ\N_NN ਨਗਰੀ\N_NN ਹਾ\N_NN ਹਾ\N_NN ਕਾਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1577	ਕਾਦਰਯਾਰ\N_NNP ਵਜ਼ੀਰ\N_NN ਨੂੰ\PSP ਦੇਇ\V_VM_VF ਗਾਲ੍ਹੀਂ\N_NN ,\RD_PUNC
+PBLTD1578	‘ਤੇਰੀ\PR_PRP ਅਕਲ\N_NN ਕਿਹੜੇ\PR_PRQ ਦਰਕਾਰ\N_NN ਹੋਇਆ’\V_VM_VF ।\RD_PUNC
+PBLTD1579	ਖੇ,\N_NN ਖ਼ਬਰ\N_NN ਹੋਈ\V_VM_VF ਰਾਣੀ\N_NN ਇੱਛਰਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1580	ਜਿਸ\PR_PRL ਜਾਇਆ\V_VM ਪੂਰਨ\N_NNP ਪੁੱਤ\N_NN ਸਾਈ\V_VAUX ।\RD_PUNC
+PBLTD1581	ਚੂੜਾ\N_NN ਭੰਨ\V_VM ਤੇ\CC_CCD ਤੋੜ\V_VM ਹਮੇਲ\N_NN ਬੀੜੇ\N_NN ,\RD_PUNC
+PBLTD1582	ਵਾਲ\N_NN ਪੁਟ\V_VM ਰਾਣੀ\N_NN ਸਿਰ\N_NN ਖ਼ਾਕ\N_NN ਪਾਈ\V_VM_VF ।\RD_PUNC
+PBLTD1583	ਮੰਦਾ\JJ ਘਾਓ\N_NN ਪਿਆਰਿਆਂ\JJ ਪੁੱਤਰਾਂ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD1584	ਰਾਣੀ\N_NN ਭੱਜ\V_VM ਕੇ\V_VM_VNF ਰਾਜੇ\N_NN ਦੇ\PSP ਪਾਸ\RB ਆਈ\V_VM_VF ।\RD_PUNC
+PBLTD1585	ਕਾਦਰਯਾਰ\N_NNP ਖੜੋਇ\V_VM ਪੁਕਾਰ\N_NN ਕਰਦੀ\V_VM_VF ,\RD_PUNC
+PBLTD1586	‘ਇਹਦੇ\PR_PRP ਨਾਲ\PSP ਕੀ\PR_PRQ ਰਾਜਿਆ\N_NN ਵੈਰ\N_NN ਸਾਈ’\V_VAUX ।\RD_PUNC
+PBLTD1587	ਦਾਲ,\N_NN ‘ਦੂਰ\RB ਹੋ\V_VM ਰਾਣੀਏ’,\N_NN ਕਹੇ\V_VM ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1588	ਇਹਦੇ\PR_PRP ਨਾਲ\PSP ਗਵਾਊਂਗਾ\V_VM_VF ਮਾਰ\V_VM ਤੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1589	ਕਹੇ\V_VM ਵਾਰ\PSP ਬਦਕਾਰ\JJ ਨੂੰ\PSP ਜੰਮਿਆ\V_VM ਈ\V_VAUX ,\RD_PUNC
+PBLTD1590	ਜਿਸ\PR_PRL ਜੰਮਦਿਆਂ\V_VM ਲਾਇਆ\V_VM_VF ਈ\RP_RPD ਦਾਗ਼\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1591	ਜਿਨ੍ਹਾਂ\PR_PRL ਵਿੱਚ\PSP ਨਾ\RP_NEG ਸ਼ਰਮ\N_NN ਹਿਯਾ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC
+PBLTD1592	ਐਸੇ\RB ਪੁੱਤਰ\N_NN ਨੂੰ\PSP ਜੰਮਦੇ\V_VM ਨਿਜ\N_NN ਕੈਨੂੰ\PR_PRQ ।’\RD_PUNC
+PBLTD1593	‘ਕਿਉਂ\PR_PRQ ਦਿਸਦੇ\V_VM_VF ਮਕਰ\N_NN ਫਰੇਬ\N_NN ਮੈਨੂੰ’\PR_PRP ।\RD_PUNC
+PBLTD1594	ਜ਼ਾਲ,\N_NN ‘ਜ਼ਰਾ\N_NN ਨਾ\RP_NEG ਰਾਜਿਆਂ\N_NN ਗੱਲ\N_NN ਸਚੀ\JJ ,\RD_PUNC
+PBLTD1595	ਜਿਸ\PR_PRL ਗੱਲ\N_NN ਦਾ\PSP ਭਰਮ\N_NN ਵਿਚਾਰਿਆ\V_VM ਈ\V_VAUX ।’\RD_PUNC
+PBLTD1596	ਕਹਿੰਦੀ\V_VM_VF ਇੱਛਰਾਂ\N_NNP ਰਾਜਿਆਂ\N_NN ਹੋਸ਼\N_NN ਕੀਚੇ\V_VM_VF ,\RD_PUNC
+PBLTD1597	ਕੂੜੀ\N_NN ਤੁਹਮਤੋ\N_NN ਪੂਤਰ\N_NN ਨੂੰ\PSP ਮਾਰਿਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1598	ਆਖੇ\V_VM ਲੱਗ\V_VM_VF ਰੰਨਾਂ\N_NN ਪੁਟਿਆਰੀਆਂ\JJ ਦੇ\PSP ,\RD_PUNC
+PBLTD1599	ਕਰਮ\N_NN ਆਪਣੇ\PR_PRF ਮਥਿਉਂ\N_NN ਹਾਰਿਆ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1600	ਕਾਦਰਯਾਰ\N_NNP ਰਾਜੇ\N_NN ਸਲਵਾਹਨ\N_NNP ਅੱਗੇ\RB ,\RD_PUNC
+PBLTD1601	ਰਾਣੀ\N_NNP ਇੱਛਰਾਂ\N_NNP ਇੰਜ\RB ਪੁਕਾਰਿਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1602	ਰੇ\N_NN ਰਹੇ\V_VM_VF ਨਾ\RP_NEG ਵਰਜਿਆ\N_NN ਮੂਲ\RB ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1603	ਉਸੀ\PR_PRP ਵਕਤ\N_NN ਜੱਲਾਦ\N_NN ਸੱਦਾਂਵਦਾ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1604	ਲਗੇ\V_VM ਰੋਣ\N_NN ਦੀਵਾਨ\N_NN ਵਜ਼ੀਰ\N_NN ਸਾਰੇ\DM_DMQ ,\RD_PUNC
+PBLTD1605	ਦਿਲ\N_NN ਰਾਜੇ\N_NN ਦੇ\PSP ਤਰਸ\N_NN ਨਾ\RP_NEG ਆਂਵਦਾ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1606	‘ਇਹਦੇ\PR_PRP ਹੱਥ\N_NN ਤੇ\CC_CCD ਪੈਰ\N_NN ਆਜ਼ਾਦ\N_NN ਕਰੋ\V_VM_VF ।’,\RD_PUNC
+PBLTD1607	ਰਾਜਾ\N_NN ਮੁਖ\N_NN ਥੀਂ\PSP ਇਹ\PR_PRP ਫਰਮਾਂਵਦਾ\V_VM ਈ\V_VAUX |\RD_PUNC
+PBLTD1608	ਕਾਦਰਯਾਰ\N_NNP ਖਲੋਇ\V_VM ਕੇ\V_VM_VNF ਮਾਊਂ\N_NN ਤਾਈਂ\PSP ,\RD_PUNC
+PBLTD1609	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਸਲਾਮ\N_NN ਬੁਲਾਂਵਦਾ\V_VM_VF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1610	ਜ਼ੇ,\N_NN ‘ਜ਼ੋਰ\N_NN ਨਾ\RP_NEG ਡਾਢੇ\JJ ਦੇ\PSP ਨਾਲ\PSP ਕੋਈ\DM_DMQ ।\RD_PUNC
+PBLTD1611	ਪਕੜ\N_NN ਬੇਗੁਨਾਹ\JJ ਮੰਗਾਇਆ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1612	ਕੈਹਨੂੰ\PR_PRQ ਖੋਲ੍ਹ\V_VM ਕੇ\V_VM_VNF ਦਿਲ\N_NN ਦਾ\PSP ਹਾਲ\N_NN ਦੱਸਾਂ\V_VM_VF ,\RD_PUNC
+PBLTD1613	ਜਿਹੜਾ\PR_PRL ਕਹਿਰ\N_NN ਗੁਨਾਹ\N_NN ਕਰਾਇਆ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1614	ਮੈਂ\PR_PRP ਤਾਂ\N_NN ਝੂਰਨਾ\V_VM_VINF ਆਪਣੇ\PR_PRF ਤਾਲਿਆ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1615	ਇਹੋ\PR_PRP ਕਰਮ\N_NN ਨਸੀਬ\N_NN ਲਿਖਾਇਆ\V_VM ਮੈਂ\PR_PRP ।’\RD_PUNC
+PBLTD1616	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NNP ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਆਖੇ\V_VM ,\RD_PUNC
+PBLTD1617	‘ਮਾਂ\N_NN ਮਾਤਰੀ\N_NN ਚੋਰ\N_NN ਬਣਾਇਆ\V_VM ਮੈਂ\PR_PRP ’।\RD_PUNC
+PBLTD1618	‘ਸੀਨ\N_NN ਸਮਝ\V_VM ਰਾਜਾ\N_NN ਬੁਧਿ\N_NN ਹਾਰ\N_NN ਨਾਹੀਂ\RP_NEG ’\RD_PUNC
+PBLTD1619	ਕਹਿੰਦੀ\V_VM_VF ਇੱਛਰਾਂ\N_NNP ਵਾਸਤਾ\N_NN ਪਾਇਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1620	‘ਅੰਬ\N_NN ਵੱਢ\V_VM ਕੇ\V_VM_VNF ਅੱਕ\N_NN ਨੂੰ\PSP ਵਾੜ\V_VM ਦੇਵੀਂ\V_VM_VF ,\RD_PUNC
+PBLTD1621	ਪਛੋਤਾਵੇਂਗਾ\N_NN ਵਕਤ\N_NN ਵਿਹਾਏ\RB ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1622	ਬੂਟਾ\N_NN ਆਪਣਾ\PR_PRF ਆਪ\PR_PRF ਪੁਟਾਣ\V_VM_VINF ਲੱਗੋਂ\V_VM_VF ,\RD_PUNC
+PBLTD1623	ਜੜ੍ਹਾਂ\N_NN ਮੁੱਢ\RB ਤਾਈਂ\N_NN ਉਖੜਾਏ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1624	ਕਾਦਰਯਾਰ\N_NNP ਜੇ\PR_PRL ਪੂਰਨ\N_NNP ਨੂੰ\PSP ਮਾਰਿਓ\V_VM_VF ਈ\V_VAUX ,\RD_PUNC
+PBLTD1625	ਬਾਪ\N_NN ਕੌਣ\PR_PRQ ਬੁਲਾਊਗਾ\V_VM ਆਏ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ’\RP_INJ ।\RD_PUNC
+PBLTD1626	ਸੀਨ\N_NN ਸ਼ਕਲ\N_NN ਨਾ\RP_NEG ਰਾਜੇ\N_NN ਦੀ\PSP ਨਰਮ\JJ ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD1627	ਕਹਿਰਵਾਨ\RB ਹੋ\V_VM ਕੇ\V_VM_VNF ਕਹਿੰਦਾ\V_VM_VF ਨਾਲ\PSP ਗੁੱਸੇ\N_NN |\RD_PUNC
+PBLTD1628	‘ਬਾਹਰ\RB ਜਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਚੀਰੋ\V_VM ਹਲਾਲ-ਖੋਰੋ’\JJ ,\RD_PUNC
+PBLTD1629	ਛੰਨੇ\N_NN ਰੁੱਤ\N_NN ਪਾਵੋ\V_VM_VF ਜਿਹੜੀ\PR_PRL ਵਿੱਚ\PSP ਜੁਸੇ\N_NN ।\RD_PUNC
+PBLTD1630	ਇਹਦੇ\PR_PRP ਹੱਥ\N_NN ਸਹਿਕਾਏ\RB ਕੇ\V_VM_VNF ਵਢਿਓ\V_VM ਜੇ\V_VAUX ,\RD_PUNC
+PBLTD1631	ਵਾਂਗ\JJ ਬੱਕਰੇ\N_NN ਦੇ\PSP ਇਹਦੀ\PR_PRP ਜਾਨ\N_NN ਕੁੱਸੇ\V_VM ।’\RD_PUNC
+PBLTD1632	ਕਾਦਰਯਾਰ\N_NNP ਜਾ\V_VM_VNF ਰਾਜੇ\N_NN ਦਾ\PSP ਹੁਕਮ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1633	ਪਕੜ\V_VM ਲਿਆ\V_VM_VF ਜੱਲਾਦਾਂ\N_NN ਨੇ\PSP ਵਕਤ\N_NN ਉਸੇ\DM_DMD ।\RD_PUNC
+PBLTD1634	ਸਇਅਦ\N_NN ਸਾਹਿਬ\N_NN ਤੋਂ\PSP ਲਿਖਿਆ\V_VM ਲੇਖ\N_NN ਏਵੇਂ\RB ,\RD_PUNC
+PBLTD1635	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਨੂੰ\PSP ਲੈ\V_VM ਜੱਲਾਦ\N_NN ਚੱਲੇ\V_VM_VF ।\RD_PUNC
+PBLTD1636	ਗਲੀ\N_NN ਕੂਚਿਆਂ\N_NN ਸ਼ਹਿਰ\N_NN ਹੜਤਾਲ\N_NN ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD1637	ਪਾਸ\RB ਰੋਣ\N_NN ਵਜ਼ੀਰ\N_NN ਦੀਵਾਨ\N_NN ਖਲੇ\V_VM ।\RD_PUNC
+PBLTD1638	ਤਦੋਂ\RB ਗਸ਼\N_NN ਆਈ\V_VM_VF ਰਾਣੀ\N_NNP ਇੱਛਰਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1639	ਜਾਨ\N_NN ਨਿਕਲ\V_VM ਨਾ\RP_NEG ਜਾਂਦੀ\V_VM_VF ਏ\V_VAUX ਕਿਸੇ\DM_DMQ ਗੱਲੇ\N_NN ।\RD_PUNC
+PBLTD1640	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NNP ਮਾਵਾਂ\N_NN ਪੁੱਤਰਾਂ\N_NN ਨੇ\PSP ,\RD_PUNC
+PBLTD1641	ਲੂਆ\N_NN ਮਾਰਿਆ\V_VM ਕੁਫਰ\N_NN ਦੇ\PSP ਝਾੜ\V_VM ਪੱਲੇ\N_NN ।\RD_PUNC
+PBLTD1642	ਜ਼ੁਆਦ,\N_NN ‘ਜ਼ਾਮਨੀ\N_NN ਦੇ\PSP ਛੁਡਾਵਣੀ\V_VM_VINF ਹਾਂ\V_VAUX ’\RD_PUNC
+PBLTD1643	ਲੂਣਾਂ\N_NNP ਲਿਖ\V_VM ਕੇ\V_VM_VNF ਭੇਜਿਆ\V_VM_VF ਖ਼ਤ\N_NN ਚੋਰੀ\N_NN ।\RD_PUNC
+PBLTD1644	‘ਪੁੱਤਰ\N_NN ਬਣਨ\V_VM_VF ਲੱਗੋਂ\V_VM_VF ਮੇਰਾ\PR_PRP ਪੂਰਨਾ\N_NNP ਵੇ\RP_INJ ,\RD_PUNC
+PBLTD1645	ਦੇਖ\V_VM ਕਹੀ\V_VM_VF ਮੈਂ\PR_PRP ਦਿੱਤੀ\V_VM_VF ਆ\V_VAUX ਮਾਉਂ\N_NN ਲੋਰੀ\N_NN ।\RD_PUNC
+PBLTD1646	ਆਖੇ\N_NN ਲਗ\V_VM_VF ਮੇਰੇ\PR_PRP ਅਜੇ\RB ਹਈ\V_VAUX ਵੇਲਾ\N_NN ,\RD_PUNC
+PBLTD1647	ਇਸੀ\PR_PRP ਵਕਤ\N_NN ਛੁਡਾਵਸਾਂ\V_VM_VF ਨਾਲ\PSP ਜੋਰੀ\RB ।’\RD_PUNC
+PBLTD1648	ਕਾਦਰਯਾਰ\N_NNP ਕਿਉਂ\PR_PRQ ਜਾਨ\N_NN ਗੁਆਵਨਾ\V_VM_VINF ਹੈਂ\V_VAUX ,\RD_PUNC
+PBLTD1649	ਲਾਇ\V_VM ਦੇਨੀਆਂ\V_VM_VF ਤੁਹਮਤਾਂ\N_NN ਵੱਲ\PSP ਹੋਰੀ\DM_DMQ ।\RD_PUNC
+PBLTD1650	‘ਤੋਇ\N_NN ਤਰਫ਼\N_NN ਖ਼ੁਦਾਇ\N_NN ਦੇ\PSP ਜਿੰਦ\N_NN ਦੇਣੀ’\V_VM_VINF ,\RD_PUNC
+PBLTD1651	ਪੂਰਨ\N_NNP ਆਖਦਾ,\V_VM_VF ਵੱਤ\N_NN ਨਾ\RP_NEG ਆਵਣਾ\V_VM_VINF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1652	ਭਾਵੇਂ\CC_CCD ਜੀਵੀਏ\V_VM ਲੱਖ\QT_QTC ਹਜ਼ਾਰ\QT_QTC ਬਰਸਾਂ\N_NN ,\RD_PUNC
+PBLTD1653	ਅੰਤ\RB ਫੇਰ\RB ਮਾਇ\N_NN ਮਰ\V_VM ਜਾਵਣਾ\V_VM_VINF ਈ\V_VAUX ।’\RD_PUNC
+PBLTD1654	ਖਤ\N_NN ਵਾਚ\V_VM ਕੇ\V_VM_VNF ਪੂਰਨ\N_NNP ਨੇ\PSP ਥੁੱਕ\N_NN ਸੁੱਟੀ\V_VM ,\RD_PUNC
+PBLTD1655	ਕਿਹੜੀ\PR_PRQ ਗੱਲ\N_NN ਤੋਂ\PSP ਧਰਮ\N_NN ਗਵਾਵਨਾ\V_VM_VINF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1656	ਕਾਦਰਯਾਰ\N_NNP ਅਣਹੁੰਦੀਆਂ\N_NN ਕਰਨ\V_VM_VF ਜਿਹੜੇ\PR_PRL ,\RD_PUNC
+PBLTD1657	ਆਖਰ\RB ਫੇਰ\RB ਉਨ੍ਹਾਂ\PR_PRP ਪਛੋਤਾਵਨਾ\V_VM_VINF ਈ\V_VAUX ।\RD_PUNC
+PBLTD1658	‘ਜ਼ੁਇ\N_NN ਜ਼ੁਲਮ\N_NN ਕੀਤਾ\V_VM_VF ਮਾਇ\N_NN ਮਾਤਰੇ\N_NN ਨੀ\RP_INJ ’\RD_PUNC
+PBLTD1659	ਪੂਰਨ\N_NNP ਆਖਦਾ,\V_VM_VF ‘ਪੂਰੀ\RB ਨਾ\RP_NEG ਪਵੇ\V_VM_VF ਤੇਰੀ\PR_PRP ।\RD_PUNC
+PBLTD1660	ਮੰਦਾ\RB ਘਾਤ\N_NN ਕਮਾਇਆ\V_VM ਈ\RP_RPD ਨਾਲ\PSP ਮੇਰੇ\PR_PRP |\RD_PUNC
+PBLTD1661	ਧਰਮ\N_NN ਹਾਰ\V_VM ਕੇ\V_VM_VNF ਤੁਧ\N_NN ਦਲੀਲ\N_NN ਫੇਰੀ\V_VM_VF |\RD_PUNC
+PBLTD1662	ਜਿਹੜੀ\PR_PRL ਬਣੀ\V_VM_VINF ਮੈਨੂੰ\PR_PRP ਹੁਣ\RB ਝਲਸਾਂ\V_VM ਮੈਂ\PR_PRP ,\RD_PUNC
+PBLTD1663	ਮਰ\V_VM ਜਾਇਗੀ\V_VM_VF ਰੋਂਦੜੀ\V_VM_VF ਮਾਇ\N_NN ਮੇਰੀ\PR_PRP ,\RD_PUNC
+PBLTD1664	ਕਾਦਰਯਾਰ\N_NNP ਜੱਲਾਦਾਂ\N_NN ਨੂੰ\PSP ਕਹੇ\V_VM ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1665	ਮਿਲ\V_VM ਲੈਣ\V_VM_VNG ਦੇਵੋ\V_VM_VF ਮੈਨੂੰ\PR_PRP ਇੱਕ\QT_QTC ਵੇਰੀ’\PSP ।\RD_PUNC
+PBLTD1666	ਐਨ\N_NN ਅਰਜ਼\N_NN ਕੀਤੀ\V_VM_VF ਸਲਵਾਹਨ\N_NNP ਅੱਗੇ\RB ,\RD_PUNC
+PBLTD1667	ਖ਼ਾਤਰ\N_NN ਮਾਉਂ\N_NN ਜੱਲਾਦ\N_NN ਖਲੋਂਵਦੇ\V_VM_VF ਨੀ\V_VAUX |\RD_PUNC
+PBLTD1668	ਰਾਣੀ\N_NNP ਇੱਛਰਾਂ\N_NNP ਤੇ\CC_CCD ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਉਥੇ\RB ,\RD_PUNC
+PBLTD1669	ਜਾਂਦੀ\RB ਵਾਰ\PSP ਦੋਵੇਂ\QT_QTO ਮਿਲ\V_VM ਰੋਂਵਦੇ\V_VM_VF ਨੀ\V_VAUX ।\RD_PUNC
+PBLTD1670	ਪਾਣੀ\N_NN ਡੋਲ੍ਹ\V_VM ਕੇ\V_VM_VNF ਰੱਤ\N_NN ਦਾ\PSP ਨੀਰ\N_NN ਉਥੇ\RB ,\RD_PUNC
+PBLTD1671	ਦਿਲ\N_NN ਹਿਰਸ\N_NN ਜਹਾਨ\N_NN ਦੀ\PSP ਧੋਂਵਦੇ\V_VM_VF ਨੀ\V_VAUX ।\RD_PUNC
+PBLTD1672	ਕਾਦਰਯਾਰ\N_NNP ਜੱਲਾਦ\N_NN ਫਿਰ\RB ਪਏ\V_VM ਕਾਹਲੇ\RB ,\RD_PUNC
+PBLTD1673	ਪੁੱਤਰ\N_NN ਮਾਇ\N_NN ਥੋਂ\PSP ਵਿਦਿਆ\N_NN ਹੋਂਵਦੇ\V_VM_VF ਨੀ\V_VAUX ।\RD_PUNC
+PBLTD1674	ਗੈਨ\N_NN ਗ਼ਮ\N_NN ਖਾਧਾ\V_VM ਰਾਣੀ\N_NN ਹੋਈ\V_VM_VF ਅੰਨ੍ਹੀ\N_NN ,\RD_PUNC
+PBLTD1675	ਆਹੀਂ\N_NN ਮਾਰਦੀ\V_VM_VF ਰੱਬ\N_NN ਦੇ\PSP ਦੇਖ\V_VM ਬੂਹੇ\N_NN ।\RD_PUNC
+PBLTD1676	ਪੁੱਤਰ\N_NN ਪਕੜ\V_VM ਬਿਗਾਨਿਆਂ\JJ ਮਾਪਿਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD1677	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਨੂੰ\PSP ਲੈ\V_VM ਗਏ\V_VM_VF ਬਾਹਰ\RB ਜੂਹੇ\N_NN ।\RD_PUNC
+PBLTD1678	ਉਹਦੇ\PR_PRP ਦਸਤ\N_NN ਸਹਿਕਾਏ\V_VM ਕੇ\V_VM_VNF ਵਢਿਓ\V_VM_VF ਨੇ\PSP ,\RD_PUNC
+PBLTD1679	ਉਹਦੀ\PR_PRP ਲੋਥ\N_NN ਵਹਾਂਵਦੇ\V_VM ਵਿੱਚ\PSP ਖੂਹੇ\N_NN |\RD_PUNC
+PBLTD1680	ਕਾਦਰਯਾਰ\N_NNP ਆ\V_VM ਲੂਣਾਂ\V_VM ਨੂੰ\PSP ਦੇਣ\V_VM_VINF ਰੱਤੂ\N_NN |\RD_PUNC
+PBLTD1681	ਵੇਖ\V_VM ਲਾਂਵਦੀ\V_VM_VF ਹਾਰ\N_NN ਸ਼ਿੰਗਾਰ\N_NN ਸੂਹੇ\JJ ।\RD_PUNC
+PBLTD1682	ਫੇ\N_NN ਫੇਰ\RB ਖਲੋਏ\V_VM ਕਿ\CC_CCS ਸਿਫਤ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD1683	ਏਹਨਾਂ\PR_PRP ਤ੍ਰੀਮਤਾ\N_NN ਖਾਨ\N_NN ਨਿਵਾਇ\RB ਦਿੱਤੇ\V_VM_VF ।\RD_PUNC
+PBLTD1684	ਰਾਜੇ\N_NNP ਭੋਜ\N_NNP ਉੱਤੇ\RB ਅਸਵਾਰ\V_VM ਹੋਈਆਂ\V_VM_VF ,\RD_PUNC
+PBLTD1685	ਮਾਰ\V_VM ਅੱਡੀਆਂ\N_NN ਅਕਲ\N_NN ਭੁਲਾਇ\V_VM_VF ਦਿਤੇ\V_VM_VF ,\RD_PUNC
+PBLTD1686	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਵਿਚਾਰਾ\JJ ਸੀ\V_VAUX ਕੌਣ\PR_PRQ ਕੋਈ\DM_DMQ ,\RD_PUNC
+PBLTD1687	ਯੂਸਪ\N_NNP ਜਹੇ\RB ਤਾਂ\CC_CCD ਖੂਹ\N_NN ਪੁਵਾਇ\V_VM ਦਿੱਤੇ\V_VM_VF ।\RD_PUNC
+PBLTD1688	ਕਾਦਰਯਾਰ\N_NNP ਤਰੀਮਤਾਂ\N_NN ਡਾਢੀਆਂ\JJ ਨੀ\V_VAUX ,\RD_PUNC
+PBLTD1689	ਦਹਿਸਰ\JJ ਜੇਹੇ\RB ਤਾਂ\CC_CCD ਥਾਂਇ\N_NN ਮਰਵਾਏ\V_VM ਦਿੱਤੇ\V_VM_VF ।\RD_PUNC
+PBLTD1690	ਕਾਫ਼\N_NN ਕਰਮ\N_NN ਜਾਂ\CC_CCD ਬੰਦੇ\N_NN ਦੇ\PSP ਜਾਗਦੇ\V_VM_VF ਨੀ\V_VAUX ,\RD_PUNC
+PBLTD1691	ਰੱਬ\N_NN ਆਣ\V_VM_VNG ਸਬੱਬ\N_NN ਬਣਾਵੰਦਾ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1692	ਸਿਰੋਪਾਉ\N_NN ਪਹਿਨਾਉਂਦਾ\V_VM_VF ਕੈਦੀਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1693	ਦੁੱਖ\N_NN ਦੇਇ\V_VM_VF ਕੇ\V_VM_VNF ਸੁਖ\N_NN ਦਿਖਾਵੰਦਾ\V_VM ਏ\V_VAUX ।\RD_PUNC
+PBLTD1694	ਰੱਬ\N_NN ਬੇਪਰਵਾਹ\JJ ਬੇਅੰਤ\JJ ਹੈ\V_VAUX ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD1695	ਉਹਦਾ\PR_PRP ਅੰਤ\RB ਹਿਸਾਬ\N_NN ਨਾ\RP_NEG ਆਂਵਦਾ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1696	ਕਾਦਰਯਾਰ\N_NNP ਹੈ\V_VAUX ਸਾਬਤੀ\N_NN ਮੂਲ\RB ਏਵੇਂ\RB ,\RD_PUNC
+PBLTD1697	ਪੂਰਨ\N_NNP ‘ਸਾਬਤੀ’\JJ ਥੀਂ\V_VM_VF ਰੱਬ\N_NN ਪਾਵੰਦਾ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1698	ਗਫ\N_NN ਗਰਦਸ਼\N_NN ਜੋ\PR_PRL ਮੁੱਦਤਾਂ\N_NN ਗੁਜ਼ਰ\V_VM ਗਈਆਂ\V_VM_VF ,\RD_PUNC
+PBLTD1699	ਬਾਰਾਂ\QT_QTC ਬਰਸ\N_NN ਪੂਰਨ\N_NNP ਵਿੱਚ\PSP ਖੂਹ\N_NN ਪਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1700	ਸਾਈਂ\N_NN ਕਰਮ\V_VM ਕੀਤਾ\V_VM_VF ਬਖਸ਼ਨਹਾਰ\JJ ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1701	ਕੋਈ\DM_DMQ ਹੁਕਮ\N_NN ਸਬੱਬ\N_NN ਦਾ\PSP ਆਣ\V_VM_VNG ਲਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1702	ਗੁਰੂ\N_NNP ਗੋਰਖ\N_NNP ਨਾਥ\N_NNP ਨੂੰ\PSP ਖੁਸ਼ੀ\N_NN ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD1703	ਸਿਆਲਕੋਟ\N_NNP ਦੀ\PSP ਤਰਫ਼\RB ਨੂੰ\PSP ਸੈਲ\V_VM ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD1704	ਕਾਦਰਯਾਰ\N_NNP ਜਾ\V_VM ਖੂਹੇ\N_NN ‘ਤੇ\CC_CCD ਕਰਨ\V_VM_VF ਡੇਰਾ\N_NN ,\RD_PUNC
+PBLTD1705	ਕਿ\CC_CCS ਸਾਧ\N_NN ਲੈ\V_VM_VNF ਪਾਣੀ\N_NN ਨੂੰ\PSP ਡੋਲ\N_NN ਜਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1706	ਲਾਮ\N_NN ਲੱਜ\N_NN ਜਾਂ\CC_CCD ਖੂਹੇ\N_NN ਵਹਾਇ\V_VM_VF ਦਿੱਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD1707	ਤਲੇ\JJ ਪਾਣੀ\N_NN ਦੇ\PSP ਵੱਲ\PSP ਧਿਆਨ\N_NN ਕਰਕੇ\V_VM_VNF ।\RD_PUNC
+PBLTD1708	ਵਿਚੋਂ\PSP ਆਦਮੀ\N_NN ਦਾ\PSP ਬੁੱਤ\N_NN ਨਜ਼ਰ\V_VM ਆਇਆ\V_VM_VF |\RD_PUNC
+PBLTD1709	ਸਾਧ\N_NN ਵੇਖਦਾ\V_VM_VF ਬੁੱਤ\N_NN ਨਜ਼ੀਰ\N_NN ਧਰ\V_VM ਕੇ\V_VM_VNF ।\RD_PUNC
+PBLTD1710	ਖਾਧਾ\V_VM ਖੌਫ਼\N_NN ਤੇ\CC_CCD ਹੋਸ਼\N_NN ਨਾ\RP_NEG ਰਹੀ\V_VM_VF ਕਾਈ\DM_DMQ ,\RD_PUNC
+PBLTD1711	ਦੌੜ\N_NN ਆਇਆ\V_VM_VF ਗੁਰੂ\N_NN ਦੇ\PSP ਪਾਸ\RB ਡਰ\V_VM ਕੇ\V_VM_VNF ।\RD_PUNC
+PBLTD1712	ਕਾਦਰਯਾਰ\N_NNP ਸੁਣਾਂਵਦਾ\V_VM_VF ਗੁਰੂ\N_NN ਤਾਈਂ\PSP ,\RD_PUNC
+PBLTD1713	‘ਆਇਆ\V_VM ਜੀਂਵਦਾ,\V_VM_VF ਮੈਂ\PR_PRP ਕਿਵੇਂ\PR_PRQ ਮਰ\V_VM ਮਰ\V_VM ਕੇ\V_VM_VNF ।\RD_PUNC
+PBLTD1714	ਮੀਮ\N_NN ‘ਮੈਂ\PR_PRP ਜਾ\V_VM ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਖੂਹੇ\N_NN ਚੜ੍ਹਿਆ\V_VM ,\RD_PUNC
+PBLTD1715	ਤਲੇ\N_NN ਪਾਣੀ\N_NN ਦੇ\PSP ਵਲ\PSP ਧਿਆਨ\V_VM ਪਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1716	ਵਿਚੋਂ\PSP ਆਦਮੀ\N_NN ਦਾ\PSP ਬੁੱਤ\N_NN ਨਜ਼ਰ\V_VM ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1717	ਕਰਮ\N_NN ਕਰੋ\V_VM_VF ਤੇ\CC_CCD ਚੱਲ\V_VM ਕੇ\V_VM_VNF ਆਪ\PR_PRF ਦੇਖੋ\V_VM ,\RD_PUNC
+PBLTD1718	ਕੋਈ\DM_DMQ ਆਦਮੀ,\N_NN ਜਿੰਨ\N_NN ਕੇ\CC_CCD ਭੂਤ\N_NN ਸਾਇਆ\N_NN ।\RD_PUNC
+PBLTD1719	ਕਾਦਰਯਾਰ\N_NNP ਅਚਰਜ\RB ਦੀ\PSP ਗੱਲ\N_NN ਸੁਣ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD1720	ਸਾਰਾ\RB ਝੁੰਡ\N_NN ਗੁਰੂ\N_NN ਸੇਤੀ\N_NN ਉਠਿ\V_VM ਧਾਇਆ\V_VM_VF ।\RD_PUNC
+PBLTD1721	ਨੂਨ\N_NN ਨਾਲ\PSP ਦੇ\PSP ਸਾਧ\N_NN ਖਮੋਸ਼\V_VM ਹੋਇ\V_VM_VF ,\RD_PUNC
+PBLTD1722	ਗੁਰੂ\N_NN ਪੁੱਛਦਾ\V_VM_VF ਆਪ\PR_PRF ਖਲੋਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1723	‘ਸੱਚ\RB ਦੱਸ\V_VM ਖਾਂ\V_VM_VF ਤੂੰ\PR_PRP ਹੈਂ\V_VAUX ਕੌਣ\PR_PRQ ਕੋਈ\DM_DMQ ?’\RD_PUNC
+PBLTD1724	ਗੁਰੂ\N_NN ਪੁੱਚਦਾ\V_VM_VF ਕਾਹਲਿਆਂ\RB ਹੋਇ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1725	‘ਬਾਰਾਂ\QT_QTC ਬਰਸ\N_NN ਨਾ\RP_NEG ਆਦਮੀ\N_NN ਮੂੰਹ\N_NN ਲੱਗਾ’\V_VM_VF ,\RD_PUNC
+PBLTD1726	ਪੂਰਨ\N_NNP ਬੋਲਿਆ\V_VM ਸੀ\V_VAUX ਵਿਚੋਂ\PSP ਹੋਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1727	‘ਕਾਦਰਯਾਰ’\N_NNP ਮੈਂ\PR_PRP ਰੂਪ\N_NN ਹਾਂ\V_VAUX ਆਦਮੀ\N_NN ਦਾ\PSP ,\RD_PUNC
+PBLTD1728	ਭਾਵੇਂ\CC_CCD ਦੇਖ\V_VM ਲਵੋ\V_VM_VF ਅਜ਼ਮਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ’\RP_INJ ।\RD_PUNC
+PBLTD1729	ਵਾਉ\N_NN ਵਾਸਤਾ\N_NN ਪਾਇ\V_VM ਕੇ\V_VM_VNF ਕਹੇ\V_VM_VF ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1730	‘ਮੰਨੋ\V_VM_VF ਰੱਬ\N_NN ਦੇ\PSP ਨਾਉਂ\N_NN ਸੁਆਲ\N_NN ਮੇਰਾ\PR_PRP ।\RD_PUNC
+PBLTD1731	ਜਿਹੜੀ\PR_PRL ਬਣੀ\V_VM_VINF ਸੀ\V_VAUX ਆਖ\V_VM ਸੁਣਾਵਸਾਂ\V_VM_VF ਮੈਂ\PR_PRP ,\RD_PUNC
+PBLTD1732	ਜਿਸ\PR_PRL ਕਾਰਨ\PSP ਹੋਇਆ\V_VM_VF ਇਹ\PR_PRP ਹਾਲ\N_NN ਮੇਰਾ\PR_PRP ।\RD_PUNC
+PBLTD1733	ਅਹਿਲ\JJ ਤਰਸ\N_NN ਹੋ\V_VM_VNF ਸਾਈਂ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਤੁਸੀਂ\PR_PRP ,\RD_PUNC
+PBLTD1734	ਬਾਹਰ\RB ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਪੁੱਛੋ\V_VM ਅਹਿਲਵਾਲ\N_NN ਮੇਰਾ\PR_PRP ।\RD_PUNC
+PBLTD1735	ਕਾਦਰਯਾਰ\N_NNP ਤੁਸੀਂ\PR_PRP ਕੱਢੇ\V_VM ਬਾਹਰ\RB ਮੈਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1736	ਫੇਰ\RB ਪੁੱਛਣਾ\V_VM_VINF ਹਾਲ-ਅਹਿਲਵਾਲ\N_NN ਮੇਰਾ’\PR_PRP ।\RD_PUNC
+PBLTD1737	ਹੇ\N_NN ਹੁਕਮ\N_NN ਜ਼ਬਹਾਨ\N_NN ਥੀਂ\PSP ਨਾਥ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD1738	ਲੱਜ\N_NN ਤੁਰਤ\RB ਵਹਾਂਵਦੇ\V_VM_VF ਵਿੱਚ\PSP ਚੇਲੇ\N_NN |\RD_PUNC
+PBLTD1739	ਪੂਰਨ\N_NNP ਬਾਹਰ\RB ਆਇਆ\V_VM_VF ਗੁਰੂ\N_NN ਲੋਥ\N_NN ਡਿਠੀ\V_VM ,\RD_PUNC
+PBLTD1740	ਜਿਵੇਂ\RP_CL ਘਾਇਲ\N_NN ਕੀਤਾ\V_VM_VF ਸ਼ੇਰ\N_NN ਵਿੱਚ\PSP ਬੇਲੇ\N_NN ।\RD_PUNC
+PBLTD1741	ਸੋਹਣੀ\JJ ਸੂਰਤ\N_NN ਵਿੱਚ\PSP ਨਾ\RP_NEG ਫ਼ਰਕ\N_NN ਕੋਈ\DM_DMQ ,\RD_PUNC
+PBLTD1742	ਹੱਥ\N_NN ਪੈਰ\N_NN ਮੇਲੇ\N_NN ਗੁਰੂ\N_NN ਓਸ\PR_PRP ਵੇਲੇ\PSP ।\RD_PUNC
+PBLTD1743	ਕਾਦਰਯਾਰ\N_NNP ਜਾਂ\CC_CCD ਰੱਬ\N_NN ਨੂੰ\PSP ਯਾਦ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD1744	ਸੱਚਾ\JJ ਰੱਬ\N_NN ਜੇ\PR_PRL ਇਸ\PR_PRP ਦੇ\PSP ਜ਼ਖ਼ਮ\N_NN ਮੇਲੇ\N_NN ।\RD_PUNC
+PBLTD1745	ਲਾਮ\N_NN ਲੋਥ\N_NN ਚੁਕਾਇ\V_VM ਕੇ\V_VM_VNF ਗੁਰੂ\N_NN ਹੋਰਾਂ\DM_DMQ ,\RD_PUNC
+PBLTD1746	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਨੂੰ\PSP ਆਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਚੁੱਕ\V_VM ਡੇਰੇ\N_NN ।\RD_PUNC
+PBLTD1747	ਬੈਠ\V_VM ਨਾਲ\PSP ਤਾਗੀਦ\N_NN ਦੇ\PSP ਪੁਛਿਓ\V_VM ਨੇ\PSP ,\RD_PUNC
+PBLTD1748	’ਕਿਹੜੇ\PR_PRQ ਸ਼ਹਿਰ\N_NN ਨੀ\PSP ਲੜਕਿਆ\N_NN ਘਰ\N_NN ਤੇਤੇ\N_NN ?\RD_PUNC
+PBLTD1749	ਕਿਸ\DM_DMQ ਦਾ\PSP ਪੁੱਤ\N_NN ਤੇ\CC_CCD ਕੀ\PR_PRQ ਹੈ\V_VAUX ਨਾਉਂ\N_NN ਤੇਰਾ\PR_PRP ?\RD_PUNC
+PBLTD1750	ਕਿੰਨ\PR_PRQ ਖੂਹ\N_NN ਪਾਇਆ\V_VM_VF ਵੱਢੇ\V_VM ਹੱਥ\N_NN ਤੇਰੇ\PR_PRP ?’\RD_PUNC
+PBLTD1751	‘ਰੱਬ\N_NN ਜਾਣਦਾ\V_VM_VF ਵਰਤੀ\V_VM ਜੋ\PR_PRL ਨਾਲ\PSP ਮੇਰੇ’\PR_PRP ।\RD_PUNC
+PBLTD1752	ਅਲਫ਼\N_NN ਆਖਦਾ,\V_VM_VF ‘ਮੁਲਖ\N_NN ਉਜੈਨ\N_NNP ਸਾਡਾ\PR_PRP ,\RD_PUNC
+PBLTD1753	ਰਾਜਾ\N_NNP ਬਿਕ੍ਰਮਜੀਤ\N_NNP ਦੀ\PSP ਵੱਲ\PSP ਹੈ\V_VAUX ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1754	ਏਸ\PR_PRP ਮੁਲਖ\N_NN ਆਇਆ\V_VM_VF ਸਾਡਾ\PR_PRP ਬਾਪ\N_NN ਦਾਦਾ\N_NN ,\RD_PUNC
+PBLTD1755	ਸਿਆਲਕੋਟ\N_NNP ਬੈਠੇ\V_VM ਥਾਂ\N_NN ਮੇਲ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1756	ਪੂਰਨ\N_NNP ਨਾਉਂ\N_NN ਤੇ\CC_CCD ਪੁੱਤਰ\N_NN ਸਲਵਾਹਨ\N_NNP ਦਾ\PSP ਹਾਂ\V_VAUX ,\RD_PUNC
+PBLTD1757	ਜਿਸ\PR_PRL ਵੱਢ\V_VM ਕੇ\V_VM_VNF ਸੁਟਾਇਆ\V_VM_VF ਡੱਲ\N_NN ਹੈ\V_VAUX ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1758	ਕਾਦਰਯਾਰ\N_NNP ਹੁਣ\RB ਆਪਣਾ\PR_PRF ਆਪ\PR_PRF ਦੱਸੋ\V_VM ,\RD_PUNC
+PBLTD1759	ਤਦੇ\RB ਖੋਲਹ\RB ਦੱਸਾਂ\V_VM ਅੱਗੋਂ\RB ਗੱਲ\N_NN ਹੈ\V_VAUX ਜੀ’\RP_INJ ।\RD_PUNC
+PBLTD1760	ਯੇ\N_NN ਯਾਨ\N_NN ਕਰ\V_VM_VF ਚੇਲਿਆ\N_NN ਕਹਿਆ\V_VM_VF ਕੋਲੋਂ\RB ,\RD_PUNC
+PBLTD1761	‘ਗੁਰੂ\N_NN ਨਾਥ\N_NN ਹੈ\V_VAUX ਰੱਬ\N_NN ਦਾ\PSP ਸੰਤ\N_NN ਭਾਰਾ\JJ ।\RD_PUNC
+PBLTD1762	ਕੁਝ\DM_DMQ ਮੰਗ\V_VM ਲੈ\V_VM_VNF ਬੇ-ਪ੍ਰਾਣਿਆਂ\JJ ਓਏ\RP_INJ ,\RD_PUNC
+PBLTD1763	ਟਿੱਲੇ\N_NN ਵਾਲਾ\PSP ਹੈ\V_VAUX ਸਾਈਂ\N_NN ਦਾ\PSP ਸੰਤ\N_NN ਭਾਰਾ\JJ ।\RD_PUNC
+PBLTD1764	ਇਹਦਾ\PR_PRP ਜੋਗ\N_NN ਦਰਗਾਹ\N_NN ਮਨਜ਼ੂਰ\V_VM ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1765	ਮੱਥਾ\N_NN ਟੇਕਦਾ\V_VM_VF ਕੁਲ\RB ਜਹਾਨ\N_NN ਸਾਰਾ\DM_DMQ ।’\RD_PUNC
+PBLTD1766	ਕਾਦਰਯਾਰ\N_NNP ਫਕੀਰਾਂ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਸੁਣ\V_VM_VNG ਕੇ\V_VM_VNF ,\RD_PUNC
+PBLTD1767	ਪੂਰਨ\N_NNP ਪਿਆ\V_VM_VF ਪੈਰੀਂ\N_NN ਹੋਇਆ\V_VM_VF ਮਿੰਨਤਦਾਰਾ\N_NN ।\RD_PUNC
+PBLTD1768	ਅਲਫ਼\N_NN ਆਖ\V_VM ਸੁਣਾਂਵਦਾ\V_VM_VF ਗੁਰੂ\N_NN ਤਾਈਂ\PSP ,\RD_PUNC
+PBLTD1769	ਕਿੱਸਾ\N_NN ਹਾਲ\N_NN ਹਕੀਕਤਾਂ\N_NN ਖੋਲ੍ਹ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1770	ਨੇਕੀ\N_NN ਮਾਇ\N_NN ਤੇ\CC_CCD ਬਾਪ\N_NN ਦੀ\PSP ਯਾਦ\N_NN ਕਰਕੇ\PSP ,\RD_PUNC
+PBLTD1771	ਸੱਭੋ\DM_DMQ ਦੱਸਦਾ\V_VM_VF ਉਸ\PR_PRP ਨੂੰ\PSP ਫੋਲ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ :\RD_PUNC
+PBLTD1772	ਗੁਰੂ\N_NN ਨਾਥ\N_NN ਜਾਂ\CC_CCD ਓਸ\PR_PRP ਦੇ\PSP ਦਰਦ\N_NN ਰੁੰਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD1773	ਹੰਝੂ\N_NN ਰੱਤ\N_NN ਦੀਆਂ\PSP ਅੱਖੀਂ\N_NN ਡੋਲ੍ਹ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1774	ਕਾਦਰਯਾਰ\N_NNP ਸੁਣਾਂਵਦਾ\V_VM_VF ਗੱਲ\N_NN ਸੱਭੋ\DM_DMQ ,\RD_PUNC
+PBLTD1775	ਸੁਖਨ\N_NN ਦਰਦ\N_NN ਫਿਰਾਕ\N_NN ਦੇ\PSP ਬੋਲ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1776	‘ਬੇ\N_NN ਬਹੁਤ\DM_DMQ ਸਾ\PSP ਲਾਡਲਾ\JJ ਜੰਮਿਆ\N_NN ਮੈਂ\PR_PRP ,\RD_PUNC
+PBLTD1777	ਘੱਤ\N_NN ਧੌਲਰੀਂ\N_NN ਪਾਲਿਆ\V_VM ਬਾਪ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1778	ਬਾਰ੍ਹੀਂ\QT_QTO ਵਰ੍ਹੀਂ\N_NN ਮੈਂ\PR_PRP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਬਾਹਰ\RB ਆਇਆ\V_VM ,\RD_PUNC
+PBLTD1779	ਜਦੋਂ\PR_PRL ਹੁਕਮ\N_NN ਕੀਤਾ\V_VM_VF ਬਾਬਲ\N_NN ਆਪ\PR_PRF ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1780	ਲਾਗੂ\N_NN ਸੱਦ\V_VM ਕੇ\V_VM_VF ਕਰਨ\V_VM_VF ਵਿਆਹ\N_NN ਲੱਗੇ\V_VM_VF ,\RD_PUNC
+PBLTD1781	ਚੜ੍ਹ\V_VM ਗਿਆ\V_VM_VF ਸੀ\V_VAUX ਗ਼ਮ\N_NN ਦਾ\PSP ਤਾਪ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1782	ਕਾਦਰਯਾਰ\N_NNP ਮੈਂ\PR_PRP ਆਖਿਆ\V_VM ਬਾਪ\N_NN ਨੂੰ\PSP ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD1783	ਨਹੀਂ\RP_NEG ਭਾਂਵਦੀ\V_VM_VF ਏ\RP_RPD ਗੱਲ\N_NN ਆਪ\PR_PRF ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1784	ਤੇ\CC_CCD ਤੱਕ\PSP ਡਿੱਠਾ\V_VM ਬਾਬਲ\N_NN ਵੱਲ\PSP ਮੇਰੇ\PR_PRP ,\RD_PUNC
+PBLTD1785	ਦਿਲੋਂ\N_NN ਸਮਝਿਆ\V_VM ਮੈਂ\PR_PRP ਹੋਈ\V_VM_VF ਕਹਿਰਵਾਨੀ\V_VM_VF ।\RD_PUNC
+PBLTD1786	ਕਿਵੇਂ\PR_PRQ ਰੱਬ\N_NN ਕਰਾਇਆ\V_VM ਤੇ\CC_CCD ਆਖਿਓ\V_VM_VF ਸੂ\V_VAUX ,\RD_PUNC
+PBLTD1787	ਕਰ\V_VM ਹੁਕਮ\N_NN ਜ਼ਬਾਨ\N_NN ਥੀਂ\PSP ਮਿਹਰਬਾਨੀ\N_NN :\RD_PUNC
+PBLTD1788	‘ਜਾਇ\V_VM ਪੂਰਨਾ\N_NNP ਮਾਇ\N_NN ਨੂੰ\PSP ਟੇਕ\V_VM ਮੱਥਾ’\N_NN ,\RD_PUNC
+PBLTD1789	ਗੱਲ\N_NN ਸਮਝੀਏ\V_VM ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਹੋਇ\V_VM_VF ਦਾਨੀ\N_NN ।\RD_PUNC
+PBLTD1790	ਕਾਦਰਯਾਰ\N_NNP ਮੈਂ\PR_PRP ਜਾਇ\V_VM_VF ਜਾਂ\CC_CCD ਮਹਲ\N_NN ਵੜਿਆ\V_VM ,\RD_PUNC
+PBLTD1791	ਦੇਖ\V_VM ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ਲੂਣਾਂ\N_NNP ਦਾ\PSP ਸਿਦਕ\N_NN ਫਾਨੀ\N_NN ।\RD_PUNC
+PBLTD1792	ਸੇ\N_NN ਸਾਬਤ\N_NN ਰਹੀ\V_VM_VF ਨਾ\RP_NEG ਵਿੱਚ\PSP ਉਸ\PR_PRP ਦੇ\PSP ,\RD_PUNC
+PBLTD1793	ਮੈਨੂੰ\PR_PRP ਪਕੜ\V_VM ਕੇ\V_VM_VNF ਪਾਸ\RB ਬਹਾਣ\V_VM_VINF ਲਗੀ\V_VM_VF ।\RD_PUNC
+PBLTD1794	‘ਗੁਰੂ\N_NN ਨਾਥ\N_NN ਜੀ\RP_INJ ਗੱਲ\N_NN ਨੂੰ\PSP ਸਮਝਿਆ\V_VM_VF ਜੇ\V_VAUX ।\RD_PUNC
+PBLTD1795	ਕੜ\N_NN ਜ਼ਿਮੀਂ\N_NN ਅਸਮਾਨ\N_NN ਦਾ\PSP ਢਾਹਣ\V_VM_VINF ਲੱਗੀ\V_VM_VF ।\RD_PUNC
+PBLTD1796	ਕੰਨੀਂ\N_NN ਖਿੱਚ\V_VM ਮੈਂ\PR_PRP ਅੰਦਰੋਂ\RB ਬਾਹਰ\RB ਆਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1797	ਜਦੋਂ\PR_PRL ਡਿੱਠਾ\V_VM ਸੀ\V_VAUX ਧਰਮ\N_NN ਗੰਵਾਣ\V_VM_VINF ਲੱਗੀ\V_VM_VF ।\RD_PUNC
+PBLTD1798	ਕਾਦਰਯਾਰ\N_NN ਜਾਂ\CC_CCD ਰਾਤ\N_NN ਨੂੰ\PSP ਆਇਆ\V_VM_VF ਰਾਜਾ\N_NN ,\RD_PUNC
+PBLTD1799	ਉਹਨੂੰ\PR_PRP ਨਾਲਸ਼ਾਂ\N_NN ਨਾਲ\PSP ਸਿਖਾਣ\V_VM_VINF ਲੱਗੀ\V_VM_VF ।\RD_PUNC
+PBLTD1800	ਜੀਮ\N_NN ਜਦੋਂ\PR_PRL ਸੁਣੀ\V_VM_VINF ਰਾਜੇ\N_NN ਗੱਲ\N_NN ਉਹਦੀ\PR_PRP ,\RD_PUNC
+PBLTD1801	ਉਸੇ\PR_PRP ਵਕਤ\N_NN ਮੈਨੂੰ\PR_PRP ਸੱਦਵਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1802	ਕਹਿਰਵਾਨ\RB ਹੋਇ\V_VM_VF ਬਾਪ\N_NN ਦੇ\PSP ਨੈਨ\N_NN ਖੂਨੀ\N_NN ,\RD_PUNC
+PBLTD1803	ਧਪਾ\N_NN ਮਰਿਆ\V_VM ਪਾਸ\RB ਬਿਠਲਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1804	‘ਖੂਹੇ\N_NN ਵਿੱਚ\PSP ਪਾਓ\V_VM ਇਹਨੂੰ\PR_PRP ਜਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।’\RD_PUNC
+PBLTD1805	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NNP ਏਸ\PR_PRP ਖੂਹੇ\N_NN ਅੰਦਰ\RB ,\RD_PUNC
+PBLTD1806	ਕਰ\N_NN ਗਏ\V_VM_VF ਦਾਖਲ\V_VM ਮੈਨੂੰ\PR_PRP ਆਇ\V_VM ਕੇ\V_VM_VNF ਜੀ’\RP_INJ ।\RD_PUNC
+PBLTD1807	ਹੇ\N_NN ਹਾਲ\N_NN ਸੁਣਾਂਵਦਾ\V_VM_VF ਗੁਰੂ\N_NN ਤਾਈੰ\PSP :\RD_PUNC
+PBLTD1808	‘ਕੇਹਾ\PR_PRQ ਵਰਤਿਆ\V_VM ਇਹ\PR_PRP ਨਜੂਲਾ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1809	ਮੇਰੇ\PR_PRP ਮਾਇ\N_NN ਤੇ\CC_CCD ਬਾਪ\N_NN ਦੇ\PSP ਵੱਸ\V_VM ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD1810	ਸੱਭੇ\DM_DMQ ਰੱਬ\N_NN ਦਿਖਾਂਵਦਾ\V_VM_VF ਸੂਲ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1811	ਕਰੋ\V_VM ਕਰਮ\N_NN ਜੀ\RP_INJ ਰੱਬ\N_NN ਦਾ\PSP ਵਾਸਤਾ\N_NN ਜੇ\V_VAUX ,\RD_PUNC
+PBLTD1812	ਰੋਵਨ\V_VM_VINF ਨੈਣ\N_NN ਪਰਾਣ\N_NN ਵਸੂਲ\N_NN ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1813	ਪਿੱਛਾ\RB ਦੇਇ\V_VM_VF ਨਾ\RP_NEG ਜਾਇ\V_VM_VF ਜੇ\PR_PRL ਮੂਲ\RB ਮੈਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1814	ਖੇ\N_NN ਖੁਸ਼ੀ\N_NN ਹੋਈ\V_VM_VF ਗੋਰਖ\N_NNP ਨਾਥ\N_NNP ਤਾਈੰ\PSP ,\RD_PUNC
+PBLTD1815	ਜਲ\N_NN ਪਾਇ\V_VM ਕੇ\V_VM_VNF ਨੂਰ\N_NN ਦਾ\PSP ਤੁਰੰਤ\RB ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1816	ਹੱਥੀਂ\N_NN ਆਪਣੀ\PR_PRF ਓਸ\PR_PRP ਦੇ\PSP ਮੁਖ\N_NN ਲਾਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1817	ਪੜਦੇ\N_NN ਖੁਲ\V_VM ਗੇ\V_VM_VF ਜਦੋਂ\PR_PRL ਇੱਕ\QT_QTC ਘੁਟ\N_NN ਪੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1818	ਫੇਰ\RB ਬੇਪਰਵਾਹ\JJ ਗੁਰੂ\N_NNP ਨਾਥ\N_NNP ਹੁਰਾਂ\RP_CL ,\RD_PUNC
+PBLTD1819	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਤਾਈਂ\PSP ਸਾਵਧਾਨ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1820	ਕਾਦਰਯਾਰ\N_NNP ਗੁਜ਼ਾਰ\V_VM ਕੇ\V_VM_VNF ਬਰਸ\N_NN ਬਾਰਾਂ\QT_QTC ,\RD_PUNC
+PBLTD1821	ਖਸਤਹਾਲ\N_NN ਤਾਈਂ\PSP ਖੁਸ਼ਹਾਲ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBLTD1822	ਦਾਲ\N_NN ਦੇਣ\V_VM_VINF ਲੱਗਾ\V_VM_VF ਰੁਖ਼ਸਤ\N_NN ਓਸ\PR_PRP ਵੇਲੇ\PSP ,\RD_PUNC
+PBLTD1823	ਗੁਰੂ\N_NN ਆਖਦਾ,\V_VM_VF ‘ਬੱਚਾ\N_NN ਜੀ\RP_INJ ਮੁਲਖ਼\N_NN ਜਾਵੋ\V_VM ।\RD_PUNC
+PBLTD1824	ਦੇਖ\V_VM ਬਾਪ\N_NN ਤੇ\CC_CCD ਮਾਇ\N_NN ਨੂੰ\PSP ਠੰਢ\JJ ਪਾਵੋ\V_VM ,\RD_PUNC
+PBLTD1825	ਦੁੱਖ\N_NN ਕਟਿਆ\V_VM ਜਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਸੁਖ\N_NN ਪਾਵੋ\V_VM_VF ।’\RD_PUNC
+PBLTD1826	ਪੂਰਨ\N_NNP ਆਖਦਾ\V_VM_VF ਬੇਹਿਸਾਬ\JJ ਗੱਲਾਂ\N_NN :\RD_PUNC
+PBLTD1827	‘ਕੰਨ\N_NN ਪਾੜ\V_VM ਮੇਰੇ\PR_PRP ਅੰਗ\N_NN ਖਾਕ\N_NN ਲਾਵੋ\V_VM_VF ।’\RD_PUNC
+PBLTD1828	ਕਾਦਰਯਾਰ\N_NNP ਕਹਿੰਦਾ\V_VM_VF ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਓਥੇ\RB :\RD_PUNC
+PBLTD1829	‘ਮਿਹਰਬਾਨਗੀ\N_NN ਦੇ\PSP ਘਰ\N_NN ਵਿੱਚ\PSP ਆਵੋ’\V_VM_VF ।\RD_PUNC
+PBLTD1830	‘ਜ਼ਾਲ\N_NN ਜ਼ਰਾ\V_VM ਨਾ\RP_NEG ਪਓ\V_VM ਖਿਆਲ\N_NN ਮੇਰੇ’\PR_PRP ।\RD_PUNC
+PBLTD1831	ਗੁਰੂ\N_NN ਆਖਦਾ,\V_VM_VF ‘ਜੋਗ\N_NN ਕਮਾਨ\N_NN ਔਖਾ\JJ ।\RD_PUNC
+PBLTD1832	ਫਾਕਾ\N_NN ਫਿਕਰ\N_NN ਤੇ\CC_CCD ਸਫ਼ਰ\N_NN ਕਬੂਲ\N_NN ਕਰਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD1833	ਦੁਨੀਆ\N_NN ਛੱਡ\V_VM ਦੇਣੀ\V_VM_VINF ਮਰ\V_VM ਜਾਣ\V_VM_VINF ਔਖਾ\JJ ।\RD_PUNC
+PBLTD1834	ਨਾਲੇ\PSP ਕਾਮ\N_NN ਕ੍ਰੋਧ\N_NN ਨੂੰ\PSP ਦੂਰ\JJ ਕਰਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD1835	ਮਨ\N_NN ਦੀ\PSP ਹਿਰਸ\N_NN ਦਾ\PSP ਤੋੜਨਾ\V_VM_VINF ਮਾਨ\N_NN ਔਖਾ\JJ ।’\RD_PUNC
+PBLTD1836	ਕਾਦਰਯਾਰ\N_NNP ਆਖੇ\V_VM ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਤਾਈਂ\PSP :\RD_PUNC
+PBLTD1837	‘ਏਸ\PR_PRP ਰਾਹ\N_NN ਦਾ\PSP ਮਕਸਦ\N_NN ਪਾਨ\N_NN ਔਖਾ\JJ ’।\RD_PUNC
+PBLTD1838	ਰੇ\V_VM ਰੋਇ\V_VM_VF ਕੇ\V_VM_VNF ਪੂਰਨ\N_NNP ਨੇ\PSP ਹੱਥ\N_NN ਬੰਨ੍ਹੇ\V_VM ,\RD_PUNC
+PBLTD1839	‘ਲੜ\N_NN ਛੱਡ\V_VM ਤੇਰਾ\PR_PRP ਕਿੱਥੇ\PR_PRQ ਜਾਵਸਾਂ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1840	ਫਾਕਾ\N_NN ਫਿਕਰ\N_NN ਤੇ\CC_CCD ਸਬਰ\N_NN ਕਬੂਲ\N_NN ਸਿਰ\N_NN ‘ਤੇ\RB ,\RD_PUNC
+PBLTD1841	ਤੇਰਾ\PR_PRP ਹੁਕਮ\N_NN ਬਜਾਇ\V_VM_VF ਲਿਆਵਸਾਂ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1842	ਕਰੋ\V_VM_VF ਕਰਮ\N_NN ਤੇ\CC_CCD ਸੀਸ\N_NN ਪਰ\CC_CCS ਹੱਥ\N_NN ਰਖੋ\V_VM_VF ,\RD_PUNC
+PBLTD1843	ਖਿਦਮਤਗਾਰਾ\N_NN ਗ਼ੁਲਾਮ\JJ ਸਦਾਵਸਾਂ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1844	ਕਾਦਰਯਾਰ\N_NNP ਤਵਾਜ਼ਿਆ\N_NN ਹੋਗ\V_VM_VF ਜਿਹੜੀ\PR_PRL ;\RD_PUNC
+PBLTD1845	ਟਹਿਲ\N_NN ਸਾਬਤੀ\N_NN ਨਾਲ\PSP ਕਮਾਵਸਾਂ\V_VM_VF ਮੈਂ’\PR_PRP ।\RD_PUNC
+PBLTD1846	ਜੇ\PR_PRL ਜ਼ੋਰ-ਬਜ਼ੋਰ\N_NN ਹੋ\V_VM_VF ਗੁਰੂ\N_NN ਅੱਗੇ\RB ,\RD_PUNC
+PBLTD1847	ਪੂਰਨ\N_NNP ਆਇ\V_VM ਕੇ\V_VM_VNF ਸੀਸ\N_NN ਨਿਵਾਂਵਦਾ\V_VM ਏ\V_VAUX ।\RD_PUNC
+PBLTD1848	ਗੁਰੂ\N_NN ਪਕੜ\V_VM ਕੇ\V_VM_VNF ਸੀਸ\N_NN ਤੋਂ\PSP ਲਿਟ\N_NN ਕਤਰੀ\V_VM_VF ,\RD_PUNC
+PBLTD1849	ਕੰਨ\N_NN ਪਾੜ\V_VM ਕੇ\V_VM_VNF ਮੁੰਦਰਾ\N_NN ਪਾਂਵਦਾ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1850	ਗੋਰੀ\JJ ਰੰਗ\N_NN ਪੁਸ਼ਾਕੀਆਂ\N_NN ਖੋਲ੍ਹ\V_VM ਬੁਚਕੇ\V_VM_VF |\RD_PUNC
+PBLTD1851	ਹੱਥੀਂ\N_NN ਆਪਣੀ\PR_PRF ਨਾਥ\N_NN ਪਹਿਨਾਂਵਦਾ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1852	ਕਾਦਰਯਾਰ\N_NNP ਗੁਰੂ\N_NN ਸਵਾ\QT_QTO ਲਖ\QT_QTO ਵਿਚੋਂ\PSP ,\RD_PUNC
+PBLTD1853	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਮਹੰਤ\N_NN ਬਣਾਂਵਦਾ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1854	ਸੀਨ\N_NN ਸੁਣੋ\V_VM_VINF ਲੋਕੋ\N_NN ਕਿੱਸੇ\N_NN ਆਸ਼ਕਾਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD1855	ਜਿਨ੍ਹਾਂ\PR_PRL ਰਬ\N_NN ਦੇ\PSP ਨਾਮ\N_NN ਤੋਂ\PSP ਜਾਨ\N_NN ਵਾਰੀ\V_VM_VF ।\RD_PUNC
+PBLTD1856	ਓਨਹਾਂ\PR_PRP ਮੌਤ\N_NN ਦਾ\PSP ਜਾਮ\N_NN ਤੋਂ\PSP ਜਾਨ\N_NN ਵਾਰੀ\V_VM_VF ।\RD_PUNC
+PBLTD1857	ਪਰ\CC_CCS ਸਾਬਤੀ\N_NN ਦਿਲੋਂ\N_NN ਨਾ\RP_NEG ਮੂਲ\RB ਹਾਰੀ\V_VM ।\RD_PUNC
+PBLTD1858	ਰਬ\N_NN ਜਦ\PR_PRL ਕਦ\PR_PRQ ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਬਖਸ਼ਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBLTD1859	ਦੁਖ\N_NN ਦੇਇ\V_VM ਕੇ\V_VM_VNF ਸੁਖ\N_NN ਦੀ\PSP ਕਰੇ\V_VM_VF ਕਾਰੀ\V_VM_VF ।\RD_PUNC
+PBLTD1860	ਕਾਦਰਯਾਰ\N_NNP ਜੇ\PR_PRL ਓਸ\PR_PRP ਦੇ\PSP ਹੋਇ\V_VM_VF ਰਹੀਏ\V_VM_VF ,\RD_PUNC
+PBLTD1861	ਸ਼ਰਮ\N_NN ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਉਸ\PR_PRP ਨੂੰ\PSP ਬਹੁਤ\DM_DMQ ਭਾਰੀ\V_VM ।\RD_PUNC
+PBLTD1862	ਸ਼ੀਨ\N_NN ਸ਼ਹਿਰ\N_NN ਭਲਾ\JJ ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਦਾ\PSP ,\RD_PUNC
+PBLTD1863	ਪੂਰਨ\N_NNP ਚੱਲਿਆ\V_VM ਖ਼ਾਕ\N_NN ਰਮਾਏ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1864	ਜੋਗੀ\N_NN ਆਖਦੇ,\V_VM_VF ‘ਪੂਰਨਾ\N_NNP ਅੱਜ\RB ਜੇ\PR_PRL ਤੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1865	ਆਵੇਂ\V_VM ਸੁੰਦਰਾਂ\N_NNP ‘ਤੇ\RB ਫਤਹਿ\RB ਪਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1866	ਅਗੇ\RB ਕਈ\DM_DMQ ਜੋਗੀ\N_NN ਉਥੇ\RB ਹੋਇ\V_VM_VF ਆਏ\V_VM_VF ,\RD_PUNC
+PBLTD1867	ਮਹਿਲੀਂ\N_NN ਬੈਠ\V_VM ਆਵਾਜ਼\N_NN ਬੁਲਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1868	ਕਾਦਰਯਾਰ\N_NNP ਤੇਰੀ\PR_PRP ਸਾਨੂੰ\PR_PRP ਖ਼ਬਰ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD1869	ਰਜੂਹ\N_NN ਕਰੇਂ\V_VM_VF ਜੇ\PR_PRL ਪੂਰਨਾ\N_NNP ਜਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1870	ਸਇਾਦ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਧਿਆਏ\V_VM ਜੀ\RP_INJ ,\RD_PUNC
+PBLTD1871	ਪੂਰਨ\N_NNP ਆਖਦਾ,\V_VM_VF ‘ਹੁਕਮ\N_NN ਦੀ\PSP ਢਿੱਲ\RB ਕਾਈ\DM_DMQ ।’\RD_PUNC
+PBLTD1872	ਗੁਰੂ\N_NNP ਨਾਥ\N_NNP ਫੜਾਇ\V_VM ਕੇ\V_VM_VNF ਹਥ\N_NN ਲੋਟਾ\N_NN ,\RD_PUNC
+PBLTD1873	ਥਾਪੀ\N_NN ਪੁਸ਼ਤ\N_NN ਪਨਾਹ\N_NN ਦੀ\PSP ਮਗਰ\RB ਲਾਈ\V_VM_VF ।\RD_PUNC
+PBLTD1874	ਗੁਰੂ\N_NN ਆਖਦਾ,\V_VM_VF ‘ਬਚਾ\N_NN ਜੀ\RP_INJ ਮਤ\N_NN ਸਾਡੀ\PR_PRP ,\RD_PUNC
+PBLTD1875	ਹਰ\DM_DMQ ਕਿਸੇ\DM_DMQ ਨੂੰ\PSP ਸਮਝਨਾ\V_VM_VINF ਭੈਣ\N_NN ਮਾਈ\N_NN ।\RD_PUNC
+PBLTD1876	ਕਾਦਰਯਾਰ\N_NNP ਸੰਭਾਲ\V_VM ਕੇ\V_VM_VNF ਮੁਲਖ\N_NN ਫਿਰਨਾ\V_VM_VINF ,\RD_PUNC
+PBLTD1877	ਮਤੇ\N_NN ਦਾਗ\N_NN ਫਕੀਰੀ\N_NN ਨੂੰ\PSP ਲਗ\V_VM ਜਾਈਂ\V_VM_VF ।\RD_PUNC
+PBLTD1878	ਜ਼ੁਆਦ\N_NN ‘ਜ਼ਰੂਰਤ\N_NN ਜੇ\PR_PRL ਕਿਸੇ\DM_DMQ ਦੀ\PSP ਹੁੰਦੀ\V_VM_VF ਮੈਨੂੰ\PR_PRP |\RD_PUNC
+PBLTD1879	ਕਿਉਂ\PR_PRQ ਆਪਣਾ\PR_PRF ਆਪ\PR_PRF ਗਵਾਉਂਦਾ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1880	ਪਹਿਲਾਂ\RB ਲੂਣਾ\N_NNP ਦਾ\PSP ਆਖਿਆ\V_VM ਮੰਨ\V_VM ਲੈਂਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD1881	ਖੂਹੇ\N_NN ਪੈਂਦਾ\V_VM_VF ਕਿਉਂ\PR_PRQ ਦਸਤ,\N_NN ਵਢਾਉਂਦਾ\V_VM_VF ਮੈਂ\PR_PRP ?\RD_PUNC
+PBLTD1882	ਹੁਣ\RB ਫੇਰ\RB ਰਹੇ\V_VM_VF ਤੁਸੀਂ\PR_PRP ਆਖ\V_VM ਮੈਨੂੰ\PR_PRP ,\RD_PUNC
+PBLTD1883	ਹਿਰਸ\N_NN ਹੁੰਦੀ\V_VM_VF ਤੇ\CC_CCD ਮੁਲਖ\N_NN ਨੂੰ\PSP ਜਾਉਂਦਾ\V_VM_VF ਮੈਂ\PR_PRP |\RD_PUNC
+PBLTD1884	ਕਾਦਰਯਾਰ\N_NNP ਜੇ\PR_PRL ਖੁਸ਼ੀ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਹੁੰਦੀ\V_VM_VF ,\RD_PUNC
+PBLTD1885	ਘਰ\N_NN ਸੌ\QT_QTC ਵਿਆਹ\N_NN ਕਰਾਉਂਦਾ\V_VM_VF ਮੈਂ\PR_PRP ।\RD_PUNC
+PBLTD1886	ਤੋਇ\N_NN ਤਾਲਿਆਵੰਦ\N_NN ਫਕੀਰ\N_NNP ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1887	ਪਹਿਲੇ\QT_QTO ਰੋਜ਼\RB ਗਦਾਈ\N_NN ਨੂੰ\PSP ਚਲਿਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1888	ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਦੇ\PSP ਸ਼ਹਿਰ\N_NN ਜਾਇ\V_VM_VF ਵੜਿਆ\V_VM ,\RD_PUNC
+PBLTD1889	ਬੂਹਾ\N_NN ਰੰਗ-ਮਹਲ\N_NN ਦਾ\PSP ਮਲਿਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1890	ਮਹਿਲਾਂ\N_NN ਹੇਠ\RB ਜਾਂ\CC_CCD ਪੂਰਨ\N_NNP ਆਵਾਜ਼\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD1891	ਰਾਣੀ\N_NN ਖ਼ੈਰ\N_NN ਗੋਲੀ\N_NN ਹਥ\N_NN ਘਲਿਆ\V_VM ਈ\V_VAUX ।\RD_PUNC
+PBLTD1892	ਕਾਦਰਯਾਰ\N_NNP ਗੁਲਾਮ\N_NN ਬੇਹੋਸ਼\RB ਹੋਈ\V_VM_VF ,\RD_PUNC
+PBLTD1893	ਸੂਰਤ\N_NN ਵੇਖ\V_VM ਸੀਨਾ\N_NN ਥਰਥੱਲਿਆ\N_NN ਈ\V_VAUX ।\RD_PUNC
+PBLTD1894	ਜ਼ੋਇ\N_NN ਜ਼ਾਹਰਾ\RB ਗੋਲੀ\N_NN ਨੂੰ\PSP ਕਹੇ\V_VM ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1895	‘ਘਲ\V_VM ਰਾਣੀ\N_NN ਨੂੰ\PSP ਆਇ\V_VM ਕੇ\V_VM_VNF ਖੈਰ\N_NN ਪਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1896	ਅਸੀਂ\PR_PRP ਖ਼ੈਰ\N_NN ਲੈਣਾ\V_VM_VINF ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਤੋਂ\PSP ,\RD_PUNC
+PBLTD1897	ਤੁਸਾਂ\PR_PRP ਗੋਲੀਆਂ\N_NN ਤੋਂ\PSP ਨਹੀਂ\RP_NEG ਲੈਣ\V_VM_VINF ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD1898	ਪੂਰਨ\N_NNP ਕਿਹਾ\V_VM_VF ਤਾਂ\PSP ਗੋਲੀ\N_NN ਨਾ\RP_NEG ਉਜ਼ਰ\V_VM ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBLTD1899	ਪਿੱਛਾਂ\RB ਪਰਤ\V_VM ਕੇ\V_VM_VNF ਰਾਣੀ\N_NN ਦੇ\PSP ਕੋਲ\RB ਜਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1900	ਕਾਦਰਯਾਰ\N_NNP ਮੀਆਂ\N_NN ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1901	ਗੋਲੀ\N_NN ਜਾਇ\V_VM_VF ਤਾਹਨਾ\N_NN ਸੀਨੇ\N_NN ਵਿੱਚ\PSP ਲਾਏ\V_VM_VF ।\RD_PUNC
+PBLTD1902	ਐਨ\N_NN ‘ਅਰਜ਼\N_NN ਮੇਰੀ\PR_PRP ਸੁਣ’\V_VM_VNG ਕਹੇ\V_VM_VF ਗੋਲੀ\N_NN ,\RD_PUNC
+PBLTD1903	‘ਵੱਡੀ\JJ ਸੂਰਤ\N_NN ਦਾ\PSP ਕਰੇਂ\V_VM_VF ਤੂੰ\PR_PRP ਮਾਨ\N_NN ਰਾਣੀ\N_NN ।\RD_PUNC
+PBLTD1904	ਜਿਹੜਾ\PR_PRL ਆਇਆ\V_VM_VF ਹੈ\V_VAUX ਕੋਈ\DM_DMQ ਫ਼ਕੀਰ\N_NN ਏਥੇ\RB ,\RD_PUNC
+PBLTD1905	ਦੇਖ\N_NN ਹੋਈ\V_VM_VF ਹਾਂ\V_VAUX ਮੈਂ\PR_PRP ਹੈਰਾਨ\N_NN ਰਾਣੀ\N_NN ।\RD_PUNC
+PBLTD1906	ਤੇਰੇ\PR_PRP ਨਾਲੋਂ\PSP ਹੈ\V_VAUX ਸੋਹਣਾ\JJ ਦਸ\QT_QTC ਹਿੱਸੇ\N_NN ,\RD_PUNC
+PBLTD1907	ਭਾਵੇਂ\CC_CCD ਗ਼ੈਰਤ\N_NN ਦਿਲ\N_NN ਵਿੱਚ\PSP ਜਾਨ\N_NN ਰਾਣੀ\N_NN ।\RD_PUNC
+PBLTD1908	ਕਾਦਰਯਾਰ\N_NNP ਮੈਥੋਂ\PR_PRP ਨਹੀਂ\RP_NEG ਖ਼ੈਰ\N_NN ਲੈਂਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD1909	ਤੇਰੇ\PR_PRP ਦੇਖਣੇ\V_VM_VINF ਨੂੰ\PSP ਖੜਾ\V_VM ਆਨ\V_VM_VINF ਰਾਣੀ’\N_NN |\RD_PUNC
+PBLTD1910	ਗ਼ੈਨ\N_NN ਗੁੱਸਾ\N_NN ਆਇਆ\V_VM_VF ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1911	ਬਾਰੀ\N_NN ਖੋਲਹ\V_VM ਝਰੋਖੇ\N_NN ਦੇ\PSP ਵਿੱਚ\PSP ਆਈ\V_VM_VF ।\RD_PUNC
+PBLTD1912	ਕਰ\V_VM_VF ਨਜ਼ਰ\N_NN ਫ਼ਕੀਰ\N_NN ਦੇ\PSP ਤਰਫ਼\PSP ਡਿੱਠਾ\V_VM ,\RD_PUNC
+PBLTD1913	ਸੂਰਤ\N_NN ਦੇਖ\V_VM ਕੇ\V_VM_VNF ਦਿਲ\N_NN ਨੂੰ\PSP ਰਸ਼ਕ\N_NN ਆਈ\V_VM_VF ।\RD_PUNC
+PBLTD1914	ਆਖੇ,\V_VM ‘ਗੋਲੀਏ\N_NN !\RD_PUNC ਨੀ\RP_INJ ਇਹਨੂੰ\PR_PRP ਸੱਦ\V_VM ਅੰਦਰ\RB ;\RD_PUNC
+PBLTD1915	ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਦੇ\PSP ਦਿਲ\N_NN ਮਿਹਰ\N_NN ਆਈ’\V_VM_VF ।\RD_PUNC
+PBLTD1916	ਫ਼ੇ\N_NN ਫ਼ੇਰ\RB ਕਹਿਆ\V_VM_VF ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਅੱਗੋਂ\RB :\RD_PUNC
+PBLTD1917	‘ਅੰਦਰ\RB ਜਾਣ\V_VM_VINF ਫ਼ਕੀਰਾਂ\N_NN ਦਾ\PSP ਕਰਮ\N_NN ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1918	ਬਾਹਰ\RB ਆਇ\V_VM ਕੇ\V_VM_VNF ਰਾਣੀ\N_NN ਤੂੰ\PR_PRP ਖ਼ੈਰ\N_NN ਪਾਈਂ\V_VM_VF ,\RD_PUNC
+PBLTD1919	ਤੁਸਾਂ\PR_PRP ਫਕਰਾਂ\JJ ਤੋਂ\PSP ਛੁਪਨਾ\V_VM ਧਰਮ\N_NN ਨਾਹੀਂ\V_VM_VF ।\RD_PUNC
+PBLTD1920	ਅਸੀਂ\PR_PRP ਆਏ\V_VM ਹਾਂ\V_VAUX ਤਲਬ\N_NN ਦੀਦਾਰ\N_NN ਦੀ\PSP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1921	ਕੋਈ\DM_DMQ ਹੋਏ\V_VM_VF ਸਾਡੇ\PR_PRP ਦਿਲ\N_NN ਭਰਮ\N_NN ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1922	ਕਾਦਰਯਾਰ\N_NNP ਅਸੀਲਾਂ\N_NN ਦੇ\PSP ਅਸੀਂ\PR_PRP ਜਾਏ\V_VM_VF ,\RD_PUNC
+PBLTD1923	ਕੋਈ\DM_DMQ ਜਾਤਿ-ਕੁਜਾਤਿ\N_NN ਬੇਸ਼ਰਮ\N_NN ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1924	ਕਾਫ਼\N_NN ਕੁਫ਼ਲ\N_NN ਸੰਦੂਕ\N_NN ਦਾ\PSP ਖੋਲ੍ਹ\V_VM ਰਾਣੀ\N_NN ,\RD_PUNC
+PBLTD1925	ਭਰੀ\RB ਬੋਰ\N_NN ਉਲੱਦ\V_VM ਕੇ\V_VM_VNF ਢੇਰ\V_VM ਕਰਦੀ\V_VM_VF ।\RD_PUNC
+PBLTD1926	ਹੀਰੇ\N_NN ਲਾਲ\N_NN ਜਵਾਹਰ\N_NN ਤੇ\N_NN ਹੋਰ\DM_DMQ ਮੋਤੀ\N_NN ;\RD_PUNC
+PBLTD1927	ਭਰੇ\JJ ਥਾਲ\N_NN ਲਿਆਂਵਦੀ\V_VM_VF ਪੂਰ\N_NN ਜ਼ਰਦੀ\N_NN ।\RD_PUNC
+PBLTD1928	ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਮੁੱਖ\N_NN ਤੋਂ\PSP ਲਾਹਿ\V_VM_VF ਪੜਦਾ\N_NN ,\RD_PUNC
+PBLTD1929	ਚਰਨ\N_NN ਚੁੰਮ\V_VM ਕੇ\V_VM_VNF ਪੈਰ\N_NN ‘ਤੇ\CC_CCD ਸੀਸ\N_NN ਧਰਦੀ\V_VM_VF ।\RD_PUNC
+PBLTD1930	ਕਾਦਰਯਾਰ\N_NNP ‘ਮੁੜ\V_VM ਫੇਰ\RB ਵੀ\RP_RPD ਆਵਨਾ\V_VM_VF ਜੇ\V_VAUX ,\RD_PUNC
+PBLTD1931	ਬਣੀ\V_VM_VINF ਰਹਾਂਗੀ\V_VM_VF ਹੋਇ\V_VM_VNF ਗ਼ੁਲਾਮ\N_NN ਬਰਦੀ\N_NN ।\RD_PUNC
+PBLTD1932	ਕਾਫ਼\N_NN ਕਰਮ\N_NN ਕਰੋ\V_VM_VF ਵੱਸੋ\N_NN ਪਾਸ\RB ਮੇਰੇ\PR_PRP ,\RD_PUNC
+PBLTD1933	ਖਲੀ\RB ਇੱਕ\QT_QTC ਮੈਂ\PR_PRP ਅਰਜ਼\N_NN ਗੁਜ਼ਾਰਨੀ\V_VM_VINF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBLTD1934	ਅੰਦਰ\RB ਚੱਲੋ\V_VM_VF ਤਾਂ\CC_CCD ਰੰਗ-ਮਹੱਲ\N_NN ਤਾਈਂ\PSP ,\RD_PUNC
+PBLTD1935	ਤੋਸ਼ਕ\N_NN ਫ਼ਰਸ਼\N_NN ਵਿਛਾਇ\V_VM_VF ਬਹਾਵਨੀ\V_VM_VINF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBLTD1936	ਕਰਾਂ\V_VM_VF ਟਹਿਲ\N_NN ਜੋ\PR_PRL ਤੁਸਾਂ\PR_PRP ਦੀ\PSP ਖੁਸ਼ੀ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC
+PBLTD1937	ਭੋਜਨ\N_NN ਖਾਉ\V_VM_VF ਤਾਂ\CC_CCD ਤੁਰਤ\RB ਪਕਾਵਨੀ\V_VM_VINF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBLTD1938	ਕਾਦਰਯਾਰ\N_NNP ਰਾਣੀ\N_NN ਖੜੀ\RB ਅਰਜ਼\N_NN ਕਰਦੀ\V_VM_VF ,\RD_PUNC
+PBLTD1939	ਘੜੀ\N_NN ਰਹੋ\V_VM_VF ਤਾਂ\CC_CCD ਜੀਊਨਾ\V_VM_VINF ਪਾਵਨੀ\V_VM_VINF ਹਾਂ’\V_VAUX ।\RD_PUNC
+PBLTD1940	‘ਅੰਦਰ\RB ਵਾੜ\N_NN ਬਣਾਓ\V_VM_VF ਨਾ\RP_NEG ਚੋਰ\N_NN ਸਾਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1941	ਅੱਗੇ\RB ਇੱਕ\QT_QTC ਫਾਹੀ\N_NN ਵਿਚੋਂ\PSP ਲੰਘ\V_VM ਆਏ\V_VM_VF ,\RD_PUNC
+PBLTD1942	ਹੁਣ\RB ਕਜ਼ੀਏ\N_NN ਪਾਓ\V_VM_VF ਨਾ\RP_NEG ਹੋਰ\DM_DMQ ਸਾਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1943	ਮਹਲਾਂ\N_NN ਵਿੱਚ\PSP ਸੁਹਾਂਵਦੇ\V_VM_VF ਤੁਸੀਂ\PR_PRP ਰਾਜੇ\N_NN ,\RD_PUNC
+PBLTD1944	ਅਸੀਂ\PR_PRP ਜਾਂਦੜੇ\V_VM ਭਲੇ\JJ ਹਾਂ\V_VAUX ਟੋਰ\N_NN ਸਾਨੂੰ\PR_PRP ।\RD_PUNC
+PBLTD1945	ਕਾਦਰਯਾਰ\N_NNP ਫਿਰ\RB ਭੋਜਨ\N_NN ਦੀ\PSP ਭੁੱਖ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD1946	ਸਵਾ\QT_QTO ਪਹਿਰ\N_NN ਦੀ\PSP ਵਾਟ\N_NN ਨਾ\RP_NEG ਮੋੜ\V_VM ਸਾਨੂੰ’\PR_PRP ।\RD_PUNC
+PBLTD1947	ਮੀਮ\N_NN ਮਿੰਨਤਾਂ\N_NN ਕਰੇ,\V_VM_VF ਨਾ\RP_NEG ਰਹੇ\V_VM_VF ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1948	ਲੈ\V_VM ਕੇ\V_VM_VNF ਭਿੱਛਿਆ\N_NN ਗੁਰੂ\N_NN ਦੇ\PSP ਕੋਲ\RB ਆਏ\V_VM_VF ।\RD_PUNC
+PBLTD1949	ਹੱਥ\N_NN ਜੋੜ\V_VM ਕੇ\V_VM_VNF ਤੇ\CC_CCD ਗੁਰੂ\N_NN ਨਾਥ\N_NN ਅੱਗੇ\RB ,\RD_PUNC
+PBLTD1950	ਤੁਹਫਾ\N_NN ਰੂਬਰੂ\N_NN ਜਾ\V_VM ਕੇ\V_VM_VNF ਰੱਖਿਆ\V_VM_VF ਏ\V_VAUX ।\RD_PUNC
+PBLTD1951	ਗੁਰੂ\N_NN ਨਾਥ\N_NN ਇਹ\PR_PRP ਦੇਖ\V_VM ਹੈਰਾਨ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBLTD1952	‘ਹੀਰੇ\N_NN ਲਾਲ\N_NN ਜਵਾਹਰ\N_NN ਨੇ\PSP ਕਿਸ\DM_DMQ ਪਾਏ\V_VM_VF ?\RD_PUNC
+PBLTD1953	ਕਾਦਰਯਾਰ\N_NNP ਕਹਿੰਦਾ,\V_VM_VF ‘ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਨੇ\PSP ,\RD_PUNC
+PBLTD1954	ਇਹ\PR_PRP ਖ਼ੈਰ\N_NN ਤੁਸਾਂ\PR_PRP ਵੱਲ\PSP ਘੱਲਿਆ\V_VM ਏ’\V_VAUX ।\RD_PUNC
+PBLTD1955	ਠੂਨ\N_NN ‘ਨਹੀਂ\RP_NEG ਇਹ\PR_PRP ਦੌਲਤਾਂ\N_NN ਕੰਮ\N_NN ਸਾਡੇ’\PR_PRP ,\RD_PUNC
+PBLTD1956	ਗੁਰੂ\N_NN ਆਖਦਾ,\V_VM_VF ‘ਮੋੜ\V_VM ਲੈ\V_VM_VNF ਜਾ\V_VM_VNF ਪੁੱਤਾ\N_NN ।\RD_PUNC
+PBLTD1957	ਮਾਇਆ-ਲੋਭਾਂ\N_NN ਫਕੀਰਾਂ\N_NN ਦਾ\PSP ਕੰਮ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD1958	ਪੱਕਾ\JJ ਭੋਜਨ\N_NN ਮੰਗ\V_VM ਲੈ\V_VM_VNF ਆ\V_VM_VF ਪੁੱਤਾ\N_NN ।\RD_PUNC
+PBLTD1959	ਫਕਰ\N_NN ਜਹੀ\RB ਨਾ\RP_NEG ਦੌਲਤ\N_NN ਹੈ\V_VAUX ਹੋਰ\DM_DMQ ਕੋਈ\DM_DMQ ,\RD_PUNC
+PBLTD1960	ਸਾਨੂੰ\PR_PRP ਦਿੱਤੀ\V_VM_VF ਹੈ\V_VAUX ਆਪ\PR_PRF ਖ਼ੁਦਾ\N_NN ਪੁੱਤਾ\N_NN ।\RD_PUNC
+PBLTD1961	ਕਾਦਰਯਾਰ\N_NNP ਜਵਾਹਰ\N_NN ਨੂੰ\PSP ਰੋੜ\N_NN ਜਾਣੋ\V_VM_VINF ,\RD_PUNC
+PBLTD1962	ਦੌਲਤ\N_NN ਦੁਨੀਆ\N_NN ਦੀ\PSP ਖਾਕ\N_NN ਹੋਆ\V_VM_VF ਪੁੱਤਾ’\N_NN ।\RD_PUNC
+PBLTD1963	ਵਾਓ\N_NN ਵੰਝਣਾ\V_VM_VINF ਲੱਗਾ\V_VM_VF ਅਗਲੇ\RB ਭਲਕ\RB ਪੂਰਨ\N_NNP ,\RD_PUNC
+PBLTD1964	ਮੋਤੀ\N_NN ਮੋੜਨੇ\V_VM_VF ਨੂੰ\PSP ਸ਼ਹਿਰ\N_NN ਵੱਲ\PSP ਉੱਤੇ\RB ।\RD_PUNC
+PBLTD1965	ਰਾਣੀ\N_NNP ਸੁੰਦਰਾਂ\N_NNP ਓਸ\PR_PRP ਦਾ\PSP ਰਾਹ\N_NN ਤੱਕੇ\V_VM_VF ,\RD_PUNC
+PBLTD1966	ਖੜੀ\JJ ਦੇਖਦੀ\V_VM_VF ਰੰਗ-ਮਹੱਲਾਂ\N_NN ਉੱਤੇ\RB ।\RD_PUNC
+PBLTD1967	ਜਾਣੀ\JJ ਜਾਣ\JJ ਫ਼ਕੀਰਾਂ\N_NN ਦਾ\PSP ਰੱਬ\N_NN ਵਾਲੀ\N_NN ,\RD_PUNC
+PBLTD1968	ਪੂਰਨ\N_NNP ਜਾਇ\V_VM_VF ਵੜਿਆ\V_VM_VF ਘੜੀ\N_NN ਵਖ਼ਤ\N_NN ਉੱਤੇ\RB ।\RD_PUNC
+PBLTD1969	ਕਾਦਰਯਾਰ\N_NNP ਪੂਰਨ\N_NNP ਉਸ\PR_PRP ਦਾ\PSP ਗਾਹਕ\N_NN ਨਾਹੀਂ\RP_NEG ,\RD_PUNC
+PBLTD1970	ਰਾਣੀ\N_NN ਲੋੜਦੀ\V_VM_VF ਸੀ\V_VAUX ਜਿਹੜੀ\PR_PRL ਗੱਲ\N_NN ਉੱਤੇ’\RB ।\RD_PUNC
+PBLTD1971	ਹੇ\N_NN ਹੱਸ\V_VM ਕੇ\V_VM_VNF ਆਇ\V_VM_VF ਸਲਾਮ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBLTD1972	ਰਾਣੀ\PR_PRP ਸੁੰਦਰਾਂ\PR_PRP ਨੇ\PSP ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਤਾਈਂ\PSP ।\RD_PUNC
+PBLTD1973	ਪੂਰਨ\N_NNP ਭਗਤ\N_NNP ਉਲੱਦ\V_VM ਕੇ\V_VM_VNF ਆਖਿਆ\V_VM_VF ਸੂ\V_VAUX ,\RD_PUNC
+PBLTD1974	‘ਮੋਤੀ\N_NN ਸਾਂਭ\V_VM ਰਾਣੀ\N_NN ਸਾਡੇ\PR_PRP ਕੰਮ\N_NN ਨਾਹੀਂ\RP_NEG ।\RD_PUNC
+PBLTD1975	ਪੱਕੇ\JJ ਭੋਜਨ\N_NN ਦੀ\PSP ਦਿਲ\N_NN ਨੂੰ\PSP ਚਾਹ\V_VM ਹੈਗੀ\V_VM_VF ,\RD_PUNC
+PBLTD1976	ਇੱਛਿਆ\N_NN ਹੋਈ\V_VM_VF ਤਾਂ\CC_CCD ਤੁਰਤ\RB ਪਕਾ\V_VM ਲਯਾਈਂ\V_VM_VF |\RD_PUNC
+PBLTD1977	ਕਾਦਰਯਾਰ,\N_NNP ਮੇਰਾ\PR_PRP ਗੁਰੂ\N_NN ਖਫ਼ੇਂ\V_VM ਹੁੰਦਾ\V_VM_VF ,\RD_PUNC
+PBLTD1978	‘ਲਾਲ\N_NN ਮੋਤੀਆਂ\N_NN ਹੀਰੇ\N_NN ਨਾ\RP_NEG ਚਿੱਤ\N_NN ਲਾਈ\V_VM_VF ।’\RD_PUNC
+PBLTD1979	ਲਾਮ\N_NN ਲਿਆਵੰਦੀ\V_VM_VF ਤੁਰਤ\RB ਪਕਾ\RB ਰਾਣੀ\N_NN ,\RD_PUNC
+PBLTD1980	ਛੇਤੀ\RB ਭੋਜਨ\N_NN ਗਰਮ\JJ ਕਰਾਇ\V_VM ਕੇ\V_VM_VF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1981	ਚੱਲੀ\V_VM ਸਿਰੀਂ\N_NN ਚੁਕਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਲੌਂਡੀਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD1982	ਆਪ\PR_PRF ਨਜ਼ਰ\N_NN ਲੈਂਦੀ\V_VM_VF ਝੋਲੀ\N_NN ਪਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।\RD_PUNC
+PBLTD1983	ਹੱਥ\N_NN ਬੰਨ੍ਹ\V_VM ਕੇ\V_VM_VNF ਆਖਦੀ,\V_VM_VF ‘ਛੱਲ\N_NN ਸਾਈਆਂ\N_NN ਦੇ\PSP ,\RD_PUNC
+PBLTD1984	ਮੱਥਾ\N_NN ਟੇਕ\V_VM ਆਵਾਂ\V_VM_VF ਮੈਂ\PR_PRP ਭੀ\RP_RPD ਜਾਇ\V_VM_VF ਕੇ\V_VM_VNF ਜੀ\RP_INJ ।’\N_NN
+PBLTD1985	ਕਾਦਰਯਾਰ\N_NNP ਲੈ\V_VM_VNF ਚੱਲਿਆ\V_VM_VF ਸੁੰਦਰਾਂ\N_NNP ਨੂੰ\PSP ,\RD_PUNC
+PBLTD1986	ਪੂਰਨ\N_NNP ਹੁਸਨ\N_NN ਦੀ\PSP ਉੰਗਲੀ\N_NN ਲਾਇ\V_VM ਕੇ\V_VM_VNF ਜੀ’\RP_INJ ।\RD_PUNC
+PBLTD1987	ਅਲਫ਼\N_NN ਆਖਦੇ\V_VM_VF ਸੂਰਤ\N_NN ਹੈ\V_VAUX ਰਿਜ਼ਕ\N_NN ਅੱਧਾ\JJ |\RD_PUNC
+PBLTD1988	ਜੇਕਰ\CC_CCS ਆਪ\PR_PRF ਇਸੇ\PR_PRP ਨੂੰ\PSP ਰੱਬ\N_NN ਦੇਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD1989	ਸੁਰਤਵੰਦ\N_NN ਜੇ\PR_PRL ਕਿਸੇ\DM_DMQ ਦੇ\PSP ਵੱਲ\PSP ਦੇਖੇ\V_VM |\RD_PUNC
+PBLTD1990	ਸਭ\DM_DMQ ਕੋਈ\DM_DMQ ਬੁਲਾਂਵਦਾ\V_VM_VF ਹੱਸ\V_VM ਕੇ\V_VM_VNF ਵੇ\RP_INTF ।\RD_PUNC
+PBLTD1991	ਮਾਰੇ\RB ਸੂਰਤਾਂ\N_NN ਦੇ\PSP ਮਰ\V_VM ਗਏ\V_VM_VF ਆਸ਼ਕ\N_NN |\RD_PUNC
+PBLTD1992	ਹੁਸਨ\N_NN ਅੱਗ\N_NN ਫ਼ਿਰਾਕ\N_NN ਦੀ\PSP ਲਾ\V_VM_VNF ਦੇਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD1313	ਵਾਲੇ\N_NN ਕੋਕਲੇ\N_NN ,\RD_PUNC ਮੁੰਦਰੇ\N_NN ,\RD_PUNC ਮੱਝ\N_NN ਲੁੰਗੀ\JJ ,\RD_PUNC ਨਵਾਂ\JJ ਠਾਠ\N_NN ਤੇ\CC_CCD ਠਾਠ\N_NN ਚੜ੍ਹਾਇਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1314	ਕੇਹੀ\PR_PRQ ਸਿਫਤ\N_NN ਹਜ਼ਾਰੇ\N_NNP ਦੀ\PSP ਆਖ\V_VM ਸਕਾਂ\V_VM_VF ਗੋਇਆ\N_NN ਬਹਿਸ਼ਤ\N_NN ਜ਼ਮੀਨ\N_NN ਤੇ\CC_CCD ਆਇਆ\V_VM ਏ\V_VAUX |\RD_PUNC
+PBLTD1992	ਹੁਸਨ\N_NN ਅੱਗ\N_NN ਫ਼ਿਰਾਕ\N_NN ਦੀ\PSP ਲਾ\V_VM_VNF ਦੇਵੇ\V_VM_VF ।\RD_PUNC
+PBLTD1993	ਸੁਪਨੇ\N_NN ਵਿੱਚ\N_NN ਤੁਸੀਂ\PR_PRP ਮਿਲੇ\V_VM_VF ਅਸਾਨੂੰ\PR_PRP ਅਸਾਂ\PR_PRP ਧਾ\RB ਗਲਵਕੜੀ\N_NN ਪਾਈ\V_VM_VF ,\RD_PUNC
+PBLTD1994	ਨਿਰਾ\JJ ਨੂਰ\N_NN ਤੁਸੀਂ\PR_PRP ਹੱਥ\N_NN ਨ\RP_NEG ਆਏ\V_VM_VF ਸਾਡੀ\PR_PRP ਕੰਬਦੀ\V_VM_VF ਰਹੀ\V_VM_VF ਕਲਾਈ\N_NN ,\RD_PUNC
+PBLTD1995	ਧਾ\V_VM ਚਰਨਾਂ\N_NN ਤੇ\PSP ਸੀਸ\N_NN ਨਿਵਾਯਾ\RB ਸਾਡੇ\PR_PRP ਮੱਥੇ\N_NN ਛੋਹ\V_VM ਨ\RP_NEG ਪਾਈ\V_VM_VF ,\RD_PUNC
+PBLTD1996	ਤੁਸੀਂ\PR_PRP ਉੱਚੇ\RB ਅਸੀਂ\PR_PRP ਨੀਵੇਂ\RB ਸਾਂ\V_VAUX ਸਾਡੀ\PR_PRP ਪੇਸ਼\N_NN ਨ\RP_NEG ਗਈਆ\V_VM_VF ਕਾਈ\DM_DMQ ।\RD_PUNC
+PBLTD1997	ਫਿਰ\RB ਲੜ\V_VM ਫੜਨੇ\V_VM_VF ਨੂੰ\PSP ਉੱਠ\RB ਦੌੜੇ\V_VM ਪਰ\CC_CCS ਲੜ\N_NN ਓ\RP_INJ ‘ਬਿਜਲੀ-ਲਹਿਰਾ’\N_NN ,\RD_PUNC
+PBLTD1998	ਉਡਦਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਪਰ\CC_CCS ਉਹ\PR_PRP ਆਪਣੀ\PR_PRF ਛੁਹ\V_VM ਸਾਨੂੰ\PR_PRP ਗਯਾ\V_VM_VF ਲਾਈ\V_VM_VF ;\RD_PUNC
+PBLTD1999	ਮਿੱਟੀ\N_NN ਚਮਕ\V_VM ਪਈ\V_VM_VF ਇਹ\PR_PRP ਮੋਈ\N_NN ਤੇ\CC_CCD ਤੁਸੀਂ\PR_PRP ਲੂਆਂ\N_NN ਵਿੱਚ\PSP ਲਿਸ਼ਕੇ\V_VM |\RD_PUNC
+PBLTD2000	ਬਿਜਲੀ\N_NN ਕੂੰਦ\V_VM ਗਈ\V_VM_VF ਥਰਰਾਂਦੀ,\V_VM_VF ਹੁਣ\RB ਚਕਾਚੂੰਧ\N_NN ਹੈ\V_VAUX ਛਾਈ\V_VM_VF !\RD_PUNC 

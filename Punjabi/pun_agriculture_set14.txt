@@ -1,0 +1,1001 @@
+ID	Value
+PBAD13001	ਪੋਪਲਰ\N_NN :\RD_PUNC ਅੱਧ\JJ ਜਨਵਰੀ\N_NN ਤੋਂ\PSP ਫਰਵਰੀ\N_NN ਦੇ\PSP ਅੰਤ\RB ਤੱਕ\PSP ਪਾਪਲਰ\N_NN ਨੂੰ\PSP ਖਾਲਾਂ\N_NN ਵਿਚ\PSP ਲਗਾ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13002	ਬਲਾਕ\N_NN ਪਲਾਂਟੇਸ਼ਨਾਂ\N_NN ਵਿਚ\PSP ਪੌਦੇ\N_NN 5x4\QT_QTF ਮੀਟਰ\N_NN ਜਾਂ\CC_CCD 8x2\QT_QTF ਮੀਟਰ\N_NN ਦੇ\PSP ਫਾਸਲੇ\N_NN ਅਤੇ\CC_CCD ਇਕੱਲੀ\RB ਕਤਾਰ\N_NN (ਉੱਤਰ-ਦੱਖਣ\N_NN ਦੀ\PSP ਦਿਸ਼ਾ)ਵਿਚ\PSP 3\QT_QTF ਮੀਟਰ\N_NN ਦੇ\PSP ਫਾਸਲੇ\N_NN ਤੇ\N_NN ਲਾ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13003	ਪਾਪਲਰ\N_NN ਦੇ\PSP ਕਲੋਨ\N_NN ਨੰ.ਪੀ\N_NN ਐਲ-1,ਪੀ\N_NN ਐਲ-2,ਪੀ\N_NN ਐਲ-3,ਪੀ\N_NN ਐਲ-4,ਪੀ.ਐਲ-5,ਐਲ-47/88\N_NN ਅਤੇ\CC_CCD ਐਲ\N_NN -48/88\QT_QTF ਅਤੇ\CC_CCD ਐਲ-48/89\N_NN ਨੂੰ\PSP ਕੇਂਦਰੀ\JJ ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD ਪੀ\N_NN ਐਲ-3,ਪੀ\N_NN ਐਲ-6,ਅਤੇ\N_NN ਪੀ\N_NN ਅੇਲ-7,ਐਲ-48/89\N_NN ਨੂੰ\PSP ਦੱਖਣ-ਪੱਛਮੀ\JJ ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਉਗਾਉਣ\V_VM ਦੀ\PSP ਸਿਫ਼ਾਰਿਸ਼\V_VM ਕੀਤੀ\V_VM_VNF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13004	ਔਗਰ\N_NN ਦੀ\PSP ਮਦਦ\N_NN ਨਾਲ\PSP 15-20\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਡਾਇਆਮੀਟਰ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਮੀਟਰ\N_NN ਡੂੰਘਾ\JJ ਟੋਇਆ\N_NN ਪੁੱਟ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13005	ਟੋਏ\N_NN ਦੀ\PSP ਡੂੰਘਾਈ\JJ ਭਾਰੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP 75\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਅਤੇ\CC_CCD ਹਲਕੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP 100\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਹੋਣੀ\V_VM ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13006	ਪੌਦਿਆਂ\N_NN ਨੂੰ\PSP ਲਗਾਉਣ\V_VM ਤੋਂ\PSP ਪਹਿਲਾਂ\RB 48\QT_QTF ਘੰਟਿਆਂ\N_NN ਲਈ\PSP ਵਗਦੇ\JJ ਅਤੇ\CC_CCD ਸਾਫ਼\JJ ਪਾਣੀ\N_NN ਵਿਚ\PSP ਭਿਉਂ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13007	ਪੌਦੇ\N_NN ਦਾ\PSP ਹੇਠਲਾ\RB ਇਕ\QT_QTC ਮੀਟਰ\N_NN ਹਿੱਸਾ\N_NN 0.25%\QT_QTF ਏਮੀਸਾਨ\N_NN ਦੇ\PSP ਘੋਲ(250ਮਿ:ਲਿ:\N_NN ਦਵਾਈ\N_NN ਨੂੰ\PSP 100\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ)ਨਾਲ\PSP 10\QT_QTF ਮਿੰਟਾਂ\N_NN ਲਈ\PSP ਬਾਅਦ\RB ਵਿਚ\PSP 2.5%\QT_QTF ਏਮੀਸਾਨ\N_NN ਦੇ\PSP ਘੋਲ(250\QT_QTF ਮਿ:ਲਿ:ਦਵਾਈ\N_NN ਪ੍ਰਤੀ\N_NN 100\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ)ਵਿਚ\PSP 20\QT_QTF ਮਿੰਟਾਂ\N_NN ਲਈ\PSP ਸੋਧ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13008	ਪੌਦਾ\N_NN ਲਾਉਣ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਟੋਏ\N_NN ਨੂੰ\PSP ਰੂੜੀ\N_NN ਦੀ\PSP ਖਾਦ\N_NN ਅਤੇ\CC_CCD ਟੋਏ\N_NN ਵਿਚ\PSP ਦੀ\PSP ਉੱਪਰਲੀ\RB ਮਿੱਟੀ\N_NN ਦੇ\PSP (1:1)\QT_QTF ਮਿਕਦਾਰ\N_NN ਨਾਲ\N_NN 10-20\QT_QTF ਗ੍ਰਾਮ\N_NN ਲਿੰਡੇਨ\N_NN 20\QT_QTF ਤਾਕਤ\N_NN ਧੂੜਾ\N_NN ਅਤੇ\CC_CCD 50\QT_QTF ਗ੍ਰਾਮ\N_NN ਸਿੰਗਲ\N_NN ਸੁਪਰਫਾਸਫੇਟ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਭਰ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13009	ਸਫ਼ੈਦਾ\N_NN :\RD_PUNC ਲੱਕੜ\N_NN ਦੇ\PSP ਚੰਗੇ\JJ ਮੰਡੀਕਰਨ\N_NN ਵਾਸਤੇ\PSP ਸਖ਼ੈਦੇ\N_NN ਦੇ\PSP ਰੁੱਖਾਂ\N_NN ਨੂੰ\PSP ਲੱਕੜ\N_NN ਲਈ\PSP 12-15\QT_QTF ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਤੇ\PSP ਕੱਟਣਾ\V_VM ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13010	ਜਦੋਂ\PR_PRL ਰੁੱਖਾਂ\N_NN ਦਾ\PSP ਲਪੇਟ\N_NN 1.0\QT_QTF ਤੋਂ\PSP 1.5\QT_QTF ਮੀਟਰ\N_NN (\RD_SYM ਛਾਤੀ\N_NN ਦੀ\PSP ਉਚਾਈ\N_NN ਜਾਂ\CC_CCD 1.40\QT_QTF ਮੀਟਰ\N_NN ਧਰਤੀ\N_NN ਤੋਂ\PSP ਉੱਤੇ\RB )\RD_SYM ਹੋ\V_VM ਜਾਵੇ\V_VM ।\RD_PUNC
+PBAD13011	ਸਫ਼ੈਦੇ\N_NN ਦੀ\PSP ਲੱਕੜ\N_NN ਪੇਪਰ\N_NN ,\RD_PUNC ਪੱਲਪ\N_NN ਅਤੇ\CC_CCD ਬੱਲੀਆਂ\N_NN ਲਈ\PSP ਵਰਤਣੀ\V_VM ਹੋਵੇ\V_VM_VF ਤਾਂ\PSP ਰੁੱਖਾਂ\N_NN ਨੂੰ\PSP 7\QT_QTF ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਕੱਟਣਾ\V_VM ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13012	ਜਦੋਂ\PR_PRL ਰੁੱਖਾਂ\N_NN ਦੀ\PSP ਲਪੇਟ\N_NN 40\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN (\RD_SYM ਛਾਤੀ\N_NN ਦੀ\PSP ਉਚਾਈ\N_NN ਜਾਂ\CC_CCD 1.40\QT_QTF ਮੀਟਰ\N_NN ਧਰਤੀ\N_NN ਤੋਂ\PSP ਉੱਤੇ)\RB ਤੋਂ\PSP ਜ਼ਿਆਦਾ\RB ਹੋ\V_VM ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13013	ਰੁੱਖਾਂ\N_NN ਦੀ\PSP ਕਟਾਈ\N_NN ਸਰਦੀਆਂ\N_NN ਵਿਚ\PSP ਕਰਨੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13014	ਟਾਹਲੀ\N_NN :\RD_PUNC ਟਾਹਲੀ\N_NN ਦੀ\PSP ਨਰਸਰੀ\N_NN ਉਗਾਉਣ\V_VM ਵਾਸਤੇ\PSP ਸਿਹਤਮੰਦ\JJ ਤੇ\N_NN ਸਿੱਧੇ\JJ ਦਰੱਖਤਾਂ\N_NN ਤੋਂ\PSP ਨਵੰਬਰ\N_NN ਵਿਚ\PSP ਫ਼ਲੀਆਂ\N_NN ਇਕੱਠੀਆਂ\RB ਕਰਕੇ\V_VM_VF ,\RD_PUNC ਸੁਕਾ\V_VM ਕੇ\V_VM_VNF ਅਤੇ\CC_CCD ਫਿਰ\RB ਹਵਾ\N_NN ਬੰਦ\RB ਬਰਤਨ\N_NN ਵਿਚ\PSP ਸਾਂਭ\V_VM ਲਵੋ\V_VM_VF |\RD_PUNC
+PBAD13015	ਮੰਡੀ\N_NN ਚੇਤਨਾ\N_NN :\RD_PUNC ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਸਾਲ\N_NN ਕਪਾਹ\N_NN ਦੀ\PSP ਪੈਦਾਵਾਰ\N_NN ਪਿਛਲੇ\RB ਸਾਲ\N_NN ਦੇ\PSP ਮੁਕਾਵਲੇ\N_NN 6\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਘਟਣ\RB ਦੀ\PSP ਸੰਭਾਵਨਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13016	ਦੂਜੇ\QT_QTO ਪਾਸੇ\N_NN ਇਸ\PR_PRP ਦੀ\PSP ਖਪਤ\N_NN ਵਿਚ\PSP ਸਿਰਫ\RB 3\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਵਾਧਾ\RB ਹੋਣ\V_VM_VF ਦੀ\PSP ਉਮੀਦ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13017	ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਜ਼ਿਆਦਾ\RB ਸਟਾਕ\N_NN ਹੋਣ\V_VM_VINF ਕਰਕੇ\PSP ਚੀਨ\N_NNP ਵੱਲੋਂ\PSP ਇਸਦਾ\PR_PRP ਆਯਾਤ\N_NN 20\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਘੱਟ\RB ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13018	ਇਸ\PR_PRP ਕਾਰਨ\PSP ਵਿਸ਼ਵ\N_NN ਸਟਾਕ\N_NN 13\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਦੀ\PSP ਦਰ\N_NN ਨਾਲ\PSP ਵਧ\RB ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13019	ਭਾਰਤ\N_NNP ਦੇ\PSP ਕਪਾਹ\N_NN ਦੀ\PSP ਪੈਦਾ\V_VM_VF ਕਰਨ\V_VM_VF ਵਾਲੇ\PSP ਸੂਬਿਆਂ\N_NN ਵਿਚ\PSP ਘੱਟ\RB ਬਾਰਿਸ਼ਾਂ\N_NN ਹੋਣ\V_VM_VF ਕਰਕੇ\V_VM_VF ਇਸ\DM_DMD ਸਾਲ\N_NN ਦੀ\PSP ਕਪਾਹ\N_NN ਦੀ\PSP ਪੈਦਾਵਾਰ\V_VM ਪਿਛਲੇ\RB ਸਾਲ\N_NN ਦੇ\PSP 355\QT_QTF ਲੱਖ\QT_QTO ਗੰਢਾਂ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN 6\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਘੱਟ\RB ਕੇ\V_VM_VNF 334\QT_QTF ਲੱਖ\QT_QTC ਗੰਢਾਂ\N_NN ਹੋਣ\V_VM ਦਾ\PSP ਅਨੁਮਾਨ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13020	ਨਿਰਯਾਤ\N_NN ਦੇ\PSP ਘਟਣ\RB ਕਾਰਨ\N_NN ਇਸ\DM_DMD ਸਾਲ\N_NN ਦੇਸ਼\N_NN ਵਿਚ\PSP ਕਪਾਹ\N_NN ਦੀ\PSP ਕੁਲ\RB ਮੰਗ\V_VM 382\QT_QTF ਲੱਖ\QT_QTC ਗੰਢਾਂ\N_NN ਤੋਂ\PSP ਘੱਟ\RB ਕੇ\V_VM_VNF 340\N_NN ਲੱਖ\N_NN ਗੰਢਾਂ\N_NN ਰਹਿ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13021	ਪੰਜਾਬ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਸਾਲ\N_NN ਕਪਾਹ\N_NN ਅਧੀਨ\RB ਰਕਬਾ\N_NN ਪਿਛਲੇ\RB ਸਾਲ\N_NN ਦੇ\PSP 5.20\QT_QTF ਲੱਖ\N_NN ਹੈਕਟੇਅਰ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN ਘੱਟ\RB ਕੇ\V_VM_VNF 4.95\QT_QTF ਲੱਖ\QT_QTC ਹੈਕਟੇਅਰ\N_NN ਦੇ\PSP ਹੋਣ\V_VM_VNG ਦੇ\PSP ਸਿੱਟੇ\N_NN ਵਜੋਂ\RB ਇਸ\PR_PRP ਦੀ\PSP ਪੈਦਾਵਾਰ\N_NN 20\N_NN ਲੱਖ\QT_QTC ਗੰਢਾਂ\N_NN ਹੋਣ\V_VM_VNG ਦੀ\PSP ਉਮੀਦ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13022	ਇਸ\DM_DMD ਸਾਲ\N_NN ਸਰਕਾਰ\N_NN ਵੱਲੋਂ\PSP ਕਪਾਹ\N_NN ਦਾ\PSP ਘੱਟੋ-ਘੱਟ\JJ ਸਮਰੱਥਨ\N_NN ਮੁੱਲ\N_NN 3900\QT_QTF ਰੁਪਏ\N_NN ਪ੍ਰਤੀ\N_NN ਕੁਇੰਟਲ\N_NN ਐਲਾਨਿਆ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13023	ਕਪਾਹ\N_NN ਉਤਪਾਦਨ\V_VM ਅਤੇ\CC_CCD ਵਪਾਰ\N_NN ਦੀ\PSP ਰਾਸ਼ਟਰੀ\JJ ਅਤੇ\CC_CCD ਅੰਤਰਰਾਸ਼ਟਰੀ\JJ ਸਥਿਤੀ\N_NN ਦੇ\PSP ਅਧਿਐਨ\N_NN ਦੇ\PSP ਮੱਦੇਨਜ਼ਰ\N_NN ਇਸ\DM_DMD ਸਾਲ\N_NN ਇਸਦਾ\PR_PRP ਭਾਅ\N_NN 3800\QT_QTF ਤੋਂ\PSP 4200\QT_QTF ਰੁਪਏ\N_NN ਪ੍ਰਤੀ\N_NN ਕੁਇੰਟਲ\N_NN ਦੇ\PSP ਦਰਮਿਆਨ\N_NN ਰਹਿਣ\V_VM_VINF ਦੀ\PSP ਸੰਭਾਵਨਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13024	ਫਿਰ\RB ਵੀ\RP_RPD ਇਹ\PR_PRP ਇਸ\PR_PRP ਦੀ\PSP ਪੈਦਾਵਾਰ\N_NN ਅਤੇ\CC_CCD ਸਰਕਾਰੀ\N_NN ਨਿਰਯਾਤ\N_NN ਨੀਤੀ\N_NN ਤੇ\N_NN ਨਿਰਭਰ\V_VM ਕਰੇਗਾ\V_VM_VF ।\RD_PUNC
+PBAD13025	ਨਾਸ਼ਪਤੀ\N_NN ਠੰਡੇ\JJ ਇਲਾਕੇ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13026	ਇਸ\PR_PRP ਦੇ\PSP ਫ਼ਲ\N_NN ਪ੍ਰੋਟੀਨ\N_NN (0.69)\QT_QTF ,\RD_PUNC ਵਿਟਾਮਿਨ\N_NN ਏ(0.06\QT_QTF ਮਿਲੀਗ੍ਰਾਮ)\N_NN ,\RD_PUNC ਵਿਟਾਮਿਨ\N_NN ਬੀ\N_NN (0.03ਮਿਲੀਗ੍ਰਾਮ)\QT_QTF ਅਤੇ\CC_CCD ਧਾਤਾਂ\N_NN ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਕੈਲਸ਼ੀਅਮ\N_NN (8ਮਿਲੀਗ੍ਰਾਮ)\QT_QTF ,\RD_PUNC ਫਾਸਫੋਰਸ\N_NN (15ਮਿਲੀਗ੍ਰਾਮ)\QT_QTF ,\RD_PUNC ਲੋਹਾ\N_NN (0.5\QT_QTF ਮਿਲੀਗ੍ਰਾਮ)\N_NN ਆਦਿ\RP_CL ਦੇ\PSP ਮੁੱਖ\RB ਸੋਮੇ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13027	ਇਹਨਾਂ\DM_DMD ਦੀ\PSP ਮਾਤਰਾ\N_NN ਪ੍ਰਤੀ\N_NN 100\QT_QTF ਗ੍ਰਾਮ\N_NN ਗੁੱਦਾ\N_NN ਦੇਖੀ\V_VM ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13028	ਪੱਥਰ\N_NN ਨਾਮ\N_NN ਆਪਣੀ\PR_PRF ਗੁਣਵਤਾ\N_NN ਅਤੇ\CC_CCD ਢੋਆ-ਢੁਆਈ\N_NN ਵਿਚ\PSP ਠੀਕ\JJ ਰਹਿਣ\V_VM_VF ਕਰਕੇ\PSP ਵਧੀਆ\JJ ਗਿਣੀ\V_VM_VINF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13029	ਪੌਣ-ਪਾਣੀ\N_NN ਅਤੇ\CC_CCD ਜ਼ਮੀਨ\N_NN :\RD_PUNC ਨਾਸ਼ਪਤੀ\N_NN ਦੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਜਿਨ੍ਹਾਂ\PR_PRL ਨੂੰ\PSP 200-300\QT_QTF ਘੰਟੇ\N_NN ਤੋਂ\PSP ਘੱਟ\JJ ਦੀ\PSP ਲੋੜ\V_VM ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਕਾਮਯਾਬੀ\N_NN ਨਾਲ\PSP ਉਗਾਈਆਂ\V_VM ਜਾ\V_VM_VNF ਸਕਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13030	ਨਾਸ਼ਪਤੀ\N_NN ਕਈ\DM_DMQ ਤਰ੍ਹਾਂ\PSP ਦੀ\PSP ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਉਗਾਈ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਰੇਤਲੀ\JJ ਮੈਰਾ\N_NN ਤੋਂ\PSP ਮੈਰਾ\N_NN ਚੀਕਣੀ\JJ ।\RD_PUNC 
+PBAD13031	ਜੇਕਰ\CC_CCS ਜ਼ਮੀਨਾਂ\N_NN ਡੂੰਘੀਆਂ\JJ ,\RD_PUNC ਪਾਣੀ\N_NN ਜਜ਼ਬ\V_VM ਕਰਨ\V_VM_VF ਵਾਲੀਆਂ\PSP ਅਤੇ\CC_CCD ਉਪਜਾਊ\JJ ਹੋਣ\N_NN ਅਤੇ\CC_CCD 2ਮੀਟਰ\N_NN ਦੀ\PSP ਡੂੰਘਾਈ\N_NN ਤੱਕ\PSP ਕੋਈ\DM_DMQ ਸਖ਼ਤ\JJ ਤਹਿ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF ਅਤੇ\CC_CCD ਪੀ\N_NN ਐਚ\N_NN 8.7\QT_QTF ਤੋਂ\PSP ਘੱਟ\JJ ਹੋਵੇ\V_VM_VF ਲਾਭਕਾਰੀ\JJ ਸਿੱਧ\V_VM ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13032	ਪੌਦਿਆਂ\N_NN ਦੇ\PSP ਵਾਧੇ\RB ਲਈ\PSP ਜ਼ਮੀਨ\N_NN ਦੀ\PSP ਚਾਲਕਤਾ\N_NN 1.5\QT_QTF ਮਿਲੀ\N_NN ਮਹੋਜ਼\N_NN ਪ੍ਰਤੀ\N_NN ਸੈਂਟੀਮੀਟਰ\N_NN ਤੋਂ\PSP ਘੱਟ\JJ ,\RD_PUNC ਕੈਲਸ਼ੀਅਮ\N_NN ਕਾਰਬੋਨੇਟ\N_NN 10%\QT_QTF ਤੋਂ\PSP ਘੱਟ\JJ ਅਤੇ\CC_CCD ਚੂਨੇ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN 20%\QT_QTF ਤੋਂ\PSP ਘੱਟ\JJ ਹੋਣੀ\N_NN ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13033	ਜਿਹੜੀਆਂ\PR_PRL ਜ਼ਮੀਨਾਂ\N_NN ਦੀ\PSP ਪੀ\N_NN ਐਚ\N_NN 8.7\QT_QTF ਤੋਂ\PSP ਵਧ\JJ ਹੋਵੇਗੀ\V_VM_VF ਉੱਥੇ\RB ਲੋਹੇ\N_NN ਅਤੇ\CC_CCD ਜ਼ਿੰਕ\N_NN ਦੀ\PSP ਘਾਟ\JJ ਆਮ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13034	ਉੱਨਤ\JJ ਕਿਸਮਾਂ\N_NN :\RD_PUNC ਸਖ਼ਤ\JJ ਨਾਸ਼ਪਤੀ\N_NN :\RD_PUNC ਪੰਜਾਬ\N_NNP ਨਾਖ\N_NN (2008)\QT_QTF :\RD_PUNC ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਪੱਥਰਨਾਥ\N_NN ਦੇ\PSP ਪਰਿਵਾਰ\N_NN `ਚੋਂ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13035	ਦਰਖਤ\N_NN ਖਿਲਰਵੇਂ\V_VM_VF ਅਤੇ\CC_CCD ਛੇਤੀ\RB ਵਧਣ\N_NN ਵਾਲੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13036	ਫ਼ਲ\N_NN ਗੋਲ\JJ ,\RD_PUNC ਹਲਕੇ\JJ ਪੀਲੇ-ਹਰੇ\JJ ਰੰਗ\N_NN ,\RD_PUNC ਟਿਮਕਣਿਆਂ\JJ ਵਾਲੇ\PSP ਅਤੇ\CC_CCD ਜਿਨ੍ਹਾਂ\N_NN ਦਾ\PSP ਔਸਤਨ\N_NN ਭਾਰ\N_NN 155\QT_QTF ਗ੍ਰਾਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13037	ਇਸ\DM_DMD ਦਾ\PSP ਗੁੱਦਾ\N_NN ਦਾਣੇਦਾਰ\N_NN ,\RD_PUNC ਖਸਤਾ\JJ ਅਤੇ\CC_CCD ਮਿੱਠਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13038	ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਜੁਲਾਈ\N_NN ਦੇ\PSP ਚੌਥੇ\QT_QTO ਹਫਤੇ\N_NN ਪੱਕਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13039	ਇਸ\DM_DMD ਦਾ\PSP ਔਸਤਨ\N_NN ਝਾੜ\N_NN 190\QT_QTF ਕਿਲੋ\N_NN ਪ੍ਰਤੀ\N_NN ਬੂਟਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13040	ਪੱਥਰਨਾਖ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਪੱਧਰੇ\JJ ਇਲਾਕੇ\N_NN ਦੀ\PSP ਇਕ\QT_QTC ਮਹੱਤਵਪੂਰਨ\JJ ਕਿਸਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13041	ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਛੇਤੀ\JJ ਵਧਣ\V_VM ਵਾਲੇ\PSP ,\RD_PUNC ਲੰਮੇ\RB ਅਤੇ\CC_CCD ਖਿਲਰਵੇਂ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13042	ਇਹ\PR_PRP ਸਖ਼ਤ\JJ ਸਪੱਰ\N_NN ਉੱਪਰ\RB ਬਹੁਤ\DM_DMQ ਜ਼ਿਆਦਾ\RB ਫ਼ਲ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13043	ਫਲ\N_NN ਦਰਮਿਆਨੇ\JJ ,\RD_PUNC ਗੋਲ\JJ ,\RD_PUNC ਹਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ,\RD_PUNC ਪੱਕਣ\RB ਵਾਲੇ\N_NN ਪੀਲੀ\JJ ਭਾਅ\N_NN ਮਾਰਨ\V_VM_VF ਵਾਲੇ\PSP ਅਤੇ\CC_CCD ਟਿਮਕਣਿਆਂ\JJ ਵਾਲੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13044	ਇਸ\PR_PRP ਦਾ\PSP ਗੁੱਦਾ\N_NN ਮਿੱਠਾ\JJ ,\RD_PUNC ਦਾਣੇਦਾਰ\JJ ਤੇ\CC_CCD ਖਸਤਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13045	ਇਸ\DM_DMD ਵਿਚ\PSP ਮਿਠਾਸ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN 13\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਅਤੇ\CC_CCD ਖਟਾਸ\N_NN 0.4\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਅਤੇ\CC_CCD ਖਟਾਸ\N_NN 0.4\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13046	ਇਸ\DM_DMD ਦੀ\PSP ਢੋਆ-ਢੁਆਈ\N_NN ਬਹੁਤ\DM_DMQ ਸੌਖੀ\JJ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13047	ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਜੁਲਾਈ-ਅਗਸਤ\N_NN ਵਿਚ\PSP ਪੱਕ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13048	ਇਸ\DM_DMD ਦਾ\PSP ਔਸਤਨ\N_NN ਝਾੜ\N_NN 150\QT_QTF ਕਿਲੋ\N_NN ਪ੍ਰਤੀ\N_NN ਬੂਟਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13049	ਅਰਧ\JJ ਨਰਮ\JJ ਨਾਸ਼ਪਤੀ\N_NN :\RD_PUNC ਪੰਜਾਬ\N_NNP ਗੋਲਡ\N_NN :\RD_PUNC ਬੂਟੇ\N_NN ਸਿੱਧੇ\JJ ਅਤੇ\CC_CCD ਦਰਮਿਆਨੇ\JJ ਆਕਾਰ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13050	ਫ਼ਲ\N_NN ਦਾ\PSP ਔਸਤਨ\N_NN ਭਾਰ\N_NN 166\QT_QTF ਗ੍ਰਾਮ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13051	ਇਸ\PR_PRP ਵਿਚ\PSP ਮਿਠਾਸ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN 13.3\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਅਤੇ\CC_CCD ਖਟਾਸ\N_NN 0.22\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13052	ਬੂਟੇ\N_NN ਦਾ\PSP ਔਸਤਨ\N_NN ਝਾੜ\N_NN 80\QT_QTF ਕਿਲੋ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13053	ਪੰਜਾਬ\N_NNP ਨੈਕਟਰ\N_NN :\RD_PUNC ਬੂਟੇ\N_NN ਸਿੱਧੇ\JJ ਅਤੇ\CC_CCD ਦਰਮਿਆਨੇ\JJ ਆਕਾਰ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13054	ਇਸ\PR_PRP ਦਾ\PSP ਫ਼ਲ\N_NN ਆਕਾਰ\N_NN ਵਿਚ\PSP ਵੱਡਾ\JJ ,\RD_PUNC ਹਰਾ\JJ -\RD_PUNC ਪੀਲਾ\JJ ਅਤੇ\CC_CCD ਚਿੱਟੇ\JJ ਗੁੱਦੇ\N_NN ਵਾਲਾ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13055	ਫ਼ਲ\N_NN ਦਾ\PSP ਔਸਤਨ\N_NN ਭਾਰ\N_NN 138\QT_QTF ਗ੍ਰਾਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13056	ਪੱਕਿਆ\JJ ਫ਼ਲ\N_NN ਨਰਮ\JJ ,\RD_PUNC ਘੱਟ\JJ ਦਾਣੇਦਾਰ\JJ ਅਤੇ\CC_CCD ਰਸਦਾਰ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13057	ਪੰਜਾਬ\N_NNP ਬਿਊਟੀ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਕਿਸਮ\N_NN ਦੇ\PSP ਦਰਖਤ\N_NN ਲਿਕੋਂਟ\N_NN ਕਿਸਮ\N_NN ਨਾਲ\PSP ਰਲਦੇ-ਮਿਲਦੇ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13058	ਇਸਦੇ\DM_DMD ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਹਰ\RB ਸਾਲ\N_NN ਫ਼ਲ\N_NN ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13059	ਇਸ\DM_DMD ਦੇ\PSP ਰਸ\N_NN ਵਿਚ\PSP 14\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਮਿਠਾਸ\N_NN ਅਤੇ\CC_CCD 0.3\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਖਟਾਸ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13060	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN ਪੱਕਣ\N_NN ਤੇ\CC_CCD ਪੋਲਾ\JJ ਹੋ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13061	ਬੱਗੂਕੋਸ਼ਾ\N_NN :\RD_PUNC ਬੂਟੇ\N_NN ਸਿੱਧੇ\JJ ਅਤੇ\CC_CCD ਛੇਤੀ\RB ਵਧਣ\N_NN ਵਾਲੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13062	ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਇਕ\QT_QTC ਸਾਲ\N_NN ਵਧ\JJ ਅਤੇ\CC_CCD ਇਕ\QT_QTC ਸਾਲ\N_NN ਘੱਟ\JJ ਫ਼ਲ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13063	ਇਸ\DM_DMD ਦਾ\PSP ਫ਼ਲ\N_NN ਛੋਟਾ\JJ ,\RD_PUNC ਹਰਾ\JJ ,\RD_PUNC ਪੀਲਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13064	ਇਸ\DM_DMD ਦਾ\PSP ਗੁੱਦਾ\N_NN ਸਫੈਦ\JJ ,\RD_PUNC ਦਾਣੇਦਾਰ\JJ ਅਤੇ\CC_CCD ਪੋਲਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13065	ਲਿਕੋਂਟ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਕਿਸਮ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਸਿੱਧੇ\JJ ਵਧਣ\N_NN ਵਾਲੇ\PSP ,\RD_PUNC ਦਰਮਿਆਨੇ\JJ ਅਤੇ\CC_CCD ਖਿਲਰਵੇਂ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13066	ਬੂਟਾ\N_NN ਚੰਗੇ\JJ ਫ਼ਲ\N_NN ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13067	ਨਰਮ\JJ ਨਾਸ਼ਪਤੀ\N_NN :\RD_PUNC ਨਿਜੀਸਿਕੀ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਕਿਸਮ\N_NN ਦੇ\PSP ਫ਼ਲ\N_NN ਦਰਮਿਆਨੇ\JJ ਆਕਾਰ\N_NN ਦੇ\PSP ,\RD_PUNC ਸੁਨਹਿਰੀ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ,\RD_PUNC ਚਿੱਟੇ\JJ ਗੁੱਦੇ\N_NN ਵਾਲੇ\PSP ਅਤੇ\CC_CCD ਘੱਟ\RB ਟਿਮਕਣੀਆਂ\RB ਵਾਲੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13068	ਪੱਕਣ\N_NN ਤੇ\N_NN ਫ਼ਲ\N_NN ਬਹੁਤ\DM_DMQ ਨਰਮ\JJ ,\RD_PUNC ਰਸ\N_NN ਭਰਪੂਰ\JJ (74.6%\QT_QTF ਰਸ)\N_NN ਜਿਸ\PR_PRL ਵਿਚ\PSP 12.9%\QT_QTF ਮਿਠਾਸ\N_NN ਅਤੇ\CC_CCD 0.2%\QT_QTF ਖਟਾਸ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13069	ਇਸ\PR_PRP ਦਾ\PSP ਫ਼ਲ\N_NN ਜੂਨ\N_NN ਦੇ\PSP ਆਖਰੀ\RB ਹਫਤੇ\N_NN ਤੋਂ\PSP ਜੁਲਾਈ\N_NN ਦੇ\PSP ਪਹਿਲੇ\RB ਹਫਤੇ\N_NN ਬੂਟੇ\N_NN ਉੱਤੇ\RB ਹੀ\RP_RPD ਪੱਕ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13070	ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਪ੍ਰੋਸੈਸਿੰਗ\N_NN ਲਈ\PSP ਢੁਕਵੀਂ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13071	ਇਸ\DM_DMD ਦੇ\PSP ਫ਼ਲ\N_NN 0.1\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਲਸੀਅਸ\N_NN ਅਤੇ\CC_CCD 90-95%\QT_QTF ਨਮੀ\N_NN ਵਿਚ\PSP 4\QT_QTF ਹਫਤਿਆਂ\N_NN ਲਈ\PSP ਰੱਖੇ\V_VM ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13072	ਨਸਲੀ\N_NN ਵਾਧਾ\N_NN :\RD_PUNC ਨਾਸ਼ਪਤੀ\N_NN ਨੂੰ\PSP ਕੈਂਥ\N_NN ਦੀ\PSP ਪੌਦ\N_NN ਅਤੇ\CC_CCD ਨਾਖਾਂ\N_NN ਦੇ\PSP ਜੜਵਿਆਂ\N_NN (ਬਟਾਂਕਾਂ)\N_NN ਉੱਤੇ\RB ਪਿਉਂਦ\V_VM ਕੀਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13073	ਕੈਂਥ\N_NN ਉੱਪਰ\RB ਪਿਉਂਦ\V_VM ਕੀਤੇ\V_VM_VF ਹੋਏ\V_VM_VF ਬੂਟਿਆਂ\N_NN ਹੇਠ\RB ਬਟਾਂਕਾਂ\N_NN ਨਹੀਂ\RP_NEG ਉਗਦੀਆਂ\V_VM ।\RD_PUNC
+PBAD13074	ਕੈਂਥ\N_NN ਦਾ\PSP ਬੀਜ\N_NN ਇਕੱਠਾ\RB ਕਰਨਾ\N_NN :\RD_PUNC ਕੈਂਥ\N_NN ਦੇ\PSP ਪੱਕੇ\JJ ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਅਕਤੂਬਰ\N_NN ਵਿਚ\PSP ਤੋੜ\V_VM ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13075	ਇਹ\DM_DMD ਫ਼ਲ\N_NN ਬਹੁਤ\DM_DMQ ਸਖ਼ਤ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13076	ਇਨ੍ਹਾਂ\PR_PRP ਬੀਜਾਂ\N_NN ਨੂੰ\PSP ਰੇਤ\N_NN ਦੀਆਂ\PSP ਤਹਿਆਂ\N_NN ਵਿਚ\PSP ਦਸੰਬਰ\N_NN ਵਿਚ\PSP ਇਕ\QT_QTC ਮਹੀਨੇ\N_NN ਲਈ\PSP ਦਬਾ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13077	ਇਸ\DM_DMD ਵਿਧੀ\N_NN ਨੂੰ\PSP ਸਟਰੈਟੀਫਿਕੇਸ਼ਨ\N_NN ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13078	ਪੁੰਗਰੇ\N_NN ਹੋਏ\V_VM_VF ਬੀਜ\N_NN ਜਨਵਰੀ\N_NN ਵਿਚ\PSP ਨਰਸਰੀ\N_NN ਵਿਚ\PSP ਬੀਜ\V_VM ਦਿੱਤੇ\V_VM_VF ਜਾਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13079	ਫਰਵਰੀ\N_NN ਵਿਚ\PSP ਕੈਂਥ\N_NN ਦੀ\PSP ਪੌਦ\N_NN 10x60\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਦੀ\PSP ਵਿੱਥ\N_NN ਤੇ\N_NN ਲਾਈਨਾਂ\N_NN ਵਿਚ\PSP ਲਗਾ\V_VM ਦਿੱਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13080	ਇਹ\PR_PRP ਪੌਦੇ\N_NN ਇਕ\QT_QTC ਸਾਲ\N_NN ਬਾਅਦ\RB ਪਿਉਂਦ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਤਿਆਰ\V_VM ਹੋ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13081	ਕੈਂਥ\N_NN ਨੂੰ\PSP ਬੀਜ\N_NN ਜੜ੍ਹ-ਮੂਲ\N_NN ਲਈ\PSP ਸਿਧਿਆਂ\N_NN ਬੀਜਣਾ\V_VM :\RD_PUNC ਪੂਰੀ\JJ ਤਰ੍ਹਾਂ\PSP ਤਿਆਰ\RB ਕੈਂਥ\N_NN ਦੇ\PSP ਫ਼ਲਾਂ\N_NN ਵਿਚੋਂ\PSP ਬੀਜ\N_NN ਸਤੰਬਰ\N_NN ਦੇ\PSP ਅਖੀਰਲੇ\RB ਜਾਂ\CC_CCD ਅਕਤੂਬਰ\N_NN ਦੇ\PSP ਪਹਿਲੇ\RB ਹਫਤੇ\N_NN ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਸਿੱਧੇ\JJ ਬੀਜ\V_VM ਦਿੱਤੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13082	ਇਹ\PR_PRP ਬੀਜ\N_NN ਲੱਕੜ\N_NN ਦੇ\PSP ਬਕਸਿਆਂ\N_NN ਵਿਚ\PSP ਰੇਤ\N_NN ਵਿਚ\PSP ਉੱਗਣ\V_VM ਲਈ\PSP ਬੀਜੇ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13083	ਇਹ\PR_PRP ਬੀਜ\N_NN 10-12\QT_QTF ਦਿਨਾਂ\N_NN ਵਿਚ\PSP ਉੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13084	2\QT_QTF ਤੋਂ\PSP 4\QT_QTF ਪੱਤੀਆਂ\N_NN ਵਾਲੀ\PSP ਪੌਦ\N_NN ,\RD_PUNC ਸਾਵਧਾਨੀ\N_NN ਨਾਲ\PSP ਰੇਤ\N_NN ਵਿਚੋਂ\PSP ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਤਿਆਰ\N_NN ਕੀਤੀਆਂ\V_VM_VF ਨਰਸਰੀਆਂ\N_NN ਦੀਆਂ\PSP ਕਿਆਰੀਆਂ\N_NN ਵਿਚ\PSP 10\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਵਿੱਥ\N_NN ਤੇ\PSP ਲਗਾ\V_VM ਦਿੱਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13085	ਇਸ\PR_PRP ਤਰ੍ਹਾਂ\PSP ਲਗਾਏ\V_VM ਬੂਟੇ\N_NN ਮਈ-ਜੂਨ\N_NN ਵਿਚ\PSP ਅੱਖ\N_NN ਚੜਾਉਣ\V_VM ਲਈ\PSP ਤਿਆਰ\N_NN ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13086	ਅੱਖ\N_NN ਚੜਾਉਣਾ\V_VM ਜਾਂ\CC_CCD ਪਿਉਂਦ\N_NN ਕਰਨਾ\N_NN :\RD_PUNC ਨਾਸ਼ਪਤੀ\N_NN ਲਈ\PSP ਆਮ\JJ ਤੌਰ\PSP ਤੇ\N_NN ਅੰਗਰੇਜ਼ੀ\N_NN ਸ਼ਬਦ\N_NN `\RD_PUNC ਟੀ\N_NN `\RD_PUNC ਦੇ\PSP ਤਰੀਕੇ\PSP ਦਾ\PSP ਕੱਟ\V_VM ਕੇ\V_VM_VNF ਅੱਖ\N_NN ਚੜਾਈ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਜੀਭੀ\N_NN ਪਿਉਂਦ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13087	ਅੱਖ\N_NN ਮਈ-ਜੂਨ\N_NN ਵਿਚ\PSP ਚੜਾਈ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13088	ਪਿਉਂਦ\N_NN ਦਸੰਬਰ-ਜਨਵਰੀ\N_NN ਵਿਚ\PSP ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13089	ਬੂਟੇ\N_NN ਲਾਉਣਾ\N_NN :\RD_PUNC ਨਾਸ਼ਪਤੀ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਸਰਦੀਆਂ\N_NN ਵਿਚ\PSP ਅੱਧ\JJ ਫਰਵਰੀ\N_NN ਤੱਕ\PSP ਲਗਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਦੋਂ\PR_PRL ਇਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਪੱਤੇ\N_NN ਝੜੇ\V_VM ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13090	ਚੰਗਾ\JJ ਹੋਵੇ\V_VM_VF ਜੇ\PR_PRL ਜਨਵਰੀ\N_NN ਵਿਚ\PSP ਬੂਟੇ\N_NN ਲਾਏ\V_VM_VF ਜਾਣ\V_VM_VF ।\RD_PUNC
+PBAD13091	ਆਮ\RB ਤੌਰ\PSP ਤੇ\CC_CCD ਇਕ\QT_QTC ਸਾਲ\N_NN ਪੁਰਾਣੇ\JJ ਬੂਟੇ\N_NN ਹੀ\RP_RPD ਲਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਪਰ\CC_CCS ਜੇਕਰ\CC_CCS ਨਰਸਰੀ\N_NN ਵਿਚ\PSP ਬੂਟੇ\N_NN ਸਿਧਾਏ\N_NN ਹੋਣ\N_NN ਤਾਂ\CC_CCS 2-3\QT_QTF ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਦੇ\PSP ਪੌਦੇ\N_NN ਵੀ\RP_RPD ਲਗਾਏ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13092	ਪੱਥਰਨਾਖ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN 7.5x7.5\QT_QTF ਮੀਟਰ\N_NN ਤੇ\CC_CCD ਲਗਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਦਕਿ\CC_CCS ਨਰਮ\JJ ਨਾਸ਼ਪਤੀ\N_NN ਦੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN 6x6\QT_QTF ਮੀਟਰ\N_NN ਦੇ\PSP ਫਾਸਲੇ\N_NN ਤੇ\N_NN ਲਗਾਈਆਂ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13093	ਸੰਘਣੀ\N_NN ਪ੍ਰਣਾਲੀ\N_NN :\RD_PUNC ਪੱਥਰਨਾਖ\N_NN ਨਾਸ਼ਪਤੀ\N_NN ਦੇ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP 8x4\QT_QTF ਮੀ.\N_NN ਦੇ\PSP ਫਾਸਲੇ\N_NN ਤੇ\CC_CCD ਵੀ\RP_RPD ਲਗਾਇਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਦੇ\PSP ਮੁੱਖ\JJ ਤਣੇ\N_NN ਅਤੇ\CC_CCD ਦੋ\QT_QTC ਸਾਖਾਵਾਂ\N_NN ਨੂੰ\PSP ਧਰਤੀ\N_NN ਨਾਲ\PSP ਬੰਨ\V_VM ਕੇ\V_VM_VNF ਸੁਧਾਈ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13094	ਇਸ\PR_PRP ਤਰ੍ਹਾਂ\PSP ਕਰਨ\N_NN ਨਾਲ\PSP ਬੂਟੇ\N_NN ਫ਼ਲ\N_NN ਜਲਦੀ\RB ਚੁੱਕ\V_VM ਲੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13095	ਸਿਧਾਈ\RB ਅਤੇ\CC_CCD ਕਾਂਟ-ਛਾਂਟ\RB :\RD_PUNC ਬੂਟੇ\N_NN ਲਗਾਉਣ\V_VM ਸਮੇਂ:ਮਜ਼ਬੂਤ\N_NN ਟਾਹਣੀ\N_NN ਵਾਲਾ\PSP ਬੂਟਾ\N_NN ਤਿਆਰ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਪੌਦੇ\N_NN ਦੀ\PSP ਸੁਧਰੀ\N_NN ਹੋਈ\V_VM_VF ਟੀਸੀ\N_NN ਵਾਲੇ\PSP ਤਰੀਕੇ\N_NN ਨਾਲ\PSP ਸਿਧਾਈ\V_VM ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13096	ਪੌਦੇ\N_NN ਨੂੰ\PSP 90\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਦੀ\PSP ਉਚਾਈ\N_NN ਤੋਂ\PSP ਕੱਟ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13097	ਪੌਦਾ\N_NN ਫਰਵਰੀ-ਮਾਰਚ\N_NN ਵਿਚ\PSP ਫੁੱਟਣ\V_VM ਲੱਗੇਗਾ\V_VM_VF ।\RD_PUNC
+PBAD13098	ਤਣੇ\N_NN ਉੱਤੇ\RB ਜ਼ਮੀਨ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF 45\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਦੀ\PSP ਉਚਾਈ\N_NN ਤੱਕ\PSP ਕੋਈ\DM_DMQ ਸ਼ਾਖ\N_NN ਨਹੀਂ\RP_NEG ਰਹਿਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13099	ਦੂਸਰੇ\QT_QTO ਸਾਲ\N_NN ਦੀ\PSP ਸਿਧਾਈ\N_NN :\RD_PUNC ਦਰਮਿਆਨ\N_NN ਦੀ\PSP ਸਭ\RB ਤੋਂ\PSP ਲੰਮੀ\RB ਟਹਿਣੀ\N_NN ਨੂੰ\PSP ਛੱਡ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਪ੍ਰਤੂੰ\CC_CCS ਜਿੱਥੇ\PR_PRL ਕੱਚਾ\JJ ਭਾਗ\N_NN ਸ਼ੁਰੂ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਉੱਥੇ\RB ਇਸ\DM_DMD ਨੂੰ\PSP ਕੱਟ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13100	ਪਾਸੇ\RB ਦੀਆਂ\PSP 3-4\QT_QTF ਟਹਿਣੀਆਂ\N_NN ਜੋ\PR_PRL ਆਪਸ\PR_PRC ਵਿਚ\PSP 15\QT_QTF ਤੋਂ\PSP 20\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਦੇ\PSP ਫਾਸਲੇ\N_NN ਤੇ\CC_CCD ਵੱਖ-ਵੱਖ\RB ਦਿਸ਼ਾਵਾਂ\N_NN ਹੋਣ\N_NN ,\RD_PUNC ਰੱਖ\V_VM ਲਈਆਂ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13101	ਇਹ\PR_PRP ਚੰਗਾ\JJ ਹੋਵੇਗਾ\V_VM_VF ਜੇਕਰ\CC_CCS ਇਨ੍ਹਾਂ\PR_PRP ਦੀਆਂ\PSP ਟਹਿਣੀਆਂ\N_NN ਨੂੰ\PSP ਸੇਬੇ\N_NN ਨਾਲ\PSP ਬੰਨ੍ਹ\V_VM ਕੇ\V_VM_VNF ਧਰਤੀ\N_NN ਨਾਲ\PSP ਬੰਨ੍ਹ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13102	ਬੰਨ੍ਹਣ\N_NN ਨਾਲ\PSP ਇਨ੍ਹਾਂ\DM_DMD ਟਹਿਣੀਆਂ\N_NN ਤੇ\CC_CCD ਹੋਰ\RB ਸ਼ਾਖਾਵਾਂ\N_NN ਨਿਕਲਣ\V_VM ਵਿਚ\PSP ਮੱਦਦ\N_NN ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13103	ਤੀਸਰੇ\QT_QTO ਸਾਲ\N_NN ਦੀ\PSP ਸਿਧਾਈ\N_NN :\RD_PUNC ਦੂਜੇ\QT_QTO ਸਾਲ\N_NN ਦੀ\PSP ਕਟਾਈ\N_NN ਵੇਲੇ\PSP ਰੱਖੀਆਂ\V_VM ਟਾਹਣੀਆਂ\N_NN ਨੂੰ\PSP ਨਵੀਆਂ\JJ ਸ਼ਾਖਾਵਾਂ\N_NN ਫੁੱਟਣ\V_VM ਲਈ\PSP ਛੱਡ\V_VM ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13104	ਚੌਥੇ\QT_QTO ਅਤੇ\CC_CCD ਪੰਜਵੇਂ\QT_QTO ਸਾਲ\N_NN ਦੀ\PSP ਸਿਧਾਈ\N_NN :\RD_PUNC ਅੱਗੇ\RB ਤੋਂ\PSP ਅੱਗੇ\RB ਵਧਣ\N_NN ਵਾਲੀਆਂ\PSP ਨਾ\RP_NEG ਵਾਹੁਣ\RB ਯੋਗ\RB ਸ਼ਾਖਾਵਾਂ\N_NN ਨੂੰ\PSP ਕੱਟ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13105	ਵਿਚਕਾਰਲੀ\RB ਛੱਡੀ\RB ਹੋਈ\V_VM_VF ਟਾਹਣੀ\N_NN ਨੂੰ\PSP ਕੱਟ\V_VM ਦਿਉ\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਇਸ\PR_PRP ਦਾ\PSP ਫੈਲਾਅ\N_NN ਬਾਹਰ\RB ਵੱਲ\PSP ਹੋਵੇ\V_VM_VF ਅਤੇ\CC_CCD ਬੂਟਾ\N_NN ਚੰਗੀ\JJ ਛੱਤਰੀ\N_NN ਬਣਾ\V_VM ਲਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13106	ਪੱਥਰਨਾਖ\N_NN ਦੇ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP 2.5\QT_QTF ਮੀਟਰ\N_NN ਦੀ\PSP ਉਚਾਈ\N_NN ਤੇ\CC_CCD ਕਟਾਈ\V_VM ਕਰਕੇ\N_NN ਉਨ੍ਹਾਂ\DM_DMD ਤੋਂ\PSP ਵਧੀਆ\JJ ਕੁਆਲਟੀ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN ਪ੍ਰਾਪਤ\V_VM ਕੀਤਾ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13107	ਇਸ\DM_DMD ਲਈ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਸੰਘਣੀ\JJ ਪ੍ਰਣਾਲੀ\N_NN (4x4)\QT_QTF ਦੁਆਰਾ\PSP ਲਾਉ\V_VM ।\RD_PUNC
+PBAD13108	ਕਾਂਟ-ਛਾਂਟ\N_NN :\RD_PUNC ਨਾਸ਼ਪਤੀ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN ਖੁੰਘਿਆਂ\N_NN ਉਪਰ\RB ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਜੋ\CC_CCS ਲਗਾਤਾਰ\RB ਲਗਭਗ\RB 8\QT_QTF ਸਾਲ\N_NN ਫ਼ਲ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13109	ਪੁਰਾਣੇ\JJ ਅਤੇ\CC_CCD ਫ਼ਲ\N_NN ਦਿੰਦੇ\V_VM_VF ਬੂਟਿਆਂ\N_NN ਦੀਆਂ\PSP ਸੁੱਕੀਆਂ\JJ ਟਾਹਣੀਆਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਕੱਟ\V_VM ਕੇ\V_VM_VNF ਵਿਰਲਾ\JJ ਕੀਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਜੋ\CC_CCS ਉੱਤੇ\RB ਜ਼ਿਆਦਾ\RB ਫ਼ਲ\N_NN ਦੇਣ\V_VM_VF ਵਾਲੀਆਂ\PSP ਨਵੀਆਂ\JJ ਟਾਹਣੀਆਂ\N_NN ਫੁੱਟ\V_VM ਪੈਣ\V_VM_VF ।\RD_PUNC
+PBAD13110	ਪੁਰਾਣੇ\JJ ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਨਵਾਂ\JJ ਨਰੋਆ\JJ ਕਰਨ\N_NN ਦੀ\PSP ਵਿਧੀ\N_NN :\RD_PUNC ਪੁਰਾਣੇ\JJ ਬੂਟੇ\N_NN ਜਿਨ੍ਹਾਂ\PR_PRL ਨੂੰ\PSP ਘੱਟ\JJ ਫ਼ਲ\N_NN ਲੱਗਦਾ\V_VM ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਦੀ\PSP ਕਾਂਟ-ਛਾਂਟ\N_NN ਕਰ\V_VM_VF ਦੇਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13111	ਦਸੰਬਰ\N_NN ਦੇ\PSP ਮਹੀਨੇ\N_NN ਪੁਰਾਣੇ\JJ ਬੂਟਿਆਂ\N_NN ਦੀਆਂ\PSP ਪ੍ਰਮੁੱਖ\N_NN 3-4\QT_QTF ਟਾਹਣੀਆਂ\N_NN ਨੂੰ\PSP ,\RD_PUNC ਜੋ\PR_PRL ਕਿ\CC_CCS ਕਾਫੀ\DM_DMQ ਵਿੱਥ\N_NN ਤੇ\PSP ਹੋਣ\N_NN ,\RD_PUNC 15\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਲੰਬਾਈ\N_NN ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਕੱਟ\V_VM_VF ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13112	ਬਾਕੀ\RB ਦੇ\PSP ਸਾਰੇ\RB ਟਾਹਣੇ\N_NN ਕੱਟ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13113	ਮਾਰਚ\N_NN ਦੇ\PSP ਮਹੀਨੇ\N_NN ਵਿਚ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਕੱਟੀਆਂ\RB ਹੋਈਆਂ\V_VM_VF ਟਾਹਣੀਆਂ\N_NN ਉੱਤੇ\RB ਕਾਫੀ\DM_DMQ ਸ਼ਾਖਾਵਾਂ\N_NN ਆ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13114	ਮਈ\N_NN ਦੇ\PSP ਮਹੀਨੇ\N_NN ਇਨ੍ਹਾਂ\PR_PRP 3-4\QT_QTF ਟਾਹਣੀਆਂ\N_NN ਉੱਤੇ\RB 1-2\QT_QTF ਬਾਹਰ\RB ਵੱਲ\PSP ਨੂੰ\PSP ਵਧ\RB ਰਹੀਆਂ\V_VM_VF ਟਾਹਣੀਆਂ\N_NN ਰੱਖ\V_VM_VF ਲਉ\V_VM_VF ।\RD_PUNC
+PBAD13115	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਬੂਟੇ\N_NN ਤੇ\RB ਕੁਲ\N_NN 6-8\QT_QTF ਟਾਹਣੀਆਂ\N_NN ਰਹਿ\V_VM_VF ਜਾਣਗੀਆਂ\V_VM_VF ।\RD_PUNC
+PBAD13116	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਦੇ\PSP ਬੂਟੇ\N_NN ਤੀਜੇ\QT_QTO ਸਾਲ\N_NN ਫ਼ਲ\N_NN ਦੇਣ\V_VM_VF ਲੱਗ\V_VM_VF ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਪੰਜਵੇਂ\QT_QTO ਸਾਲ\N_NN ਭਰਵਾਂ\RB ਫ਼ਲ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13117	ਨਦੀਨਾਂ\N_NN ਦੀ\PSP ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਹੈਕਸੂਰੋਨ\N_NN 80\QT_QTF ਘੁਲਣਸ਼ੀਲ(ਡਾਈਯੂਰੋਨ)\N_NN 1.6\QT_QTF ਕਿਲੋ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ,ਪਹਿਲੇ\QT_QTO ਨਦੀਨ\N_NN ਤੇ\CC_CCD ਘਾਹ\N_NN ਫੂਸ\N_NN ਕੱਢ\V_VM ਕੇ\V_VM ਅਤੇ\CC_CCD ਨਵੇਂ\JJ ਨਦੀਨ\N_NN ਉੱਗਣ\V_VM ਤੋਂ\PSP ਪਹਿਲਾਂ\RB (\RD_SYM ਮਾਰਚ\N_NN ਦੇ\PSP ਪਹਿਲੇ\QT_QTO ਪੰਦਰਵਾੜੇ\N_NN ਵਿਚ\PSP )\RD_SYM ਛਿੜਕੋ\V_VM ।\RD_PUNC
+PBAD13118	ਗਲਾਈਸਲ\N_NN 41\QT_QTF ਐੱਸ\N_NN ਐੱਲ\N_NN (ਗਲਾਈਫੋਸੇਟ)1.2\QT_QTF ਲਿਟਰ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਜਾਂ\CC_CCD ਗ੍ਰਾਮੈਕਸੋਨ\N_NN 24\QT_QTF ਡਬਲਯੂ\N_NN ਐੱਸ\N_NN ਸੀ(ਪੈਰਾਕੁਏਟ)1.2\QT_QTF ਲਿਟਰ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਨਾਲ\PSP ਉਸ\PR_PRP ਵੇਲੇ\PSP ਛਿੜਕੋ\V_VM ਜਦੋਂ\PR_PRL ਬਹੁਤ\DM_DMQ ਸਾਰੇ\RB ਨਦੀਨ\N_NN 15-20\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਉੱਚੇ\RB ਵਧ\V_VM ਗਏ\V_VM_VF ਹੋਣ\V_VM_VF ।\RD_PUNC
+PBAD13119	ਨਦੀਨ\N_NN ਨਾਸ਼ਕ\N_NN ਦਵਾਈਆਂ\N_NN ਦੇ\PSP ਘੋਲ\N_NN ਨੂੰ\PSP 200\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਬਣਾਉ\V_VM_VF ਤਾਂ\CC_CCS ਕਿ\CC_CCS ਛਿੜਕਾਅ\N_NN ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਹੋ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13120	ਜੇਕਰ\CC_CCS ਵਰਖਾ\N_NN ਰੁੱਤੇ\N_NN ਜਾਂ\CC_CCD ਪਿਛੋਂ\RB ਨਦੀਨ\N_NN ਫਿਰ\RB ਵੀ\RP_RPD ਉੱਗ\V_VM ਪੈਣ\V_VM_VF ਤਾਂ\CC_CCS ਗਲਾਈਸਲ\N_NN ਜਾਂ\CC_CCD ਗ੍ਰਾਮੈਕਸੋਨ\N_NN ਦਾ\PSP ਉਨੀ\RB ਹੀ\RP_RPD ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਫਿਰ\RB ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13121	ਇਹ\PR_PRP ਛਿੜਕਾਅ\N_NN ਉਸ\PR_PRP ਦਿਨ\N_NN ਕਰੋ\V_VM_VF ਜਦੋਂ\PR_PRL ਹਵਾ\N_NN ਨਾ\RP_NEG ਚੱਲਦੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਦਵਾਈ\N_NN ਫ਼ਲਦਾਰ\N_NN ਬੂਟਿਆਂ\N_NN ਤੇ\RB ਪੂਰੀ\JJ ਤਰ੍ਹਾਂ\PSP ਅਸਰ\V_VM ਕਰੇ\V_VM_VF ।\RD_PUNC
+PBAD13122	ਖਾਦਾਂ\N_NN ਪਾਉਣ\V_VM ਦਾ\PSP ਸਮਾਂ\N_NN :\RD_PUNC ਸਾਰੀ\RB ਰੂੜੀ\N_NN ਦੀ\PSP ਖਾਦ\N_NN ,\RD_PUNC ਸੁਪਰਫਾਸਫੇਟ\N_NN ਅਤੇ\CC_CCD ਮਿਊਰੇਟ\N_NN ਆਫ\N_NN ਪੋਟਾਸ਼\N_NN ਦਸੰਬਰ\N_NN ਮਹੀਨੇ\N_NN ਪਾਉ\V_VM_VF ।\RD_PUNC
+PBAD13123	ਅੱਧੀ\JJ ਨਾਈਟਰੋਜਨ\N_NN ਦੀ\PSP ਮਾਤਰਾ\N_NN ਫਰਵਰੀ\N_NN ਵਿਚ\PSP ਫੁੱਲ\N_NN ਆਉਣ\V_VM_VF ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਅਤੇ\CC_CCD ਬਾਕੀ\JJ ਦੀ\PSP ਅੱਧੀ\JJ ਅੱਧ\JJ ਅਪ੍ਰੈਲ\N_NN ਵਿਚ\PSP ਪਾ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13124	ਕਲਰਾਠੀਆਂ\N_NN ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਨਾਖਾਂ\N_NN ਦੇ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਜਿਸਤ\N_NN ਅਤੇ\CC_CCD ਲੋਹੇ\N_NN ਦੀ\PSP ਘਾਟ\N_NN ਆਮ\RB ਆ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13125	ਜਿਸਤ\N_NN ਦੀ\PSP ਘਾਟ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਸਾਲ\N_NN ਨਵੇਂ\JJ ਪੱਤਿਆਂ\N_NN ਵਿਚ\PSP ਮੋਟੀਆਂ\JJ ਨਾੜਾਂ\N_NN ਦੇ\PSP ਵਿਚਕਾਰਲਾ\N_NN ਹਿੱਸਾ\N_NN ਪੀਲਾ\JJ ਹੋਣਾ\N_NN ਸ਼ੁਰੂ\V_VM ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13126	ਪੱਤਿਆਂ\N_NN ਦਾ\PSP ਆਕਾਰ\N_NN ਛੋਟਾ\JJ ਹੋ\V_VM_VF ਕੇ\V_VM_VNF ਪੱਤੇ\N_NN ਉਪਰ\RB ਨੂੰ\PSP ਕੱਪ\N_NN ਦੀ\PSP ਤਰ੍ਹਾਂ\PSP ਮੁੜਨਾ\V_VM ਸ਼ੁਰੂ\V_VM_VF ਕਰ\V_VM_VF ਦਿੰਦੇ\V_VM_VNF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13127	ਜਿਸਤ\N_NN ਦੀ\PSP ਘਾਟ\N_NN ਨੂੰ\PSP ਠੀਕ\JJ ਕਰਨ\N_NN ਲਈ\PSP 3\QT_QTF ਕਿਲੋ\N_NN ਜ਼ਿੰਕ\N_NN ਸਲਫੇਟ\N_NN +1.5\QT_QTF ਕਿਲੋ\N_NN ਅਣ\JJ ਬੁਝਿਆ\JJ ਚੂਨਾ\N_NN 500\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM_VF ਕੇ\V_VM_VNF ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13128	ਲੋਹੇ\N_NN ਦੀ\PSP ਘਾਟ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਟੀਸੀ\N_NN ਪੱਤੀਆਂ\N_NN ਉੱਤੇ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13129	ਇਸ\DM_DMD ਕਾਰਨ\N_NN ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\RB ਨਾੜਾਂ\N_NN ਗੂੜ੍ਹੇ\JJ ਰੰਗ\N_NN ਦੀਆਂ\PSP ਬਾਕੀ\N_NN ਹਿੱਸਾ\N_NN ਪੀਲੇ\JJ ਰੰਗ\N_NN ਦਾ\PSP ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13130	ਇਸ\DM_DMD ਘਾਟ\N_NN ਨੂੰ\PSP ਦੂਰ\RB ਕਰਨ\V_VM_VF ਲਈ\PSP 0.3%\QT_QTF ਫੇਰਸ\N_NN ਸਲਫੇਟ\N_NN (300ਗ੍ਰਾਮ+100ਲਿਟਰ\QT_QTF ਪਾਣੀ)\N_NN ਦਾ\PSP ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13131	ਸਿੰਚਾਈ\N_NN :\RD_PUNC ਨਾਖਾਂ\N_NN ਦੇ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਲਾਉਣ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਜਲਦੀ-ਜਲਦੀ\RB ਪਾਣੀ\N_NN ਲਾਉਣਾ\V_VM ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13132	ਗਰਮੀਆਂ\N_NN ਵਿਚ\PSP 5-7\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਅਤੇ\CC_CCD ਅਗਸਤ-ਸਤੰਬਰ\N_NN ਵਿਚ\PSP 15\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\N_NN ਪਾਣੀ\N_NN ਲਾਉ\V_VM_VF ।\RD_PUNC
+PBAD13133	ਜਨਵਰੀ\N_NN ਦੇ\PSP ਮਹੀਨੇ\N_NN ਕੋਈ\DM_DMQ ਪਾਣੀ\N_NN ਨਹੀਂ\RP_NEG ਦੇਣਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13134	ਫ਼ਲ\N_NN ਦਿੰਦੇ\V_VM_VF ਪੌਦਿਆਂ\N_NN ਨੂੰ\PSP ਗਰਮੀਆਂ\N_NN ਵਿਚ\PSP 5-7\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਫਰਕ\N_NN ਨਾਲ\PSP ਖੁੱਲ੍ਹਾ\JJ ਪਾਣੀ\N_NN ਲਾਉ\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਫ਼ਲ\N_NN ਪੂਰੇ\JJ ਆਕਾਰ\N_NN ਦਾ\PSP ਬਣ\V_VM_VF ਸਕੇ\V_VM_VF ।\RD_PUNC
+PBAD13135	ਬਾਗ\N_NN ਵਿਚ\PSP ਹੋ\V_VAUX ਫ਼ਸਲਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN :\RD_PUNC ਸਾਉਣੀ\N_NN ਵਿਚ\PSP ਮੂੰਗ\N_NN ,\RD_PUNC ਮਾਂਹ\N_NN ਅਤੇ\CC_CCD ਤੋਰੀਆ\N_NN ਜਦੋਂ\PR_PRL ਕਿ\CC_CCS ਹਾੜ੍ਹੀ\N_NN ਵਿਚ\PSP ਕਣਕ\N_NN ,\RD_PUNC ਮਟਰ\N_NN ,\RD_PUNC ਛੋਲੇ\N_NN ਅਤੇ\CC_CCD ਸੇਂਜੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਨਵੇਂ\JJ ਲਗਾਏ\V_VM_VF ਬਾਗਾਂ\N_NN ਜਾਂ\CC_CCD ਪੁਰਾਣੇ\JJ ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਮੁੜ\RB ਸੁਰਜੀਤ\V_VM_VF ਕਰਨ\V_VM_VF ਵੇਲੇ\PSP ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਫ਼ਲ\N_NN ਆਉਣ\V_VM_VF ਤੱਕ\PSP ਕੁਝ\DM_DMQ ਆਮਦਨ\N_NN ਲਈ\PSP ਜਾ\V_VM_VF ਸਕੇ\V_VM_VF ।\RD_PUNC
+PBAD13136	ਫ਼ਲ\N_NN ਦਿੰਦੇ\V_VM_VF ਬਾਗਾਂ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਮਟਰ,ਛੋਲੇ,ਸੇਂਜੀ\N_NN ਆਦਿ\RP_CL ਦੀ\PSP ਹਾੜ੍ਹੀ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD ਮੂੰਗ,ਮਾਂਹ\N_NN ਅਤੇ\CC_CCD ਸੂਰਜਮੁੱਖੀ\N_NN ਦੀ\PSP ਸਾਉਣੀ\N_NN ਵਿਚ\PSP ਕਾਸ਼ਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13137	ਇਨ੍ਹਾਂ\PR_PRP ਫ਼ਸਲਾਂ\N_NN ਨੂੰ\PSP ਵੱਖਰੇ\RB ਤੌਰ\PSP ਤੇ\PSP ਸਿਫਾਰਸ਼ਾਂ\N_NN ਅਨੁਸਾਰ\RB ਖਾਦ\N_NN ਪਾਉਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13138	ਬਰਸੀਮ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਨਾ\RP_NEG ਕਰੋ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਇਸਨੂੰ\PR_PRP ਸਰਦੀਆਂ\N_NN ਵਿਚ\PSP ਅਧਿਕ\JJ ਮਾਤਰਾ\N_NN ਵਿਚ\PSP ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13139	ਜਦੋਂ\PR_PRL ਕਿ\CC_CCS ਉਸ\PR_PRP ਵੇਲੇ\PSP ਨਾਸ਼ਪਤੀ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਸਥਿਲ\N_NN ਅਵਸਥਾ\N_NN ਵਿਚ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13140	ਫ਼ਲਾਂ\N_NN ਦੀ\PSP ਇਕਸਾਰਤਾ\N_NN :\RD_PUNC ਨਾਸ਼ਪਤੀ\N_NN ਨੂੰ\PSP ਬਹੁਤ\DM_DMQ ਜ਼ਿਆਦਾ\RB ਫੁੱਲ\N_NN ਪੈਣ\V_VM_VF ਕਰਕੇ\N_NN ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਆਕਾਰ\N_NN ਛੋਟਾ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13141	ਇਸ\DM_DMD ਦਾ\PSP ਇਲਾਜ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਕਟਾਈ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਹਰ\RB ਗੁੱਛੇ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਫ਼ਲ\N_NN ਰੱਖ\V_VM ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13142	ਜੇ\CC_CCS ਜ਼ਰੂਰੀ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਢੰਗ\N_NN ਨੂੰ\PSP ਕੁਦਰਤੀ\JJ ਰੂਪ\N_NN ਵਿਚ\PSP ਫੁੱਲ\N_NN ਕਿਰਨ\N_NN ਤੋਂ\PSP ਇਕਦਮ\RB ਬਾਅਦ\RB ਵਰਤੋਂ\RB ਵਿਚ\PSP ਲਿਆਂਦਾ\V_VM_VF ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13143	ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਪੱਕਣਾ\V_VM_VF ਅਤੇ\CC_CCD ਤੁੜਾਈ\V_VM_VF :\RD_PUNC ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਉਸ\PR_PRP ਵੇਲੇ\PSP ਤੋੜੋ\V_VM ਜਦੋਂ\PR_PRL ਉਹ\PR_PRP ਪੱਕ\V_VM ਕੇ\V_VM_VNF ਤਿਆਰ\V_VM ਹੋ\V_VM_VF ਜਾਣ\V_VM_VF ।\RD_PUNC
+PBAD13144	ਪੱਥਰਨਾਖ\N_NN ਕਿਸਮ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN 145\QT_QTF ਦਿਨ\N_NN ,\RD_PUNC ਬੱਗੂਕੋਸੈ\N_NN ਤੇ\CC_CCD ਪੰਜਾਬ\N_NNP ਬਿਊਟੀ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN 135\QT_QTF ਦਿਨਾਂ\N_NN ਅਤੇ\CC_CCD ਪੰਜਾਬ\N_NNP ਨੈਕਟਰ\N_NN ਤੇ\N_NN ਪੰਜਾਬ\N_NNP ਗੋਲਡ\N_NN ਦਾ\PSP ਫ਼ਲ\N_NN 140\QT_QTF ਦਿਨਾਂ\N_NN ਬਾਅਦ\RB ਤੋੜਨ\V_VM ਲਈ\PSP ਤਿਆਰ\V_VM ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13145	ਫ਼ਲ\N_NN ਉਪਰ\RB ਵੱਲ\PSP ਨੂੰ\PSP ਘੁੰਮਾਉਣ\V_VM ਨਾਲ\PSP ਛੇਤੀ\RB ਟੁੱਟ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਿਸ\PR_PRL ਨਾਲ\PSP ਖੁੰਗੇ\N_NN ਨੂੰ\PSP ਨੁਕਸਾਨ\RB ਨਹੀਂ\RP_NEG ਪਹੁੰਚਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13146	ਫ਼ਲਾਂ\N_NN ਦੀ\PSP ਤੋੜਨ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਸਾਂਭ\N_NN -\RD_PUNC ਸੰਭਾਲ\N_NN :\RD_PUNC ਸਾਂਭ\N_NN -\RD_PUNC ਸੰਭਾਲ\N_NN ;\RD_PUNC ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਪੂਰੇ\RB ਪੱਕਣ\V_VM ਤੇ\CC_CCD ਹੀ\RP_RPD ਤੋੜੋ\V_VM_VF ।\RD_PUNC
+PBAD13147	ਖਰਾਬ\JJ ਅਤੇ\CC_CCD ਝਰੀਟੇ\JJ ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਪਕਾਉਣ\V_VM ,\RD_PUNC ਸਟੋਰ\V_VM ਅਤੇ\CC_CCD ਮੰਡੀਕਰਣ\V_VM ਕਰਨ\N_NN ਲਈ\PSP ਡੱਬਾਬੰਦੀ\N_NN (\RD_SYM ਗੱਤੇ\N_NN ਦੇ\PSP ਡੱਬੇ\N_NN ਵਿਚ\PSP )\RD_SYM ਕਰਨ\V_VM_VF ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਚੋਣ\V_VM_VF ਕਰਕੇ\N_NN ਬਾਹਰ\RB ਕੱਢ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13148	ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਪਕਾਉਣਾ\N_NN :\RD_PUNC ਪੰਜਾਬ\N_NNP ਬਿਊਟੀ\N_NN ਕਿਸਮ\N_NN ਦੇ\PSP ਫ਼ਲਾਂ\N_NN ਨੂੰ0ਡਿਗਰੀ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\RB ਤਿੰਨ\QT_QTC ਦਿਨਾਂ\N_NN ਲਈ\PSP ਠੰਡਾ\JJ ਕਰਨ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਤਿੰਨ\QT_QTC ਦਿਨਾਂ\N_NN ਲਈ\PSP 20\QT_QTF ਡਿਗਰੀ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\N_NN ਰੱਖ\V_VM ਕੇ\V_VM_VF ਪਕਾਇਆ\V_VM ਜਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13149	ਨਾਖਾਂ\N_NN ਦੇ\PSP ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਢੁਕਵੀਂ\JJ ਪਕਾਈ\V_VM_VF ਅਤੇ\CC_CCD ਚੰਗੀ\JJ ਕੁਆਲਟੀ\N_NN ਲਈ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP 100\N_NN ਪੀ\N_NN ਪੀ\N_NN ਐੱਮ\N_NN ੲੈਥੀਫੋਨ\N_NN ਦੇ\PSP ਘੋਲ\N_NN ਵਿਚ\PSP 3\QT_QTF ਤੋਂ\PSP 4\QT_QTF ਮਿੰਟਾਂ\N_NN ਲਈ\PSP ਡੋਬੋ\V_VM ਜਾਂ\CC_CCD 100\QT_QTF ਪੀ\N_NN ਪੀ\N_NN ਐੱਮ\N_NN 24\QT_QTF ਘੰਟੇ\N_NN ਲਈ\PSP ੲੈਥੀਲੀਨ\N_NN ਗੈਸ\N_NN ਦੇਵੋ\V_VM_VF ਅਤੇ\CC_CCD 20\QT_QTF ਡਿਗਰੀ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\CC_CCD ਸਟੋਰ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13150	ਇਸ\PR_PRP ਵਿਧੀ\N_NN ਰਾਹੀਂ\PSP ਪੱਥ੍ਰਨਾਖ\N_NN ਦੇ\PSP ਫ਼ਲ\N_NN 8\QT_QTF ਦਿਨਾਂ\N_NN ਅਤੇ\CC_CCD ਪੰਜਾਬ\N_NNP ਬਿਊਟੀ\N_NN ਦੇ\PSP ਫ਼ਲ\N_NN 4\QT_QTF ਦਿਨਾਂ\N_NN ਵਿਚ\PSP ਪੱਕ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13151	ਸਟੋਰ\N_NN ਕਰਨਾ\V_VM_VF :\RD_PUNC ਪੰਜਾਬ\N_NNP ਬਿਊਟੀ\N_NN ਕਿਸਮ\N_NN ਦੇ\PSP ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP 0-1\QT_QTF ਡਿਗਰੀ\N_NN ਤਾਮਾਨ\N_NN ਅਤੇ\CC_CCD 90-95\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਨਮੀ\N_NN ਦੇ\PSP 60\QT_QTF ਦਿਨਾਂ\N_NN ਲਈ\PSP ਸਟੋਰ\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13152	ਇਨ੍ਹਾਂ\PR_PRP ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਸਟੋਰ\N_NN ਵਿਚੋਂ\PSP ਕੱਢਣ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB 1-2\QT_QTF ਦਿਨਾਂ\N_NN ਲਈ\PSP ਕਮਰੇ\N_NN ਦੇ\PSP ਤਾਪਮਾਨ\N_NN ਅਤੇ\CC_CCD ਘਰੇਲੂ\JJ ਫਰਿਜ਼\N_NN ਵਿਚ\PSP ਚਾਰ\QT_QTC ਦਿਨਾਂ\N_NN ਲਈ\PSP ਰੱਖਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13153	ਪੰਜਾਬ\N_NNP ਸੌਫਟ\N_NN ਦੇ\PSP ਫ਼ਲ\N_NN ਨੂੰ\PSP 0-1\QT_QTF ਡਿਗਰੀ\N_NN ਤਾਪਮਾਨ\N_NN ਅਤੇ\CC_CCD 90-95\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਨਮੀ\N_NN ਤੇ\N_NN ਚਾਰ\QT_QTC ਹਫਤਿਆ\N_NN ਲਈ\PSP ਰੱਖਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13154	ਇਸੇ\PR_PRP ਪੰਜਾਬ\N_NNP ਨਾਖ\N_NN ਦੇ\PSP ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP 60\QT_QTF ਦਿਨਾਂ\N_NN ਲਈ\PSP 0-1\QT_QTF ਡਿਗਰੀ\N_NN ਤਾਪਮਾਨ\N_NN ਅਤੇ\CC_CCD 90-95\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਨਮੀ\N_NN ਤੇ\CC_CCD ਰੱਖਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13155	ਪ੍ਰੋਸੈਸਿੰਗ\N_NN :\RD_PUNC ਪੰਜਾਬ\N_NNP ਬਿਊਟੀ\N_NN ,\RD_PUNC ਪੰਜਾਬ\N_NNP ਨੈਕਟਰ\N_NN ,\RD_PUNC ਪੰਜਾਬ\N_NNP ਗੋਲਡ\N_NN ਅਤੇ\CC_CCD ਪੰਜਾਬ\N_NNP ਸੌਫਟ\N_NN ਕਿਸਮਾਂ\N_NN ਦੇ\PSP ਫ਼ਲਾਂ\N_NN ਤੋਂ\PSP ਤਿਆਰ\V_VM ਪੀਣ\V_VM_VF ਵਾਲੀਆਂ\PSP ਵਸਤੂਆਂ\N_NN ,\RD_PUNC ਨੈਕਟਰ\N_NN ਅਤੇ\CC_CCD ਸਕੂਐਸ਼\N_NN ਬਣਾਏ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13156	ਕੀੜੇ\N_NN :\RD_PUNC ਕੁਤਰਾ\N_NN :\RD_PUNC ਇਕ\QT_QTC ਆਮ\RB ਪਾਇਆ\V_VM ਜਾਣ\V_VM_VINF ਵਾਲਾ\PSP ਕੀੜਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13157	ਮਾਦਾ\N_NN ਪੱਤੇ\N_NN ਦੇ\PSP ਉਪਰਲੇ\RB ਹਿੱਸੇ\N_NN ਤੇ\CC_CCD ਗੁੱਛਿਆਂ\JJ ਵਿਚ\PSP ਅੰਡੇ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13158	ਜੰਮਣ\N_NN ਉਪਰੰਤ\RB ਛੋਟੇ\JJ ਕੁਤਰੇ\N_NN ਪੱਤੇ\N_NN ਨੂੰ\PSP ਪੂਰੀ\RB ਤਰ੍ਹਾਂ\PSP ਖਾ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13159	ਉਸ\PR_PRP ਤੋਂ\PSP ਬਾਅਦ\RB ਕੁਤਰਾ\N_NN ਅਲੱਗ\RB ਹੋ\V_VM_VF ਕੇ\V_VM_VNF ਪੱਤੇ\N_NN ਉਪਰ\RB ਵਧਦਾ\V_VM_VF ਫੁੱਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13160	ਹਮਲਾ\N_NN ਗੰਭੀਰ\JJ ਹੋਣ\V_VM_VINF ਤੇ\CC_CCD ਸਾਰਾ\RB ਦਰੱਖਤ\N_NN ਪੱਤਿਆਂ\N_NN ਤੋਂ\PSP ਰਹਿਤ\JJ ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13161	ਮਾਈਟ\N_NN (\RD_SYM ਪੱਤਿਆਂ\N_NN ਦੀ\PSP ਜੂੰ\N_NN :\RD_PUNC ਅਪ੍ਰੈਲ-ਮਈ\N_NN ਵਿਚ\PSP ਮਾਈਟ\N_NN ਦਾ\PSP ਜ਼ੋਰ\V_VM ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13162	ਇਸ\PR_PRP ਦੇ\PSP ਹੱਲੇ\N_NN ਨਾਲ\PSP ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਹਲਕੇ\JJ ਪੀਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਛੋਟੇ-ਛੋਟੇ\JJ ਧੱਬੇ\V_VM ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13163	ਜੇ\PR_PRL ਇਸ\PR_PRP ਦਾ\PSP ਹਮਲਾ\N_NN ਗੰਭੀਰ\JJ ਹੋ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈਣ\V_VM_VINF ਮਗਰੋਂ\JJ ਸੁੱਕ\JJ ਕੇ\V_VM_VNF ਝੜ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13164	ਹਮਲੇ\N_NN ਵਾਲੇ\PSP ਪੱਤਿਆਂ\N_NN ਤੇ\CC_CCD ਧੂੜਾ\N_NN ਜਮ੍ਹਾ\V_VM ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13165	ਨਰਮ\JJ ਪੱਤਿਆਂ\N_NN ਦਾ\PSP ਚੇਪਾ\N_NN :\RD_PUNC ਕਈ\DM_DMQ ਵਾਰ\PSP ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਸੁੰਡੀਆਂ\N_NN ਅਤੇ\CC_CCD ਨਰਮ\JJ ਟਾਹਣੀਆਂ\N_NN ਦਾ\PSP ਰਸ\N_NN ਚੂਸ\V_VM ਕੇ\V_VM_VNF ਬਹੁਤ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13166	ਇਹ\PR_PRP ਕੀੜੇ\N_NN ਫਰਵਰੀ\N_NN ਦੇ\PSP ਆਖਰੀ\RB ਹਫਤੇ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਅਪ੍ਰੈਲ\N_NN ਦੇ\PSP ਆਖਰੀ\RB ਹਫਤੇ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਅਪ੍ਰੈਲ\N_NN ਦੇ\PSP ਪਹਿਲੇ\QT_QTO ਹਫਤੇ\N_NN ਤੱਕ\PSP ਹਮਲਾ\V_VM ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13167	ਛਿੱਲ\N_NN ਖਾਣ\V_VM ਵਾਲੇ\PSP ਸੁੰਡ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਸੁੰਡ\N_NN ਤਣੇ\N_NN ਅਤੇ\CC_CCD ਸ਼ਾਖਾਂ\N_NN ਵਿਚ\PSP ਮੋਰੀਆਂ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13168	ਇਹ\PR_PRP ਕੀੜਾ\N_NN ਉਹਨਾਂ\PR_PRP ਬਾਗਾਂ\N_NN ਵਿਚ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਿੱਥੇ\PR_PRL ਦੇਖਭਾਲ\N_NN ਘੱਟ\JJ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13169	ਫ਼ਲ\N_NN ਦੀ\PSP ਮੱਖੀ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਨਾਸ਼ਪਤੀ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਹਾਨੀਕਾਰਕ\JJ ਕੀੜਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13170	ਫ਼ਲ\N_NN ਦੀ\PSP ਮੱਖੀ\N_NN ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਬਦਲਣ\V_VM ਸਮੇਂ\N_NN ਨਰਮ\JJ ਛਿਲਕੇ\N_NN ਤੇ\CC_CCD ਅੰਡੇ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13171	ਅੰਡਿਆਂ\N_NN `\RD_PUNC ਚੋਂ\PSP ਬੱਚੇ\N_NN ਨਿਕਲਣ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਇਹ\PR_PRP ਫ਼ਲਾਂ\N_NN ਵਿਚ\PSP ਛੇਕ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਨਰਮ\JJ ਗੁੱਦਾ\N_NN ਖਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13172	ਹਮਲੇ\N_NN ਵਾਲੇ\PSP ਫ਼ਲ\N_NN ਖਾਣ\V_VM ਯੋਗ\N_NN ਨਹੀਂ\RP_NEG ਰਹਿੰਦੇ\V_VM_VF ।\RD_PUNC
+PBAD13173	ਜ਼ਿਆਦਾ\RB ਹਮਲੇ\N_NN ਨਾਲ\PSP ਫ਼ਲ\N_NN ਗਲ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਥੱਲੇ\RB ਡਿੱਗ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13174	ਨਾਸ਼ਪਤੀ\N_NN ਦੇ\PSP ਤੇਲੇ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਚੇਪੇ\N_NN ਦੋ\QT_QTC ਤਰ੍ਹਾਂ\PSP ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਸ਼ਿਜਾਫਿਸ\N_NN ਤੇ\N_NN ਟੌਕਸੌਪਟੈਰਾ\N_NN ਤੇ\CC_CCD ਇਸ\DM_DMD ਦਾ\PSP ਹਮਲਾ\N_NN ਫਰਵਰੀ\N_NN ਤੋਂ\PSP ਅਪ੍ਰੈਲ\N_NN ਤੱਕ\PSP ਜ਼ਿਆਦਾ\RB ਹੋਣ\V_VM_VF ਲੱਗ\V_VM_VF ਪਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13175	ਇਸ\DM_DMD ਕਿਸਮ\N_NN ਦਾ\PSP ਚੇਪਾ\N_NN ਨਰਮ\JJ ਤਣਿਆਂ\N_NN ,\RD_PUNC ਫੁੱਲਾਂ\N_NN ਡੋਡੀਆਂ\N_NN ,\RD_PUNC ਫੁੱਲਾਂ\N_NN ,\RD_PUNC ਪੱਤਿਆਂ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਵਿਚੋਂ\PSP ਰਸ\N_NN ਚੂਸ\V_VM ਕੇ\V_VM_VNF ਫ਼ਲਦਾਰ\JJ ਬੂਟਿਆਂ\N_NN ਦਾ\PSP ਨੁਕਸਾਨ\JJ ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13176	ਨਾਸ਼ਪਤੀ\N_NN ਦਾ\PSP ਖਰੀਂਢ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਗੂੜ੍ਹੇ\JJ ਖਾਕੀ\JJ ,\RD_PUNC ਉੱਲੀਦਾਰ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13177	ਮਾਰ\N_NN ਹੇਠ\RB ਆਏ\V_VM_VF ਪੱਤੇ\N_NN ਤੇ\CC_CCD ਫੁੱਲ\N_NN ਝੜ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13178	ਫ਼ਲਾਂ\N_NN ਉੱਤੇ\RB ਵੀ\RP_RPD ਗੂੜ੍ਹੇ\JJ ਭੂਰੇ\JJ ਚਟਾਖ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜੋ\CC_CCS ਆਪਸ\PR_PRC ਵਿਚ\PSP ਮਿਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਫ਼ਲ\N_NN ਪਾਟ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13179	ਕਰੂੰਬਲਾ\N_NN ਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਸੜਨਾ\N_NN ਤੇ\CC_CCD ਛਿੱਲ\N_NN ਦਾ\PSP ਕੋਹੜ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਛੋਟੇ-ਛੋਟੇ\JJ ਭੂਰੇ\JJ ਅੰਡਾਕਾਰ\N_NN ਦਾਗ\N_NN ਜਾਂ\CC_CCD ਜ਼ਖਮਾਂ\N_NN ਦੇ\PSP ਨਿਸ਼ਾਨ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13180	ਜਿਉਂ-ਜਿਉਂ\RB ਇਹ\PR_PRP ਦਾਗ\N_NN ਵੱਡੇ\JJ ਹੁੰਦੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਇਹਨਾਂ\PR_PRP ਦਾ\PSP ਕੇਂਦਰੀ\N_NN ਭਾਗ\N_NN ਹੇਠਾਂ\RB ਨੂੰ\PSP ਧੱਸਦਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13181	ਇਸ\PR_PRP ਤਰ੍ਹਾਂ\PSP ਕਿਨਾਰੇ\N_NN ਨੇੜੇ\RB ਦੇ\PSP ਛਿਲਕੇ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਦਾਗੀ\JJ ਕਰ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13182	ਇਸ\PR_PRP ਰੋਗ\N_NN ਦੀ\PSP ਸੂਰਤ\N_NN ਵਿਚ\PSP ਛਿੱਲ\N_NN ਉੱਤੇ\RB ਵੀ\RP_RPD ਉੱਲੀ\N_NN ਜੰਮੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13183	ਜੜ੍ਹਾਂ\N_NN ਅਤੇ\CC_CCD ਸੈਪ\N_NN ਵੁੱਡ\N_NN ਦਾ\PSP ਗਲਣਾ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਰੋਗ\N_NN ਦੇ\PSP ਅਸਰ\N_NN ਕਾਰਨ\N_NN ਤਣਾ\N_NN ਤੇ\N_NN ਟਹਿਣੀਆਂ\N_NN ਝੁਲਸੀਆਂ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13184	ਜੜ੍ਹਾਂ\N_NN ਗਲ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੀਆਂ\PSP ਹੋ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13185	ਰੋਗ\N_NN ਦੀ\PSP ਮਾਰ\N_NN ਹੇਠ\RB ਆਏ\V_VM_VF ਬੂਟੇ\N_NN ਮੁਰਝਾਏ\V_VM ਨਜ਼ਰ\N_NN ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13186	ਉਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਪੱਤੇ\N_NN ਸਮੇਂ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਝੜਨੇ\V_VM ਸ਼ੁਰੂ\N_NN ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13187	ਬੂਟੇ\N_NN ਤੇ\RB ਮਾਰੂ\JJ ਅਸਰ\N_NN ਹੋਣ\V_VM_VINF ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਫ਼ਲ\N_NN ਜ਼ਿਆਦਾ\RB ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13188	ਜੜ੍ਹਾਂ\N_NN ਦੇ\PSP ਗਲਣ\N_NN ਕਾਰਨ\N_NN ਭਾਰੇ\JJ ਬੂਟੇ\N_NN ਆਮ\RB ਤੌਰ\PSP ਤੇ\CC_CCD ਡਿੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13189	ਅਪ੍ਰੈਲ-ਜੂਨ\N_NN ਦੌਰਾਨ\RB ਆਮ\RB ਨਾਲੋਂ\PSP ਘੱਟ\JJ ਵਕਫ\N_NN ਤੇ\PSP ਸਿੰਚਾਈ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13190	ਅਰਿੰਡ\N_NN ਅਤੇ\CC_CCD ਭੰਗ\N_NN ਦੇ\PSP ਪੌਦੇ\N_NN ਜਿਨ੍ਹਾਂ\PR_PRL ਤੇ\N_NN ਵੀ\RP_RPD ਮਾਈਟ\N_NN ਦਾ\PSP ਹਮਲਾ\V_VM ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਨੂੰ\PSP ਪੁੱਟ\V_VM ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13191	ਪੱਕਦੇ\RB ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਸਮੇਂ\N_NN ਸਿਰ\N_NN ਤੋੜਦੇ\V_VM ਰਹੋ\V_VM_VF ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਉੱਪਰ\RB ਪੱਕਣ\V_VM ਨਾ\RP_NEG ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13192	ਮੱਖੀ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN ਵਾਲੇ\PSP ਡਿੱਗੇ\V_VM ਹੋਏ\V_VM_VF ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਲਗਾਤਾਰ\RB ਚੁਣਕੇ\V_VM_VF ਜ਼ਮੀਨ\N_NN ਦੇ\PSP ਵਿਚ\PSP ਘੱਟੋ-ਘੱਟ\RB 60\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਡੂੰਘੇ\RB ਦੱਬ\V_VM ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13193	ਫ਼ਲਾਂ\N_NN ਦੀ\PSP ਤੁੜਾਈ\N_NN ਉਪਰੰਤ\RB ਬਾਗ\N_NN ਦੀ\PSP ਹਲਕੀ\JJ ਵਹਾਈ\V_VM ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਜੋ\PR_PRL ਮੱਖੀ\N_NN ਦੀਆਂ\PSP ਸੁੰਡੀਆਂ\N_NN ਜਿਹੜੀਆਂ\PR_PRL 4-6\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਤੱਕ\PSP ਦੀ\PSP ਡੂੰਘਾਈ\N_NN ਤੇ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਨੰਗੀਆਂ\JJ ਹੋ\V_VM_VF ਕੇ\V_VM_VNF ਮਰ\V_VM ਜਾਣ\V_VM_VF ।\RD_PUNC
+PBAD13194	ਉਨ੍ਹਾਂ\PR_PRP ਬਾਗਾਂ\N_NN ਵਿਚ\PSP ਜਿੱਥੇ\PR_PRL ਮੱਖੀ\N_NN ਦਾ\PSP ਹਮਲਾ\N_NN ਹਮੇਸ਼ਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੋਵੇ\V_VM_VF ਉੱਥੇ\RB 1250\QT_QTF ਮਿਲੀਮੀਟਰ\N_NN ਸੁਮੀਸਿਡੀਨ\N_NN 20\QT_QTF ਈ\N_NN ਸੀ\V_VAUX ਜਾਂ\CC_CCD 500\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਪਾ\V_VM ਕੇ\V_VM_VNF ਜੂਨ\N_NN ਦੇ\PSP ਆਖਰੀ\RB ਹਫਤੇ\N_NN ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ਅਤੇ\CC_CCD ਹਫਤੇ-ਹਫਤੇ\N_NN ਤੇ\N_NN ਛਿੜਕਾਅ\V_VM ਕਰਦੇ\V_VM_VF ਰਹੋ\V_VM_VF ।\RD_PUNC
+PBAD13195	ਛਿੜਕਾਅ\N_NN ਦੇ\PSP ਬਾਅਦ\RB ਫ਼ਲਾਂ\N_NN ਨੂੰ\PSP ਬੂਟੇ\N_NN ਤੋਂ\PSP 2\QT_QTF ਦਿਨਾਂ\N_NN ਬਾਅਦ\RB ਤੋੜੋ\V_VM ।\RD_PUNC
+PBAD13196	ਉਖੇੜਾ\N_NN ਰੋਗ\N_NN (ਡੈਂਪਿੰਗ\N_NN ਆਫ)\N_NN ਇਹ\PR_PRP ਰੋਗ\N_NN ਉਨ੍ਹਾਂ\PR_PRP ਸਬਜ਼ੀਆਂ\N_NN ਵਿਚ\PSP ਬਹੁਤਾ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਹੜੀਆਂ\PR_PRL ਪਨੀਰੀ\N_NN ਦੁਆਰਾ\PSP ਉਗਾਇਆਂ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਟਮਾਟਰ\N_NN ,\RD_PUNC ਮਿਰਚ\N_NN ,\RD_PUNC ਬੈਂਗਣ\N_NN ,\RD_PUNC ਪਿਆਜ਼\N_NN ,\RD_PUNC ਫੁੱਲ-ਗੋਭੀ\N_NN ,\RD_PUNC ਬੰਦ\JJ ਗੋਭੀ\N_NN ,\RD_PUNC ਸ਼ਿਮਲਾ\N_NN ਮਿਰਚ\N_NN ਆਦਿ\RP_CL
+PBAD13197	ਜਿਨ੍ਹਾਂ\PR_PRL ਪਨੀਰੀਆਂ\N_NN ਦੀ\PSP ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਦੇਖਭਾਲ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ,\RD_PUNC ਉੱਥੇ\RB ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਵਧ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13198	ਕਈ\DM_DMQ ਵਾਰੀ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਘਾਟ\JJ ਜਾਂ\CC_CCD ਬਹੁਤਾਤ\JJ ਨਾਲ\PSP ਵੀ\RP_RPD ਬੂਟੇ\N_NN ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13199	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਰੋਗ\N_NN ਦੋ\QT_QTC ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਨੁਕਸਾਨ\V_VM ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13200	ਪਹਿਲੀ\RB ਹਾਲਤ\N_NN ਵਿਚ\PSP ਬੀਜ\N_NN ਜੰਮਦੇ\V_VM ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਜਾਂ\CC_CCD ਛੋਟੇ-ਛੋਟੇ\JJ ਬੂਟੇ\N_NN ਜ਼ਮੀਨ\N_NN ਤੋਂ\PSP ਬਾਹਰ\RB ਆਉਣ\V_VM_VF ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13201	ਦੂਜੀ\QT_QTO ਹਾਲਤ\N_NN ਵਿਚ\PSP ਬੂਟੇ\N_NN ਜ਼ਮੀਨ\N_NN ਤੋਂ\PSP ਬਾਹਰ\RB ਆਉਣ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਮਿੱਟੀ\N_NN ਦੀ\PSP ਸਤਹਿ\N_NN ਦੇ\PSP ਨੇੜੇ\RB ਤੋਂ\PSP ਗਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਧਰਤੀ\N_NN ਤੇ\RB ਡਿੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13202	ਬੀਮਾਰੀ\N_NN ਜੜ੍ਹਾਂ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਅਸਰ\V_VM ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਕਾਰਨ\PSP ਬੂਟੇ\N_NN ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਧਰਤੀ\N_NN ਤੇ\N_NN ਡਿੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13203	ਅੱਜ\JJ ਚੰਗੇ\JJ ਭਲੇ\JJ ਬੂਟੇ\N_NN ਕੱਲ੍ਹ\JJ ਨੂੰ\PSP ਮੁਰਝਾ\V_VM ਕੇ\V_VM_VNF ਧਰਤੀ\N_NN ਤੇ\N_NN ਡਿੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13204	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਇਹ\PR_PRP ਰੋਗ\N_NN ਕਈ\DM_DMQ ਤਰ੍ਹਾਂ\PSP ਦੀਆਂ\PSP ਉੱਲੀਆਂ\N_NN ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਪੀਥੀਅਮ\N_NN ,\RD_PUNC ਫਾਈਟੋਫਥੋਰਾ\N_NN ,\RD_PUNC ਸਕਲੈਰੋਟੀਨੀਆ\N_NN ,\RD_PUNC ਬੌਟਰਾਈਟਿਸ\N_NN ,\RD_PUNC ਫੁਸੇਰੀਅਮ\N_NN ,\RD_PUNC ਫੋਮਾ\N_NN ਗਲੈਮੀਰੋਲਾ\N_NN ਅਤੇ\CC_CCD ਰਹਾਈਜੋਕਟੋਨੀਆ\N_NN ਲਾਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13205	ਇਹ\PR_PRP ਉੱਲੀਆਂ\N_NN ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਜਿਉਂਦੀਆਂ\V_VM ਰਹਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13206	ਬੀਮਾਰੀ\N_NN ਸੇਮ\N_NN ਵਾਲੇ\PSP ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਜਿੱਥੇ\PR_PRL ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਹਵਾ\N_NN ਘੱਟ\JJ ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਜ਼ਿਆਦਾ\JJ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13207	ਬਹੁਤੀ\DM_DMQ ਸੰਘਣੀ\JJ ਪਨੀਰੀ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\JJ ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13208	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਨੂੰ\PSP 3\QT_QTF ਗ੍ਰਾਮ\N_NN ਕੈਪਟਾਨ/ਥੀਰਮ\N_NN ਜਾਂ\CC_CCD 1\QT_QTF ਗ੍ਰਾਮ\N_NN ਬੈਵੀਸਟਿਨ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਨਾਲ\PSP ਸੋਧ\V_VM_VF ਕੇ\V_VM_VNF ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13209	ਪਨੀਰੀ\N_NN ਉੱਗਣ\V_VM_VF ਤੋਂ\PSP ਇਕ\QT_QTC ਹਫਤੇ\N_NN ਬਾਅਦ\RB ਪਨੀਰੀ\N_NN ਵਾਲੀ\PSP ਥਾਂ\N_NN ਨੂੰ\PSP 4\QT_QTF ਗ੍ਰਾਮ\N_NN ਕੈਪਟਾਨ\N_NN ਪ੍ਰਤੀ\N_NN ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਜਾਂ\CC_CCD ਇਕ\QT_QTC ਗ੍ਰਾਮ\N_NN ਬੈਵਿਸਟਿਨ\N_NN 50\QT_QTF ਈ\N_NN ਸੀ\V_VAUX ਪ੍ਰਤੀ\N_NN ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਘੋਲ\V_VM_VF ਕੇ\V_VM_VNF ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਗੜੁੱਚ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13210	ਜੇ\PR_PRL ਲੋੜ\N_NN ਪਵੇ\V_VM_VF ਤਾਂ\CC_CCD 7-10\QT_QTF ਦਿਨ\N_NN ਬਾਅਦ\RB ਫਿਰ\RB ਦੁਹਰਾਓ\V_VM ।\RD_PUNC
+PBAD13211	ਪਨੀਰੀ\N_NN ਬੀਜਣ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਪਨੀਰੀ\N_NN ਵਾਲੀ\PSP ਥਾਂ\N_NN (4\QT_QTF ਇੰਚ\N_NN ਡੂੰਘੀ)\RB ਨੂੰ\PSP ਫਾਰਮਾਲੀਨ\N_NN (\RD_SYM 2\QT_QTF ਪ੍ਰਤੀਸ਼ਤ)\N_NN ਦਵਾਈ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਪਾ\V_VM ਕੇ\V_VM_VNF ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਗੜੁੱਚ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13212	24\QT_QTF ਘੰਟੇ\N_NN ਲਈ\PSP ਬੋਰੀ\N_NN ਆਦਿ\RP_CL ਨਾਲ\PSP ਢੱਕ\V_VM ਕੇ\V_VM_VNF ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBAD13213	ਹਫਤੇ\N_NN ਬਾਅਦ\RB ਇੱਥੇ\RB ਪਨੀਰੀ\N_NN ਬੀਜੀ\N_NN ਜਾ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13214	ਪਨੀਰੀ\N_NN ਉੱਚੀਆਂ\RB ਕਿਆਰੀਆਂ\N_NN ਬਣਾ\V_VM ਕੇ\V_VM_VF ਬੀਜੋ\V_VM_VF ।\RD_PUNC
+PBAD13215	ਪਨੀਰੀ\N_NN ਬਹੁਤੀ\DM_DMQ ਸੰਘਣੀ\JJ ਅਤੇ\CC_CCD ਮਾੜੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਬੀਜੋ\V_VM_VF ।\RD_PUNC
+PBAD13216	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਬਹੁਤਾ\DM_DMQ ਹਮਲਾ\N_NN ਬਸੰਤ\N_NN ਰੁੱਤ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਤੇ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13217	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਛੋਟੇ-ਛੋਟੇ\JJ ਬੂਟੇ\N_NN ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13218	ਧਰਤੀ\N_NN ਦੀ\PSP ਪੱਧਰ\N_NN ਤੇ\PSP ਤਣੇ\N_NN ਦੇ\PSP ਗਲ੍ਹਣ\V_VM_VF ਨਾਲ\PSP ਵੀ\RP_RPD ਬੂਟੇ\N_NN ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13219	ਬੀਮਾਰ\JJ ਬੂਟੇ\N_NN ਛੋਟੇ\JJ ਰਹਿ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਸੋਕੇ\JJ ਦੀਆਂ\PSP ਨਿਸ਼ਾਨੀਆਂ\N_NN ਪ੍ਰਗਟ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13220	ਸ਼ੁਰੂ\RB ਵਿਚ\PSP ਪੱਤੇ\N_NN ਹੇਠਾਂ\RB ਵੱਲ\PSP ਡਿੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਸੁੱਕ\JJ ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13221	ਜੜ੍ਹਾਂ\N_NN ਦੀ\PSP ਉਪਰਲੀ\RB ਛਿੱਲ\N_NN ਵੱਖ\RB ਹੋ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13222	ਇਸ\PR_PRP ਛਿੱਲ\N_NN ਦੇ\PSP ਹੇਠਾਂ\RB ਉੱਲੀ\N_NN ਦੇ\PSP ਗੋਲ\JJ ਦਾਣੇ\N_NN ,\RD_PUNC ਜਿਨ੍ਹਾਂ\PR_PRL ਨੂੰ\PSP ਸਕਲੀਰੋਸ਼ੀਆ\N_NN ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਦਿਖਾਈ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13223	ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\RB ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਬਹੁਤੇ\DM_DMQ ਸੋਕੇ\JJ ਦੀਆਂ\PSP ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਵਧਦੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13224	ਜੇ\PR_PRL ਬਹੁਤ\DM_DMQ ਮੀਂਹ\N_NN ਪੈਣ\V_VM_VINF ਤਾਂ\CC_CCD ਮਿੱਟੀ\N_NN ਦੀ\PSP ਸਿੱਲ੍ਹ\N_NN ਵਧਣ\N_NN ਕਾਰਨ\PSP ਬੀਮਾਰੀ\N_NN ਘੱਟ\JJ ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13225	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਨੂੰ\PSP 3\QT_QTF ਗ੍ਰਾਮ\N_NN ਕੈਪਟਨ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਸੋਧ\V_VM ਕੇ\V_VM_VNF ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13226	ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਸੋਕਾ\RB ਨਾ\RP_NEG ਲੱਗਣ\V_VM ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13227	ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਉੱਲੀ\N_NN ਕਰਕੇ\PSP ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਹੜੀ\PR_PRL ਬੀਜ\N_NN ਲਈ\PSP ਰੱਖੀ\V_VM_VF ਫ਼ਸਲ\N_NN ਦਾ\PSP ਬਹੁਤਾ\DM_DMQ ਨੁਕਸਾਨ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13228	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB ਅਗਸਤ\N_NN ਸਤੰਬਰ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13229	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਦੋਵੇਂ\QT_QTO ਪਾਸੇ\N_NN ਕਾਲੇ\JJ ਤੋਂ\PSP ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13230	ਪੁਰਾਣੇ\JJ ਪੱਤੇ\N_NN ਇਕ\QT_QTC ਦੂਜੇ\QT_QTC ਨਾਲ\N_NN ਜੁੜ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਪੱਤੇ\N_NN ਸੁੱਕ\JJ ਕੇ\V_VM_VNF ਝੜ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13231	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਉੱਲੀ\N_NN ਦਾ\PSP ਜਾਲਾ\N_NN ਦਿਖਾਈ\V_VM ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13232	ਪੱਕੀਆਂ\JJ ਤੋਰੀਆਂ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਕਾਲੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13233	ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\RB ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB ਬੱਦਲਵਾਈ\N_NN ਤੇ\CC_CCD ਵਰਖਾ\N_NN ਵਾਲੇ\PSP ਮੌਸਮ\N_NN ਵਿਚ\PSP ,\RD_PUNC ਜਦੋਂ\PR_PRL ਤਾਪਮਾਨ\N_NN 25-29\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਜ਼ਿਆਦਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13234	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਫ਼ਸਲ\N_NN ਤੇ\N_NN ਬਾਵਿਸਟਨ\N_NN 200\QT_QTF ਗ੍ਰਾਮ/\N_NN 200\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਜਾਂ\CC_CCD ਬੋਰਡੋ\N_NN ਮਿਸ਼ਰਣ\N_NN 2.2.250\QT_QTF ਦੇ\PSP 14\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\CC_CCD ਤਿੰਨ\QT_QTC ਸਪਰੇ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13235	ਪਹਿਲੀ\QT_QTO ਸਪਰੇ\N_NN ਬੀਮਾਰੀ\N_NN ਸ਼ੁਰੂ\N_NN ਹੋਣ\V_VM_VINF ਤੇ\CC_CCD ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13236	ਚਿਤਕਬਰਾ\N_NN ਰੋਗ\N_NN :\RD_PUNC ਭਿੰਡੀ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦੀ\PSP ਇਹ\PR_PRP ਆਮ\RB ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਖਾਸ\RB ਕਰਕੇ\PSP ਬਰਸਾਤੀ\JJ ਭਿੰਡੀ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦਾ\PSP ਬਹੁਤ\DM_DMQ ਨੁਕਸਾਨ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13237	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਸਾਰੇ\RB ਥਾਵਾਂ\N_NN ਤੇ\CC_CCD ਜਿੱਥੇ\PR_PRL ਭਿੰਡੀ\N_NN ਉਗਾਈ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13238	ਜੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਅਗੇਤੀ\RB ਲੱਗ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਝਾੜ\N_NN ਤੇ\RB ਕਾਫੀ\DM_DMQ ਮਾੜਾ\JJ ਅਸਰ\N_NN ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13239	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਜੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਅਗੇਤੀ\JJ ਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਭਿੰਡੀ\N_NN ਦੇ\PSP ਬਹੁਤੇ\DM_DMQ ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਅਜਿਹੇ\RB ਪੱਤੇ\N_NN ਭੂਰੇ\JJ ਹੋ\V_VM_VF ਕੇ\V_VM_VNF ਸੁੱਕ\JJ ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਤੇ\CC_CCD ਬੂਟੇ\N_NN ਡਿੱਗ\V_VM_VF ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13240	ਅਜਿਹੇ\RB ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਫ਼ਲ\N_NN ਨਹੀਂ\RP_NEG ਲੱਗਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13241	ਜੇ\PR_PRL ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਉਹ\PR_PRP ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਮਰ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13242	ਜੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਲੇਟ\RB ਸ਼ੁਰੂ\N_NN ਹੋਵੇ\N_NN ਤਾਂ\N_NN ਬੂਟੇ\N_NN ਦਾ\PSP ਤਣਾ\N_NN ਹਰਾ\JJ ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCS ਉਪਰਲੇ\RB ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਨੂੰ\PSP ਲੱਗਣ\V_VM_VINF ਵਾਲੇ\PSP ਫ਼ਲ\N_NN ਵੀ\RP_RPD ਪੀਲੇ\JJ ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13243	ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਪੀਲੀਆਂ\JJ ਪੈ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਮੋਟੀਆਂ\JJ ਹੋ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13244	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਫੁੱਲ\N_NN ਪੀਲੇ\JJ ਤੇ\CC_CCD ਬੇਢਬੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਿਨ੍ਹਾਂ\PR_PRL ਦਾ\PSP ਮੰਡੀ\N_NN ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਮੁੱਲ\N_NN ਨਹੀਂ\RP_NEG ਮਿਲਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13245	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਰੋਗ\N_NN ਰਹਿਤ\N_NN ਕਿਸਮਾਂ\N_NN ਜਿਵੇਂ\RP_CL ਪੰਜਾਬ-7\N_NNP ,\RD_PUNC ਪੰਜਾਬ-8\N_NNP ਤੇ\N_NN ਪੰਜਾਬ\N_NNP ਪਦਮਣੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13246	ਖੇਤਾਂ\N_NN ਦੇ\PSP ਨੇੜਿਉਂ\RB ਉਹ\PR_PRP ਨਦੀਨ\N_NN ਖਤਮ\JJ ਕਰੋ\V_VM_VF ,\RD_PUNC ਜਿਨ੍ਹਾਂ\PR_PRL ਤੇ\N_NN ਇਹ\PR_PRP ਵਿਸ਼ਾਣੂ\N_NN ਰੋਗ\N_NN ਪਲਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13247	ਚਿੱਟੀ\JJ ਮੱਖੀ\N_NN ,\RD_PUNC ਜਿਹੜੀ\PR_PRL ਇਸ\DM_DMD ਰੋਗ\N_NN ਨੂੰ\PSP ਅੱਗੇ\RB ਫੈਲਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਦੀ\PSP ਰੋਕਥਾਮ\N_NN ਲਈ\PSP ਮੈਲਾਥੀਆਨ\N_NN 50\QT_QTF ਈ\N_NN ਸੀ\V_VAUX ਨੂੰ\PSP 560\QT_QTF ਮਿ.ਲਿ.\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN 350\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਛਿੜਕਾਅ\V_VM_VF ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13248	ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੈਂਗਣ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦੀ\PSP ਆਮ\RB ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13249	ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਫ਼ਸਲ\N_NN ਦਾ\PSP 50-60%\QT_QTF ਝਾੜ\N_NN ਘਟਾ\JJ ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13250	ਉੱਲੀ\N_NN ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ,\RD_PUNC ਬੂਟੇ\N_NN ਦਾ\PSP ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਦਾ\PSP ਰੋਗ\N_NN ਲਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13251	ਫ਼ਲ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਦੀ\PSP ਹਾਲਤ\N_NN ਕਾਰਨ\N_NN ਖੇਤਾਂ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD ਢੋਆ-ਢੁਆਈ\V_VM_VF ਸਮੇਂ\N_NN ਫ਼ਸਲ\N_NN ਦਾ\PSP ਬਹੁਤ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13252	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਪਨੀਰੀ\N_NN ਵਿਚ\PSP ਪੌਦੇ\N_NN ਮਰਨ\V_VM ਲੱਗ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13253	ਖੇਤ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਪੱਤਿਆਂ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਤੇ\PSP ਚਲੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13254	ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਬਹੁਤ\DM_DMQ ਛੋਟੇ-ਛੋਟੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13255	ਪੁਰਾਣੇ\JJ ਧੱਬਿਆਂ\N_NN ਤੇ\CC_CCD ਛੋਟੇ-ਛੋਟੇ\JJ ਕਾਲੇ\JJ ਟਿਮਕਣੇ\N_NN ਗੋਲ\JJ ਚੱਕਰ\N_NN ਵਿਚ\PSP ਲੱਗੇ\V_VM ਹੋਏ\V_VM_VF ਸਾਫ਼\JJ ਵਿਖਾਈ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13256	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM ਕੇ\V_VM_VNF ਡਿੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13257	ਅਜਿਹੇ\RB ਧੱਬੇ\N_NN ਪੌਦੇ\N_NN ਦੇ\PSP ਤਣੇ\N_NN ਅਤੇ\CC_CCD ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13258	ਉੱਲੀ\N_NN ਤਣੇ\N_NN ਦੇ\PSP ਚਾਰੇ\QT_QTO ਪਾਸੇ\N_NN ਘੁੰਮ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਨਾਲ\PSP ਬੂਟੇ\N_NN ਨੂੰ\PSP ਖੁਰਾਕ\N_NN ਜਾਣੀ\V_VM_VINF ਬੰਦ\JJ ਹੋ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13259	ਬੀਮਾਰੀ\N_NN ਵਾਲੀ\PSP ਥਾਂ\N_NN ਤੋਂ\PSP ਉੱਤੇ\RB ਵਾਲੀਆਂ\PSP ਟਾਹਣੀਆਂ\N_NN ਸੁੱਕ\JJ ਕੇ\V_VM_VNF ਮਰ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13260	ਫ਼ਲਾਂ\N_NN ਉੱਤੇ\RB ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਛੋਟੇ-ਛੋਟੇ\JJ ਹੇਠਾਂ\RB ਨੂੰ\PSP ਧਸੇ\N_NN ਹੋਏ\V_VM_VF ਘਸਮੈਲੇ\JJ ਜਿਹੇ\RB ਦਾਗ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13261	ਫ਼ਲ\N_NN ਉੱਤੇ\RB ਘਸਮੈਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਛੋਟੇ-ਛੋਟੇ\JJ ਟਿਮਕਣੇ\JJ ਇਕ\QT_QTC ਚੱਕਰ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਸਾਫ਼\JJ ਦਿਖਾਈ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13262	ਫ਼ਲ\N_NN ਉੱਤੇ\RB ਕਿਸੇ\DM_DMQ ਥਾਂ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਪੈ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCS ਆਮ\RB ਕਰਕੇ\PSP ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਫ਼ਲ\N_NN ਦੀ\PSP ਡੰਡੀ\N_NN ਵਾਲੇ\PSP ਪਾਸੇ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\V_VM ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13263	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD ਬੀਜ\N_NN ਉੱਤੇ\RB ਵੀ\RP_RPD ਜਿਉਂਦੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13264	ਉੱਲੀ\N_NN ਦੀ\PSP ਲਾਗ\N_NN ਅੱਗੇ\RB ਤੋਂ\PSP ਅੱਗੇ\RB ਪਾਣੀ\N_NN ਨਾਲ\PSP ਚਲੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13265	ਨਿੱਤ\RB ਵਰਤੋਂ\V_VM_VF ਦੇ\PSP ਖੇਤੀ\N_NN ਸੰਦ\N_NN ਤੇ\CC_CCD ਕੀੜੇ\N_NN ਵੀ\RP_RPD ਇਸ\PR_PRP ਨੂੰ\PSP ਫੈਲਾਉਣ\V_VM ਵਿਚ\PSP ਸਹਾਇਤਾ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13266	ਬੀਮਾਰੀ\N_NN ਗਰਮ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਵਧਦੀ\RB ਹੈ\V_VAUX ਅਤੇ\CC_CCD 22-25\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\N_NN ਫ਼ਲ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN ਵਧੇਰੇ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13267	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਹਮੇਸ਼ਾ\RB ਰੋਗ\N_NN ਰਹਿਤ\JJ ਫ਼ਲਾਂ\N_NN ਤੋਂ\PSP ਲਵੋ\V_VM_VF ।\RD_PUNC
+PBAD13268	ਬੀਜ\N_NN ਬੀਜਣ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB 3\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਕੈਪਟਾਨ\N_NN ਜਾਂ\CC_CCD ਥੀਰਮ\N_NN ਨਾਲ\PSP ਸੋਧ\V_VM ਲਓ\V_VM_VF ।\RD_PUNC
+PBAD13269	ਫ਼ਸਲਾਂ\N_NN ਦੀ\PSP ਅਦਲਾ-ਬਦਲੀ\N_NN ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਲੇਟ\RB ਸ਼ੁਰੂ\V_VM ਹੋਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBAD13270	ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਖੇਤ\N_NN ਵਿਚ\PSP ਲਾਉਣ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਇੰਡੋਫਿਲ\N_NN ਐੱਮ-45\N_NN ,\RD_PUNC 200\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN 100\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਦੀ\PSP ਸਪਰੇਅ\DM_DMQ ਹਰ\RB ਹਫਤੇ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13271	ਬੂਟੇ\N_NN ਦਾ\PSP ਸੋਕਾ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੈਂਗਣਾਂ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦੀ\PSP ਬਹੁਤ\DM_DMQ ਭੈੜੀ\JJ ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13272	ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\PSP ਬੂਟੇ\N_NN ਦਾ\PSP ਕੁਝ\DM_DMQ ਹਿੱਸਾ\N_NN ਜਾਂ\CC_CCD ਸਾਰਾ\RB ਬੂਟਾ\N_NN ਸੁੱਕ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13273	ਉੱਲੀ\N_NN ਫ਼ਲ\N_NN ਉੱਤੇ\RB ਹਮਲਾ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13274	ਸਾਲ\N_NN 1996\QT_QTF ਦੌਰਾਨ\RB ਇਸ\DM_DMD ਬੀਮਾਰੀ\N_NN ਨੇ\PSP ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਬੈਂਗਣ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦਾ\PSP 60-70\QT_QTF ਨੁਕਸਾਨ\RB ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBAD13275	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਕਿਸੇ\DM_DMQ ਹਿੱਸੇ\N_NN ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਪੱਤਾ\N_NN ,\RD_PUNC ਟਾਹਣੀਆਂ\N_NN ,\RD_PUNC ਤਣਾ\N_NN ਜਾਂ\CC_CCD ਫ਼ਲ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\RB ਹੋ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13276	ਪੱਤੇ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਪਾਣੀ\N_NN ਭਿੱਜੇ\RB ਜਾਮਣੀ\JJ ਗੂੜੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਨਿਸ਼ਾਨ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਸਿੱਲੇ\JJ ਮੌਸਮ\N_NN ਦੌਰਾਨ\RB ਇਨ੍ਹਾਂ\PR_PRP ਉੱਤੇ\RB ਚਿੱਟਾ\JJ ਉੱਲੀ\N_NN ਦਾ\PSP ਰੇਸ਼ਾ\N_NN ਸਾਫ\JJ ਦਿਖਾਈ\V_VM_VF ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13277	ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਬੀਮਾਰੀ\N_NN ਫੁੱਲ\N_NN ਤੇ\CC_CCD ਡੋਡੀਆਂ\N_NN ਦੇ\PSP ਜ਼ਖਮਾਂ\N_NN ਰਾਹੀਂ\PSP ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13278	ਤਣਾ\N_NN :\RD_PUNC ਤਣੇ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਹਿੱਸੇ\N_NN ਤੇ\PSP ਹਲਕੇ\JJ ਤੋਂ\PSP ਗੂੜੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਚਟਾਖ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜੋ\CC_CCS ਕਿ\CC_CCS ਉੱਲੀ\N_NN ਦੇ\PSP ਚਿੱਟੇ\JJ ਰੇਸ਼ੇ\N_NN ਨਾਲ\PSP ਢਕੇ\V_VM ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13279	ਉੱਲੀ\N_NN ਦੀਆਂ\PSP ਮਰੋੜੀਆਂ\N_NN ਤਣੇ\N_NN ਦੇ\PSP ਅੰਦਰਲੇ\RB ਪਾਸੇ\N_NN ਬਣ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCS ਜਦੋਂ\PR_PRL ਇਹ\PR_PRP ਤਣੇ\N_NN ਦੇ\PSP ਬਾਹਰ\RB ਬਣਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCS ਤਣੇ\N_NN ਤੇ\PSP ਸਾਫ\JJ ਦਿਖਾਈ\V_VM ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13280	ਉੱਲੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB ਬਹੁਤ\DM_DMQ ਛੇਤੀ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟਾ\N_NN ਸੁੱਕ\V_VM ਕੇ\V_VM_VNF ਡਿੱਗ\V_VM ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13281	ਫ਼ਲ\N_NN :\RD_PUNC ਫ਼ਲ\N_NN ਉੱਤੇ\RB ਉੱਲੀ\N_NN ਦਾ\PSP ਹਮਲਾ\N_NN ਜ਼ਮੀਨ\N_NN ਨਾਲ\PSP ਲੱਗਦੇ\V_VM_VF ਹਿੱਸੇ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਫਿਰ\RB ਝੜ\V_VM ਰਹੇ\V_VM_VF ਫੁੱਲ\N_NN ਤੋਂ\PSP ਲਾਗ\N_NN ਲੱਗ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13282	ਬੀਮਾਰੀ\N_NN ਵਾਲਾ\PSP ਹਿੱਸਾ\N_NN ਪੂਰੀ\RB ਤਰ੍ਹਾਂ\PSP ਗਲ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13283	ਫ਼ਲ\N_NN ਨੂੰ\PSP ਬੀਮਾਰੀ\N_NN ਕਿਸੇ\DM_DMQ ਸਮੇਂ\N_NN ਵੀ\RP_RPD ਲੱਗ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13284	ਗਲੇ\JJ ਹੋਏ\V_VM_VF ਹਿੱਸਿਆਂ\N_NN ਤੇ\RB ਉੱਲੀ\N_NN ਦਾ\PSP ਚਿੱਟਾ\JJ ਰੇਸ਼ਾ\N_NN ਜਾਂ\CC_CCD ਕਾਲੀਆਂ\JJ ਮਘਰੋੜੀਆਂ\N_NN ਆਮ\RB ਦਿਖਾਈ\V_VM ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13285	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\RB ਜਾਂ\CC_CCD ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਕਾਲੀਆਂ\JJ ਮਘਰੋੜੀਆਂ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13286	ਉੱਲੀ\N_NN ਰੇਸ਼ੇ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਲਾਉਣ\V_VM_VF ਦਾ\PSP ਮੁੱਢਲਾ\RB ਕੰਮ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਬਹੁਤੀ\DM_DMQ ਸਿੱਲ੍ਹ\N_NN ਤੇ\PSP 15-20\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਲਾਗ\V_VM ਲਾਉਣ\V_VM_VF ਲਈ\PSP ਜ਼ਰੂਰੀ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13287	ਉੱਲੀ\N_NN ਹੋਰ\RB ਬਹੁਤ\DM_DMQ ਸਾਰੀਆਂ\RB ਫ਼ਸਲਾਂ\N_NN ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਮਟਰ\N_NN ,\RD_PUNC ਫੁੱਲ\JJ ਗੋਭੀ\N_NN ,\RD_PUNC ਟਮਾਟਰ\N_NN ਆਦਿ\RP_CL ਫ਼ਸਲਾਂ\N_NN ਤੇ\CC_CCD ਵੀ\RP_RPD ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13288	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਪੌਦਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\RB ਨੂੰ\PSP ਨਸ਼ਟ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13289	ਗਰਮੀਆਂ\JJ ਸਮੇਂ\N_NN ਖੇਤ\N_NN ਨੂੰ\PSP ਡੂੰਘਾ\JJ ਵਾਹੋ\V_VM ।\RD_PUNC
+PBAD13290	ਰੂੜੀ\N_NN ਦੀ\PSP ਖਾਦ\N_NN ਪਾਉਣ\V_VM ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਖੇਤ\N_NN ਵਿਚ\PSP ਘਟ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13291	ਆਲਟਰਨੇਰੀਆ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN (ਆਲਟਰਨੇਰੀਆ\N_NN ਲੀਫ਼\N_NN ਸਪਾਟ)\N_NN :\RD_PUNC ਬੈਂਗਣਾ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਤੇ\RB ਕਈ\DM_DMQ ਕਿਸਮ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCS ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਆਲਟਰਨੇਰੀਆ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਹੀ\RP_RPD ਆਮ\RB ਮਿਲਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13292	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਵਿੰਗੇ\JJ ਟੇਢੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13293	ਕਈ\DM_DMQ ਧੱਬੇ\N_NN ਮਿਲ\V_VM ਕੇ\V_VM_VNF ਪੱਤਾ\N_NN ਕਈ\DM_DMQ ਥਾਵਾਂ\N_NN ਤੋਂ\PSP ਸੁੱਕ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਬੀਮਾਰੀ\N_NN ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਕਿਨਾਰਿਆਂ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\V_VM ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13294	ਫ਼ਲ\N_NN ਉੱਤੇ\RB ਵੀ\RP_RPD ਹੇਠਾਂ\RB ਨੂੰ\PSP ਧਸੇ\V_VM ਹੋਏ\V_VM_VF ਸੁੱਕੇ\JJ ਚਟਾਖ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਾਂ\CC_CCD ਫ਼ਲ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM ਕੇ\V_VM_VNF ਡਿੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13295	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਨਵੰਬਰ\N_NN ਦੇ\PSP ਮਹੀਨੇ\N_NN ਤੋਂ\PSP ਛਿੜਕਾਅ\V_VM ਸ਼ੁਰੂ\V_VM_VF ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13296	15\QT_QTF ਦਿਨ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\N_NN 700\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਇੰਡੋਫਿਲ\N_NN ਐੱਮ-45\QT_QTF ਜਾਂ\CC_CCD ਇੰਡੋਫਿਲ\N_NN ਜੈੱਡ-\N_NN 78\QT_QTF ਵਰਤੋ\V_VM_VF ।\RD_PUNC
+PBAD13297	ਛੋਟੇ\JJ ਪੱਤਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN (ਲਿਟਲ\N_NN ਲੀਫ਼)\N_NN :\RD_PUNC ਛੋਟੇ\JJ ਪੱਤਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN ਬੈਂਗਣਾਂ\N_NN ਵਿਚ\PSP ਕਾਫੀ\RB ਗੰਭੀਰ\JJ ਸਮੱਸਿਆ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13298	ਰੋਗ\N_NN ਦਾ\PSP ਬਹੁਤਾ\DM_DMQ ਪਤਾ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਫ਼ਲ\N_NN ਕੱਢਣ\V_VM ਸਮੇਂ\N_NN ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਫ਼ਸਲ\N_NN ਦਾ\PSP ਝਾੜ\N_NN ਘਟਾਉਂਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13299	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਪੱਤੇ\N_NN ਛੋਟੇ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13300	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਬੂਟਿਆਂ\N_NN ਵਿਚ\PSP ਇੱਕੋ\QT_QTO ਥਾਂ\N_NN ਤੋਂ\PSP ਬਹੁਤੇ\DM_DMQ ਪੱਤੇ\N_NN ਨਿਕਲਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13301	ਪੱਤੇ\N_NN ਬਹੁਤ\DM_DMQ ਛੋਟੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13302	ਬੂਟਾ\N_NN ਛੋਟਾ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13303	ਬੀਮਾਰੀ\JJ ਵਾਲੇ\N_NN ਬੂਟੇ\N_NN ਨੂੰ\PSP ਫੁੱਲ\N_NN ਤੇ\PSP ਫ਼ਲ\N_NN ਨਹੀਂ\RP_NEG ਲੱਗਦੇ\V_VM_VF ।\RD_PUNC
+PBAD13304	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਹੋਰ\N_NN ਕਈ\DM_DMQ ਪ੍ਰਕਾਰ\PSP ਦੇ\PSP ਬੂਟਿਆਂ\N_NN ਜਿਵੇਂ\RP_CL ਧਤੂਰਾ\N_NN ਆਦਿ\RP_CL ਤੇ\PSP ਪਲਦੀ\V_VM_VF ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13305	ਚੇਪਾ\N_NN ਬੀਮਾਰੀ\N_NN ਨੂੰ\PSP ਅੱਗੇ\RB ਫੈਲਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13306	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਮਾਰ\N_NN ਬੂਟੇ\N_NN ਕੱਢ\V_VM ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13307	ਫ਼ਸਲ\N_NN ਤੇ\N_NN ਮੈਲਾਥੀਆਨ\N_NN /\N_NN ਮੈਟਾਸਿਸਟਾਕਸ\N_NN 250\QT_QTF ਮਿ.ਲਿ.\N_NN 100-125\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM_VF ਕੇ\V_VM_VNF ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13308	ਚਿਤਕਬਰਾ\N_NN ਰੋਗ\N_NN (ਮੋਜ਼ੇਕ):\N_NN ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਬੈਂਗਣਾਂ\N_NN ਦੀਆਂ\PSP ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਬੀਜੀਆਂ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਸਾਰੀਆਂ\RB ਕਿਸਮਾਂ\N_NN ਨੂੰ\PSP ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13309	ਬੈਗਣਾਂ\N_NN ਤੇ\CC_CCD ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਦੀਆਂ\PSP ਘੱਟੋ-ਘੱਟ\RB ਪੰਜ\QT_QTC ਕਿਸਮਾਂ\PSP ਇਕੱਠੀਆਂ\RB ਜਾਂ\CC_CCD ਇਕੱਲੀਆਂ\RB ਇਕੱਲੀਆਂ\RB ਬੀਮਾਰੀ\N_NN ਫੈਲਾਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13310	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਖੇਤਾਂ\N_NN ਵਿਚ\PSP ਛੋਟੇ\JJ ਪੱਤਿਆਂ\N_NN ਤੇ\CC_CCD ਇਸ\PR_PRP ਦੀਆਂ\PSP ਨਿਸ਼ਾਨੀਆਂ\N_NN ਬਹੁਤ\DM_DMQ ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਵੇਖੀਆਂ\V_VM ਜਾ\V_VM_VNF ਸਕਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13311	ਵੱਡੇ\JJ ਪੱਤਿਆਂ\N_NN ਤੇ\CC_CCD ਇਹ\PR_PRP ਘੱਟ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13312	ਬੀਮਾਰ\JJ ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਪੱਤੇ\N_NN ਛੋਟੇ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬੇਢਬੇ\JJ ਜਿਹੇ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13313	ਬੀਮਾਰੀ\JJ ਵਾਲੇ\PSP ਬੂਟੇ\N_NN ਛੋਟੇ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਫ਼ਲ\N_NN ਘੱਟ\JJ ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13314	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\RB ਕਿਸਮਾਂ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਰਸ\N_NN ਰਾਹੀਂ\RB ਅੱਗੇ\RB ਚਲੀਆਂ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਕ\QT_QTC ਕਿਸਮ\N_NN ਦੇ\PSP ਤੇਲੇ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਅੱਗੇ\RB ਫੈਲਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13315	ਇਹ\PR_PRP ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਤੰਬਾਕੂ\N_NN ,\RD_PUNC ਟਮਾਟਰ,ਮਿਰਚ\N_NN ,\RD_PUNC ਧਤੂਰਾ\N_NN ਅਤੇ\CC_CCD ਕਈ\DM_DMQ ਹੋਰ\RB ਨਦੀਨਾਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਬੀਮਾਰੀ\N_NN ਲਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13316	ਰੋਕਥਾਮ\N_NN ਫ਼ਸਲ\N_NN ਬੀਜਣ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਸਾਰੇ\RB ਨਦੀਨ\N_NN ਤੇ\CC_CCD ਹੋਰ\RB ਬੂਟੇ\N_NN ,\RD_PUNC ਜਿਨ੍ਹਾਂ\PR_PRL ਰਾਹੀਂ\PSP ਬੀਮਾਰੀ\N_NN ਅੱਗੇ\RB ਫ਼ੈਲਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਨਸ਼ਟ\V_VM ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13317	ਬੀਮਾਰ\N_NN ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਨਾ\RP_NEG ਛੂਹੋ\V_VM_VF ਅਤੇ\CC_CCD ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਨਸ਼ਟ\V_VM_VF ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13318	ਕੋਹੜ\N_NN /\N_NN ਟਾਹਣੀਆਂ\N_NN ਦਾ\PSP ਸੋਕਾ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਦਾ\PSP ਸਾੜਾ\V_VM :\RD_PUNC ਇਹ\PR_PRP ਮਿਰਚਾਂ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦੀ\PSP ਸਭ\RB ਤੋਂ\PSP ਭੈੜੀ\JJ ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਸਦਾ\PR_PRP ਬਹੁਤ\DM_DMQ ਹਮਲਾ\N_NN ਬਰਸਾਤ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਵਿਚ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13319	ਬੀਮਾਰੀ\N_NN ਮੁੱਖ\JJ ਤੌਰ\PSP ਤੇ\CC_CCD ਲਾਲ\JJ ਮਿਰਚਾਂ\N_NN ਤੇ\CC_CCD ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCS ਇਹ\PR_PRP ਇਹ\PR_PRP ਹਰੀਆਂ\JJ ਮਿਰਚਾਂ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਵੇਖੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13320	ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਲਾਲ\JJ ਮਿਰਚਾਂ\N_NN ਦਾ\PSP 50%\QT_QTF ਨੁਕਸਾਨ\RB ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13321	ਫ਼ਲ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਨਾਲ\PSP ਖੇਤਾਂ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD ਢੋਆ-ਢੁਆਈ\V_VM ਦੌਰਾਨ\RB ਬਹੁਤ\DM_DMQ ਨੁਕਸਾਨ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13322	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਸ਼ਾਹਕੋਟ\N_NNP ,\RD_PUNC ਸੰਗਰੂਰ\N_NNP ਅਤੇ\CC_CCD ਲੁਧਿਆਣਾ\N_NNP ਖੇਤਰ\N_NN ਵਿਚ\PSP ਬਹੁਤੀ\DM_DMQ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13323	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਟਾਹਣੀਆਂ\N_NN ਦਾ\PSP ਸੋਕਾ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਟਾਹਣੀਆਂ\N_NN ਸਿਰਿਆਂ\JJ ਤੋਂ\PSP ਹੇਠਾਂ\RB ਵੱਲ\PSP ਸੁੱਕਣੀਆਂ\V_VM ਸ਼ੁਰੂ\RB ਹੋ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13324	ਸੁੱਕੀਆਂ\JJ ਟਾਹਣੀਆਂ\N_NN ਭੂਰੀਆਂ\JJ ਪਾਣੀ\N_NN ਭਿੱਜੀਆਂ\JJ ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਹਲਕੇ\JJ ਸਲੇਟੀ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਬਦਲ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13325	ਬੀਮਾਰ\N_NN ਟਾਹਣੀਆਂ\N_NN ਉੱਤੇ\RB ਉੱਲੀ\N_NN ਦੇ\PSP ਕਈ\DM_DMQ ਟਿਮਕਣੇ\N_NN ਲੱਗੇ\V_VM_VF ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13326	ਫ਼ਲ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਲਾਲ\JJ ਮਿਰਚਾਂ\N_NN ਤੇ\CC_CCD ਗੋਲ\JJ ਤੋਂ\PSP ਲੰਬੂਤਰੇ\JJ ਹੇਠਾਂ\RB ਧੱਸੇ\N_NN ਹੋਏ\V_VM_VF ਧੱਬੀਆਂ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਆਰੰਭ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਨ੍ਹਾਂ\PR_PRL ਦੇ\PSP ਕਿਨਾਰੇ\N_NN ਕਾਲੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13327	ਬਹੁਤੀ\DM_DMQ ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਫ਼ਲ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਲਾਲ\JJ ਨਹੀਂ\RP_NEG ਰਹਿੰਦਾ\V_VM_VF ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਘਸਮੈਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13328	ਇਸ\PR_PRP ਘਸਮੈਲੇ\JJ ਨਿਸ਼ਾਨ\N_NN ਤੇ\CC_CCD ਕਿੰਨੇ\PR_PRQ ਹੀ\RP_RPD ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਟਿਮਕਣੇ\N_NN ਪੈਦਾ\V_VM_VF ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13329	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਫ਼ਲ\N_NN ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਡਿੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਪਹਿਚਾਣ\V_VM ਸੌਖੀ\RB ਹੋ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13330	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਉੱਤੇ\RB ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜੋ\PR_PRL ਮੁੱਢਲੀ\RB ਬੀਮਾਰੀ\N_NN ਲਾਉਣ\V_VM_VF ਦਾ\PSP ਕਾਰਨ\PSP ਬਣਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13331	ਬਾਅਦ\RB ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਹਵਾ\N_NN ਰਾਹੀਂ\PSP ਅੱਗੇ\RB ਚਲੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13332	ਬੀਮਾਰੀ\N_NN ਸਿੱਲੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD 28-35\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\CC_CCD ਬਹੁਤੀ\DM_DMQ ਵਧਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13333	ਬੀਮਾਰੀ\N_NN ਬਰਸਾਤਾਂ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਜੁਲਾਈ-ਅਗਸਤ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਹਮਲਾ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13334	ਉੱਲੀ\N_NN ਫ਼ਸਲ\N_NN ਦੀ\PSP ਰਹਿੰਦ\N_NN ਖੂੰਹਦ\N_NN ਤੇ\CC_CCD ਵੀ\RP_RPD ਜਿਉਂਦੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13335	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਨੂੰ\PSP 2\QT_QTF ਗ੍ਰਾਮ\N_NN ਥੀਰਮ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਸੋਧ\V_VM ਲਓ\V_VM_VF ।\RD_PUNC
+PBAD13336	ਫ਼ਸਲ\N_NN ਤੇ\N_NN 750\QT_QTF ਗ੍ਰਾਮ\N_NN ਇੰਡੋਫਿਲ\N_NN ਐੱਮ-45\QT_QTF ਜਾਂ\CC_CCD ਬਲਾਈਟੋਕਸ-50\QT_QTF ਘੁਲਣਸ਼ੀਲ\N_NN ਨੂੰ\PSP 250\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF 10\QT_QTF ਦਿਨ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\CC_CCD ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13337	ਪਹਿਲੀ\QT_QTO ਸਪਰੇ\N_NN ਜੁਲਾਈ\N_NN ਦੇ\PSP ਪਹਿਲੇ\RB ਹਫਤੇ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13338	ਕੁੱਲ\JJ 3-4\QT_QTF ਸਪਰੇ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13339	ਸਲ੍ਹਾਬੇ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN (ਵੈੱਟ\N_NN ਰੌਟ)\N_NN :\RD_PUNC ਸਲ੍ਹਾਬੇ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਮਿਰਚਾਂ\N_NN ਤੇ\CC_CCD ਅਗਸਤ\N_NN ਤੋਂ\PSP ਅਕਤੂਬਰ\N_NN ਤੱਕ\PSP ਬਹੁਤ\DM_DMQ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13340	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ,\RD_PUNC ਫ਼ਲਾਂ\N_NN ਡੋਡੀਆਂ\N_NN ਅਤੇ\CC_CCD ਨਰਮ\JJ ਟਾਹਣੀਆਂ\N_NN ਤੇ\RB ਹਮਲਾ\V_VM ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13341	ਇਸ\PR_PRP ਹਿੱਸੇ\N_NN ਤੇ\RB ਉੱਲੀ\N_NN ਦੇ\PSP ਕਾਲੇ\JJ ਰੇਸ਼ੇ\N_NN ਸਾਫ\JJ ਦਿਖਾਈ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13342	ਬੀਮਾਰੀ\N_NN ਉਪਰੋਂ\RB ਹੇਠਾਂ\RB ਵੱਲ\PSP ਵਧਦੀ\V_VM ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੀਮਾਰ\N_NN ਹਿੱਸੇ\N_NN ਪਿਲਪਿਲੇ\JJ ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13343	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਸਿਰੇ\N_NN ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13344	ਬੀਮਾਰੀ\N_NN ਫ਼ਲਾਂ\N_NN ਤੇ\CC_CCD ਵੀ\RP_RPD ਚਲੀ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਨਾਲ\PSP ਫ਼ਲਾਂ\N_NN ਤੇ\CC_CCD ਪਿਲਪਿਲਾ\N_NN ਸਾੜਾ\N_NN ਪੈ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੀਮਾਰ\N_NN ਹਿੱਸਿਆਂ\N_NN ਤੇ\CC_CCD ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਰੇਸ਼ੇ\N_NN ਸਾਫ\JJ ਦਿਖਾਈ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13345	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਸਿਲ੍ਹੇ\JJ ਅਤੇ\CC_CCD ਗਰਮ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13346	28-30\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਬਹੁਤ\DM_DMQ ਵਧਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13347	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਕੋਹੜ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਵਾਲੀ\PSP ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13348	ਗੁੱਛਾ\N_NN ਮੁੱਛਾ\N_NN ਰੋਗ\N_NN (ਲੀਫ਼\N_NN ਕਰਲ)\N_NN :\RD_PUNC ਜਿੱਥੇ\PR_PRL ਵੀ\RP_RPD ਮਿਰਚ\N_NN ਉਗਾਈ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉੱਥੇ\PR_PRL ਮਿਰਚਾਂ\N_NN ਦਾ\PSP ਗੁੱਛਾ\N_NN ਮੁੱਛਾ\N_NN ਰੋਗ\N_NN ਆਮ\RB ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13349	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਆਮ\RB ਕੌੜੀਆਂ\JJ ਤੇ\N_NN ਸ਼ਿਮਲਾ\N_NN ਮਿਰਚ\N_NN ,\RD_PUNC ਦੋਵਾਂ\QT_QTO ਤੇ\CC_CCD ਕਾਫੀ\DM_DMQ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13350	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\PSP ਬੂਟੇ\N_NN ਤੇ\CC_CCD ਪੱਤੇ\N_NN ਮੁੜਨ\V_VM ਲੱਗ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਛੋਟੇ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13351	ਤਣੇ\N_NN ਤੇ\N_NN ਗੰਢ\N_NN ਤੋਂ\PSP ਗੰਢ\N_NN ਦਾ\PSP ਫ਼ਾਸਲਾ\N_NN ਘੱਟ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟਾ\N_NN ਮਧਰਾ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਝਾੜੀ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਅਖਤਿਆਰ\V_VM ਕਰ\V_VM_VF ਲੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13352	ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਅਤੇ\CC_CCD ਹੇਠਾਂ\RB ਵੱਲ\PSP ਨੂੰ\PSP ਮੁੜਨ\V_VM ਲੱਗ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13353	ਬੂਟੇ\N_NN ਨੂੰ\PSP ਫ਼ਲ\N_NN ਨਹੀਂ\RP_NEG ਲੱਗਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13354	ਜੇ\PR_PRL ਫ਼ਲ\N_NN ਲੱਗ\V_VM_VNF ਵੀ\RP_RPD ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCS ਉਹ\PR_PRP ਛੋਟਾ\JJ ਅਤੇ\CC_CCD ਬੇਢਬਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13355	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਚਿੱਟੀ\JJ ਮੱਖੀ\N_NN ਦੁਆਰਾ\PSP ਅੱਗੇ\RB ਫੈਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13356	ਚਿੱਟੀ\JJ ਮੱਖੀ\N_NN ਅਗਸਤ\N_NN ਤੋਂ\PSP ਅਕਤੂਬਰ\N_NN ਤੱਕ\PSP ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਫੈਲਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13357	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਪਨੀਰੀ\N_NN ਨੂੰ\PSP ਕੀੜੇ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN ਤੋਂ\PSP ਬਚਾ\V_VM ਕੇ\V_VM_VNF ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBAD13358	ਪਨੀਰੀ\N_NN ਤੇ\CC_CCD ਰੋਗੋਰ/ਮੈਟਾਸਿਸਟਾਕਸ\N_NN ਇਕ\QT_QTC ਮਿਲੀਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF 10\QT_QTF ਦਿਨ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\N_NN ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13359	ਫ਼ਸਲ\N_NN ਤੇ\N_NN ਮੈਲਾਥੀਆਨ\N_NN 50\QT_QTF ਈ\N_NN ਸੀ\V_VAUX 400\QT_QTF ਮਿ.ਲਿ.ਨੂੰ\N_NN 100-125\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF 15-20\QT_QTF ਦਿਨ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\PSP ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13360	ਫ਼ਲ\N_NN ਤੋੜਨ\V_VM ਤੋਂ\PSP 20\QT_QTF ਦਿਨ\N_NN ਪਹਿਲਾਂ\RB ਸਪਰੇ\V_VM ਨਾ\RP_NEG ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13361	ਚਿਤਕਬਰਾ\N_NN ਰੋਗ\N_NN (ਚਿੱਲੀ\N_NN ਮੋਜ਼ੇਕ)\N_NN :\RD_PUNC ਇਸ\PR_PRP ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਦੀਆਂ\PSP ਕਈ\DM_DMQ ਕਿਸਮਾਂ\N_NN ਮਿਰਚਾਂ\N_NN ਤੇ\CC_CCD ਹਮਲਾ\N_NN ਕਰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਵੱਖ-ਵੱਖ\RB ਤਰ੍ਹਾਂ\PSP ਦੀਆਂ\PSP ਨਿਸ਼ਾਨੀਆਂ\N_NN ਬੂਟਿਆਂ\N_NN ਤੇ\PSP ਆਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13362	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਸਭ\RB ਤੋਂ\PSP ਵੱਡੀ\JJ ਨਿਸ਼ਾਨੀ\N_NN ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਗੂੜੇ\JJ ਹਰੇ\JJ ਅਤੇ\CC_CCD ਪੀਲੇ\JJ ਰੰਗ\N_NN ਦੀਆਂ\PSP ਟਾਕੀਆਂ\N_NN ਦਾ\PSP ਪੈ\V_VM ਜਾਣਾ\V_VM_VINF ਹੈ\V_VAUX ਇਹ\PR_PRP ਟਾਕੀਆਂ\N_NN ਦਬੀਆਂ\V_VM ਹੋਈਆਂ\V_VM_VF ਜਾਂ\CC_CCD ਉਭਰਵੀਆਂ\V_VM ਵੀ\RP_RPD ਹੋ\V_VM_VF ਸਕਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13363	ਕਈ\DM_DMQ ਵਾਰ\PSP ਬੂਟਿਆਂ\N_NN ਦਾ\PSP ਆਕਾਰ\N_NN ਛੋਟਾ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਪੱਤੇ\N_NN ਬੂਟ\N_NN ਦੇ\PSP ਤਸਮੇ\N_NN ਵਰਗੇ\RB ਬਰੀਕ\JJ ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13364	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਰਸ\N_NN ਰਾਹੀਂ\PSP ਇਕ\QT_QTC ਤੋਂ\PSP ਦੂਜੇ\QT_QTO ਤੱਕ\PSP ਚਲਾ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13365	ਜੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਬੂਟੇ\N_NN ਨੂੰ\PSP ਛੂਹ\V_VM ਕੇ\V_VM_VNF ਤੰਦਰੁਸਤ\JJ ਬੂਟੇ\N_NN ਨੂੰ\PSP ਹੱਥ\N_NN ਲਾ\V_VM_VNF ਦੇਈਏ\V_VM_VF ਤਾਂ\CC_CCS ਬੀਮਾਰੀ\N_NN ਅੱਗੇ\RB ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13366	ਇਸੇ\PR_PRP ਤਰ੍ਹਾਂ\PSP ਮਿਰਚਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਲਈ\PSP ਵਰਤੇ\N_NN ਸੰਦਾਂ\N_NN ਰਾਹੀਂ\PSP ਵੀ\RP_RPD ਬੀਮਾਰੀ\N_NN ਅੱਗੇ\RB ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13367	ਖੇਤਾਂ\N_NN ਵਿਚ\PSP ਛੱਡੇ\RB ਬੀਮਾਰ\JJ ਬੂਟੇ\N_NN ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਲਾਗ\N_NN ਦਾ\PSP ਕਾਰਨ\PSP ਬਣਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13368	ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN (ਸਰਕੋਸਪੋਰਾ\N_NN ਲੀਫ਼\N_NN ਸਪਾਟ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਫੁੱਲ\N_NN ਆਉਣ\V_VM_VF ਤੇ\PSP ਸ਼ੁਰੂ\V_VM ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਸ\PR_PRP ਦੇ\PSP ਹਮਲੇ\N_NN ਕਾਰਨ\PSP ਬੂਟਿਆ\N_NN ਦੇ\PSP ਪੱਤੇ\N_NN ਡਿੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13369	ਬੀਮਾਰੀ\N_NN ਲਾਉਣ\V_VM ਵਾਲੀਆਂ\PSP ਦੋਵੇਂ\QT_QTO ਉੱਲੀਆਂ\N_NN ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਆਮ\RB ਮਿਲਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13370	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਆਮ\RB ਕਰਕੇ\PSP ਪੁਰਾਣੇ\JJ ਪੱਤਿਆਂ\N_NN ਤੋਂ\PSP ਆਰੰਭ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13371	ਗੋਲ\JJ ਤੋਂ\PSP ਕੁਝ\DM_DMQ ਟੇਢੇ\JJ ਵੱਖ-ਵੱਖ\RB ਆਕਾਰ\N_NN ਦੇ\PSP ਲਾਲ\JJ ਤੋਂ\PSP ਗੂੜੇ\JJ ਲਾਲ\JJ ਧੱਬੇ\N_NN ਪੱਤਿਆਂ\N_NN ਤੇ\PSP ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13372	ਦੂਜੀ\QT_QTO ਉੱਲੀ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਨ੍ਹਾਂ\PR_PRP ਤੇ\PSP ਉੱਲੀ\N_NN ਦੇ\PSP ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਰੇਸ਼ੇ\N_NN ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13373	ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਆਪਸ\PR_PRC ਵਿਚ\PSP ਰਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਕ\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਤੱਕ\PSP ਹੋ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13374	ਬਾਅਦ\RB ਵਿਚ\PSP ਧੱਬੀਆਂ\N_NN ਦੇ\PSP ਵਿਚਕਾਰਲੇ\RB ਸਲੇਟੀ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹਿੱਸਿਆਂ\N_NN ਤੇ\CC_CCD ਉੱਲੀ\N_NN ਦੇ\PSP ਰੇਸ਼ੇ\N_NN ਦਿਖਾਈ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\PR_PRP ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13375	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਧੱਬੇ\N_NN ਡਿੱਗ\V_VM ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਪੱਤੇ\N_NN ਵਿਚ\PSP ਮੋਰੀਆਂ\N_NN ਸਾਫ\JJ ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13376	ਬੀਮਾਰੀ\N_NN ਫ਼ਲੀਆਂ\N_NN ਤੇ\PSP ਵੀ\RP_RPD ਚਲੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13377	ਉੱਲੀ\N_NN ਦਾਣਿਆਂ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13378	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਵਰਖਾ\N_NN ਰੁੱਤ\N_NN ਵਿਚ\PSP ਉੱਚੇ\RB ਤਾਪਮਾਨ\N_NN ਤੇ\PSP ਬਹੁਤੀ\DM_DMQ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13379	ਬਹੁਤੇ\DM_DMQ ਸੰਘਣੇ\JJ ਪੱਤਿਆਂ\N_NN ਵਾਲੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਤੇ\PSP ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13380	ਬੀਮਾਰੀ\N_NN ਆਰੰਭ\RB ਹੋਣ\V_VM_VNG ਤੇ\N_NN ਫ਼ਸਲ\N_NN ਤੇ\PSP 0.2%\QT_QTF (2ਗ੍ਰਾਮ/ਲਿਟਰਪਾਣੀ)ਇੰ\QT_QTF ਡੋਫਿਲ\N_NN ਐੱਮ-\N_NN 45\QT_QTF ਦੀ\PSP ਸਪਰੇ\N_NN 10\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\CC_CCD ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13381	ਚਿਤਕਬਰਾ\N_NN ਰੋਗ\N_NN (ਕਾਊਪੀ\N_NN ਮੌਜ਼ੇਕ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਰਵਾਂਹ\N_NN (ਲੋਬੀਆ)\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\RB ਕਿਸਮਾਂ\N_NN ਨੂੰ\PSP ਹੀ\RP_RPD ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾਤਰ\RB ਬਰਸਾਤ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਵਿਚ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13382	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਪੱਤਿਆਂ\N_NN ਤੇ\PSP ਹਰੇ\JJ ਪੀਲੇ\JJ ਚਟਾਖ\N_NN ਪਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13383	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਰਸ\N_NN ਰਾਹੀਂ\PSP ਅੱਗੇ\RB ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੀਜ\N_NN ਰਾਹੀਂ\PSP ਵੀ\RP_RPD ਫੈਲਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13384	ਇਹ\PR_PRP ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN 4-22%\QT_QTF ਤੱਕ\PSP ਬੀਜਾਂ\N_NN ਵਿਚ\PSP ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13385	ਬੀਮਾਰੀ\N_NN ਸਣ\N_NN ਅਤੇ\CC_CCD ਦਾਲਾਂ\N_NN ਆਦਿ\RP_CL ਤੇ\CC_CCD ਵੀ\RP_RPD ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13386	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਕਿਉਂਕਿ\CC_CCS ਬੀਮਾਰੀ\N_NN ਬੀਜ\N_NN ਰਾਹੀਂ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਇਸ\PR_PRP ਲਈ\PSP ਰੋਗ\N_NN ਰਹਿਤ\JJ ਬੀਜ\N_NN ਵਰਤਣਾ\V_VM ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13387	ਗੋਭੀ\N_NN ਦੇ\PSP ਤਣੇ\N_NN ਦਾ\PSP ਸਾੜਾ\N_NN (ਸਕਲੈਰੋਟੀਨੀਆ\N_NN ਸਟਾਕ\N_NN ਰੌਟ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਅਕਤੂਬਰ\N_NN ਵਿਚ\PSP ਬੀਜੀ\N_NN ਫ਼ਸਲ\N_NN ਤੇ\PSP ਆਮ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13388	ਕੁਝ\DM_DMQ ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਨੇ\PSP ਬੀਜ\N_NN ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਵੱਡਾ\JJ ਧੱਕਾ\V_VM ਲਾਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13389	ਫੁੱਲ\JJ ਗੋਭੀ\N_NN ਵਿਚ\PSP ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN 30%\QT_QTF ਤੱਕ\PSP ਨੁਕਸਾਨ\N_NN ਕਰ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13390	ਬੀਜ\N_NN ਲਈ\PSP ਬੀਜੀਆਂ\N_NN ਮੂਲੀ\N_NN ,\RD_PUNC ਸ਼ਲਗਮ\N_NN ਅਤੇ\CC_CCD ਗਾਜਰ\N_NN ਦੀਆਂ\PSP ਫ਼ਸਲਾਂ\N_NN ਵਿਚ\PSP ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\PSP ਕਾਫੀ\DM_DMQ ਨੁਕਸਾਨ\V_VM ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13391	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਫ਼ਸਲ\N_NN ਦੀ\PSP ਅੱਧੀ\JJ ਉਮਰ\N_NN ਵੇਲੇ\PSP ਸ਼ੁਰੂ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਨਾਲ\PSP ਪੱਤੇ\N_NN ਦਿਨੇ\N_NN ਮੁਰਝਾਏ\N_NN ਹੋਏ\V_VM_VF ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ਤੇ\CC_CCD ਰਾਤ\N_NN ਨੂੰ\PSP ਠੀਕ\JJ ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13392	ਪਾਣੀ\N_NN ਭਿੱਜੇ\JJ ਪਿਲਪਿਲੇ\JJ ਦਾਗ\N_NN ਗੋਭੀ\N_NN ਦੇ\PSP ਤਣੇ\N_NN ਤੇ\CC_CCD ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13393	ਜ਼ਮੀਨ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਲੱਗਦੇ\V_VM_VF ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਤੇ\CC_CCD ਵਿਚਕਾਰਲੀ\JJ ਨਾੜ\N_NN ਤੇ\PSP ਕਾਲੇ\JJ ਭੂਰੇ\V_VAUX ਤੋਂ\PSP ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦਾ\PSP ਸਾੜਾ\N_NN ਪੈ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਉੱਪਰ\RB ਚਿੱਟੀ\JJ ਉੱਲੀ\N_NN ਦਾ\PSP ਜਾਲਾ\N_NN ਵੀ\RP_RPD ਸਾਫ\JJ ਦਿਖਾਈ\V_VM_VF ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13394	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਬੂਟੇ\N_NN ਬੀਜ\N_NN ਵਾਲੀਆਂ\PSP ਸ਼ਾਖਾਂ\N_NN ਨਹੀਂ\RP_NEG ਕੱਢਦੇ\V_VM_VF ।\RD_PUNC
+PBAD13395	ਸਾੜਾ\N_NN ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਤੋਂ\PSP ਤਣੇ\N_NN ਵੱਲ\PSP ਵਧਦਾ\RB ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਜ਼ਮੀਨ\N_NN ਦੀ\PSP ਸਤਹ\N_NN ਤੇ\N_NN ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦਾ\PSP ਸਾੜਾ\N_NN ਤਣੇ\N_NN ਦੇ\PSP ਚਾਰੇ\QT_QTO ਪਾਸੇ\N_NN ਫੈਲ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13396	ਅਜਿਹੇ\RB ਬੂਟੇ\N_NN ਬੀਜ\N_NN ਬਣਨ\V_VM ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13397	ਤਣੇ\N_NN ਦੇ\PSP ਅੰਦਰ\RB ਉੱਲੀ\N_NN ਦਾ\PSP ਰੇਸ਼ਾ\N_NN ਤੇ\CC_CCD ਮਘਰੋੜੀਆਂ\N_NN ਪੈਦਾ\V_VM_VF ਹੋ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13398	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਉੱਲੀ\N_NN ਸਾਲਾਂ\N_NN ਬੱਧੀ\N_NN ਜ਼ਮੀਨ\N_NN ਦੀਆਂ\PSP ਮਘਰੋੜੀਆਂ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਜਿਉਂਦੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13399	ਇਹ\PR_PRP ਉੱਲੀ\N_NN ਹੋਰ\RB ਵੀ\RP_RPD ਬਹੁਤ\DM_DMQ ਸਾਰੀਆਂ\RB ਫ਼ਸਲਾਂ\N_NN ਨੂੰ\PSP ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13400	ਬੀਮਾਰੀ\N_NN ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਅਤੇ\CC_CCD 4-20\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਤੇ\CC_CCD ਬਹੁਤੀ\DM_DMQ ਵਧਦੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13401	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\N_NN ਤੇ\CC_CCD ਪਲਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਇਸ\DM_DMD ਲਈ\PSP ਫ਼ਸਲ\N_NN ਕੱਟਣ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਰਹਿੰਦ-ਖੂੰਹਦ\N_NN ਨਸ਼ਟ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13402	ਫ਼ਸਲਾਂ\N_NN ਦਾ\PSP ਹੇਰਫੇਰ\RB ਉਨ੍ਹਾਂ\PR_PRP ਫ਼ਸਲਾਂ\N_NN ਨਾਲ\PSP ਕਰੋ\V_VM_VF ,\RD_PUNC ਜਿੰਨ੍ਹਾਂ\PR_PRL ਨੂੰ\PSP ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਲੱਗਦੀ\V_VM_VF ,\RD_PUNC ਜਿਵੇਂ\RP_CL ਕਣਕ\N_NN ਆਦਿ\RP_CL ।\RD_PUNC
+PBAD13403	ਜਿੱਥੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਆਉਂਦੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਉੱਥੇ\PR_PRL ਰੂੜੀ\N_NN ਦੀ\PSP ਖਾਦ\N_NN ਪਾਓ\V_VM_VF ,\RD_PUNC ਜਿਹੜੀ\PR_PRL ਉੱਲੀ\N_NN ਨੂੰ\PSP ਖਤਮ\V_VM ਕਰਨ\V_VM_VF ਵਿਚ\PSP ਸਹਾਈ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13404	ਕਾਲਾ\JJ ਸਾੜਾ\N_NN (ਬਲੈਕ\N_NN ਰੌਟ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਬੈਕਟੀਰੀਆ\N_NN ਕਰਕੇ\PSP ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13405	ਗੋਭੀ\N_NN ਦੀਆਂ\PSP ਆਮ\RB ਕਾਸ਼ਤ\N_NN ਕੀਤੀਆ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਕਿਸਮਾਂ\N_NN ਅਤੇ\CC_CCD ਜੰਗਲੀ\JJ ਕਿਸਮਾਂ\N_NN ਉੱਤੇ\RB ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਆਮ\RB ਆ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13406	ਜੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਸ਼ੁਰੂ\V_VM ਹੋ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਸਦਾ\DM_DMD ਨੁਕਸਾਨ\JJ ਬਹੁਤ\DM_DMQ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13407	ਬੀਮਾਰੀ\N_NN ਲੱਗਣ\V_VM_VF ਕਾਰਨ\PSP ਫ਼ਸਲ\N_NN ਮੰਡੀ\N_NN ਵਿਚ\PSP ਚੰਗੇ\JJ ਪੈਸੇ\N_NN ਨਹੀਂ\RP_NEG ਵਟਾਉਂਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13408	ਬੰਦ\JJ ਗੋਭੀ\N_NN ਤੇ\CC_CCD ਫੁੱਲ\JJ ਗੋਭੀ\N_NN ਨੂੰ\PSP ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਸਰੋਂ\N_NN ਜਾਤੀ\N_NN ਦੀਆਂ\PSP ਦੂਜੀਆਂ\QT_QTO ਫ਼ਸਲਾਂ\N_NN ਨਾਲੋਂ\PSP ਜ਼ਿਆਦਾ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13409	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਬੀਮਾਰੀ\N_NN ਫ਼ਸਲ\N_NN ਉੱਗਣ\V_VM ਤੋਂ\PSP ਲੈ\V_VM_VF ਕੇ\V_VM_VNF ਫ਼ਸਲ\N_NN ਤਿਆਰ\V_VM ਹੋਣ\V_VM_VNG ਤੱਕ\PSP ਕਿਸੇ\DM_DMQ ਵੀ\RP_RPD ਸਮੇਂ\N_NN ਲੱਗ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13410	ਬੀਮਾਰੀ\N_NN ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਨੁੱਕਰਾਂ\JJ ਤੇ\N_NN ਹਲਕੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਦਾਗ\N_NN ਪੈਣ\V_VM_VF ਨਾਲ\PSP ਆਰੰਭ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\PR_PRP ਪੱਤੇ\N_NN ਦੀ\PSP ਵਿਚਕਾਰਲੀ\RB ਨਾੜੀ\N_NN ਵੱਲ\PSP ਅੰਦਰ\RB ਨੂੰ\PSP ਅੰਗਰੇਜ਼ੀ\N_NNP ਅੱਖਰ\N_NN (v)\RD_RDF ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਵਧਦੇ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13411	ਫੁੱਲ\JJ ਗੋਭੀ\N_NN ਅਤੇ\CC_CCD ਬਰੌਂਕਲੀ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\PSP ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਝੁਲਸੀਆਂ\RB ਨਜ਼ਰ\N_NN ਆਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13412	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਹਿੱਸੇ\N_NN ਵਿਚ\PSP ਪੱਤੇ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਪਹਿਲਾਂ\RB ਭੂਰੀਆਂ\JJ ਅਤੇ\CC_CCD ਅਖਿਰ\RB ਵਿਚ\PSP ਕਾਲੀਆਂ\JJ ਹੋ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13413	ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਲਾਗ\N_NN ਪੱਤਿਆਂ\N_NN ਤੋਂ\PSP ਤਣੇ\N_NN ਤੇ\CC_CCD ਚਲੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਦੇ\PSP ਅੰਦਰੋ-ਅੰਦਰ\RB ਵਧਦੀ\RB ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13414	ਬੀਮਾਰੀ\N_NN ਫੁੱਲਾਂ\N_NN ਤੇ\CC_CCD ਵੀ\RP_RPD ਚਲੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਕਾਰਨ\PSP ਫੁੱਲ\N_NN ਗਲ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13415	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਹਿੱਸਿਆ\N_NN ਤੇ\CC_CCD ਖਾਸ\N_NN ਕਰਕੇ\N_NN ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਨੁੱਕਰਾਂ\N_NN ਤੋਂ\PSP ਪਾਣੀ\N_NN ਦੇ\PSP ਬੁਲਬੁਲੇ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਬੈਕਟੀਰੀਆ\N_NN ਵੇਖੇ\V_VM ਜਾ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13416	ਮਰੇ\V_VM ਹੋਏ\V_VM_VF ਹਿੱਸਿਆ\N_NN ਤੇ\CC_CCD ਦੂਜੇ\QT_QTO ਬੈਕਟੀਰੀਆ\N_NN ਜਿਹੜੇ\PR_PRL ਪਿਲਪਿਲਾ\N_NN ਸਾੜਾ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ,ਦਾ\PSP ਹਮਲਾ\N_NN ਸ਼ੁਰੂ\V_VM ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13417	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਬੀਜ\N_NN ਰਾਹੀਂ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13418	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਮੁੱਖ\JJ ਸੋਮਾ\N_NN ਬੀਮਾਰੀ\JJ ਵਾਲੇ\PSP ਬੀਜ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13419	ਬੀਮਾਰੀ\N_NN ਬਹੁਤੀ\DM_DMQ ਸਿੱਲ੍ਹ\N_NN ਤੇ\CC_CCD ਮੀਹਾਂ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਵਿਚ\PSP ਬਹੁਤੀ\DM_DMQ ਵਧਦੀ\RB ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਝਾਂਜੇ\N_NN ਵਾਲੀ\PSP ਵਰਖਾ\N_NN ਇਸ\PR_PRP ਨੂੰ\PSP ਅੱਗੇ\RB ਤੋਂ\PSP ਅੱਗੇ\RB ਛੇਤੀ\RB ਫੈਲਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13420	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਰੋਗ\N_NN ਰਹਿਤ\JJ ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਪੈਦਾ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13421	ਕਿਉਂਕਿ\CC_CCS ਬੀਮਾਰੀ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਅੰਦਰ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਇਸ\DM_DMD ਲਈ\PSP ਬੀਜ\N_NN 50\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਤੇ\PSP ਗਰਮ\N_NN ਕੀਤੇ\V_VM_VF ਪਾਣੀ\N_NN ਵਿਚ\PSP 30\QT_QTF ਮਿੰਟਾਂ\N_NN ਲਈ\PSP ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBAD13422	ਫ਼ਸਲ\N_NN ਤੇ\N_NN 20\QT_QTF ਗ੍ਰਾਮ\N_NN ਸਟਰੈਪਟੋਸਾਈਕਲੀਨ\N_NN ਤੇ\N_NN 100\QT_QTF ਗ੍ਰਾਮ\N_NN ਕਾਪਰ\N_NN ਆਕਸੀਕਲੋਰਾਈਡ\N_NN 100\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਬੀਮਾਰੀ\N_NN ਸ਼ੁਰੂ\V_VM_VF ਹੋਣ\V_VM_VF ਤੇ\CC_CCD ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13423	ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਵਾਧੇ\RB ਅਨੁਸਾਰ\RB ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD 2-3\QT_QTF ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13424	ਝੁਲਸ\N_NN ਰੋਗ\N_NN (ਆਲਟਰਨੇਰੀਆ\N_NN ਬਲਾਈਟ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਸਰ੍ਹੋਂ\N_NN ਜਾਤੀ\N_NN ਦੀਆਂ\PSP ਸਬਜ਼ੀਆਂ\N_NN ਖਾਸ\JJ ਕਰਕੇ\PSP ਬੀਜ\N_NN ਤਿਆਰ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਬੀਜੀਆਂ\N_NN ਸਬਜ਼ੀਆਂ\N_NN ਦੀ\PSP ਮਹੱਤਵਪੂਰਨ\JJ ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13425	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਬੰਦ\JJ ਗੋਭੀ\N_NN ,\RD_PUNC ਫੁੱਲ\JJ ਗੋਭੀ\N_NN ,\RD_PUNC ਮੂਲੀ\N_NN ,\RD_PUNC ਸ਼ਲਗਮ\N_NN ਤੇ\CC_CCD ਹਮਲਾ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13426	ਬੀਮਾਰੀ\N_NN ਸਾਰੇ\RB ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\PR_PRP ਬੀਜ\N_NN ਦੇ\PSP ਆਕਾਰ\N_NN ,\RD_PUNC ਰੰਗ\N_NN ਉੱਗਣ\N_NN ਸ਼ਕਤੀ\N_NN ਤੇ\N_NN ਮਾੜਾ\JJ ਅਸਰ\N_NN ਪਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13427	ਨਿਸ਼ਾਨੀਆ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਉੱਤੇ\RB ਛੋਟੇ-ਛੋਟੇ\JJ ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜਿਹੜੇ\PR_PRL ਛੇਤੀ\JJ ਵੱਡੇ\JJ ਹੋ\V_VM ਕੇ\V_VM_VNF ਗੂੜ੍ਹੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੋ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13428	ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਧੱਬੇ\N_NN ਦੇ\PSP ਵਿਚਕਾਰ\N_NN ਕਾਲਾ\JJ ਮਾਦਾ\N_NN ਬਣ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13429	ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਤੇ\CC_CCD ਤਣੇ\N_NN ਤੇ\CC_CCD ਕੁਝ\DM_DMQ ਲੰਬੂਤਰੇ\JJ ਇਕ\QT_QTC ਸੈ.ਮੀ.\N_NN ਵਿਆਸ\N_NN ਦੇ\PSP ਭੂਰੇ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਬਦਲ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13430	ਫੁੱਲ\JJ ਗੋਭੀ\N_NN ਦੇ\PSP ਫੁੱਲ\JJ ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\N_NN ਕਾਲੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਬਦਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13431	ਬੰਦ\JJ ਗੋਭੀ\N_NN ਦੇ\PSP ਬਾਹਰਲੇ\RB ਪੱਤੇ\N_NN ਗਲ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਅੰਦਰਲੇ\RB ਪੱਤਿਆਂ\N_NN ਤੇ\N_NN ਚਲੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13432	ਫੁੱਲ\N_NN ਵੇਚਣਯੋਗ\JJ ਨਹੀਂ\RP_NEG ਰਹਿੰਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13433	ਬੀਜ\N_NN ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD ਭੂਰੇ\JJ ਤੋਂ\PSP ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਦਾਗ\N_NN ਫੁੱਲਾਂ\N_NN ,\RD_PUNC ਡੰਡੀਆਂ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲੀਆਂ\N_NN ਤੇ\CC_CCD ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13434	ਅਜਿਹੀ\RB ਫ਼ਸਲ\N_NN ਤੋਂ\PSP ਲਏ\V_VM_VF ਗਏ\V_VM_VF ਬੀਜ\N_NN ਸੁੰਗੜੇ\JJ ਹੋਏ\V_VM_VF ਅਤੇ\CC_CCD ਮਾੜੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13435	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬਿਮਾਰੀ\N_NN ਵਾਲੀ\PSP ਉੱਲੀ\N_NN ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\JJ ਤੇ\PSP ਵੀ\RP_RPD ਜਿਉਂਦੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13436	ਜਦੋਂ\PR_PRL ਉੱਗ\V_VM ਰਹੇ\V_VM_VF ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਪੱਤੇ\N_NN ਇਸ\PR_PRP ਰਹਿੰਦ-ਖੂੰਹਦ\JJ ਤੇ\PSP ਪਈ\V_VM ਉੱਲੀ\N_NN ਨਾਲ\PSP ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਹੇਠਲੇ\RB ਪੱਤਿਆਂ\N_NN ਨੂੰ\PSP ਬੀਮਾਰੀ\N_NN ਲੱਗ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13437	ਬਾਅਦ\RB ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB ਹਵਾ\N_NN ,\RD_PUNC ਮੀਂਹ\N_NN ਅਤੇ\CC_CCD ਕੀੜਿਆਂ\N_NN ਰਾਹੀਂ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13438	82%\QT_QTF ਤੋਂ\PSP ਵੱਧ\RB ਸਿੱਲ੍ਹ\JJ ਤੇ\N_NN ਤੇਜ਼\JJ ਹਵਾ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਅੱਗੇ\RB ਛੇਤੀ\RB ਫੈਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13439	ਪੀਲੇ\JJ ਧੱਬਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN (ਡਾਊਨੀ\N_NN ਮਿਲਡਿਊ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਗੋਭੀ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਤੇ\N_NN ਆਮ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13440	ਬੀਜ\N_NN ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\N_NN
+PBAD13441	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੂਟੇ\N_NN ਦੇ\PSP ਪਹਿਲੇ\RB ਪੱਤਿਆਂ\N_NN ਤੇ\N_NN ਪੀਲੇ\JJ ਦਾਗ\N_NN ਪੈ\V_VM ਕੇ\V_VM_VNF ਡਿੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13442	ਠੰਡੇ\JJ ਅਤੇ\CC_CCD ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਪੱਤਿਆਂ\N_NN ਤੇ\N_NN ਛੋਟੇ-ਛੋਟੇ\JJ ਬੇਢਬੇ\JJ ਹਲਕੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਦਾਗ\N_NN ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਵਿਚਕਾਰ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13443	ਪੱਤੇ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਇਨ੍ਹਾਂ\PR_PRP ਦਾ\PSP ਰੰਗ\N_NN ਭੂਰਾ\JJ ਜਾਮਣੀ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13444	ਜਿਸ\PR_PRL ਉੱਤੇ\RB ਉੱਲੀ\N_NN ਦੇ\PSP ਰੇਸ਼ੇ\N_NN ਸਾਫ\JJ ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13445	ਬਾਅਦ\RB ਵਿਚ\PSP ਧੱਬਿਆਂ\N_NN ਤੋਂ\PSP ਪੱਤਾ\N_NN ਸੁੱਕ\JJ ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਪੱਤੇ\N_NN ਡਿੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13446	ਤਣੇ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਕਾਲੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਜਾਂ\CC_CCD ਧਾਰੀਆਂ\N_NN ਪੈ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13447	ਬੀਮਾਰ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਫ਼ਲ\N_NN ਭੂਰੇ\JJ ਹੋ\V_VM_VNF ਕੇ\V_VM_VNF ਗਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਨ੍ਹਾਂ\PR_PRP ਵਿਚ\PSP ਬੀਜ\N_NN ਬਿਲਕੁਲ\DM_DMQ ਨਹੀਂ\RP_NEG ਪੈਂਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13448	ਬੰਦ\JJ ਗੋਭੀ\N_NN ਤੇ\CC_CCD ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13449	ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੀਆਂ\PSP ਧਾਰੀਆਂ\N_NN ਜਾਂ\CC_CCD ਧੱਬੇ\N_NN ਫੁੱਲ\N_NN ਦੇ\PSP ਅੰਦਰ\RB ਵੀ\RP_RPD ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਫੁੱਲ\N_NN ਗਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13450	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਉੱਲੀ\N_NN ਠੰਡੇ\JJ ਤੇ\CC_CCD ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\RB ਤੇ\CC_CCD ਜਿਉਂਦੀ\V_VM ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13451	ਸਵੇਰ\N_NN ਦੀ\PSP ਤਰੇਲ\N_NN ਤੇ\RB 16\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਵਾਧੇ\RB ਲਈ\PSP ਬਹੁਤ\DM_DMQ ਅਨੁਕੂਲ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13452	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਆਲਟਰਨੇਰੀਆ\N_NN ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਵਾਲੇ\PSP ਸਪਰੇ\N_NN ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਨੂੰ\PSP ਰੋਕਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13453	ਮੂਲੀ\N_NN ਦੀ\PSP ਧਫੜੀ\N_NN (\RD_SYM ਰੈਡਿਸ਼\N_NN ਸਕੈਬ\N_NN )\RD_SYM :ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਰੇਤਲੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਮੂਲੀ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਤੇ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13454	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀਆਂ\PSP ਨਿਸ਼ਾਨੀਆਂ\N_NN ਆਮ\RB ਕਰਕੇ\N_NN ਪੂਰੀ\RB ਮੂਲੀ\N_NN ਬਣ\V_VM ਜਾਣ\V_VM_VF ਤੇ\CC_CCD ਹੀ\RP_RPD ਨਜ਼ਰ\V_VM ਆਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13455	ਦੋ\QT_QTC ਤਰ੍ਹਾਂ\PSP ਦੀ\PSP ਧਫੜੀ\N_NN ਜਿਵੇਂ\RP_CL ਓਪਰੀ\JJ ਜਾਂ\CC_CCD ਡੂੰਘੀ\JJ ਧਫੜੀ\N_NN ਮੂਲੀ\N_NN ਤੇ\N_NN ਹੋ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13456	ਬਾਅਦ\RB ਵਿਚ\PSP ਕਈ\DM_DMQ ਧੱਬੇ\N_NN ਮਿਲ\V_VM ਕੇ\V_VM_VNF ਵੱਡੇ\JJ ਧੱਬੇ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਅਖਤਿਆਰ\N_NN ਕਰ\V_VM_VF ਲੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13457	ਡੂੰਘੀ\JJ ਧਫੜੀ\N_NN ਨਾਲ\PSP ਮੂਲੀ\N_NN ਉੱਤੇ\RB ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਸਖ਼ਤ\JJ ਹੇਠਾਂ\RB ਵੱਲ\PSP ਧਸੇ\N_NN ਹੋਏ\V_VM_VF ਚਟਾਖ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13458	ਬਾਅਦ\RB ਵਿਚ\PSP ਵੱਡੇ\JJ ਹੋ\V_VM ਕੇ\V_VM_VNF ਇਹ\PR_PRP ਮੂਲੀ\N_NN ਦੇ\PSP ਕਾਫੀ\DM_DMQ ਹਿੱਸੇ\N_NN ਨੂੰ\PSP ਘੇਰ\V_VM ਲੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13459	ਮੂਲੀ\N_NN ਦਾ\PSP ਉਪਰਲਾ\RB ਹਿੱਸਾ\N_NN ਜੋ\PR_PRL ਮਿੱਟੀ\N_NN ਤੋਂ\PSP ਬਾਹਰ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13460	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਦੂਜਿਆਂ\QT_QTO ਬੂਟਿਆਂ\N_NN ਦੀਆਂ\PSP ਜੜ੍ਹਾਂ\N_NN ਤੇ\PSP ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\N_NN ਤੇ\N_NN ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਕਾਫੀ\DM_DMQ ਲੰਮਾ\JJ ਸਮਾਂ\N_NN ਜਿਉਂਦੀ\V_VM ਰਹਿ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13461	ਬੀਮਾਰੀ\N_NN ਰੇਤਲੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਬਹੁਤ\DM_DMQ ਵਧਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13462	ਖੁਸ਼ਕ\JJ ਮਿੱਟੀ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਛੇਤੀ\RB ਵਧਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13463	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਜਿੱਥੇ\PR_PRL ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਪਹਿਲਾਂ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉੱਥੇ\RB ਮੂਲੀ\N_NN ਨਾ\RP_NEG ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13464	ਖੇਤ\N_NN ਵਿਚ\PSP ਨਮੀ\N_NN ਸਹੀ\JJ ਰੱਖੋ\V_VM ।\RD_PUNC
+PBAD13465	ਬਹੁਤੀਆਂ\DM_DMQ ਰੇਤਲੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਮੂਲੀ\N_NN ਨਾ\RP_NEG ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13466	ਸੋਕਾ\N_NN ,\RD_PUNC ਗਿੱਚੀ\N_NN ਅਤੇ\CC_CCD ਜੜ੍ਹਾਂ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀਆਂ\N_NN ਖੀਰੇ\N_NN ,\RD_PUNC ਤਰਬੂਜ਼\N_NN ਅਤੇ\CC_CCD ਕੱਦੂ\N_NN ਤੇ\CC_CCD ਕਾਫੀ\DM_DMQ ਗੰਭੀਰ\N_NN ਰੂਪ\N_NN ਧਾਰਨ\V_VM ਕਰ\V_VM_VF ਲੈਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13467	ਬੂਟੇ\N_NN ਮਰਨ\N_NN ਨਾਲ\PSP ਖੇਤ\N_NN ਵਿਚ\PSP ਧੋੜੀਆਂ\N_NN ਦੂਰੋਂ\RB ਹੀ\RP_RPD ਦਿਖਾਈ\V_VM ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13468	ਪਿਥੀਅਮ\N_NN ਅਤੇ\CC_CCD ਰਹਾਈਜੋਕਟੋਨੀਆ\N_NN ਨਾਂ\N_NN ਦੀਆਂ\PSP ਦੋ\QT_QTC ਉੱਲੀਆਂ\N_NN ਗਿੱਚੀ\N_NN ਅਤੇ\CC_CCD ਜੜ੍ਹਾਂ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਦੀਆਂ\PSP ਬੀਮਾਰੀਆਂ\N_NN ਲਾਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13469	ਸੋਕੇ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਜਿਹੜੀ\PR_PRL ਫੁਜ਼ੇਰੀਅਮ\N_NN ਨਾਂ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਕਰਕੇ\PSP ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਬਹੁਤੀ\DM_DMQ ਫ਼ਲ\N_NN ਬਣਨ\V_VM ਸਮੇਂ\N_NN ਨੁਕਸਾਨ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13470	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਗਿੱਚੀ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਨਾਲ\PSP ਗੂੜੇ\JJ ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਪਾਣੀ\N_NN ਭਿੱਜੇ\N_NN ਚਟਾਖ\N_NN ਤਣੇ\N_NN ਦੇ\PSP ਆਲੇ-ਦੁਆਲੇ\RB ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13471	ਬੂਟਾ\N_NN ਮਰ\V_VM ਕੇ\V_VM_VNF ਧਰਤੀ\N_NN ਤੇ\RB ਡਿੱਗ\V_VM ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13472	ਜੜ੍ਹਾਂ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਵਿਚ\PSP ਉਪਰਲੀ\RB ਜੜ੍ਹ\N_NN ਅਤੇ\CC_CCD ਮਿੱਟੀ\N_NN ਦੀ\PSP ਸਤਹ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਜੜ੍ਹਾਂ\N_NN ਤੇ\N_NN ਗਿੱਲਾ\JJ ਗਾਲਾ\N_NN ਹੋ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13473	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਖੁੱਲ੍ਹਾ\JJ ਪਾਣੀ\N_NN ਦੇਣ\V_VM_VNG ਨਾਲ\PSP ਖੇਤ\N_NN ਵਿਚ\PSP ਬਹੁਤੀ\DM_DMQ ਸਿੱਲ੍ਹ\N_NN ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਜਾਂ\CC_CCD ਭਾਰੀ\JJ ਬਰਸਾਤ\N_NN ਹੋਣ\V_VM_VNG ਨਾਲ\PSP ਖੇਤ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਪਾਣੀ\N_NN ਖੜ੍ਹ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13474	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜਾਈ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB 3\QT_QTF ਗ੍ਰਾਮ\N_NN ਥੀਰਮ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਬੀਜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਨਾਲ\PSP ਸੋਧੋ\V_VM ।\RD_PUNC
+PBAD13475	ਬੀਜਾਈ\N_NN ਉੱਚੇ\RB ਬੈਡਾਂ\N_NN ਤੇ\PSP ਕਰੋ\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਪਾਣੀ\N_NN ਜੜ੍ਹਾਂ\N_NN ਦੇ\PSP ਨੇੜੇ\RB ਨਾ\RP_NEG ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13476	ਖੇਤ\N_NN ਨੂੰ\PSP ਖੁੱਲ੍ਹਾ\JJ ਪਾਣੀ\N_NN ਨਾ\RP_NEG ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13477	ਜੇ\PR_PRL ਬੀਮਾਰੀ\N_NN ਲੱਗ\V_VM ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਬੀਮਾਰੀ\N_NN ਵਾਲੀਆਂ\PSP ਵੇਲਾਂ\N_NN ਨੂੰ\PSP ਗਿੱਚੀ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਅਤੇ\CC_CCD ਜੜ੍ਹਾਂ\N_NN ਦੇ\PSP ਗਾਲੇ\N_NN ਲਈ\PSP ਰਿੰਡੋਮਿਲ\N_NN ਐੱਮ\N_NN ਜੈੱਡ-0.2%\QT_QTF ਅਤੇ\CC_CCD ਸੋਕੇ\N_NN ਲਈ\PSP ਬੈਵਿਸਟਿਨ\N_NN 0.1%\QT_QTF ਦਵਾਈ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਜੜ੍ਹਾਂ\N_NN ਵਿਚ\PSP ਪਾਓ\V_VM_VF ।\RD_PUNC
+PBAD13478	ਚਿੱਟੋਂ\N_NN (ਪਾਊਡਰੀ\N_NN ਮਿਲਡਿਊ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਉੱਲੀ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਕੱਦੂ\N_NN ਜਾਤੀ\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\RB ਫ਼ਸਲਾਂ\N_NN ਨੂੰ\PSP ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13479	ਬੂਟਿਆ\N_NN ਤੇ\N_NN ਚਿੱਟੇ\JJ ਜਾਂ\CC_CCD ਸਲੇਟੀ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਧੱਬੇ\N_NN ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜਿਹੜੇ\PR_PRL ਵੱਡੇ\JJ ਹੋ\V_VM_VF ਕੇ\V_VM_VNF ਪਾਊਡਰ\N_NN ਦੀ\PSP ਤਰ੍ਹਾਂ\PSP ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13480	ਚਿੱਟਾ\JJ ਪਾਊਡਰ\N_NN ਪੱਤਿਆਂ\N_NN ,\RD_PUNC ਤਣੇ\N_NN ਅਤੇ\CC_CCD ਦੂਜੇ\QT_QTO ਹਿੱਸਿਆਂ\N_NN ਨੂੰ\PSP ਢੱਕ\V_VM ਲੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13481	ਜ਼ਿਆਦਾ\RB ਹਮਲੇ\N_NN ਦੀ\PSP ਸੂਰਤ\N_NN ਵਿਚ\PSP ਪੱਤੇ\N_NN ਮੁੜ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਵੇਲਾਂ\N_NN ਮਰ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13482	ਫ਼ਲ\N_NN ਦਾ\PSP ਸਵਾਦ\N_NN ਫਿੱਕਾ\JJ ਹੋ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਫ਼ਲ\N_NN ਸੁੰਗੜ\N_NN ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13483	ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\N_NN ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਉੱਲੀ\N_NN ਸੁੱਕੇ\JJ ਜਾਂ\CC_CCD ਸਿਲ੍ਹੇ\JJ ਦੋਹਾਂ\QT_QTO ਮੌਸਮਾਂ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਲਗਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13484	26-28\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\N_NN ਹੈ\V_VAUX ਬੀਮਾਰੀ\N_NN 16-23\QT_QTF ਦਿਨਾਂ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਜ਼ਿਆਦਾ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13485	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਸ਼ੁਰੂ\RB ਹੋਣ\N_NN ਤੇ\PSP 50-80\QT_QTF ਮਿਲੀਲਿਟਰ\N_NN ਕੈਰਾਥੇਨ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਸਪਰੇਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13486	ਪੀਲੇ\JJ ਧੱਬਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN :\RD_PUNC ਪੀਲੇ\JJ ਧੱਬਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN ਇਕ\QT_QTC ਉੱਲੀ\N_NN ਕਰਕੇ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13487	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਕੱਦੂ\N_NN ਜਾਤੀ\N_NN ਦੀਆਂ\PSP ਸਬਜ਼ੀਆਂ\N_NN ਖਾਸ\RB ਕਰਕੇ\PSP ਖਰਬੂਜ਼ਿਆਂ\N_NN ਦਾ\PSP ਬਹੁਤ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13488	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਪੱਤੇ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਪਾਣੀ\N_NN ਭਿੱਜੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13489	ਅਜਿਹੇ\RB ਧੱਬਿਆਂ\N_NN ਨੂੰ\PSP ਜਦੋਂ\PR_PRL ਪੱਤੇ\N_NN ਦੇ\PSP ਉੱਪਰਲੇ\RB ਪਾਸਿਓਂ\N_NN ਵੇਖਿਏ\V_VM ਤਾਂ\CC_CCD ਉਹ\PR_PRP ਵਿੰਗੇ\JJ ਟੇਢੇ\JJ ਅਤੇ\CC_CCD ਪੀਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਨਜ਼ਰ\V_VM ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13490	ਜਿਨ੍ਹਾਂ\PR_PRL ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਸਲੇਟੀ\JJ ਰੰਗ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਦੇ\PSP ਵਿਸ਼ਾਣੂੰ\N_NN ਦਿਖਾਈ\V_VM ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13491	ਧੱਬਿਆਂ\N_NN ਵਾਲਾ\PSP ਥਾਂ\N_NN ਬਾਅਦ\RB ਵਿਚ\PSP ਸੁੱਕ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13492	ਬਹੁਤੀ\DM_DMQ ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਪੱਤੇ\N_NN ਵੀ\RP_RPD ਸੁੱਕ\JJ ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਫ਼ਸਲ\N_NN ਸੜ੍ਹੀ\JJ ਹੋਈ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13493	ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\N_NN ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਬਹੁਤਾ\DM_DMQ ਹਮਲਾ\N_NN ਅਪ੍ਰੈਲ\N_NN ਤੋਂ\PSP ਜੂਨ\N_NN ਤੱਕ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13494	ਜਦੋਂ\PR_PRL ਰਾਤ\N_NN ਦਾ\PSP ਤਾਪਮਾਨ\N_NN 20\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਤੋਂ\PSP ਘੱਟ\JJ ਹੋਵੇ\V_VM_VF ਅਤੇ\CC_CCD ਤਰੇਲ\N_NN ਬਹੁਤੀ\DM_DMQ ਪਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13495	ਉੱਲੀ\N_NN ਬੇ-ਮੌਸਮੀ\JJ ਵੇਲਾਂ\N_NN ਤੇ\PSP ਪਲਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13496	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD 300-600\QT_QTF ਗ੍ਰਾਮ\N_NN ਡਾਈਥੇਨ\N_NN ਐੱਮ-\N_NN 45\QT_QTF ,\RD_PUNC 100-200\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੀ\PSP ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13497	ਪਹਿਲੀ\QT_QTC ਸਪਰੇ\N_NN ਅਪ੍ਰੈਲ\N_NN ਦੇ\PSP ਦੂਜੇ\QT_QTO ਹਫਤੇ\N_NN ਜਦੋਂ\PR_PRL ਬੀਮਾਰੀ\N_NN ਅਜੇ\RB ਸ਼ੁਰੂ\RB ਨਾ\RP_NEG ਹੋਈ\V_VM_VF ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13498	ਮੀਂਹ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਦੁਆਰਾ\RB ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13499	ਜਦੋਂ\PR_PRL ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD 2\QT_QTF ਸਪਰੇ\N_NN ਰਿਡੋਮਿਲ\N_NN ਐੱਮ\N_NN ਜੈੱਡ\N_NN ਅੱਧਾ\QT_QTC ਕਿਲੋ\N_NN ਜਾਂ\CC_CCD ਐਲੀਏਟ\N_NN ,\RD_PUNC 600\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN 10\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\CC_CCD ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13500	ਰਿਡੋਫਿਲ\N_NN ਦੀ\PSP ਸਪਰੇ\N_NN ਸ਼ੁਰੂ\RB ਵਿਚ\PSP ਜਾਂ\CC_CCD ਅਖੀਰ\RB ਵਿਚ\PSP ਨਾ\RP_NEG ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13501	ਬੇਮੌਸਮੀ\JJ ਵੇਲਾਂ\N_NN ਨਸ਼ਟ\V_VM ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13502	ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਬਹੁਤਾ\DM_DMQ ਭਰ\V_VM ਕੇ\V_VM_VNF ਪਾਣੀ\N_NN ਨਾ\RP_NEG ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13503	ਝੁਲਸ\N_NN ਰੋਗ\N_NN (ਅਲਟਰਨੇਰੀਆ\N_NN ਬਲਾਈਟ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਉੱਲੀ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਕੋਈ\DM_DMQ ਬਹੁਤਾ\DM_DMQ ਨੁਕਸਾਨ\N_NN ਨਹੀਂ\RP_NEG ਕਰਦੀ\V_VM_VF ,\RD_PUNC ਪਰ\CC_CCS ਕਦੇ-ਕਦੇ\RB ਬਹੁਤੇ\DM_DMQ ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਆ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13504	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਤੇ\PSP ਪੀਲੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13505	ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਆਮ\JJ ਕਰਕੇ\PSP ਨੁੱਕਰਾਂ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13506	ਬੀਮਾਰੀ\N_NN ਵਾਲੀਆਂ\PSP ਵੇਲਾਂ\N_NN ਕੋਲੇ\N_NN ਵਾਂਗ\N_NN ਕਾਲੀਆਂ\JJ ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13507	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਬਹੁਤੀ\DM_DMQ ਤਰਬੂਜ਼\N_NN ਅਤੇ\CC_CCD ਘੀਆ\N_NN ਤੇ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13508	ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\N_NN ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਬਹੁਤੀ\DM_DMQ ਸਿੱਲ੍ਹ\JJ ਅਤੇ\CC_CCD ਉੱਚੇ\JJ ਤਾਪਮਾਨ\N_NN ਤੇ\N_NN ਜ਼ਿਆਦਾ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13509	ਬਹੁਤੀ\DM_DMQ ਸੰਘਣੀ\JJ ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD ਬਹੁਤਾ\DM_DMQ ਪਾਣੀ\N_NN ਲਾਉਣ\V_VM ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਵਧਦੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13510	ਧੱਬਿਆਂ\N_NN ਦਾ\PSP ਰੋਗ\N_NN (ਐਨਥਰਾਕਨੋਜ਼)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਉੱਲੀ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਲਗਭਗ\RB ਕੱਦੂ\N_NN ਜਾਤੀ\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\RB ਫ਼ਸਲਾਂ\N_NN ਤੇ\RB ਹੀ\RP_RPD ਹਮਲਾ\V_VM ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13511	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਪੱਤੇ\N_NN ,\RD_PUNC ਟਾਹਣੀਆਂ\N_NN ,\RD_PUNC ਤਣੇ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲਾਂ\N_NN ਤੇ\RB ਵੱਖਰੀ\RB ਵੱਖਰੀ\RB ਕਿਸਮ\N_NN ਦੀਆਂ\RB ਨਿਸ਼ਾਨੀਆਂ\N_NN ਪੈਦਾ\V_VM ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13512	ਛੋਟੇ\JJ ਫ਼ਲਾਂ\N_NN ਤੇ\N_NN ਛੋਟੇ\JJ ਪਾਣੀ\N_NN ਭਿੱਜੇ\JJ ਹੇਠਾਂ\RB ਵੱਲ\PSP ਧਸੇ\N_NN ਹੋਏ\V_VM_VF ਗੋਲ\JJ ਤੋਂ\PSP ਲੰਬੂਤਰੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13513	ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਧੱਬਿਆਂ\N_NN ਦੇ\PSP ਵਿਚਾਲੇ\N_NN ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਟਿਮਕਣੇ\N_NN ਵੇਖੇ\V_VM ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13514	ਧੱਬਿਆਂ\N_NN ਤੋਂ\PSP ਜਾਮਣੀ\JJ ਰੰਗ\N_NN ਦਾ\PSP ਗੂੰਦੀਆ\N_NN ਮਾਦਾ\N_NN ਨਿਕਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13515	ਵੇਲਾਂ\N_NN ਉੱਤੇ\RB ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਗੋਲ\JJ ਤੇ\N_NN ਲੰਬੂਤਰੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13516	ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਤੇ\PSP ਲੰਬੂਤਰੇ\JJ ਧੱਸੇ\N_NN ਹੋਏ\V_VM_VF ਦਾਗ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13517	ਘੀਆਂ\N_NN ਉੱਤੇ\RB ਧੱਬੇ\N_NN ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13518	ਵਾਧੇ\RB ਲਈ\PSP ਅਨੁਕੂਲ\N_NN ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਉਦੋਂ\RB ਬਹੁਤੀ\DM_DMQ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਦੋਂ\PR_PRL ਮੀਂਹ\N_NN ਬਹੁਤੇ\DM_DMQ ਪੈਣ\V_VM_VINF ।\RD_PUNC
+PBAD13519	ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਵਾਧੇ\RB ਲਈ\PSP 18\QT_QTF ਘੰਟੇ\N_NN ਤੱਕ\PSP 100%\QT_QTF ਨਮੀ\N_NN ਤੇ\N_NN 20-30\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਬਹੁਤ\DM_DMQ ਢੁਕਵੇਂ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13520	ਪੀਲੀਆ\N_NN ਰੋਗ\N_NN (ਮੋਜ਼ੇਕ)\N_NN :\RD_PUNC ਇਸ\DM_DMD ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਨਾਲ\PSP ਨੁਕਸਾਨ\RB ਜ਼ਿਆਦਾ\RB ਉਦੋਂ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਦੋਂ\PR_PRL ਛੋਟੀਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਲਾਗ\N_NN ਲੱਗ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13521	ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\RB ਨੁਕਸਾਨ\JJ ਘੀਆ\N_NN ,\RD_PUNC ਖਰਬੂਜ਼ਾ\N_NN ,\RD_PUNC ਕੱਦੂ\N_NN ਅਤੇ\CC_CCD ਖੀਰੇ\N_NN ਦਾ\PSP ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13522	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੂਟੇ\N_NN ਦੇ\PSP ਪਹਿਲੇ\QT_QTO ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਸੁੱਕ\JJ ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13523	ਵੱਡੇ\JJ ਬੂਟਿਆਂ\N_NN ਵਿਚ\PSP ਪੀਲੀਆਂ\JJ ਧਾਰੀਆਂ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13524	ਪੱਤਿਆਂ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਗੜ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13525	ਬੂਟੇ\N_NN ਛੋਟੇ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13526	ਫ਼ਲਾਂ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਗੜ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13527	ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਬੀਜ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13528	ਬੀਮਾਰੀ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਰਸ\N_NN ਰਾਹੀਂ\PSP ਜਾਂ\CC_CCD ਬੀਮਾਰ\N_NN ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਛੂਹਣ\V_VM ਨਾਲ\PSP ਵੀ\RP_RPD ਅੱਗੇ\RB ਚਲੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13529	ਬੀਮਾਰੀ\N_NN ਕਈ\DM_DMQ ਨਦੀਨਾਂ\N_NN ਤੇ\CC_CCD ਪਲਦੀ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13530	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਖੇਤ\N_NN ਦੇ\PSP ਦੁਆਲੇ\RB ਉੱਗੇ\V_VM ਨਦੀਨਾਂ\N_NN ਦਾ\PSP ਨਾਸ਼\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13531	ਜਾਮਣੀ\JJ ਧੱਬੇ\N_NN (ਪਰਪਲ\N_NN ਬਲੌਚ)\N_NN :\RD_PUNC ਪਿਆਜ਼\N_NN ਦੇ\PSP ਜਾਮਣੀ\JJ ਧੱਬੇ\N_NN ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN ਅਤੇ\CC_CCD ਖਾਣ\N_NN ਲਈ\PSP ਪੈਦਾ\V_VM_VF ਕੀਤੀ\V_VM_VF ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD ਆਮ\RB ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13532	ਇਹ\PR_PRP ਰੋਗ\N_NN ਲਸਣ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਲੱਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13533	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਜਾਂ\CC_CCD ਬੀਜ\N_NN ਵਾਲੀ\PSP ਡੰਡੀ\N_NN ਉੱਤੇ\RB ਛੋਟੇ-ਛੋਟੇ\JJ ਪਾਣੀ\N_NN ਭਿੱਜੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13534	ਧੱਬੇ\N_NN ਵੱਡੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਇਨ੍ਹਾਂ\PR_PRP ਤੇ\CC_CCD ਚੱਕਰ\N_NN ਬਣ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\PR_PRP ਜਾਮਣੀ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਬਦਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13535	ਇਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਕੰਢੇ\N_NN ਜਾਮਣੀ\JJ ਤੋਂ\PSP ਲਾਲ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13536	ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਚਟਾਖ\N_NN ਦੇ\PSP ਵਿਚਕਾਰ\N_NN ਕਾਲੇ-ਕਾਲੇ\JJ ਟਿਮਕਣੇ\N_NN ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13537	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਪੱਤੇ\N_NN ਅਤੇ\CC_CCD ਬੀਜ\N_NN ਵਾਲੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਧਰਤੀ\N_NN ਤੇ\CC_CCD ਡਿੱਗ\V_VM ਪੈਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ਬੀਜ\N_NN ਸੁੰਗੜ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13538	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਉੱਲੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB ਮੀਂਹ\N_NN ਜਾਂ\CC_CCD ਲਗਾਤਾਰ\RB ਤਰੁਲ\N_NN ਪੈਣ\V_VM_VINF ਦੀਆਂ\PSP ਹਾਲਤਾਂ\N_NN ਵਿਚ\PSP ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13539	ਥਰਿੱਪ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN ਵਾਲੇ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਬੀਮਾਰੀ\N_NN ਛੇਤੀ\RB ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13540	ਫ਼ਸਲ\N_NN ਉੱਤੇ\RB ਇੰਡੋਫਿਲ\N_NN ਐੱਮ\N_NN 45\QT_QTF ਨੂੰ\PSP 600\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਵਿਚ\PSP 200\QT_QTF ਮਿ.ਲਿ.ਮੈਲਾਥੀਆਨ\N_NN 50\QT_QTF ਈ.ਸੀ\N_NN ਅਤੇ200\QT_QTF ਮਿ.ਲਿ.ਟਰੀਟੋਨ\N_NN ਜਾਂ\CC_CCD ਅਲਸੀ\N_NN ਦਾ\PSP ਤੇਲ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਬੀਮਾਰੀ\N_NN ਆਉਣ\V_VM_VF ਤੇ\CC_CCD 10\QT_QTF ਦਿਨ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਤੇ\CC_CCD ਤਿੰਨ\QT_QTC ਸਪਰੇ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13541	ਸੋਕਾ\N_NN ਅਤੇ\CC_CCD ਜੜ੍ਹਾਂ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN (ਰੂਟ\N_NN ਰੌਟ\N_NN ਐਂਡ\N_NN ਵਿਲਟ)\N_NN :\RD_PUNC ਜੜ੍ਹਾਂ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN ਅਗੇਤੀ\JJ ਫ਼ਸਲ\N_NN ਦੀ\PSP ਆਮ\RB ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13542	ਕਈ\DM_DMQ ਤਰ੍ਹਾਂ\PSP ਦੀਆਂ\PSP ਉੱਲੀਆਂ\N_NN ਰਲ\V_VM ਕੇ\V_VM_VNF ਬੀਮਾਰੀ\N_NN ਨੂੰ\PSP ਹੋਰ\RB ਗੰਭੀਰ\JJ ਬਣਾ\V_VM ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13543	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਮੁੱਖ\JJ ਤੌਰਤੇ\PSP ਬੂਟੇ\N_NN ਦੇ\PSP ਜ਼ਮੀਨ\N_NN ਹੇਠਲੇ\RB ਹਿੱਸਿਆਂ\N_NN ਤੇ\CC_CCD ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13544	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN 18\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਤੋਂ\PSP ਉੱਪਰ\RB ਤਾਪਮਾਨ\N_NN ਤੇ\RB ਸ਼ੁਰੂ\RB ਹੋ\V_VM_VF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13545	ਅਗੇਤੀ\JJ ਬੀਜੀ\N_NN ਫ਼ਸਲ\N_NN ਵਿਚ\PSP ਉੱਚੇ\JJ ਤਾਪਮਾਨ\N_NN ਕਰਕੇ\PSP ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13546	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਅਗੇਤੀ\JJ ਫ਼ਸਲ\N_NN ਲਈ\PSP ਸਿਫ਼ਾਰਸ਼\N_NN ਕੀਤੀਆਂ\V_VM_VF ਕਿਸਮਾਂ\N_NN ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13547	ਚਿਟੋਂ\N_NN (\RD_SYM ਪਾਊਡਰੀ\N_NN ਮਿਲਡਿਊ\N_NN )\RD_SYM :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਦਰਮਿਆਨੇ\RB ਸਮੇਂ\N_NN ਤੇ\RB ਲੇਟ\JJ ਪੱਕਣ\V_VM ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN ਦਾ\PSP ਵਧ\RB ਨੁਕਸਾਨ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13548	ਅਗੇਤੀ\JJ ਬੀਜੀ\N_NN ਫ਼ਸਲ\N_NN ਇਸ\PR_PRP ਦੇ\PSP ਹਮਲੇ\N_NN ਤੋਂ\PSP ਬਚ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13549	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਪਹਿਲਾਂ\RB ਪੱਤਿਆਂ\N_NN ਤੇ\CC_CCD ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13550	ਪੱਤੇ\N_NN ਤੇ\RB ਦੋਵੇਂ\QT_QTO ਪਾਸੇ\N_NN ਤਣੇ\N_NN ਤੇ\CC_CCD ਫ਼ਲੀਆਂ\N_NN ਉੱਤੇ\RB ਚਿੱਟੇ\JJ ਰੰਗ\N_NN ਦਾ\PSP ਧੂੜਾ\N_NN ਜੰਮ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13551	ਜ਼ਿਆਦਾ\RB ਹਮਲੇ\N_NN ਦੀ\PSP ਸੂਰਤ\N_NN ਵਿਚ\PSP ਬੂਟੇ\N_NN ਦੇ\PSP ਸਾਰੇ\RB ਹਿੱਸਿਆਂ\N_NN ਤੇ\N_NN ਚਿੱਟੇ\JJ ਰੰਗ\N_NN ਦਾ\PSP ਧੂੜਾ\N_NN ਦਿਖਾਈ\V_VM_VF ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13552	ਬੀਮਾਰ\JJ ਫ਼ਲੀਆਂ\N_NN ਦੀ\PSP ਮਿਠਾਸ\N_NN ਘੱਟ\JJ ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਬੀਜ\N_NN ਸੁੰਗੜ\JJ ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13553	ਕੁੰਗੀ\N_NN (ਰਸਟ)\N_NN :\RD_PUNC ਮਟਰਾਂ\N_NN ਦੀ\PSP ਕੁੰਗੀ\N_NN ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਉੱਤਰੀ\JJ ,\RD_PUNC ਪੱਛਮੀ\JJ ਜ਼ਿਲ੍ਹਿਆਂ\N_NN ਵਿਚ\PSP ਫ਼ਸਲ\N_NN ਦਾ\PSP ਬਹੁਤ\DM_DMQ ਨੁਕਸਾਨ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13554	ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਗੰਭੀਰ\JJ ਰੂਪ\N_NN ਧਾਰਨ\V_VM ਕਰ\V_VM_VF ਲੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13555	ਬੀਮਾਰੀ\N_NN ਦਰਮਿਆਨੇ\RB ਸਮੇਂ\N_NN ਤੇ\CC_CCD ਲੇਟ\N_NN ਪੱਕਣ\V_VM ਵਾਲੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਤੇ\CC_CCD ਬਹੁਤੀ\DM_DMQ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13556	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਪੀਲੇ\JJ ਤੋਂ\PSP ਲਾਲ\JJ ਭੂਰੇ\JJ ਉੱਭਰੇ\V_VM_VF ਹੋਏ\V_VM_VF ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13557	ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਤਣੇ\N_NN ,\RD_PUNC ਤੰਦਾਂ\N_NN ਫ਼ਲੀਆਂ\N_NN ਦੀਆਂ\PSP ਡੰਡੀਆਂ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲੀਆਂ\N_NN ਤੇ\CC_CCD ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13558	ਮਾਰਚ-ਅਪ੍ਰੈਲ\N_NN ਵਿਚ\PSP ਲਾਲ\JJ ਧੱਬੇ\N_NN ਬੂਟੇ\N_NN ਦੇ\PSP ਵੱਖ-ਵੱਖ\RB ਸਾਰੇ\RB ਹਿੱਸਿਆਂ\N_NN ਤੇ\CC_CCD ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13559	ਗਰਮੀ\N_NN ਵਿਚ\PSP ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਕਾਲੇ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਬਦਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13560	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਉੱਲੀ\N_NN ਆਪਣਾ\PR_PRF ਜੀਵਨ\N_NN ਚੱਕਰ\N_NN ,\RD_PUNC ਬੂਟਿਆਂ\N_NN ਤੇ\CC_CCD ਹੀ\RP_RPD ਪੂਰਾ\JJ ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13561	ਨਦੀਨ\N_NN ,\RD_PUNC ਮਟਰੀ\N_NN ਤੇ\N_NN ਰੇਵਾੜੀ\N_NN ਉੱਤੇ\RB ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਵਧਦੀ\RB ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13562	ਹਵਾ\N_NN ਵਿਚ\PSP ਸਿੱਲ੍ਹ\JJ ਤੇ\N_NN ਦਰਮਿਆਨੇ\RB ਤਾਪਮਾਨ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਵਧਦੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13563	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਖੇਤ\N_NN ਨੂੰ\PSP ਮਟਰੀ\N_NN ਤੇ\N_NN ਰੇਵਾੜੀ\N_NN ਨਦੀਨਾਂ\N_NN ਤੋਂ\PSP ਮੁਕਤ\JJ ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBAD13564	ਫ਼ਸਲਾਂ\N_NN ਦੀ\PSP ਅਦਲਾ-ਬਦਲੀ\RB ਦਾਲਾਂ\N_NN ਵਾਲੀਆਂ\PSP ਫ਼ਸਲਾਂ\N_NN ਤੋਂ\PSP ਬਿਨਾਂ\RP_NEG ਦੂਜੀਆਂ\QT_QTO ਫ਼ਸਲਾਂ\N_NN ਅਪਣਾਓ\V_VM_VF ।\RD_PUNC
+PBAD13565	ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲੀ\N_NN ਦਾ\PSP ਗਾਲਾ\N_NN :\RD_PUNC ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਪੱਤੇ\N_NN ਅਤੇ\CC_CCD ਫ਼ਲੀਆਂ\N_NN ਤੇ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13566	ਮੁੱਖ\JJ ਸਮੇਂ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਨਾਲੋਂ\PSP ਅਗੇਤੀ\JJ ਫ਼ਸਲ\N_NN ਤੇ\N_NN ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਜ਼ਿਆਦਾ\RB ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13567	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਪੱਤਿਆਂ\N_NN ਤੇ\CC_CCD ਗੂੜੇ\JJ ਭੂਰੇ\JJ ਕੰਡਿਆਂ\N_NN ਵਾਲੇ\PSP ਤਾਂਬੇ\N_NN ਰੰਗੇ\N_NN ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13568	ਧੱਬੇ\N_NN ਪਹਿਲਾਂ\RB ਛੋਟੇ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿਚ\PSP ਵੱਡੇ\JJ ਹੋ\V_VM ਕੇ\V_VM_VNF ਭੂਰੇ\JJ ਤੇ\N_NN ਕਾਲੇ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਬਦਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13569	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਪੱਤੇ\N_NN ਸੁੱਖ\V_VM ਕੇ\V_VM_VNF ਬੂਟੇ\N_NN ਨਾਲ\PSP ਲਟਕਦੇ\V_VM ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13570	ਬੀਮਾਰੀ\N_NN ਹੇਠਲੇ\RB ਪੱਤਿਆਂ\N_NN ਤੋਂ\PSP ਸ਼ੁਰੂ\V_VM ਹੋ\V_VM_VF ਕੇ\V_VM_VNF ਉੱਪਰਲੇ\RB ਪੱਤਿਆ\N_NN ਤੱਕ\PSP ਵਧਦੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13571	ਫ਼ਲੀਆਂ\N_NN ਤੇ\CC_CCD ਧੱਬੇ\N_NN ਤਾਂਬੇ\N_NN ਰੰਗੇ\N_NN ਗੋਲ\JJ ਅੰਦਰ\RB ਨੂੰ\PSP ਧੱਸੇ\N_NN ਹੋਏ\V_VM_VF ਕਾਲੇ\JJ ਭੂਰੇ\JJ ਕੰਢਿਆਂ\N_NN ਵਾਲੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13572	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਵਾਲੀ\PSP ਫ਼ਲੀ\N_NN ਬੀਜ\N_NN ਅਤੇ\CC_CCD ਪੌਦਿਆਂ\N_NN ਦੀ\PSP ਰਹਿੰਦ-ਖੂੰਹਦ\RB ਵਿਚ\PSP ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13573	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN ਉੱਥੇ\DM_DMR ਪੈਦਾ\V_VM_VF ਕਰੋ\V_VM_VF ,\RD_PUNC ਜਿੱਥੇ\PR_PRL ਮੀਂਹ\N_NN ਘੱਟ\JJ ਪੈਂਦੇ\V_VM_VF ਹੋਣ\V_VM_VINF ।\RD_PUNC
+PBAD13574	ਅਗੇਤਾ\JJ ਉਲਸ\N_NN ਰੋਗ\N_NN (ਅਰਲੀ\N_NN ਬਲਾਈਟ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਉੱਲੀ\N_NN ਦੀ\PSP ਬੀਮਾਰੀ\N_NN ਫ਼ਸਲ\N_NN ਪੱਕਣ\V_VM ਸਮੇਂ\N_NN ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13575	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਪੁਰਾਣੇ\JJ ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਛੋਟੇ-ਛੋਟੇ\JJ ਧੱਬਿਆਂ\N_NN ਦੀ\PSP ਸ਼ਕਲ\N_NN ਵਿਚ\PSP ਸ਼ੁਰੂ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13576	ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਇਕੋ\QT_QTO ਕੇਂਦਰ\N_NN ਦੇ\PSP ਦੁਆਲੇ\RB ਚੱਕਰਾਂ\N_NN ਵਿਚ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13577	ਵਾਧੇ\N_NN ਲਈ\PSP ਅਨੁਕੂਲ\JJ ਹਾਲਤਾਂ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਉਦੋਂ\RB ਹੋਰ\DM_DMQ ਵੀ\RP_RPD ਜ਼ਿਆਦਾ\RB ਹਮਲਾ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਦੋਂ\PR_PRL ਬੂਟੇ\N_NN ਮਾੜੇ\JJ ਹੋਣ\V_VM_VINF ।\RD_PUNC
+PBAD13578	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਫ਼ਸਲ\N_NN ਤੇ\CC_CCD ਕਾਪਰ\N_NN ਆਕਸੀਲਕੋਰਾਈਡ\N_NN 50\QT_QTF ਤਾਕਤ\N_NN 750\QT_QTF ਗ੍ਰਾਮ\N_NN ਤੋਂ\PSP ਇਕ\QT_QTC ਕਿਲੋ\N_NN ਡਾਈਥੇਨ\N_NN ਐੱਮ-\N_NN 45\QT_QTF ,\RD_PUNC 500\QT_QTF -\RD_PUNC 700\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN 250\QT_QTF -\RD_PUNC 350\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਸਪਰੇ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13579	ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਮਾੜੀ\JJ ਨਾ\RP_NEG ਰਹਿਣ\V_VM_VINF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13580	ਪਿਛੇਤਾ\JJ ਝੁਲਸ\N_NN ਰੋਗ\N_NN (ਲੇਟ\N_NN ਬਲਾਈਟ)\N_NN :\RD_PUNC ਪਿਛੇਤਾ\JJ ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਆਲੂ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦੀ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਵਧ\JJ ਭਿਆਨਕ\JJ ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13581	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਜਿਹੜੇ\PR_PRL ਸਾਲਾਂ\N_NN ਵਿਚ\PSP ਬਹੁਤੀ\JJ ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਦੋਂ\RB ਫ਼ਸਲ\N_NN ਦਾ\PSP 80%\QT_QTF ਨੁਕਸਾਨ\JJ ਕਰ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13582	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\PSP ਪੱਤਿਆਂ\N_NN ਦੀਆ\PSP ਨੁੱਕਰਾਂ\RB ,\RD_PUNC ਸਿਰੇ\RB ਤੇ\N_NN ਜਾਂ\CC_CCD ਹੋਰ\RB ਵੀ\RP_RPD ਥਾਂ\N_NN ਤੇ\CC_CCD ਪਾਣੀ\N_NN ਭਿੱਜੇ\JJ ਧੱਬੇ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBAD13583	ਜੇ\PR_PRL ਮੌਸਮ\N_NN ਬਹੁਤਾ\DM_DMQ ਸਿੱਲ੍ਹਾ\JJ ਹੋ\V_VM ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਪੱਤੇ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਇਨ੍ਹਾਂ\PR_PRP ਭੂਰੇ\JJ ਧੱਬਿਆਂ\N_NN ਦੇ\PSP ਸਿਰਿਆਂ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਸਵੇਰ\N_NN ਦੇ\PSP ਸਮੇਂ\N_NN ਚਿੱਟੀ\JJ ਉੱਲੀ\N_NN ਸਾਫ\JJ ਵਿਖਾਈ\V_VM ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13584	ਖੁਸ਼ਕ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਇਹ\PR_PRP ਧੱਬੇ\N_NN ਸੁੱਕ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13585	ਘੱਟ\JJ ਤਾਪਮਾਨ\N_NN ਤੇ\CC_CCD ਬਹੁਤੇ\DM_DMQ ਸਿੱਲ੍ਹੇ\JJ ਮੌਸਮ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਸਾਰੇ\RB ਪੱਤਿਆਂ\N_NN ਤੇ\CC_CCD ਫੈਲ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13586	ਜ਼ਿਆਦਾ\RB ਸਿੱਲ੍ਹ\N_NN ਜਾਂ\CC_CCD ਵਰਖਾ\N_NN ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਆਲੂਆਂ\N_NN ਤੇ\CC_CCD ਚਲੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13587	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਆਲੂ\N_NN ਉੱਤੇ\RB ਓਪਰੇ\JJ ਜਾਂ\CC_CCD ਡੂੰਘੇ\JJ ਲਾਲ\JJ ਭੂਰੇ\JJ ਚਟਾਖ\N_NN ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13588	ਪਹਿਲਾਂ\RB ਇਹ\PR_PRP ਚਟਾਖ\N_NN ਸੁੱਕੇ\JJ ਅਤੇ\CC_CCD ਸਖ਼ਤ\JJ ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13589	ਅਨੁਕੂਲ\JJ ਵਾਤਾਵਰਣ\N_NN ਵਿਚ\PSP ਸਾਰੀ\RB ਫ਼ਸਲ\N_NN 7-10\QT_QTF ਦਿਨਾਂ\N_NN ਵਿਚ\PSP ਤਬਾਹ\V_VM ਹੋ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13590	ਅਜਿਹੀ\RB ਫ਼ਸਲ\N_NN ਵਿਚੋਂ\PSP ਖਾਸ\JJ ਤਰ੍ਹਾਂ\PSP ਦੀ\PSP ਬਦਬੂ\N_NN ਮਾਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13591	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਆਲੂ\N_NN ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਮੁੱਖ\JJ ਸੋਮਾ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13592	ਕੋਲਡ\N_NN ਸਟੋਰਾਂ\N_NN ਨੇੜੇ\RB ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਆਲੂਆਂ\N_NN ਦੇ\PSP ਢੇਰਾਂ\N_NN ਤੋਂ\PSP ਬੀਮਾਰੀ\N_NN ਸ਼ੁਰੂ\RB ਹੋ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13593	ਸਤੰਬਰ\N_NN ਵਿਚ\PSP ਬੀਜੀ\V_VM ਫ਼ਸਲ\N_NN ਜੋ\PR_PRL ਕਿ\CC_CCS ਨਵੰਬਰ\N_NN ਵਿਚ\PSP ਪੁੱਟ\V_VM ਲਈ\PSP ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13594	ਪਿਛੇਤਾ\JJ ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਆਮ\RB ਕਰਕੇ\PSP ਅੱਧ\JJ ਨਵੰਬਰ\N_NN ਵਿਚ\PSP ਆਰੰਭ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13595	ਜਦੋਂ\PR_PRL ਸਰਦੀ\N_NN ਦੀ\PSP ਵਰਖਾ\N_NN ਕਾਰਨ\PSP ਵਾਤਾਵਰਣ\N_NN ਦੀ\PSP ਸਿੱਲ੍ਹ\N_NN 90%\QT_QTF ਤੋਂ\PSP ਉੱਤੇ\RB ਹੋ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD 6-7\QT_QTF ਦਿਨ\N_NN ਲਗਾਤਾਰ\RB ਧੁੰਦ\N_NN ਪੈਂਦੀ\V_VM_VF ਰਹੇ\V_VM_VF ਅਤੇ\CC_CCD ਤਾਪਮਾਨ\N_NN 10-20\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਰਹੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਬਹੁਤ\DM_DMQ ਛੇਤੀ\RB ਵਧਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13596	ਕੋਲਡ\N_NN ਸਟੋਰ\N_NN ਤੋਂ\PSP ਬੀਮਾਰੀ\JJ ਵਾਲੇ\PSP ਛਾਂਟੇ\JJ ਆਲੂ\N_NN ਡੂੰਘੇ\JJ ਦਬਾ\V_VM ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13597	ਆਲੂਆਂ\N_NN ਦੀਆਂ\PSP ਵੱਟਾਂ\N_NN ਉੱਚੀਆਂ\RB ਬਣਾਓ\V_VM_VF ਤਾਂ\CC_CCD ਜੋ\CC_CCS ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਲਾਗ\N_NN ਆਲੂਆਂ\N_NN ਉੱਤੇ\RB ਨਾ\RP_NEG ਜਾਏ\V_VM_VF ।\RD_PUNC
+PBAD13598	ਰੋਗ\N_NN ਨੂੰ\PSP ਸਹਿਣ\N_NN ਵਾਲੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਜਿਵੇਂ\RP_CL ਕਿ\CC_CCS ਕੁਫਰੀ\N_NN ਜੋਤੀ\N_NN ,\RD_PUNC ਕੁਫਰੀ\N_NN ਬਾਦਸ਼ਾਹ\N_NN ,\RD_PUNC ਕੁਫਰੀ\N_NN ਜਵਾਹਰ\N_NN ਅਤੇ\CC_CCD ਕੁਫਰੀ\N_NN ਸਤਲੁਜ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13599	ਖਰੀਂਢ\N_NN ਰੋਗ\N_NN (ਬਲੈਕ\N_NN ਸਕੱਰਫ਼)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਆਲੂਆਂ\N_NN ਦੀ\PSP ਆਮ\JJ ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13600	ਭਾਵੇਂ\CC_CCS ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਆਲੂਆਂ\N_NN ਦੇ\PSP ਝਾੜ\N_NN ਤੇ\CC_CCD ਕੋਈ\DM_DMQ ਬਹੁਤਾ\DM_DMQ ਅਸਰ\N_NN ਨਹੀਂ\RP_NEG ਪਾਉਂਦੀ\V_VM_VF ,\RD_PUNC ਪਰ\CC_CCS ਇਸ\PR_PRP ਨਾਲ\PSP ਆਲੂਆਂ\N_NN ਦੀ\PSP ਕੁਆਲਿਟੀ\N_NN ਤੇ\N_NN ਮਾੜਾ\JJ ਅਸਰ\N_NN ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13601	ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13602	ਕਿਉਂਕਿ\CC_CCS ਇਹੋ\PR_PRP ਉੱਲੀ\N_NN ਝੋਨੇ\N_NN ਦੀ\PSP ਸ਼ੀਥ\N_NN ਦਾ\PSP ਝੁਲਸ\N_NN ਰੋਗ\N_NN ਲਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13603	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਰੋਗੀ\JJ ਆਲੂਆਂ\N_NN ਉੱਤੇ\RB ਖੁਰਦਰੇ\JJ ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਖਰੀਂਢ\N_NN ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13604	ਖਰੀਂਢ\N_NN ਅਸਲ\RB ਵਿਚ\PSP ਉੱਲੀ\N_NN ਦੀਆਂ\PSP ਮਘਰੋੜੀਆਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13605	ਇਸ\PR_PRP ਤਰ੍ਹਾਂ\PSP ਜਾਪਦਾ\V_VM ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL ਆਲੂਆਂ\N_NN ਤੇ\CC_CCD ਕਾਲੇ\JJ ਰੰਗ\N_NN ਦੀ\PSP ਮਿੱਟੀ\N_NN ਲੱਗੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ।\RD_PUNC
+PBAD13606	ਉੱਲੀ\N_NN ਦੇ\PSP ਵਿਸ਼ਾਣੂੰ\N_NN ਆਲੂ\N_NN ਦੀ\PSP ਉੱਪਰਲੀ\RB ਛਿੱਲ\N_NN ਤੱਕ\PSP ਹੀ\RP_RPD ਸੀਮਿਤ\V_VM ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13607	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਆਲੂਆਂ\N_NN ਤੋਂ\PSP ਉੱਗੇ\DM_DMQ ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਤਣੇ\N_NN ਤੇ\CC_CCD ਮਿੱਟੀ\N_NN ਦੀ\PSP ਸਤਹ\N_NN ਤੇ\N_NN ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਚਟਾਖ\N_NN ਪੈ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13608	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\N_NN :\RD_PUNC ਆਲੂ\N_NN ਅਤੇ\CC_CCD ਮਿੱਟੀ\N_NN ਵਿਚ\PSP ਪਈ\V_VM_VF ਉੱਲੀ\N_NN ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਲਾਗ\N_NN ਲਾਉਣ\V_VM_VF ਦਾ\PSP ਕਾਰਨ\N_NN ਬਣਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13609	ਗਰਮੀ\N_NN ਨਾਲ\PSP ਉੱਲੀ\N_NN ਜ਼ਮੀਨ\N_NN ਵਿਚੋਂ\PSP ਘੱਟ\JJ ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13610	ਘੱਟ\JJ ਤਾਪਮਾਨ\N_NN ਅਤੇ\CC_CCD ਵਧੇਰੇ\JJ ਨਮੀ\N_NN ਤਣੇ\N_NN ਤੇ\CC_CCD ਆਲੂ\N_NN ਦੇ\PSP ਫੁਟਾਰੇ\N_NN ਤੇ\CC_CCD ਬੀਮਾਰੀ\N_NN ਲਾਉਣ\V_VM_VF ਲਈ\PSP ਬਹੁਤ\DM_DMQ ਅਨੁਕੂਲ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13611	ਉੱਚਾ\JJ ਤਾਪਮਾਨ\N_NN ਹੋਣ\V_VM_VINF ਕਰਕੇ\PSP ਬਸੰਤ\N_NN ਰੁੱਤ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਆਉਂਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13612	28\QT_QTF ਡਿਗਰੀ\N_NN ਸੈਂਟੀਗ੍ਰੇਡ\N_NN ਤਾਪਮਾਨ\N_NN ਉੱਲੀ\N_NN ਤੇ\CC_CCD ਮਘਰੋੜੀਆਂ\N_NN ਬਣਨ\V_VM ਲਈ\PSP ਬਹੁਤ\DM_DMQ ਅਨੁਕੂਲ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13613	ਬੀਮਾਰੀ\N_NN ਬਹੁਤੀ\DM_DMQ ਰੇਤਲੀ\JJ ਮੈਰਾ\N_NN ਅਤੇ\CC_CCD ਸਿੱਲ੍ਹ\JJ ਵਾਲੀ\PSP ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13614	ਬੀਮਾਰੀ\N_NN ਦੀ\PSP ਉੱਲੀ\N_NN ਬਹੁਤ\DM_DMQ ਸਾਰੀਆਂ\RB ਫ਼ਸਲਾਂ\N_NN ਜਿਵੇਂ\RP_CL ਝੋਨਾ\N_NN ,\RD_PUNC ਸੂਰਜਮੁਖੀ\N_NN ,\RD_PUNC ਮੱਕੀ\N_NN ਅਤੇ\CC_CCD ਕੱਦੂ\N_NN ਜਾਤੀ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ,\RD_PUNC ਮੂੰਗੀ\N_NN ,\RD_PUNC ਗੋਭੀ\N_NN ਸਰ੍ਹੋਂ\N_NN ਆਦਿ\RP_CL ਤੇ\CC_CCD ਵੀ\RP_RPD ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13615	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਵਾਲੇ\PSP ਆਲੂਆਂ\N_NN ਨੂੰ\PSP ਅੱਧਾ\QT_QTO ਪ੍ਰਤੀਸ਼ਤ\N_NN ਐਗਾਲੌਲ\N_NN 5\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਜਾਂ\CC_CCD 0.25%\QT_QTF ਐਮੀਸਾਨ\N_NN 2.5\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਲਿਟਰ\N_NN ਦੇ\PSP ਘੋਲ\N_NN ਵਿਚ\PSP 10\N_NN ਮਿੰਟ\N_NN ਲਈ\PSP ਡੁਬੋ\V_VM ਕੇ\V_VM_VNF ਰੱਖੋ\V_VM_VF ।\RD_PUNC
+PBAD13616	ਧਫੜੀ\N_NN ਰੋਗ\N_NN (ਸਕੈਬ)\N_NN :\RD_PUNC ਇਹ\PR_PRP ਰੋਗ\N_NN ਪਹਾੜਾਂ\N_NN ਤੋਂ\PSP ਲਿਆਂਦੇ\V_VM_VF ਬੀਜ\N_NN ਰਾਹੀਂ\PSP ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBAD13617	ਬੀਮਾਰੀ\N_NN ਨਾਲ\PSP ਭਾਵੇਂ\CC_CCS ਝਾੜ\N_NN ਤੇ\N_NN ਮਾੜਾ\JJ ਅਸਰ\N_NN ਨਹੀਂ\RP_NEG ਪੈਂਦਾ\V_VM_VF ,\RD_PUNC ਪਰ\CC_CCS ਆਲੂਆਂ\N_NN ਦੀ\PSP ਕੁਆਲਿਟੀ\N_NN ਸਹੀ\JJ ਨਹੀਂ\RP_NEG ਰਹਿੰਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13618	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਧਫੜੀ\N_NN ਨਾਲ\PSP ਆਲੂਆਂ\N_NN ਤੇ\CC_CCD 5-8\QT_QTF ਮਿ.ਮੀ.ਵਿਆਸ\N_NN ਦੇ\PSP ਨਿਸ਼ਾਨ\N_NN ਪੈ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13619	ਨਿਸ਼ਾਨ\N_NN ਓਪਰੇ\JJ ਜਾ\CC_CCD ਡੂੰਘੇ\JJ ਕਾਲੇ\JJ ਤੋਂ\PSP ਭੂਰੇ\JJ ਅਤੇ\CC_CCD ਆਪਸ\PR_PRC ਵਿਚ\PSP ਮਿਲਕੇ\V_VM ਆਲੂ\N_NN ਤੇ\CC_CCD ਕਾਫੀ\DM_DMQ ਹਿੱਸੇ\N_NN ਤੇ\N_NN ਫੈਲ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13620	ਉੱਲੀ\N_NN ਖੁਸ਼ਕ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਵਧਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13621	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਬੀਜ\N_NN ਨੂੰ\PSP ਖਰੀਂਢ\N_NN ਰੋਗ\N_NN ਸਿਫ਼ਾਰਿਸ਼\N_NN ਕੀਤੀਆਂ\V_VM_VF ਜ਼ਹਿਰਾਂ\N_NN ਨਾਲ\PSP ਸੋਧ\V_VM ਕੇ\V_VM_VNF ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13622	ਖੇਤ\N_NN ਵਿਚ\PSP ਹਰੀ\JJ ਖਾਦ\N_NN ਕਰਨ\PSP ਨਾਲ\PSP ਬੀਮਾਰੀ\N_NN ਘੱਟ\JJ ਲੱਗਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13623	ਆਲੂ\N_NN ਬਣਨ\V_VM_VF ਸਮੇਂ\N_NN ਤੋਂ\PSP ਪੱਕਣ\JJ ਤੀਕ\PSP ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਸੋਕਾ\N_NN ਨਾ\RP_NEG ਲੱਗਣ\V_VM_VINF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13624	ਪੱਤਿਆਂ\N_NN ਦਾ\PSP ਮੁੜਨਾ\RB :\RD_PUNC ਆਲੂਆਂ\N_NN ਦਾ\PSP ਪੱਤੇ\N_NN ਮੁੜਨ\RB ਦਾ\PSP ਰੋਗ\N_NN ਬੜੀ\DM_DMQ ਭਿਆਨਕ\JJ ਬੀਮਾਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13625	ਜ਼ਿਆਦਾ\RB ਹਮਲੇ\N_NN ਦੀ\PSP ਸੂਰਤ\N_NN ਵਿਚ\PSP ਇਹ\PR_PRP ਆਲੂ\N_NN ਦੇ\PSP ਝਾੜ\N_NN ਤੇ\CC_CCD ਕਾਫੀ\DM_DMQ ਮਾੜਾ\JJ ਅਸਰ\N_NN ਪਾਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13626	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਦੀਆਂ\PSP ਦੋ\QT_QTC ਤਰ੍ਹਾਂ\PSP ਦੀਆਂ\PSP ਨਿਸ਼ਾਨੀਆਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13627	ਨਵੀਂ\JJ ਫ਼ਸਲ\N_NN ਤੇ\PSP ਬੀਮਾਰੀ\N_NN ਕਾਰਨ\PSP ਉੱਪਰਲੇ\RB ਨਵੇਂ\JJ ਪੱਤੇ\N_NN ਉਪਰ\RB ਨੂੰ\PSP ਮੁੜ\RB ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13628	ਬੀਮਾਰੀ\JJ ਵਾਲੇ\PSP ਪੱਤੇ\N_NN ਉਪਰ\RB ਵੱਲ\PSP ਖੜ੍ਹੇ\V_VM ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13629	ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਆਲੂ\N_NN ਤੋਂ\PSP ਉੱਗੇ\V_VM ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਹੇਠਲੇ\RB ਪੱਤੇ\N_NN ਗੁੱਛਾ\JJ ਮੁੱਛਾ\JJ ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13630	ਮੁੜੇ\RB ਹੋਏ\V_VM_VF ਪੱਤੇ\N_NN ਸਖਤ\JJ ,\RD_PUNC ਮੋਟੇ\JJ ਅਤੇ\CC_CCD ਹੇਠਲੇ\RB ਪਾਸੇ\N_NN ਤੋਂ\PSP ਜਾਮਣੀ\JJ ਤੋਂ\PSP ਭੂਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13631	ਬੀਮਾਰ\N_NN ਬੂਟੇ\N_NN ਛੋਟੇ\JJ ਰਹਿ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13632	ਉਪਰਲੇ\RB ਪੱਤਿਆਂ\N_NN ਦੇ\PSP ਕਿਨਾਰੇ\N_NN ਫਿੱਕੇ\JJ ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13633	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\RB :\RD_PUNC ਇਹ\PR_PRP ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਰੋਗੀ\JJ ਆਲੂਆਂ\N_NN ਦੁਆਰਾ\PSP ਅੱਗੇ\RB ਵਧਦਾ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13634	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਹਮੇਸ਼ਾ\RB ਭਰੋਸੇਯੋਗ\JJ ਵਸੀਲਿਆਂ\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਰੋਗ\N_NN ਰਹਿਤ\JJ ਬੀਜ\N_NN ਲਵੋ\V_VM_VF ।\RD_PUNC
+PBAD13635	ਸਿਫ਼ਾਰਿਸ਼\N_NN ਕੀਤੀਆਂ\V_VM_VF ਕੀਟ\N_NN ਨਾਸ਼ਕ\JJ ਜ਼ਹਿਰਾਂ\N_NN ਦੀ\PSP ਸਪਰੇ\V_VM ਕਰਦੇ\V_VM_VF ਰਹੋ\V_VM_VF ਤਾਂ\CC_CCD ਕਿ\CC_CCS ਤੇਲਾ\N_NN ਕਾਬੂ\V_VM ਵਿਚ\PSP ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBAD13636	ਪਹਿਲਾਂ\RB ਮਿੱਟੀ\N_NN ਚੜਾਉਣ\V_VM ਵੇਲੇ\PSP ਖੇਤ\N_NN ਵਿਚ\PSP 5\QT_QTF ਕਿਲੋ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਥਿੱਮਟ\N_NN 10\QT_QTF ਜੀ\N_NN (ਫੋਰੈਟ)\N_NN ਵਰਤੋ\V_VM_VF ।\RD_PUNC
+PBAD13637	ਜੇ\PR_PRL ਥਿੱਮਟ\N_NN ਪਾਉਣੀ\V_VM_VINF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCS ਦੂਜੀਆਂ\QT_QTO ਕੀਟ\N_NN ਨਾਸ਼ਕ\N_NN ਜ਼ਹਿਰਾਂ\N_NN ਵਰਤਣ\V_VM ਦੀ\PSP ਲੋੜ\V_VM_VF ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBAD13638	ਚਿਤਕਬਰਾ\N_NN ਰੋਗ\N_NN (ਮੋਜ਼ੇਕ)\N_NN :\RD_PUNC ਇਹ\N_NN ਰੋਗ\N_NN ਉਨ੍ਹਾਂ\PR_PRP ਇਲਾਕਿਆਂ\N_NN ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿੱਥੇ\PR_PRL ਰੋਗ\N_NN ਰਹਿਤ\JJ ਬੀਜ\N_NN ਨਹੀਂ\RP_NEG ਬੀਜਿਆ\V_VM ਜਾਂਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13639	ਇਹ\PR_PRP ਬੀਮਾਰੀ\N_NN ਹਰ\RB ਉਸ\PR_PRP ਇਲਾਕੇ\N_NN ਵਿਚ\PSP ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਜਿੱਥੇ\PR_PRL ਆਲੂ\N_NN ਉਗਾਏ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13640	ਜ਼ਿਆਦਾ\RB ਹਮਲੇ\N_NN ਦੀ\PSP ਸੂਰਤ\N_NN ਵਿਚ\PSP ਇਹ\PR_PRP ਰੋਗ\N_NN ਝਾੜ\N_NN ਤੇ\N_NN ਕਾਫੀ\DM_DMQ ਬੁਰਾ\JJ ਅਸਰ\N_NN ਪਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13641	ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਦੀ\PSP ਐਕਸ\N_NN ਅਤੇਵਾਈ\N_NN ਕਿਸਮਾਂ\N_NN ਐੱਸ\N_NN ਕਿਸਮ\N_NN ਨਾਲੋਂ\PSP ਫ਼ਸਲ\N_NN ਦਾ\PSP ਜ਼ਿਆਦਾ\RB ਨੁਕਸਾਨ\N_NN ਕਰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13642	ਨਿਸ਼ਾਨੀਆਂ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਬੀਮਾਰੀ\N_NN ਦੇ\PSP ਚਿੰਨ\N_NN ਫ਼ਸਲ\N_NN ਦੀ\PSP ਕਿਸਮ\N_NN ਅਤੇ\CC_CCD ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਦੀ\PSP ਕਿਸਮ\N_NN ਤੇ\CC_CCD ਨਿਰਭਰ\V_VM_VF ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13643	ਆਮ\RB ਨਿਸ਼ਾਨੀਆਂ\N_NN ਵਿਚ\PSP ਪੱਤਿਆਂ\N_NN ਤੇ\N_NN ਹਲਕੇ\JJ ਤੋਂ\PSP ਗੂੜੇ\JJ ਹਰੇ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਚਟਾਖ\N_NN ਬਣ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13644	ਪੱਤਿਆਂ\N_NN ਦੀਆਂ\PSP ਨਾੜੀਆਂ\N_NN ਕਿਤੋਂ\RB ਕਿਤੋਂ\RB ਸੁੱਕ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13645	ਬੀਮਾਰੀ\N_NN ਦਾ\PSP ਵਾਧਾ\N_NN :\RD_PUNC ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਆਲੂਆਂ\N_NN ਦੇ\PSP ਬੀਜ\N_NN ਕੱਟਣ\V_VM ਲਈ\PSP ਵਰਤੇ\V_VM_VF ਗਏ\V_VM_VF ਚਾਕੂ\N_NN ਅਤੇ\CC_CCD ਤੇਲੇ\N_NN ਨਾਲ\PSP ਇਹ\PR_PRP ਰੋਗ\N_NN ਅੱਗੇ\RB ਫੈਲਦਾ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13646	ਰੋਕਥਾਮ\N_NN :\RD_PUNC ਸ਼ੁਰੂ\RB ਸੁਰੂ\RB ਵਿਚ\PSP ਬੀਮਾਰੀ\N_NN ਵਾਲੇ\PSP ਬੂਟੇ\N_NN ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਨਸ਼ਟ\V_VM ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13647	ਦਸੰਬਰ\N_NN ਦੇ\PSP ਤੀਜੇ\QT_QTO ਚੌਥੇ\QT_QTO ਹਫਤੇ\N_NN ਵੇਲਾਂ\N_NN ਕੱਟ\V_VM ਦਿਓ\V_VM_VF ਅਤੇ\CC_CCD ਆਲੂ\N_NN ਫਰਵਰੀ\N_NN ਤੱਕ\PSP ਨਾ\RP_NEG ਪੱਟੋ\V_VM ।\RD_PUNC
+PBAD13648	ਖੇਤ\N_NN ਵਿਚ\PSP ਮਿੱਟੀ\N_NN ਚੜ੍ਹਾਉਣ\V_VM ਵੇਲੇ\PSP 5\QT_QTF ਕਿਲੋ\N_NN ਥਿੱਮਟ\N_NN 10\QT_QTF ਜੀ(ਫੋਰੈਟ)ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਪਾਓ\V_VM_VF ।\RD_PUNC
+PBAD13649	ਡਾ.\N_NNP ਹਯਾਤ\N_NNP ਨਗਰ\N_NNP ,\RD_PUNC ਗੁਰਦਾਸਪੁਰ\N_NNP ਦੇ\PSP ਪ੍ਰਯੋਗਵਾਦੀ\JJ ਪ੍ਰਪੱਕ\JJ ਤਜਰਬੇਕਾਰ\JJ 75\QT_QTF ਸਾਲਾਂ\N_NN ਦੇ\PSP ਕਿਸਾਨ\N_NN ਨਿਰਮਲ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਖੇਤੀਬਾੜੀ\N_NN ਸਬੰਧੀ\PSP ਅਨੇਕਾਂ\RB ਹੀ\RP_RPD ਕਾਮਯਾਬ\JJ ਪ੍ਰਯੋਗ\N_NN ਕੀਤੇ\V_VM_VF ਹਨ\V_VAUX ਜੋ\PR_PRL ਸਫ਼ਲ\JJ ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBAD13650	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਆਪਣੀ\PR_PRF ਜ਼ਮੀਨ\N_NN (ਖੇਤਾਂ)\N_NN ਵਿਚ\PSP ਅਰਿੰਡ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਬੀਜੀ\V_VM ਹੋਈ\V_VM_VF ਹੈ\V_VAUX |\N_NN
+PBAD13651	ਅਰਿੰਡ\N_NN ਬਾਰੇ\PSP ਬਹੁਤ\DM_DMQ ਸਾਰੇ\RB ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਪਤਾ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ,\RD_PUNC ਉਸ\PR_PRP ਦੇ\PSP ਕੀ-ਕੀ\PR_PRQ ਫਾਇਦੇ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBAD13652	ਕਿਸਾਨ\N_NN ਨਿਰਮਲ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਅਰਿੰਡ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਕੋਲ\RB ਖੜ੍ਹ\V_VM ਕੇ\V_VM_VNF ਦੱਸਿਆ\N_NN ਕਿ\CC_CCS ਅਰਿੰਡ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਦੇ\PSP ਅਨੇਕਾਂ\RB ਹੀ\RP_RPD ਫਾਇਦੇ\JJ ਹਨ\V_VAUX |\N_NN
+PBAD13653	ਅਰਿੰਡ\N_NN ਨੂੰ\PSP ਅੰਗਰੇਜ਼ੀ\N_NNP ਵਿਚ\PSP `\RD_PUNC ਕੈਸਟਰ\N_NN `\RD_PUNC ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBAD13654	ਇਸ\PR_PRP ਦੇ\PSP ਬੂਟੇ\N_NN ਦੋ\QT_QTC ਪ੍ਰਕਾਰ\PSP ਦੇ\PSP ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX -\RD_PUNC ਇਕ\QT_QTC ਜੰਗਲੀ\JJ ਕਿਸਮ\N_NN ਦੇ\PSP ਅਤੇ\CC_CCD ਦੂਸਰੇ\QT_QTC ਜੋ\PR_PRL ਕਿਸਾਨ\N_NN ਖੁਦ\PR_PRF ਉਗਾਉਂਦੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBAD13655	ਇਸ\PR_PRP ਦੇ\PSP ਤੇਲ\N_NN ਦੀਆਂ\PSP ਕਈ\DM_DMQ ਪ੍ਰਕਾਰ\PSP ਦੀਆਂ\PSP ਦਵਾਈਆਂ\N_NN ਬਣਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13656	ਸਾਬਣ\N_NN ਬਣਾਉਣ\V_VM ਵਿਚ\PSP ਇਸ\PR_PRP ਦਾ\PSP ਪ੍ਰਯੋਗ\V_VM ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13657	ਇਸ\PR_PRP ਦੇ\PSP ਤੇਲ\N_NN ਵਿਚ\PSP ਤਲੀਆਂ\N_NN ਹੋਈਆਂ\V_VM_VF ਚੀਜ਼ਾਂ\N_NN ਦੇ\PSP ਪਦਾਰਥ\N_NN ਬਣਾਏ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13658	ਤੜਕੇ\N_NN ਵਿਚ\PSP ,\RD_PUNC ਸਬਜ਼ੀਆਂ\N_NN ਵਿਚ\PSP ,\RD_PUNC ਪਰਾਂਠੇ\N_NN ਬਣਾਉਣ\V_VM ਵਿਚ\PSP ਆਦਿ\RP_CL ਪਦਾਰਥਾਂ\N_NN ਵਿਚ\PSP ਵਰਤਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13659	ਅਰਿੰਡ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਸੜਕਾਂ\N_NN ਆਦਿ\RP_CL ਕਿਨਾਰਿਆਂ\N_NN ਉਪਰ\RB ਉੱਗੇ\V_VM ਵੀ\RP_RPD ਮਿਲ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13660	ਦੋਵਾਂ\QT_QTO ਤਰ੍ਹਾਂ\PSP ਦੇ\PSP ਅਰਿੰਡਾਂ\N_NN `\RD_PUNC ਚੋਂ\PSP ਤੇਲ\N_NN ਹੀ\RP_RPD ਨਿਕਲਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBAD13661	ਖੇਤੀ\N_NN ਦੇ\PSP ਤੌਰ\PSP `\RD_PUNC ਤੇ\PSP ਬੀਜੇ\N_NN ਅਰਿੰਡ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਜ਼ਿਆਦਾ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਝਾੜ\N_NN ਜ਼ਿਆਦਾ\RB ਨਿਕਲਦਾ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBAD13662	ਇਸ\PR_PRP ਦੇ\PSP ਤੇਲ\N_NN ਨੂੰ\PSP `\RD_PUNC ਕੈਸਟਰ\N_NN ਆਇਲ\N_NN `\RD_PUNC ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13663	ਖੇਤੀ\N_NN ਵਾਲਾ\PSP ਅਰਿੰਡ\N_NN ਤੰਦਰੁਸਤ\PSP ਅਤੇ\CC_CCD ਕਾਫ਼ੀ\DM_DMQ ਉੱਚਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13664	ਬੀਜਣ\N_NN ਦਾ\PSP ਸਮਾਂ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਦੇ\PSP ਬੂਟੇ\N_NN ਨੂੰ\PSP ਇਸ\DM_DMD ਦੇ\PSP ਪੱਕੇ\JJ ਹੋਏ\V_VM_VF ਬੀਜਾਂ\N_NN ਤੋਂ\PSP ਬੀਜਿਆ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13665	ਜੇਕਰ\CC_CCS ਇਸ\PR_PRP ਦੇ\PSP ਬੂਟੇ\N_NN ਨੂੰ\PSP ਮਈ-ਜੂਨ\N_NN ਦੇ\PSP ਮਹੀਨੇ\N_NN ਬੀਜਿਆ\V_VM ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCS ਇਸ\DM_DMD ਦੇ\PSP ਬੂਟੇ\N_NN ਨੂੰ\PSP ਸਰਦੀਆਂ\N_NN ਵਿਚ\PSP ਫੁੱਲ\N_NN ਪੈ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBAD13666	ਇਹ\PR_PRP ਬੂਟਾ\N_NN ਡੇਢ\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਵਿਚ\PSP ਫਲ\N_NN ਦੇਣ\V_VM_VINF ਲੱਗ\V_VM ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13667	ਇਸ\DM_DMD ਨੂੰ\PSP ਜਿੰਨਾ\PR_PRL ਦੇਰ\RB ਨਾਲ\PSP ਬੀਜਿਆ\V_VM ਜਾਵੇ\V_VM_VF ਓਨਾ\RB ਹੀ\RP_RPD ਘੱਟ\JJ ਫਲ\N_NN ਲਗਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13668	ਜੇਕਰ\CC_CCS ਬਹੁਤ\DM_DMQ ਦੇਰ\RB ਨਾਲ\PSP ਬੀਜਿਆ\V_VM ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCS ਫਲ\N_NN ਅਗਲੇ\RB ਸਾਲ\N_NN ਲੱਗੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13669	ਫਲ\N_NN ਤੋੜਨ\V_VM_VNG ਦਾ\PSP ਸਮਾਂ\N_NN :\RD_PUNC ਇਸ\DM_DMD ਦਾ\PSP ਫਲ\N_NN ਗੁੱਛਿਆਂ\N_NN ਵਿਚ\PSP ਲਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਕ\QT_QTC ਗੁੱਛੇ\N_NN ਨੂੰ\PSP ਡੰਡੀ\N_NN ਤੋਂ\PSP ਬੜੀ\RB ਆਸਾਨੀ\RB ਨਾਲ\PSP ਤੋੜਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13670	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਤੋੜਨ\V_VM ਨਾਲ\PSP ਪੱਕੀਆਂ\JJ ਹੋਈਆਂ\V_VM_VF ਕਈ\DM_DMQ ਡੋਡੀਆਂ\N_NN ਥੱਲੇ\RB ਕਿਰ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13671	ਇਸ\DM_DMD ਕਰਕੇ\PSP ਡੋਡੀ\N_NN ਨੂੰ\PSP ਹੱਥ\N_NN ਨਹੀਂ\RP_NEG ਲਗਾਉਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF |\RD_PUNC
+PBAD13672	ਇਸ\DM_DMD ਕਰਕੇ\PSP ਫਲ\N_NN ਤੋੜਨ\V_VM ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਬੂਟੇ\N_NN ਦੇ\PSP ਦੁਆਲੇ\RB 2-4\QT_QTF ਪੱਲੀਆਂ\N_NN ਵਿਛਾ\V_VM ਦੇਣੀਆਂ\V_VM_VF ਚਾਹੀਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13673	ਬੂਟੇ\N_NN ਨੂੰ\PSP ਨਵੀਂ\JJ ਪੂੰਗਰ\N_NN ਨਿਕਲਣ\V_VM ਲੱਗ\V_VM_VF ਪਵੇਗੀ\V_VM_VF ਅਤੇ\CC_CCD ਫਲ\N_NN ਵੀ\RP_RPD ਬਹੁਤ\DM_DMQ ਲੱਗੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13674	ਜੇਕਰ\CC_CCS ਬੂਟਾ\N_NN ਛਾਂਗਿਆ\V_VM ਨਾ\RP_NEG ਜਾਏ\V_VM_VF ਤਾਂ\CC_CCS ਬੂਟਾ\N_NN ਬਹੁਤ\DM_DMQ ਉੱਚਾ\JJ ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13675	ਫਲ\N_NN ਤੋੜ\V_VM ਕੇ\V_VM_VNF ਡੰਡੀਆਂ\N_NN ਅਤੇ\CC_CCD ਜਿਨ੍ਹਾਂ\PR_PRL ਡੋਡੀਆਂ\N_NN ਵਿਚ\PSP ਬੀਜ\N_NN ਨਹੀਂ\RP_NEG ਬਣੇ\V_VM_VF ਵੱਖਰੇ\RB ਕਰ\V_VM_VF ਲਵੋ\V_VM_VF |\RD_PUNC
+PBAD13676	ਬੂਟੇ\N_NN ਦੀ\PSP ਸੰਭਾਲ\N_NN :\RD_PUNC ਪਹਿਲੇ\QT_QTO ਸਾਲ\N_NN ਤਾਂ\CC_CCD 3-4\QT_QTF ਮਹੀਨੇ\N_NN ਬੂਟੇ\N_NN ਦੀ\PSP ਥੋੜ੍ਹੀ\RB ਬਹੁਤ\DM_DMQ ਸੰਭਾਲ\N_NN ਕਰਨੀ\V_VM_VF ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13677	ਪਰ\CC_CCS ਬਾਅਦ\RB ਵਿਚ\PSP ਕਿਸੇ\DM_DMQ ਕਿਸਮ\N_NN ਦੀ\PSP ਸਾਂਭ-ਸੰਭਾਲ\N_NN ਦੀ\PSP ਲੋੜ\V_VM ਨਹੀਂ\RP_NEG ਪੈਂਦੀ\V_VM_VF |\RD_PUNC
+PBAD13678	ਫਲ\N_NN ਤੋੜਨ\V_VM ਤੋਂ\PSP ਬਾਅਦ\RB ਸਿਰਫ\RB ਬੂਟੇ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਵਾਰੀ\PSP ਛਾਂਗ\V_VM ਦਿਓ\V_VM_VF |\RD_PUNC
+PBAD13679	ਇਸ\DM_DMD ਦੇ\PSP ਪੱਤੇ\N_NN ਚੌੜੇ\JJ ਹਰੇ\JJ ਤੇ\CC_CCD ਕਿਤੇ-ਕਿਤੇ\RB ਗੁਲਾਬੀ\JJ ਭਾਹ\N_NN ਮਾਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13680	ਵੇਖਣ\N_NN ਨੂੰ\PSP ਇਹ\PR_PRP ਬੂਟਾ\N_NN ਸੋਹਣਾ\JJ ਲਗਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13681	ਇਸ\DM_DMD ਬੂਟੇ\N_NN ਦੇ\PSP ਪੱਤੇ\N_NN ਡੰਗਰ\N_NN ਨਹੀਂ\RP_NEG ਖਾਂਦੇ\V_VM_VF |\RD_PUNC
+PBAD13682	ਤੇਲ\N_NN ਕਢਾਉਣਾ\V_VM :\RD_PUNC ਕੈਸਟਰ\N_NN ਦਾ\PSP ਤੇਲ\N_NN ਕੱਢਣ\V_VM ਲਈ\PSP ਬੀਜਾਂ\N_NN ਨੂੰ\PSP ਏਨਾ\RB ਸਾਫ਼\JJ ਕਰਨ\V_VM_VF ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBAD13683	ਡੋਡੀਆਂ\N_NN ਵਿਚੋਂ\PSP ਬੀਜ\N_NN ਕੱਢਣ\V_VM ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBAD13684	ਸਿਰਫ਼\RB ਡੰਡੀਆਂ\N_NN ਹੀ\RP_RPD ਲਵੋ\V_VM |\RD_PUNC
+PBAD13685	ਇਸ\DM_DMD ਦੇ\PSP ਬੀਜ\N_NN ਡੋਡੀਆਂ\N_NN ਸਣੇਂ\N_NN ਹੀ\RP_RPD ਕੋਹਲੂ\N_NN ਵਿਚ\PSP ਪਾ\V_VM ਦੇਣੇ\V_VM_VINF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13686	ਜੇਕਰ\CC_CCS ਡੋਡੀਆਂ\N_NN ਵਿਚੋਂ\PSP ਇਸ\DM_DMD ਦੇ\PSP ਬੀਜ\N_NN ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਕੋਹਲੂ\N_NN ਵਿਚ\PSP ਪਾਵਾਂਗੇ\V_VM_VF ਤਾਂ\CC_CCS ਤੇਲ\N_NN ਨਹੀਂ\RP_NEG ਨਿਕਲੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13687	ਇਸ\DM_DMD ਦੇ\PSP 5-6\QT_QTF ਬੂਟੇ\N_NN ਹੋਣ\V_VM_VINF ਤਾਂ\CC_CCS ਇਕ\QT_QTC ਪੀਪਾ\N_NN ਤੇਲ\N_NN ਦਾ\PSP ਆਸਾਨੀ\JJ ਨਾਲ\PSP ਨਿਕਲ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13688	ਇਸ\DM_DMD ਦੇ\PSP ਤੇਲ\N_NN ਵਿਚ\PSP ਕਿਸੇ\DM_DMD ਕਿਸਮ\N_NN ਦਾ\PSP ਜ਼ਹਿਰੀਲਾ\JJ ਤੱਤ\N_NN ਜਾਂ\CC_CCD ਨਸ਼ੇ\N_NN ਵਾਲੀ\PSP ਸਮੱਗਰੀ\N_NN ਆਦਿ\RP_CL ਨਹੀਂ\RP_NEG ਹੁੰਦੀ\V_VM_VF |\RD_PUNC
+PBAD13689	ਇਸ\DM_DMD ਦੇ\PSP ਖਾਣ\V_VM_VINF ਨਾਲ\PSP ਸਰੀਰ\N_NN ਉੱਪਰ\RB ਕੋਈ\DM_DMQ ਮਾੜਾ\JJ ਅਸਰ\N_NN ਨਹੀਂ\RP_NEG ਪੈਂਦਾ\V_VM_VF |\RD_PUNC
+PBAD13690	ਇਸ\DM_DMD ਦੇ\PSP ਤੇਲ\N_NN ਵਿਚ\PSP ਸਿਰਫ਼\RB ਇਕ\QT_QTC ਨੁਕਸ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਸ\DM_DMD ਨੂੰ\PSP ਜਿੰਨਾ\PR_PRL ਮਰਜ਼ੀ\N_NN ਗਰਮ\JJ ਕਰੋ\V_VM_VF ਇਸ\DM_DMD ਦੀ\PSP ਝੱਗ\N_NN ਆ\V_VM ਹੀ\RP_RPD ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13691	ਜਿਸ\PR_PRL ਸਮੇਂ\N_NN ਦਾਲ-ਸਬਜ਼ੀ\N_NN ਆਦਿ\RP_CL ਬਣ\V_VM_VINF ਜਾਵੇ\V_VM_VF ਜਾਂ\CC_CCD ਪਰੌਾਠਾ\N_NN ਬਣ\V_VM_VINF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCS ਝੱਗ\N_NN ਖਤਮ\JJ ਹੋ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13692	ਇਸ\DM_DMD ਬੂਟੇ\N_NN (ਫਸਲ)\N_NN ਉੱਪਰ\RB ਹੋਰ\RB ਖੋਜ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਜ਼ਰੂਰਤ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBAD13693	ਕਿਸਾਨਾਂ\N_NN ਤੱਕ\PSP ਇਸ\PR_PRP ਫਸਲ\N_NN ਦੇ\PSP ਆਧੁਨਿਕ\JJ ਢੰਗ\N_NN ,\RD_PUNC ਪ੍ਰਯੋਗ\N_NN ਪਹੁੰਚਣੇ\V_VM_VINF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13694	ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਕਿਸਾਨ\N_NN ਅਜੇ\RB ਬਹੁਤ\DM_DMQ ਜਾਣਕਾਰੀਆਂ\N_NN ਤੋਂ\PSP ਅਭਿੱਜ\JJ ਹਨ\V_VAUX |\RD_PUNC
+PBAD13695	ਜੇਕਰ\CC_CCS ਕਿਸੇ\DM_DMQ ਵੀ\RP_RPD ਕੋਲ\RB ਥੋੜ੍ਹੀ\RB ਬੇਕਾਰ\JJ ਥਾਂ\N_NN ਹੈ\V_VAUX ਤਾਂ\CC_CCS ਉਸ\PR_PRP ਵਿਚ\PSP ਬੂਟੇ\N_NN ਬੀਜ\V_VM ਕੇ\V_VM_VNF ਕਈ\DM_DMQ ਪੀਪੇ\N_NN ਤੇਲ\N_NN ਦੇ\PSP ਮੁਫ਼ਤ\JJ ਵਿਚ\PSP ਬਣਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13696	ਇਸ\PR_PRP ਦੀ\PSP ਸੁੱਕੀ\JJ ਲੱਕੜ\N_NN ਬਾਲਣ\V_VM_VINF ਦੇ\PSP ਕੰਮ\N_NN ਆ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13697	ਭਵਿੱਖ\N_NN ਵਿਚ\PSP ਕਿਸਾਨ\N_NN ਆਪਣੀ\PR_PRF ਜ਼ਮੀਨ\N_NN ਵਿਚ\PSP ਅਰਿੰਡ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਬੀਜ\V_VM ਕੇ\V_VM_VNF ਆਪਣੀ\PR_PRF ਆਮਦਨ\N_NN ਵਧਾ\RB ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13698	ਅਰਿੰਡ\N_NN ਘੱਟ\JJ ਮਿਹਨਤ\N_NN ,\RD_PUNC ਘੱਟ\JJ ਸਮਾਂ\N_NN ਅਤੇ\CC_CCD ਘੱਟ\JJ ਪੈਸਾ\N_NN ਲਗਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਵੱਧ\RB ਮੁਨਾਫ਼ਾ\N_NN ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13699	ਨਰਮੇ-ਕਪਾਹ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਖੜ੍ਹੇ\V_VM ਪਾਣੀ\N_NN ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਝਲਦੀ\V_VM_VF |\RD_PUNC
+PBAD13700	ਇਸ\PR_PRP ਲਈ\PSP ਬਰਸਾਤ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਵਿਚ\PSP ਨਰਮੇ-ਕਪਾਹ\N_NN ਦੇ\PSP ਖੇਤਾਂ\N_NN `\RD_PUNC ਚੋਂ\PSP ਫਾਲਤੂ\JJ ਪਾਣੀ\N_NN ਬਾਹਰ\RB ਕੱਢ\V_VM ਦਿਓ\V_VM_VF |\RD_PUNC
+PBAD13701	ਕਪਾਹ\N_NN ਵਿਰਲੀ\JJ ਕਰਨ\V_VM_VF ਵੇਲੇ\PSP ਨਾਈਟ੍ਰੋਜਨ\N_NN ਦੀ\PSP ਅੱਧੀ\JJ ਖੁਰਾਕ\N_NN ਪਾਓ\V_VM_VF |\RD_PUNC
+PBAD13702	ਫਸਲ\N_NN ਦੇ\PSP ਵਿਚਕਾਰ\N_NN ਪਈ\V_VM_VF ਥਾਂ\N_NN ਤੋਂ\PSP ਨਦੀਨ\N_NN ਮਾਰਨ\V_VM ਲਈ\PSP ਗਰਾਮੋਕਸੋਨ\N_NN 24\QT_QTF ਡਬਲਿਊ\N_NN ਐਸ.\N_NN ਸੀ.\N_NN (ਪੈਰਾਕੁਏਟ)\N_NN ਦਾ\PSP 500\QT_QTF ਮਿਲੀਲਿਟਰ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਜਾਂ\CC_CCD ਰਾਊਡ\N_NN ਅੱਪ/ਗਲਾਈਸੈੱਲ\N_NN 41\QT_QTF ਫੀਸਦੀ\N_NN ਐਸ.\N_NN ਐਲ.\N_NN (ਗਲਾਈਫੋਸੇਟ)\N_NN ਇਕ\QT_QTC ਲਿਟਰ\N_NN ਜਾਂ\CC_CCD ਐਕਸੈਲ\N_NN ਮੇਰਾ\PR_PRP 71\QT_QTF ਐਸ.\N_NN ਜੀ.\N_NN 600\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN 100\QT_QTF ਲੀਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਉਦੋਂ\RB ਛਿੜਕੋ\V_VM ਜਦੋਂ\PR_PRL ਫਸਲ\N_NN 6-8\QT_QTF ਹਫਤਿਆਂ\N_NN ਦੀ\PSP ਹੋ\V_VM ਜਾਵੇ\V_VM_VF ਅਤੇ\CC_CCD 40-45\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਉੱਚੀ\JJ ਹੋ\V_VM_VF ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBAD13703	ਨਦੀਨਨਾਸ਼ਕ\JJ ਜ਼ਹਿਰਾਂ\N_NN ਦੀ\PSP ਉਦੋਂ\RB ਵਰਤੋਂ\V_VM_VF ਕਰੋ\V_VM_VF ਜਦੋਂ\PR_PRL ਹਵਾ\N_NN ਨਾ\RP_NEG ਵਗਦੀ\V_VM_VF ਹੋਵੇ\V_VM_VF |\RD_PUNC
+PBAD13704	ਇਹ\PR_PRP ਵੀ\RP_RPD ਖਿਆਲ\N_NN ਰੱਖੋ\V_VM ਕਿ\CC_CCS ਨਦੀਨਨਾਸ਼ਕ\N_NN ਫਸਲ\N_NN ਦੇ\PSP ਪੱਤਿਆਂ\N_NN `\RD_PUNC ਤੇ\PSP ਨਾ\RP_NEG ਪਵੇ\V_VM_VF |\RD_PUNC
+PBAD13705	ਮਿਲੀ\N_NN ਬੱਗ\N_NN ਲਈ\PSP ਨਰਮੇ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਅਤੇ\CC_CCD ਨਦੀਨਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਲਗਾਤਾਰ\RB ਸਰਵੇਖਣ\N_NN ਕਰਦੇ\V_VM_VF ਰਹੋ\V_VM_VF |\RD_PUNC
+PBAD13706	ਪ੍ਰਭਾਵਿਤ\RB ਨਦੀਨਾਂ\N_NN ਨੂੰ\PSP ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਨਸ਼ਟ\V_VM ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ਅਤੇ\CC_CCD ਨਰਮੇ\N_NN ਦੇ\PSP ਸਿਰਫ਼\RB ਪ੍ਰਭਾਵਿਤ\RB ਬੂਟਿਆਂ\N_NN ਜਾਂ\CC_CCD ਕਤਾਰਾਂ\N_NN `\RD_PUNC ਤੇ\PSP 500\QT_QTF ਮਿ.\N_NN ਲਿ.\N_NN ਬਪਰੋਫੈਜ਼ਿਨ\N_NN 25\QT_QTF ਤਾਕਤ\N_NN ਜਾਂ\CC_CCD 250\QT_QTF ਗ੍ਰਾਮ\N_NN ਥਾਇਓਡੀਕਾਰਥ\N_NN 75\QT_QTF ਤਾਕਤ\N_NN ਜਾਂ\CC_CCD 1000\QT_QTF ਗ੍ਰਾਮ\N_NN ਕਾਰਬਰਿਲ\N_NN 50\QT_QTF ਤਾਕਤ\N_NN ਜਾਂ\CC_CCD 500\QT_QTF ਮਿ.\N_NN ਲੀ.\N_NN ਪਰੋਫਿਨੋਫਾਸ\N_NN 50\QT_QTF ਤਾਕਤ\N_NN ਜਾਂ\CC_CCD 800\QT_QTF ਮਿ.\N_NN ਲੀ.\N_NN ਕੁਇਨਲਫਾਸ\N_NN 25\QT_QTF ਤਾਕਤ\N_NN ਜਾਂ\CC_CCD 800\QT_QTF ਗ੍ਰਾਮ\N_NN ਐਸੀਫੇਟ\N_NN 75\QT_QTF ਤਾਕਤ\N_NN ਜਾਂ\CC_CCD 2000\QT_QTF ਮਿ.\N_NN ਲੀ.\N_NN ਕਲੋਰਪਾਈਰੀਫਾਸ\N_NN 20\QT_QTF ਤਾਕਤ\N_NN ਦਾ\PSP ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF |\RD_PUNC
+PBAD13707	ਇਸ\PR_PRP ਦੇ\PSP ਫੈਲਾਅ\V_VM ਨੂੰ\PSP ਰੋਕਣ\V_VM ਲਈ\PSP ਕਾਮਿਆਂ\N_NN ਨੂੰ\PSP ਮਿਲੀ\N_NN ਬੱਗ\N_NN ਪ੍ਰਭਾਵਿਤ\RB ਖੇਤਾਂ\N_NN ਵਿਚ\PSP ਬਹੁਤਾ\DM_DMQ ਫਿਰਨ-ਤੁਰਨ\V_VM_VF ਨਾ\RP_NEG ਦਿਓ\V_VM_VF |\RD_PUNC
+PBAD13708	ਨਰਮੇ\N_NN ਦੇ\PSP ਲੀਫ਼\N_NN ਕਰਲ\N_NN ਵਾਇਰਸ\N_NN ਵਾਲੇ\PSP ਬੂਟੇ\N_NN ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਨਸ਼ਟ\N_NN ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF |\RD_PUNC
+PBAD13709	ਕੰਘੀ\N_NN ਬੂਟੀ\N_NN ਤੇ\N_NN ਪੀਲੀ\JJ ਬੂਟੀ\N_NN ਤੋਂ\PSP ਖੇਤਾਂ\N_NN ਦਾ\PSP ਆਲਾ-ਦੁਆਲਾ\RB ਮੁਕਤ\V_VM ਰੱਖੋ\V_VM_VF |\RD_PUNC
+PBAD13710	ਪਾਣੀ\N_NN ਲਾਉਣ\V_VM `\RD_PUNC ਤੇ\CC_CCD ਮੀਂਹ\N_NN ਪਿੱਛੋਂ\RB ਕੁਝ\RB ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਪੱਤੇ\N_NN ਲੁੜਕ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCS 10\QT_QTF ਮਿਲੀਗਰਾਮ\N_NN ਕੋਬਾਲਟ\N_NN ਕਲੋਰਾਈਡ\N_NN ਪ੍ਰਤੀ\N_NN ਲੀਟਰ\N_NN ਪਾਣੀ\N_NN ਦੇ\PSP ਘੋਲ\N_NN ਦਾ\PSP ਛਿੜਕਾਅ\N_NN ਇਨ੍ਹਾਂ\PR_PRP ਬੂਟਿਆਂ\N_NN ਉੱਪਰ\RB ਕਰੋ\V_VM_VF |\RD_PUNC
+PBAD13711	ਪੰਜਾਬ\N_NNP ਸਬਸੋਇਲ\N_NN ਵਾਟਰ\N_NN ਪ੍ਰੀਜ਼ਰਵੇਸ਼ਨ\N_NN ਐਕਟ\N_NN 2008\QT_QTF ਦੇ\PSP ਅਧੀਨ\N_NN ਉਹ\PR_PRP ਅੱਜ\RB ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਝੋਨੇ\N_NN ਦੀ\PSP ਲੁਆਈ\V_VM ਸ਼ੁਰੂ\V_VM_VF ਨਹੀਂ\RP_NEG ਸਨ\V_VAUX ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF |\RD_PUNC
+PBAD13712	ਪੰਜਾਬ\N_NNP ਰਾਜ\N_NN ਬਿਜਲੀ\N_NN ਨਿਗਮ\N_NN ਨੇ\PSP ਵੀ\RP_RPD ਝੋਨਾ\N_NN ਲਾਉਣ\V_VM_VF ਲਈ\PSP ਬਿਜਲੀ\N_NN 10\QT_QTF ਜੂਨ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਹੀ\RP_RPD ਉਪਲੱਬਧ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਪ੍ਰੋਗਰਾਮ\N_NN ਉਲੀਕਿਆ\V_VM ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBAD13713	ਪਿਛਲੇ\RB ਸਾਲ\N_NN ਝੋਨੇ\N_NN ਦੀ\PSP ਲੁਆਈ\V_VM_VF 28.18\QT_QTF ਲੱਖ\N_NN ਹੈਕਟੇਅਰ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਹੋਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBAD13714	ਇਸ\PR_PRP ਸਾਲ\N_NN ਵੀ\RP_RPD ਲਗਭਗ\RB 28\QT_QTF ਕੁ\N_NN ਲੱਖ\QT_QTO ਹੈਕਟੇਅਰ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਝੋਨਾ\N_NN ਅਤੇ\CC_CCD ਬਾਸਮਤੀ\N_NN ਲਾਏ\V_VM_VF ਜਾਣ\V_VM_VINF ਦੀ\PSP ਸੰਭਾਵਨਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13715	ਅੱਜ\RB ਕਿਸਾਨ\N_NN ਆਪਣੇ\PR_PRF ਖੇਤਾਂ\N_NN ਨੂੰ\PSP ਕੱਦੂ\N_NN ਕਰਕੇ\PSP ਝੋਨਾ\N_NN ਲਾਉਣ\V_VM_VINF ਦੀ\PSP ਤਿਆਰੀ\V_VM `\RD_PUNC ਚ\PSP ਹਨ\V_VAUX |\RD_PUNC
+PBAD13716	ਕੁਝ\RB ਕਿਸਾਨਾਂ\N_NN ਨੇ\PSP ਲਾਉਣਾ\V_VM_VINF ਸ਼ੁਰੂ\V_VM ਕਰ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13717	ਖੇਤ\N_NN ਮਜ਼ਦੂਰਾਂ\N_NN ਦੀ\PSP ਬੜੀ\DM_DMQ ਘਾਟ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBAD13718	ਜਿਨ੍ਹਾਂ\PR_PRL ਕਿਸਾਨਾਂ\N_NN ਨੇ\PSP ਆਪਣੀ\PR_PRF ਜ਼ਮੀਨ\N_NN ਲੇਜ਼ਰ\N_NN ਕਰਾਹੇ\N_NN ਨਾਲ\PSP ਪੱਧਰ\JJ ਕਰਵਾਉਣੀ\V_VM_VINF ਸੀ\V_VAUX ਉਹ\PR_PRP ਕਰਵਾ\V_VM ਚੁੱਕੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13719	ਇਸ\PR_PRP ਨਾਲ\PSP ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਘੱਟ\JJ ਪਾਣੀ\N_NN ਦੀ\PSP ਲੋੜ\V_VM ਪਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBAD13720	ਕਿਸਾਨ\N_NN ਪੀ.\N_NN ਆਰ.\N_NN 122,\QT_QTF ਪੀ.\N_NN ਆਰ.\N_NN 121,\QT_QTF ਪੂਸਾ\N_NN 44,\QT_QTF ਪੀ.\N_NN ਆਰ.\N_NN 118,\QT_QTF ਪੀ.\N_NN ਆਰ.\N_NN 114\QT_QTF ਕਿਸਮਾਂ\N_NN ਵਧੇਰੇ\RB ਲਾ\V_VM_VF ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13721	ਇਨ੍ਹਾਂ\PR_PRP ਹੀ\RP_RPD ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਕਿਸਾਨਾਂ\N_NN ਦੀ\PSP ਬਹੁਮਤ\JJ ਨੇ\PSP ਪਨੀਰੀ\N_NN ਤਿਆਰ\V_VM ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13722	ਇਸ\PR_PRP ਵਾਰ\PSP ਐਚ.\N_NN ਕੇ.\N_NN ਆਰ.\N_NN 47\QT_QTF ਤੇ\CC_CCD ਐਚ.\N_NN ਕੇ.\N_NN ਆਰ.\N_NN 127\QT_QTF ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਲੁਆਈ\N_NN ਨਾਮਾਤਰ\RP_NEG ਹੀ\RP_RPD ਕੀਤੇ\V_VM_VF ਜਾਣ\V_VM_VINF ਦੀ\PSP ਸੰਭਾਵਨਾ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13723	ਵਧੇਰੇ\RB ਝਾੜ\N_NN ਤੇ\CC_CCD ਚੰਗੀ\JJ ਫ਼ਸਲ\N_NN ਲੈਣ\V_VM_VINF ਲਈ\PSP ਲੁਆਈ\V_VM ਦੇ\PSP ਸਮੇਂ\N_NN ਦੀ\PSP ਬੜੀ\DM_DMQ ਮਹੱਤਤਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBAD13724	ਇਸ\PR_PRP ਲਈ\PSP ਸਿਹਤਮੰਦ\JJ ਪਨੀਰੀ\N_NN ਦੀ\PSP ਉਪਲੱਬਧਤਾ\JJ ਵੀ\RP_RPD ਹੋਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13725	ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP 30\QT_QTF ਦਿਨ\N_NN ਦੀ\PSP ਪਨੀਰੀ\N_NN ਹੋਣ\V_VM_VINF ਤੋਂ\PSP ਬਾਅਦ\RB ਇਸ\PR_PRP ਨੂੰ\PSP ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਖੇਤ\N_NN ਵਿਚ\PSP ਲਾ\V_VM ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13726	ਲੰਮਾ\JJ ਸਮਾਂ\N_NN ਲੈਣ\V_VM_VINF ਵਾਲੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਪਨੀਰੀ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਜੇ\PR_PRL ਥੋੜ੍ਹੀ\JJ ਬਹੁਤੀ\DM_DMQ ਵੱਧ\JJ ਵੀ\RP_RPD ਹੋ\V_VM_VNF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਵੀ\RP_RPD ਪਨੀਰੀ\N_NN ਵਰਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13727	ਪਰ\CC_CCS ਥੋੜ੍ਹੇ\JJ ਸਮੇਂ\N_NN `\RD_PUNC ਚ\PSP ਪੱਕਣ\V_VM ਵਾਲੀ\PSP ਪਨੀਰੀ\N_NN ਦੀ\PSP ਉਮਰ\N_NN 2530\QT_QTF ਦਿਨ\N_NN ਤੋਂ\PSP ਵੱਧ\RB ਨਹੀਂ\RP_NEG ਹੋਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF |\RD_PUNC
+PBAD13728	ਪਨੀਰੀ\N_NN ਨੂੰ\PSP ਪੁੱਟਣ\V_VM ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਪਾਣੀ\N_NN ਲਾ\V_VM_VNF ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13729	ਜੜ੍ਹਾਂ\N_NN ਨੂੰ\PSP ਪੁੱਟਣ\V_VM_VINF ਲਈ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਪਾਣੀ\N_NN ਵਿਚ\PSP ਧੋ\V_VM ਦੇਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBAD13730	ਖੇਤ\N_NN ਵਿਚ\PSP ਪਨੀਰੀ\N_NN ਕਤਾਰਾਂ\N_NN ਵਿਚ\PSP ਲਾਉਣ\V_VM_VINF ਦੀ\PSP ਕੋਸ਼ਿਸ਼\N_NN ਕਰਨੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13731	ਚੰਗੇ\JJ ਕੱਦੂ\N_NN ਕੀਤੇ\V_VM_VF ਖੇਤ\N_NN `\RD_PUNC ਚ\PSP 22\QT_QTF ਬੂਟੇ\N_NN ਲਾਉਣੇ\V_VM_VINF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13732	ਇਕ\QT_QTC ਵਰਗ\N_NN ਮੀਟਰ\N_NN `\RD_PUNC ਚ\PSP 33\QT_QTF ਬੂਟੇ\N_NN ਲਾਇਆਂ\V_VM_VF ਵਧੇਰੇ\RB ਝਾੜ\N_NN ਨਿਕਲੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13733	ਆਮ\RB ਤੌਰ\PSP `\RD_PUNC ਤੇ\PSP ਪ੍ਰਵਾਸੀ\JJ ਖੇਤ\N_NN ਮਜ਼ਦੂਰ\N_NN ਠੇਕੇ\JJ `\RD_PUNC ਤੇ\CC_CCD ਝੋਨਾ\N_NN ਛਿੱਦਾ\N_NN ਲਾਉਂਦੇ\N_NN ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਸਥਾਨਕ\N_NN ਲੇਬਰ\N_NN ਸੰਘਣਾ\N_NN ਲਾਉਂਦੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBAD13734	ਦੋਵੇਂ\QT_QTO ਹਾਲਤਾਂ\N_NN `\RD_PUNC ਚ\PSP ਫ਼ਸਲ\N_NN ਦਾ\PSP ਝਾੜ\N_NN ਪ੍ਰਭਾਵਿਤ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13735	ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਡੂੰਘਾਈ\JJ 23\QT_QTF ਸੈਂਟੀਂਮੀਟਰ\N_NN ਖੇਤ\N_NN `\RD_PUNC ਚ\PSP ਸਿੱਧੇ\JJ ਖੜ੍ਹੇ\V_VM ਕੀਤੇ\V_VM_VF ਜਾਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBAD13736	ਅਜਿਹਾ\RB ਕੀਤਿਆਂ\V_VM_VF ਬੂਟਿਆਂ\N_NN ਦਾ\PSP ਬੂਝਾ\N_NN ਵਧੀਆ\JJ ਬਣੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13737	ਪਨੀਰੀ\N_NN ਖੇਤ\N_NN `\RD_PUNC ਚ\PSP ਲਾਉਣ\V_VM_VINF ਤੋਂ\PSP ਬਾਅਦ\RB 23\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਅੰਦਰਅੰਦਰ\RB ਨਦੀਨਨਾਸ਼ਕ\N_NN ਦਵਾਈਆਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰ\V_VM_VF ਦੇਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13738	ਨਦੀਨਨਾਸ਼ਕ\N_NN ਦਵਾਈਆਂ\N_NN 5060\QT_QTF ਕਿਲੋ\N_NN ਰੇਤ\N_NN `\RD_PUNC ਚ\PSP ਮਿਲਾ\V_VM ਕੇ\V_VM_VNF 5\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਖੜ੍ਹੇ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਇਕਸਾਰ\JJ ਛੱਟਾ\N_NN ਦੇ\PSP ਕੇ\V_VM_VNF ਪਾ\V_VM ਦੇਣੀਆਂ\V_VM_VF ਚਾਹੀਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13739	ਨਦੀਨਨਾਸ਼ਕ\N_NN ਦਵਾਈ\N_NN ਇਨ੍ਹਾਂ\PR_PRP ਗਰੁੱਪਾਂ\N_NN `\RD_PUNC ਚੋਂ\PSP ਚੁਣ\V_VM_VINF ਲੈਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13740	ਕਿਸੇ\DM_DMQ ਇਕ\QT_QTC ਗਰੁੱਪ\N_NN ਦੀ\PSP ਮਤਵਾਤਰ\N_NN ਹਰ\RB ਸਾਲ\N_NN ਵਰਤੋਂ\DM_DMQ ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF |\RD_PUNC
+PBAD13741	ਇਨ੍ਹਾਂ\PR_PRP ਦਵਾਈਆਂ\N_NN ਨੂੰ\PSP ਵਰਤਣ\V_VM ਵੇਲੇ\PSP ਦਸਤਾਨੇ\N_NN ਜ਼ਰੂਰ\RB ਪਹਿਨ\V_VM ਲੈਣੇ\V_VM_VINF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13742	ਝੋਨੇ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਦੇ\PSP ਵਿਕਾਸ\RB ਅਤੇ\CC_CCD ਵਾਧੇ\RB ਲਈ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਸਖ਼ਤ\JJ ਲੋੜ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBAD13743	ਪਹਿਲੇ\RB ਦੋ\QT_QTC ਹਫ਼ਤੇ\N_NN ਤੱਕ\PSP ਪਾਣੀ\N_NN ਖੇਤ\N_NN ਵਿਚ\PSP ਖੜ੍ਹਾ\V_VM ਰਹਿਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13744	ਪਾਣੀ\N_NN ਦੀ\PSP ਉਪਲੱਬਧਤਾ\N_NN ਨੂੰ\PSP ਮੁੱਖ\JJ ਰੱਖਦਿਆਂ\V_VM_VF ਹੀ\RP_RPD ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਆਪਣੇ\PR_PRF ਖੇਤਾਂ\N_NN ਦੀ\PSP ਲੁਆਈ\V_VM ਦਾ\PSP ਸ਼ਡਿਊਲ\N_NN ਬਣਾਉਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13745	ਦੋ\QT_QTC ਹਫ਼ਤੇ\N_NN ਦੇ\PSP ਬਾਅਦ\RB ਪਾਣੀ\N_NN ਉਸ\PR_PRP ਵੇਲੇ\PSP ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ਜਦੋਂ\PR_PRL ਪਹਿਲਾ\QT_QTO ਪਾਣੀ\N_NN ਖੇਤ\N_NN ਵਿਚ\PSP ਜਜ਼ਬ\N_NN ਹੋਏ\V_VM_VF ਨੂੰ\PSP ਇੱਕਦੋ\QT_QTC ਦਿਨ\N_NN ਹੋ\V_VM_VF ਗਏ\V_VM_VF ਹੋਣ\V_VM_VINF |\RD_PUNC
+PBAD13746	ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਇਹ\PR_PRP ਹਮੇਸ਼ਾ\RB ਧਿਆਨ\N_NN ਰੱਖਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਖੇਤ\N_NN ਵਿਚ\PSP ਤਰੇੜਾਂ\N_NN ਨਾ\RP_NEG ਪੈਣ\V_VM_VINF |\N_NN
+PBAD13747	ਪਾਣੀ\N_NN ਬਚਾਉਣ\V_VM_VINF ਲਈ\PSP ਟੈਸ਼ੀਓਮੀਟਰ\N_NN ਜੰਤਰ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰੋ\V_VM_VF |\RD_PUNC
+PBAD13748	ਖੇਤਾਂ\N_NN ਵਿਚ\PSP ਆਮ\JJ ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD 10\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਤੋਂ\PSP ਵੱਧ\JJ ਪਾਣੀ\N_NN ਖੜ੍ਹਾ\V_VM ਕਰਨ\V_VM_VF ਦੀ\PSP ਲੋੜ\N_NN ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBAD13749	ਖੇਤੀ\N_NN ਮਾਹਿਰ\JJ ਅਤੇ\CC_CCD ਪੰਜਾਬ\N_NNP ਖੇਤੀ\N_NN ਯੂਨੀਵਰਸਿਟੀ\N_NN 110\QT_QTF ਕਿਲੋ\N_NN ਯੂਰੀਆ,\N_NN 75\QT_QTF ਕਿਲੋ\N_NN ਸੁਪਰਫਾਸਫੇਟ\N_NN (ਜੇ\N_NN ਕਣਕ\N_NN ਵਿਚ\PSP ਡੀ.\N_NN ਏ.\N_NN ਪੀ.\N_NN ਰਾਹੀਂ\PSP ਜਾਂ\CC_CCD ਸੁਪਰਫਾਸਫੇਟ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਇਹ\PR_PRP ਤੱਤ\N_NN ਪੂਰਾ\JJ ਨਾ\RP_NEG ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੋਵੇ)\V_VM_VF ਅਤੇ\CC_CCD 20\QT_QTF ਕਿਲੋ\N_NN ਮਿਊਰੇਟ\N_NN ਆਫ਼\N_NN ਪੋਟਾਸ਼\N_NN ਵਰਤਣ\V_VM ਦੀ\PSP ਸਿਫਾਰਿਸ਼\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13750	ਪੰਜਾਬ\N_NNP ਦੀਆਂ\PSP ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਜ਼ਿੰਕ\N_NN ਦੀ\PSP ਵੀ\RP_RPD ਘਾਟ\JJ ਦੇਖੀ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\V_VM_VF
+PBAD13751	ਇਸ\PR_PRP ਲਈ\PSP ਕੱਦੂ\N_NN ਕਰਨ\N_NN ਵੇਲੇ\PSP 25\QT_QTF ਕਿਲੋ\N_NN ਜ਼ਿੰਕ\N_NN ਸਲਫੇਟ,\N_NN ਹੈਫਟਾਹਾਈਡਰੇਟ\N_NN (21\QT_QTF ਪ੍ਰਤੀਸ਼ਤ)\N_NN ਜਾਂ\CC_CCD 16\QT_QTF ਕਿਲੋ\N_NN ਜ਼ਿੰਕ\N_NN ਸਲਫੇਟ\N_NN ਮੋਨੋਹਾਈਡਰੇਟ\N_NN (33\QT_QTF ਪ੍ਰਤੀਸ਼ਤ)\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਨਾਲ\PSP ਖਿਲਾਰ\V_VM ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13752	ਕੱਲਰੀ\N_NN ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਢਾਈ\QT_QTO ਕਿਲੋ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਸਲਫਰ\N_NN ਪਾਉਣਾ\V_VM_VINF ਵੀ\RP_RPD ਫਾਇਦੇਮੰਦ\JJ ਰਹੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13753	ਜੇ\PR_PRL ਫ਼ਸਲ\N_NN ਦੀ\PSP ਬਿਜਾਈ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਵੀ\RP_RPD ਜ਼ਿੰਕ\N_NN ਦੀ\PSP ਘਾਟ\JJ ਦਿਖਾਈ\V_VM ਦੇਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਜ਼ਿੰਕ\N_NN ਸਲਫੇਟ\N_NN ਨੂੰ\PSP ਛੱਟੇ\N_NN ਨਾਲ\PSP ਦਿੱਤਾ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13754	ਜੇ\PR_PRL ਲੋਹੇ\N_NN ਦੀ\PSP ਘਾਟ\JJ ਵਿਖਾਈ\V_VM ਦੇਵੇ\V_VM_VF ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਦੇ\PSP ਨਵੇਂ\JJ ਨਿਕਲ\V_VM ਰਹੇ\V_VM_VF ਪੱਤੇ\N_NN ਪੀਲੇ\JJ ਪੈ\V_VM_VNF ਜਾਣ\V_VM_VINF ਅਤੇ\CC_CCD ਬੂਟੇ\N_NN ਮਰਨ\V_VM ਲੱਗ\V_VM_VF ਜਾਣ\V_VM_VINF ਤਾਂ\CC_CCD ਛੇਤੀ-ਛੇਤੀ\RB ਫ਼ਸਲ\N_NN ਨੂੰ\PSP ਭਰਵਾਂ\JJ ਪਾਣੀ\N_NN ਦਿਓ\V_VM_VF |\RD_PUNC
+PBAD13755	ਕਲਰਾਠੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਝੋਨੇ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਜਿਪਸਮ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰੋ\V_VM_VF |\RD_PUNC
+PBAD13756	ਇਸ\PR_PRP ਵੇਲੇ\PSP ਪੰਜਾਬ\N_NNP ਦਾ\PSP ਕੋਈ\DM_DMQ 75\QT_QTF ਹਜ਼ਾਰ\QT_QTC ਹੈਕਟੇਅਰ\N_NN ਰਕਬਾ\N_NN ਵੱਖ-ਵੱਖ\RB ਫ਼ਸਲਾਂ\N_NN ਅਧੀਨ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBAD13757	ਕਿੰਨੂ,\N_NN ਅਮਰੂਦ,\N_NN ਅੰਬ,\N_NN ਨਾਸ਼ਪਾਤੀ,\N_NN ਬੇਰ,\N_NN ਲੀਚੀ,\N_NN ਆੜੂ\N_NN ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਮੁੱਖ\JJ ਬਾਗ਼\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBAD13758	ਇਸ\PR_PRP ਵੇਲੇ\PSP ਗਰਮੀ\N_NN ਦਾ\PSP ਮੌਸਮ\N_NN ਪੂਰੇ\RB ਜ਼ੋਰਾਂ\RB `\RD_PUNC ਤੇ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBAD13759	ਬਾਗ਼\N_NN ਲਈ\PSP ਪਾਣੀ\N_NN ਦਾ\PSP ਯੋਗ\JJ ਪ੍ਰਬੰਧ\N_NN ਕਰੋ\V_VM_VF |\RD_PUNC
+PBAD13760	ਸਫੈਦਾ,\N_NN ਪਾਪੂਲਰ,\N_NN ਜਾਮਨ,\N_NN ਦੇਸੀ\JJ ਅੰਬ\N_NN ਆਦਿ\RP_CL ਬੂਟੇ\N_NN ਇਸ\PR_PRP ਕੰਮ\N_NN ਲਈ\PSP ਬੜੇ\RB ਸਹਾਈ\V_VM ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13761	ਨਵੇਂ\JJ ਲਾਏ\V_VM_VF ਬਾਗ਼\N_NN ਦੀ\PSP ਸੰਭਾਲ\N_NN :\RD_PUNC ਕਿੰਨੂ\N_NN ,\RD_PUNC ਅਮਰੂਦ\N_NN ,\RD_PUNC ਲੀਚੀ\N_NN ,\RD_PUNC ਆੜੂ\N_NN ,\RD_PUNC ਅੰਬ\N_NN ਆਦਿ\RP_CL ਬਾਗ਼\N_NN ਦੇ\PSP ਨਵੇਂ\JJ ਲਾਏ\V_VM_VF ਬੂਟੇ\N_NN ਗਰਮੀਆਂ\N_NN ਦੀ\PSP ਲੋਅ\N_NN ਤੋਂ\PSP ਬਚਾਉਣੇ\V_VM_VINF ਅਤਿ\JJ ਜ਼ਰੂਰੀ\RB ਹਨ\V_VAUX |\RD_PUNC
+PBAD13762	ਇਨ੍ਹਾਂ\PR_PRP ਨਵੇਂ\JJ ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਸਰਕੰਡੇ\N_NN ਨਾਲ\PSP ਢੱਕੋ\V_VM |\RD_PUNC
+PBAD13763	ਬੂਟਿਆਂ\N_NN ਦੇ\PSP ਚੌਗਿਰਦੇ\RB ਤੇ\CC_CCD ਜੰਤਰ\N_NN (ਝਿੰਞਣ)\N_NN ਬੀਜਣ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਸਹਾਈ\V_VM ਹੋ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13764	ਜੰਤਰ\N_NN ਦਾ\PSP ਬੀਜ\N_NN ਬੂਟੇ\N_NN ਦੁਆਲੇ\RB ਫਰਵਰੀ\N_NN ਅੱਧ\JJ ਵਿਚ\PSP ਬੀਜਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13765	ਇਸ\PR_PRP ਅਪ੍ਰੈਲ\N_NN ਤੱਕ\PSP ਜੰਤਰ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਬਾਗ਼\N_NN ਨੂੰ\PSP ਲਗਾਉਣ\V_VM_VINF ਲਈ\PSP ਚੌਖਾ\JJ ਉੱਚੇ\JJ ਹੋ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13766	ਇਸ\PR_PRP ਕੰਮ\N_NN ਲਈ\PSP ਸੈਡਿਗ\N_NN ਨੋਟ\N_NN ਵੀ\RP_RPD ਵਰਤਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13767	ਗਰਮੀ\N_NN ਕਾਰਨ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਛੋਟੇ\JJ ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਘੱਟ\JJ ਵਕਫੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਪਾਣੀ\N_NN ਲਾਓ\V_VM !\RD_PUNC
+PBAD13768	ਨਿੰਬੂ\N_NN ਜਾਤੀ\N_NN ਬਾਗ਼\N_NN :\RD_PUNC ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਕੁੱਲ\RB ਰਕਬੇ\N_NN ਦਾ\PSP ਤਕਰੀਬਨ\RB 60\QT_QTF ਫੀਸਦੀ\N_NN ਰਕਬਾ\N_NN ਨਿੰਬੂ\N_NN ਜਾਤੀ\N_NN ਫਲਾਂ\N_NN ਅਧੀਨ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBAD13769	ਨਿੰਬੂ\N_NN ਜਾਤੀ\N_NN ਬਾਗ਼\N_NN (ਕਿੰਨੂ,\N_NN ਮਾਲਟਾ\N_NN ਨਿੰਬੂ\N_NN ਆਦਿ)\RP_CL ਬਾਗ਼\N_NN ਦਾ\PSP ਜੇਕਰ\CC_CCS ਗਰਮੀ\N_NN ਦੌਰਾਨ\RB ਖਿਆਲ\N_NN ਨਹੀਂ\RP_NEG ਰੱਖਾਂਗੇ\V_VM_VF ਤਾਂ\CC_CCD ਸਾਨੂੰ\PR_PRP ਵਿਤੀ\N_NN ਨੁਕਸਾਨ\RB ਉਠਾਉਣਾ\V_VM_VINF ਪਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBAD13770	ਗਰਮੀ\N_NN ਨਾਲ\PSP ਫੁੱਲ\N_NN ਅਤੇ\CC_CCD ਫਲ\N_NN ਦਾ\PSP ਘੇਰਾ\N_NN ਬਹੁਤ\DM_DMQ ਹੋ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13771	ਮਈ-ਜੂਨ\N_NN ਦੌਰਾਨ\RB ਆਮ\JJ ਨਾਲੋਂ\PSP ਘੱਟ\JJ ਵਖਫੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਸਿੰਚਾਈ\N_NN ਕਰੋ\V_VM_VF !\RD_PUNC
+PBAD13772	ਜੇਕਰ\CC_CCS ਤੁਸੀਂ\PR_PRP ਡਿਪ\N_NN ਸਿਸਟਮ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰ\V_VM_VF ਰਹੇ\V_VM_VF ਹੋ\V_VAUX ਤਾਂ\CC_CCD ਦੋ,\QT_QTC ਚਾਰ,\QT_QTC ਛੇ,\QT_QTC ਅੱਠ\QT_QTC ਸਾਲ\N_NN ਦੇ\PSP ਬਾਗ਼\N_NN ਨੂੰ\PSP ਕ੍ਰਮਵਾਰ\N_NN 15,\QT_QTF 30,\QT_QTF 45,\QT_QTF 65\QT_QTF ਲੀਟਰ\N_NN ਪਾਣੀ\N_NN ਦੀ\PSP ਪ੍ਰਤੀ\N_NN ਦਿਨ\N_NN ਜ਼ਰੂਰਤ\V_VM ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13773	ਨਾਸ਼ਪਾਤੀ\N_NN :\RD_PUNC ਮਈ\N_NN ਜੂਨ\N_NN ਦਾ\PSP ਮਹੀਨਾ\N_NN ਨਾਸ਼ਪਾਤੀ\N_NN ਬਾਗ਼\N_NN ਲਈ\PSP ਬੜੇ\RB ਕਹਿਰ\V_VM ਦਾ\PSP ਮਹੀਨਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13774	ਜਿਸ\PR_PRL ਬਾਗ਼ਬਾਨ\N_NN ਨੇ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਦਿਨਾਂ\N_NN ਦੌਰਾਨ\RB ਬਾਗ਼ਾਂ\N_NN ਦੀ\PSP ਸੁਚੱਜੀ\JJ ਸਾਂਭ\N_NN ਸੰਭਾਲ\N_NN ਕਰ\V_VM_VF ਲਈ\PSP ਉਸਨੇ\PR_PRP ਆਪਣੇ\PR_PRF ਬਾਗ਼\N_NN ਦੇ\PSP ਇਸ\PR_PRP ਸਾਲ\N_NN ਦੇ\PSP ਫਲ\N_NN ਦੀ\PSP ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਸਗੋਂ\CC_CCD ਅਗਲੇ\RB ਸਾਲ\N_NN ਦਾ\PSP ਫਲ\N_NN ਵੀ\RP_RPD ਬਚਾਅ\V_VM ਲਿਆ\V_VM_VF |\RD_PUNC
+PBAD13775	ਇਨ੍ਹਾਂ\PR_PRP ਮਹੀਨਿਆਂ\N_NN ਦੌਰਾਨ\RB ਬਾਗ਼\N_NN ਨੂੰ\PSP 5-7\QT_QTF ਦਿਨਾਂ\N_NN ਦੇ\PSP ਵਕਫੇ\N_NN ਨਾਲ\PSP ਪਾਣੀ\N_NN ਲਾਓ\V_VM_VF |\RD_PUNC
+PBAD13776	ਮਾਈਟ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN ਦੇ\PSP ਬਚਾਅ\V_VM ਲਈ\PSP ਹੋਰ\RB ਦਵਾਈਆਂ\N_NN ਤੋਂ\PSP ਬਿਨਾਂ\RP_NEG ਇਕੱਲੇ\RB ਪਾਣੀ\N_NN ਦੀ\PSP ਸਪਰੇਅ\N_NN ਵੀ\RP_RPD ਅਸਰ\N_NN ਕਰ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13777	ਅਮਰੂਦ\N_NN :\RD_PUNC ਅਮਰੂਦਾਂ\N_NN ਦੇ\PSP ਨਵੇਂ\JJ ਬਾਗ਼ਾਂ\N_NN ਨੂੰ\PSP ਗਰਮੀਆਂ\N_NN ਵਿਚ\PSP ਹਫਤੇ\N_NN ਪਿਛੋਂ\RB ਅਤੇ\CC_CCD ਵੱਡੇ\JJ ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP 2-3\QT_QTF ਹਫਤਿਆਂ\N_NN ਬਾਅਦ\RB ਪਾਣੀ\N_NN ਲਗਾਓ\V_VM_VF |\RD_PUNC
+PBAD13778	ਜੂਨ\N_NN ਮਹੀਨੇ\N_NN ਵਿਚ\PSP ਬਾਗ਼\N_NN ਨੂੰ\PSP ਖਾਦ\N_NN ਪਾਓ\V_VM_VF |\RD_PUNC
+PBAD13779	ਆੜੂ\N_NN /\RD_PUNC ਅਲੂਚਾ\N_NN :\RD_PUNC ਆੜੂ\N_NN /\RD_PUNC ਅਲੂਚਾ\N_NN ਬਾਗ਼\N_NN ਨੂੰ\PSP ਫਲ\N_NN ਮਾਰਚ\N_NN ਮਹੀਨੇ\N_NN ਦੌਰਾਨ\RB ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBAD13780	ਫਲ\N_NN ਪੱਕਣ\V_VM_VINF ਤੋਂ\PSP 25-30\QT_QTF ਦਿਨ\N_NN ਪਹਿਲਾਂ\RB ਬੂਟਿਆਂ\N_NN ਦੀ\PSP ਸਿੰਚਾਈ\N_NN ਦਾ\PSP ਸਭ\RB ਤੋਂ\PSP ਲੋੜੀਂਦਾ\RB ਸਮਾਂ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBAD13781	ਇਸ\PR_PRP ਲਈ\PSP ਆੜੂ\N_NN ਦੀ\PSP ਸਿੰਚਾਈ\N_NN ਦਾ\PSP ਇਹ\PR_PRP ਸਭ\RB ਤੋਂ\PSP ਨਾਜ਼ੁਕ\JJ ਸਮਾਂ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBAD13782	ਲੀਚੀ:ਲੀਚੀ\N_NN ਦੇ\PSP ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਬੜੇ\RB ਧਿਆਨ\N_NN ਨਾਲ\PSP ਪਾਣੀ\N_NN ਦੇਣ\V_VM_VINF ਦੀ\PSP ਜ਼ਰੂਰਤ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBAD13783	ਛੋਟੇ\JJ ਬੂਟਿਆਂ\N_NN ਨੂੰ\PSP ਅਪ੍ਰੈਲ\N_NN ਤੋਂ\PSP ਜੂਨ\N_NN ਤੱਕ\PSP ਹਫਤੇ\N_NN ਵਿਚ\PSP ਦੋ\QT_QTC ਪਾਣੀਆਂ\N_NN ਦੀ\PSP ਲੋੜ\RB ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13784	ਇਨ੍ਹਾਂ\PR_PRP ਹਫਤਿਆਂ\N_NN ਵਿਚ\PSP ਬਾਗ਼\N_NN ਨੂੰ\PSP ਦੋ\QT_QTC ਵਾਰ\N_NN ਭਰਵਾਂ\JJ ਪਾਣੀ\N_NN ਦੇਣ\V_VM_VINF ਨਾਲ\PSP ਫਲ\N_NN ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਵੱਧਦੇ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBAD13785	ਅੰਬ\N_NN :\RD_PUNC ਅੰਬ\N_NN ਦੇ\PSP ਵੱਡੇ\JJ ਬਾਗ਼ਾਂ\N_NN ਦੀਆਂ\PSP ਜੜਾਂ\N_NN ਬਹੁਤ\DM_DMQ ਡੂੰਘੀਆਂ\JJ ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13786	ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB ਪੈਦਾ\V_VM_VF ਹੋਣ\V_VM_VINF ਵਾਲੀ\PSP ਮੱਕੀ\N_NN ਨਾਲ\PSP ਅਜਿਹੀਆਂ\RB ਲੋੜਾਂ\N_NN ਪੂਰੀਆਂ\RB ਕਰਨ\PSP ਦੇ\PSP ਨਾਲ\PSP ਹੀ\RP_RPD ਸਰਕਾਰ\N_NN ਵੱਲੋਂ\PSP ਈਥੋਨੋਲ\N_NN ਤਿਆਰ\V_VM ਕਰਨ\V_VM_VF ਦੇ\PSP ਪਲਾਂਟ\N_NN ਲਗਾਉਣ\V_VM_VINF ਦੀ\PSP ਤਿਆਰੀ\V_VM ਵੀ\RP_RPD ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13787	ਧਰਤੀ\N_NN ਹੇਠਲੇ\RB ਪਾਣੀ\N_NN ਦੇ\PSP ਡਿਗ\V_VM ਰਹੇ\V_VM_VF ਪੱਧਰ\N_NN ਅਤੇ\CC_CCD ਕਣਕ-ਝੋਨੇ\N_NN ਦੇ\PSP ਰਵਾਇਤੀ\JJ ਫ਼ਸਲੀ\N_NN ਚੱਕਰ\N_NN ਨਾਲ\PSP ਪੈਦਾ\V_VM_VF ਹੋ\V_VM_VF ਰਹੀਆਂ\V_VM_VF ਅਨੇਕਾਂ\RB ਸਮੱਸਿਆਵਾਂ\N_NN ਨਾਲ\PSP ਨਜਿੱਠਣ\N_NN ਲਈ\PSP ਪੰਜਾਬ\N_NNP ਸਰਕਾਰ\N_NN ਵੱਲੋਂ\PSP ਨਵੀਂ\JJ ਫ਼ਸਲੀ\N_NN ਵਿਭਿੰਨਤਾ\N_NN ਯੋਜਨਾ\N_NN ਨੂੰ\PSP ਸੁਚੱਜੇ\JJ ਰੂਪ\N_NN ਵਿਚ\PSP ਲਾਗੂ\V_VM ਕਰਵਾਉਣ\V_VM_VINF ਲਈ\PSP ਕਾਫ਼ੀ\DM_DMQ ਗੰਭੀਰਤਾ\JJ ਦਿਖਾਈ\V_VM_VF ਜਾ\V_VM_VNF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13788	ਇਸ\PR_PRP ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਖ਼ੁਦ\PR_PRF ਮੁੱਖ\JJ ਮੰਤਰੀ\N_NN ਸ:\N_NNP ਪ੍ਰਕਾਸ਼\N_NNP ਸਿੰਘ\N_NNP ਬਾਦਲ\N_NNP ਵੱਲੋਂ\PSP ਲਈ\PSP ਜਾ\V_VM_VNF ਰਹੀ\V_VM_VF ਦਿਲਚਸਪੀ\N_NN ਦੇ\PSP ਚੱਲਦਿਆਂ\V_VM_VF ਖੇਤੀਬਾੜੀ\N_NN ਵਿਭਾਗ\N_NN ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਡਾਇਰੈਕਟਰ\N_NN ਡਾ.\N_NNP ਮੰਗਲ\N_NNP ਸਿੰਘ\N_NNP ਸੰਧੂ\N_NNP ਅਤੇ\CC_CCD ਖੇਤੀਬਾੜੀ\N_NNP ਯੂਨੀਵਰਸਿਟੀ\N_NNP ਲੁਧਿਆਣਾ\N_NNP ਦੇ\PSP ਉਪ-ਕੁਲਪਤੀ\N_NN ਡਾ.\N_NNP ਬਲਦੇਵ\N_NNP ਸਿੰਘ\N_NNP ਢਿੱਲੋਂ\N_NNP ਵੱਲੋਂ\PSP ਵੀ\RP_RPD ਆਪਣੇ\PR_PRF ਅਧੀਨ\RB ਸੰਬੰਧਿਤ\N_NN ਅਮਲੇ-ਫੈਲੇ\N_NN ਨੂੰ\PSP ਚੁਸਤ\JJ ਦਰੁਸਤ\JJ ਕਰਕੇ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਫ਼ਸਲੀ\N_NN ਵਿਭਿੰਨਤਾ\RB ਲਿਆਉਣ\V_VM_VINF ਸਬੰਧੀ\N_NN ਜਾਗਰੂਕ\JJ ਕਰਨ\PSP ਵੱਲ\PSP ਤੋਰਿਆ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13789	ਨਵੀਂ\JJ ਫ਼ਸਲੀ\N_NN ਵਿਭਿੰਨਤਾ\RB ਯੋਜਨਾ\N_NN ਤਹਿਤ\RB ਆਉਣ\V_VM_VINF ਵਾਲੇ\PSP ਪੰਜ\QT_QTC ਸਾਲਾਂ\N_NN ਦੌਰਾਨ\RB 5\QT_QTF ਲੱਖ\QT_QTC ਹੈਕਟੇਅਰ\N_NN ਰਕਬਾ\N_NN ਕਣਕ\N_NN ਝੋਨੇ\N_NN ਹੇਠੋਂ\RB ਕੱਢ\V_VM ਕੇ\V_VM_VNF ਮੱਕੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਕਰਵਾਉਣ\V_VM_VINF ਦਾ\PSP ਟੀਚਾ\N_NN ਮਿਥਿਆ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13790	ਇਸ\PR_PRP ਸਾਲ\N_NN 1\QT_QTF ਲੱਖ\QT_QTC 70\QT_QTF ਹਜ਼ਾਰ\QT_QTC ਦੇ\PSP ਕਰੀਬ\RB ਰਕਬੇ\N_NN ਵਿਚ\PSP ਮੱਕੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਕਰਾਉਣ\V_VM_VF ਦੀ\PSP ਕੋਸ਼ਿਸ਼\N_NN ਹੋ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13791	ਇਸ\PR_PRP ਦੇ\PSP ਬਾਅਦ\RB ਸਾਲ\N_NN 2017-18\QT_QTF ਦੌਰਾਨ\RB 1-1\QT_QTF ਲੱਖ\QT_QTC ਹੈਕਟੇਅਰ\N_NN ਰਕਬੇ\N_NN ਵਿਚ\PSP ਝੋਨਾ\N_NN ਘਟਾਉਣ\JJ ਦਾ\PSP ਪ੍ਰੋਗਰਾਮ\N_NN ਉਲੀਕਿਆ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13792	ਪੀ.ਏ.ਯੂ\N_NNP ਅਤੇ\CC_CCD ਖੇਤੀਬਾੜੀ\N_NN ਵਿਭਾਗ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਇਸ\PR_PRP ਸਾਲ\N_NN ਸਰਕਾਰ\N_NN ਵੱਲੋਂ\PSP ਪਾਇਨੀਅਰ\N_NNP ਅਤੇ\CC_CCD ਸ੍ਰੀ\N_NNP ਰਾਮ\N_NNP ਕੰਪਨੀ\N_NN ਨਾਲ\PSP ਸਮਝੋਤੇ\V_VM ਕੀਤੇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBAD13793	ਮੱਕੀ\N_NN ਹੇਠ\RB ਰਕਬਾ\N_NN ਵਧਾਉਣ\V_VM_VINF ਲਈ\PSP ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB 56\QT_QTF ਬਲਾਕਾਂ\N_NN ਦੀ\PSP ਸ਼ਨਾਖ਼ਤ\N_NN ਕਰਕੇ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਅੰਦਰ\RB ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP 75\QT_QTF ਫ਼ੀਸਦੀ\N_NN ਸਬਸਿਡੀ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਵਧੀਆ\JJ ਬੀਜ\N_NN ਦਿੱਤਾ\V_VM_VF ਜਾ\V_VM_VNF ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13794	ਇਸ\PR_PRP ਦੇ\PSP ਨਾਲ\PSP ਹੀ\RP_RPD ਮੱਕੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਨੂੰ\PSP ਉਤਸ਼ਾਹਿਤ\RB ਕਰਨ\N_NN ਲਈ\PSP ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਸਪਰੇਅ\N_NN ਪੰਪ\N_NN ਅਤੇ\CC_CCD ਮੱਕੀ\N_NN ਸ਼ੈਲਰ\N_NN 50\QT_QTF ਫ਼ੀਸਦੀ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਦਿੱਤੇ\V_VM_VF ਜਾਣ\V_VM_VINF ਦੀ\PSP ਵਿਵਸਥਾ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13795	ਸਰਕਾਰ\PR_PRP ਵੱਲੋਂ\PSP ਕੀਤੇ\V_VM_VF ਜਾ\V_VM_VNF ਰਹੇ\V_VM_VF ਇਨ੍ਹਾਂ\PR_PRP ਯਤਨਾਂ\N_NN ਦੇ\PSP ਉਲਟ\RB ਕਣਕ\N_NN ਝੋਨੇ\N_NN ਦੇ\PSP ਬਦਲ\N_NN ਵਿਚ\PSP ਬੀਜੀਆਂ\N_NN ਜਾਣ\V_VM_VINF ਵਾਲੀਆਂ\PSP ਫ਼ਸਲਾਂ\N_NN ਦੇ\PSP ਮੰਡੀਕਰਨ\N_NN ਅਤੇ\CC_CCD ਖਪਤ\N_NN ਸਬੰਧੀ\N_NN ਸਵਾਲ\N_NN ਖੜੇ\V_VM ਹੋ\V_VM_VNF ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13796	ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB ਹਰ\RB ਸਾਲ\N_NN 1095000\QT_QTF ਕੁਇੰਟਲ\N_NN ਮੱਕੀ\N_NN ਕਰਨਾਟਕ\N_NNP ਅਤੇ\CC_CCD ਬਿਹਾਰ\N_NNP ਵਰਗਿਆਂ\PSP ਸੂਬਿਆਂ\N_NN ਤੋਂ\PSP ਮੰਗਵਾਈ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13797	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਪੋਲਟਰੀ\N_NN ਅਤੇ\CC_CCD ਪਸ਼ੂ\N_NN ਫੀਡ\N_NN ਦੇ\PSP ਇਲਾਵਾ\RB ਸਟਾਰਚ\N_NN ਬਣਾਉਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\V_VM ਪੂਰੀ\RB ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13798	ਜਰਮਨੀ\N_NNP ਵੀ\RP_RPD ਮੱਕੀ\N_NN ਉਤਪਾਦਨ\N_NN ਦਾ\PSP 25\QT_QTF ਫ਼ੀਸਦੀ\N_NN ਹਿੱਸਾ\N_NN ਗੈਸ\N_NN ਅਤੇ\CC_CCD ਬਿਜਲੀ\N_NN ਪੈਦਾ\V_VM_VF ਕਰਨ\N_NN ਵਿਚ\PSP ਖਪਤ\V_VM ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13799	ਮੱਕੀ\N_NN ਦੇ\PSP ਮੰਡੀਕਰਨ\N_NN ਦੌਰਾਨ\RB ਜ਼ਿਆਦਾ\RB ਸਿੱਲ੍ਹ\N_NN ਦੀ\PSP ਸਮੱਸਿਆ\N_NN ਦੇ\PSP ਹੱਲ\N_NN ਲਈ\PSP ਸਰਕਾਰ\N_NN ਵੱਲੋਂ\PSP ਦੁਆਬੇ\N_NNP ਦੀਆਂ\N_NN ਮੰਡੀਆਂ\N_NN ਵਿਚ\PSP `\RD_PUNC ਡਰਾਇਰ\N_NN `\RD_PUNC ਲਗਾਉਣ\V_VM_VINF ਦੀ\PSP ਪ੍ਰਕਿਰਿਆ\N_NN ਵੀ\RP_RPD ਸ਼ੁਰੂ\V_VM ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ।\RD_PUNC
+PBAD13800	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਮੱਕੀ\N_NN ਸੁਕਾ\V_VM ਕੇ\V_VM_VNF ਵੇਚਣ\V_VM_VINF ਅਤੇ\CC_CCD ਸਟੋਰ\N_NN ਕਰਨ\N_NN ਦੀ\PSP ਸਹੂਲਤ\N_NN ਵੀ\RP_RPD ਮਿਲ\V_VM ਸਕੇਗੀ\V_VM_VF ।\RD_PUNC
+PBAD13801	ਇਸ\PR_PRP ਲਈ\PSP ਜੇਕਰ\CC_CCS ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB ਵੀ\RP_RPD ਅਜਿਹੇ\RB ਪਲਾਂਟ\N_NN ਲੱਗਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਮੱਕੀ\N_NN ਦੇ\PSP ਮੰਡੀਕਰਨ\N_NN ਅਤੇ\CC_CCD ਖਪਤ\N_NN ਦੀ\PSP ਸਮੱਸਿਆ\N_NN ਹੱਲ\N_NN ਹੋਣ\V_VM_VINF ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਝੋਨੇ\N_NN ਹੇਠੋਂ\RB ਰਕਬਾ\N_NN ਵੀ\RP_RPD ਘਟ\JJ ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13802	ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB ਮੱਕੀ\N_NN ਦੀ\PSP ਬਿਜਾਈ\N_NN ਮਈ\N_NN ਦੇ\PSP ਅਖੀਰਲੇ\RB ਹਫ਼ਤੇ\N_NN ਤੋਂ\PSP ਜੂਨ\N_NN ਦੇ\PSP ਅਖੀਰ\RB ਤੱਕ\PSP ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13803	ਕੁਝ\DM_DMQ ਹਾਈਬ੍ਰਿਡ\N_NN ਕਿਸਮਾਂ\N_NN ਨੂੰ\PSP ਅਗਸਤ\N_NN ਦੇ\PSP ਦੂਜੇ\QT_QTO ਪੰਦਰਵਾੜੇ\QT_QTO ਤੱਕ\PSP ਵੀ\RP_RPD ਬੀਜਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13804	ਮੱਕੀ\N_NN ਦਾ\PSP 8\QT_QTF ਕਿੱਲੋ\N_NN ਬੀਜ\N_NN ਇੱਕ\QT_QTC ਏਕੜ\N_NN ਲਈ\PSP ਕਾਫ਼ੀ\DM_DMQ ਹੈ\V_VAUX |\RD_PUNC
+PBAD13805	ਨਦੀਨਾਂ\N_NN ਦੀ\PSP ਰੋਕਥਾਮ\N_NN ਲਈ\PSP ਦਰਮਿਆਨੀਆਂ\JJ ਤੇ\CC_CCD ਭਾਰੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਐਟਰਾਟਾਫ\N_NN 50\QT_QTF ਡਬਲਯੂ\N_NN ਪੀ\N_NN ਦੀ\PSP 800\QT_QTF ਗ੍ਰਾਮ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਮਾਤਰਾ\N_NN ਅਤੇ\CC_CCD ਹਲਕੀਆਂ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP 500\QT_QTF ਗਰਾਮ\N_NN ਬਿਜਾਈ\N_NN ਦੇ\PSP ਦੋ\QT_QTC ਦਿਨਾਂ\N_NN ਅੰਦਰ\RB 200\QT_QTF ਲਿਟਰ\N_NN ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਛਿੜਕਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13806	ਇਸ\PR_PRP ਛਿੜਕਾਅ\V_VM ਨਾਲ\PSP ਇਟਸਿਟ\N_NN ਅਤੇ\CC_CCD ਚੌੜੇ\JJ ਪੱਤੇ\N_NN ਵਾਲੇ\PSP ਨਦੀਨਾਂ\N_NN ਦੀ\PSP ਰੋਕਥਾਮ\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13807	ਮੱਕੀ\N_NN ਬਹੁ-ਉਪਯੋਗੀ\JJ ਫ਼ਸਲ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13808	ਮੱਕੀ\N_NN ਦੀਆਂ\PSP ਵੱਖ-ਵੱਖ\RB ਕਿਸਮਾਂ\N_NN ਨੂੰ\PSP ਲਗਭਗ\RB ਸਾਰੀਆਂ\RB ਹੀ\RP_RPD ਰੁੱਤਾਂ\N_NN ਵਿਚ\PSP ਬੀਜਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13809	ਇਸ\PR_PRP ਨੂੰ\PSP ਪਕਾ\V_VM ਕੇ\V_VM_VNF ਵੇਚਣ\V_VM_VINF ਦੇ\PSP ਇਲਾਵਾ\RB ਬੇਬੀ\N_NN ਕਾਰਨ\N_NN ਅਤੇ\CC_CCD ਹਰੀਆਂ\JJ ਛੱਲੀਆਂ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਵੇਚ\V_VM ਕੇ\V_VM_VNF ਚੰਗੀ\JJ ਕਮਾਈ\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13810	ਮੱਕੀ\N_NN ਨਾਲ\PSP ਹੋਰ\RB ਫ਼ਸਲਾਂ\N_NN ਬੀਜਣ\N_NN ਲਈ\PSP ਮੱਕੀ-ਆਲੂ-ਮੂੰਗੀ\N_NN ,\RD_PUNC ਮੱਕੀ-ਆਲੂ-ਸੂਰਜਮੁਖੀ\N_NN ,\RD_PUNC ਮੱਕੀ-ਆਲੂ-ਕਣਕ\N_NN ,\RD_PUNC ਮੱਕੀ-ਅਗੇਤੇ\N_NN ਮਟਰ-ਸੂਰਜਮੁਖੀ\N_NN ਆਦਿ\RP_CL ਫ਼ਸਲੀ\N_NN ਚੱਕਰ\N_NN ਅਪਣਾਏ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13811	ਮੌਨਸੂਨ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਸਮੇਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਹੋਈ\V_VM_VF ਬਾਰਿਸ਼\N_NN ਕਿਸਾਨਾਂ\N_NN ਲਈ\PSP ਵਰਦਾਨ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13812	ਸਖ਼ਤ\JJ ਗਰਮੀ\N_NN ਦੌਰਾਨ\RB ਝੋਨਾ\N_NN ਲੱਗਣਾ\V_VM_VINF ਸ਼ੁਰੂ\N_NN ਹੀ\RP_RPD ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਬਾਰਿਸ਼\N_NN ਨੇ\PSP ਇਕਦਮ\RB ਉਤਪਾਦਕਾਂ\N_NN ਦੇ\PSP ਚਿਹਰਿਆਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਖੇੜਾ\N_NN ਲਿਆਂਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13813	10\QT_QTF ਜੂਨ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਝੋਨਾ\N_NN ਲਾਉਣ\V_VM_VINF ਲਈ\PSP ਪਹਿਲੇ\RB ਦਿਨ\N_NN ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਡੀਜ਼ਲ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਵੀ\RP_RPD ਖਰਚ\N_NN ਕਰਨਾ\V_VM_VINF ਪਿਆ\V_VM_VF ।\RD_PUNC
+PBAD13814	ਦੋ\QT_QTC ਦਿਨ\N_NN ਬਾਅਦ\RB ਹੀ\RP_RPD ਟਿਊਬਵੈੱਲਾਂ\N_NN ਤੇ\CC_CCD ਨਹਿਰਾਂ\N_NN ਦਾ\PSP ਪਾਣੀ\N_NN ਵੀ\RP_RPD ਕਿਸਾਨਾਂ\N_NN ਲਈ\PSP ਅਣਲੋਂੜੀਦਾ\RB ਹੋ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBAD13815	ਅਜੇ\RB ਖੇਤ\N_NN ਕੱਦੂ\N_NN ਨਹੀਂ\RP_NEG ਹੋਏ\V_VM_VF ਸਨ\V_VAUX ਬਾਰਿਸ਼\N_NN ਪੈ\V_VM_VNF ਗਈ\V_VM_VF ।\RD_PUNC
+PBAD13816	ਜੋ\PR_PRL ਜ਼ਮੀਨ\N_NN ਥੱਲੇ\RB ਪਾਣੀ\N_NN ਦੇ\PSP ਰੀਚਾਰਜ\N_NN ਲਈ\PSP ਵੀ\RP_RPD ਸਹਾਈ\V_VM ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBAD13817	ਸਥਾਨਕ\N_NN ਕਾਮੇ\N_NN ਮੌਸਮ\N_NN ਅਨੁਕੂਲ\RB ਹੋਣ\V_VM_VINF ਕਾਰਨ\N_NN ਝੋਨਾ\N_NN ਲਾਉਣ\V_VM_VINF ਲਈ\PSP ਘਰਾਂ\N_NN ਤੋਂ\PSP ਨਿਕਲ\V_VM ਕੇ\V_VM_VNF ਖੇਤਾਂ\N_NN `\RD_PUNC ਚ\PSP ਆ\V_VM_VNF ਗਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13818	ਭਾਵੇਂ\CC_CCS ਕਣਕ\N_NN ਦਾ\PSP ਉਤਪਾਦਨ\N_NN ਤੇ\N_NN ਉਤਪਾਦਕਤਾ\N_NN ਇਸ\PR_PRP ਸਾਲ\N_NN ਘਟੇ\JJ ਪਰ\CC_CCS ਝੋਨੇ\N_NN ਦਾ\PSP ਝਾੜ\N_NN ਤੇ\CC_CCD ਪੈਦਾਵਾਰ\N_NN ਵਧਣ\RB ਦੀ\PSP ਉਮੀਦ\N_NN ਬੱਝ\V_VM ਗਈ\V_VM_VF ।\RD_PUNC
+PBAD13819	ਕੁਝ\DM_DMQ ਕਿਸਾਨ\N_NN ਜੋ\PR_PRL ਕਪਾਹ\N_NN ਤੇ\N_NN ਮੱਕੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਸੋਚ\V_VM ਰਹੇ\V_VM_VF ਸਨ,\N_NN ਉਨ੍ਹਾਂ\PR_PRP ਦਾ\PSP ਰੁਝਾਨ\N_NN ਹੁਣ\RB ਬਾਸਮਤੀ\N_NN ਲਾਉਣ\V_VM_VINF ਵੱਲ\PSP ਹੋ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13820	ਪਨੀਰੀ\N_NN ਕਿਸਾਨ\N_NN ਤੁਰੰਤ\RB ਬੀਜ\V_VM ਕੇ\V_VM_VNF 27-28\QT_QTF ਦਿਨ\N_NN ਬਾਅਦ\RB ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਖੇਤਾਂ\N_NN `\RD_PUNC ਚ\PSP ਲਾ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13821	ਪੂਸਾ\N_NN ਬਾਸਮਤੀ\N_NN 1121\QT_QTF ਤੇ\N_NN ਪੰਜਾਬ\N_NNP ਮਹਿਕ\N_NN 1\QT_QTF ਦੀ\PSP ਸਿੱਧੀ\JJ ਬਿਜਾਈ\N_NN 10\QT_QTF ਕਿਲੋ\N_NN ਬੀਜ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਵਰਤ\V_VM ਕੇ\V_VM_VNF ਟਰੈਕਟਰ\N_NN ਡਰਿੱਲ\N_NN ਨਾਲ\PSP ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13822	ਇਸ\PR_PRP ਤਕਨੀਕ\N_NN ਨਾਲ\PSP ਬੀਜੀ\N_NN ਫ਼ਸਲ\N_NN `\RD_PUNC ਚ\PSP ਕਤਾਰਾਂ\N_NN ਵਿਚਕਾਰ\N_NN ਫਾਸਲਾ\N_NN 20\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਰੱਖਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13823	ਇਸ\PR_PRP ਤਕਨੀਕ\N_NN ਨੂੰ\PSP ਵਰਤਦਿਆਂ\V_VM ਨਦੀਨਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਕਾਬੂ\V_VM ਪਾਉਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13824	ਪੰਜਾਬ\N_NNP ਬਾਸਮਤੀ\N_NN 3\N_NN ,\RD_PUNC ਪੂਸਾ\N_NN ਬਾਸਮਤੀ\N_NN 1121,\QT_QTF ਪੰਜਾਬ\N_NNP ਮਹਿਕ-1\N_NN ਦੀ\PSP ਪਨੀਰੀ\N_NN ਅਗਲੇ\RB ਮਹੀਨੇ\N_NN ਦੇ\PSP ਪਹਿਲੇ\RB ਪੰਦਰਵਾੜੇ\QT_QTO ਦੌਰਾਨ\RB ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਖੇਤ\N_NN `\RD_PUNC ਚ\PSP ਲਗਾ\V_VM ਦੇਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13825	ਪਨੀਰੀ\N_NN ਬੀਜਣ\V_VM ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਬੀਜ\N_NN ਨੂੰ\PSP ਬਾਵਿਸਟਿਨ\N_NN 50\QT_QTF ਡਬਲਿਊ\N_NN ਪੀ.\N_NN 0.2\QT_QTF ਪ੍ਰਤੀਸ਼ਤ,\N_NN 20\QT_QTF ਗ੍ਰਾਮ\N_NN ਅਤੇ\CC_CCD ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ\N_NN 0.01\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN 1\QT_QTF ਗ੍ਰਾਮ\N_NN ਅਤੇ\CC_CCD ਐਮਾਸੀਨ\N_NN 6\QT_QTF ਦਾ\PSP 10\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਾਲੇ\N_NN ਘੋਲ\N_NN `\RD_PUNC ਚ\N_NN ਏਕੜ\N_NN ਲਈ\PSP 8\QT_QTF ਕਿਲੋ\N_NN ਬੀਜ\N_NN 12-14\QT_QTF ਘੰਟੇ\N_NN ਡੁਬੋ\V_VM ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13826	ਇਨ੍ਹਾਂ\PR_PRP ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਪਨੀਰੀ\N_NN ਪੁੱਟ\V_VM ਕੇ\V_VM_VNF ਖੇਤ\N_NN ਵਿਚ\PSP ਲਾਉਣ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਪਨੀਰੀ\N_NN ਦੀਆਂ\PSP ਜੜ੍ਹਾਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਬਾਵਿਸਟੀਨ\N_NN ਦੇ\PSP ਘੋਲ\N_NN ਵਿਚ\PSP ਘੱਟੋ-ਘੱਟ\JJ ਛੇ\QT_QTC ਘੰਟੇ\N_NN ਲਈ\PSP ਡੁਬੋਈ\V_VM ਰੱਖਣ\V_VM_VINF ਤੋਂ\PSP ਬਾਅਦ\RB ਖੇਤ\N_NN ਵਿਚ\PSP ਪਨੀਰੀ\N_NN ਲਾਉਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13827	ਇਸ\PR_PRP ਨਾਲ\PSP `\RD_PUNC ਬਕਾਨੇ\N_NN ਬਿਮਾਰੀ\N_NN `\RD_PUNC (ਝੰਡਾ\N_NN ਰੋਗ)\N_NN ਨੂੰ\PSP ਦੂਰ\RB ਰੱਖਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13828	ਬੀਜ\N_NN ਦਾ\PSP ਸ਼ੁੱਧ\JJ ਹੋਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13829	ਪੂਸਾ\N_NN ਪੰਜਾਬ\N_NNP ਬਾਸਮਤੀ\N_NN 1509\QT_QTF ਦੇ\PSP ਨਕਲੀ\JJ ਬੀਜ\N_NN ਮੰਡੀ\N_NN `\RD_PUNC ਚ\PSP ਬਦਅਨੁਮਾਨ\N_NN ਅਨਸਰਾਂ\N_NN ਵੱਲੋਂ\PSP ਮਹਿੰਗੇ\JJ ਭਾਅ\N_NN ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਵੇਚੇ\V_VM ਜਾ\V_VM_VNF ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13830	ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਸੁਚੇਤ\JJ ਹੋਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13831	ਪੰਜਾਬ\N_NN ਸਰਕਾਰ\N_NN ਵੱਲੋਂ\PSP ਬਾਸਮਤੀ\N_NN ਤੇ\N_NN ਪੰਜਾਬ\N_NNP ਇਨਫਰਾਸਟ੍ਰਰੱਕਚਰ\N_NN ਡਿਵੈਲਪਮੈਂਟ\N_NN ਫੰਡ,\N_NN ਪੇਂਡੂ\N_NN ਵਿਕਾਸ\N_NN ਫੰਡ\N_NN ਅਤੇ\CC_CCD ਮਾਰਕੀਟ\N_NN ਫੀਸ\N_NN ਜੋ\PR_PRL 7\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਦੇ\PSP ਕਰੀਬ\RB ਬਣਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13832	ਕਈ\DM_DMQ ਬਰਾਮਦਕਾਰ\N_NN ਤਾਂ\CC_CCD ਪੂਸਾ\N_NN ਬਾਸਮਤੀ\N_NN 1121\QT_QTF ਅਤੇ\CC_CCD ਪੂਸਾ\N_NN ਪੰਜਾਬ\N_NNP ਬਾਸਮਤੀ\N_NN 1509\QT_QTF (ਜੋ\PR_PRL ਕੁੱਲ\N_NN ਨਿਰਯਾਤ\N_NN ਦਾ\PSP 75-80\QT_QTF ਪ੍ਰਤੀਸ਼ਤ\N_NN ਬਣਦਾ\V_VM_VF ਹੈ),\V_VAUX ਇਨ੍ਹਾਂ\PR_PRP ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਸ਼ੁੱਧ\JJ ਫ਼ਸਲ\N_NN ਨੂੰ\PSP 2200-2400\QT_QTF ਰੁਪਏ\N_NN ਪ੍ਰਤੀ\N_NN ਕੁਇੰਟਲ\N_NN ਤੀਕ\PSP ਖਰੀਦਣ\N_NN ਦਾ\PSP ਹੁਣੇ\RB ਤੋਂ\PSP ਉਤਪਾਦਕਾਂ\N_NN ਨਾਲ\PSP ਮੁਆਦਾ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਵੀ\RP_RPD ਤਿਆਰ\V_VM ਦਿਖਾਈ\V_VM_VF ਦੇ\PSP ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13833	ਪੰਜਾਬ\N_NNP ਬਾਸਮਤੀ\N_NN ਦੇ\PSP ਭੂਗੋਲਿਕ\N_NN ਇੰਡੀਕੇਟਰ\N_NN ਜ਼ੋਨ\N_NN `\RD_PUNC ਚ\PSP ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13834	ਉਤਪਾਦਕਾਂ\N_NN ਨੂੰ\PSP ਵੱਧ\JJ ਤੋਂ\PSP ਵੱਧ\JJ ਨਵੀਆਂ\JJ ਤੇ\CC_CCD ਵਧੇਰੇ\JJ ਝਾੜ\N_NN ਦੇਣ\N_NN ਵਾਲੀਆਂ\PSP ਬਾਸਮਤੀ\N_NN ਦੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਬੀਜ\N_NN ਕੇ\V_VM_VNF ਜ਼ਮੀਨ\N_NN ਥੱਲੇ\RB ਪਾਣੀ\N_NN ਦੇ\PSP ਘੱਟਣ\RB ਅਤੇ\CC_CCD ਪ੍ਰਦੂਸ਼ਣ\N_NN ਦੀ\PSP ਸਮੱਸਿਆਵਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਕਾਬੂ\V_VM ਪਾ\V_VM_VNF ਲੈਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13835	ਇਸ\PR_PRP ਸਾਲ\N_NN ਵਧੀਆ\JJ ਬਾਰਿਸ਼ਾਂ\N_NN ਤੇ\CC_CCD ਮੌਨਸੂਨ\N_NN ਦੀ\PSP ਭਵਿੱਖਬਾਣੀ\N_NN ਉਪਰੰਤ\RB ਜ਼ਮੀਨ\N_NN ਥਲਿਉਂ\RB ਬਾਸਮਤੀ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਲਈ\PSP ਵਿਸ਼ੇਸ਼\RB ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਪਾਣੀ\N_NN ਦੀ\PSP ਬਹੁਤੀ\DM_DMQ ਲੋੜ\N_NN ਪੈਣ\V_VM_VINF ਦੀ\PSP ਸੰਭਾਵਨਾ\V_VM_VNG ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBAD13836	ਫੇਰ\RB ਇਨ੍ਹਾਂ\PR_PRP ਬਾਸਮਤੀ\N_NN ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਝੋਨੇ\N_NN ਨਾਲੋਂ\PSP ਘੱਟ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13837	ਵਿਸ਼ੇਸ਼\RB ਕਰਕੇ\PSP ਪੂਸਾ\N_NN ਪੰਜਾਬ\N_NNP ਬਾਸਮਤੀ\N_NN 1509\QT_QTF ਦੀ\PSP ਜੋ\PR_PRL ਪੱਕਣ\V_VM_VINF ਨੂੰ\PSP ਦੂਜੀਆਂ\QT_QTO ਕਿਸਮਾਂ\N_NN ਨਾਲੋਂ\PSP 15-20\QT_QTF ਦਿਨ\N_NN ਘੱਟ\JJ ਲੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13838	ਇਸ\PR_PRP ਨੂੰ\PSP ਨਾਈਟਰੋਜਨ\N_NN ਖਾਦ\N_NN (ਯੂਰੀਆ)\N_NN 100\QT_QTF ਕਿਲੋ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਤੀਕ\PSP ਦਿੱਤਾ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13839	ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਹਰ\RB ਕਿਸਮ\N_NN ਦੀ\PSP ਸਮੇਂ\N_NN ਸਿਰ\N_NN ਬਿਜਾਈ\V_VM ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13840	ਲੋੜ\N_NN ਤੋਂ\PSP ਵੱਧ\JJ ਕੀਟਨਾਸ਼ਕਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਤੋਂ\PSP ਗੁਰੇਜ਼\V_VM ਕਰਨਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13841	ਪਨੀਰੀ\N_NN ਸਿਹਤਮੰਦ\JJ ਲਾਉਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਜੋ\PR_PRL ਉਤਪਾਦਕਤਾ\N_NN ਪੂਰੀ\RB ਨਿਕਲੇ\V_VM ।\RD_PUNC
+PBAD13842	ਫ਼ਸਲ\N_NN ਦੀ\PSP ਹੋਰ\RB ਗੁਣਵੱਤਾ\N_NN ਵਧਾਉਣ\RB ਲਈ\PSP ਵਿਸ਼ੇਸ਼\JJ ਕਰਕੇ\PSP ਬੀਜ\N_NN ਵਾਲੀ\PSP ਫ਼ਸਲ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਨਿੱਸਰਨ\N_NN ਸਮੇਂ\N_NN ਟਿਲਟ\N_NN 25\QT_QTF ਈ.\N_NN ਸੀ.\N_NN 200\QT_QTF ਮਿਲੀਲਿਟਰ\N_NN ਨੂੰ\PSP 200\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN `\RD_PUNC ਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਛਿੜਕਾਅ\V_VM ਕਰ\V_VM_VF ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13843	ਪਿਛੇਤੀ\JJ ਵਾਢੀ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਦਾਣੇ\N_NN ਕਿਰਨ\V_VM ਲੱਗ\V_VM_VF ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13844	ਜੇਕਰ\CC_CCS ਗੰਨੇ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਦੇ\PSP ਮੁੱਢਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਮਿੱਟੀ\N_NN ਚੜ੍ਹਾਉਣ\V_VM_VINF ਦਾ\PSP ਕੰਮ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਠੀਕ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13845	ਮੂੰਗਫਲੀ\N_NN :\RD_PUNC ਮੂੰਗਫਲੀ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਬਰਾਨੀ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਐਮ-548\QT_QTF ਕਿਸਮ\N_NN ਦੀ\PSP ਬਿਜਾਈ\N_NN ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13846	ਵਧੀਆ\JJ ਝਾੜ\N_NN ਲੈਣ\V_VM_VINF ਲਈ\PSP ਮੋਟੀਆਂ\JJ ਗਿਰੀਆਂ\N_NN ਵਰਤੋ\V_VM ।\RD_PUNC
+PBAD13847	ਬਰਾਨੀ\JJ ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਜੁਲਾਈ\N_NN ਦੇ\PSP ਪਹਿਲੇ\RB ਹਫਤੇ\N_NN ਬੀਜੀ\N_NN ਗਈ\V_VM_VF ਮੂੰਗਫਲੀ\N_NN ਦੀ\PSP ਫਸਲ\N_NN ਨੂੰ\PSP ਗਿੱਚੀ\N_NN ਗਲਣ\N_NN ਰੋਗ\N_NN ਤੋਂ\PSP ਬਚਾਉਣ\V_VM_VINF ਲਈ\PSP ਉਲੀਨਾਸ਼ਕ\N_NN ਦਵਾਈ\N_NN ਨਾਲ\PSP ਸੋਧੋ\V_VM ।\RD_PUNC
+PBAD13848	ਇਕ\QT_QTC ਕਿਲੋ\N_NN ਗਿਰੀਆਂ\N_NN ਲਈ\PSP 5\QT_QTF ਗ੍ਰਾਮ\N_NN ਥੀਰਮ\N_NN ਜਾਂ\CC_CCD 3\QT_QTF ਗ੍ਰਾਮ\N_NN ਇੰਡੋਫਿਲ\N_NN ਐਮ-45\QT_QTF ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13849	ਚਿੱਟੀ\JJ ਸੁੰਡੀ\N_NN /\RD_PUNC ਸਿਊਂਕ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN ਤੋਂ\PSP ਬਚਾਉਣ\V_VM_VINF ਲਈ\PSP ਬੀਜ\N_NN ਨੂੰ\PSP ਕਲੋਰਪਾਈਰੀਫੋਸ\N_NN 20\QT_QTF ਤਾਕਤ\N_NN 12.5\QT_QTF ਮਿਲੀਲਿਟਰ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਗਿਰੀਆਂ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਨਾਲ\PSP ਸੋਧ\V_VM ਲਓ\V_VM_VF ।\RD_PUNC
+PBAD13850	ਜੇਕਰ\CC_CCS ਸਿਫਾਰਸ਼\N_NN ਕੀਤੀ\V_VM_VF ਹੋਈ\V_VM_VF ਫਾਸਫੋਰਸ\N_NN ਪਾਈ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਸੁਪਰ\N_NN ਫਾਸਫੇਟ\N_NN ਨਾ\RP_NEG ਪਾਓ\V_VM_VF ।\RD_PUNC
+PBAD13851	ਜ਼ਿੰਕ\N_NN ਦੀ\PSP ਘਾਟ\JJ ਪੂਰੀ\RB ਕਰਨ\N_NN ਲਈ\PSP 25\QT_QTF ਕਿਲੋ\N_NN ਜ਼ਿੰਕ\N_NN ਸਲਫੇਟ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਪਾਓ\V_VM_VF ।\RD_PUNC
+PBAD13852	ਦਾਲਾਂ\N_NN :\RD_PUNC ਮਾਂਹ\N_NN ਅਤੇ\CC_CCD ਮੂੰਗੀ\N_NN ਪੀ.\N_NN ਏ.\N_NN ਯੂ.\N_NN 911,\QT_QTF ਐਮ.\N_NN ਐਲ.\N_NN 613\N_NN ਦੀ\PSP ਬਿਜਾਈ\V_VM ਪਹਿਲੇ\QT_QTC ਹਫ਼ਤੇ\N_NN ਖਤਮ\JJ ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13853	ਪੀ.\N_NN ਬੀ.\N_NN ਐਮ.-1\N_NN ਦੀ\PSP ਬਿਜਾਈ\V_VM ਦੀ\PSP ਸਿਫਾਰਸ਼\N_NN ਸਿਰਫ਼\RB ਬਠਿੰਡਾ\N_NNP ,\RD_PUNC ਮਾਨਸਾ\N_NNP ,\RD_PUNC ਮੁਕਤਸਰ\N_NNP ,\RD_PUNC ਫਿਰੋਜ਼ਪੁਰ\N_NNP ਅਤੇ\CC_CCD ਸੰਗਰੂਰ\N_NNP ਜ਼ਿਲ੍ਹਿਆਂ\N_NN ਵਿਚ\PSP ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13854	ਮਾਂਹ/ਮੂੰਗੀ\N_NN ਜਾਂ\CC_CCD ਅਰਹਰ\N_NN ਵਿਚੋਂ\PSP ਨਦੀਨ\N_NN ਮਾਰਨ\V_VM_VF ਲਈ\PSP ਇਕ\QT_QTC ਜਾਂ\CC_CCD ਦੋ\QT_QTC ਗੋਡੀਆਂ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13855	ਵਿਸ਼ਾਣੂੰ\N_NN ਰੋਗ\N_NN ਰਹਿਤ\N_NN ਕਿਸਮਾਂ\N_NN ਪੀ.\N_NN ਏ.\N_NN ਯੂ.\N_NN 911,\QT_QTF ਐਸ.\N_NN ਐਮ.\N_NN ਐਲ.-668,\QT_QTF ਐਮ.\N_NN ਐਲ.-818,\QT_QTF ਪੀ.\N_NN ਬੀ.\N_NN ਐਮ.\N_NN -1,\QT_QTF ਐਸ.\N_NN ਐਲ.\N_NN 613\QT_QTF ਬੀਜੋ\V_VM ।\RD_PUNC
+PBAD13856	ਸੈਮੀਲੂਪਰ\N_NN ਜਾਂ\CC_CCD ਵਾਲਾਂ\N_NN ਵਾਲੇ\PSP ਭੱਬੂ\N_NN ਕੁੱਤੇ\N_NN ਤੋਂ\PSP ਪ੍ਰਭਾਵਿਤ\JJ ਫਸਲ\N_NN ਨੂੰ\PSP 200\QT_QTF ਮਿਲੀਲਿਟਰ\N_NN ਨੂਵਾਨ\N_NN 100\QT_QTF ਐਸ.\N_NN ਐਲ.\N_NN ਨੂੰ\PSP 80-100\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13857	ਤੰਬਾਕੂ\N_NN ਸੁੰਡੀ\N_NN ਦੀ\PSP ਰੋਕਥਾਮ\N_NN ਲਈ\PSP 150\QT_QTF ਮਿ.\N_NN ਲਿ.\N_NN ਨੋਵਾਲੂਰਾਨ\N_NN 10\QT_QTF ਈ.\N_NN ਸੀ.\N_NN ਜਾਂ\CC_CCD 800\QT_QTF ਗ੍ਰਾਮ\N_NN ਐਸੀਫੇਟ\N_NN 75\QT_QTF ਐਸ.\N_NN ਪੀ.\N_NN ਨੂੰ\PSP 100\QT_QTF ਲਿਟਰ\N_NN ਪਾਣੀ\N_NN ਵਿਚ\PSP ਘੋਲ\V_VM ਕੇ\V_VM_VNF ਪ੍ਰਤੀ\N_NN ਛਿੜਕਾਅ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13858	ਹਰੇ\N_NN ਚਾਰੇ\N_NN :\RD_PUNC ਸਾਉਣੀ\JJ ਦੇ\PSP ਹਰੇ\N_NN ਚਾਰੇ\N_NN ਲਗਾਤਾਰ\RB ਲੈਣ\V_VM_VINF ਲਈ\PSP ਕੁਝ\DM_DMQ ਵਕਫ਼ੇ\N_NN ਤੇ\N_NN ਚਾਰੇ\N_NN ਬੀਜਦੇ\V_VM ਰਹੋ\V_VM_VF ।\RD_PUNC
+PBAD13859	ਪਿਛੇਤੇ\JJ ਚਾਰੇ\N_NN ਲਈ\PSP ਚਰ੍ਹੀ\N_NN ਦੀ\PSP ਬਿਜਾਈ\V_VM ਕਰੋ\V_VM_VF ।\RD_PUNC
+PBAD13860	ਜੇਕਰ\CC_CCS ਰਵਾਂਹ\N_NN ਬੀਜ\N_NN ਲਈ\PSP ਬੀਜਣਾ\V_VM_VINF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਜੁਲਾਈ\N_NN ਦੇ\PSP ਦੂਸਰੇ\QT_QTO ਪੰਦਰਵਾੜੇ\QT_QTO ਇਸ\PR_PRP ਦੀ\PSP ਬਿਜਾਈ\V_VM ਕਰ\V_VM_VF ਦਿਓ\V_VM_VF ।\RD_PUNC
+PBAD13861	ਗ਼ੈਰ\JJ ਫਲੀਦਾਰ\JJ ਚਾਰਾ\N_NN ਕੱਟ\V_VM ਕੇ\V_VM_VNF ਫਲੀਦਾਰ\JJ ਚਾਰਾ\N_NN ਜਿਵੇਂ\N_NN ਕਿ\CC_CCS ਗੁਆਰਾ\N_NN ਅਤੇ\CC_CCD ਰਵਾਂਹ\N_NN ਵਿਚ\PSP ਰਲਾ\V_VM ਕੇ\V_VM_VNF ਵਰਤੋ\V_VM ।\RD_PUNC
+PBAD13862	ਛਿੜਕਾਅ\N_NN ਤੇ\CC_CCD ਛੱਟਾ\N_NN ਹਮੇਸ਼ਾ\RB ਹਵਾ\N_NN ਦੇ\PSP ਰੁਖ\N_NN ਵੱਲ\PSP ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13863	ਜੇ\PR_PRL ਨਦੀਨ-ਨਾਸ਼ਕ\N_NN ਨੂੰ\PSP ਸਮੇਂ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਪਾਇਆ\V_VM_VF ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਆਮ\JJ ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਇਹ\PR_PRP ਅਸਰ\N_NN ਨਹੀਂ\RP_NEG ਕਰਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13864	ਫਿਰ\RB 20\QT_QTF ਦਿਨ\N_NN ਬਾਅਦ\RB ਜਦੋਂ\PR_PRL ਨਦੀਨ\N_NN ਉੱਗ\V_VM ਜਾਣ\V_VM_VINF ਨੌਮਨੀ\N_NN ਗੋਲਡ\N_NN ਜਿਹੇ\RB ਨਦੀਨ-ਨਾਸ਼ਕ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਦੀ\PSP ਲੋੜ\N_NN ਪੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13865	ਜਿਨ੍ਹਾਂ\PR_PRL ਖੇਤਾਂ\N_NN `\RD_PUNC ਚ\PSP ਝੋਨਾ\N_NN ਲਗ\N_NN ਜਾਂਦਾ\N_NN ਹੈ\V_VAUX ਕਿਸਾਨ\N_NN ਦੋ-ਤਿੰਨ\QT_QTC ਦਿਨ\N_NN ਦੇ\PSP ਅੰਦਰ-ਅੰਦਰ\RB ਨਦੀਨਨਾਸ਼ਕ\N_NN ਪਾਉਣਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਕਰ\V_VM_VF ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13866	ਨਦੀਨ\N_NN ਫ਼ਸਲ\N_NN ਦਾ\PSP ਝਾੜ\N_NN ਘਟਾਉਣ\RB `\RD_PUNC ਚ\PSP ਹਾਵੀ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13867	ਇਨ੍ਹਾਂ\PR_PRP `\RD_PUNC ਤੇ\N_NN ਕਾਬੂ\N_NN ਪਾਉਣ\V_VM_VINF ਲਈ\PSP ਜਾਂ\CC_CCD ਤਾਂ\N_NN ਗੋਡੀ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਲੋੜ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13868	ਗੋਡੀ\N_NN ਪੈਡੀ\N_NN ਵੀਡਰ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13869	ਸਹੀ\JJ ਨਦੀਨ-ਨਾਸ਼ਕ\N_NN ਜੋ\PR_PRL ਪ੍ਰਭਾਵਸ਼ਾਲੀ\N_NN ਹੋਵੇ\V_VM_VF ਉਸ\PR_PRP ਦੀ\PSP ਤਜਰਬੇ\N_NN ਦੇ\PSP ਆਧਾਰ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਅਤੇ\CC_CCD ਖੇਤੀ\N_NN ਮਾਹਿਰਾਂ\JJ ਦੀ\PSP ਸਲਾਹ\N_NN ਨਾਲ\PSP ਚੋਣ\V_VM ਕਰਨ\V_VM_VF ਦੀ\PSP ਲੋੜ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13870	ਗਰੁੱਪਾਂ\N_NN ਦੇ\PSP ਬ੍ਰਾਂਡ\N_NN ਜੋ\PR_PRL ਪੰਜਾਬ\N_NNP ਖੇਤੀ\N_NN ਯੂਨੀਵਰਸਿਟੀ\N_NN ਅਤੇ\CC_CCD ਖੇਤੀ\N_NN ਮਾਹਿਰਾਂ\N_NN ਵੱਲੋਂ\N_NN ਸਿਫਾਰਿਸ਼\N_NN ਕੀਤੇ\V_VM_VF ਗਏ\V_VM_VF ਹਨ,\V_VAUX ਵਿਚੋਂ\PSP ਕਿਸੇ\DM_DMQ ਇਕ\QT_QTC ਦੀ\PSP ਚੋਣ\V_VM ਕਰਨ\V_VM_VF ਦੀ\PSP ਲੋੜ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13871	ਆਮ\JJ ਕਿਸਾਨ\N_NN ਪ੍ਰੈਟੀਲਾਕਲੋਰ\N_NN ਵਰਤ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13872	ਕੁਝ\DM_DMQ ਕਿਸਾਨ\N_NN ਬੂਟਾਕਲੋਰ\N_NN ,\RD_PUNC ਪਾਈਰੈਜ਼ੋਸਲਫੂਰਾਨ\N_NN ਈਥਾਈਲ\N_NN (ਸਾਥੀ)\N_NN ਅਤੇ\CC_CCD ਹੋਰ\RB ਦੂਜੇ\QT_QTO ਗਰੁੱਪਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਵੀ\RP_RPD ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13873	ਨਦੀਨ-ਨਾਸ਼ਕਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਹੋਰ\RB ਦੂਜੇ\QT_QTO ਕੀਟਨਾਸ਼ਕਾਂ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN ਸੁਰੱਖਿਅਤ\JJ ਮੰਨੀ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13874	ਪਰ\N_NN ਇਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਐਨ\RB ਸਮੇਂ\N_NN ਸਿਰ\N_NN ਝੋਨੇ\N_NN ਦੀ\PSP ਲੁਆਈ\V_VM ਦੇ\PSP ਦੋ-ਤਿੰਨ\QT_QTC ਦਿਨ\N_NN ਦੇ\PSP ਅੰਦਰ-ਅੰਦਰ\RB ਖੜ੍ਹੇ\V_VM ਪਾਣੀ\N_NN `\RD_PUNC ਚ\PSP ਪਾਉਣ\V_VM_VF ਦੀ\PSP ਲੋੜ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13875	ਨਦੀਨਨਾਸ਼ਕ\N_NN 60\QT_QTF ਕਿਲੋ\N_NN ਰੇਤ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਵਿਚ\PSP ਮਿਲਾ\V_VM ਕੇ\V_VM_VNF ਖੜ੍ਹੇ\JJ ਪਾਣੀ\N_NN `\RD_PUNC ਚ\PSP ਇਕਸਾਰ\JJ ਛੱਟਾ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਪਾਉਣੇ\V_VM_VINF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13876	ਬੋਤਲਾਂ\N_NN ਆਦਿ\RP_CL ਨਾਲ\PSP ਪਾਉਣ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN ਰੇਤੇ\N_NN `\RD_PUNC ਚ\PSP ਮਿਲਾ\V_VM ਕੇ\V_VM_VNF ਪਾਉਣ\V_VM_VINF ਦੀ\PSP ਤਕਨੀਕ\N_NN ਵਧੇਰੇ\RB ਪ੍ਰਭਾਵਸ਼ਾਲੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13877	ਮੰਡੀ\N_NN `\RD_PUNC ਚ\PSP ਨਦੀਨ-ਨਾਸ਼ਕ\N_NN ਗ਼ੈਰ-ਮਿਆਰੀ\N_NN ਵੀ\RP_RPD ਵਿਕਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13878	ਮਾਹਿਰਾਂ\N_NN ਵੱਲੋਂ\PSP ਸਿਫਾਰਿਸ਼\N_NN ਨਦੀਨ-ਨਾਸ਼ਕ\JJ ਹੀ\RP_RPD ਖਰੀਦਣੇ\V_VM ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13879	ਲੀਕ\JJ ਹੋ\V_VM ਰਹੇ\V_VM_VF ਅਤੇ\CC_CCD ਮਿਆਦ\N_NN ਤੋਂ\PSP ਟੱਪੇ\JJ ਨਦੀਨ-ਨਾਸ਼ਕ\JJ ਕਦੇ\RB ਨਾ\RP_NEG ਖਰੀਦੋ\V_VM ।\RD_PUNC
+PBAD13880	ਨਦੀਨ-ਨਾਸ਼ਕਾਂ\N_NN ਨੂੰ\PSP ਖੇਤਾਂ\N_NN `\RD_PUNC ਚ\PSP ਸਵੇਰੇ\N_NN ਜਾਂ\CC_CCD ਸ਼ਾਮ\N_NN ਸਮੇਂ\N_NN ਪਾਉਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13881	ਇਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਖੇਤ\N_NN `\RD_PUNC ਚ\PSP ਛਿੜਕਅ\V_VM ਜਾਂ\CC_CCD ਛੱਟੇ\N_NN ਰਾਹੀਂ\PSP ਇਕਸਾਰ\N_NN ਪਾਉਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13882	ਸਹੀ\RB ਨਦੀਨ-ਨਾਸ਼ਕ\N_NN ਸਿਫਾਰਿਸ਼\N_NN ਕੀਤੀ\V_VM_VF ਮਾਤਰਾ\N_NN ਵਿੱਚ,\PSP ਸਹੀ\RB ਸਮੇਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਸਹੀ\RB ਢੰਗ\N_NN ਨਾਲ\PSP ਪਾਉਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਜੋ\PR_PRL ਨਦੀਨ\N_NN ਮਰ\V_VM ਜਾਣ\V_VM_VINF ।\RD_PUNC
+PBAD13883	ਨਦੀਨਨਾਸ਼ਕ\N_NN ਦਾ\PSP ਡੱਬਾ\N_NN ਜਾਂ\CC_CCD ਬੋਤਲ\N_NN ਖੋਲ੍ਹਣ\V_VM_VINF ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਉਸ\PR_PRP `\RD_PUNC ਤੇ\CC_CCD ਲਿਖੀਆਂ\V_VM ਹਦਾਇਤਾਂ\N_NN ਨੂੰ\PSP ਪੜ੍ਹ\V_VM ਕੇ\V_VM_VNF ਉਨ੍ਹਾਂ\PR_PRP `\RD_PUNC ਤੇ\CC_CCD ਅਮਲ\N_NN ਕਰਨਾ\V_VM_VINF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13884	ਛਿੜਕਾਅ\N_NN ਕਰਨ\N_NN ਵਾਲੇ\PSP ਦੇ\PSP ਸਰੀਰ\N_NN `\RD_PUNC ਤੇ\RB ਕੋਈ\DM_DMQ ਜ਼ਖਮ\N_NN ਨਹੀਂ\RP_NEG ਹੋਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13885	ਜੇ\PR_PRL ਬਹੁਤ\DM_DMQ ਤੇਜ਼\RB ਹਵਾ\N_NN ਚਲਦੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\PR_PRP ਨੂੰ\PSP ਅਗਲੇ\RB ਦਿਨ\N_NN ਤੇ\CC_CCD ਮੁਲਤਵੀ\N_NN ਕਰ\V_VM_VF ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13886	ਨਦੀਨਨਾਸ਼ਕ\N_NN ਵਾਲੇ\PSP ਖਾਲੀ\JJ ਡੱਬੇ\N_NN ਜਾਂ\CC_CCD ਬੋਤਲਾਂ\N_NN ਨਾਸ਼\V_VM ਕਰ\V_VM_VF ਦੇਣੀਆਂ\V_VM_VF ਚਾਹੀਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13887	ਕਿਸੇ\DM_DMQ ਨਾ\RP_NEG ਕਿਸੇ\DM_DMR ਨਦੀਨ-ਨਾਸ਼ਕ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰਨੀ\V_VM_VF ਜ਼ਰੂਰੀ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13888	ਇਸ\PR_PRP ਦੀ\PSP ਸਹੀ\JJ ਚੋਣ\N_NN ਲਈ\PSP ਖੇਤੀ\N_NN ਮਾਹਰਾਂ\JJ ਦੀ\PSP ਸਲਾਹ\N_NN ਤੋਂ\PSP ਇਲਾਵਾ\RB ਆਪਣੀ\PR_PRF ਸੂਝਬੂਝ\N_NN ਅਤੇ\CC_CCD ਤਜਰਬੇ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਫਾਇਦਾ\RB ਉਠਾਉਣ\V_VM_VINF ਦੀ\PSP ਲੋੜ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13889	ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB ਫ਼ਸਲਾਂ\N_NN ਦੀ\PSP ਔਸਤਨ\N_NN ਪੈਦਾਵਾਰ\N_NN ਘਟਦੀ\RB ਜਾ\V_VM_VNF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13890	ਫ਼ਸਲਾਂ\N_NN ਵਿਚ\PSP ਖਾਦਾਂ\N_NN ਦੀ\PSP ਸਿਫਾਰਸ਼\N_NN ਤੋਂ\PSP ਜ਼ਿਆਦਾ\RB ਵਰਤੋਂ\V_VM ਕਾਰਨ\N_NN ਨਾਲ\PSP ਕਿਸਾਨਾਂ\N_NN ਦੇ\PSP ਖਰਚੇ\N_NN ਵਧਦੇ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13891	ਕਈ\DM_DMQ ਖਾਦਾਂ\N_NN ਅਜਿਹੀਆਂ\RB ਹਨ\V_VAUX ਜਿਨ੍ਹਾਂ\PR_PRL ਦੀ\PSP ਜ਼ਿਆਦਾ\RB ਵਰਤੋਂ\N_NN ਕਾਰਨ\N_NN ਫ਼ਸਲ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਬਿਮਾਰੀਆਂ\N_NN ਅਤੇ\CC_CCD ਕੀੜੇ-ਮਕੌੜਿਆਂ\N_NN ਦਾ\PSP ਹਮਲਾ\N_NN ਵੀ\RP_RPD ਜ਼ਿਆਦਾ\RB ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13892	ਖਾਸ\JJ ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਝੋਨਾ\N_NN ਅਤੇ\CC_CCD ਬਾਸਮਤੀ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਲਈ\PSP ਯੂਰੀਆ\N_NN ਵਰਗੀਆਂ\RB ਖਾਦਾਂ\N_NN ਕਈ\DM_DMQ ਬਿਮਾਰੀਆਂ\N_NN ਅਤੇ\CC_CCD ਕੀਟਾਂ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN `\RD_PUNC ਚ\PSP ਵਾਧੇ\RB ਦਾ\PSP ਕਾਰਨ\N_NN ਬਣ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13893	ਖੇਤੀ\N_NN ਮਾਹਿਰਾਂ\N_NN ਅਨੁਸਾਰ\RB ਯੂਰੀਆ\N_NN ਖਾਦ\N_NN ਦੀ\PSP ਜ਼ਿਆਦਾ\RB ਵਰਤੋਂ\V_VM ਝੁਲਸ\N_NN ਰੋਗ\N_NN ,\RD_PUNC ਬੰਟ\N_NN ਦੇ\PSP ਹਮਲੇ\N_NN ਵਿਚ\PSP ਹੋਰ\RB ਵੀ\RP_RPD ਵਾਧਾ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13894	ਪਰ\CC_CCS ਇਸ\PR_PRP ਦੇ\PSP ਬਾਵਜੂਦ\N_NN ਵੀ\RP_RPD ਕਿਸਾਨ\N_NN ਆਪਣੀ\PR_PRF ਫ਼ਸਲ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਗੂੜ੍ਹਾ\JJ ਹਰਾ\JJ ਕਰਨ\V_VM_VF ਲਈ\PSP ਯੂਰੀਆ\N_NN ਖਾਦ\N_NN ਦੀ\PSP ਬੇਹਿਸਾਬੀ\RB ਵਰਤੋਂ\V_VM ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13895	ਪੰਜਾਬ\N_NNP ਅੰਦਰ\RB ਖਾਦਾਂ\N_NN ਦੀ\PSP ਕੁਲ\RB ਜ਼ਰੂਰਤ\N_NN ਤੋਂ\PSP ਕਰੀਬ\RB ਢਾਈ\QT_QTO ਗੁਣਾ\N_NN ਜ਼ਿਆਦਾ\RB ਵਰਤੋਂ\V_VM ਹੋ\V_VM_VF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13896	ਝੋਨੇ\N_NN ਦੇ\PSP ਖੇਤ\N_NN ਵਿਚ\PSP ਖਾਦਾਂ\N_NN ਦੀ\PSP ਸੁਚੱਜੀ\RB ਵਰਤੋਂ\V_VM ਲਈ\PSP ਪੰਜਾਬ\N_NNP ਖੇਤੀਬਾੜੀ\N_NNP ਯੂਨੀਵਰਸਿਟੀ\N_NNP ਵੱਲੋਂ\PSP ਮਿੱਟੀ\N_NN ਪਰਖ\N_NN ਕਰਾਉਣ\V_VM_VINF ਦੇ\PSP ਇਲਾਵਾ\RB ਨਾਈਟ੍ਰੋਜਨ\N_NN ਤੱਤ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਜਾਨਣ\N_NN ਲਈ\PSP `\RD_PUNC ਪੱਤਾ\N_NN ਰੰਗ\N_NN ਚਾਰਟ\N_NN `\RD_PUNC ਦੀ\PSP ਵਰਤੋਂ\N_NN ਨੂੰ\PSP ਉਤਸ਼ਾਹਿਤ\RB ਕੀਤਾ\V_VM_VF ਜਾ\V_VM_VNF ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13897	`\RD_PUNC ਪੱਤਾ\N_NN ਰੰਗ\N_NN ਚਾਰਟ\N_NN `\RD_PUNC ਪਲਾਸਟਿਕ\N_NN ਦੀ\PSP ਬਣੀ\V_VM_VINF ਹੋਈ\V_VM_VF 8\QT_QTF ਬਾਈ\N_NN 3\QT_QTF ਇੰਚ\N_NN ਦੀ\PSP ਇਕ\QT_QTC ਪੱਟੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13898	ਇਕ\QT_QTC ਨੰਬਰ\N_NN ਵਾਲੀ\PSP ਟਿੱਕੀ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਹਲਕਾ\JJ ਹਰਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13899	ਇਨ੍ਹਾਂ\PR_PRP ਟਿੱਕੀਆਂ\N_NN ਉੱਪਰ\RB ਬਾਰੀਕ-ਬਾਰੀਕ\JJ ਉਭਰਵੀਆਂ\JJ ਨਾੜੀਆਂ\N_NN ਬਣੀਆਂ\V_VM ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13900	ਰੋਗ\N_NN ਰਹਿਤ\JJ ਪੱਤੇ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਚਾਰਟ\N_NN ਨਾਲ\PSP ਮਿਲਾ\V_VM ਕੇ\V_VM_VNF ਫ਼ਸਲ\N_NN ਵਿਚ\PSP ਨਾਈਟ੍ਰੋਜਨ\N_NN ਖਾਦ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਲਗਾਇਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13901	25\QT_QTF ਕਿੱਲੋ\N_NN ਯੂਰੀਆ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਦੇ\PSP ਹਿਸਾਬ\N_NN ਨਾਲ\PSP ਪਾ\V_VM_VNF ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13902	ਜੇਕਰ\CC_CCS 6\QT_QTF ਜਾਂ\CC_CCD ਇਸ\PR_PRP ਤੋਂ\PSP ਵੱਧ\RB ਪੱਤਿਆਂ\N_NN ਦਾ\PSP ਰੰਗ\N_NN 4\QT_QTF ਨੰਬਰ\N_NN ਟਿੱਕੀ\N_NN ਤੋਂ\PSP ਗੂੜ੍ਹਾ\JJ ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਯੂਰੀਆ\N_NN ਖਾਦ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13903	ਰੰਗ\N_NN ਮਿਲਾਉਣ\N_NN ਵੇਲੇ\PSP ਪੱਤਿਆਂ\N_NN ਨੂੰ\PSP ਬੂਟੇ\N_NN ਨਾਲੋਂ\PSP ਤੋੜਨਾ\V_VM_VINF ਨਹੀਂ\RP_NEG ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC
+PBAD13904	ਰੰਗ\N_NN ਮਿਲਾਉਣ\V_VM_VINF ਵਾਲੇ\PSP ਵਿਅਕਤੀ\N_NN ਦਾ\PSP ਪਰਛਾਵਾਂ\N_NN ਪੱਤੇ\N_NN ਅਤੇ\CC_CCD ਚਾਰਟ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਪੈਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13905	ਜਦੋਂ\PR_PRL ਝੋਨਾ\N_NN ਨਿੱਸਰ\N_NN ਜਾਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\PR_PRP ਚਾਰਟ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13906	ਝੋਨੇ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਵਿਚ\PSP ਨਾਈਟਰੋਜਨ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਨੂੰ\PSP ਜਾਣਨ\N_NN ਲਈ\PSP ਪੱਤਾ\N_NN ਰੰਗ\N_NN ਚਾਰਟ\N_NN ਇਕ\QT_QTC ਸਫ਼ਲ\JJ ਯੰਤਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13907	ਇਸ\PR_PRP ਚਾਰਟ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰਕੇ\N_NN ਸਹੀ\JJ ਸਮੇਂ\N_NN ਅਤੇ\CC_CCD ਸਹੀ\JJ ਮਿਕਦਾਰ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਨਾਈਟ੍ਰੋਜਨ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13908	ਇਸ\PR_PRP ਚਾਰਟ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਪੰਜਾਬ\N_NNP ਖੇਤੀਬਾੜੀ\N_NNP ਯੂਨੀਵਰਸਿਟੀ\N_NNP ਵੱਲੋਂ\PSP ਝੋਨੇ\N_NN ਦੀਆਂ\PSP ਸਾਰੀਆਂ\RB ਪ੍ਰਮਾਣਿਤ\JJ ਕਿਸਮਾਂ\N_NN ਲਈ\PSP ਕੀਤੀ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13909	ਇਸ\PR_PRP ਤੋਂ\PSP ਇਲਾਵਾ\RB ਝੋਨੇ\N_NN ਦੀ\PSP ਫ਼ਸਲ\N_NN ਵਿਚ\PSP ਫਾਸਫੋਰਸ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਪ੍ਰਤੀ\PSP ਵੀ\RP_RPD ਕਿਸਾਨਾਂ\N_NN ਨੂੰ\PSP ਸੁਚੱਜੀ\JJ ਜਾਣਕਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBAD13910	ਪੰਜਾਬ\N_NNP ਦੀਆਂ\PSP ਲਗਭਗ\RB 75\QT_QTF ਫ਼ੀਸਦੀ\N_NN ਜ਼ਮੀਨਾਂ\N_NN ਵਿਚ\PSP ਪੋਟਾਸ਼ੀਅਮ\N_NN ਵਾਲੀਆਂ\PSP ਧਾਤਾਂ\N_NN ਮੌਜੂਦ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13911	20\QT_QTF ਕਿੱਲੋ\N_NN ਮਿਊਰੇਟ\N_NN ਆਫ਼\N_NN ਪੋਟਾਸ਼\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਝੋਨੇ\N_NN ਦਾ\PSP ਪੂਰੀ\RB ਗੁਣਵੱਤਾ\JJ ਵਾਲਾ\PSP ਝਾੜ\N_NN ਲਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13912	ਖੇਤੀ\N_NN ਵਿਗਿਆਨੀਆਂ\N_NN ਦੇ\PSP ਤਜਰਬੇ\N_NN ਅਨੁਸਾਰ\RB ਝੋਨੇ\N_NN ਨੂੰ\PSP 6\QT_QTF ਟਨ\N_NN ਰੂੜੀ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਇਕ\QT_QTC ਤਿਹਾਈ\QT_QTO ਯੂਰੀਆ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM ਘਟਾਈ\RB ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13913	ਜੇਕਰ\CC_CCS ਸੁੱਕਣੇ\JJ ਸ਼ੁਰੂ\RB ਹੋ\V_VM ਜਾਣ\V_VM_VINF ਤਾਂ\CC_CCD ਖੇਤ\N_NN ਵਿਚ\PSP ਜ਼ਿੰਕ\N_NN ਦੀ\PSP ਘਾਟ\RB ਪੈਦਾ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13914	ਇਸ\PR_PRP ਘਾਟ\RB ਨੂੰ\PSP ਪੂਰਾ\RB ਕਰਨ\N_NN ਲਈ\PSP 25\QT_QTF ਕਿੱਲੋ\N_NN ਜ਼ਿੰਕ\N_NN ਸਲਫ਼ੇਟ\N_NN ਹੈਪਟਾਹਾਈਡਰੇਟ\N_NN ਜਾਂ\CC_CCD 16\QT_QTF ਕਿੱਲੋ\N_NN ਜ਼ਿੰਕ\N_NN ਸਲਫ਼ੇਟ\N_NN ਮੋਨੋਹਾਈਡਰੇਟ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਵਿਚ\PSP ਖਿਲਾਰ\V_VM ਦੇਣਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13915	ਜੇਕਰ\CC_CCS ਖੇਤ\N_NN ਵਿਚ\PSP ਪਾਣੀ\N_NN ਦੀ\PSP ਘਾਟ\RB ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਖੇਤ\N_NN ਨੂੰ\PSP ਜਲਦੀ\RB ਹੀ\RP_RPD ਭਰਵਾਂ\RB ਪਾਣੀ\N_NN ਦੇਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13916	ਭਾਰਤੀ\N_NNP ਖੇਤੀ\N_NN ਖੋਜ\N_NN ਸੰਸਥਾਨ\N_NN (ਪੂਸਾ)\N_NN ਵੱਲੋਂ\PSP ਵਿਕਸਿਤ\JJ `\RD_PUNC ਪੂਸਾ\N_NN ਅਨਮੋਲ\N_NN `\RD_PUNC ਕਿਸਮ\N_NN ਸਾਲ\N_NN `\RD_PUNC ਚ\PSP ਤਿੰਨ\QT_QTC ਵਾਰ\PSP ਫੁੱਲ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13917	ਇਕ\QT_QTC ਵਾਰ\PSP ਅਕਤੂਬਰ-ਨਵੰਬਰ\N_NN `\RD_PUNC ਚ,\PSP ਦੂਜੀ\QT_QTO ਵੇਰ\PSP ਫਰਵਰੀ-ਮਾਰਚ\N_NN `\RD_PUNC ਚ\PSP ਤੇ\N_NN ਫਿਰ\RB ਜੂਨ-ਜੁਲਾਈ\N_NN `\RD_PUNC ਚ\PSP ।\RD_PUNC
+PBAD13918	ਗੁਲਦਾਉਦੀ\N_NN ਦੀਆਂ\PSP ਹੋਰ\RB ਦੂਜੀਆਂ\QT_QTO ਕਿਸਮਾਂ\N_NN ਕੇਵਲ\RB ਇਕ\QT_QTC ਵੇਰ\PSP ਹੀ\RP_RPD ਫ਼ਲ\N_NN ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13919	`\RD_PUNC ਪੂਸਾ\N_NN ਅਨਮੋਲ\N_NN `\RD_PUNC ਕਿਸਮ\N_NN ਟਰਾਂਸਪਲਾਂਟ\N_NN ਕਰਨ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB 85-100\QT_QTF ਦਿਨਾਂ\N_NN `\RD_PUNC ਚ\PSP ਫੁੱਲ\N_NN ਦੇ\PSP ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13920	ਇਹ\PR_PRP ਫੁੱਲ\N_NN ਖੁੱਲ੍ਹੇ\JJ ਅਤੇ\CC_CCD ਕੱਟ-ਫਲਾਵਰ\N_NN ਦੇ\PSP ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਇਸਤੇਮਾਲ\V_VM ਕੀਤੇ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13921	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਪੌਦੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD 10-12\QT_QTF ਸ਼ਾਖਾਂ\N_NN ਆਉਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13922	ਇਹ\PR_PRP ਫੁੱਲ\N_NN ਜ਼ਰਦ-ਗੁਲਾਬੀ\JJ ਰੰਗ\N_NN ਦੇ\PSP ਲੰਬੋਤਰੇ\JJ ਤੋਂ\PSP ਗੋਲ\JJ ਆਕਾਰ\N_NN `\RD_PUNC ਚ\PSP ਦੁਹਰੇ\JJ ਲਗਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13923	ਖਿੜੇ\JJ ਫੁੱਲਾਂ\N_NN `\RD_PUNC ਚ\PSP ਭਿਨੀ-ਭਿਨੀ\JJ ਖੁਸ਼ਬੂ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13924	`\RD_PUNC ਪੂਸਾ\N_NN ਅਨਮੋਲ\N_NN `\RD_PUNC ਦੇ\PSP ਪੌਦੇ\N_NN ਨੂੰ\PSP ਤੁਸੀਂ\PR_PRP ਕਟ\N_NN ਫਲਾਵਰ\N_NN ਦੇ\PSP ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਵੀ\RP_RPD ਵਰਤ\V_VM ਸਕਦੇ\V_VM_VF ਹੋ\V_VAUX ।\RD_PUNC
+PBAD13925	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਪੌਦੇ\N_NN ਦਾ\PSP ਕੱਦ\N_NN ਦਰਮਿਆਨਾ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13926	ਇਹ\PR_PRP ਫੁੱਲ\N_NN ਗਮਲੇ\N_NN `\RD_PUNC ਚ\PSP ਘਰ\N_NN ਦੀ\PSP ਸਜਾਵਟ\N_NN ਲਈ,\PSP ਧਾਰਮਿਕ\N_NN ਸਥਾਨਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਚੜ੍ਹਾਉਣ\V_VM_VINF ਅਤੇ\CC_CCD ਪੂਜਾ\N_NN ਲਈ\PSP ਅਤੇ\CC_CCD ਕੱਟ-ਫਲਾਵਰ\N_NN ਦੇ\PSP ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਵਰਤਿਆ\V_VM ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13927	ਵਪਾਰਕ\N_NN ਪੱਧਰ\N_NN `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਪੂਸਾ\N_NN ਅਨਮੋਲ\N_NN `\RD_PUNC ਕਿਸਮ\N_NN ਉਗਾ\V_VM ਕੇ\V_VM_VNF ਕਿਸਾਨ\N_NN ਚੋਖੀ\JJ ਕਮਾਈ\V_VM ਕਰ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13928	ਉੱਤਰ\N_NN ਦੇ\PSP ਮੈਦਾਨੀ\JJ ਖੇਤਰ\N_NN ਜਿਸ\PR_PRL ਵਿਚ\PSP ਪੰਜਾਬ,\N_NNP ਹਰਿਆਣਾ\N_NNP ਸ਼ਾਮਿਲ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBAD13929	ਇਸ\PR_PRP ਦੇ\PSP ਪੌਦੇ\N_NN 30\QT_QTF ×\RD_SYM 30\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਦੇ\PSP ਫਾਸਲੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਲਗਾਏ\V_VM ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13930	ਦੂਜੀਆਂ\QT_QTO ਕਿਸਮਾਂ\N_NN ਨਾਲੋਂ\PSP ਇਹ\PR_PRP ਪਹਿਲਾਂ\RB ਖਿੜਦੇ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13931	ਕਿਸਾਨ\N_NN ਇਸ\PR_PRP ਨੂੰ\PSP ਮਹਿੰਗੇ\JJ ਭਾਅ\N_NN ਵੇਚ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13932	ਅਕਤੂਬਰ\N_NN `\RD_PUNC ਚ\CC_CCD ਫੁੱਲ\N_NN ਲੈਣ\V_VM_VINF ਤੋਂ\PSP ਬਾਅਦ\RB ਪੌਦੇ\N_NN ਦੀ\PSP ਕਾਂਟ-ਛਾਂਟ\RB ਕਰ\V_VM_VF ਦੇਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13933	ਫਿਰ\RB ਇਹ\PR_PRP ਫਰਵਰੀ\N_NN `\RD_PUNC ਚ\PSP ਫੁੱਲ\N_NN ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13934	ਫੁੱਲ\N_NN ਲੈਣ\V_VM_VINF ਤੋਂ\PSP ਬਾਅਦ\RB ਇਸ\PR_PRP ਦੀ\PSP ਫਿਰ\RB ਕਾਂਟ-ਛਾਂਟ\N_NN ਕਰ\V_VM_VF ਦਿਉ\V_VM_VF ।\RD_PUNC
+PBAD13935	ਡਾ:\N_NNP ਜਾਨਕੀ\N_NNP ਰਾਮ\N_NNP ਕਹਿੰਦੇ\V_VM ਹਨ\V_VAUX ਕਿ\CC_CCS ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਭਾਰਤ\N_NNP ਦੇ\PSP ਸਾਰੇ\RB ਮੈਦਾਨੀ\JJ ਤੇ\CC_CCD ਪਹਾੜੀ\JJ ਇਲਾਕਿਆਂ\N_NN `\RD_PUNC ਚ\PSP ਲਗਾਈ\V_VM ਜਾ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13936	ਜਿੱਥੇ\PR_PRL ਤਾਪਮਾਨ\N_NN ਘੱਟ\JJ ਹੋਵੇ\V_VM_VF ਅਜਿਹੀਆਂ\RB ਥਾਵਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਇਸ\PR_PRP ਦਾ\PSP ਫੁੱਲ\N_NN ਦਿਲਕਸ਼\JJ ਰੰਗ\N_NN `\RD_PUNC ਚ\PSP ਖਿੜਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13937	ਡਾ:\N_NNP ਜਾਨਕੀ\N_NNP ਰਾਮ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਗਰਮੀਆਂ\N_NN `\RD_PUNC ਚ\PSP ਇਸ\PR_PRP ਦਾ\PSP ਸਟੈੱਮ\N_NN 10-12\QT_QTF ਰੁਪਏ\N_NN ਮਹਿੰਗਾ\JJ ਵਿਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13938	ਪੂਸਾ\N_NN ਸੰਸਥਾਨ\N_NN ਨੇ\PSP ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦਾ\PSP ਵੱਡੇ\JJ ਪੱਧਰ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਵਪਾਰੀਕਰਨ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਮਾਹੀਕੋ\N_NN ਸੀਡਜ਼\N_NN ਨਾਲ\PSP ਮੁਆਦਾ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13939	ਗੁਲਾਬ\N_NN ਤੇ\CC_CCD ਟਿਊਲਿਪ\N_NN ਨੂੰ\PSP ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਗੁਲਦਾਉਦੀ\N_NN ਵਪਾਰਕ\N_NN ਪੱਖੋਂ\N_NN ਤੀਜੇ\QT_QTO ਦਰਜੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13940	ਸਾਰੇ\JJ ਵਿਸ਼ਵ\N_NN `\RD_PUNC ਚ\PSP ਗੁਲਦਾਉਦੀ\N_NN ਦਾ\PSP ਫੁੱਲ\N_NN ਕੱਟ-ਫਲਾਵਰ\N_NN ਤੇ\CC_CCD ਗਮਲਿਆਂ\N_NN `\RD_PUNC ਚ\PSP ਘਰਾਂ\N_NN ਦੀ\PSP ਸਜਾਵਟ\N_NN ਲਈ\PSP ਵਰਤਿਆ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13941	ਭਾਰਤ\N_NNP `\RD_PUNC ਚ\PSP ਇਹ\PR_PRP ਲੂਜ਼\N_NN ਫੁੱਲਾਂ\N_NN ਦੇ\PSP ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਧਾਰਮਿਕ\JJ ਤੇ\N_NN ਰਵਾਇਤੀ\JJ ਸਜਾਵਟ\N_NN ਲਈ\PSP ਵਰਤੇ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13942	ਗੁਲਦਾਉਦੀ\N_NN ਨੂੰ\PSP ਘੱਟ\JJ ਧੁੱਪ\N_NN ਦੀ\PSP ਲੋੜ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13943	ਇਸੇ\PR_PRP ਲਈ\PSP ਇਹ\PR_PRP ਸਰਦੀਆਂ\N_NN ਦੇ\PSP ਮੌਸਮ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਵਧੀਆ\JJ ਫੁੱਲ\N_NN ਗਿਣਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13944	ਕਿਸਾਨ\N_NN ਬਾਗ਼ਬਾਨੀ\N_NN ਵਿਭਾਗ\N_NN ਤੋਂ\PSP ਇਸ\PR_PRP ਫੁੱਲ\N_NN ਦੇ\PSP ਫੈਲਾਅ\V_VM ਲਈ\PSP ਮਾਲੀ\N_NN ਸਹਾਇਤਾ\N_NN ਵੀ\RP_RPD ਲੈ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13945	ਪੰਜਾਬ\N_NNP `\RD_PUNC ਚ\PSP ਲਗਭਗ\RB 1900\QT_QTF ਹੈਕਟੇਅਰ\N_NN ਰਕਬੇ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਫੁੱਲਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13946	ਇਸ\PR_PRP ਵਿਚੋਂ\PSP 1100\QT_QTF ਹੈਕਟੇਅਰ\N_NN ਰਕਬਾ\N_NN ਕੱਟ-ਫਲਾਵਰ\N_NN ਅਤੇ\CC_CCD ਲੂਜ਼\N_NN ਫਲਾਵਰ\N_NN ਜਿਸ\PR_PRL ਵਿਚ\PSP ਜ਼ਿਆਦਾ\RB ਗੁਲਦਾਉਦੀ\N_NN ,\RD_PUNC ਗਲੈਡੁਲਾਈ\N_NN ਅਤੇ\CC_CCD ਗੇਂਦਾ\N_NN ਫੁੱਲ\N_NN ਸ਼ਾਮਲ\V_VM ਹਨ,\V_VAUX ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਥੱਲੇ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13947	ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਕਈ\DM_DMQ ਉਤਪਾਦਕ\N_NN ਫੁੱਲਾਂ\N_NN ਦੇ\PSP ਬੀਜ\N_NN ਪੈਦਾ\V_VM_VF ਕਰਕੇ\V_VM_VF ਵਧੀਆ\JJ ਕਮਾਈ\N_NN ਕਰ\V_VM_VF ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13948	ਉਨ੍ਹਾਂ\PR_PRP ਲਈ\PSP ਵੀ\RP_RPD `\RD_PUNC ਪੂਸਾ\N_NN ਅਨਮੋਲ\N_NN `\RD_PUNC ਇਕ\QT_QTC ਲਾਭਦਾਇਕ\JJ ਤੇ\CC_CCD ਆਦਰਸ਼ਕ\JJ ਕਿਸਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13949	ਡਾ:\N_NNP ਹਰੀਸ਼ੰਕਰ\N_NNP ਗੁਪਤਾ\N_NNP ਨੇ\PSP ਦੱਸਿਆ\V_VM ਕਿ\CC_CCS ਫ਼ਸਲੀ\N_NN ਵਿਭਿੰਨਤਾ\N_NN ਪੱਖੋਂ\N_NN ਛੋਟੇ\JJ ਕਿਸਾਨਾਂ\N_NN ਲਈ\PSP ਫ਼ੁੱਲਾਂ\N_NN ਦੀ\PSP ਵਪਾਰਕ\N_NN ਖੇਤੀ\N_NN ਕਰਨ\V_VM_VNG ਸਬੰਧੀ\N_NN `\RD_PUNC ਪੂਸਾ\N_NN ਅਨਮੋਲ\N_NN `\RD_PUNC ਤੋਂ\PSP ਬਾਅਦ\RB ਸੰਸਥਾਨ\N_NN ਨੇ\PSP ਗੁਲਦਾਉਦੀ\N_NN ਦੀਆਂ\N_NN ਕੁਝ\DM_DMQ ਹੋਰ\RB ਕਿਸਮਾਂ\N_NN ਵਿਕਸਿਤ\V_VM ਕੀਤੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13950	ਛੋਟੇ\JJ ਕਿਸਾਨ\N_NN ਫ਼ੁੱਲਾਂ\N_NN ਦੀ\PSP ਖੇਤੀ\N_NN ਕਰਕੇ\V_VM_VNF ਹੁਣ\RB ਆਪਣੀ\PR_PRF ਆਮਦਨ\N_NN ਵਧਾ\RB ਸਕਣਗੇ\V_VM_VF ।\RD_PUNC
+PBAD13951	ਗੁਲਦਾਉਦੀ\N_NN ਦੀਆਂ\PSP ਨਵੀਆਂ\JJ ਕਿਸਮਾਂ\N_NN ਜਿਨ੍ਹਾਂ\PR_PRL ਨੂੰ\PSP ਜਾਰੀ\V_VM ਕਰਨ\V_VM_VINF ਲਈ\PSP `\RD_PUNC ਫ਼ੁੱਲਾਂ\N_NN ਦੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਦੀ\PSP ਪਹਿਚਾਣ\V_VM_VINF ਕਰਨ\V_VM_VINF ਅਤੇ\CC_CCD ਪ੍ਰਵਾਨਗੀ\V_VM ਦੇਣ\V_VM_VINF ਵਾਲੀ\PSP ਕਮੇਟੀ\N_NN `\RD_PUNC ਵੱਲੋਂ\PSP ਜਾਰੀ\V_VM ਕੀਤੇ\V_VM_VF ਜਾਣ\V_VM_VINF ਸਬੰਧੀ\N_NN ਪ੍ਰਵਾਨ\V_VM ਕਰ\V_VM_VF ਲਈਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13952	ਪੂਸਾ\N_NN ਸੋਨਾ\N_NN ਕਿਸਮ\N_NN ਅਕਤੂਬਰ\N_NN ਦੇ\PSP ਅਖੀਰਲੇ\RB ਹਫ਼ਤੇ\N_NN ਫੁੱਲ\N_NN ਦੇਣੇ\V_VM_VINF ਸ਼ੁਰੂ\RB ਕਰ\V_VM_VF ਦੇਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13953	ਇਸ\PR_PRP ਤਰ੍ਹਾਂ\PSP ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਫੁੱਲ\N_NN ਹੋਰ\RB ਕਿਸਮਾਂ\N_NN ਨਾਲੋਂ\PSP 20\QT_QTF ਦਿਨ\N_NN ਅਗੇਤੀ\RB ਉਪਲਬਧ\V_VM ਹੋ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13954	ਇਹ\PR_PRP ਕਿਸਮ\N_NN ਗਮਲਿਆਂ\N_NN `\RD_PUNC ਚ\PSP ਲਾਉਣ\V_VM_VINF ਲਈ\PSP ਬਹੁਤ\DM_DMQ ਹੀ\RP_RPD ਅਨੁਕੂਲ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13955	ਫੁੱਲਾਂ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਜ਼ਰਦ\JJ ਅਤੇ\CC_CCD ਇਸ\PR_PRP ਦੇ\PSP ਪੌਦੇ\N_NN ਮਧਰੇ\JJ (\RD_SYM 25-30\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN )\RD_SYM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13956	ਇਹ\PR_PRP ਕਿਸਮ\N_NN `\RD_PUNC ਸਪ੍ਰੇਅ\N_NN ਟਾਈਪ\N_NN `\RD_PUNC ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13957	ਪੂਸਾ\N_NN ਅਰੁਣੋਦਿਆ\N_NN ਇਸ\PR_PRP ਦੇ\PSP ਪੌਦਿਆਂ\N_NN ਦੀ\PSP ਲੰਬਾਈ\N_NN ਦਰਮਿਆਨੀ\JJ (\RD_SYM 50-55\QT_QTF ਸ.ਮ.\N_NN )\RD_SYM ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13958	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦਾ\PSP ਫੈਲਾਅ\RB ਬੜਾ\DM_DMQ ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13959	ਫ਼ੁੱਲਾਂ\N_NN ਦਾ\PSP ਘੇਰਾ\N_NN 7-8\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਅਤੇ\CC_CCD ਆਕਾਰ\N_NN ਦੂਹਰਾ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13960	ਪੂਸਾ\N_NN ਕੇਸਰੀ\N_NN ਇਸ\PR_PRP ਦੇ\PSP ਪੌਦੇ\N_NN ਲੰਮੇ\JJ (\RD_SYM 65-70\QT_QTF ਸ.\N_NN ਮ.\N_NN )\RD_SYM ,\RD_PUNC ਵਧੀਆ\JJ ਫੈਲਾਅ\V_VM ਵਾਲੇ\PSP (\RD_SYM 60-65\QT_QTF ਸੈ.ਮੀ.\N_NN )\RD_SYM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13961	ਫੁੱਲਾਂ\N_NN ਦਾ\PSP ਆਕਾਰ\N_NN ਵੱਡਾ\JJ 9-10\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13962	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਫੁੱਲ\N_NN ਕੱਟ\N_NN ਫਲਾਵਰ\N_NN ਤੇ\CC_CCD `\RD_PUNC ਪੌਟ\N_NN ਨੁਮਾਇਸ਼\N_NN `\RD_PUNC ਦੋਵੇਂ\QT_QTO ਮੰਤਵਾਂ\N_NN ਲਈ\PSP ਇਸਤੇਮਾਲ\V_VM ਕੀਤੇ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13963	ਪੂਸਾ\N_NN ਅਦਿੱਤਿਆ\N_NN ਇਸ\PR_PRP ਦਾ\PSP ਪੌਦਾ\N_NN ਝਾੜੀ\N_NN ਵਾਲਾ\PSP ਜਿਸ\PR_PRL ਦੀਆਂ\PSP ਸ਼ਾਖ਼ਾਂ\N_NN 30-35\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13964	ਪੌਦੇ\N_NN ਦੀ\PSP ਉਚਾਈ\JJ 55-60\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਅਤੇ\CC_CCD ਫੈਲਾਅ\N_NN 45-60\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13965	ਫ਼ੁੱਲਾਂ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਜ਼ਰਦ\JJ ਅਤੇ\CC_CCD ਕੱਟ\N_NN ਫਲਾਵਰ\N_NN ਅਤੇ\CC_CCD ਪੌਟ\N_NN ਪਲਾਂਟ\N_NN ਦੋਹਾਂ\QT_QTO ਦੇ\PSP ਅਨੁਕੂਲ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13966	ਪੂਸਾ\N_NN ਚਿਤਰਾਕਸ਼ਾ\N_NN ਇਸ\PR_PRP ਦਾ\PSP ਪੌਦਾ\N_NN ਲੰਮਾ\JJ 60-65\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਫੈਲਾਅ\N_NN ਵੀ\RP_RPD ਏਨਾ\RB ਹੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13967	ਝਾੜੀ\N_NN ਟਾਈਪ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਸ਼ਾਖ਼ਾਂ\N_NN 24-30\QT_QTF ਸੈਂਟੀਮੀਟਰ\N_NN ਲੰਮੀਆਂ\JJ ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13968	ਇਸ\PR_PRP ਤੋਂ\PSP ਇਲਾਵਾ\RB ਸੰਸਥਾਨ\N_NN ਵੱਲੋਂ\PSP ਗੁਲਾਬ\N_NN ਦੀਆਂ\PSP `\RD_PUNC ਪੂਸਾ\N_NN ਅਰੁਣ\N_NN `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਪੂਸਾ\N_NN ਸ਼ਤਾਬਦੀ\N_NN `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਪੂਸਾ\N_NN ਅਜੇਯ\N_NN `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਪੂਸਾ\N_NN ਕੋਮਲ\N_NN `\RD_PUNC ਤੇ\N_NN `\RD_PUNC ਪੂਸਾ\N_NN ਮੋਹਿਤ\N_NN `\RD_PUNC ਕਿਸਮਾਂ\N_NN ਵਿਕਸਿਤ\V_VM ਕੀਤੀਆਂ\V_VM_VF ਗਈਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13969	ਪੂਸਾ\N_NN ਅਰੁਣ\N_NN ਕਿਸਮ\N_NN ਤੋਂ\PSP ਸਰਦੀਆਂ\N_NN `\RD_PUNC ਚ\PSP 20\QT_QTF ਫੁੱਲ\N_NN ਅਤੇ\CC_CCD ਬਹਾਰ\N_NN ਰੁੱਤ\N_NN `\RD_PUNC ਚ\PSP 35-40\QT_QTF ਫੁੱਲ\N_NN ਲਏ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13970	ਇਕ\QT_QTC ਫੁੱਲ\N_NN ਦੀਆਂ\PSP 38-40\QT_QTF ਭਰਪੂਰ\RB ਗੂੜ੍ਹੇ\JJ ਲਾਲ\JJ ਰੰਗ\N_NN ਦੀਆਂ\PSP ਪੱਤੀਆਂ\N_NN ਹੁੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13971	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਨੂੰ\PSP `\RD_PUNC ਪਾਊਂਡਰੀ\N_NN ਮਾਇਲਡਿਊ\N_NN `\RD_PUNC ਬਿਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਲਗਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13972	ਫੁੱਲ\N_NN `\RD_PUNC ਚ\PSP ਭਿੰਨੀ-ਭਿੰਨੀ\RB ਖੁਸ਼ਬੂ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13973	ਇਹ\PR_PRP ਫੁੱਲ\N_NN ਪੰਜ\QT_QTC ਤਾਰਾ\N_NN ਹੋਟਲਾਂ\N_NN `\RD_PUNC ਚ\PSP ਬੜਾ\DM_DMQ ਪਸੰਦ\V_VM ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13974	ਪੂਸਾ\N_NN ਸ਼ਤਾਬਦੀ\N_NN :\RD_PUNC ਬਹਾਰ\N_NN ਰੁੱਤ\N_NN `\RD_PUNC ਚ\PSP 35-40\QT_QTF ਅਤੇ\CC_CCD ਸਰਦ\N_NN ਰੁੱਤ\N_NN `\RD_PUNC ਚ\PSP 20-30\QT_QTF ਫੁੱਲ\N_NN ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13975	ਫੁੱਲਾਂ\N_NN ਦਾ\PSP ਰੰਗ\N_NN ਹਲਕਾ\JJ ਗੁਲਾਬੀ\JJ ਅਤੇ\CC_CCD ਪੱਤੀਆਂ\N_NN 35-40\QT_QTF ਉਪਲਬਧ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13976	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਫੁੱਲ\N_NN ਕੱਟ\N_NN ਫਲਾਵਰ\N_NN ,\RD_PUNC ਉਦਯੋਗ\N_NN ਅਤੇ\CC_CCD ਨੁਮਾਇਸ਼ਾਂ\N_NN `\RD_PUNC ਚ\PSP ਵਰਤਣ\V_VM ਦੇ\PSP ਅਨੁਕੂਲ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13977	ਪੂਸਾ\N_NN ਅਜੇਯ\N_NN :\RD_PUNC ਇਸ\N_NN ਕਿਸਮ\N_NN ਦਾ\PSP ਪੌਦਾ\N_NN ਬਹਾਰ\N_NN ਰੁੱਤ\N_NN `\RD_PUNC ਚ\N_NN 35-40\N_NN ਅਤੇ\CC_CCD ਸਰਦ\N_NN ਰੁੱਤ\N_NN `\RD_PUNC ਚ\N_NN 15-20\N_NN ਫੁੱਲ\N_NN ਦੇ\PSP ਦਿੰਦਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13978	ਪੂਸਾ\N_NN ਕੋਮਲ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦਾ\PSP ਪੌਦਾ\N_NN ਬਹਾਰ\N_NN ਰੁੱਤ\N_NN `\RD_PUNC ਚ\PSP 60\QT_QTF ਤੋਂ\PSP 65\N_NN ਅਤੇ\CC_CCD ਸਰਦੀਆਂ\N_NN `\RD_PUNC ਚ\PSP 40-45\QT_QTF ਫੁੱਲ\N_NN ਦੇ\PSP ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13979	ਹਰ\RB ਫੁੱਲ\N_NN ਤੋਂ\PSP 50\QT_QTF ਤੋਂ\PSP 60\QT_QTF ਪੱਤੀਆਂ\N_NN ਉਤਰਦੀਆਂ\V_VM ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13980	ਇਹ\PR_PRP ਕਿਸਮ\N_NN `\RD_PUNC ਪਾਊਡਰੀ\N_NN ਮਾਇਲਡਿਊ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਥਰਿੱਪ\N_NN ਜਿਹੀਆਂ\RB ਬਿਮਾਰੀਆਂ\N_NN ਤੋਂ\PSP ਮੁਕਤ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13981	ਇਸ\PR_PRP ਕਿਸਮ\N_NN `\RD_PUNC ਚ\PSP ਵਾਧਾ\RB ਇਹ\PR_PRP ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਸ\PR_PRP ਦਾ\PSP ਪੌਦਾ\N_NN ਗਰਮੀਆਂ\N_NN `\RD_PUNC ਚ\PSP ਵੀ\RP_RPD ਲਾਇਆ\V_VM_VF ਜਾ\V_VM_VNF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13982	ਪੂਸਾ\N_NN ਮੋਹਿਤ\N_NN :\RD_PUNC ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਦੇ\PSP ਪੌਦੇ\N_NN ਨੂੰ\PSP ਬਹਾਰ\N_NN ਤੇ\CC_CCD ਸਰਦ\N_NN ਦੋਵੇਂ\QT_QTO ਮੌਸਮਾਂ\N_NN `\RD_PUNC ਚ\PSP 45\QT_QTF ਫੁੱਲ\N_NN ਲਗਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13983	ਇਸ\PR_PRP ਕਿਸਮ\N_NN `\RD_PUNC ਚ\PSP ਵਾਧਾ\RB ਇਹ\PR_PRP ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਹ\PR_PRP ਕੰਡਿਆਂ\N_NN ਤੋਂ\PSP ਰਹਿਤ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13984	ਇਸ\PR_PRP ਕਿਸਮ\N_NN ਨੂੰ\PSP ਬਲੈਕ\N_NN ਸਪਾਟ\N_NN ਦੀ\PSP ਬਿਮਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਲਗਦੀ\V_VM_VF ।\RD_PUNC
+PBAD13985	ਡਾ:\N_NNP ਟੀ.\N_NNP ਜਾਨਕੀਰਾਮ\N_NNP ਨੇ\PSP ਦੱਸਿਆ\V_VM ਕਿ\CC_CCS ਇਹ\PR_PRP ਕਿਸਮਾਂ\N_NN ਮਤਵਾਤਰ\N_NN ਸਾਰਾ\RB ਸਾਲ\N_NN ਫੁੱਲ\N_NN ਦਿੰਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13986	ਪਰੰਤੂ\CC_CCS ਪੰਜਾਬ\N_NNP `\RD_PUNC ਚ\PSP ਜਦੋਂ\PR_PRL ਮਈ-ਜੂਨ\N_NN `\RD_PUNC ਚ\PSP ਤਾਪਮਾਨ\N_NN ਬੜਾ\RB ਵਧ\JJ ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਦਸੰਬਰ-ਜਨਵਰੀ\N_NN `\RD_PUNC ਚ\PSP ਬਹੁਤ\DM_DMQ ਘੱਟ\JJ ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\N_NN ਫੁੱਲਾਂ\N_NN ਦਾ\PSP ਲਗਣਾ\V_VM_VINF ਵੀ\RP_RPD ਘਟ\JJ ਹੋ\V_VM_VNF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13987	ਇਕ\QT_QTC ਹੈਕਟੇਅਰ\N_NN ਤੇ\CC_CCD ਫੁੱਲਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਕਰਨ\N_NN ਲਈ\PSP 5\QT_QTF ਤੋਂ\PSP 6\QT_QTF ਲੱਖ\QT_QTC ਰੁਪਇਆ\N_NN ਖਰਚ\V_VM ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD13988	ਵਪਾਰਕ\N_NN ਪੱਧਰ\N_NN ਤੇ\N_NN ਬਾਗ਼\N_NN ਲਾਉਣ\V_VM_VINF ਲਈ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਕਿਸਮਾਂ\N_NN ਦੇ\PSP ਬੂਟੇ\N_NN ਵਪਾਰਕ\N_NN ਕੰਪਨੀਆਂ\N_NN ਤੋਂ\PSP ਉਪਲਬਧ\V_VM ਹੋ\V_VM_VNF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13989	ਭਾਰਤ\N_NNP `\RD_PUNC ਚ\PSP ਫੁੱਲਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਦਿਨੋ-ਦਿਨ\RB ਵਧ\RB ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13990	ਤਕਰੀਬਨ\RB 1.91\QT_QTF ਲੱਖ\QT_QTC ਹੈਕਟੇਅਰ\N_NN ਰਕਬਾ\N_NN ਫੁੱਲਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਥੱਲੇ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBAD13991	ਪੂਸਾ\N_NN ਸੰਸਥਾਨ\N_NN ਵੱਲੋਂ\PSP ਵਿਕਸਿਤ\DM_DMQ ਕੀਤੀਆਂ\V_VM_VF ਗਈਆਂ\V_VM_VF ਗੁਲਦਾਉਦੀ\N_NN ਅਤੇ\CC_CCD ਗੁਲਾਬ\N_NN ਦੀਆਂ\PSP ਕਿਸਮਾਂ\N_NN ਫੁੱਲਾਂ\N_NN ਦੀ\PSP ਖੇਤੀ\N_NN ਦਾ\PSP ਵਿਸਥਾਰ\RB ਕਰਨ\V_VM_VINF ਲਈ\PSP ਬਹੁਤ\DM_DMQ ਅਨੁਕੂਲ\JJ ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13992	ਪੰਜਾਬ\N_NNP `\RD_PUNC ਚ\PSP ਫੁੱਲਾਂ\N_NN ਦੀ\PSP ਕਾਸ਼ਤ\N_NN ਤਕਰੀਬਨ\RB 2100\QT_QTF ਹੈਕਟੇਅਰ\N_NN ਰਕਬੇ\N_NN ਤੇ\CC_CCD ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13993	ਲੀਚੀ\N_NN ਦਾ\PSP ਫਲ\N_NN ਪ੍ਰਤੀ\N_NN ਬੂਟਾ\N_NN 100-200\QT_QTF ਕਿਲੋ\N_NN ਫਲ\N_NN ਦੇ\PSP ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13994	ਇਕ\QT_QTC ਏਕੜ\N_NN ਵਿਚ\PSP ਲੀਚੀ\N_NN ਦੇ\PSP 72\QT_QTF ਬੂਟੇ\N_NN ਲਗਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBAD13995	ਜੇਕਰ\CC_CCS ਪ੍ਰਤੀ\N_NN ਬੂਟਾ\N_NN 110\QT_QTF ਕਿਲੋ\N_NN ਔਸਤਨ\N_NN ਫਲ\N_NN ਦੇਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN 7920\QT_QTF ਕਿਲੋ\N_NN ਲੀਚੀ\N_NN ਦਾ\PSP ਫਲ\N_NN ਮਿਲ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13996	ਜੇਕਰ\CC_CCS ਥੋਕ\N_NN ਮਾਰਕੀਟ\N_NN ਵਿਚ\PSP ਇਸ\PR_PRP ਦੀ\PSP ਵਿਕਰੀ\N_NN 26\QT_QTF ਰੁਪਏ\N_NN ਪ੍ਰਤੀ\N_NN ਕਿਲੋ\N_NN ਵੀ\RP_RPD ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\PR_PRP ਤੋਂ\PSP 2,05,920\QT_QTF ਰੁਪਏ\N_NN ਪ੍ਰਤੀ\N_NN ਏਕੜ\N_NN ਵੱਟਤ\V_VM ਹੋ\V_VM_VNF ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13997	ਉਂਜ\RB ਵੀ\RP_RPD ਮਾਰਕੀਟ\N_NN ਵਿਚ\PSP ਪ੍ਰਚੂਨ\N_NN ਕੀਮਤ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਲੀਚੀ\N_NN 60-70\QT_QTF ਰੁਪਏ\N_NN ਕਿਲੋ\N_NN ਵਿਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBAD13998	ਲੀਚੀ\N_NN ਉਤਪਾਦਨ\N_NN ਵਿਚ\PSP ਵੱਡੀ\JJ ਸਮੱਸਿਆ\N_NN ਹੈ\V_VAUX :\RD_PUNC ਇਸ\CC_CCD ਦੇ\PSP ਫਲ\N_NN ਦਾ\PSP ਫਟ\RB ਜਾਣਾ\V_VM_VINF ।\RD_PUNC
+PBAD13999	ਅੱਜ\RB ਜਦੋਂ\PR_PRL ਪੰਜਾਬ\N_NNP `\RD_PUNC ਚ\PSP ਫਸਲੀ\JJ ਵਿਭਿੰਨਤਾ\N_NN ਨੂੰ\PSP ਕਾਮਯਾਬ\RB ਕਰਨ\V_VM_VINF ਲਈ\PSP ਖੇਤੀ\N_NN ਮਾਹਿਰਾਂ\N_NN ਵੱਲੋਂ\PSP ਬਾਗਬਾਨੀ\N_NN ਨੂੰ\PSP ਰਵਾਇਤੀ\JJ ਖੇਤੀ\N_NN ਦੇ\PSP ਬਦਲ\N_NN ਵਜੋਂ\PSP ਤਲਾਸ਼ਿਆ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBAD14000	ਹੁਸ਼ਿਆਰਪੁਰ\N_NNP ਦੇ\PSP ਬਲਾਕ\N_NN ਭੂੰਗਾ\N_NNP ਅਧੀਨ\RB ਪੈਂਦੇ\V_VM_VF ਪਿੰਡ\N_NN ਦੌਲਤਪੁਰ\N_NNP ਗਿੱਲਾਂ\N_NNP ਦੇ\PSP ਮਨਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਪਰਿਵਾਰ\N_NN ਦੀ\PSP ਤੀਜੀ\QT_QTO ਪੀੜ੍ਹੀ\N_NN ਬਾਗਬਾਨੀ\N_NN ਦੇ\PSP ਕਿੱਤੇ,\N_NN ਖਾਸਕਰ\N_NN ਕਿੰਨੂ\N_NN ਕਾਸ਼ਤਕਾਰੀ\N_NN ਦੇ\PSP ਕਿੱਤੇ\N_NN `\RD_PUNC ਚੋਂ\PSP ਚੰਗਾ\JJ ਰਿਜ਼ਕ\N_NN ਕਮਾਉਣ\V_VM_VINF ਦਾ\PSP ਸਫ਼ਰ\N_NN ਤੈਅ\V_VM_VF ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC

@@ -1,0 +1,1001 @@
+ID	Value
+PBED3001	ਸਨਮਾਨ\N_NNP ਖ਼ਾਨ\N_NNP ਨਾਲ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3002	ਇਸ\DM_DMD ਤੋਂ\PSP ਵੱਡਾ\JJ ਤੋਹਫਾ\N_NN ਜੈਕਲਿਨ\N_NNP ਫਰਨਾਂਡਿਜ਼\N_NNP ਲਈ\PSP ਹੋਰ\QT_QTF ਕੀ\DM_DMQ ਹੋ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3003	ਵਿਦੇਸ਼ਣ\JJ ਹੋ\V_VM ਕੇ\RP_RPD ਵੀ\RP_RPD ਸਾਡੇ\PR_PRP ਦੇਸੀ\N_NN ਰੰਗ\N_NN `\RD_PUNC ਚ\PSP ਰੰਗੀ\N_NN ਜਾਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਜੈਕਲਿਨ\N_NNP ਨੇ\PSP ਸਲਮਾਨ\N_NNP ਤੋਂ\PSP ਬਹੁਤ\QT_QTF ਕੁਝ\QT_QTF ਸਿੱਖਿਆ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3004	ਤੇ\CC_CCS ਖਾਸ\JJ ਕਰ\V_VM ਸਟੰਟ\N_NN ਐਕਸ਼ਨ\N_NN |\N_NN ਜਿੰਮ,\N_NN ਭਾਰ\N_NN ਚੁੱਕਣਾ\V_VM_VNF ਤੇ\CC_CCD ਯੋਗਾ\N_NN ਸਭ\PR_PRP ਦਾ\PSP ਅਸਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3005	ਕਿ\CC_CCS ਉਹ\PR_PRP ਕਾਫ਼ੀ\JJ ਪਤਲੀ\N_NN ਤੇ\CC_CCD ਫਿੱਟ\N_NN ਹੋ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3006	ਪੋਲੈਂਡ\N_NNP `\RD_PUNC ਚ\PSP `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਲਈ\PSP ਪਸੀਨਾ\N_NN ਉਸ\PR_PRP ਨੇ\PSP ਹੱਦ\N_NN ਤੋਂ\PSP ਵੱਧ\N_NN ਵਹਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3007	ਸਵੇਰੇ\RB ਲੰਮੀ\N_NN ਸੈਰ\N_NN ,\RD_PUNC ਸਾਈਕਿਲੰਗ\N_NN ਤੇ\CC_CCD ਡੰਡ\N_NN ਬੈਠਕਾਂ\N_NN ਸਭ\PR_PRP ਕੁਝ\QT_QTF ਉਸ\PR_PRP ਨੂੰ\PSP ਕਰਨਾ\V_VM_VF ਪਿਆ\V_VM_VF |\RD_PUNC
+PBED3008	ਜੈਕੀ\N_NNP ਲਈ\PSP ਪੋਲੈਂਡ\N_NNP ਵਾਲਾ\V_VM_VF ਇਹ\DM_DMD `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਫ਼ਿਲਮਾਂਕਣ\N_NN ਥਕਾਵਟ\N_NN ਦਾ\PSP ਦੂਜਾ\QT_QTO ਨਾਂਅ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3009	ਐਕਸ਼ਨ\N_NN ਗਰਲ\N_NN ਬਣਨ\V_VM_VNF ਲਈ\PSP ਉੱਖਲੀ\N_NN `\RD_PUNC ਚ\PSP ਸਿਰ\N_NN ਦੇਣਾ\N_NN ਹੀ\RP_RPD ਪੈਣਾ\V_VM_VINF ਸੀ\V_VAUX |\RD_PUNC
+PBED3010	`\RD_PUNC ਹਾਊਸਫੁਲ-3\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਮਿਲਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3011	`\RD_PUNC ਮਰਡਰ-2\N_NNP `\RD_PUNC ਤੋਂ\PSP ਹੀ\RP_RPD ਉਹ\PR_PRP ਸਖਤ\JJ ਮਿਹਨਤ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3012	ਪ੍ਰਸੰਸਕ\N_NN ਨਿੱਤ\RB ਦਿਨ\N_NN ਵਧ\JJ ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3013	ਨਾਚ\N_NN ਲਈ\PSP ਵੀ\RP_RPD ਪੋਲੈਂਡ\N_NNP `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਖਾਸ\JJ ਮੁਸ਼ੱਕਤ\N_NN ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBED3014	ਕਸਰਤ\N_NN ਸੌਖੀ\JJ ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBED3015	ਉਂਜ\DM_DMR `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਜੈਕਲਿਨ\N_NNP ਫਰਨਾਂਡਿਜ਼\N_NNP ਲਈ\PSP ਕਿਸੇ\DM_DMQ `\RD_PUNC ਕਮਾਂਡੋ\N_NN `\RD_PUNC ਟ੍ਰੇਨਿੰਗ\N_NN ਤੋਂ\PSP ਘੱਟ\QT_QTF ਨਹੀਂ\RP_NEG ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3016	ਲਗਨ\N_NN ਤੇ\CC_CCD ਸਬਰ\N_NN ਨੇ\PSP ਅੱਜ\RB ਉਸ\PR_PRP ਦਾ\PSP ਵਜੂਦ\N_NN ਕਾਇਮ\N_NN ਰੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3017	ਸ੍ਰੀਮਤੀ\N_NNP ਅਜੇ\N_NNP ਦੇਵਗਨ\N_NNP ਦੋ\QT_QTC ਬੱਚਿਆਂ\N_NN ਸਮੇਤ\N_NN ਪੂਰੇ\JJ ਪਰਿਵਾਰ\N_NN ਨੂੰ\PSP ਖੁਸ਼\N_NN ਤੇ\CC_CCD ਸਿਹਤਮੰਦ\N_NN ਰੱਖ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3018	ਇਸ\DM_DMD ਲਈ\PSP ਹੀ\RP_RPD ਕਾਜੋਲ\N_NNP ਨੂੰ\PSP `\RD_PUNC ਮਾਈਟੀ\N_NNP ਮੌਮ\N_NNP `\RD_PUNC ਦਾ\PSP ਵਕਾਰੀ\N_NN ਸਨਮਾਨ\N_NN ਮਿਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3019	ਉਸ\PR_PRP ਕਿਹਾ\V_VM_VF ਕਿ\CC_CCS ਹਰ\QT_QTF ਮਾਂ\N_NN ਸ਼ਕਤੀਸ਼ਾਲੀ\JJ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3020	ਹਰ\QT_QTF ਮਾਂ\N_NN ਇਸ\DM_DMD ਸਨਮਾਨ\N_NN ਦੀ\PSP ਹੱਕਦਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3021	ਕਾਜੋਲ\N_NNP ਨੇ\PSP `\RD_PUNC ਐਨੀਮੇਸ਼ਨ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC `\RD_PUNC ਮਾਈਟੀ\N_NNP ਰਾਜੂ\N_NNP `\RD_PUNC ਦਾ\PSP ਟਰੇਲਰ\N_NN ਵੀ\RP_RPD ਪਿਛਲੇ\RB ਦਿਨੀਂ\N_NN ਲੋਕਾਂ\N_NN ਸਨਮੁਖ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3022	ਕਾਜੋਲ\N_NNP ਜਿਵੇਂ\RP_CL ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਸਫ਼ਲ\N_NN ਰਹੀ,\V_VM_VF ਉਸ\PR_PRP ਤਰਾਂ\PSP ਹੀ\RP_RPD ਘਰੇਲੂ\N_NN ਜੀਵਨ\N_NN ਸਫ਼ਲਤਾ\N_NN ਪੂਰਵਕ\N_NN ਚਲਾ\V_VM_VF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3023	ਹੁਣ\RB ਤਾਂ\PSP ਰਾਣੀ\N_NNP ਮੁਖਰਜੀ\N_NNP ਵੀ\RP_RPD ਕਾਜੋਲ\N_NNP ਦੇ\PSP ਕਦਮਾਂ\N_NN `\RD_PUNC ਤੇ\RB ਚੱਲਣ\V_VM_VNF ਦੀ\PSP ਗੱਲ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3024	ਕਾਜੋਲ\N_NNP ਆਪਣੀ\PR_PRF ਮਾਂ\N_NN ਤਨੂਜਾ\N_NNP ਦੇ\PSP ਬਹੁਤ\JJ ਨਜ਼ਦੀਕ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3025	ਤਨੂਜਾ\N_NNP ਤੋਂ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਬਹੁਤ\JJ ਕੁਝ\QT_QTF ਘਰੇਲੂ\N_NN ਜ਼ਿੰਦਗੀ\N_NN ਸਬੰਧੀ\N_NN ਸਿੱਖਿਆ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3026	ਸੁਣਨ\V_VM_VNF ਵਿਚ\PSP ਆਇਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕਾਜੋਲ\N_NNP ਨਿੱਕੇ\N_NN ਪਰਦੇ\N_NN ਦੀ\PSP ਸ਼ਾਨ\N_NN ਬਣਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3027	`\RD_PUNC ਦਾ\N_NNP ਕਿਿਲੰਗ\N_NNP `\RD_PUNC ਤੇ\RB ਬਣ\V_VM ਰਹੇ\V_VM_VF ਇਕ\QT_QTC ਸ਼ੋਅ\N_NN ਲਈ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਹਾਂ\N_NN ਵੀ\RP_RPD ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBED3028	ਕਾਜੋਲ\N_NNP ਇਕ\QT_QTC ਖੋਜਣ\V_VM_VNF ਦੇ\PSP ਕਿਰਦਾਰ\N_NN ਵਿਚ\PSP ਨਜ਼ਰ\N_NN ਆਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3029	ਹਾਲਾਂਕਿ\CC_CCS ਪੂਰੀ\N_NN ਤਰ੍ਹਾਂ\PSP ਕਾਜੋਲ\N_NNP ਨੇ\PSP ਟੀ.\N_NN ਵੀ.\N_NN `\RD_PUNC ਤੇ\RB ਆਉਣ\V_VM_VNF ਦੀ\PSP ਖ਼ਬਰ\N_NN ਦੀ\PSP ਪੁਸ਼ਟੀ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3030	ਇਸ\DM_DMD ਦੌਰਾਨ\RB ਕਰਨ\N_NNP ਜੌਹਰ\N_NNP ਨਾਲ\PSP ਕਾਜੋਲ\N_NNP ਦੇ\PSP ਮਤਭੇਦ\N_NN ਹੋ\V_VM ਗਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3031	ਕਰਨ\N_NNP ਪਹਿਲਾਂ\QT_QTO ਕਾਜੋਲ\N_NNP ਦੇ\PSP ਬੇਟੇ\N_NN ਯੁੱਗ\N_NNP ਲਈ\PSP ਅਕਸਰ\N_NN ਤੋਹਫ਼ੇ\N_NN ਲੈ\V_VM ਕੇ\RP_RPD ਆਉਂਦਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3032	ਕਾਜੋਲ\N_NNP ਨੇ\PSP ਕਰਨ\N_NNP ਨਾਲ\PSP ਛੇਤੀ\RB ਹੀ\RP_RPD ਸੁਲਾਹ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਕਰਕੇ\V_VM_VF ਸਿਆਣੀ\N_NN ਹੋਣ\V_VM_VNF ਦਾ\PSP ਪ੍ਰਭਾਵ\N_NN ਵੀ\RP_RPD ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3033	ਕਾਜੋਲ\N_NNP ਬੱਚਿਆਂ\N_NN ਦੇ\PSP ਸ਼ੋਅ\N_NN `\RD_PUNC ਛੋਟਾ\N_NNP ਭੀਮ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਮਾਈਟੀ\N_NNP ਰਾਜੂ\N_NNP `\RD_PUNC ਨੂੰ\PSP ਵੀ\RP_RPD ਸਰਾਹ\N_NN ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3034	ਔਰਤਾਂ\N_NN ਨੂੰ\PSP ਕਾਜੋਲ\N_NNP ਦੀ\PSP ਸਲਾਹ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਆਪਣੇ\PR_PRF ਬੱਚਿਆਂ\N_NN `\RD_PUNC ਤੇ\RB ਨਜ਼ਰ\N_NN ਰੱਖਣ\V_VM_VNF ਤੇ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRL ਦੀ\PSP ਹਰ\QT_QTF ਸਰਗਰਮੀ\N_NN ਵਾਚਦੇ\V_VM_VF ਰਹਿਣ\V_VM_VNF ਤਾਂ\PSP ਹਮੇਸ਼ਾ\RB ਬੱਚੇ\N_NN ਸਹੀ\N_NN ਦਿਸ਼ਾ\N_NN `\RD_PUNC ਤੇ\N_NST ਚੱਲਣਗੇ\V_VM_VF |\RD_PUNC
+PBED3035	ਸੱਚ\N_NN ਮਾਈਟੀ\JJ ਮੌਮ\N_NN ਹੈ\V_VAUX ਕਾਜੋਲ...\N_NNP |\RD_PUNC
+PBED3036	`\RD_PUNC ਪਾਰਟਰਨ-2\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਫੈਂਟਮ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਫਤੂਰ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਜੱਗਾ\N_NNP ਜਾਸੂਸ\N_NNP `\RD_PUNC ਕੈਟਰੀਨਾ\N_NNP ਕੈਫ਼\N_NNP ਦੀਆਂ\PSP ਆਉਣ\V_VM_VNF ਵਾਲੀਆਂ\V_VM_VF ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3037	ਅੱਜ\RB ਕੱਲ\RB ਖੂਬ\JJ ਸਾਰੀ\QT_QTF ਚਲਾਕੀ\N_NN ਉਸ\PR_PRP `\RD_PUNC ਚ\PSP ਆ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3038	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਸਬੰਧੀ\N_NN ਪੁੱਛੇ\V_VM_VF ਸਵਾਲਾਂ\N_NN ਦੇ\PSP ਜਵਾਬ\N_NN ਪੂਰੀ\N_NN ਚਤੁਰਾਈ\N_NN ਨਾਲ\PSP ਉਹ\PR_PRP ਟਾਲ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3039	ਸਪੇਨ\N_NNP ਵਿਖੇ\N_NST ਕਰਵਾਏ\V_VM_VF ਰਣਬੀਰ\N_NNP ਨਾਲ\PSP ਨਵੇਂ\N_NN ਫੋਟੋਜ਼\N_NN ਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਛਪਣਾ\N_NN ਆਪਣੇ-ਆਪ\PR_PRF `\RD_PUNC ਚ\PSP ਸਬੂਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3040	ਪਰ\CC_CCS ਕੈਟੀ\N_NNP ਹਾਲੇ\RB ਵੀ\RP_RPD ਇਹਨਾਂ\PR_PRL ਸਬੰਧਾਂ\N_NN ਤੇ\RB ਨਾਂਹ\RP_NEG ਨੁੱਕਰ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3041	ਨਿਯਮਤ\N_NN ਰੂਪ\N_NN `\RD_PUNC ਚ\PSP ਉਹ\PR_PRP ਰਣਬੀਰ\N_NNP ਨਾਲ\PSP ਪਾਰਟੀਆਂ\N_NN `\RD_PUNC ਚ\PSP ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3042	ਜਦ\DM_DMR ਰਣਬੀਰ\N_NNP ਨੇ\PSP ਇਹ\DM_DMD ਕਹਿ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਭਿਨੈ\N_NN ਦੇ\PSP ਮਾਮਲੇ\N_NN `\RD_PUNC ਚ\PSP ਦੀਪਿਕਾ\N_NNP ਤੋਂ\PSP ਉਨੀ\QT_QTC ਨਹੀਂ\RP_NEG ਵੀਹ\QT_QTC ਹੈ\V_VAUX ਕੈਟਰੀਨਾ\N_NNP ਤਦ\DM_DMR ਪਿਛੇ\RB ਹੋਰ\PSP ਰਹਿ\V_VM ਹੀ\RP_RPD ਕੀ\DM_DMQ ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3043	ਚਲੋ\V_VM_VF ,\RD_PUNC ਇਹ\DM_DMD ਤਾਂ\PSP ਕੈਟਰੀਨਾ\N_NNP ਦਾ\PSP ਨਿੱਜੀ\N_NN ਮਾਮਲਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3044	ਉਹ\PR_PRP ਇਕ\QT_QTC ਜਾਣੀ\V_VM_VINF -\RD_PUNC ਪਛਾਣੀ\V_VM_VINF ਸਟਾਰ\N_NN ਨਾਇਕਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3045	`\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ਦੇ\PSP ਸੈੱਟ\N_NN `\RD_PUNC ਤੇ\RB ਰਿਤਿਕ\N_NNP ਰੌਸ਼ਨ\N_NNP ਨੂੰ\PSP ਉਸ\PR_PRP ਨਾਲੋਂ\PSP ਮਿਲਦੀ\V_VM_VF ਜ਼ਿਆਦਾ\JJ ਤਵੱਜੋਂ\N_NN ਨੇ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਦਿਮਾਗ\N_NN ਖਰਾਬ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3046	ਨਿਰਮਾਣ\N_NN ਕੰਪਨੀ\N_NN ਨੇ\PSP ਰਿਤਿਕ\N_NNP ਨੂੰ\PSP ਨਿੱਜੀ\N_NN ਕਰਮਚਾਰੀ\N_NN ਉਪਲਬੱਧ\N_NN ਕਰਵਾਏ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3047	ਰਿਤਿਕ\N_NNP ਕੋਲ\RB ਜਾਣ\V_VM_VNF ਵਾਲੇ\V_VM_VF ਹਰ\QT_QTF ਸ਼ਖਸ\N_NN ਤੇ\RB ਇਹਨਾਂ\PR_PRL ਕਰਮਚਾਰੀਆਂ\N_NN ਦੀ\PSP ਐਕਸਰੇਨੁਮਾ\N_NN ਨਜ਼ਰ\N_NN ਰਹਿੰਦੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3048	ਰਿਤਿਕ\N_NNP ਨੂੰ\PSP ਮਿਲੀ\V_VM_VF ਇਸ\DM_DMD ਵਿਸ਼ੇਸ਼\JJ ਗੱਲ\N_NN ਨੇ\PSP ਕੈਟਰੀਨਾ\N_NNP ਦਾ\PSP ਦਿਮਾਗ\N_NN ਘੁਮਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3049	ਫਿਰ\RB ਉਹ\PR_PRP ਕਿਥੇ\N_NST ਚੁੱਪ\N_NN ਬੈਠਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3050	ਉਸ\PR_PRP ਨੇ\PSP `\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਿਰਮਾਣ\N_NN ਪ੍ਰਬੰਧਕ\N_NN ਨੂੰ\PSP ਆਪਣੇ\PR_PRF ਕੋਲ\RB ਬੁਲਾਇਆ\V_VM_VF |\RD_PUNC
+PBED3051	ਕਿਹਾ\V_VM_VF ਕਿ\CC_CCS ਉਸ\PR_PRP ਨੂੰ\PSP ਵੀ\RP_RPD ਨਿੱਜੀ\N_NN ਸੁਰੱਖਿਆ\N_NN ਕਰਮਚਾਰੀ\N_NN ਮੁਹੱਈਆ\N_NN ਕਰਵਾਏ\V_VM_VF ਜਾਣ\V_VM_VNF |\RD_PUNC
+PBED3052	ਸਿਧਾਰਥ\N_NNP ਆਨੰਦ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਅਮਰੀਕਾ\N_NNP ਵਿਖੇ\N_NST ਵੀ\RP_RPD ਫ਼ਿਲਮਾਈ\N_NN ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3053	ਸਿਧਾਰਥ\N_NNP ਨੇ\PSP ਸਪੇਨ\N_NNP `\RD_PUNC ਚ\PSP ਵੀ\RP_RPD ਸ਼ੂਟਿੰਗ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3054	ਕੈਟਰੀਨਾ\N_NNP ਵਿਗੜ\N_NN ਨਾ\RP_NEG ਜਾਵੇ\V_VM_VF ,\RD_PUNC ਇਸ\DM_DMD ਲਈ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਵੀ\RP_RPD ਉਸ\PR_PRP ਸਮੇਂ\N_NN ਨਿੱਜੀ\N_NN ਸੁਰੱਖਿਆ\N_NN ਕਰਮਚਾਰੀ\N_NN ਦਿੱਤੇ\V_VM_VF ਗਏ\V_VM_VF |\RD_PUNC
+PBED3055	ਆਖਿਰ\RB ਇਕ\QT_QTC ਵੱਡੇ\JJ ਤੂਫਾਨ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਐਵੇਂ\N_NN ਨਹੀਂ\RP_NEG ਕੈਟਰੀਨਾ\N_NNP ਰੱਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3056	ਉਹ\PR_PRP ਤਾਂ\PSP ਮਿੰਟ\N_NN `\RD_PUNC ਚ\PSP ਦੁਨੀਆ\N_NN ਪਲਟਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਗੱਲ\N_NN ਕਰ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ਫਿਰ\CC_CCD ਰਿਤਿਕ\N_NNP ਉਸ\PR_PRP ਸਾਹਮਣੇ\N_NN ਕੀ\DM_DMQ ਸ਼ੈਅ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3057	ਫੈਸ਼ਨਪ੍ਰਸਤ\N_NN ਸੋਨਮ\N_NNP ਕਪੂਰ\N_NNP ਦਿਨ\N_NN ਰਾਤ\N_NN ਨਵੀਆਂ\N_NN ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਸਰਗਰਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3058	ਉਸ\PR_PRP ਦੀਆਂ\PSP ਤਾਂ\PSP `\RD_PUNC ਬੇਵਕੂਫੀਆਂ\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਹੁਣ\RB `\RD_PUNC ਖੂਬਸੂਰਤ\N_NNP `\RD_PUNC ਲੱਗਣ\V_VM_VNF ਲੱਗ\V_VM ਪਈਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3059	ਅਰਬਾਜ਼\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਡੌਲੀ\N_NNP ਕੀ\N_NNP ਡੋਲੀ\N_NNP `\RD_PUNC ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਸੋਨਮ\N_NNP `\RD_PUNC ਪ੍ਰੇਮ\N_NNP ਰਤਨ\N_NNP ਧਨ\N_NNP ਪਾਯੋ\N_NN `\RD_PUNC `\RD_PUNC ਚ\PSP ਰੁੱਝ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3060	ਬੜਬੋਲੀ\JJ ਕੁੜੀ\N_NN ਦਾ\PSP ਖਿਤਾਬ\N_NN ਅਨਿਲ\N_NNP ਕਪੂਰ\N_NNP ਦੀ\PSP ਇਸ\N_NN ਧੀ\N_NN ਕੋਲ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBED3061	ਚਾਹੇ\CC_CCS ਲੱਖ\QT_QTC ਉਹ\PR_PRP ਇਸ\DM_DMD ਗੱਲ\N_NN ਨੂੰ\PSP ਅਣਗੌਲੀ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੇ\RB ਪਰ\CC_CCD ਗੱਲ\N_NN ਹੁਣ\RB ਆਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3062	ਕਿ\CC_CCS ਸੋਨਮ\N_NNP ਦੀ\PSP ਦੋਸਤੀ\N_NN ਦਿੱਲੀ\N_NNP ਦੇ\PSP ਸਾਹਿਲ\N_NNP ਬੇਰੀ\N_NNP ਨਾਲ\PSP ਕਾਫ਼ੀ\QT_QTF ਅੱਗੇ\RB ਵਧ\N_NN ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3063	ਬਾਲੀਵੁੱਡ\N_NN ਧਰਤ\N_NN ਪੁੱਤਰੀ\N_NN ਸੋਨਮ\N_NNP ਅਕਸਰ\N_NN ਕਿਸੇ\DM_DMQ ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਫਜ਼ੂਲ\N_NN ਝਗੜੇ\N_NN `\RD_PUNC ਚ\PSP ਪਈ\V_VM_VF ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3064	ਖੈਰ\CC_CCS ਕਪਕੇਕਸ\N_NNP ਪ੍ਰਤੀ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਦੀਵਾਨਗੀ\N_NN ਜ਼ਰੂਰ\N_NN ਹੱਦੋਂ\N_NN ਵੱਧ\N_NN ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3065	ਹੋਰ\RB ਤੇ\RB ਹੋਰ\RB ਅਭਿਸ਼ੇਕ\N_NNP ਡੋਗਰਾ\N_NNP ਨਿਰਦੇਸ਼ਤ\N_NN `\RD_PUNC ਡੌਲੀ\N_NNP ਕੀ\N_NNP ਡੋਲੀ\N_NNP `\RD_PUNC ਦੇ\PSP ਇਕ\QT_QTC ਦਿ੍ਸ਼\N_NN `\RD_PUNC ਚ\PSP ਸੋਨਮ\N_NNP ਨੂੰ\PSP ਕਪਕੇਕਸ\N_NN ਖਾਂਦਿਆਂ\N_NN ਵੀ\RP_RPD ਤੁਸੀਂ\PR_PRP ਦੇਖੋਗੇ\V_VM_VF |\RD_PUNC
+PBED3066	ਸ਼ੂਟਿੰਗ\N_NN `\RD_PUNC ਤੇ\RB ਸੋਨਮ\N_NNP ਦੀ\PSP ਲਾਲਸਾ\N_NN ਦਿ੍ਸ਼\N_NN ਫ਼ਿਲਮਾਂਕਣ\V_VM_VNF ਵੱਲ\PSP ਘੱਟ\QT_QTF ਤੇ\CC_CCD ਕਪਕੇਕਸ\N_NN ਖਾਣ\V_VM_VNF ਵੱਲ\PSP ਜ਼ਿਆਦਾ\JJ ਵਧ\N_NN ਗਈ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBED3067	ਕਹਿੰਦੇ\V_VM_VF ਨੇ\PSP ਯੂਨਿਟ\N_NN ਦੇ\PSP ਹਰ\QT_QTF ਵਿਅਕਤੀ\N_NN ਨੂੰ\PSP ਕਪਕੇਕਸ\N_NN ਲਿਆਉਣ\V_VM_VNF ਦਾ\PSP ਆਰਡਰ\N_NN ਸੋਨਮ\N_NNP ਨੇ\PSP ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3068	ਨਤੀਜਾ\N_NN ਸੈੱਟ\N_NN `\RD_PUNC ਤੇ\N_NN 100\QT_QTC ਕਪਕੇਕਸ\N_NN ਪਹੁੰਚ\V_VM ਗਏ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3069	ਮਾਡਿਲੰਗ\N_NN ਨੂੰ\PSP ਟੀ.\N_NN ਵੀ.\N_NN ਤੇ\CC_CCD ਫ਼ਿਲਮਾਂ\N_NN ਲਈ\PSP ਵਧੀਆ\N_NN ਪਲੇਟਫਾਰਮ\N_NN ਕਹਿਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਉਰਵਸ਼ੀ\N_NNP ਇਹ\DM_DMD ਵੀ\RP_RPD ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3070	ਕਿ\CC_CCS ਦਿਖਾਵੇ\V_VM_VF ਦੀ\PSP ਇਸ\DM_DMD ਦੁਨੀਆ\N_NN `\RD_PUNC ਚ\PSP ਇਕ\QT_QTC ਨੀਤੀ\N_NN ਅਸਫ਼ਲ\N_NN ਹੋ\V_VM ਜਾਏ\V_VM_VF ਤਾਂ\PSP ਪਛਤਾਉਣ\V_VM_VNF ਦੀ\PSP ਥਾਂ\N_NN ਨਵੀਂ\N_NN ਨੀਤੀ\N_NN ਅਪਣਾ\V_VM_VINF ਲੈਣੀ\V_VM_VINF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3071	ਜੇ\CC_CCS ਤੁਸੀਂ\PR_PRP ਜਵਾਨ\N_NN ਭੂਮਿਕਾ\N_NN `\RD_PUNC ਚ\PSP ਨਕਾਰ\N_NN ਦਿੱਤੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹੋ\V_VM ਤਾਂ\PSP ਅੱਧਖੜ\N_NN ਔਰਤ\N_NN ਵਾਲੀ\V_VM_VF ਭੂਮਿਕਾ\N_NN ਕਰਨ\V_VM_VNF `\RD_PUNC ਚ\PSP ਵੀ\RP_RPD ਕੋਈ\DM_DMQ ਹਰਜ\N_NN ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBED3072	ਵੈਸੇ\CC_CCS ਉਰਵਸ਼ੀ\N_NNP ਹੈਰਾਨ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਥੇ\N_NST ਬੁੱਢੇ\N_NN ਹੀਰੋ\N_NN ਹਿੱਟ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3073	ਪਰ\CC_CCS ਹੀਰੋਇਨ\N_NN ਲਈ\PSP ਉਮਰ\N_NN ਦੀ\PSP ਹੱਦ\N_NN ਆੜੇ\N_NN ਆ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3074	ਉਰਵਸ਼ੀ\N_NNP ਗ਼ਲਤੀਆਂ\N_NN ਤੋਂ\PSP ਸਬਕ\N_NN ਸਿੱਖਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਅਦਾਕਾਰਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3075	ਉਸ\PR_PRP ਦੀ\PSP ਕਮਜ਼ੋਰੀ\N_NN ਅੰਬ\N_NN ਤੇ\CC_CCD ਅਨਾਰ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3076	ਹਾਂ\N_NN ,\RD_PUNC ਸੇਰ\N_NN ਨੂੰ\PSP ਸਵਾ\QT_QTC ਸੇਰ\N_NN ਵੀ\RP_RPD ਬਣਨ\V_VM_VNF ਲਈ\PSP ਸਰੀਰਕ\N_NN ਤਾਕਤ\N_NN ਆਖਰ\RB ਜ਼ਰੂਰੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3077	ਸ਼ਾਇਦ\RB ਉਰਵਸ਼ੀ\N_NNP `\RD_PUNC ਚ\PSP ਤਾਂ\PSP ਹੀ\RP_RPD ਤਾਕਤ\N_NN ਵਧੇਰੇ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3078	ਸਬੰਧਾਂ\N_NN ਤੋਂ\PSP ਦੂਰ\N_NN ਦੌੜਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਉਰਵਸ਼ੀ\N_NNP ਘਟੀਆ\N_NN ਕੰਮ\N_NN ਦੇ\PSP ਵੀ\RP_RPD ਹੱਕ\N_NN `\RD_PUNC ਚ\PSP ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3079	ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਤੋਂ\PSP ਪ੍ਰਭਾਵਿਤ\N_NN ਇਹ\DM_DMD ਨਾਇਕਾ\N_NN `\RD_PUNC ਕੁਈਨ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਗੁਲਾਬ\N_NNP ਗੈਂਗ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਰਿਵਾਲਵਰ\N_NNP ਰਾਨੀ\N_NNP `\RD_PUNC ਜਿਹੀਆਂ\DM_DMR ਫ਼ਿਲਮਾਂ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3080	ਉਰਵਸ਼ੀ\N_NNP ਦੋਸਤੀ\N_NN ਦੇ\PSP ਸਬੰਧ\N_NN `\RD_PUNC ਚ\PSP ਇਹੀ\DM_DMR ਟਿੱਪਣੀ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਯਾਰੀ\N_NN ਤੇ\CC_CCD ਦੁਸ਼ਮਣੀ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਤਦ\DM_DMR ਹੀ\RP_RPD ਲਗਦਾ\V_VM_VF ਹੈ,\V_VAUX ਜਦ\DM_DMR ਬੁਰਾ\N_NN ਸਮਾਂ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3081	ਫਿਲਹਾਲ\RB ਉਹ\PR_PRP ਟੀ.\N_NN ਵੀ.\N_NN ਤੇ\CC_CCD ਦੱਖਣ\N_NN ਦੀ\PSP ਇੰਡਸਟਰੀ\N_NN ਲਈ\PSP ਇਕ\QT_QTC ਨੀਤੀ\N_NN ਬਣਾ\V_VM_VINF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3082	ਉਹ\PR_PRP ਸਪੱਸ਼ਟ\N_NN ਕਹਿ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਮਾਂ\N_NN ਆ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਹੁਣ\RB ਨਾਇਕਾ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਵੀ\RP_RPD ਨਾਇਕਾਂ\N_NN ਜਿੰਨੀ\N_NN ਹੋਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3083	ਵੱਡੇ\JJ ਬੈਨਰ\N_NN ਸਥਾਪਤੀ\N_NN ਲਈ\PSP ਜ਼ਰੂਰੀ\N_NN ਹਨ\V_VAUX ਪਰ\CC_CCD ਇਹ\DM_DMD ਹਰ\QT_QTF ਕਿਸੇ\DM_DMQ ਦੇ\PSP ਵੱਸ\N_NN ਦਾ\PSP ਰੋਗ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3084	ਉਰਵਸ਼ੀ\N_NNP ਨੇ\PSP ਭਰਤ\N_NNP ਨਾਟਯਮ,\N_NN ਬੇਲਟ\N_NN ਤੇ\CC_CCD ਜੈਜ਼\N_NN ਸਿੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3085	`\RD_PUNC ਲੈਕਮੇ\N_NNP ਇੰਡੀਆ\N_NNP ਫੈਸ਼ਨ\N_NNP ਵੀਕ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਉਰਵਸ਼ੀ\N_NNP ਦੀ\PSP ਅਦਾਇਗੀ\N_NN ਪ੍ਰਸੰਸਾ\N_NN ਯੋਗ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3086	ਉਰਵਸ਼ੀ\N_NNP ਬਟੌਲਾ\N_NNP ਹੋਏ\V_VM_VF ਜਾਂ\CC_CCD ਉਰਵਸ਼ੀ\N_NNP ਰਾਵਤ\N_NNP ਚਲਦੀ\V_VM_VF ਤਕਦੀਰ\N_NN ਤੇ\CC_CCD ਪ੍ਰਤਿਭਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3087	ਉਰਵਸ਼ੀ\N_NNP ਦੇ\PSP ਵਿਚਾਰ\N_NN ਨਰੋਏ\JJ ਤੇ\CC_CCD ਅਗਾਂਹਵਧੂ\JJ ਹਨ\V_VAUX |\RD_PUNC
+PBED3088	ਸੁਪਰ\N_NN ਸਟਾਰ\N_NN ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਨਾਲ\PSP `\RD_PUNC ਪਾ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਚੀਨੀ\N_NNP ਕਮ\N_NNP `\RD_PUNC ਆਦਿ\RP_CL ਫ਼ਿਲਮਾਂ\N_NN ਕਰ\V_VM ਚੁੱਕੇ\V_VM_VF ਨਿਰਦੇਸ਼ਕ\N_NN ਆਰ.\N_NNP ਬਾਲਕੀ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਸ਼ਮੀਤਾਭ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਦੀ\PSP ਮੁੱਖ\JJ ਭੂਮਿਕਾ\N_NN ਹੋਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3089	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਦੱਖਣ\N_NN ਦਾ\PSP ਸਟਾਰ\N_NN ਧਾਨੁਸ਼\N_NNP ਤੇ\CC_CCD ਕਮਲ\N_NNP ਹਾਸਨ\N_NNP ਦੀ\PSP ਬੇਟੀ\N_NN ਅਕਸ਼ਰਾ\N_NNP ਹਾਸਨ\N_NNP ਆਦਿ\RP_CL ਕਲਾਕਾਰਾਂ\N_NN ਦੀਆਂ\PSP ਅਹਿਮ\N_NN ਭੂਮਿਕਾਵਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3090	40\QT_QTC ਕਰੋੜ\QT_QTF ਦੀ\PSP ਲਾਗਤ\N_NN ਨਾਲ\PSP ਬਣਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਹੋਪ\N_NNP ਪ੍ਰੋਡਕਸ਼ਨ,\N_NNP ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਕਾਰਪੋਰੇਸ਼ਨ\N_NNP ਤੇ\CC_CCD ਵੰਡਰਵਾਰ\N_NNP ਫ਼ਿਲਮਜ਼\N_NNP ਦਾ\PSP ਹੋਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3091	ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਅਲੱਗ\N_NN ਤਰ੍ਹਾਂ\PSP ਦੇ\PSP ਤਜਰਬੇ\N_NN ਵਾਲੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3092	ਨਿਰਦੇਸ਼ਕ\N_NN ਆਰ.\N_NNP ਬਾਲਕੀ\N_NNP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਕਾਫ਼ੀ\QT_QTF ਕੁਝ\QT_QTF ਨਵਾਂ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3093	`\RD_PUNC ਪਾ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਨੂੰ\PSP ਇਕ\QT_QTC ਅਨੋਖੇ\JJ ਅੰਦਾਜ਼\N_NN `\RD_PUNC ਚ\PSP ਆਰ.\N_NNP ਬਾਲਕੀ\N_NNP ਨੇ\PSP ਪੇਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3094	ਜਿਸ\PR_PRL ਨੇ\PSP ਕਾਫ਼ੀ\QT_QTF ਵਧੀਆ\N_NN ਵਪਾਰ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3095	ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਮਨਾਮ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਵੀ\RP_RPD ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਦੀ\PSP ਵਧੀਆ\N_NN ਭੂਮਿਕਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3096	ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਪੀਕੂ\N_NNP `\RD_PUNC ਦਾ\PSP ਨਿਰਮਾਣ\N_NN 2015\QT_QTC `\RD_PUNC ਚ\PSP ਹੋਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3097	ਫ਼ਿਲਮ\N_NN ਇੰਡਸਟਰੀ\N_NN ਦਾਰਾ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਮਗਰ\RB ਲੱਗ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3098	ਨਾ\RP_NEG ਚਾਹੁੰਦਿਆਂ\V_VM_VF ਹੋਇਆਂ\V_VM_VF ਵੀ\RP_RPD ਫ਼ਿਲਮਾਂ\N_NN ਵਾਲੇ\V_VM_VF ਖਿੱਚ\V_VM ਕੇ\RP_RPD ਲੈ\V_VM ਗਏ\V_VM_VF |\RD_PUNC
+PBED3099	ਉਸ\PR_PRP ਨੇ\PSP ਹਿੰਦੀ,\N_NNP ਪੰਜਾਬੀ\N_NNP ਤੇ\CC_CCD ਮਲਿਆਲਮ\N_NNP ਕੋਈ\QT_QTF 150\QT_QTC ਤੋਂ\PSP ਵੱਧ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਕੰਮ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3100	ਦਾਰਾ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP `\RD_PUNC ਜੱਗਾ\N_NNP ਡਾਕੂ\N_NNP `\RD_PUNC (1959),\QT_QTC `\RD_PUNC ਨਾਨਕ\N_NNP ਦੁਖੀਆ\N_NNP ਸਭ\N_NNP ਸੰਸਾਰ\N_NNP `\RD_PUNC (1970),\QT_QTC `\RD_PUNC ਮੇਲੇ\N_NNP ਮਿੱਤਰਾਂ\N_NNP ਦੇ\N_NNP `\RD_PUNC (1972),\QT_QTC `\RD_PUNC ਦੁੱਖ\N_NNP ਭੰਜਨ\N_NNP ਤੇਰਾ\N_NNP ਨਾਮ\N_NNP `\RD_PUNC (1974),\QT_QTC `\RD_PUNC ਭਗਤ\N_NNP ਧੰਨਾ\N_NNP ਜੱਟ\N_NNP `\RD_PUNC (1974),\QT_QTC `\RD_PUNC ਸਵਾ\N_NNP ਲਾਖ\N_NNP ਸੇ\N_NNP ਏਕ\N_NNP ਲੜਾਊਾ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਗਿੱਧਾ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਲੰਬੜਦਾਰਨੀ\N_NNP `\RD_PUNC ।\RD_PUNC
+PBED3101	(1976),\QT_QTC `\RD_PUNC ਅਣਖੀਲੀ\N_NNP ਮੁਟਿਆਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਬਾਬੁਲ\N_NNP ਦਾ\N_NNP ਵਿਹੜਾ\N_NNP `\RD_PUNC (1983),\QT_QTC `\RD_PUNC ਸ਼ੇਰਾਂ\N_NNP ਦੇ\N_NNP ਪੁੱਤ\N_NNP ਸ਼ੇਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਮੌਲਾ\N_NNP ਜੱਟ\N_NNP `\RD_PUNC (1990),\QT_QTC `\RD_PUNC ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP `\RD_PUNC (1998),\QT_QTC `\RD_PUNC ਮੈਂ\N_NNP ਮਾਂ\N_NNP ਪੰਜਾਬ\N_NNP ਦੀ\N_NNP `\RD_PUNC (1998),\QT_QTC `\RD_PUNC ਦੇਹਿ\N_NNP ਸ਼ਿਵਾ\N_NNP ਬਰ\N_NNP ਮੋਹਿ\N_NNP ਇਹੈ\N_NNP `\RD_PUNC (2002),\QT_QTC `\RD_PUNC ਮਿੱਤਰ\N_NNP ਪਿਆਰੇ\N_NNP ਨੂੰ\N_NNP ਹਾਲ\N_NNP ਮੁਰੀਦਾਂ\N_NNP ਦਾ\N_NNP ਕਹਿਣਾ\N_NNP `\RD_PUNC (2004),\QT_QTC `\RD_PUNC ਦਿਲ\N_NNP ਆਪਣਾ\N_NNP ਪੰਜਾਬੀ\N_NNP `\RD_PUNC (2006)\QT_QTC ਹਿੰਦੀ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਵੀ\RP_RPD ਕੀਤੀਆਂ\V_VM_VF |\RD_PUNC
+PBED3102	ਪਰ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਹਿੰਦੀ\N_NNP ਵੀ\RP_RPD ਪੰਜਾਬੀ\N_NNP ਵਰਗੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3103	ਇਸ\DM_DMD ਲਈ\PSP ਸ਼ੁਰੂ\RB ਵਿਚ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਆਵਾਜ਼\N_NN ਕਿਸੇ\DM_DMQ ਹੋਰ\PSP ਕਲਾਕਾਰ\N_NN ਕੋਲੋਂ\RB ਡੱਬ\N_NN ਕਰਵਾਈ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3104	ਦਾਰਾ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਸ਼ੁੱਧ\N_NN ਹਿੰਦੀ\N_NNP ਤੇ\CC_CCD ਉਰਦੂ\N_NNP ਬੋਲਣ\V_VM_VNF ਲਈ\PSP ਕਿਸੇ\DM_DMQ ਮੌਲਵੀ\N_NN ਸਾਹਬ\N_NN ਨੂੰ\PSP ਟਿਊਟਰ\N_NN ਰੱਖ\V_VM ਲਿਆ\V_VM_VF |\RD_PUNC
+PBED3105	ਪਰ\CC_CCS ਮੌਲਵੀ\N_NN ਸਾਹਬ\N_NN ਪੰਜਾਬੀ\N_NNP ਬੋਲਣ\V_VM_VNF ਲੱਗ\V_VM ਪਏ\V_VM_VF |\RD_PUNC
+PBED3106	ਉਸ\PR_PRP ਦੀਆਂ\PSP ਬਹੁਤ\JJ ਸਾਰੀਆਂ\QT_QTF ਹਿੰਦੀ\N_NNP ਫਿਲਮਾਂ\N_NN ਤੇ\CC_CCD ਟੀ.\N_NN ਵੀ.\N_NN ਲੜੀਵਾਰਾਂ\N_NN ਨੇ\PSP ਪ੍ਰਸਿੱਧੀ\N_NN ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBED3107	ਖਿਡਾਰੀ\N_NN ਪਰਿਵਾਰ\N_NN ਦੀ\PSP ਬੇਟੀ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\PSP ਫਿਰ\RB ਦਿਲ\N_NN ਖਿਡਾਰੀਆਂ\N_NN ਜਿਹਾ\DM_DMR ਦਲੇਰ\N_NN ਹੋਣਾ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3108	ਦੀਪਿਕਾ\N_NNP ਪਾਦੂਕੋਨ\N_NNP ਨੇ\PSP ਰਜਨੀਕਾਂਤ\N_NNP ਨਾਲ\PSP ਇਕ\QT_QTC ਮਾਰਧਾੜ\N_NN ਦਾ\PSP ਦਿ੍ਸ਼\N_NN ਜਿਸ\PR_PRL ਦਲੇਰੀ\N_NN ਨਾਲ\PSP ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3109	ਗੱਭਰੂ\N_NN ਵੀ\RP_RPD ਹੈਰਾਨ\N_NN ਹੋ\V_VM ਜਾਣ\V_VM_VNF ।\RD_PUNC
+PBED3110	ਉਂਜ\DM_DMR ਦਿੱਪੀ\N_NNP ਜਾਣਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕੰਮ\N_NN `\RD_PUNC ਚ\PSP ਸੰਤੁਲਨ\N_NN ਕਿਵੇਂ\DM_DMQ ਕਾਇਮ\N_NN ਰੱਖਣਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3111	`\RD_PUNC ਸ਼ੁੱਧੀ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਬਾਜ਼ੀਰਾਓ\N_NNP ਮਸਤਾਨੀ\N_NNP `\RD_PUNC ਦੋ\QT_QTC ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBED3112	ਉਸ\PR_PRP ਦੀਆਂ\PSP ਨਜ਼ਰਾਂ\N_NN `\RD_PUNC ਚ\PSP ਦੋਵੇਂ\QT_QTO ਬਰਾਬਰ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3113	`\RD_PUNC ਫਾਈਡਿੰਗ\N_NNP ਫੈਨੀ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਇਲਾਵਾ\RB ਫਰਹਾ\N_NNP ਖ਼ਾਨ\N_NNP ਲਈ\PSP ਉਹ\PR_PRP ਸਮਾਂ\N_NN ਕੱਢ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3114	ਹਾਂ,\RP_INTF ਸਲਮਾਨ\N_NNP ਨਾਲੋਂ\PSP ਸ਼ਾਹਰੁਖ\N_NNP ਨੂੰ\PSP ਉਹ\PR_PRP ਜ਼ਰੂਰ\N_NN ਵੱਧ\JJ ਤਵੱਜੋ\N_NN ਦੇ\PSP ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3115	ਦੀਪਿਕਾ\N_NNP ਨੇ\PSP ਬੰਗਾਲੀ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਪੀਕੂ\N_NNP `\RD_PUNC ਲਈ\PSP ਵੀ\RP_RPD ਖ਼ਾਸ\JJ ਉਤਸ਼ਾਹ\N_NN ਦਿਖਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3116	இந்த\DM_DMD நோய்\N_NN 6\QT_QTC மாதத்தில்\N_NN இருந்து\PSP 5\QT_QTC வருடம்\N_NN வரை\PSP இருக்கிறது\V_VM .\RD_PUNC
+PBED3117	ਰਣਵੀਰ\N_NNP ਸਿੰਘ\N_NNP ਉਸ\PR_PRP ਦਾ\PSP ਵੱਡਾ\JJ ਪ੍ਰਸੰਸਕ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3118	ਸ਼ਰਮਨ\N_NNP ਜੋਸ਼ੀ\N_NNP ਵਧੀਆ\N_NN ਕਲਾਕਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3119	ਗੁਜਰਾਤੀ\JJ ਨਾਟਕ\N_NN `\RD_PUNC ਆਲ\N_NNP ਦੀ\N_NNP ਬੈਸਟ\N_NNP `\RD_PUNC ਅੱਜ\RB ਤੱਕ\PSP ਹਿੱਟ\N_NN ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3120	ਜਿਸ\PR_PRL ਦੇ\PSP 600\QT_QTC ਤੋਂ\PSP ਵੱਧ\N_NN ਸ਼ੋਅ\N_NN ਕੀਤੇ\V_VM_VF ਜਾ\V_VM ਚੁੱਕੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3121	ਸ਼ਰਮਨ\N_NNP ਮੰਨਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਵਧੀਆ\N_NN ਕਲਾਕਾਰ\N_NN ਬਣਨ\V_VM_VNF ਲਈ\PSP ਸਟੇਜ\N_NN ਸਭ\QT_QTF ਤੋਂ\PSP ਵਧੀਆ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3122	ਕਿਉਂਕਿ\CC_CCS ਇਸ\DM_DMD ਨਾਲ\PSP ਅਭਿਨੈ\N_NN ਦੀਆਂ\PSP ਬਾਰੀਕੀਆਂ\N_NN ਦਾ\PSP ਪਤਾ\N_NN ਲਗਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3123	ਸ਼ਰਮਨ\N_NNP ਜੋਸ਼ੀ\N_NNP ਦਾ\PSP ਹਮੇਸ਼ਾ\RB ਹੀ\RP_RPD ਹਰੇਕ\QT_QTF ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਸਧਾਰਨ\N_NN ਕਿਰਦਾਰ\N_NN ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3124	ਉਹ\PR_PRP ਹਮੇਸ਼ਾ\RB ਸਧਾਰਨ\N_NN ਹੀ\RP_RPD ਦਿਖਾਈ\V_VM_VF ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3125	ਸ਼ਰਮਨ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਧਾਰਨ\N_NN ਦਿਖ\N_NN ਵਾਲੇ\V_VM_VF ਸਿੱਧ-ਪੱਧਰੇ\RD_ECH ਕਿਰਦਾਰ\N_NN ਲੋਕ\N_NN ਪਸੰਦ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3126	ਜਨ-ਸਮੂਹ\N_NN ਨਾਲ\PSP ਜੁੜਨ\V_VM_VNF ਲਈ\PSP ਅਜਿਹੇ\RB ਕਿਰਦਾਰ\N_NN ਬਹੁਤ\QT_QTF ਹੀ\RP_RPD ਵਧੀਆ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3127	ਸ਼ਰਮਨ\N_NNP ਕੋਲ\RB ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBED3128	ਇਕ\QT_QTC ਦੱਖਣ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN |\RD_PUNC
+PBED3129	ਸ਼ਰਮਨ\N_NNP ਜੋਸ਼ੀ\N_NNP ਨੇ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਵੀ\RP_RPD ਸ਼ੁਰੂ\RB ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3130	`\RD_PUNC ਫੇਰਾਰੀ\N_NNP ਕੀ\N_NNP ਸਵਾਰੀ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਬਣਾਉਣ\V_VM_VNF ਤੋਂ\PSP ਬਾਅਦ\RB ਇਕ\QT_QTC ਹੋਰ\PSP ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3131	ਸ਼ਰਮਨ\N_NNP ਜੋਸ਼ੀ\N_NNP ਦਾ\PSP ਪਰਿਵਾਰ\N_NN ਤੇ\CC_CCD ਰਿਸ਼ਤੇਦਾਰ\N_NN ਬਹੁਤ\QT_QTF ਸਾਰੇ\N_NN ਫ਼ਿਲਮੀ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3132	ਉਸ\PR_PRP ਦੇ\PSP ਪਿਤਾ\N_NN ਅਰਵਿੰਦ\N_NNP ਜੋਸ਼ੀ\N_NNP ਗੁਜਰਾਤੀ\N_NN ਸਟੇਜ\N_NN ਦੇ\PSP ਪ੍ਰਸਿੱਧ\JJ ਕਲਾਕਾਰ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3133	ਖੁਦ\PR_PRF ਉਸ\PR_PRP ਨੇ\PSP ਪ੍ਰੇਮ\N_NNP ਚੋਪੜਾ\N_NNP ਦੀ\PSP ਬੇਟੀ\N_NN ਪ੍ਰੇਰਨਾ\N_NNP ਚੋਪੜਾ\N_NNP ਨਾਲ\PSP ਸ਼ਾਦੀ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3134	ਸ਼ਰਮਨ\N_NNP ਚਾਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਵਧੀਆ\N_NN ਕਲਾਕਾਰ\N_NN ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RP_RPD ਹੀ\RP_RPD ਜਾਣਿਆ\V_VM_VF ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBED3135	ਹਿੰਦੀ\N_NNP ਦੀਆਂ\PSP ਦਰਜਨ\QT_QTO ਫ਼ਿਲਮਾਂ\N_NN ਕਰ\V_VM ਚੁੱਕੀ\V_VM_VF ਪੰਜਾਬਣ\JJ ਕੁੜੀ\N_NN ਮੋਨਿਕਾ\N_NNP ਬੇਦੀ\N_NNP ਸਪੱਸ਼ਟ\N_NN ਕਹਿ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3136	ਕਿ\CC_CCS ਜੇ\DM_DMR ਉਸ\PR_PRP ਦਾ\PSP ਫ਼ਿਲਮੀ\N_NN ਆਕਰਸ਼ਣ\N_NN ਘੱਟ\QT_QTF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਹ\PR_PRP 23\QT_QTC ਖੇਤਰੀ\N_NN ਭਾਸ਼ਾ\N_NN ਦੀਆਂ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਕਿਉਂ\PR_PRQ ਕਰਦੀ\V_VM_VF ?\RD_PUNC
+PBED3137	`\RD_PUNC ਰੋਮੀਓ\N_NNP ਰਾਂਝਾ\N_NNP `\RD_PUNC ਵਾਲੀ\V_VM_VF ਮੋਨਿਕਾ\N_NNP ਦੀ\PSP ਤਸਵੀਰ\N_NN ਹੁਣ\RB ਫਿਰ\RB ਪੰਜਾਬੀ\N_NNP ਦਿਲਾਂ\N_NN `\RD_PUNC ਚ\PSP ਘਰ\N_NN ਕਰ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3138	ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਭੂਮਿਕਾ\N_NN ਲਈ\PSP ਮੋਨਿਕਾ\N_NNP ਨੇ\PSP ਬਾਕਾਇਦਾ\N_NN ਪੁਲਿਸ\N_NN ਅਕੈਡਮੀ\N_NN `\RD_PUNC ਚ\PSP ਟ੍ਰੇਨਿੰਗ\N_NN ਲਈ\PSP ਸੀ\V_VAUX |\RD_PUNC
+PBED3139	ਪਾਲੀਵੁੱਡ\N_NN ਉਸ\PR_PRP ਦਾ\PSP ਹੱਸਦੇ\V_VM_VF ਮੂੰਹ\N_NN ਨਾਲ\PSP ਸਵਾਗਤ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3140	ਪਹਿਲਾਂ\QT_QTO ਮਾਸੂਮ\N_NNP ਤੇ\CC_CCD ਫਿਰ\RB ਅਬੂ\N_NNP ਸਲੇਮ\N_NNP ਘਟਨਾ\N_NN ਨਾਲ\PSP ਦੁਨੀਆ\N_NN ਭਰ\RB `\RD_PUNC ਚ\PSP ਚਰਚਾ\N_NN ਦਾ\PSP ਵਿਸ਼ਾ\N_NN ਬਣੀ\V_VM_VF |\RD_PUNC
+PBED3141	ਮੋਨਿਕਾ\N_NNP ਆਪਣਾ\PR_PRF ਪਹਿਲਾ\QT_QTO ਨਿੱਕੇ\N_NN ਪਰਦੇ\N_NN ਦਾ\PSP ਸੀਰੀਅਲ\N_NN `\RD_PUNC ਸਰਸਵਤੀਚੰਦਰ\N_NNP `\RD_PUNC ਕਰਨ\V_VM_VNF ਨਾਲ\PSP ਦਰਸ਼ਕਾਂ\N_NN `\RD_PUNC ਚ\PSP ਕਾਫ਼ੀ\QT_QTF ਅਧਾਰ\N_NN ਬਣਾ\V_VM_VINF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC `\RD_PUNC
+PBED3142	ਗੁੰਮਨ\N_NN `\RD_PUNC ਦੇ\PSP ਕਿਰਦਾਰ\N_NN `\RD_PUNC ਚ\PSP `\RD_PUNC ਕੁਮਦ\N_NN `\RD_PUNC ਅਗਵਾ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB `\RD_PUNC ਗੁੰਮਨ\N_NN `\RD_PUNC ਦਾ\PSP ਕੰਮ\N_NN ਲੋਕ\N_NN ਫਿਰ\RB ਮੰਗ\N_NN ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3143	ਮੋਨਿਕਾ\N_NNP `\RD_PUNC ਸਰਸਵਤੀਚੰਦਰ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP `\RD_PUNC ਗੁੰਮਨ\N_NN `\RD_PUNC ਬਣੀ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBED3144	`\RD_PUNC ਜੈਨੀਫਰ\N_NNP `\RD_PUNC ਨਾਲ\PSP ਕਲੇਸ਼\N_NN ਨੂੰ\PSP ਅਫਵਾਹ\N_NN ਦੱਸ\V_VM ਰਹੀ\V_VM_VF ਮੋਨਿਕਾ\N_NNP ਇਹ\DM_DMD ਗੱਲ\N_NN ਖਾਰਜ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਦਯੋਗ\N_NN ਦਾ\PSP ਧਿਆਨ\N_NN ਖਿੱਚਣ\V_VM_VNF ਲਈ\PSP ਉਹ\PR_PRP ਨਿੱਕੇ\N_NN ਪਰਦੇ\N_NN `\RD_PUNC ਤੇ\RB ਆਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3145	ਥੋੜ੍ਹੇ\QT_QTF ਦਿਨ\N_NN ਪਹਿਲਾਂ\QT_QTO ਹੀ\RP_RPD ਸਟਾਰ\N_NNP ਪਲੱਸ\N_NNP ਦੇ\PSP `\RD_PUNC ਸਰਸਵਤੀਚੰਦਰ\N_NNP `\RD_PUNC ਲਈ\PSP ਲੰਦਨ\N_NNP ਫ਼ਿਲਮਾਂਕਣ\N_NN ਕਰਕੇ\V_VM_VF ਉਹ\PR_PRP ਆਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3146	ਜੈਨੀਫਰ\N_NNP ,\RD_PUNC ਗੌਤਮ\N_NNP ਤੇ\CC_CCD ਅਸ਼ੀਸ਼\N_NNP ਕਪੂਰ\N_NNP ਉਸ\PR_PRP ਨਾਲ\PSP ਸਟਾਰ\N_NNP ਪਲੱਸ\N_NNP ਦੇ\PSP ਇਸ\DM_DMD ਸੀਰੀਅਲ\N_NN `\RD_PUNC ਚ\PSP ਹਨ\V_VAUX |\RD_PUNC
+PBED3147	ਜ਼ੀ.\N_NNP ਗੋਲਡ\N_NNP ਸਨਮਾਨ\N_NN ਸਮਾਰੋਹ\N_NN `\RD_PUNC ਚ\PSP ਮੋਨਿਕਾ-ਮੋਨਿਕਾ\N_NNP ਹੋਈ\V_VM_VF |\RD_PUNC
+PBED3148	ਉਸ\PR_PRP ਦੀ\PSP ਆਤਮ-ਕਥਾ\N_NN ਵੀ\RP_RPD ਮੁਕੰਮਲ\N_NN ਹੋਣ\V_VM_VNF ਵੱਲ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3149	ਮੁੰਬਈ\N_NNP ਉਸ\PR_PRP ਲਈ\PSP ਜਾਨ\N_NN ਤੋਂ\PSP ਪਿਆਰਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3150	ਪੰਜਾਬੀ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਵੀ\RP_RPD ਜਾਨ\N_NN ਤੋਂ\PSP ਪਿਆਰੀਆਂ\N_NN ਤੇ\CC_CCD ਹੁਣ\RB ਨਿੱਕਾ\N_NN ਪਰਦਾ\N_NN ਤੇ\RB `\RD_PUNC ਸਰਸਵਤੀਚੰਦਰ\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਜਾਨ\N_NN ਤੋਂ\PSP ਪਿਆਰਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3151	ਇੰਡਸਟਰੀ\N_NN ਲਈ\PSP ਫਿਰ\RB ਜਾਨ\N_NN ਤੋਂ\PSP ਪਿਆਰੀ\N_NN ਬਣੀ\V_VM_VINF ਮੋਨਿਕਾ...\N_NNP |\RD_PUNC
+PBED3152	ਇਕ\QT_QTC ਜ਼ਮਾਨਾ\N_NN ਸੀ\V_VAUX ਜਦੋਂ\PR_PRL `\RD_PUNC ਮਿਸ\N_NNP ਇੰਡੀਆ\N_NNP `\RD_PUNC ਪ੍ਰਤੀਯੋਗਤਾ\N_NN ਦੀ\PSP ਜੇਤੂ\N_NN ਰਹੀ\V_VM_VF ਸੰਗੀਤਾ\N_NNP ਬਿਜਲਾਨੀ\N_NNP ਦਾ\PSP ਮਾਡਿਲੰਗ\N_NN ਦੇ\PSP ਖੇਤਰ\N_NN ਵਿਚ\PSP ਬਹੁਤ\N_NN ਡੰਕਾ\N_NN ਵਜਦਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3153	ਉਦੋਂ\DM_DMR ਵਿੱਕੋ\N_NNP ਕ੍ਰੀਮ\N_NN ਤੇ\CC_CCD ਨਿਰਮਾ\N_NNP ਦੀਆਂ\PSP ਐਡ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਬਦੌਲਤ\N_NN ਸੰਗੀਤਾ\N_NNP ਦਾ\PSP ਚਿਹਰਾ\N_NN ਘਰ-ਘਰ\N_NN ਵਿਚ\PSP ਲੋਕਪਿ੍ਆ\JJ ਹੋ\V_VM ਗਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3154	ਮਾਡਿਲੰਗ\N_NN ਦੇ\PSP ਬਾਅਦ\RB ਸੰਗੀਤਾ\N_NNP ਨੇ\PSP ਅਭਿਨੈ\N_NN ਵੱਲ\PSP ਰੁਖ\V_VM ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3155	`\RD_PUNC ਹਥਿਆਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਕਾਤਿਲ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਤਿ੍ਦੇਵ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਜੁਰਮ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਜੈ\N_NNP ਸ਼ਿਵ\N_NNP ਸ਼ੰਕਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਇੱਜ਼ਤ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਹਾਤਿਮ\N_NNP ਤਾਈ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਯੁਗਾਂਧਰ\N_NNP `\RD_PUNC ਸਮੇਤ\N_NN ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਉਹ\PR_PRP ਚਮਕੀ\V_VM_VF |\RD_PUNC
+PBED3156	ਉਦੋਂ\DM_DMR ਹਾਲਾਂਕਿ\CC_CCS ਸੰਗੀਤਾ\N_NNP ਨੇ\PSP ਸਲਮਾਨ\N_NNP ਖਾਨ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਕਿਸੇ\DM_DMQ ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਕੰਮ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3157	ਪਰ\CC_CCS ਦੋਵਾਂ\QT_QTO ਵਿਚਾਲੇ\RB ਬਹੁਤ\QT_QTO ਰੋਮਾਂਸ\N_NN ਚੱਲਿਆ\V_VM_VF |\RD_PUNC
+PBED3158	ਜਦੋਂ\PR_PRL ਸਲਮਾਨ\N_NNP ਵਿਆਹ\N_NN ਕਰਾਉਣ\V_VM_VNF ਦੇ\PSP ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਟਾਲਮਟੋਲ\N_NN ਕਰਨ\V_VM_VNF ਲੱਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3159	ਸੰਗੀਤਾ\N_NNP ਨੇ\PSP ਕ੍ਰਿਕਟਰ\N_NN ਅਜ਼ਰਹੂਦੀਨ\N_NNP ਨਾਲ\PSP ਨੇੜਤਾ\N_NN ਵਧਾਉਣੀ\N_NN ਸ਼ੁਰੂ\RB ਕਰ\V_VM ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBED3160	ਫਿਰ\RB ਅਜ਼ਹਰ\N_NNP ਨਾਲ\PSP ਨਿਕਾਹ\N_NN ਕਰ\V_VM ਕੇ\RP_RPD ਅਜ਼ਹਰ\N_NNP ਦੀ\PSP ਦੂਜੀ\QT_QTC ਪਤਨੀ\N_NN ਬਣ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3161	ਹੁਣ\RB ਸੰਗੀਤਾ\N_NNP ਅਤੇ\CC_CCD ਅਜ਼ਹਰ\N_NNP ਵਿਚਾਲੇ\RB ਵਖਰੇਵਾਂ\N_NN ਹੋ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3162	ਸੰਗੀਤਾ\N_NNP ਨੇ\PSP ਦੁਬਾਰਾ\RB ਅਭਿਨੈ\N_NN ਵੱਲ\PSP ਰੁਖ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3163	ਹਾਲ\RB ਹੀ\RP_RPD ਵਿਚ\PSP ਸੰਗੀਤਾ\N_NNP ਨੇ\PSP ਨਿਰਦੇਸ਼ਕ\N_NN ਓਨਿਰ\N_NNP ਦੀ\PSP ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN ਸਾਈਨ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3164	ਜੋ\DM_DMR ਹਾਈ\JJ ਸੁਸਾਇਟੀ\N_NN ਤੋਂ\PSP ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਫੈਸ਼ਨ\N_NN ਪ੍ਰਤੀ\N_NN ਖੂਬ\N_NN ਸਜੱਗ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3165	ਵੱਡੇ\JJ ਪਰਦੇ\N_NN `\RD_PUNC ਤੇ\RB ਸੰਗੀਤਾ\N_NNP ਆਖਰੀ\RB ਵਾਰ\RB ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਜਗਨਨਾਥ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਨਜ਼ਰ\N_NN ਆਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3166	ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਤਕਰੀਬਨ\RB 17\QT_QTC ਸਾਲ\N_NN ਪਹਿਲਾਂ\QT_QTO ਪ੍ਰਦਰਸ਼ਿਤ\N_NN ਹੋਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3167	ਸੰਗੀਤਾ\N_NNP ਅੱਜ\RB ਉਸ\PR_PRP ਦੌਰ\RB ਵਿਚ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਵਾਪਸ\N_NN ਆਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3168	ਦੇਖਣਾ\V_VM_VINF ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੁਣ\RB ਸਲਮਾਨ\N_NNP ਖਾਨ\N_NNP ਉਸ\PR_PRP ਨੂੰ\PSP ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਪੈਰ\N_NN ਜਮਾਉਣ\V_VM_VNF ਲਈ\PSP ਮਦਦ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ਜਾਂ\CC_CCD ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBED3169	ਦਿਨਾਂ\N_NN `\RD_PUNC ਚ\PSP ਹੀ\RP_RPD ਕੁਲਰਾਜ\N_NNP ਰੰਧਾਵਾ\N_NNP ਹਰ\QT_QTF ਘਰ\N_NN ਦੀ\PSP ਮਨਪਸੰਦ\N_NN ਅਭਿਨੇਤਰੀ\N_NN ਬਣ\V_VM ਗਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3170	ਕੁਲਰਾਜ\N_NNP ਕੋਲ\RB ਖੇਤਰੀ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਕਤਾਰ\N_NN ਲੱਗ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3171	ਕੁਲਰਾਜ\N_NNP `\RD_PUNC ਮੰਨਤ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਨਾਲ\PSP ਪਾਲੀਵੁੱਡ\N_NN ਸਟਾਰ\N_NN ਰਾਤੋ-ਰਾਤ\N_NN ਬਣੀ\V_VM_VINF |\RD_PUNC
+PBED3172	ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਕੁਲਰਾਜ\N_NNP ਨੂੰ\PSP ਸੁਪਰ\N_NN ਨਾਇਕਾ\N_NN ਵਾਲਾ\V_VM_VF ਦਰਜਾ\N_NN ਮਿਲਿਆ\V_VM_VF ।\RD_PUNC
+PBED3173	ਹਾਲਾਂਕਿ\CC_CCS ਬਾਲੀਵੁੱਡ\N_NN `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਬਣਦੀ-ਬਣਦੀ\V_VM_VNG ਗੱਲ\N_NN ਰਹਿ\V_VM ਜਾਣੀ\V_VM_VINF ਹੀ\RP_RPD ਇਕ\QT_QTC ਮਾੜੀ\N_NN ਗੱਲ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3174	ਕੁਲਰਾਜ\N_NNP `\RD_PUNC ਚਾਰ\N_NNP ਦਿਨਾ\N_NNP ਕੀ\N_NNP ਚਾਂਦਨੀ\N_NNP `\RD_PUNC ਨਾਲ\PSP ਚਰਚਾ\N_NN `\RD_PUNC ਚ\PSP ਤਾਂ\PSP ਆਈ\V_VM_VF |\RD_PUNC
+PBED3175	ਪਰ\CC_CCS ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਕੋਈ\QT_QTF ਲਾਭ\N_NN ਨਹੀਂ\RP_NEG ਹੋਇਆ\V_VM_VF |\RD_PUNC
+PBED3176	ਬਹੁ-ਪ੍ਰਤਿਭਾਵਾਨ\JJ ਕੁਲਰਾਜ\N_NNP ਲਈ\PSP ਹੁਣ\RB `\RD_PUNC ਯਮਲਾ\N_NNP ਪਗਲਾ\N_NNP ਦੀਵਾਨਾ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਬਾਅਦ\RB ਅੱਗੇ\RB ਵਧਣ\V_VM_VNF ਦੇ\PSP ਕਈ\QT_QTF ਮੌਕੇ\N_NN ਸਨ\V_VAUX |\RD_PUNC
+PBED3177	ਪਰ\CC_CCS ਉਹ\PR_PRP ਟੀ.\N_NN ਵੀ.\N_NN ਖੇਤਰ\N_NN `\RD_PUNC ਚ\PSP ਜ਼ਿਆਦਾ\QT_QTF ਪ੍ਰਾਪਤੀਆਂ\N_NN ਹਾਸਲ\N_NN ਕਰਨ\V_VM_VNF `\RD_PUNC ਚ\PSP ਸਫਲ\N_NN ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3178	ਉਸ\PR_PRP ਦੀ\PSP ਨਵੀਂ\N_NN ਪੰਜਾਬੀ\N_NNP ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਟਾਈਟਲ\N_NN ਹੈ\V_VAUX `\RD_PUNC ਡਬਲ\N_NNP ਦਾ\N_NNP ਟਰਬਲ\N_NNP |\RD_PUNC
+PBED3179	ਸਮੀਪ\N_NNP ਕੰਗ\N_NNP ਦੇ\PSP ਨਿਰਦੇਸ਼ਨ\N_NN `\RD_PUNC ਚ\PSP ਇਕ\QT_QTC ਵਾਰ\RB ਫਿਰ\RB ਆਪਣੇ\PR_PRF ਆਦਰਸ਼\N_NN ਅਭਿਨੇਤਾ\N_NN ਧਰਮਿੰਦਰ\N_NNP ਨਾਲ\PSP ਉਹ\PR_PRP `\RD_PUNC ਡਬਲ\N_NNP ਦਾ\N_NNP ਟਰਬਲ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਆ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3180	ਮਨੀਸ਼ਾ\N_NNP ਲਾਂਬਾ\N_NNP ਤੇ\CC_CCD ਪੂਨਮ\N_NNP ਢਿੱਲੋਂ\N_NNP ਨਾਲ\PSP ਕੁਲਰਾਜ\N_NNP ਨੇ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3181	ਮੁਕਤਾ\N_NNP ਆਰਟਸ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ,\N_NN ਸਮਝੋ\V_VM_VF ਸਮਾਂ\N_NN ਚੰਗਾ\JJ ਹੈ\V_VAUX |\RD_PUNC
+PBED3182	ਕੁਲਰਾਜ\N_NNP ਇਹ\DM_DMD ਕਹਿ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸੁਭਾਸ਼\N_NNP ਘਈ\N_NNP ਦੀ\PSP ਨਵੀਂ\N_NN ਪਾਲੀਵੁੱਡ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਡਬਲ\N_NNP ਦਾ\N_NNP ਟਰਬਲ\N_NNP `\RD_PUNC ਕੁਲਰਾਜ\N_NNP ਰੰਧਾਵਾ\N_NNP ਦੀਆਂ\PSP ਸਮੱਸਿਆਵਾਂ\N_NN ਹੱਲ\V_VM ਕਰਕੇ\V_VM_VF ਪਾਲੀਵੁੱਡ\N_NN `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਸਟਾਰਡਮ\N_NN ਦਿਖਾਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3183	ਸ਼ਾਇਦ\RB ਇਸ\DM_DMD ਨਾਲ\PSP ਹੀ\RP_RPD ਕੁਲਰਾਜ\N_NNP ਰੰਧਾਵਾ\N_NNP ਦਾ\PSP ਨਵਾਂ\N_NN ਦੌਰ\RB ਫਿਰ\RB ਸ਼ੁਰੂ\RB ਹੋ\V_VM ਜਾਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3184	ਇਧਰ\DM_DMR ਗਾਇਕਾ\N_NN ਤੇ\N_NN ਨਾਇਕਾ\N_NN ਪਿ੍ਅੰਕਾ\N_NNP ਚੋਪੜਾ\N_NNP ਦੀ\PSP ਨਵੀਂ\JJ ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਮੇਰੀਕਾਮ\N_NNP ਬਾਇਓਪਿਕ\N_NNP `\RD_PUNC ਦੀ\PSP ਪਹਿਲੀ\QT_QTO ਝਲਕ\N_NN ਜਾਰੀ\V_VM_VF ਹੋ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3185	ਟਵਿੱਟਰ\N_NNP `\RD_PUNC ਤੇ\RB ਪੀ.\N_NN ਸੀ.\N_NN ਨੂੰ\PSP ਵਧਾਈਆਂ\N_NN ਦਾ\PSP ਤਾਂਤਾ\N_NN ਲੱਗ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3186	ਉਧਰ\DM_DMR ਆਲੀਆ\N_NNP ਭੱਟ\N_NNP ਦੇ\PSP ਸਿਰ\N_NN `\RD_PUNC ਤੇ\RB ਪਤਾ\N_NN ਨਹੀਂ\RP_NEG ਪਿ੍ਅੰਕਾ\N_NNP ਨੇ\PSP ਕੀ\DM_DMQ ਧੂੜ\N_NN ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3187	ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੇ\PSP ਹੋਂਠ\N_NN ਪਿ੍ਅੰਕਾ\N_NNP ਲਈ\PSP ਵਧੀਆ\N_NN ਸ਼ਬਦ\N_NN ਕੱਢ\V_VM ਰਹੇ\V_VM ਹਨ\V_VAUX |\RD_PUNC
+PBED3188	ਪਿ੍ਅੰਕਾ\N_NNP ਇੰਡਸਟਰੀ\N_NN ਲਈ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਦਾ\PSP ਬਿੰਦੂ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3189	ਪਿ੍ਅੰਕਾ\N_NNP ਨੇ\PSP ਸੋਸ਼ਲ\N_NN ਮੀਡੀਆ\N_NN `\RD_PUNC ਤੇ\RB ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਕਾਫ਼ੀ\JJ ਸਰਗਰਮ\N_NN ਰੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3190	ਉਲੰਪਿਕ\N_NN ਖਿਡਾਰਨ\N_NN `\RD_PUNC ਤੇ\RB ਫ਼ਿਲਮ\N_NN ਕਰਨਾ\V_VM_VINF ਪੀ.\N_NN ਸੀ.\N_NN ਲਈ\PSP ਇਤਿਹਾਸਕ\N_NN ਪਲ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3191	ਇਹ\DM_DMD ਖੇਡ\N_NN ਡਰਾਮਾ\N_NN ਪਿ੍ਅੰਕਾ\N_NNP ਲਈ\PSP ਸਭ\QT_QTF ਤੋਂ\PSP ਸਖਤ\JJ ਅਭਿਆਸ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3192	ਸੰਜੇ\N_NNP ਲੀਲਾ\N_NNP ਭੰਸਾਲੀ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਉਮੰਗ\N_NNP ਕੁਮਾਰ\N_NNP ਨੇ\PSP ਨਿਰਦੇਸ਼ਤ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3193	31\QT_QTC ਵਰਿ੍ਹਆਂ\N_NN ਦੀ\PSP ਪੀ.\N_NN ਸੀ.\N_NN ਨੇ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਦੋ\QT_QTC ਸਾਲ\N_NN ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਫ਼ਿਲਮ\N_NN ਪ੍ਰਤੀ\N_NN ਸਮਰਪਣ\N_NN ਵਿਚ\PSP ਰੱਖਿਆ\V_VM_VF |\RD_PUNC
+PBED3194	ਪਿ੍ਅੰਕਾ\N_NNP ਲਈ\PSP `\RD_PUNC ਮੇਰੀਕਾਮ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਇਲਾਵਾ\RB `\RD_PUNC ਦਿਲ\N_NN ਧੜਕਨੇ\N_NN ਦੇ\PSP `\RD_PUNC ਵੀ\RP_RPD ਮਹੱਤਵਪੂਰਨ\N_NN ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3195	ਪਿ੍ਅੰਕਾ\N_NNP ਲਈ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਹਰ\QT_QTF ਪਾਸਿਉਂ\N_NN ਖੁਸ਼ੀਆਂ\N_NN ਆ\V_VM ਰਹੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3196	ਪਿ੍ਅੰਕਾ\N_NNP ਦਾ\PSP ਕੈਰੀਅਰ\N_NN ਇਸ\DM_DMD ਸਮੇਂ\N_NN ਵਧੀਆ\JJ ਚਲ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3197	ਗਾਇਕੀ\N_NN ਵੀ\RP_RPD ਰਾਸ\N_NN ਆ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਸਰਕਾਰੇ-ਦਰਬਾਰੇ\N_NN ਵੀ\RP_RPD ਉਸ\PR_PRP ਦੀ\PSP ਪੁੱਛ\V_VM ਪ੍ਰਤੀਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3198	ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਰਾਹੁਲ\N_NNP ਬੋਸ\N_NNP ਉਸ\PR_PRP ਨਾਲ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3199	`\RD_PUNC ਉੜਤਾ\N_NNP ਪੰਜਾਬ\N_NNP `\RD_PUNC ਨੂੰ\PSP ਵੀ\RP_RPD ਪੀ.\N_NN ਸੀ.\N_NN ਮਹੱਤਵਪੂਰਨ\N_NN ਮੰਨ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3200	ਹਰ\QT_QTF ਪਾਸੇ\N_NN ਹੀ\RP_RPD ਪਿ੍ਅੰਕਾ\N_NNP ਦੀ\PSP ਧੁੰਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3201	ਇਸੇ\DM_DMD ਵਰ੍ਹੇ\N_NN ਪ੍ਰਦਰਸ਼ਿਤ\N_NN ਹੋਈ\V_VM_VF ਵਿਕਾਸ\N_NNP ਬਹਿਲ\N_NNP ਦੁਆਰਾ\RB ਨਿਰਦੇਸ਼ਿਤ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਕੁਈਨ\N_NNP `\RD_PUNC ਵਿਚਲੀ\RB ਆਪਣੀ\PR_PRF ਅਲਕਾ\N_NN ਨਾਮਕ\N_NN ਲੜਕੀ\N_NN ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਰਾਹੀਂ\N_NN ਖੂਬ\N_NN ਚਰਚਾ\N_NN `\RD_PUNC ਚ\PSP ਰਹੀ|\V_VM_VF
+PBED3202	ਅਭਿਨੇਤਰੀ\N_NN ਕੰਗਨਾ\N_NNP ਰਾਣਾਵਤ\N_NNP ਲਈ\PSP ਸਾਈ\N_NNP ਕਬੀਰ\N_NNP ਵੱਲੋਂ\PSP ਡਾਇਰੈਕਟ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਰਿਵਾਲਵਰ\N_NNP ਰਾਨੀ\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਬਿਹਤਰ\N_NN ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3203	ਇਹਨਾਂ\DM_DMR ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਕੰਗਨਾ\N_NNP ਦੇ\PSP ਬਿਲਕੁਲ\N_NN ਹਟਵੇਂ\N_NN ਰੋਲ\N_NN ਸਨ\V_VAUX |\RD_PUNC
+PBED3204	ਜਿੰਨਾਂ\DM_DMR ਨੂੰ\PSP ਪ੍ਰਭਾਵਸ਼ਾਲੀ\N_NN ਬਣਾਉਣ\V_VM_VNF ਲਈ\PSP ਉਸ\PR_PRP ਵੱਲੋਂ\PSP ਡਟਵੀਂ\N_NN ਮਿਹਨਤ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ।\RD_PUNC
+PBED3205	ਜਿਸ\PR_PRL ਦਾ\PSP ਨਤੀਜਾ\N_NN ਇਹ\DM_DMD ਰਿਹਾ\V_VM_VF ਕਿ\CC_CCS ਫ਼ਿਲਮ\N_NN ਇੰਡਸਟਰੀ\N_NN `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਸਥਿਤੀ\N_NN ਹੋਰ\QT_QTF ਮਜ਼ਬੂਤ\N_NN ਹੋਈ\V_VM_VF |\RD_PUNC
+PBED3206	ਉਹ\PR_PRP ਆਖਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਲੀਕ\N_NN ਤੋਂ\PSP ਹਟ\V_VM ਕੇ\RP_RPD ਨਿਭਾਏ\V_VM_VF ਗਏ\V_VM_VF ਕਿਰਦਾਰ\N_NN ਕਲਾਕਾਰ\N_NN ਨੂੰ\PSP ਵੱਖਰੀ\JJ ਤੇ\CC_CCD ਵੱਡੇ\JJ ਪੱਧਰ\N_NN `\RD_PUNC ਤੇ\RB ਪਛਾਣ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3207	ਇਹੀ\DM_DMR ਉਸ\PR_PRP ਨਾਲ\PSP ਵੀ\RP_RPD ਉਪਰੋਕਤ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਕਰਨ\V_VM_VNF ਦੌਰਾਨ\RB ਹੋਇਆ\V_VM_VF |\RD_PUNC `\RD_PUNC
+PBED3208	`\RD_PUNC ਤਨੂੰ\N_NNP ਵੈਡਸ\N_NNP ਮਨੂੰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਫੈਸ਼ਨ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਲਾਈਫ਼\N_NNP ਇਨ\N_NNP ਮੈਟਰੋ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਰੱਜੋ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਗੈਂਗਸਟਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਕਾਈਟਸ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਵੰਨਸ\N_NNP ਅਪਾਨ\N_NNP ਏ\N_NNP ਟਾਈਮ\N_NNP ਇਨ\N_NNP ਮੁੰਬਈ\N_NNP `\RD_PUNC ਤੇ\CC_CCD ਕਈ\QT_QTF ਹੋਰ\RB ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਵੱਖ-ਵੱਖ\N_NN ਚਰਿੱਤਰ\N_NN ਨਿਭਾਅ\V_VM ਕੇ\RP_RPD ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਅੱਛੀ\JJ ਅਦਾਕਾਰਾ\N_NN ਦੇ\PSP ਰੂਪ\N_NN `\RD_PUNC ਚ\PSP ਸਥਾਪਤ\N_NN ਕਰਨ\V_VM_VNF `\RD_PUNC ਚ\PSP ਸਫ਼ਲ\N_NN ਹੋਈ\V_VM_VF ਕੰਗਨਾ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBED3209	ਕਿ\CC_CCS ਅੱਜ\RB ਉਹ\PR_PRP ਜੋ\DM_DMR ਵੀ\RP_RPD ਹੈ\V_VAUX ਆਪਣੇ\PR_PRF ਖੁਦ\PR_PRF ਦੇ\PSP ਸੰਘਰਸ਼\N_NN ਤੇ\CC_CCD ਮਿਹਨਤ\N_NN ਸਦਕਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3210	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\RB ਉਹ\PR_PRP ਪਰਿਵਾਰਕ\N_NN ਮੈਂਬਰਾਂ\N_NN ਵੱਲੋਂ\PSP ਦਿੱਤੇ\V_VM_VF ਗਏ\V_VM_VF ਸਹਿਯੋਗ\N_NN ਲਈ\PSP ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਧੰਨਵਾਦੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3211	ਆਪਣੇ\PR_PRF ਚਾਹੁਣ\V_VM_VNF ਵਾਲਿਆਂ\V_VM_VF ਦੇ\PSP ਸਬੰਧ\N_NN `\RD_PUNC ਚ\PSP ਕੰਗਨਾ\N_NNP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3212	ਕਿ\CC_CCS ਸਭ\QT_QTF ਤੋਂ\PSP ਵੱਡਾ\JJ ਇਨਾਮ\N_NN ਦਰਸ਼ਕਾਂ\N_NN ਦਾ\PSP ਪਿਆਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3213	ਜੋ\DM_DMR ਹਰੇਕ\QT_QTF ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਕੰਮ\N_NN ਕਰਨ\V_VM_VNF ਵੇਲੇ\N_NN ਇਹ\DM_DMD ਯਾਦ\N_NN ਕਰਵਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੋਰ\RB ਜਾਨਦਾਰ\N_NN ਅਦਾਕਾਰੀ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBED3214	ਹੋਰਨਾਂ\N_NN ਤੋਂ\PSP ਇਲਾਵਾ\RB ਉਹ\PR_PRP ਅਭਿਨੇਤਾ\N_NN ਆਮਿਰ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਵੀ\RP_RPD ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਰਿਣੀ\N_NN ਮੰਨਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3215	ਜਿੰਨਾ\DM_DMR ਵੱਲੋਂ\PSP `\RD_PUNC ਕੁਈਨ\N_NNP `\RD_PUNC ਵਿਚਲੇ\RB ਉਸ\PR_PRP ਦੇ\PSP ਕਿਰਦਾਰ\N_NN ਦੀ\PSP ਤਾਰੀਫ਼\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF |\RD_PUNC
+PBED3216	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਵਧੀਆ\JJ ਕਲਾਕਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3217	ਉਹਦੀਆਂ\DM_DMR ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਹਿੱਟ\N_NN ਗਈਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3218	ਪਰ\CC_CCS ਕੁਝ\QT_QTF ਕੁ\RP_RPD ਫ਼ਿਲਮਾਂ\N_NN ਨਹੀਂ\RP_NEG ਵੀ\RP_RPD ਚੱਲੀਆਂ\V_VM_VF |\RD_PUNC
+PBED3219	ਰਣਬੀਰ\N_NNP ਆਪਣੇ\PR_PRF ਦਾਦਾ\N_NN ਰਾਜ\N_NNP ਕਪੂਰ\N_NNP ਦੀਆਂ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਤੋਂ\PSP ਕਾਫ਼ੀ\QT_QTF ਪ੍ਰਭਾਵਿਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3220	ਆਉਣ\RB ਵਾਲੇ\V_VM_VF ਸਮੇਂ\N_NN `\RD_PUNC ਚ\JJ ਆਪਣੀ\PR_PRF ਖ਼ੁਦ\PR_PRF ਦੀ\PSP ਕੰਪਨੀ\N_NN ਬਣਾ\V_VM_VINF ਕੇ\RP_RPD ਵਧੀਆ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਵੀ\RP_RPD ਕਰੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3221	ਅੱਜ\RB ਕਲ\RB ਉਹ\PR_PRP ਕੁਝ\QT_QTF ਕੁ\RP_RPD ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਬਤੌਰ\N_NN ਸਹਾਇਕ\N_NN ਨਿਰਮਾਤਾ\N_NN ਵੀ\RP_RPD ਆ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3222	ਅੱਜ\RB ਕਲ\RB ਉਸ\PR_PRP ਦੀ\PSP ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਨਾਲ\PSP `\RD_PUNC ਭੂਤਨਾਥ\N_NNP ਰਿਟਰਨਜ਼\N_NNP `\RD_PUNC ਆ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3223	ਜਿਸ\PR_PRL ਤੋਂ\PSP ਉਹ\PR_PRP ਕਾਫ਼ੀ\QT_QTF ਪ੍ਰਭਾਵਿਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3224	ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਨਾਲ\PSP ਕੰਮ\N_NN ਕਰਕੇ\V_VM_VF ਰਣਬੀਰ\N_NNP ਕਾਫ਼ੀ\QT_QTF ਖੁਸ਼\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3225	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ,\V_VAUX `\RD_PUNC ਅਮਿਤ\N_NNP ਜੀ\N_NNP ਅਭਿਨੈ\N_NN ਦੀ\PSP ਸੰਸਥਾ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3226	ਜਿੰਨਾਂ\DM_DMR ਨਾਲ\PSP ਕੰਮ\N_NN ਕਰਕੇ\V_VM_VF ਬੜਾ\N_NN ਕੁਝ\QT_QTF ਸਿੱਖਣ\V_VM_VNF ਨੂੰ\PSP ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3227	ਮੈਂ\PR_PRP ਚਾਹੁੰਦਾ\V_VM_VF ਹਾਂ\V_VAUX ਕਿ\CC_CCS ਮੈਂ\PR_PRP ਉਹਨਾ\DM_DMR ਨਾਲ\PSP ਵਾਰ-ਵਾਰ\RB ਕੰਮ\N_NN ਕਰਾਂ\V_VM_VF |\RD_PUNC
+PBED3228	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਦੀਆਂ\PSP ਕੁਝ\QT_QTF ਹੋਰ\RB ਫ਼ਿਲਮਾਂ\N_NN ਵੀ\RP_RPD ਹਨ\V_VAUX ।\RD_PUNC
+PBED3229	ਜਿਵੇਂ\RP_CL `\RD_PUNC ਰਾਏ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਬਾਂਬੇ\N_NNP ਵੈਲਵਟ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਜੱਗਾ\N_NNP ਜਾਸੂਸ\N_NNP `\RD_PUNC ਆਦਿ-ਆਦਿ\RP_CL |\RD_PUNC
+PBED3230	ਅੱਜਕਲ੍ਹ\RB ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਐਡ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਬਹੁਤ\JJ ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3231	ਜਿਸ\PR_PRL ਲਈ\PSP ਵੱਡੀਆਂ-ਵੱਡੀਆਂ\JJ ਐਡ\N_NN ਕੰਪਨੀਆਂ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਲੈ\V_VM ਰਹੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3232	ਕੈਟਰੀਨਾ\N_NNP ਕੈਫ਼\N_NNP ਨਾਲ\PSP ਛੁੱਟੀਆਂ\N_NN ਬਿਤਾਉਣ\V_VM_VNF ਸਮੇਂ\N_NN ਮੀਡੀਆ\N_NN `\RD_PUNC ਚ\PSP ਛਪੀਆਂ\N_NN ਤਸਵੀਰਾਂ\N_NN ਨਾਲ\PSP ਉਹ\PR_PRP ਕੁਝ\QT_QTF ਦਿਨ\N_NN ਅਪਸੈਟ\N_NN ਵੀ\RP_RPD ਰਿਹਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3233	ਕਿਉਂਕਿ\CC_CCS ਉਹ\PR_PRP ਨਹੀਂ\RP_NEG ਚਾਹੁੰਦਾ\V_VM_VF ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਦੋਸਤੀ\N_NN ਦਾ\PSP ਪ੍ਰਚਾਰ\N_NN ਸ਼ਰੇਆਮ\N_NN ਹੋਵੇ\V_VM_VF |\RD_PUNC
+PBED3234	ਹੋਰ\RB ਵੀ\RP_RPD ਕਈ\QT_QTF ਹੀਰੋਇਨਾਂ\N_NN ਨਾਲ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਦੋਸਤੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3235	ਉਸ\PR_PRP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਿਰਫ਼\N_NN ਦੋਸਤੀ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3236	ਰਣਬੀਰ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ,\RD_PUNC `\RD_PUNC ਪਹਿਲਾਂ\QT_QTO ਕੈਰੀਅਰ\N_NN ਸੈੱਟ\N_NN ਹੋ\V_VM ਜਾਵੇ\V_VM_VF ,\RD_PUNC ਫਿਰ\RB ਸ਼ਾਦੀ\N_NN ਕਰਾਂਗਾ\V_VM_VF |\RD_PUNC
+PBED3237	ਫਿਲਹਾਲ\RB ਧਿਆਨ\N_NN ਉਹ\PR_PRP ਆਪਣੇ\PR_PRF ਕੈਰੀਅਰ\N_NN ਵੱਲ\PSP ਲਗਾ\V_VM_VF ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3238	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਇਸ\DM_DMD ਸਮੇਂ\N_NN ਵੀਹ\QT_QTC ਤੋਂ\PSP ਵੱਧ\JJ ਐਡ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3239	ਰੁਮਾਂਟਿਕ\N_NN ਕਾਮੇਡੀ\N_NN `\RD_PUNC ਲੇਡੀਜ਼\N_NNP ਵਰਸਿਜ਼\N_NNP ਰਿੱਕੀ\N_NNP ਬਹਿਲ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਅਮੀਰਜ਼ਾਦੀ\N_NN ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਨਿਭਾਅ\V_VM ਕੇ\RP_RPD ਸਭ\QT_QTF ਦਾ\PSP ਧਿਆਨ\N_NN ਖਿੱਚਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਪ੍ਰਣੀਤੀ\N_NNP ਚੋਪੜਾ\N_NNP ਹਬੀਬ\N_NNP ਫ਼ੈਸਲ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਇਸ਼ਕਜ਼ਾਦੇ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਸ਼ੁੱਧ\N_NNP ਦੇਸੀ\N_NNP ਰੁਮਾਂਸ\N_NNP `\RD_PUNC ਨਾਲ\PSP ਕਾਫ਼ੀ\QT_QTF ਅੱਗੇ\RB ਵਧਦੀ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3240	ਅੰਬਾਲਾ\N_NNP ਦੀ\PSP ਜੰਮਪਲ\N_NN ਅਰਥ\N_NNP ਸ਼ਾਸਤਰ\N_NNP ਦੀ\PSP ਡਿਗਰੀ\N_NN ਹਾਸਲ\N_NN ਕਰਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਪ੍ਰਣੀਤੀ\N_NNP ਸਹਿਜ\N_NN ਵੀ\RP_RPD ਲਗਦੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਤੇਜ਼ਤਰਾਰ\N_NN ਵੀ\RP_RPD |\RD_PUNC
+PBED3241	ਉਹ\PR_PRP ਥੱਕੀ\N_NN ਹਾਰੀ\N_NN ਕੁੜੀ\N_NN ਨਹੀਂ\RP_NEG ਬਲਕਿ\CC_CCS ਛੈਲ-ਛਬੀਲੀ\RD_ECH ਤੇਜ਼\JJ ਤਰਾਰ\N_NN ਕੁੜੀ\N_NN ਦੀ\PSP ਦਿਖ\V_VM `\RD_PUNC ਚ\PSP ਸਾਹਮਣੇ\N_NN ਆਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3242	`\RD_PUNC ਸ਼ੁੱਧ\N_NNP ਦੇਸੀ\N_NNP ਰੁਮਾਂਸ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਦਿਖਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਚਮਕ-ਦਮਕ\RD_ECH ਕੀ\DM_DMQ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3243	ਪਿ੍ਅੰਕਾ\N_NNP ਚੋਪੜਾ\N_NNP ਦੀ\PSP ਰਿਸ਼ਤੇਦਾਰਨੀ\N_NN ਇਹ\DM_DMD ਕੁੜੀ\N_NN ਬਹੁਤ\QT_QTF ਵੱਡੇ-ਵੱਡੇ\JJ ਸਨਮਾਨ\N_NN ਜਿੱਤਣ\V_VM_VNF ਦੀ\PSP ਸਮਰੱਥਾ\N_NN ਰੱਖਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3244	ਇਕ\QT_QTC ਅਭਿਨੇਤਰੀ\N_NN ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਉਹ\PR_PRP ਹਰ\QT_QTF ਭੂਮਿਕਾ\N_NN ਨਾਲ\PSP ਨਿੱਖਰ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3245	ਉਸ\PR_PRP ਦੀਆਂ\PSP ਅੱਖਾਂ\N_NN ,\RD_PUNC ਮੁਸਕਰਾਹਟ\N_NN ਤੇ\CC_CCD ਅਦਾਵਾਂ\N_NN ਬਗੈਰ\RP_NEG ਕੁਝ\QT_QTF ਕਹੇ\V_VM_VF ਬਹੁਤ\N_NN ਕੁਝ\QT_QTF ਕਹਿ\V_VM ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3246	ਹਾਂ,\RP_INJ ਅੱਧਖੜ\N_NN ਨਾਇਕਾਵਾਂ\N_NN ਨਾਲ\PSP ਉਹ\PR_PRP ਨਾ\RP_NEG ਹੀ\RP_RPD ਫ਼ਿਲਮ\N_NN ਕਰੇ\V_VM_VF ਉਸ\PR_PRP ਦਾ\PSP ਦਿਲ\N_NN ਅਕਸਰ\N_NN ਇਹੀ\DM_DMR ਸੋਚਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3247	ਫਿਰ\RB ਵੀ\RP_RPD ਘੱਟੋ-ਘੱਟ\QT_QTF ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN ਉਹ\PR_PRP ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਨਾਲ\PSP ਕਰਨਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3248	`\RD_PUNC ਦਾਅਵਤ-ਏ-ਇਸ਼ਕ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਕਿਲ\N_NNP ਦਿਲ\N_NNP `\RD_PUNC ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਸਮੇਂ\N_NN ਕੰਮ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਪ੍ਰਣੀਤੀ\N_NNP ਆਪਣੇ\PR_PRF ਹਾਣ\N_NN ਦੇ\PSP ਨਾਇਕਾਂ\N_NN ਰਣਵੀਰ\N_NNP ਸਿੰਘ\N_NNP ,\RD_PUNC ਅਦਿਤਯ\N_NNP ਰਾਏ\N_NNP ਕਪੂਰ\N_NNP ਤੇ\CC_CCD ਅਲੀ\N_NNP ਜ਼ਫ਼ਰ\N_NNP ਨਾਲ\PSP ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3249	ਮਨੀਸ਼\N_NNP ਸ਼ਰਮਾ\N_NNP ਨਿਰਦੇਸ਼ਤ\N_NN ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਸ਼ਾਇਦ\RB ਉਹ\PR_PRP ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਹੋਵੇ\V_VM_VF |\RD_PUNC
+PBED3250	ਹਕੀਕਤ\N_NN `\RD_PUNC ਤੇ\RB ਜ਼ੋਰ\JJ ਦੇਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਆਪਣੀ\PR_PRF ਊਰਜਾ\N_NN ਨਾਲ\PSP ਅੱਗੇ\RB ਵਧਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਪ੍ਰਣੀਤੀ\N_NNP `\RD_PUNC ਚ\PSP ਇਹ\DM_DMD ਸਮਰੱਥਾ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਦਰਸ਼ਕ\N_NN ਉਸ\PR_PRP `\RD_PUNC ਤੇ\RB ਨਜ਼ਰਾਂ\N_NN ਰੱਖਣ\V_VM_VNF |\RD_PUNC
+PBED3251	ਦੀਪਿਕਾ\N_NNP ਪਾਦੂਕੋਨ\N_NNP ਦੇ\PSP ਜ਼ਿਆਦਾ\JJ ਰੁਝੇਵਿਆਂ\N_NN ਦਾ\PSP ਲਾਭ\N_NN ਸਿਰਫ਼\RB ਪ੍ਰਣੀਤੀ\N_NNP ਨੂੰ\PSP ਹੋਣਾ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBED3252	ਮਨੀਸ਼\N_NNP ਸ਼ਰਮਾ\N_NNP ਦੀ\PSP ਕੋਸ਼ਿਸ਼\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਸ਼ਾਹਰੁਖ\N_NNP ਮੰਨ\V_VM ਜਾਵੇ\V_VM_VF ਤੇ\CC_CCD ਉਹ\PR_PRP ਪ੍ਰਣੀਤੀ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਸ਼ਾਹਰੁਖ\N_NNP ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਸ਼ੁਰੂ\RB ਕਰੇ\V_VM_VF |\RD_PUNC
+PBED3253	ਜੇ\DM_DMR ਇਹ\DM_DMD ਹੋ\V_VM ਗਿਆ\V_VM_VF ਤਾਂ\PSP ਪ੍ਰਣੀਤੀ\N_NNP ਚੋਪੜਾ\N_NNP ਤੋਂ\PSP ਵੱਧ\JJ ਖੁਸ਼\N_NN ਕਿਸਮਤ\N_NN ਕੌਣ\PR_PRQ ਹੋਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3254	ਕਾਮੇਡੀ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਦੇ\PSP ਲਗਾਤਾਰ\RB ਅਸਫ਼ਲ\N_NN ਰਹਿਣ\V_VM_VNF ਕਾਰਨ\N_NN ਹੁਣ\RB ਪੰਜਾਬੀ\N_NNP ਨਿਰਮਾਤਾ\N_NN ਤੇ\CC_CCD ਨਿਰਦੇਸ਼ਕਾਂ\N_NN ਨੇ\PSP ਐਕਸ਼ਨ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਵੱਲ\PSP ਰੁਖ਼\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3255	`\RD_PUNC ਸਾਡਾ\N_NNP ਹੱਕ\N_NNP `\RD_PUNC ਅਤੇ\CC_CCD `\RD_PUNC ਕਿਰਪਾਨ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਬਾਅਦ\RB ਹੁਣ\RB ਇਕ\QT_QTC ਹੋਰ\RB ਐਕਸ਼ਨ\N_NN ਭਰਪੂਰ\N_NN ਪੰਜਾਬੀ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਫਤਹਿ\N_NNP `\RD_PUNC ਦਰਸ਼ਕਾਂ\N_NN ਦੀ\PSP ਕਚਹਿਰੀ\N_NN ਵਿਚ\PSP ਪੇਸ਼\N_NN ਹੋਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3256	ਜਿਨ੍ਹਾਂ\DM_DMR ਦੀ\PSP ਇਹ\DM_DMD ਪਹਿਲੀ\QT_QTO ਪੰਜਾਬੀ\N_NNP ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3257	ਉਹਨਾ\DM_DMR ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਪੂਰੀ\N_NN ਤਰਾਂ\PSP ਐਕਸ਼ਨ\N_NN ਭਰਪੂਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3258	ਜਿਹੜੇ\DM_DMR ਸਿੱਖਾਂ\N_NN ਦੇ\PSP ਮਾਰਸ਼ਲ\N_NN ਆਰਟ\N_NN ਗਤਕੇ\N_NNP `\RD_PUNC ਤੇ\RB ਅਧਾਰਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3259	ਜਸਪ੍ਰੀਤ\N_NNP ਨੇ\PSP ਦੱਸਿਆ\V_VM_VF ਕਿ\CC_CCS ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਤਕਨੀਕ\N_NN ਅਤੇ\CC_CCD ਐਕਸ਼ਨ\N_NN ਦੇ\PSP ਲਿਹਾਜ਼\N_NN ਨਾਲ\PSP ਬਾਲੀਵੁੱਡ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਨੂੰ\PSP ਮਾਤ\N_NN ਦੇਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3260	ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਨਵ\N_NNP ਬਾਜਵਾ\N_NNP ਅਤੇ\CC_CCD ਸਮੀਕਸ਼ਾ\N_NNP ਸਿੰਘ\N_NNP ਦੀ\PSP ਰੋਮਾਂਟਿਕ\N_NN ਜੋੜੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3261	ਦੋਨਾਂ\QT_QTO ਨੇ\PSP ਹੀ\RP_RPD ਰੋਮਾਂਸ\N_NN ਨਾਲ\PSP ਐਕਸ਼ਨ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਖੁੱਲ੍ਹ\V_VM ਕੇ\RP_RPD ਹੱਥ\N_NN ਅਜਮਾਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3262	ਨਵ\N_NNP ਬਾਜਵਾ\N_NNP ਨੇ\PSP ਤਾਂ\PSP ਕੁਝ\QT_QTF ਮਹੀਨੇ\N_NN ਗਤਕੇ\N_NNP ਦੀ\PSP ਟਰੇਨਿੰਗ\N_NN ਵੀ\RP_RPD ਲਈ\PSP |\RD_PUNC
+PBED3263	ਸਮੀਕਸ਼ਾ\N_NNP ਨੇ\PSP ਵੀ\RP_RPD ਪਹਿਲੀ\QT_QTO ਵਾਰ\RB ਕਿਸੇ\DM_DMQ ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਖਤਰਨਾਕ\N_NN ਐਕਸ਼ਨ\N_NN ਸਟੰਟ\N_NN ਖੁਦ\PR_PRF ਕੀਤੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3264	ਸਮੀਕਸ਼ਾ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਮਾਡਿਲੰਗ\N_NN ਰਾਹੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਦਾਖਲਾ\N_NN ਲਿਆ\V_VM_VF |\RD_PUNC
+PBED3265	ਉਹ\PR_PRP ਆਪਣੇ\PR_PRF ਕੈਰੀਅਰ\N_NN ਦੀ\PSP ਸ਼ੁਰੂਆਤ\RB ਕੁਝ\QT_QTF ਟੀ.\N_NN ਵੀ.\N_NN ਲੜੀਵਾਰਾਂ\N_NN `\RD_PUNC ਜਹਾਂ\N_NNP ਮੈਂ\N_NNP ਘਰ-ਘਰ\N_NNP ਖੇਲੀ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਅਰਜੁਨ\N_NNP `\RD_PUNC ਅਤੇ\CC_CCD `\RD_PUNC ਬੁੱਧਾ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਆਪਣੇ\PR_PRF ਅਭਿਨੈ\N_NN ਨਾਲ\PSP ਦਰਸ਼ਕਾਂ\N_NN ਦਾ\PSP ਦਿਲ\N_NN ਜਿੱਤ\N_NN ਕੇ\RP_RPD ਕਰ\V_VM ਚੁੱਕੀ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBED3266	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\RB ਉਹ\PR_PRP ਕੁਝ\QT_QTF ਦੱਖਣ\N_NNP ਭਾਰਤੀ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਕੰਮ\N_NN ਕਰ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3267	ਪਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਦਾਖਲਾ\N_NN ਹਾਸਲ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3268	ਉਹ\PR_PRP ਕੁਝ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਜਿਵੇਂ\RP_CL ਲੱਕੀ\N_NNP ਦੀ\N_NNP ਅਨਲੱਕੀ\N_NNP ਸਟੋਰੀ\N_NNP ,\RD_PUNC ਜੱਟਸ\N_NNP ਇਨ\N_NNP ਗੋਲਮਾਲ\N_NNP ਅਤੇ\CC_CCD ਕਿਰਪਾਨ\N_NNP ਵਿਚ\PSP ਆਪਣੇ\PR_PRF ਅਭਿਨੈ\N_NN ਦੇ\PSP ਜੌਹਰ\N_NN ਦਿਖਾ\V_VM_VF ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3269	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਪਾਲੀਵੁੱਡ\N_NN ਦੇ\PSP ਕੁਝ\QT_QTF ਉੱਘੇ\JJ ਕਲਾਕਾਰਾਂ\N_NN ਨੇ\PSP ਵੀ\RP_RPD ਆਪਣੇ\PR_PRF ਜੌਹਰ\N_NN ਦਿਖਾਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3270	ਜਿਨ੍ਹਾਂ\DM_DMR ਵਿਚ\PSP ਸ਼ਵਿੰਦਰ\N_NNP ਮਾਹਲ\N_NNP ,\RD_PUNC ਯਾਦ\N_NNP ਗਰੇਵਾਲ\N_NNP ਅਤੇ\CC_CCD ਗੁਰਪ੍ਰੀਤ\N_NNP ਘੁੱਗੀ\N_NNP ਆਦਿ\RP_CL ਸ਼ਾਮਿਲ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3271	ਬਾਲੀਵੁੱਡ\N_NN ਕਲਾਕਾਰ\N_NN ਪੁਨੀਤ\N_NNP ਇੱਸਰ\N_NNP ਦਾ\PSP ਦਮਦਾਰ\N_NN ਐਕਸ਼ਨ\N_NN ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਆਕਰਸ਼ਨ\N_NN ਦਾ\PSP ਕੇਂਦਰ\N_NN ਹੋਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3272	ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਸੰਗੀਤ\N_NN ਕੁਲਜੀਤ\N_NNP ਅਤੇ\CC_CCD ਟਾਈਗਰ\N_NNP ਸਟਾਈਲ\N_NNP ਨੇ\PSP ਤਿਆਰ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3273	ਆਪਣੇ\PR_PRF ਟੀ.\N_NN ਵੀ.\N_NN ਸ਼ੋਅ\N_NN `\RD_PUNC ਸਤਿਆਮੇਵ\N_NNP ਜਯਤੇ\N_NNP `\RD_PUNC ਦੇ\PSP ਪਹਿਲੇ\QT_QTO ਸੀਜ਼ਨ\N_NN ਦੀ\PSP ਸਫ਼ਲਤਾ\N_NN ਤੋਂ\PSP ਪ੍ਰੇਰਿਤ\N_NN ਹੋ\V_VM ਕੇ\RP_RPD ਹੁਣ\RB ਆਮਿਰ\N_NNP ਖਾਨ\N_NNP ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਨੂੰ\PSP ਦੁਬਾਰਾ\N_NN ਲੈ\V_VM ਕੇ\RP_RPD ਪੇਸ਼\N_NN ਹੋਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3274	ਪਹਿਲੇ\QT_QTO ਦੀ\PSP ਤਰਾਂ\PSP ਇਸ\DM_DMD ਵਾਰ\RB ਵੀ\RP_RPD ਸਮਾਜਿਕ\N_NN ਸਮੱਸਿਆਵਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਰੌਸ਼ਨੀ\N_NN ਪਾਈ\V_VM_VF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3275	ਅਤੇ\CC_CCS ਨਾਲ\PSP ਹੀ\RP_RPD ਇਹ\DM_DMD ਰਾਹ\N_NN ਵੀ\RP_RPD ਦਿਖਾਇਆ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3276	ਕਿ\CC_CCS ਇਸ\DM_DMD ਸਮੱਸਿਆ\N_NN ਦਾ\PSP ਹੱਲ\N_NN ਕਿਵੇਂ\DM_DMQ ਕੱਢਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3277	ਇਹ\DM_DMD ਤਾਂ\PSP ਸੱਚ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS `\RD_PUNC ਸਤਿਆਮੇਵ\N_NNP ਜਯਤੇ\N_NNP `\RD_PUNC ਸਮਾਜਿਕ\N_NN ਚੇਤਨਾ\N_NN ਜਗਾਉਣ\V_VM_VNF ਵਿਚ\PSP ਜ਼ਰੂਰ\N_NN ਸਫ਼ਲ\N_NN ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3278	ਆਮਿਰ\N_NNP ਨੂੰ\PSP ਵਿਸ਼ਵਾਸ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਸ\DM_DMD ਵਾਰ\RB ਵੀ\RP_RPD ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਰਾਹੀਂ\N_NN ਇਹ\DM_DMD ਚੇਤਨਾ\N_NN ਰੂਪੀ\N_NN ਮਸ਼ਾਲ\N_NN ਦੀ\PSP ਰੌਸ਼ਨੀ\N_NN ਹੋਰ\RB ਦੂਰ\N_NN ਤੱਕ\PSP ਫੈਲ\V_VM ਜਾਣ\V_VM_VNF ਵਿਚ\PSP ਕਾਮਯਾਬ\N_NN ਰਹੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3279	ਆਪਣੇ\PR_PRF ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਉਤਸ਼ਾਹੀ\N_NN ਆਮਿਰ\N_NNP ਖਾਨ\N_NNP ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਬਾਰੇ\N_NN ਗੱਲ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3280	ਆਮਿਰ\N_NNP ,\RD_PUNC ਜਦੋਂ\PR_PRL ਤੁਹਾਡੀ\PR_PRL ਕੋਈ\QT_QTF ਫ਼ਿਲਮ\N_NN ਹਿੱਟ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਤਰਾਂ\PSP ਤੁਹਾਡੀ\PR_PRP ਆਉਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਤੋਂ\PSP ਉਮੀਦਾਂ\N_NN ਵਧ\N_NN ਜਾਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3281	ਉਹੀ\DM_DMR ਗੱਲ\N_NN ਤੁਹਾਡੇ\PR_PRP ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN `\RD_PUNC ਤੇ\RB ਵੀ\RP_RPD ਲਾਗੂ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3282	ਹੁਣ\RB ਜਦੋਂ\PR_PRL ਸ਼ੋਅ\N_NN ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਉਮੀਦਾਂ\N_NN ਬਹੁਤ\N_NN ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਵਾਰ\RB ਤੁਸੀਂ\PR_PRP ਕੀ\N_NN ਕੁਝ\N_NN ਨਵਾਂ\N_NN ਪੇਸ਼\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹੋ\V_VAUX ?\RD_PUNC
+PBED3283	ਇਸ\DM_DMR ਸ਼ੋਅ\N_NN ਦਾ\PSP ਬੇਸਿਕ\N_NN ਫਾਰਮੈਟ\N_NN ਤਾਂ\PSP ਉਹੀ\DM_DMR ਹੈ\V_VAUX |\RD_PUNC
+PBED3284	ਉਸ\PR_PRP ਵਿਚ\PSP ਕਿਤੇ\N_NN ਕੋਈ\QT_QTF ਬਦਲਾਅ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3285	ਸ਼ੋਅ\N_NN ਦੇ\PSP ਪੇਸ਼\N_NN ਕਰਨ\V_VM_VNF ਵਿਚ\PSP ਥੋੜਾ\QT_QTF ਬਦਲਾਅ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3286	ਇਸ\DM_DMD ਦਾ\PSP ਜੋ\DM_DMR ਟਾਈਟਲ\N_NN ਗੀਤ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਜ਼ਰਾ\N_NN ਬਦਲਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3287	ਗੀਤ\N_NN ਦੇ\PSP ਬੋਲ\N_NN ਕੁਝ\QT_QTF ਬਦਲੇ\V_VM_VF ਗਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3288	ਅਸੀਂ\PR_PRP ਇਹ\DM_DMD ਜਾਣਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਕਿ\CC_CCS ਲੋਕਾਂ\N_NN ਦੀਆਂ\PSP ਸਾਡੇ\PR_PRP ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਤੋਂ\PSP ਕਈ\QT_QTF ਉਮੀਦਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3289	ਉਸੇ\DM_DMR ਨੂੰ\PSP ਮੁੱਖ\JJ ਰੱਖ\N_NN ਕੇ\RP_RPD ਇਹ\DM_DMD ਸ਼ੋਅ\N_NN ਤਿਆਰ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3290	ਆਪਣੇ\PR_PRF ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਦੀ\PSP ਬਦੌਲਤ\N_NN ਤੁਸੀਂ\PR_PRP ਕੀ\DM_DMQ ਕੁਝ\QT_QTF ਸਿੱਖਿਆ\N_NN ਹੈ\V_VAUX ?\RD_PUNC
+PBED3291	ਇਹ\DM_DMD ਸ਼ੋਅ\N_NN ਮੇਰੇ\PR_PRP ਲਈ\PSP `\RD_PUNC ਲਰਨਿੰਗ\N_NN ਅਕਸਪੀਰੀਐਾਸ\N_NN `\RD_PUNC ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3292	ਮੈਂ\PR_PRP ਇਸ\DM_DMD ਤੋਂ\PSP ਕਾਫੀ\QT_QTF ਕੁਝ\QT_QTF ਸਿੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3293	ਇਕ\QT_QTC ਗੱਲ\N_NN ਤਾਂ\PSP ਇਹ\DM_DMD ਸਿੱਖੀ\N_NN ਕਿ\CC_CCS ਲੋਕ\N_NN ਜੇਕਰ\CC_CCS ਇਕੱਠੇ\N_NN ਹੋ\V_VM ਜਾਣ\V_VM_VNF ਤਾਂ\CC_CCD ਸਮਾਜ\N_NN ਵਿਚ\PSP ਬਦਲਾਅ\N_NN ਲਿਆਂਦਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3294	ਸਮਾਜਿਕ\N_NN ਬਦਲਾਅ\N_NN ਕਿਸੇ\DM_DMQ ਇਕ\QT_QTC ਵਿਅਕਤੀ\N_NN ਦੇ\PSP ਬਦਲਣ\V_VM_VNF ਨਾਲ\PSP ਨਹੀਂ\RP_NEG ਆਉਂਦਾ\V_VM_VF |\RD_PUNC
+PBED3295	ਜਦੋਂ\PR_PRL ਪੂਰਾ\JJ ਸਮਾਜ\N_NN ਆਪਣੀ\PR_PRF ਸੋਚ\N_NN ਬਦਲਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਦੇ\DM_DMR ਬਦਲਾਅ\N_NN ਦੀ\PSP ਲਹਿਰ\N_NN ਵਗਣੀ\V_VM_VINF ਸ਼ੁਰੂ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3296	ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਵਿਚ\PSP ਮੈਂ\PR_PRP ਇਹ\DM_DMD ਵੀ\RP_RPD ਸਿੱਖਿਆ\V_VM_VF ਕਿ\CC_CCS ਸਾਨੂੰ\PR_PRP ਆਪਣੇ\PR_PRF ਸਵਾਰਥੀ\N_NN ਮਕਸਦ\N_NN ਲਈ\PSP ਕੰਮ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF |\RD_PUNC
+PBED3297	ਜਦੋਂ\PR_PRL ਅਸੀਂ\PR_PRP ਸਾਰਿਆਂ\PR_PRL ਦੇ\PSP ਭਲੇ\N_NN ਬਾਰੇ\N_NN ਸੋਚਾਂਗੇ\V_VM_VF ਤਦੇ\DM_DMR ਸਭ\QT_QTF ਦਾ\PSP ਭਲਾ\N_NN ਹੋਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3298	ਹੁਣ\RB ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਦੀ\PSP ਨਵੀਂ\N_NN ਪਾਰੀ\N_NN ਦੇ\PSP ਸਿਲਸਿਲੇ\N_NN ਵਿਚ\PSP ਮੇਰਾ\N_NNP ਬਿਹਾਰ\N_NNP ਜਾਣਾ\V_VM_VINF ਹੋਇਆ\V_VM_VF |\RD_PUNC
+PBED3299	ਇਸ\DM_DMD ਆਦਮੀ\N_NN ਨੇ\PSP ਇਕੱਲੇ\QT_QTO ਹੱਥੀਂ\N_NN ਪਹਾੜ\N_NN ਕੱਟ\V_VM ਕੇ\RP_RPD ਰਸਤਾ\N_NN ਬਣਾਇਆ\V_VM_VF ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਕੰਮ\N_NN ਵਿਚ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP 22\QT_QTC ਸਾਲ\N_NN ਲੱਗ\V_VM ਗਏ\V_VM_VF |\RD_PUNC
+PBED3300	ਇਹ\DM_DMD ਦੇਖ\N_NN ਕੇ\RP_RPD ਮੈਂ\PR_PRP ਸਿੱਖਿਆ\V_VM_VF ਕਿ\CC_CCS ਜੇਕਰ\CC_CCS ਤੁਹਾਡੇ\PR_PRP ਵਿਚ\PSP ਕੁਝ\QT_QTF ਕਰ\V_VM ਗੁਜ਼ਰਨ\N_NN ਦਾ\PSP ਜਨੂੰਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3301	ਤਾਂ\CC_CCS ਪਹਾੜ\N_NN ਵੀ\RP_RPD ਤੁਹਾਡਾ\PR_PRP ਰਸਤਾ\N_NN ਰੋਕ\V_VM ਨਹੀਂ\RP_NEG ਸਕਦਾ\V_VM_VF |\RD_PUNC
+PBED3302	ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਦੀ\PSP ਬਦੌਲਤ\N_NN ਸਮਾਜ\N_NN ਪ੍ਰਤੀ\N_NN ਮੇਰੇ\PR_PRP ਨਜ਼ਰੀਏ\N_NN ਵਿਚ\PSP ਬਦਲਾਅ\V_VM ਆਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3303	ਮੈਨੂੰ\PR_PRP ਨਵੀਂ\N_NN ਜਾਣਕਾਰੀ\N_NN ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3304	ਕਾਨੂੰਨ\N_NN ਬਾਰੇ\RB ਬਹੁਤ\QT_QTF ਜਾਣਕਾਰੀ\N_NN ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3305	ਸ਼ੋਅ\N_NN ਦੌਰਾਨ\RB ਜਦੋਂ\PR_PRL ਕਈ\QT_QTF ਸਮਾਜਿਕ\N_NN ਮੁੱਦੇ\N_NN ਹੱਥ\N_NN ਵਿਚ\PSP ਲਏ\V_VM_VF ਉਦੋਂ\DM_DMR ਪਤਾ\N_NN ਲੱਗਿਆ\V_VM_VF ਕਿ\CC_CCS ਇਹਨਾ\DM_DMD ਮੁੱਦਿਆਂ\N_NN ਬਾਰੇ\RB ਸਾਡਾ\PR_PRP ਕਾਨੂੰਨ\N_NN ਕੀ\DM_DMQ ਕਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3306	ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਵਿਚ\PSP ਕਈ\QT_QTF ਨਾਮੀ\N_NN ਹਸਤੀਆਂ\N_NN ਵੀ\RP_RPD ਆਈਆਂ\V_VM_VF |\RD_PUNC
+PBED3307	ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਨੇ\PSP ਮੈਨੂੰ\PR_PRP ਇਕ\QT_QTC ਵਿਅਕਤੀ\N_NN ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RP_RPD ਕਾਫੀ\QT_QTF ਕੁਝ\QT_QTF ਨਵਾਂ\N_NN ਸਿਖਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3308	ਇਸ\DM_DMD ਸ਼ੋਅ\N_NN ਨੇ\PSP ਤੁਹਾਡੇ\PR_PRP ਲਈ\PSP ਰਾਜਨੀਤੀ\N_NN ਵਿਚ\PSP ਜਾਣ\V_VM_VNF ਦਾ\PSP ਰਸਤਾ\N_NN ਖੋਲ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3309	ਕੀ\DM_DMQ ਤੁਸੀਂ\PR_PRP ਰਾਜਨੀਤੀ\N_NN ਵਿਚ\PSP ਜਾਓਗੇ\V_VM_VF ?\RD_PUNC
+PBED3310	ਮੈਂ\PR_PRP ਅਭਿਨੇਤਾ\N_NN ਹੀ\RP_RPD ਬਣਿਆ\V_VM_VF ਰਹਿਣਾ\V_VM_VINF ਚਾਹੁੰਦਾ\V_VM_VF ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3311	ਮੈਂ\PR_PRP ਕਿਸੇ\DM_DMQ ਰਾਜਨੀਤਕ\N_NN ਪਾਰਟੀ\N_NN ਨਾਲ\PSP ਜੁੜਿਆ\V_VM_VF ਨਹੀਂ\RP_NEG ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3312	ਉਦੋਂ\DM_DMR ਮੈਂ\PR_PRP ਵੀ\RP_RPD ਉਸ\PR_PRP ਦਾ\PSP ਸਾਥ\N_NN ਦਿੱਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3313	ਹੁਣ\RB ਜਦੋਂ\PR_PRL ਮੇਧਾ\N_NNP ਪਾਟਕਰ\N_NNP `\RD_PUNC ਆਮ\N_NNP ਆਦਮੀ\N_NNP ਪਾਰਟੀ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਸ਼ਾਮਿਲ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3314	ਚੋਣਾਂ\N_NN ਲੜਨ\V_VM_VNF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਫਿਰ\RB ਗੱਲ\N_NN ਉੱਡਣ\V_VM_VNF ਲੱਗੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3315	ਕਿ\DM_DMQ ਮੈਂ\PR_PRP ਉਸ\PR_PRP ਲਈ\PSP ਪ੍ਰਚਾਰ\N_NN ਕਰਾਂਗਾ\V_VM_VF |\RD_PUNC
+PBED3316	ਪਰ\CC_CCS ਇਥੇ\DM_DMR ਮੈਂ\PR_PRP ਸਾਫ਼\N_NN ਕਰ\V_VM ਦੇਣਾ\V_VM_VINF ਚਾਹਾਂਗਾ\V_VM_VF ਕਿ\CC_CCS ਮੈਂ\PR_PRP ਮੇਧਾ\N_NNP ਪਾਟਕਰ\N_NNP ਲਈ\PSP ਚੋਣ\N_NN ਪ੍ਰਚਾਰ\N_NN ਨਹੀਂ\RP_NEG ਕਰਾਂਗਾ\V_VM_VF |\RD_PUNC
+PBED3317	ਸੋਨਾਕਸ਼ੀ\N_NNP ਕੋਲ\RB ਇਸ\DM_DMD ਸਮੇਂ\N_NN ਦੋ\QT_QTC ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3318	ਇਹਨਾਂ\DM_DMD ਵਿਚ\PSP ਇਕ\QT_QTC ਅਜੈ\N_NNP ਦੇਵਗਨ\N_NNP ਨਾਲ\PSP `\RD_PUNC ਐਕਸ਼ਨ\N_NNP ਜੈਕਸ਼ਨ\N_NNP `\RD_PUNC ਤੇ\CC_CCD ਦੂਸਰੀ\QT_QTO ਅਕਸ਼ੈ\N_NNP ਕੁਮਾਰ\N_NNP ਨਾਲ\PSP `\RD_PUNC ਹਾਲੀਡੇ\N_NNP `\RD_PUNC ਹੈ\V_VAUX |\RD_PUNC
+PBED3319	ਲੋਕੀਂ\N_NN ਕੁਝ\QT_QTF ਵੀ\RP_RPD ਕਹਿਣ\V_VM_VNF ਪਰ\CC_CCD ਉਹ\PR_PRP ਸਲਮਾਨ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਅਹਿਸਾਨਮੰਦ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3320	ਫਿਰ\RB ਇਹ\DM_DMD ਅਫ਼ਵਾਹ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX ਕਿ\CC_CCS ਸੋਨਾ\N_NNP ਨੇ\PSP ਸਲਮਾਨ\N_NNP ਦੀ\PSP ਘਰੇਲੂ\N_NN ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਨਾਂਹ\RP_NEG ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3321	ਵੈਲਕਮ-2\N_NNP `\RD_PUNC ਜੇ\DM_DMR ਉਸ\PR_PRP ਨੇ\PSP ਹਾਂ\RP_INJ ਕਰਕੇ\V_VM_VF ਛੱਡੀ\V_VM_VF ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਦਾ\PSP ਸੱਲੂ\N_NNP ਨਾਲ\PSP ਕੋਈ\DM_DMQ ਲੈਣਾ-ਦੇਣਾ\V_VM_VNG ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBED3322	ਇਹ\DM_DMD ਸਿਰਫ਼\RB ਤਰੀਕਾਂ\N_NN ਦੀ\PSP ਸਮੱਸਿਆ\N_NN ਕਾਰਨ\N_NN ਹੀ\RP_RPD ਹੋਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3323	ਗੱਲ\N_NN ਪ੍ਰੇਮ\N_NN ਦੇ\PSP ਕਿੱਸਿਆਂ\N_NN ਦੀ\PSP ਤਾਂ\CC_CCD ਇਸ\DM_DMD ਦਾ\PSP ਉਹ\PR_PRP ਜ਼ੋਰਦਾਰ\JJ ਖੰਡਨ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ|\V_VAUX
+PBED3324	ਰਣਬੀਰ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਸਿਰਫ਼\RB ਆਪਣਾ\PR_PRF ਵਧੀਆ\JJ ਦੋਸਤ\N_NN ਗਿਣਤੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3325	ਸੁਭਾਸ਼\N_NNP ਘਈ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਕਾਂਚੀ\N_NNP `\RD_PUNC ਉਹ\PR_PRP ਕਰਨ\N_NN ਲਈ\PSP ਉਤਾਵਲੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3326	ਭਰਾ\N_NN ਲਵ\N_NNP ਸਿਨਹਾ\N_NNP ਦੇ\PSP ਕੈਰੀਅਰ\N_NN ਦਾ\PSP ਵੀ\RP_RPD ਉਸ\PR_PRP ਨੂੰ\PSP ਖਿਆਲ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3327	ਇਹ\DM_DMD ਗੱਲ\N_NN ਵਧੀਆ\JJ ਹੈ\V_VAUX ਕਿ\CC_CCS ਬਹੁਤ\N_NN ਹੀ\RP_RPD ਖੁੱਲੇ-ਡੁੱਲੇ\RD_ECH ਦਿ੍ਸ਼\N_NN ਨਾ\RP_NEG ਦੇਣ\V_VM_VNF ਦੀ\PSP ਗੱਲ\N_NN ਉੱਤੇ\RB ਉਹ\PR_PRP ਅੱਜ\RB ਵੀ\RP_RPD ਕਾਇਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3328	ਬਗੈਰ\RP_NEG ਯੋਜਨਾ\N_NN ਦੇ\PSP ਅੱਗੇ\RB ਵਧਣਾ\V_VM_VINF ਹੀ\RP_RPD ਉਸ\PR_PRP ਦਾ\PSP ਮੰਤਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3329	ਰਹੀ\V_VM_VF ਗੱਲ\N_NN ਪਾਰਟੀਆਂ\N_NN ਦੀ\PSP ਤਾਂ\PSP ਉਨਾ\DM_DMR ਵਿਚ\PSP ਪੂਰੀ\JJ ਉਚੇਚ\N_NN ਨਾਲ\PSP ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3330	ਸ਼ਾਹਿਦ\RB ਕਪੂਰ\N_NN ਹੋਵੇ\V_VM_VF ਜਾਂ\CC_CCD ਸੋਨੂੰ\N_NNP ਸੂਦ\N_NNP ,\RD_PUNC ਸਭ\QT_QTF ਨਾਲ\PSP ਨੱਚ-ਗਾ\V_VM_VNG ਕੇ\RP_RPD ਪੂਰੀ\N_NN ਮਸਤੀ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3331	ਪ੍ਰਸੰਸਕਾਂ\N_NN ਤੋਂ\PSP ਉਹ\PR_PRP ਜ਼ਰੂਰ\N_NN ਡਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3332	ਕਾਰਨ\N_NN ਇਹ\DM_DMD ਕਿ\CC_CCS ਕੀ\DM_DMQ ਪਤਾ\N_NN ਕੋਈ\QT_QTF ਪ੍ਰਸੰਸਕ\N_NN ਮਿਲਣ\V_VM_VNF ਦੀ\PSP ਆੜ\N_NN `\RD_PUNC ਚ\PSP ਛੇੜ-ਛਾੜ\V_VM_VNG ਕਰ\V_VM ਦੇਵੇ\V_VM_VF ਜਾਂ\CC_CCD ਪ੍ਰਚਾਰ\N_NN ਦੀ\PSP ਖਾਤਰ\N_NN ਥੱਪੜ\N_NN ਹੀ\RP_RPD ਮਾਰ\N_NN ਦੇਵੇ\V_VM_VF |\RD_PUNC
+PBED3333	ਥੱਪੜ\N_NN ਦੇ\PSP ਵਧਦੇ\V_VM_VF ਰਿਵਾਜ\N_NN ਨੇ\PSP ਸੋਨਾਕਸ਼ੀ\N_NNP ਅੰਦਰ\N_NN ਡਰ\V_VM ਪੈਦਾ\V_VM_VF ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3334	ਇਸੇ\DM_DMD ਕਰਕੇ\V_VM_VF ਇਕ\QT_QTC ਪਾਰਟੀ\N_NN ਵਿਚ\PSP ਉਹ\PR_PRP ਮਹਿਮਾਨਾਂ\N_NN ਤੋਂ\PSP ਦੂਰ\RB ਹੀ\RP_RPD ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3335	ਜਦ\DM_DMR ਉਸ\PR_PRP ਨੇ\PSP ਦੇਖਿਆ\V_VM_VF ਕਿ\CC_CCS ਇਕ\QT_QTC ਪਰਿਵਾਰ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਮਿਲਣ\V_VM_VNF ਲਈ\PSP ਕਾਹਲਾ\N_NN ਹੈ\V_VAUX ਤਾਂ\PSP ਉਹ\PR_PRP ਉਥੋਂ\N_NST ਤੁਰੰਤ\N_NN ਨੌ-ਦੋ\QT_QTC ਗਿਆਰਾਂ\QT_QTC ਹੋ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3336	ਸੋਨਾਕਸ਼ੀ\N_NNP ਦੇ\PSP ਅੰਗ-ਰੱਖਿਅਕ\N_NN ਜਾਣਦੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਮੈਡਮ\N_NN ਦਾ\PSP ਡਰ\N_NN ਕੀ\DM_DMQ ਹੈ\V_VAUX ?\RD_PUNC
+PBED3337	ਲਿਹਾਜ਼ਾ\N_NN ਪ੍ਰਸੰਸਕਾਂ\N_NN ਨੂੰ\PSP ਉਹ\PR_PRP ਨੇੜੇ\RB ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਢੁੱਕਣ\V_VM_VNF ਦਿੰਦੇ\V_VM_VF |\RD_PUNC
+PBED3338	ਪਰਸੰਸਕ\N_NN ਤੇ\CC_CCD ਥੱਪੜ\N_NN ਇਸ\DM_DMD ਡਰ\N_NN ਕਾਰਨ\V_VM_VNF ਉਹ\PR_PRP ਚੇਤੰਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3339	ਸੋਨਾਕਸ਼ੀ\N_NNP ਜਾਣਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਥੇ\N_NST ਮੁੱਖ\N_NN ਮੰਤਰੀ\N_NN ਤੱਕ\PSP ਦੇ\PSP ਥੱਪੜ\N_NN ਲੋਕ\N_NN ਜੜ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਕੀ\DM_DMQ ਸ਼ੈਅ\N_NN ਹੈ?\V_VAUX
+PBED3340	ਸੋਨਾ\N_NNP ਨੂੰ\PSP ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਚ\PSP ਹੀ\RP_RPD ਦੇਖੋ\V_VM_VF |\RD_PUNC
+PBED3341	`\RD_PUNC ਰੰਗ\N_NNP ਦੇ\N_NNP ਬਸੰਤੀ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਡਾਨ-2\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਵੈਲਕੂਮ\N_NNP ਟੂ\N_NNP ਸਜਨਪੁਰ\N_NNP `\RD_PUNC ਆਦਿ\RP_CL ਫ਼ਿਲਮਾਂ\N_NN ਕਰਨ\N_NN ਵਾਲਾ\V_VM_VF ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਇਕ\QT_QTC ਵਧੀਆ\JJ ਕਲਾਕਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3342	ਜਿਸ\PR_PRL ਨੇ\PSP ਆਪਣਾ\PR_PRF ਫ਼ਿਲਮ\N_NN ਕੈਰੀਅਰ\N_NN ਇਕ\QT_QTC ਸਹਾਇਕ\N_NN ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RP_RPD ਸ਼ੁਰੂ\RB ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3343	ਰੰਗ\N_NNP ਦੇ\N_NNP ਬਸੰਤੀ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਦੇ\PSP ਅਭਿਨੈ\N_NN ਨੂੰ\PSP ਕਾਫ਼ੀ\QT_QTF ਪਸੰਦ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3344	ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਅੱਜਕਲ੍ਹ\RB ਫ਼ਿਲਮਾਂ\N_NN ਕਰਕੇ\V_VM_VF ਘੱਟ\QT_QTF ਤੇ\CC_CCD ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਦੀ\PSP ਭਤੀਜੀ\N_NN ਨੈਨਾ\N_NNP ਨਾਲ\PSP ਮੰਗਣੀ\N_NN ਕਰਕੇ\V_VM_VF ਜ਼ਿਆਦਾ\QT_QTF ਚਰਚਾ\N_NN ਵਿਚ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3345	ਨੈਨਾ\N_NNP ਬੱਚਨ\N_NNP ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਦੇ\PSP ਭਰਾ\N_NN ਅਜਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਦੀ\PSP ਬੇਟੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3346	ਨੈਨਾ\N_NNP ਨੇ\PSP ਫਾਈਨਾਂਸ\N_NN ਦੀ\PSP ਪੜਾਈ\N_NN ਦਿੱਲੀ\N_NNP ਤੋਂ\PSP ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਅੱਜ\RB ਕਲ\RB ਮੁੰਬਈ\N_NNP ਸ਼ਿਫਟ\N_NN ਹੋ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3347	ਕੁੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਪਰਿਵਾਰ\N_NN ਦੇ\PSP ਹਰੇਕ\QT_QTF ਫੰਕਸ਼ਨ\N_NN ਵਿਚ\PSP ਸ਼ਰੀਕ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3348	ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਪੰਜਾਬੀ\N_NNP ਗਾਇਕ\N_NN ਅਮਰ\N_NNP ਸਿੰਘ\N_NNP ਚਮਕੀਲਾ\N_NNP ਉੱਤੇ\RB ਬਣ\V_VM ਰਹੀ\V_VM_VF ਪੰਜਾਬੀ\N_NNP ਫ਼ਿਲਮ\N_NN ਵੀ\RP_RPD ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3349	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਿਰਦੇਸ਼ਨ\N_NN ਨਵਦੀਪ\N_NNP ਸਿੰਘ\N_NNP ਦਾ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3350	ਕੁੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਇਸ\DM_DMD ਲਈ\PSP ਗਾਇਕੀ\N_NN ਵੀ\RP_RPD ਸਿੱਖ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3351	ਸੌਰਭ\N_NNP ਸ਼ੁਕਲਾ\N_NNP ਤੇ\CC_CCD ਗੁਲਸ਼ਨ\N_NNP ਗਰੋਵਰ\N_NNP ਨਾਲ\PSP ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP `\RD_PUNC ਕੌਨ\N_NNP ਕਿਤਨੇ\N_NNP ਪਾਨੀ\N_NNP ਮੇਂ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਵੀ\RP_RPD ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3352	ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਨੂੰ\PSP ਲੇਖ\N_NN ਲਿਖਣ\V_VM_VNF ਦਾ\PSP ਵੀ\RP_RPD ਸ਼ੌਕ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3353	ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਟਰੇਂਡ\JJ ਪਾਇਲਟ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3354	ਸੋਸ਼ਲ\N_NN ਨੈਟਵਰਕ\N_NN ਦੇਸੀ\N_NN ਮਾਰਟੀਨੀ\N_NN ਲਈ\PSP ਵੀ\RP_RPD ਕਾਫ਼ੀ\QT_QTF ਕੁਝ\QT_QTF ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3355	ਬਹੁਤ\QT_QTF ਸਾਰੇ\N_NN ਪ੍ਰੋਡਕਟ\N_NN ਦਾ\PSP ਕੁਣਾਲ\N_NNP ਕਪੂਰ\N_NNP ਬਰਾਂਡ\N_NN ਅੰਬੈਸਡਰ\N_NN ਵੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3356	ਭੂਸ਼ਨ\N_NNP ਕੁਮਾਰ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਜੈਕਲਿਨ\N_NNP ਨੂੰ\PSP ਮੌਕਾ\N_NN ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3357	ਇਹ\DM_DMD ਪਹਿਲੀ\QT_QTO ਵਾਰ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਜੈਕਲਿਨ\N_NNP ਡਬਲ\QT_QTO ਕਿਰਦਾਰ\N_NN ਵਿਚ\PSP ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3358	ਰੁਮਾਂਟਿਕ\N_NN ਕਹਾਣੀ\N_NN `\RD_PUNC ਚ\PSP ਐਕਸ਼ਨ\N_NN ਵੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3359	ਵੱਡੇ\JJ ਬਜਟ\N_NN ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨਵਾਂ\N_NN ਨਿਰਦੇਸ਼ਕ\N_NN ਵਿਕਰਮ\N_NNP ਸਿੰਘ\N_NNP ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3360	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\RB ਜੈਕਲਿਨ\N_NNP `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਰਾਏ\N_NNP `\RD_PUNC ਜਿਹੀਆਂ\DM_DMR ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3361	ਪੂਰੀ\N_NN ਤਿਆਰੀ\N_NN ਨਾਲ\PSP ਇਹ\DM_DMR ਸ੍ਰੀਲੰਕਨ\JJ ਸੁੰਦਰੀ\N_NN `\RD_PUNC ਰਾਏ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3362	ਜੈਕੀ\N_NNP ਨੇ\PSP ਹੁਣ\RB ਟੀ.\N_NN ਵੀ.\N_NN ਸ਼ੋਅ\N_NN ਤੋਂ\PSP ਦੂਰ\RB ਰਹਿਣ\V_VM_VNF ਦਾ\PSP ਫ਼ੈਸਲਾ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3363	`\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਦੇ\PSP ਸੈੱਟ\N_NN `\RD_PUNC ਤੇ\RB ਜੈਕਲਿਨ\N_NNP ਨੂੰ\PSP ਇਕ\QT_QTC ਔਰਤ\N_NN ਨੇ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਸੁੰਦਰਤਾ\N_NN ਲਈ\PSP ਕੁਦਰਤੀ\N_NN ਸੁੰਦਰਤਾ\N_NN ਉਤਪਾਦ\N_NN ਨਾ\RP_NEG ਵਰਤਣ\V_VM_VNF ਦੀ\PSP ਸਲਾਹ\N_NN ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBED3364	ਜੈਕਲਿਨ\N_NNP ਦੀ\PSP ਜ਼ਿੰਦਗੀ\N_NN ਵਿਚ\PSP ਹੁਣ\RB ਕੰਮ\N_NN ਹੀ\RP_RPD ਕੰਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3365	`\RD_PUNC ਅਲਾਦੀਨ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਸ਼ੁਰੂਆਤ\RB ਕਰਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਇਸ\DM_DMD ਨਾਇਕਾ\N_NN ਨੂੰ\PSP ਵਿਸਥਾਰ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਵਧੇਰੇ\N_NN ਰਾਸ\N_NN ਆਈਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3366	ਚਾਹੇ\RB ਉਹ\PR_PRP `\RD_PUNC ਰਾਜ਼-3\N_NNP `\RD_PUNC ਹੋਵੇ\V_VM_VF ਜਾਂ\CC_CCD `\RD_PUNC ਰੇਸ-2\N_NNP `\RD_PUNC |\RD_PUNC
+PBED3367	ਉਸ\PR_PRP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਪ੍ਰੇਰਕ\N_NN ਉਸਦੀ\PR_PRP ਮਾਂ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3368	ਪੋਲੈਂਡ\N_NNP ਵਿਖੇ\N_NST `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਦੇ\PSP ਫ਼ਿਲਮਾਂਕਣ\N_NN `\RD_PUNC ਤੇ\RB ਉਸ\PR_PRP ਨਾਲ\PSP ਗਈ\V_VM_VF ਉਸ\PR_PRP ਦੀ\PSP ਮਾਂ\N_NN ਤੇ\RB ਉਸ\PR_PRP ਦਾ\PSP ਮਾਰਗਦਰਸ਼ਨ\N_NN ਕਰਦੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3369	ਸੁਣਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS `\RD_PUNC ਹਾਊਸਫੁਲ-3\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਬਣਨ\V_VM_VNF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3370	ਅਕਸ਼ੈ\N_NNP ,\RD_PUNC ਰਿਤੇਸ਼\N_NNP ਤੇ\CC_CCD ਅਭਿਸ਼ੇਕ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਜੈਕਲਿਨ\N_NNP ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3371	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਉਸ\PR_PRP ਕੋਲ\RB ਪਾਉਣ\V_VM_VNF ਲਈ\PSP ਬਹੁਤ\QT_QTF ਕੁਝ\QT_QTF ਹੈ\V_VAUX ਤੇ\CC_CCD ਗਵਾਉਣ\V_VM_VNF ਲਈ\PSP ਘੱਟ\QT_QTF ਹੈ\V_VAUX |\RD_PUNC
+PBED3372	ਹੁਣ\RB ਡਿੱਗਣ\V_VM_VNF `\RD_PUNC ਤੇ\RB ਵੀ\RP_RPD ਉਸ\PR_PRP ਲਈ\PSP ਕੋਈ\QT_QTF ਹਾਰ\N_NN ਨਜ਼ਰ\N_NN ਨਹੀਂ\RP_NEG ਆ\V_VM ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3373	ਜ਼ਿੰਦਗੀ\N_NN ਨੂੰ\PSP ਹੱਸ-ਗਾ\N_NN ਕੇ\RP_RPD ਕੱਢਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਜੈਕਲਿਨ\N_NNP ਨੂੰ\PSP ਇਸ\DM_DMD ਇੰਡਸਟਰੀ\N_NN ਵਿਚ\PSP ਆਇਆ\V_VM_VF 5\QT_QTC ਸਾਲ\N_NN ਹੋਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3374	ਬਾਡੀ\N_NN ਸ਼ੌਪ\N_NN ਦੀ\PSP ਹੁਣੇ\RB ਹੀ\RP_RPD ਉਹ\PR_PRP ਉਤਪਾਦ\N_NN ਰਾਜਦੂਤ\N_NN ਬਣੀ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBED3375	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਨਾਲ\PSP ਭੂਸ਼ਣ\N_NNP ਕੁਮਾਰ\N_NNP ਵਾਲੀ\PSP ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਬਹੁਤ\N_NN ਚਾਅ\V_VM ਹੈ\V_VAUX |\RD_PUNC
+PBED3376	ਸਿਹਤਮੰਦ\N_NN ਜਿਸਮ\N_NN ਵਾਲੀਆਂ\V_VM_VF ਨਾਇਕਾਵਾਂ\N_NN ਵਿਚ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਨਾਂਅ\N_NN ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3377	ਸਵੇਰੇ\N_NN 7\QT_QTC ਵਜੇ\N_NN ਉਠ\V_VM ਕੇ\RP_RPD ਇਕ\QT_QTC ਘੰਟੇ\N_NN ਤੱਕ\PSP ਉਹ\PR_PRP ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਦਿਮਾਗੀ\N_NN ਆਰਾਮ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਫਿਰ\RB 8\QT_QTC ਵਜੇ\N_NN ਯੋਗਾ\N_NN ਕਰਕੇ\V_VM_VF ਤਿਆਰ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3378	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਨਾਲ\PSP ਜੋੜੀ\N_NN ਬਣਾ\V_VM_VINF ਕੇ\RP_RPD ਉਹ\PR_PRP ਇਕ\QT_QTC ਨਵੀਂ\N_NN ਸ਼ੁਰੂਆਤ\RB ਮਹਿਸੂਸ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3379	`\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਰਾਏ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਾਲ\PSP `\RD_PUNC ਵਰਵ\N_NN `\RD_PUNC ਮੈਗਜ਼ੀਨ\N_NN ਦੇ\PSP ਮੁੱਖ\JJ ਪੰਨੇ\N_NN `\RD_PUNC ਤੇ\RB ਆ\V_VM ਕੇ\RP_RPD ਭੂਸ਼ਨ\N_NNP ਕੁਮਾਰ\N_NNP ਦੀ\PSP ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਕਰਕੇ\V_VM_VF ਤੇ\CC_CCD `\RD_PUNC ਹਾਊਸਫੁਲ-3\N_NNP `\RD_PUNC ਦਾ\PSP ਹਿੱਸਾ\N_NN ਬਣ\V_VM ਕੇ\RP_RPD ਜੈਕਲਿਨ\N_NNP ਫਰਨਾਂਡਿਜ਼\N_NNP ਨੇ\PSP ਪ੍ਰਭਾਵ\N_NN ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3380	ਕਿ\CC_CCS ਆ\V_VM ਰਿਹਾ\V_VM_VF ਕੱਲ\RB ਉਸ\PR_PRP ਦਾ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3381	`\RD_PUNC ਪੁਲਿਸਗਿਰੀ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਬਾਅਦ\RB ਪ੍ਰਾਚੀ\N_NNP ਦੇਸਾਈ\N_NNP ਵਿਹਲਿਆਂ\N_NN ਦੇ\PSP ਬਰਾਬਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3382	ਲੈ-ਦੇ\V_VM_VNG ਕੇ\RP_RPD ਉਸ\PR_PRP ਕੋਲ\RB ਇਕ\QT_QTC ਕੰਨੜ\N_NNP ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX ਤੇ\CC_CCD ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN `\RD_PUNC 1920\QT_QTC ਲੰਦਨ\N_NNP `\RD_PUNC ਹੈ\V_VAUX |\RD_PUNC
+PBED3383	ਹਾਂ\RP_INJ ,\RD_PUNC ਏਕਤਾ\N_NNP ਕਪੂਰ\N_NNP ਉਸ\PR_PRP ਉੱਤੇ\RB ਪ੍ਰਸੰਨ\N_NN ਹੋ\V_VM ਜਾਏ\V_VM_VF ਤਾਂ\CC_CCD ਫਿਰ\RB ਵਿਹਲੀ\N_NN ਪ੍ਰਾਚੀ\N_NNP ਨੂੰ\PSP ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਤੋਹਫੇ\N_NN ਨਾਲ\PSP ਜ਼ਰੂਰ\JJ ਨਿਵਾਜ\N_NN ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3384	ਏਕਤਾ\N_NNP ਨੇ\PSP ਤਾਂ\PSP ਪ੍ਰਾਚੀ\N_NNP ਨਾਲ\PSP ਵਾਅਦਾ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਉਸ\PR_PRP ਨੂੰ\PSP `\RD_PUNC ਐਸ.\N_NNP ਯੂ.\N_NNP ਵੀ.\N_NNP `\RD_PUNC ਕਾਰ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VF ਦੇਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3385	ਹਾਲਾਂਕਿ\CC_CCS ਔਡੀ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਨਵੀਂ\JJ ਕਾਰ\N_NN ਜਵਾਨ\JJ ਤੇ\CC_CCD ਬਬਲੀ\JJ ਮੁਟਿਆਰ\N_NN ਪ੍ਰਾਚੀ\N_NNP ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਮਿਲੀ\V_VM_VF |\RD_PUNC
+PBED3386	ਫਿਰ\RB ਵੀ\RP_RPD ਭਵਿੱਖ\RB ਦੀਆਂ\PSP ਯੋਜਨਾਵਾਂ\N_NN ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਖੁਸ਼\N_NN ਪ੍ਰਾਚੀ\N_NNP `\RD_PUNC ਬੀ.\N_NNP ਐਮ.\N_NNP ਡਬਲਯੂ.\N_NNP `\RD_PUNC ਗੱਡੀ\N_NN `\RD_PUNC ਤੇ\RB ਸਵਾਰੀ\N_NN ਕਰਕੇ\V_VM_VF ਖੁਸ਼\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3387	ਫਿਰ\RB ਵੀ\RP_RPD `\RD_PUNC ਬਾਨੀ\N_NNP ਵਾਲੀਆ\N_NNP `\RD_PUNC ਤੋਂ\PSP `\RD_PUNC ਰੌਕ\N_NNP ਆਨ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਆਈ\N_NNP ਮੀ\N_NNP ਔਰ\N_NNP ਮੈਂ\N_NNP `\RD_PUNC ਤੱਕ\PSP ਉਸ\PR_PRP ਦੇ\PSP ਬਚਪਨ\N_NN ਦੇ\PSP ਸੁਪਨੇ\N_NN ਪੂਰੇ\JJ ਹੋਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3388	ਵੱਡੇ-ਵੱਡੇ\JJ ਸਿਤਾਰਿਆਂ\N_NN ਨਾਲ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਕੰਮ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3389	ਹੁਣ\RB ਉਹ\PR_PRP ਚੰਗੀਆਂ\JJ ਭੂਮਿਕਾਵਾਂ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3390	ਪ੍ਰਾਚੀ\N_NNP ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਦਾ\PSP ਨਾਂਅ\N_NN ਵੀ\RP_RPD ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਵਾਂਗ\PSP ਚਮਕੇ\V_VM_VF |\RD_PUNC
+PBED3391	ਯੂਰਪ\N_NNP ਦੀ\PSP ਲੰਮੀ\JJ ਯਾਤਰਾ\N_NN ਉਸ\PR_PRP ਨੇ\PSP ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3392	ਪਿਛਲੇ\RB 15\QT_QTC ਦਿਨ\N_NN ਯੂਰਪ\N_NNP ਤੋਂ\PSP ਪਰਤ\N_NN ਕੇ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਆਪਣੇ\PR_PRF ਗ੍ਰਹਿ\N_NN ਘਰ\N_NN `\RD_PUNC ਸੂਰਤ\N_NNP `\RD_PUNC ਵਿਖੇ\N_NST ਗੁਜ਼ਾਰੇ\V_VM_VF |\RD_PUNC
+PBED3393	ਸੂਰਤ\N_NNP ਵਿਚ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਇਕ\QT_QTC ਗੁਜਰਾਤੀ\N_NN ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਨਵੀਂ\N_NN ਕਹਾਣੀ\N_NN ਨੇ\PSP ਬਹੁਤ\JJ ਪ੍ਰਭਾਵਿਤ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3394	ਸੂਰਤ\N_NNP ਰਹਿਣ\V_VM_VNF ਕਾਰਨ\V_VM_VNF ਚਾਹੇ\CC_CCS ਉਸ\PR_PRP ਦੇ\PSP ਮੁੰਬਈ\N_NNP ਵਿਚਲੇ\RB ਕਈ\QT_QTF ਕੰਮ\N_NN ਪ੍ਰਭਾਵਿਤ\N_NN ਹੋਏ\V_VM_VF ਪਰ\CC_CCD ਧਰਮਿੰਦਰ\N_NNP ਦੀ\PSP ਤਰਾਂ\PSP ਨਿਮਰਤਾ\N_NN ਨੇ\PSP ਪ੍ਰਾਚੀ\N_NNP ਦੇ\PSP ਮਨ\N_NN ਉੱਤੇ\RB ਬੋਝ\N_NN ਨਹੀਂ\RP_NEG ਪੈਣ\V_VM_VNF ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3395	`\RD_PUNC ਗੁਲਾਬ\N_NNP ਗੈਂਗ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਕੁਵੀਨ\N_NNP `\RD_PUNC ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਸਫ਼ਲਤਾ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਉਹ\PR_PRP ਅਕਸਰ\RB ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3396	ਪ੍ਰਾਚੀ\N_NNP ਨੇ\PSP ਸੂਰਤ\N_NNP ਵਿਖੇ\N_NST ਆਪਣੀ\PR_PRF ਇਕ\QT_QTC ਸਹੇਲੀ\N_NN ਦੇ\PSP ਵਿਆਹ\N_NN ਦੀਆਂ\PSP ਤਿਆਰੀਆਂ\N_NN ਵਿਚ\PSP ਹਿੱਸਾ\N_NN ਲਿਆ\V_VM_VF |\RD_PUNC
+PBED3397	ਇਕ\QT_QTC ਛੋਟੇ\JJ ਜਿਹੇ\DM_DMR ਸਮਾਰੋਹ\N_NN ਦਾ\PSP ਪ੍ਰਬੰਧ\N_NN ਵੀ\RP_RPD ਸੂਰਤ\N_NNP ਵਿਚਲੇ\RB ਘਰ\N_NN ਵਿਚ\PSP ਕਰਕੇ\V_VM_VF ਦੋਸਤੀ\N_NN ਦਾ\PSP ਜ਼ਿੰਮਾ\N_NN ਨਿਭਾਇਆ\V_VM_VF |\RD_PUNC
+PBED3398	ਪ੍ਰਾਚੀ\N_NNP ਇੰਡਸਟਰੀ\N_NN ਦੀ\PSP ਖੁੱਲੀ\V_VM_VF ਜੰਗ\N_NN ਤੋਂ\PSP ਦੂਰ\RB ਰਹਿ\V_VM ਕੇ\RP_RPD ਆਲੋਚਕਾਂ\N_NN ਨੂੰ\PSP ਗੱਲਾਂ\N_NN ਕਰਨ\V_VM_VNF ਦਾ\PSP ਕੋਈ\DM_DMQ ਮੌਕਾ\N_NN ਨਹੀਂ\RP_NEG ਦਿੰਦੀ\V_VM_VF |\RD_PUNC
+PBED3399	ਸਿਰਫ਼\RB ਉਸ\PR_PRP ਨੂੰ\PSP ਸੰਜੇ\N_NNP ਦੱਤ\N_NNP ਜਿਹੇ\DM_DMR ਚੰਗੇ\JJ ਇਨਸਾਨ\N_NN ਤੇ\CC_CCD ਗੁਜ਼ਰ\N_NN ਰਹੇ\V_VM_VF ਮਾੜੇ\N_NN ਸਮੇਂ\N_NN ਦਾ\PSP ਦੁੱਖ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3400	`\RD_PUNC 1920\N_NNP ਲੰਦਨ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਚਲਣਾ\V_VM_VINF ਪ੍ਰਾਚੀ\N_NNP ਦਾ\PSP ਭਵਿੱਖ\RB ਤੈਅ\V_VM ਕਰੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3401	ਚਾਹਤ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਏਕਤਾ\N_NNP ਕੋਈ\N_NN ਉਸ\PR_PRP ਲਈ\PSP ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਸ਼ੁਰੂ\RB ਕਰੇ\V_VM_VF |\RD_PUNC
+PBED3402	ਪ੍ਰਾਚੀ\N_NNP ਹਰ\QT_QTF ਪੱਖ\N_NN ਤੋਂ\PSP ਦਮਦਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3403	ਨੇਹਾ\N_NNP ਸ਼ਰਮਾ\N_NNP ਇਸ\DM_DMD ਵੇਲੇ\RB ਵਿਆਹ\N_NN ਅਤੇ\CC_CCD ਸੰਘਰਸ਼\N_NN ਦੋ\QT_QTC ਬੇੜੀਆਂ\N_NN ਵਿਚ\PSP ਸਵਾਰ\N_NN ਲਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3404	ਹੁਣ\RB ਕਿਹੜੀ\DM_DMQ ਬੇੜੀ\N_NN ਡੋਲਦੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਕਿਹੜੀ\DM_DMQ ਪਾਰ\N_NN ਲਗਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3405	ਇਹ\DM_DMD ਸਭ\QT_QTF ਵਕਤ\N_NN ਦੀ\PSP ਬੁੱਕਲ\N_NN ਵਿਚ\PSP ਹੈ\V_VAUX ਪਰ\CC_CCD ਇਹ\DM_DMD ਸਹੀ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਨੇਹਾ\N_NNP ਬਹੁਤ\QT_QTF ਹੀ\RP_RPD ਔਖੇ\JJ ਦੌਰ\RB ਵਿਚੋਂ\PSP ਲੰਘ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3406	ਭਾਗਲਪੁਰ\N_NNP (ਬਿਹਾਰ)\N_NNP ਦੀ\PSP ਨੇਹਾ\N_NNP ਸ਼ਰਮਾ\N_NNP ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚਿਰੂਥਾ\N_NNP `\RD_PUNC ਨਾਲ\PSP ਪਰਦੇ\N_NN `\RD_PUNC ਤੇ\RB ਪਹਿਲੀ\QT_QTO ਵਾਰ\RB ਨਜ਼ਰ\N_NN ਆਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3407	ਫਿਰ\RB ਮੋਹਿਤ\N_NNP ਸੂਰੀ\N_NNP ਦੀ\PSP `\RD_PUNC ਕਰੁੱਕ\N_NNP `\RD_PUNC ਨੇ\PSP ਬਾਲੀਵੁੱਡ\N_NN `\RD_PUNC ਚ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਪ੍ਰਵੇਸ਼\N_NN ਕਰਵਾਇਆ\V_VM_VF |\RD_PUNC
+PBED3408	`\RD_PUNC ਤੇਰੀ\N_NNP ਮੇਰੀ\N_NNP ਕਹਾਨੀ\N_NNP `\RD_PUNC ਦੇ\PSP ਕੈਮੀਓ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਏਕਤਾ\N_NNP ਕਪੂਰ\N_NNP ਦੀ\PSP `\RD_PUNC ਕਿਆ\N_NNP ਸੁਪਰ\N_NNP ਕੂਲ\N_NNP ਹੈਂ\N_NNP ਹਮ\N_NNP `\RD_PUNC ਨੇ\PSP ਨੇਹਾ\N_NNP ਨੂੰ\PSP ਚਰਚਾ\N_NN ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBED3409	`\RD_PUNC ਯਮਲਾ\N_NNP ਪਗਲਾ\N_NNP ਦੀਵਾਨਾ-2\N_NNP `\RD_PUNC ਨਾਲ\PSP ਰੌਲਾ\N_NN ਪੈ\V_VM ਗਿਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਨੇਹਾ\N_NNP ਉਪਰ\N_NN ਵਾਲੇ\PSP ਦੀ\PSP ਕਿਰਪਾ\N_NN ਨਾਲ\PSP ਕਿਤੇ\DM_DMQ ਦੀ\PSP ਕਿਤੇ\DM_DMQ ਪਹੁੰਚਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3410	ਕਿਤੇ\DM_DMQ ਦੀ\PSP ਕਿਤੇ\DM_DMQ ਤਾਂ\PSP ਉਹ\PR_PRP ਪਹੁੰਚੀ\V_VM_VF ਨਹੀਂ\RP_NEG ਪਰ\CC_CCD ਦੱਖਣ\N_NN ਦੇ\PSP ਅਭਿਨੇਤਾ\N_NN ਰਾਮਚਰਨ\N_NNP ਨਾਲ\PSP ਘਰ\N_NN ਵਸਾਉਣ\V_VM_VNF ਦੀ\PSP ਖ਼ਬਰ\N_NN ਜ਼ਰੂਰ\JJ ਗਰਮ\N_NN ਹੋਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3411	ਖੈਰ\RP_INJ ਅੱਜ\RB ਨਾਇਕਾ\N_NN ਬਣ\V_VM ਕੇ\RP_RPD ਵੀ\RP_RPD ਉਹ\PR_PRP ਔਕਾਤ\N_NN ਨਾ\RP_NEG ਭੁੱਲਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਗੱਲ\N_NN `\RD_PUNC ਤੇ\RB ਕਾਇਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3412	ਅੱਜ\N_NN ਵੀ\RP_RPD ਉਹ\PR_PRP ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਨਿੱਕੇ\JJ ਕਸਬੇ\N_NN ਦੀ\PSP ਕੁੜੀ\N_NN ਮੰਨਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3413	ਕੈਨੇਡਾ\N_NNP ਦੇ\PSP ਇਕ\QT_QTC ਵਪਾਰੀ\N_NN ਨਾਲ\PSP ਸ਼ਾਇਦ\RB ਉਸ\PR_PRP ਦਾ\PSP ਵਿਆਹ\N_NN ਹੋ\V_VM ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBED3414	ਅੱਜ\RB ਕਲ\RB ਉਹ\PR_PRP ਕੁਝ\QT_QTF ਗੁਆਚੀ-ਗੁਆਚੀ\V_VM_VNG ਜਿਹੀ\DM_DMR ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3415	ਫ਼ਿਲਮੀ\N_NN ਪਾਰਟੀਆਂ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਉਸ\PR_PRP ਦੀ\PSP ਦੂਰੀ\RB ਬਰਕਰਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3416	`\RD_PUNC ਯੰਗਸਤਾਨ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਜੈਕੀ\N_NNP ਭਗਨਾਨੀ\N_NNP ਨਾਲ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਜੋੜੀ\N_NN ਤਾਂ\PSP ਬਣੀ\V_VM_VF |\RD_PUNC
+PBED3417	ਪਰ\CC_CCS ਜੋ\DM_DMR ਉਤਸ਼ਾਹ\N_NN ਮਿਲਣਾ\V_VM_VINF ਚਾਹੀਦਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਨਹੀਂ\RP_NEG ਮਿਲਿਆ\V_VM_VF |\RD_PUNC
+PBED3418	ਹੁਣ\RB ਤਾਂ\PSP ਵੱਡੇ\JJ ਬੈਨਰਜ਼\N_NN ਦੇ\PSP ਸੁਪਨੇ\N_NN ਲੈਣੇ\V_VM_VINF ਹੀ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਬੰਦ\N_NN ਕਰ\V_VM ਦਿੱਤੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3419	ਉਹ\PR_PRP ਸਮਝ\N_NN ਗਈ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਯਾਤਰਾ\N_NN ਬਹੁਤ\JJ ਔਖੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3420	ਨੇਹਾ\N_NNP ਦੀ\PSP ਫਿਟਨੈਸ\N_NN ਬਰਕਰਾਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3421	ਇਸ\DM_DMD ਦੇ\PSP ਬਾਵਜੂਦ\N_NN ਉਹ\PR_PRP ਖੁੱਲਾ-ਡੁੱਲਾ\RD_ECH ਖਾਂਦੀ-ਪੀਂਦੀ\V_VM_VNG ਹੈ\V_VAUX |\RD_PUNC
+PBED3422	ਹਾਲ\RB ਦੀ\PSP ਘੜੀ\N_NN `\RD_PUNC ਜੈਯੰਤਾ\N_NNP ਭਾਈ\N_NNP ਕੀ\N_NNP ਲਵ\N_NNP ਸਟੋਰੀ\N_NNP `\RD_PUNC ਜਿਹੀ\DM_DMR ਫ਼ਿਲਮ\N_NN ਹੀ\RP_RPD ਉਸ\PR_PRP ਲਈ\PSP ਕ੍ਰਿਸ਼ਮਾ\N_NN ਕਰ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3423	ਇਧਰ\N_NST ਟੈਲੀਮੈਟਿਕ\N_NNP ਕੰਪਨੀ\N_NN ਜਿਸ\PR_PRL ਦੀ\PSP ਉਹ\PR_PRP ਕੰਪਨੀ\N_NN ਸਕੱਤਰ\N_NN ਸੀ\V_VAUX ,\RD_PUNC ਤੋਂ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਅਸਤੀਫ਼ਾ\N_NN ਪਿਛਲੇ\RB ਹਫ਼ਤੇ\N_NN ਸਵੀਕਾਰ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3424	ਇਕ\QT_QTC ਤਰਾਂ\PSP ਨਾਲ\PSP ਨੇਹਾ\N_NNP ਹੁਣ\RB ਸਿਰਫ਼\RB ਅਭਿਨੈ\N_NN ਨੂੰ\PSP ਸਮਰਪਿਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3425	ਪਰ\CC_CCS ਕੰਮ\N_NN ਦੀ\PSP ਘਾਟ\N_NN ਨੇ\PSP ਉਸ\PR_PRP ਦੇ\PSP ਮਨ\N_NN ਦੀ\PSP ਪ੍ਰੇਸ਼ਾਨੀ\N_NN ਵਧਾ\N_NN ਦਿੱਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3426	ਹੁਣ\RB ਉਹ\PR_PRP ਕੋਈ\QT_QTF ਫੈਸਲਾ\N_NN ਲੈਣਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3427	ਇੰਡਸਟਰੀ\N_NN `\RD_PUNC ਚ\PSP ਸੰਘਰਸ਼\N_NN ਜਾਂ\CC_CCD ਫਿਰ\RB ਕੈਨੇਡਾ\N_NNP ਵਿਆਹ\N_NN ਦਾ\PSP ਫੈਸਲਾ\N_NN ਵੀ\RP_RPD ਹੋ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3428	ਕਪਿਲ\N_NNP ਸ਼ਰਮਾ\N_NNP ਅੱਜ\RB ਇਕ\QT_QTC ਵੱਡਾ\JJ ਨਾਂਅ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3429	ਆਪਣੇ\PR_PRF ਸ਼ੋਅ\N_NN `\RD_PUNC ਕਾਮੇਡੀ\N_NNP ਨਾਈਟਸ\N_NNP ਵਿਦ\N_NNP ਕਪਿਲ\N_NNP `\RD_PUNC ਦੀ\PSP ਬਦੌਲਤ\N_NN ਅੱਜ\RB ਕਪਿਲ\N_NNP ਸ਼ਰਮਾ\N_NNP ਦੀ\PSP ਲੋਕਪਿ੍ਅਤਾ\JJ ਅਸਮਾਨ\N_NN ਨੂੰ\PSP ਛੂਹ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3430	ਪਰ\CC_CCS ਫਿਰ\RB ਵੀ\RP_RPD ਕਪਿਲ\N_NNP ਦੇ\PSP ਪੈਰ\N_NN ਜ਼ਮੀਨ\N_NN `\RD_PUNC ਤੇ\RB ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਹਵਾ\N_NN ਵਿਚ\PSP ਨਹੀਂ\RP_NEG ਉਡ\V_VM ਰਹੇ\V_VM_VF |\RD_PUNC
+PBED3431	ਇਸ\DM_DMD ਦਾ\PSP ਨਜ਼ਾਰਾ\N_NN ਪਿਛਲੇ\RB ਦਿਨੀਂ\N_NN ਮੁੰਬਈ\N_NNP ਦੇ\PSP ਫ਼ਿਲਮ\N_NN ਸਿਟੀ\N_NNP ਸਟੂਡੀਓ\N_NNP ਵਿਚ\PSP ਦੇਖਣ\V_VM_VNF ਨੂੰ\PSP ਮਿਲ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3432	ਕਪਿਲ\N_NNP ਆਪਣੇ\PR_PRF ਕਾਮੇਡੀ\N_NN ਸ਼ੋਅ\N_NN ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਇਸੇ\DM_DMD ਸਟੂਡੀਓ\N_NN ਵਿਚ\PSP ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3433	ਇਕ\QT_QTC ਦਿਨ\N_NN ਇਥੇ\DM_DMR ਉਨ੍ਹਾਂ\PR_PRL ਦੀ\PSP ਮੁਲਾਕਾਤ\N_NN ਨਿਰਮਾਤਾ\N_NN ਨਿਰਦੇਸ਼ਕ\N_NN ਮਹੇਸ਼\N_NNP ਡੋਈਜੋੜੇ\N_NNP ਨਾਲ\PSP ਹੋ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3434	ਉਹਨਾ\PR_PRL ਨੂੰ\PSP ਦੇਖਦੇ\V_VM_VF ਹੀ\RP_RPD ਕਪਿਲ\N_NNP ਉਹਨਾ\PR_PRL ਦੇ\PSP ਗਲੇ\N_NN ਮਿਲੇ\V_VM_VF |\RD_PUNC
+PBED3435	ਅਸਲ\N_NN ਵਿਚ\PSP ਜਦੋਂ\PR_PRL ਮਹੇਸ਼\N_NNP ਤਕਰੀਬਨ\N_NN ਦਸ\QT_QTC ਸਾਲ\N_NN ਪਹਿਲਾਂ\QT_QTO ਨਿਰਦੇਸ਼ਕ\N_NN ਮੇਹੁਲ\N_NNP ਕੁਮਾਰ\N_NNP ਦੇ\PSP ਕੋਲ\RB ਬਤੌਰ\N_NN ਸਹਾਇਕ\N_NN ਕੰਮ\N_NN ਕਰਿਆ\V_VM_VF ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3436	ਉਦੋਂ\DM_DMR ਕਪਿਲ\N_NNP ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਆਪਣੇ\PR_PRF ਪੈਰ\N_NN ਜਮਾਉਣ\V_VM_VNF ਲਈ\PSP ਸੰਘਰਸ਼\N_NN ਕਰਿਆ\V_VM_VF ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3437	ਉਦੋਂ\DM_DMR ਅਕਸਰ\RB ਉਹਨਾ\PR_PRL ਦੀ\PSP ਮੁਲਾਕਾਤ\N_NN ਮਹੇਸ਼\N_NNP ਨਾਲ\PSP ਹੋ\V_VM ਜਾਂਦੀ\V_VM_VF ਸੀ\V_VAUX ਅਤੇ\CC_CCD ਦੋਵਾਂ\QT_QTO ਵਿਚ\PSP ਚੰਗੀ\JJ ਦੋਸਤੀ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3438	ਸਮੇਂ\N_NN ਨੇ\PSP ਕਰਵਟ\N_NN ਬਦਲੀ\V_VM_VF ਅਤੇ\CC_CCD ਅੱਜ\RB ਕਪਿਲ\N_NNP ਵੱਡੇ\JJ ਸਟਾਰ\N_NN ਬਣ\V_VM ਗਏ\V_VM_VF |\RD_PUNC
+PBED3439	ਮਹੇਸ਼\N_NNP ਨੇ\PSP ਨਿਰਮਾਤਾ\N_NN -\RD_PUNC ਨਿਰਦੇਸ਼ਕ\N_NN ਬਣ\V_VM ਕੇ\RP_RPD `\RD_PUNC ਕਹੀਂ\N_NNP ਹੈ\N_NNP ਮੇਰਾ\N_NNP ਪਿਆਰ\N_NNP `\RD_PUNC ਬਣਾਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3440	ਸਟਾਰ\N_NN ਬਣਨ\V_VM_VNF ਦੇ\PSP ਬਾਵਜੂਦ\N_NN ਕਪਿਲ\N_NNP ਆਪਣੇ\PR_PRF ਇਸ\DM_DMD ਪੁਰਾਣੇ\N_NN ਮਿੱਤਰ\N_NN ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਭੁੱਲੇ\V_VM_VF |\RD_PUNC
+PBED3441	ਹਾਲਾਂਕਿ\CC_CCS ਕਪਿਲ\N_NNP ਦਾ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨਾਲ\PSP ਨਾ\RP_NEG ਤਾਂ\PSP ਕੋਈ\QT_QTF ਲੈਣਾ-ਦੇਣਾ\V_VM_VNG ਹੈ\V_VAUX ,\RD_PUNC ਨਾ\RP_NEG ਹੀ\RP_RPD ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਇਸ\DM_DMD ਵਿਚ\PSP ਐਕਟਿੰਗ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3442	ਪਰ\CC_CCS ਫਿਰ\RB ਵੀ\RP_RPD ਉਹ\PR_PRP ਆਪਣੇ\PR_PRF ਪੁਰਾਣੇ\N_NN ਮਿੱਤਰ\N_NN ਦੀ\PSP ਮਦਦ\N_NN ਲਈ\PSP ਅੱਗੇ\RB ਆ\V_VM ਗਏ\V_VM_VF |\RD_PUNC
+PBED3443	ਕਪਿਲ\N_NNP ਨੇ\PSP ਕੇਵਲ\RB ਗੱਲਾਂ\N_NN ਅਤੇ\CC_CCD ਵਾਅਦਿਆਂ\N_NN ਨਾਲ\PSP ਹੀ\RP_RPD ਮਹੇਸ਼\N_NNP ਦਾ\PSP ਹੌਸਲਾ\N_NN ਨਹੀਂ\RP_NEG ਵਧਾਇਆ\V_VM_VF ।\RD_PUNC
+PBED3444	ਬਲਕਿ\CC_CCS ਆਪਣੀ\PR_PRF ਗੱਲ\N_NN ਨੂੰ\PSP ਅਮਲ\N_NN ਵਿਚ\PSP ਲਿਆਂਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਉਨ੍ਹਾਂ\PR_PRL ਨੇ\PSP ਝਟ\N_NN ਟੀ.\N_NN ਵੀ.\N_NN ਕੈਮਰੇ\N_NN ਦੇ\PSP ਸਾਹਮਣੇ\RB ਮਹੇਸ਼\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਤੇ\CC_CCD ਇਸ\DM_DMD ਦੇ\PSP ਸੰਗੀਤ\N_NN ਬਾਰੇ\N_NN ਇੰਟਰਵਿਊ\N_NN ਵੀ\RP_RPD ਦੇ\PSP ਦਿੱਤਾ\V_VM_VF ਅਤੇ\CC_CCD ਮਹੇਸ਼\N_NNP ਨੂੰ\PSP ਪੂਰੀ\JJ ਛੂਟ\N_NN ਦੇ\PSP ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBED3445	ਕਿ\CC_CCS ਉਹ\PR_PRP ਇਸ\DM_DMD ਇੰਟਰਵਿਊ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਲਈ\PSP ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3446	ਆਪਣੇ\PR_PRF ਦੋਸਤ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਪ੍ਰਤੀ\N_NN ਆਪਣਾ\PR_PRF ਫਰਜ਼\N_NN ਨਿਭਾਅ\N_NN ਕੇ\RP_RPD ਕਪਿਲ\N_NNP ਨੇ\PSP ਦਿਖਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VNG ਕਿ\CC_CCS ਉਹ\PR_PRP ਕਾਮੇਡੀਅਨ\N_NN ਭਾਵੇਂ\PSP ਹੀ\RP_RPD ਹੋਣ\V_VM_VNF ਪਰ\CC_CCD ਦੋਸਤੀ\N_NN ਨਿਭਾਉਣ\V_VM ਦੇ\PSP ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਵਾਕਈ\N_NN ਗੰਭੀਰ\JJ ਬੰਦੇ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3447	ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਦੀ\PSP ਪੁੱਤਰੀ\N_NN ਸੌਦਰਿਆ\N_NNP ਨੂੰ\PSP ਇਹ\DM_DMD ਸਿਹਰਾ\N_NN ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3448	ਕਿ\CC_CCS ਉਸ\PR_PRP ਨੇ\PSP ਆਪਣੇ\PR_PRF ਪਿਤਾ\N_NN ਨੂੰ\PSP ਨਿਰਦੇਸ਼ਿਤ\N_NN ਕਰਕੇ\V_VM_VF ਇਕ\QT_QTC ਵੱਖਰੀ\N_NN ਮਿਸਾਲ\N_NN ਪੇਸ਼\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3449	ਸੌਦਰਿਆ\N_NNP ਨੇ\PSP ਆਪਣੇ\PR_PRF ਪਿਤਾ\N_NN ਨੂੰ\PSP `\RD_PUNC ਕੋਚਾਡੀਯਾਨ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਨਿਰਦੇਸ਼ਿਤ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3450	ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਜਲਦੀ\JJ ਪ੍ਰਦਰਸ਼ਿਤ\N_NN ਹੋਣ\V_VM_VNF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3451	ਤਾਮਿਲ\N_NNP ਭਾਸ਼ਾ\N_NN ਵਿਚ\PSP ਕੋ\N_NN ਦਾ\PSP ਅਰਥ\N_NN ਰਾਜਾ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਚਾਡੀਯਾਨ\N_NN ਦਾ\PSP ਅਰਥ\N_NN ਲੰਬੇ\N_NN ਵਾਲਾਂ\N_NN ਵਾਲਾ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3452	ਭਾਵ\N_NN `\RD_PUNC ਕੋਚਾਡੀਯਾਨ\N_NN `\RD_PUNC ਦਾ\PSP ਅਰਥ\N_NN ਹੈ\V_VAUX ਲੰਬੇ\N_NN ਵਾਲਾਂ\N_NN ਵਾਲਾ\V_VM_VF ਰਾਜਾ\N_NN |\RD_PUNC
+PBED3453	ਦੱਖਣ\N_NN ਭਾਰਤ\N_NNP ਵਿਚ\PSP ਜਟਾਧਾਰੀ\JJ ਸ਼ਿਵਜੀ\N_NNP ਨੂੰ\PSP ਵੀ\RP_RPD ਇਹ\DM_DMD ਨਾਂਅ\N_NN ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3454	`\RD_PUNC ਕੋਚਾਡੀਯਾਨ\N_NNP `\RD_PUNC ਨਾਂਅ\N_NN ਭਾਵੇਂ\RB ਉੱਤਰ\N_NN ਭਾਰਤੀਆਂ\N_NN ਲਈ\PSP ਨਵਾਂ\N_NN ਹੋਵੇ\V_VM_VF ਪਰ\CC_CCD ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਇਸੇ\DM_DMR ਨਾਂਅ\N_NN ਨਾਲ\PSP ਪ੍ਰਦਰਸ਼ਿਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3455	ਉੱਤਰ\N_NN ਦੇ\PSP ਦਰਸ਼ਕਾਂ\N_NN ਲਈ\PSP ਆਪਣੀ\PR_PRF ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਨਾ\RP_NEG ਬਦਲਣ\V_VM_VNF ਬਾਰੇ\RB ਸੌਾਦਰਿਆ\N_NNP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3456	ਪਹਿਲਾਂ\QT_QTO ਅਸੀਂ\PR_PRP ਉੱਤਰ\N_NN ਦੇ\PSP ਦਰਸ਼ਕਾਂ\N_NN ਲਈ\PSP ਆਪਣੀ\PR_PRF ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਬਦਲਣ\V_VM_VNF ਬਾਰੇ\RB ਸੋਚਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3457	ਇਸ\DM_DMD ਬਾਰੇ\N_NN ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਨਵੇਂ\JJ ਨਾਂਅ\N_NN `\RD_PUNC ਤੇ\RB ਸੋਚ-ਵਿਚਾਰ\V_VM_VNG ਵੀ\RP_RPD ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3458	ਜਦੋਂ\PR_PRL ਨਾਂਅ\N_NN ਬਦਲਣ\V_VM_VNF ਬਾਰੇ\RB ਪਾਪਾ\N_NN ਤੋਂ\PSP ਰਾਇ\N_NN ਪੁੱਛੀ\V_VM_VF ਗਈ\V_VM_VF ਤਾਂ\PSP ਉਨ੍ਹਾਂ\PR_PRL ਨੇ\PSP ਜਵਾਬ\N_NN ਦਿੱਤਾ\V_VM_VF ਕਿ\CC_CCS ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਇਹ\DM_DMD ਮੇਰੇ\PR_PRP ਕਿਰਦਾਰ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3459	ਲੋਕ\N_NN ਜਦੋਂ\PR_PRL ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੇਖਣਗੇ\V_VM_VF ਤਾਂ\PSP ਸਮਝ\N_NN ਜਾਣਗੇ\V_VM_VF ਕਿ\CC_CCS ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਇਹ\DM_DMD ਨਾਂਅ\N_NN ਕਿਉਂ\PR_PRQ ਰੱਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3460	ਉਹਨਾ\PR_PRL ਦੀ\PSP ਸਲਾਹ\N_NN ਮੰਨ\V_VM ਕੇ\RP_RPD ਅਸੀਂ\PR_PRP ਨਾਂਅ\N_NN ਬਦਲਣ\V_VM_VNF ਦਾ\PSP ਇਰਾਦਾ\N_NN ਛੱਡ\V_VM ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3461	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਦੀਪਿਕਾ\N_NNP ਪਾਦੂਕੋਨ\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3462	ਨਿਰਦੇਸ਼ਿਕਾ\N_NN ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਸੌਂਦਰਿਆ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਪਹਿਲੀ\QT_QTO ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3463	ਆਪਣੀ\PR_PRF ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਪਿਤਾ\N_NN ਨੂੰ\PSP ਮਨਾਉਣ\V_VM_VNF ਬਾਰੇ\N_NN ਸੌਂਦਰਿਆ\N_NNP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3464	ਜਦੋਂ\PR_PRL ਮੈਂ\PR_PRP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਪ੍ਰਾਜੈਕਟ\N_NN ਲੈ\V_VM ਕੇ\RP_RPD ਪਾਪਾ\N_NN ਦੇ\PSP ਕੋਲ\RB ਗਈ\V_VM_VF ਤਾਂ\CC_CCD ਮੇਰੀਆਂ\PR_PRP ਅੱਖਾਂ\N_NN ਵਿਚ\PSP ਫ਼ਿਲਮ\N_NN ਬਾਰੇ\RB ਵਿਸ਼ਵਾਸ\N_NN ਦੇਖ\V_VM ਕੇ\RP_RPD ਉਹਨਾ\PR_PRL ਨੇ\PSP ਹਾਂ\RP_INJ ਕਹਿ\V_VM ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBED3465	ਉਹਨਾ\PR_PRL ਨੂੰ\PSP ਭਰੋਸਾ\N_NN ਸੀ\V_VAUX ਕਿ\CC_CCS ਬੇਟੀ\N_NN ਮੈਨੂੰ\PR_PRP ਕੈਮਰੇ\N_NN ਸਾਹਮਣੇ\RB ਸੰਭਾਲ\N_NN ਲਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3466	ਉਹ\PR_PRP ਇਹ\DM_DMD ਵੀ\RP_RPD ਜਾਣਦੇ\V_VM_VF ਸਨ\V_VAUX ਕਿ\CC_CCS ਫ਼ਿਲਮ\N_NN ਨਿਰਦੇਸ਼ਕ\N_NN ਬਣਨਾ\V_VM_VINF ਮੇਰਾ\PR_PRP ਸੁਪਨਾ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3467	ਆਪਣੇ\PR_PRF ਵੱਲੋਂ\PSP ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਹਾਂ\N_NN ਕਹਿ\V_VM ਕੇ\RP_RPD ਉਹ\PR_PRP ਬੇਟੀ\N_NN ਦੇ\PSP ਸੁਪਨੇ\N_NN ਨੂੰ\PSP ਹਕੀਕਤ\N_NN ਵਿਚ\PSP ਤਬਦੀਲ\N_NN ਕਰਨਾ\V_VM_VF ਚਾਹੁੰਦੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3468	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਕੇ.\N_NNP ਐਸ.\N_NNP ਰਵੀ\N_NNP ਕੁਮਾਰ\N_NNP ਨੇ\PSP ਲਿਖੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3469	ਪਹਿਲਾਂ\RB ਉਨ੍ਹਾਂ\PR_PRL ਨੇ\PSP ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਲਈ\PSP `\RD_PUNC ਮੁੱਥੂ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਪੈਰੀਆਲਾ\N_NNP `\RD_PUNC ਆਦਿ\RP_CL ਫ਼ਿਲਮਾਂ\N_NN ਲਿਖੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3470	ਉਹ\PR_PRP ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਦੀ\PSP ਮੇਗਾ\N_NN ਸਟਾਰ\N_NN ਵਾਲੀ\V_VM_VF ਇਮੇਜ\N_NN ਤੋਂ\PSP ਭਲੀ-ਭਾਂਤ\RD_ECH ਜਾਣੂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3471	ਉਹ\PR_PRP ਇਹ\DM_DMD ਵੀ\RP_RPD ਜਾਣਦੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਤੋਂ\PSP ਦਰਸ਼ਕ\N_NN ਕੀ\DM_DMQ ਉਮੀਦਾਂ\N_NN ਰੱਖਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3472	ਇਸ\DM_DMD ਲਈ\PSP ਆਪਣੀ\PR_PRF ਲਿਖੀ\V_VM_VF ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਵਿਚ\PSP ਉਹਨਾ\PR_PRL ਨੇ\PSP ਹਰ\QT_QTF ਤਰਾਂ\PSP ਦਾ\PSP ਮਸਾਲਾ\N_NN ਪੇਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3473	ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਨੂੰ\PSP ਬਾਪ\N_NN ਅਤੇ\CC_CCD ਬੇਟੇ\N_NN ਨੂੰ\PSP ਦੋਹਰੀ\QT_QTO ਭੂਮਿਕਾ\N_NN ਵਿਚ\PSP ਪੇਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3474	`\RD_PUNC ਕੋਚਾਡੀਯਾਨ\N_NNP `\RD_PUNC ਫੰਤਾਸੀ\N_NN ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3475	ਇਸ\DM_DMD ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਵੱਖਰੇ\JJ ਢੰਗ\N_NN ਨਾਲ\PSP ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3476	ਇਹ\DM_DMD ਐਨੀਮੇਸ਼ਨ\N_NN ਫ਼ਿਲਮ\N_NN ਤੋਂ\PSP ਵੱਖਰੀ\JJ ਕਿਸਮ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਾਲੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3477	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਕਲਾਕਾਰਾਂ\N_NN ਨੂੰ\PSP ਵਿਸ਼ੇਸ਼\N_NN ਤੌਰ\RB `\RD_PUNC ਤੇ\RP_RPD ਰੀਕ੍ਰਿਏਟ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3478	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਨਿਰਮਾਣ\N_NN ਵਿਚ\PSP ਜਿਸ\PR_PRL ਤਕਨੀਕ\N_NN ਦਾ\PSP ਇਸਤੇਮਾਲ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਤਕਨੀਕ\N_NN ਭਾਰਤ\N_NNP ਵਿਚ\PSP ਪਹਿਲੀ\QT_QTO ਵਾਰ\RB ਵਰਤੋਂ\N_NN ਵਿਚ\PSP ਲਿਆਂਦੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3479	ਇਸੇ\DM_DMD ਕਾਰਨ\N_NN ਕਰਕੇ\V_VM_VF ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵੱਖਰੇ\JJ ਜਿਹੇ\DM_DMR ਰੂਪ\N_NN ਵਾਲੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3480	ਬਾਡੀ\N_NN ਸਕੈਨਿੰਗ\N_NN ਪ੍ਰੋਸੈਸ\N_NN ਤਕਨੀਕ\N_NN ਰਾਹੀਂ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਬਣਾਈ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3481	ਬਾਲੀਵੁੱਡ\N_NN ਦੀ\PSP ਦੀਪਿਕਾ\N_NNP ਨੂੰ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਲੈਣ\V_VM_VNF ਬਾਰੇ\N_NN ਸੌਾਦਰਿਆ\N_NNP ਕਹਿੰਦੀ\V_VM_VF ਹੈ,\V_VAUX `\RD_PUNC ਅਸੀਂ\PR_PRP ਦੀਪਿਕਾ\N_NNP ਨੂੰ\PSP ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਰਾਣਾ\N_NNP `\RD_PUNC ਲਈ\PSP ਸਾਈਨ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3482	ਪਰ\CC_CCS ਉਹ\PR_PRP ਫ਼ਿਲਮ\N_NN ਡੱਬਾਬੰਦ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3483	ਮੈਂ\PR_PRP ਜਾਣਦੀ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਬੰਦ\N_NN ਹੋਣ\V_VM_VNF ਨਾਲ\PSP ਦੀਪਿਕਾ\N_NNP ਕਾਫੀ\QT_QTF ਮਾਯੂਸ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3484	ਮੇਰੇ\PR_PRP `\RD_PUNC ਤੇ\RB ਉਸ\PR_PRP ਦੀ\PSP ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN ਉਧਾਰ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3485	ਉਹ\PR_PRP ਕਰਜ਼\N_NN ਮੈਂ\PR_PRP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਜ਼ਰੀਏ\N_NN ਉਤਾਰ\N_NN ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3486	ਆਪਣੇ\PR_PRF ਪਾਪਾ\N_NN ਨੂੰ\PSP ਨਿਰਦੇਸ਼ਿਤ\N_NN ਕਰਨ\V_VM_VNF ਦੇ\PSP ਅਨੁਭਵ\N_NN ਬਾਰੇ\N_NN ਸੌਾਦਰਿਆ\N_NNP ਕਹਿੰਦੀ\N_NN ਹੈ,\N_NN `\RD_PUNC ਕੰਮ\N_NN ਦੇ\PSP ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਪਾਪਾ\N_NN ਬਹੁਤ\QT_QTF ਪ੍ਰੋਫੈਸ਼ਨਲ\N_NN ਹਨ\V_VAUX |\N_NN
+PBED3487	ਉਹ\PR_PRP ਇਹ\CC_CCD ਸੋਚ\N_NN ਕੇ\N_NN ਕਦੀ\RB ਸੈੱਟ\N_NN `\RD_PUNC ਤੇ\N_NN ਦੇਰੀ\N_NN ਨਾਲ\PSP ਨਹੀਂ\RP_NEG ਆਏ\N_NN ਕਿ\CC_CCS ਬੇਟੀ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਹੈ,\V_VAUX ਲੇਟ\N_NN ਹੋ\V_VM ਜਾਣ\N_NN `\RD_PUNC ਤੇ\N_NN ਉਹ\PR_PRP ਥੋੜ੍ਹਾ\N_NN ਗੁੱਸੇ\N_NN ਹੋਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3488	ਉਹ\PR_PRP ਸਮੇਂ\N_NN ਦੇ\PSP ਬਹੁਤ\QT_QTF ਪਾਬੰਦ\N_NN ਸਨ\V_VAUX |\RD_PUNC
+PBED3489	ਰਜਨੀ\N_NNP ਕਾਂਤ\N_NNP ਨੂੰ\PSP ਨਵੇਂ\JJ ਰੰਗ\N_NN ਵਿਚ\PSP ਪੇਸ਼\N_NN ਕਰਦੀ\V_VM_VF ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨੂੰ\PSP ਛੇ\QT_QTC ਭਾਸ਼ਾਵਾਂ\N_NN ਵਿਚ\PSP ਡੱਬ\N_NN ਕਰਕੇ\V_VM_VF ਰਿਲੀਜ਼\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3490	ਤਾਮਿਲ\N_NNP ,\RD_PUNC ਤੇਲਗੂ\N_NNP ,\RD_PUNC ਹਿੰਦੀ\N_NNP ,\RD_PUNC ਮਰਾਠੀ\N_NNP ਤੇ\CC_CCD ਭੋਜਪੁਰੀ\N_NNP ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਇਸ\DM_DMD ਨੂੰ\PSP ਪੰਜਾਬੀ\N_NNP ਭਾਸ਼ਾ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਡੱਬ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3491	`\RD_PUNC ਦਾ\N_NNP ਡਰਟੀ\N_NNP ਪਿਕਚਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਕਹਾਨੀ\N_NNP `\RD_PUNC ਫ਼ਿਲਮਾਂ\N_NN ਕਰਕੇ\V_VM_VF ਅਭਿਨੈ\N_NN ਦੀ\PSP ਮਲਿਕਾ\N_NN ਕਹਾਉਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਵਿਆਹ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਵੀ\RP_RPD ਕੰਮ\N_NN ਪ੍ਰਤੀ\N_NN ਪੂਰਾ\JJ ਜਨੂੰਨ\N_NN ਰੱਖਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3492	ਸੰਦਲਵੁੱਡ\N_NNP ਦੀ\PSP ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਉਹ\PR_PRP ਉਪੇਂਦਰਾ\N_NNP ਨਾਲ\PSP ਰੁਮਾਂਟਿਕ\N_NN ਤਾਣੇ-ਬਾਣੇ\RD_ECH `\RD_PUNC ਚ\PSP ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3493	ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਉਪੇਂਦਰਾ\N_NNP ਦੀ\PSP ਪਤਨੀ\N_NN ਪਿ੍ਅੰਕਾ\N_NNP ਬਣਾ\V_VM_VF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3494	ਇਸ\DM_DMD ਦੌਰਾਨ\N_NN ਇਹ\DM_DMD ਵੀ\RP_RPD ਗੱਲ\N_NN ਫੈਲ\N_NN ਗਈ\V_VM_VF ਕਿ\CC_CCS ਵਿਦਿਆ\N_NNP ਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਪਤੀ\N_NN ਵਿਚਕਾਰ\RB ਅਣ-ਬਣ\RD_ECH ਹੈ\V_VAUX |\RD_PUNC
+PBED3495	ਵਿਦਿਆ\N_NNP ਨੇ\PSP ਸਿਧਾਰਥ\N_NNP ਨਾਲ\PSP ਚੰਗੇ\JJ ਸਬੰਧਾਂ\N_NN ਦੀ\PSP ਹੀ\RP_RPD ਗੱਲ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3496	ਇਸ\DM_DMD ਦੌਰਾਨ\RB ਉਸਨੇ\PR_PRP ਸੁਜਾਏ\N_NNP ਘੋਸ਼\N_NNP ਦੀ\PSP `\RD_PUNC ਦੁਰਗਾ\N_NNP ਰਾਨੀ\N_NNP `\RD_PUNC ਤੇ\RB `\RD_PUNC ਬੌਬੀ\N_NNP ਜਾਸੂਸ\N_NNP `\RD_PUNC ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਜਾਰੀ\V_VM_VF ਰੱਖੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3497	ਇਹਨਾਂ\DM_DMD ਲੋਕ\N_NN ਸਭਾ\N_NN ਚੋਣਾਂ\N_NN `\RD_PUNC ਚ\PSP ਵੀ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਕਾਫ਼ੀ\QT_QTF ਦਿਲਚਸਪੀ\N_NN ਲਈ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3498	ਟੀ.\N_NN ਵੀ.\N_NN `\RD_PUNC ਤੇ\RB ਉਸ\PR_PRP ਨੇ\PSP ਰਾਜਨੀਤਕ\N_NN ਸਰਗਰਮੀਆਂ\N_NN ਵੱਧ-ਚੜ\V_VM_VNG ਕੇ\RP_RPD ਵੇਖੀਆਂ\V_VM_VF |\RD_PUNC
+PBED3499	ਹਾਲੇ\RB ਮਾਂ\N_NN ਬਣਨ\V_VM_VNF ਤੋਂ\PSP ਉਹ\PR_PRP ਇਨਕਾਰ\RP_NEG ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3500	ਉਹ\PR_PRP ਬੱਚਾ\N_NN ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਸਮਾਂ\N_NN ਨਿਸਚਿਤ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3501	ਮਾਨਸਿਕ\N_NN ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਤਿਆਰੀ\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਕੋਈ\QT_QTF ਤੁੱਕ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBED3502	ਵਿਦਿਆ\N_NNP ਗਰਮੀ\N_NN ਦੇ\PSP ਇਸ\DM_DMD ਮੌਸਮ\N_NN `\RD_PUNC ਚ\PSP ਸਿਹਤ\N_NN ਪ੍ਰਤੀ\N_NN ਵੀ\RP_RPD ਧਿਆਨ\N_NN ਦੇ\PSP ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3503	ਸੈੱਟ\N_NN `\RD_PUNC ਤੇ\N_NST ਗਰਮੀ\N_NN ਤੋਂ\PSP ਬਚਣ\V_VM_VNF ਲਈ\PSP ਗੁਲੂਕੋਜ਼\N_NN ਦਾ\PSP ਇਸਤੇਮਾਲ\N_NN ਉਹ\PR_PRP ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3504	ਉਸ\PR_PRP ਦਾ\PSP ਧਿਆਨ\N_NN `\RD_PUNC ਬੌਬੀ\N_NNP ਜਾਸੂਸ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਵੱਲ\PSP ਵਧ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3505	ਕਿਰਦਾਰ\N_NN ਵਿੱਚ\N_NN ਹਕੀਕਤ\N_NN ਭਰਨ\N_NN ਲਈ\PSP ਮੈਡਮ\N_NN ਬਾਲਨ\N_NNP ਸੱਚਮੁੱਚ\N_NN ਦੀਆਂ\PSP ਔਰਤ\N_NN ਜਾਸੂਸਾਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3506	ਬਹੁਤ\QT_QTF ਸਾਰੇ\QT_QTF ਤੁੱਕੇ\N_NN ਵੀ\RP_RPD ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਸਿੱਖੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3507	ਉਸ\PR_PRP ਨੂੰ\PSP ਪਤਾ\N_NN ਚੱਲਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਔਰਤ\N_NN ਜਾਸੂਸਾਂ\N_NN ਹੁਣ\RB ਘਰੇਲੂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3508	ਦੀਆ\N_NNP ਮਿਰਜ਼ਾ\N_NNP ਖੁਸ਼\V_VM ਹੈ\V_VAUX ਕਿ\CC_CCS ਵਿਦਿਆ\N_NNP ਬੌਬੀ\N_NNP ਜਾਸੂਸ\N_NN ਲਈ\PSP ਦਿਲੋਂ\N_NN ਮਿਹਨਤ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3509	ਜ਼ਰੂਰਤ\N_NN ਪੈਣ\V_VM_VNF ਉੱਤੇ\N_NST ਚਮਕ-ਦਮਕ\RD_ECH ਬਖੇਰਨ\N_NN ਲਈ\PSP ਤਿਆਰ\N_NN ਰਹਿੰਦੀ\V_VM_VF ਵਿਦਿਆ\N_NNP ਸੈੱਟ\N_NN ਉੱਤੇ\N_NST ਪੂਜਾ\N_NN ਵੀ\RP_RPD ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3510	ਯਾਦ\N_NN ਰਹੇ\V_VM_VF ਪਦਮਸ੍ਰੀ\JJ ਉਹ\PR_PRP ਹਾਸਲ\N_NN ਕਰ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3511	ਵਿਦਿਆ\N_NNP ਲਈ\PSP ਆਸਟ੍ਰੇਲੀਆ\N_NNP ਦੇ\PSP ਇਕ\QT_QTC ਡਿਜ਼ਾਈਨਰ\N_NN ਨੇ\PSP ਇਕ\QT_QTC ਖਾਸ\JJ ਸਾੜੀ\N_NN ਬਣਾਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3512	ਇਹ\DM_DMD ਸਾੜੀ\N_NN ਮੈਲਬੌਰਨ\N_NNP ਵਿਖੇ\N_NST ਇਕ\QT_QTC ਫ਼ਿਲਮੀ\N_NN ਮੇਲੇ\N_NN ਵਿੱਚ\PSP ਉਹ\PR_PRP ਪਹਿਨ\V_VM_VNF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3513	ਆਸਟ੍ਰੇਲੀਆ\N_NNP ਦੀ\PSP ਇਕ\QT_QTC ਕੱਪੜਾ\N_NN ਫਰਮ\N_NN ਨੇ\PSP ਇਸ\DM_DMD ਸਾੜੀ\N_NN ਲਈ\PSP ਵਿਦਿਆ\N_NNP ਨੂੰ\PSP ਬਰਾਂਡ\N_NN ਅੰਬੈਸਡਰ\N_NN ਬਣਾ\V_VM_VINF ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3514	ਆਸਟ੍ਰੇਲੀਆ\N_NNP ਵਿਚ\PSP ਭਾਰਤੀ\JJ ਪਹਿਰਾਵੇ\N_NN ਨੂੰ\PSP ਉਤਸ਼ਾਹਿਤ\JJ ਕਰਨ\V_VM_VNF ਵਿਚ\PSP ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਦਾ\PSP ਪ੍ਰਮੁੱਖ\JJ ਯੋਗਦਾਨ\N_NN ਭਲਾ\N_NN ਕੌਣ\PR_PRQ ਭੁੱਲੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3515	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਹੀ\RP_RPD ਉਸ\PR_PRP ਦੀ\PSP `\RD_PUNC ਬੌਬੀ\N_NNP ਜਾਸੂਸ\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਅਭੁੱਲ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਹੋਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3516	ਜੇਨੇਲੀਆ\N_NNP ਦੀ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਰਿਤੇਸ਼\N_NNP ਲਈ\PSP ਕਾਫ਼ੀ\QT_QTF ਮਹੱਤਤਾ\N_NN ਰੱਖਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3517	ਹਰ\QT_QTF ਕੰਮ\N_NN ਵਿਚ\PSP ਅਗਾਂਹਵਧੂ\N_NN ਹੈ\V_VAUX ਜੇਨੇਲੀਆ\N_NNP |\RD_PUNC
+PBED3518	ਤੁਹਾਨੂੰ\PR_PRP ਯਾਦ\N_NN ਹੋਏਗਾ\V_VM_VF ਕਿ\CC_CCS ਜਦ\DM_DMR ਟੈਲੀਗ੍ਰਾਮ\N_NN ਖ਼ਤਮ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਤਦ\DM_DMR ਮੁੰਬਈ\N_NNP ਵਿਚ\PSP ਆਖਰੀ\RB ਟੈਲੀਗ੍ਰਾਮ\N_NN ਜੇਨੇਲੀਆ\N_NNP ਨੇ\PSP ਹੀ\RP_RPD ਪ੍ਰਾਪਤ\N_NN ਕੀਤੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3519	ਅਫ਼ਵਾਹ\N_NN ਤੇ\CC_CCD ਫ਼ਿਲਮੀ\N_NN ਦੁਨੀਆ\N_NN ਆਮ\N_NN ਜਿਹੀ\DM_DMR ਗੱਲ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3520	ਕਿਹਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਮਾਂ\N_NN ਬਣ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3521	ਇਹੀ\DM_DMR ਗੱਲ\N_NN ਜੇਨੇਲੀਆ\N_NNP ਦੇਸ਼ਮੁਖ\N_NNP ਲਈ\PSP ਕਹੀ\V_VM_VF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3522	ਜੇਨੇਲੀਆ\N_NNP ਅੱਜ\RB ਕਲ\RB ਘੱਟ\QT_QTF ਬਾਹਰ\RB ਨਿਕਲਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਇਸ\DM_DMD ਕਰਕੇ\V_VM_VF ਇਹ\DM_DMD ਗੱਲ\N_NN ਜ਼ਿਆਦਾ\JJ ਹਵਾ\N_NN ਵਿਚ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3523	ਦੋ\QT_QTC ਸਾਲ\N_NN ਪਹਿਲਾਂ\RB ਰਿਤੇਸ਼\N_NNP ਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਭਰਾ\N_NN ਦਾ\PSP ਇਕੋ\QT_QTO ਦਿਨ\N_NN ਵਿਆਹ\N_NN ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3524	ਰਿਤੇਸ਼\N_NNP ਦੀ\PSP ਭਾਬੀ\N_NN ਮਾਂ\N_NN ਬਣਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3525	ਇਸ\DM_DMD ਲਈ\PSP ਹੀ\RP_RPD ਇਸ\DM_DMD ਅਫ਼ਵਾਹ\N_NN ਨੂੰ\PSP ਕਈਆਂ\QT_QTF ਨੇ\PSP ਸੱਚ\N_NN ਮੰਨਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3526	ਖ਼ੈਰ\RP_INJ ਇਹ\DM_DMD ਤਾਂ\PSP ਬਾਅਦ\RB ਦੀ\PSP ਗੱਲ\N_NN ਹੈ\V_VAUX ਪਰ\CC_CCD ਕਰੀਨਾ\N_NNP ਕਪੂਰ\N_NNP ਨੇ\PSP ਜੇਨੇਲੀਆ\N_NNP ਨੂੰ\PSP ਤਿਰਛੀ\N_NN ਅੱਖ\N_NN ਨਾਲ\PSP ਵੇਖ\V_VM ਕੇ\RP_RPD ਕਈ\QT_QTF ਕਹਾਣੀਆਂ\N_NN ਘੜ\V_VM ਦਿੱਤੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3527	ਪਿਛਲੇ\RB ਮਹੀਨੇ\N_NN ਜ਼ੀ.\N_NNP ਐਵਾਰਡਜ਼\N_NNP ਮੌਕੇ\N_NN ਉਹ\PR_PRP ਦਿਖਾਈ\V_VM_VF ਦਿੱਤੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3528	ਜੇਨੇਲੀਆ\N_NNP ਲਈ\PSP ਖੁਸ਼ੀ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੇ\PSP ਪਤੀ\N_NN ਦੀ\PSP ਬਣਾਈ\V_VM_VF ਮਰਾਠੀ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਜੈਲੋ\N_NNP `\RD_PUNC ਨੂੰ\PSP ਕਾਫ਼ੀ\QT_QTF ਪ੍ਰਸੰਸਾ\N_NN ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3529	ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਰਿਤੇਸ਼\N_NNP ਦੇ\PSP ਫ਼ਿਲਮੀ\N_NN ਕੰਮਕਾਰ\N_NN ਵੀ\RP_RPD ਜੇਨੇਲੀਆ\N_NNP ਹੀ\RP_RPD ਸੰਭਾਲਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3530	ਤੁਹਾਨੂੰ\PR_PRP ਯਾਦ\N_NN ਹੋਏਗਾ\V_VM_VF ਕਿ\CC_CCS ਜਦ\DM_DMR ਟੈਲੀਗ੍ਰਾਮ\N_NNP ਖਤਮ\RB ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਤਦ\DM_DMR ਮੁੰਬਈ\N_NNP `\RD_PUNC ਚ\PSP ਆਖਰੀ\RB ਟੈਲੀਗ੍ਰਾਮ\N_NNP ਜੇਨੇਲੀਆ\N_NNP ਨੇ\PSP ਹੀ\RP_RPD ਪ੍ਰਾਪਤ\N_NN ਕੀਤੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3531	ਰਿਤੇਸ਼\N_NNP ਨੂੰ\PSP ਨਿਰਮਾਤਾ\N_NN ਬਣਾਉਣ\V_VM_VNF ਵਿਚ\PSP ਜੇਨੇਲੀਆ\N_NNP ਦਾ\PSP ਹੀ\RP_RPD ਵੱਡਾ\JJ ਹੱਥ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3532	ਜੇਨੇਲੀਆ\N_NNP ਹੱਸਮੁੱਖ\JJ ਸੁਭਾਅ\N_NN ਕਾਰਨ\V_VM_VF ਵੀ\RP_RPD ਜਾਣੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3533	ਸੈਲੀਬਿ੍ਟੀ\N_NNP ਕ੍ਰਿਕਟ\N_NNP ਲੀਗ\N_NNP ਵਿਚ\PSP ਉਹ\PR_PRP ਕਾਫ਼ੀ\QT_QTF ਸਰਗਰਮ\N_NN ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3534	ਚਾਹੇ\CC_CCS ਮਹਾਰਾਸ਼ਟਰ\N_NNP ਵਿਚ\PSP ਕਾਂਗਰਸ\N_NNP ਦਾ\PSP ਬੁਰਾ\N_NN ਹਾਲ\N_NN ਹੋਇਆ\V_VM_VF |\RD_PUNC
+PBED3535	ਪਰ\CC_CCS ਪ੍ਰਚਾਰ\N_NN ਲਈ\PSP ਜੇਨੇਲੀਆ\N_NNP ਨੇ\PSP ਦਿਨ-ਰਾਤ\N_NN ਇਕ\QT_QTC ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3536	ਅਸਲ\N_NN ਵਿਚ\PSP ਹੌਸਲਾ\N_NN ਹਾਰਨਾ\N_NN ਉਸ\PR_PRP ਨੇ\PSP ਸਿੱਖਿਆ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3537	ਅਕਸਰ\RB ਸੋਨਮ\N_NNP ਕਪੂਰ\N_NNP ਵਿਦੇਸ਼ੀ\N_NN ਸਾਮਾਨ\N_NN ਨੂੰ\PSP ਜ਼ਿਆਦਾ\JJ ਪਹਿਲ\QT_QTO ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3538	ਆਮ\N_NN ਕੁੜੀ\N_NN ਵਾਲੀਆਂ\V_VM_VF ਆਦਤਾਂ\N_NN ਉਸ\PR_PRP ਵਿਚ\PSP ਬਹੁਤ\QT_QTF ਘੱਟ\QT_QTF ਹਨ\V_VAUX |\RD_PUNC
+PBED3539	ਫਿਰ\RB ਵੀ\RP_RPD ਕਿਤੇ\DM_DMQ ਕਿਤੇ\DM_DMQ ਉਹ\PR_PRP ਦੇਸੀ\N_NN ਚੀਜ਼ਾਂ\N_NN ਲਈ\PSP ਵੀ\RP_RPD ਸਮਾਂ\N_NN ਕੱਢ\V_VM ਲੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3540	ਕਾਂਸ\N_NNP ਅੰਤਰਰਾਸ਼ਟਰੀ\N_NNP ਫ਼ਿਲਮ\N_NNP ਮੇਲੇ\N_NNP ਵਿਚ\PSP ਉਹ\PR_PRP ਵੱਖਰੀ\JJ ਦਿੱਖ\V_VM ਨਾਲ\PSP ਨਜ਼ਰ\N_NN ਆ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3541	ਇਸ\DM_DMD ਵਾਰ\RB ਅਨਾਮਿਕਾ\N_NNP ਖੰਨਾ\N_NNP ਦੀ\PSP ਤਿਆਰ\N_NN ਕੀਤੀ\V_VM_VF ਖਾਸ\JJ ਜੈਕੇਟ\N_NN ਤੇ\CC_CCD ਨੱਕ\N_NN ਵਿਚ\PSP ਕੁੰਦਨ\N_NNP ਕੋਕਾ\N_NN ਦੇਖਣ\V_VM_VNF ਵਾਲੇ\V_VM_VF ਨੂੰ\PSP ਮੋਹ\N_NN ਲਏਗਾ\V_VM_VF |\RD_PUNC
+PBED3542	ਉਹ\PR_PRP ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਵੱਧ\N_NN ਤੋਂ\PSP ਵੱਧ\N_NN ਭਾਰਤੀ\JJ ਸੰਸਕ੍ਰਿਤੀ\N_NNP ਦੀ\PSP ਝਲਕ\N_NN ਇਸ\DM_DMD ਸਮਾਰੋਹ\N_NN `\RD_PUNC ਚ\PSP ਦਿਖਾਈ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBED3543	ਪੰਜਾਬੀ\N_NNP ਪਹਿਰਾਵਾ\N_NN ਸੋਨਮ\N_NNP ਨੂੰ\PSP ਇਸ\DM_DMD ਵਾਰ\RB ਵਿਦੇਸ਼ੀ\JJ ਪਹਿਰਾਵੇ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਵਧੀਆ\JJ ਲੱਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3544	ਫ਼ਿਲਮ\N_NN ਖੂਬਸੂਰਤ\N_NN ਲਈ\PSP ਖਾਸ\JJ ਮਿਹਨਤ\N_NN ਕਰਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਸੋਨਮ\N_NNP ਫੈਸ਼ਨ\N_NN ਦੇ\PSP ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਸਦਾ\N_NN ਬਹਾਰ\N_NN ਅਭਿਨੇਤਰੀ\N_NN ਵਹੀਦਾ\N_NNP ਰਹਿਮਾਨ\N_NNP ਤੋਂ\PSP ਤੇ\CC_CCD ਰੇਖਾ\N_NNP ਤੋਂ\PSP ਵੀ\RP_RPD ਪ੍ਰਭਾਵਿਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3545	ਕਾਂਸ\N_NNP ਫ਼ਿਲਮ\N_NNP ਮੇਲੇ\N_NNP ਵਿਚ\PSP ਇਸ\DM_DMD ਵਾਰ\RB ਸੋਨਮ\N_NNP ਨਵੇਂ\JJ ਹੀ\RP_RPD ਨਹੀਂ,\RP_NEG ਬਲਕਿ\CC_CCS ਸਦਾਬਹਾਰ\JJ ਪੁਰਾਣੇ\N_NN ਫ਼ਿਲਮੀ\N_NN ਗੀਤਾਂ\N_NN ਉੱਤੇ\RB ਨੱਚੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3546	ਸੋਨਮ\N_NNP ਲਈ\PSP ਖਾਸ\JJ ਖੁਸ਼ੀ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਸੂਰਜ\N_NNP ਬੜਜਾਤੀਆ\N_NNP ਦੀ\PSP ਨਵੀਂ\JJ ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਪ੍ਰੇਮ\N_NNP ਰਤਨ\N_NNP ਧੰਨ\N_NNP ਪਾਇਓ\N_NNP `\RD_PUNC ਕਈਆਂ\QT_QTF ਨੂੰ\PSP ਮਿਲਦੀ\V_VM_VF ਮਿਲਦੀ\V_VM_VF ਉਸ\PR_PRP ਨੂੰ\PSP ਮਿਲ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3547	ਉਹ\PR_PRP ਬਿਲਕੁਲ\N_NN ਇਸ\DM_DMD ਗੱਲ\N_NN ਦੀ\PSP ਪ੍ਰਵਾਹ\N_NN ਨਹੀਂ\RP_NEG ਕਰ\V_VM ਰਹੀ\V_VM_VF ਕਿ\CC_CCS ਸਲਮਾਨ\N_NNP ਖਾਨ\N_NNP ਨਾਲ\PSP ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਤਾਲਮੇਲ\N_NN ਕਿਵੇਂ\DM_DMQ ਹੋਏਗਾ\V_VM_VF |\RD_PUNC
+PBED3548	ਰਾਜ\N_NNP ਸ੍ਰੀ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਸੋਨਮ\N_NNP ਦੇ\PSP ਕੈਰੀਅਰ\N_NN ਲਈ\PSP ਇਕ\QT_QTC ਵਧੀਆ\JJ ਫ਼ੈਸਲਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3549	`\RD_PUNC ਦੀਦੀ\N_NN ਤੇਰਾ\PR_PRP ਦੇਵਰ\N_NN ਦੀਵਾਨਾ\N_NN `\RD_PUNC ਦੀ\PSP ਦਿੱਖ\N_NN ਜਿਹਾ\DM_DMR ਉਹ\PR_PRP `\RD_PUNC ਪ੍ਰੇਮ\N_NNP ਰਤਨ\N_NNP ਧੰਨ\N_NNP ਪਾਇਓ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਕਰ\V_VM ਦਿਖਾਉਣਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3550	ਸਲਮਾਨ\N_NNP ਨੇ\PSP ਸੋਨਮ\N_NNP ਦੀ\PSP ਕੋਈ\QT_QTF ਫ਼ਿਲਮ\N_NN ਨਹੀਂ\RP_NEG ਦੇਖੀ\V_VM_VF |\RD_PUNC
+PBED3551	ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਅਗਲੇ\RB ਮਹੀਨੇ\N_NN ਸ਼ੁਰੂ\RB ਹੋ\V_VM ਕੇ\RP_RPD ਛੇਤੀ\N_NN ਮੁਕੰਮਲ\N_NN ਹੋਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3552	ਸੋਨਮ\N_NNP ਤਾਂ\PSP ਸੱਲੂ\N_NNP ਦੇ\PSP ਭਰਾ\N_NN ਅਰਬਾਜ਼\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਡੌਲੀ\N_NN ਕੀ\N_NN ਡੋਲੀ\N_NN `\RD_PUNC ਵੀ\RP_RPD ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3553	ਖਾਨਜ਼\N_NN ਨਾਲ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਉੱਚੇ\JJ ਪੁਲ\N_NN `\RD_PUNC ਤੇ\RB ਦੌੜਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਗੱਲ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3554	ਖੂਬਸੂਰਤ\N_NNP ਤੋਂ\PSP ਬਾਅਦ\JJ ਇਹ\DM_DMD ਦੋ\QT_QTC ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਉਸ\PR_PRP ਲਈ\PSP ਖਾਸ\JJ ਹਨ\V_VAUX |\RD_PUNC
+PBED3555	ਕਾਂਸ\N_NNP ਫ਼ਿਲਮ\N_NNP ਮੇਲੇ\N_NNP ਵਿਚ\PSP ਇਸ\DM_DMD ਵਾਰ\RB ਸਭ\QT_QTF ਤੋਂ\PSP ਜ਼ਿਆਦਾ\JJ ਚਰਚਾ\N_NN ਸੋਨਮ\N_NNP ਦੀ\PSP ਹੀ\RP_RPD ਹੋਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3556	ਸੋਨਮ\N_NNP ਖੁਦ\PR_PRF ਆਪਣੀਆਂ\PR_PRP ਨਵੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਕਾਫ਼ੀ\JJ ਖੁਸ਼\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3557	ਸ਼ਾਹਿਦ\N_NNP ਕਪੂਰ\N_NNP ਨੇ\PSP ਕਾਫ਼ੀ\QT_QTF ਹਿੱਟ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3558	ਅੱਜ\RB ਕਲ\RB ਉਹ\PR_PRP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਹੈਦਰ\N_NNP `\RD_PUNC ਦੀ\PSP ਤਿਆਰੀ\N_NN `\RD_PUNC ਚ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBED3559	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਿਰਦੇਸ਼ਨ\N_NN ਵਿਸ਼ਾਲ\N_NNP ਭਾਰਦਵਾਜ\N_NNP ਦਾ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3560	ਤੱਬੂ\N_NNP ,\RD_PUNC ਸ਼ਰਧਾ\N_NNP ਕਪੂਰ\N_NNP ,\RD_PUNC ਇਰਫ਼ਾਨ\N_NNP ਖ਼ਾਨ\N_NNP ਆਦਿ\RP_CL ਕਲਾਕਾਰ\N_NN ਸ਼ਾਹਿਦ\N_NNP ਕਪੂਰ\N_NNP ਦਾ\PSP ਸਾਥ\N_NN ਦੇ\PSP ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3561	ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਪਿੱਠ\N_NN ਭੂਮੀ\N_NN ਨੂੰ\PSP ਪਹਿਲਗਾਮ\N_NNP ,\RD_PUNC ਆਨੰਤਨਾਗ\N_NNP ,\RD_PUNC ਡਲ\N_NNP ਝੀਲ\N_NNP ,\RD_PUNC ਕਸ਼ਮੀਰ\N_NNP ਯੂਨੀਵਰਸਿਟੀ\N_NNP ,\RD_PUNC ਹਜ਼ਰਤਬਲ\N_NNP ਆਦਿ\RP_CL ਥਾਵਾਂ\N_NN `\RD_PUNC ਤੇ\RB ਫ਼ਿਲਮਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3562	ਸ਼ਾਹਿਦ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਪਹਿਲੀ\QT_QTO ਵਾਰ\RB ਕਿਸੇ\DM_DMQ ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਰਫ-ਟਫ\N_NN ਦਿਖਾਈ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਕਿਰਦਾਰ\N_NN ਹੀ\RP_RPD ਅਜਿਹਾ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBED3563	ਜੰਮੂ-ਕਸ਼ਮੀਰ\N_NNP ਵਿਚ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਦੌਰਾਨ\RB ਸਥਾਨਕ\N_NN ਵਾਸੀਆਂ\N_NN ਨੇ\PSP ਕਈ\QT_QTF ਸਮੱਸਿਆਵਾਂ\N_NN ਵੀ\RP_RPD ਪੈਦਾ\V_VM_VF ਕੀਤੀਆਂ\V_VM_VF ।\RD_PUNC
+PBED3564	ਜਿਸ\PR_PRL ਕਰਕੇ\V_VM_VF ਕਈ\QT_QTF ਦਿਨ\N_NN ਸ਼ੂਟਿੰਗ\N_NN ਪ੍ਰਭਾਵਿਤ\N_NN ਹੋਈ\V_VM_VF ਪਰ\CC_CCD ਜੰਮੂ-ਕਸ਼ਮੀਰ\N_NNP ਦੇ\PSP ਮੁੱਖ\N_NN ਮੰਤਰੀ\N_NN ਉਮਰ\N_NNP ਅਬਦੁੱਲਾ\N_NNP ਨੇ\PSP ਬੜੀ\JJ ਮਦਦ\N_NN ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBED3565	ਮੇਰੇ\PR_PRP ਕੋਲ\RB ਹੋਰ\PSP ਵੀ\RP_RPD ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3566	ਤੱਬੂ\N_NNP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਮੇਰੀ\PR_PRP ਮਤਰੇਈ\N_NN ਮਾਂ\N_NN ਬਣੀ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBED3567	ਕੁਝ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਦੱਖਣ\N_NN ਦੀਆਂ\PSP ਹਨ\V_VAUX ,\RD_PUNC ਜੋ\N_NN ਦੀਵਾਲੀ\N_NNP ਉੱਤੇ\RB ਸੁਰੂ\RB ਹੋਣਗੀਆਂ\V_VM_VF |\RD_PUNC
+PBED3568	ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਦੇ\PSP ਮੇਕਅਪਮੈਨ\N_NN ਦੀਪਕ\N_NNP ਸਾਵੰਤ\N_NNP ਨੇ\PSP ਅਮਿਤਾਭ\N_NNP ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਪਹਿਲਾਂ\RB ਭੋਜਪੁਰੀ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਗੰਗਾ\N_NNP `\RD_PUNC ਬਣਾਈ\V_VM_VF ,\RD_PUNC ਫਿਰ\RB ਬਣਾਈ\V_VM_VF `\RD_PUNC ਗੰਗੋਤਰੀ\N_NNP `\RD_PUNC ਅਤੇ\CC_CCD `\RD_PUNC ਗੰਗਾ\N_NNP ਦੇਵੀ\N_NNP `\RD_PUNC |\RD_PUNC
+PBED3569	ਹਾਲਾਂਕਿ\CC_CCS ਇੰਨਾ\DM_DMR ਤਿੰਨੇ\QT_QTO ਗੰਗਾ\N_NNP ਬ੍ਰਾਂਡ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP ਸਨ\V_VAUX |\RD_PUNC
+PBED3570	ਪਰ\CC_CCS ਇਨਾ\DM_DMR ਸਾਰੀਆਂ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਹੀਰੋਇਨ\N_NN ਪ੍ਰਧਾਨ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3571	ਅਮਿਤਾਭ\N_NNP ਦੇ\PSP ਨਾਂ\RP_NEG ਦਾ\PSP ਲਾਹਾ\N_NN ਲੈਣ\V_VM_VNF ਲਈ\PSP `\RD_PUNC ਗੰਗਾ\N_NNP ਦੇਵੀ\N_NNP `\RD_PUNC ਨੂੰ\PSP ਗੁਜਰਾਤੀ\JJ ਭਾਸ਼ਾ\N_NN ਵਿਚ\PSP ਡੱਬ\N_NN ਕਰਕੇ\V_VM_VF `\RD_PUNC ਹੂੰ\N_NNP ਛੂ\N_NNP ਗੰਗਾ\N_NNP `\RD_PUNC (ਭਾਵ\N_NN `\RD_PUNC ਮੈਂ\N_NNP ਹੂੰ\N_NNP ਗੰਗਾ\N_NNP `\RD_PUNC )\RD_SYM ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਰਿਲੀਜ਼\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3572	ਹੁਣ\RB `\RD_PUNC ਗੰਗਾ\N_NNP ਦੇਵੀ\N_NNP `\RD_PUNC ਨੂੰ\PSP ਹਿੰਦੀ\N_NNP ਦਾ\PSP ਜਾਮਾ\N_NN ਪਵਾ\V_VM_VF ਕੇ\RP_RPD `\RD_PUNC ਲੀਡਰ\N_NN `\RD_PUNC ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਰਿਲੀਜ਼\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3573	ਇਸ\DM_DMD ਵਿਚ\PSP ਅਮਿਤਾਭ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਜਯਾ\N_NNP ਬੱਚਨ\N_NNP ਵੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3574	ਇਥੇ\DM_DMR ਉਹ\PR_PRP ਉਹਨਾ\PR_PRL ਦੀ\PSP ਪਤਨੀ\N_NN ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਨਿਭਾਅ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3575	ਹਿੰਦੀ\N_NNP ਦਾ\PSP ਚੋਲਾ\N_NN ਪਵਾ\V_VM_VF ਕੇ\RP_RPD ਪੇਸ਼\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਇਸ\DM_DMD ਭੋਜਪੁਰੀ\N_NNP ਬ੍ਰਾਂਡ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਕੁਝ\QT_QTF ਇਸ\DM_DMD ਤਰਾਂ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBED3576	ਮਾਸਟਰ\N_NN ਵਿਸ਼ੰਬਰ\N_NNP ਨਾਥ\N_NNP (\RD_SYM ਅਮਿਤਾਭ\N_NNP ਬੱਚਨ\N_NNP )\RD_SYM ਪਿੰਡ\N_NN ਦੀ\PSP ਪ੍ਰਸਿੱਧ\JJ ਸ਼ਖ਼ਸੀਅਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3577	ਉਹ\PR_PRP ਆਪਣੀ\PR_PRF ਪਤਨੀ\N_NN ਕਲਿਆਣੀ\N_NNP (\RD_SYM ਜਯਾ\N_NNP ਬੱਚਨ\N_NNP )\RD_SYM ਤੇ\CC_CCD ਬੇਟੇ\N_NN (ਦਿਨੇਸ਼\N_NNP ਲਾਲ\N_NNP ਯਾਦਵ)\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਵਧੀਆ\JJ ਜ਼ਿੰਦਗੀ\N_NN ਬਤੀਤ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3578	ਬੇਟੇ\N_NN ਦਾ\PSP ਵਿਆਹ\N_NN ਗੰਗਾ\N_NNP (\RD_SYM ਪਾਖੀ\N_NNP ਹੈਗੜੇ\N_NNP )\RD_SYM ਨਾਲ\PSP ਕਰਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3579	ਪਿੰਡ\N_NN ਦਾ\PSP ਐਮ.\N_NN ਐਲ.\N_NN ਏ.\N_NN ਤਿਵਾੜੀ\N_NNP (\RD_SYM ਗੁਲਸ਼ਨ\N_NNP ਗਰੋਵਰ\N_NNP )\RD_SYM ਭਿ੍ਸ਼ਟ\JJ ਆਦਮੀ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਰਾਜਨੀਤੀ\N_NN ਨੂੰ\PSP ਆਪਣੇ\PR_PRF ਨਿੱਜੀ\N_NN ਫਾਇਦੇ\N_NN ਦੀ\PSP ਚੀਜ਼\N_NN ਮੰਨਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3580	ਵਿਸ਼ੰਬਰ\N_NNP ਨਾਥ\N_NNP ਨੂੰ\PSP ਤਿਵਾੜੀ\N_NNP ਦੇ\PSP ਕਾਲੇ\JJ ਕਾਰਨਾਮੇ\N_NN ਪਸੰਦ\N_NN ਨਹੀਂ\RP_NEG ਹਨ\V_VAUX |\RD_PUNC
+PBED3581	ਇਸ\DM_DMD ਲਈ\PSP ਉਹ\PR_PRP ਹਰ\QT_QTF ਵੇਲੇ\N_NN ਉਸ\PR_PRP ਦਾ\PSP ਵਿਰੋਧ\N_NN ਕਰਦੇ\V_VM_VF ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3582	ਜਦੋਂ\PR_PRL ਔਰਤ\N_NN ਆਰਕਸ਼ਨ\N_NN ਹੇਠ\RB ਪਿੰਡ\N_NN ਦੀ\PSP ਐਮ.\N_NN ਐਲ.\N_NN ਏ.\N_NN ਦੀ\PSP ਸੀਟ\N_NN ਔਰਤ\N_NN ਉਮੀਦਵਾਰ\N_NN ਲਈ\PSP ਰਾਖਵੀਂ\N_NN ਐਲਾਨ\N_NN ਕਰ\V_VM ਦਿੱਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3583	ਤਾਂ\CC_CCS ਤਿਵਾੜੀ\N_NNP ਆਪਣੀ\PR_PRF ਗੰਦੀ\JJ ਚਾਲ\N_NN ਚਲਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਗੰਗਾ\N_NNP ਨੂੰ\PSP ਚੋਣ\N_NN ਲੜਨ\V_VM_VNF ਲਈ\PSP ਉਕਸਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3584	ਹੁਣ\RB ਗੰਗਾ\N_NNP ਚੋਣ\N_NN ਜਿੱਤ\N_NN ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3585	ਇਹ\DM_DMD ਇਸ\DM_DMD ਵਿਚ\PSP ਦਿਖਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3586	`\RD_PUNC ਗੰਗਾ\N_NNP `\RD_PUNC ਲੜੀ\N_NN ਵਾਲੀ\N_NN ਅਮਿਤਾਭ\N_NNP ਦੀ\PSP ਹੋਰ\N_NN ਭੋਜਪੁਰੀ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਤਰਾਂ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵੀ\RP_RPD ਅਭਿਸ਼ੇਕ\N_NNP ਚੱਢਾ\N_NNP ਵੱਲੋਂ\PSP ਨਿਰਦੇਸ਼ਿਤ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3587	ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਵੀ\RP_RPD ਉਹਨਾ\PR_PRL ਵੱਲੋਂ\PSP ਲਿਖੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3588	ਜੈਕੀ\N_NNP ਸ਼ਰਾਫ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਹੀਰੋ\N_NN `\RD_PUNC ਤੋਂ\CC_CCD ਸਟਾਰ\N_NN ਬਣੇ\V_VM_VINF ।\RD_PUNC
+PBED3589	ਉਥੇ\DM_DMR ਹੁਣ\RB ਜੈਕੀ\N_NNP ਦੇ\PSP ਬੇਟੇ\N_NN ਟਾਈਗਰ\N_NNP ਨੇ\PSP `\RD_PUNC ਹੀਰੋਪੰਤੀ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਦਾਖਲਾ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3590	ਹੁਣ\RB ਟਾਈਗਰ\N_NNP ਦਾ\PSP ਆਪਣੇ\PR_PRF ਪਿਤਾ\N_NN ਨਾਲ\PSP ਮੁਕਾਬਲਾ\N_NN ਹੋਣਾ\V_VM_VINF ਸੁਭਾਵਿਕ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3591	ਟਾਈਗਰ\N_NNP ਦੀ\PSP ਮਾਂ\N_NN ਆਇਸ਼ਾ\N_NNP ਵੀ\RP_RPD ਕਦੀ\RB ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਕੰਮ\N_NN ਕਰਿਆ\V_VM_VF ਕਰਦੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3592	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਟਾਈਗਰ\N_NNP ਦੀਆਂ\PSP ਨਸਾਂ\N_NN ਵਿਚ\PSP ਅਭਿਨੈ\N_NN ਦਾ\PSP ਹੋਣਾ\V_VM_VINF ਲਾਜ਼ਮੀ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3593	ਇਸ\DM_DMD ਸਟਾਰ\N_NN ਪੁੱਤਰ\N_NN ਦੀ\PSP ਪਛਾਣ\N_NN ਇਥੇ\DM_DMR ਪੇਸ਼\N_NN ਹੈ\V_VAUX :\RD_PUNC
+PBED3594	ਜਿਥੋਂ\DM_DMR ਤੱਕ\PSP ਮੈਨੂੰ\PR_PRP ਯਾਦ\N_NN ਹੈ\V_VAUX ਜਦੋਂ\PR_PRL ਤੁਸੀਂ\PR_PRP ਪੈਦਾ\V_VM_VF ਹੋਏ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਦੋਂ\DM_DMR ਤੁਹਾਡਾ\PR_PRP ਨਾਂਅ\N_NN ਜੈ\N_NNP ਰੱਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3595	ਫਿਰ\RB ਇਹ\DM_DMD ਟਾਈਗਰ\N_NNP ਨਾਂਅ\N_NN ਕਿੱਥੋਂ\DM_DMQ ਆ\V_VM ਗਿਆ\V_VM_VF ?\RD_PUNC
+PBED3596	-\RD_SYM ਹਾਂ\N_NN ,\RD_PUNC ਤੁਸੀਂ\PR_PRP ਠੀਕ\N_NN ਕਹਿ\V_VM ਰਹੇ\V_VM_VF ਹੋ\V_VAUX |\RD_PUNC
+PBED3597	ਜਦੋਂ\DM_DMR ਮੈਂ\PR_PRP ਪੈਦਾ\N_NN ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਦੋਂ\DM_DMR ਮੇਰਾ\PR_PRP ਨਾਂਅ\N_NN ਜੈ\N_NNP ਰੱਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3598	ਤਿੰਨ-ਚਾਰ\QT_QTC ਸਾਲ\N_NN ਤੱਕ\PSP ਮੈਨੂੰ\PR_PRP ਇਸੇ\DM_DMD ਨਾਂਅ\N_NN ਨਾਲ\PSP ਬੁਲਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3599	ਜੋ\DM_DMR ਵੀ\RP_RPD ਕੋਈ\QT_QTF ਮੈਨੂੰ\PR_PRP ਆਪਣੀ\PR_PRF ਗੋਦੀ\N_NN ਵਿਚ\PSP ਚੁੱਕ\V_VM ਲੈਂਦਾ\V_VM_VF ਤਾਂ\CC_CCD ਮੈਂ\PR_PRP ਉਸ\PR_PRP ਨੂੰ\PSP ਵੱਢ\V_VM ਲੈਂਦਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3600	ਇਹ\DM_DMD ਆਦਤ\N_NN ਕਾਫੀ\QT_QTF ਲੰਬੇ\JJ ਸਮੇਂ\N_NN ਤੱਕ\PSP ਰਹੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3601	ਮੇਰੀ\PR_PRP ਇਸ\DM_DMD ਆਦਤ\N_NN ਦੀ\PSP ਵਜ੍ਹਾ\N_NN ਕਰਕੇ\V_VM_VF ਪਾਪਾ\N_NN ਮੈਨੂੰ\PR_PRP ਟਾਈਗਰ\N_NNP ਕਹਿ\V_VM ਕੇ\RP_RPD ਬੁਲਾਉਣ\V_VM_VNF ਲੱਗਦੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3602	ਉਨ੍ਹਾਂ\PR_PRL ਦੀ\PSP ਦੇਖਾ-ਦੇਖੀ\V_VM_VNG ਬਾਕੀ\N_NN ਲੋਕ\N_NN ਵੀ\RP_RPD ਮੈਨੂੰ\PR_PRP ਇਸ\DM_DMD ਨਾਂਅ\N_NN ਨਾਲ\PSP ਬੁਲਾਉਣ\V_VM_VNF ਲੱਗੇ\V_VM_VF |\RD_PUNC
+PBED3603	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਮੈਂ\PR_PRP ਜੈ\N_NNP ਤੋਂ\PSP ਟਾਈਗਰ\N_NNP ਬਣ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3604	ਜਦੋਂ\PR_PRL ਤੁਸੀਂ\PR_PRP ਅਭਿਨੈ\N_NN ਦੀ\PSP ਦੁਨੀਆ\N_NN ਵਿਚ\PSP ਆਏ\V_VM_VF ਤਾਂ\CC_CCD ਪਾਪਾ\N_NN ਨੇ\PSP ਤੁਹਾਨੂੰ\PR_PRP ਕੀ\DM_DMQ ਸਲਾਹ\N_NN ਦਿੱਤੀ\V_VM_VF ਸੀ\V_VAUX ?\RD_PUNC
+PBED3605	ਪਾਪਾ\N_NN ਨੂੰ\PSP ਸਲਾਹ\N_NN ਦੇਣਾ\V_VM_VINF ਪਸੰਦ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3606	ਨਾ\RP_NEG ਹੀ\RP_RPD ਉਹਨਾ\PR_PRP ਨੂੰ\PSP ਦੂਜਿਆਂ\QT_QTO ਦੇ\PSP ਕੰਮ\N_NN ਵਿਚ\PSP ਦਖਲ\N_NN ਦੇਣਾ\V_VM_VINF ਪਸੰਦ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3607	ਜਦੋਂ\PR_PRL ਮੈਂ\PR_PRP ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਫ਼ਿਲਮ\N_NN ਸਾਈਨ\N_NN ਕਰਨ\V_VM_VNF ਦੀ\PSP ਗੱਲ\N_NN ਦੱਸੀ\V_VM_VF ਤਾਂ\PSP ਗੁੱਡਲੱਕ\N_NN ਕਿਹਾ\V_VM_VF ਅਤੇ\CC_CCD ਨਾਲ\PSP ਹੀ\RP_RPD ਏਨਾ\QT_QTF ਹੀ\RP_RPD ਕਿਹਾ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਬੇਟਾ,\N_NN ਸੈੱਟ\N_NN `\RD_PUNC ਤੇ\N_NST ਬੋਲਣਾ\V_VM_VINF ਘੱਟ\QT_QTF ,\RD_PUNC ਸੁਣਨਾ\V_VM_VINF ਜ਼ਿਆਦਾ\QT_QTF |\RD_PUNC
+PBED3608	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਇਸ\DM_DMD ਸੁਨਹਿਰੀ\JJ ਸਲਾਹ\N_NN ਉੱਤੇ\RB ਮੈਂ\PR_PRP ਅਮਲ\N_NN ਵੀ\RP_RPD ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3609	ਤੁਹਾਡੇ\PR_PRP ਪਿਤਾ\N_NN ਨਾਲ\PSP ਤੁਹਾਡਾ\PR_PRP ਮੁਕਾਬਲਾ\N_NN ਹੋਣਾ\V_VM_VINF ਸੁਭਾਵਿਕ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3610	ਇਸ\DM_DMD ਮੁਕਾਬਲੇ\N_NN ਬਾਰੇ\RB ਤੁਸੀਂ\PR_PRP ਕੀ\DM_DMQ ਕਹਿਣਾ\V_VM_VINF ਚਾਹੋਗੇ\V_VM_VF ?\RD_SYM
+PBED3611	ਪਹਿਲੀ\QT_QTO ਗੱਲ\N_NN ਤਾਂ\PSP ਇਹ\DM_DMD ਕਿ\CC_CCS ਪਾਪਾ\N_NN ਮਾਡਿਲੰਗ\N_NN ਤੋਂ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਆਏ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3612	ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਚਾਂਸ\N_NN ਮਿਲਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਕੈਮਰੇ\N_NN ਸਾਹਮਣੇ\RB ਆ\V_VM ਗਏ\V_VM_VF ਜਦੋਂ\PR_PRL ਕਿ\CC_CCS ਮੈਂ\PR_PRP ਪੂਰੀ\JJ ਤਿਆਰੀ\N_NN ਨਾਲ\PSP ਆਇਆ\V_VM_VF ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3613	ਮੈਂ\PR_PRP ਐਕਟਿੰਗ\N_NN ਸਿੱਖੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਡਾਂਸ\N_NN ਸਿੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਸੰਵਾਦ\N_NN ਉਚਾਰਨ\N_NN ਵੀ\RP_RPD ਸਿੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3614	ਇਹ\DM_DMD ਮੈਂ\PR_PRP ਕਹਿ\V_VM ਸਕਦਾ\V_VM_VF ਹਾਂ\V_VAUX ਕਿ\CC_CCS ਪਾਪਾ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN ਮੈਂ\PR_PRP ਚੰਗਾ\JJ ਡਾਂਸਰ\N_NN ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3615	ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਨੱਚਣਾ\V_VM_VINF ਨਹੀਂ\RP_NEG ਆਉਂਦਾ\V_VM_VF |\RD_PUNC
+PBED3616	ਡਾਂਸ\N_NN ਦੇ\PSP ਨਾਂ\N_NN `\RD_PUNC ਤੇ\RB ਉਹ\PR_PRP ਕੈਮਰੇ\N_NN ਸਾਹਮਣੇ\RB ਹੱਥ-ਪੈਰ-ਲੱਕ\N_NN ਹਿਲਾ\V_VM_VF ਕੇ\RP_RPD ਖਾਨਾਪੂਰਤੀ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3617	ਮੈਂ\PR_PRP ਪਰੇਸ਼\N_NNP ਸ਼ਿਰੋਡਕਰ\N_NNP ਤੋਂ\PSP ਡਾਂਸ\N_NN ਸਿੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3618	ਉਹਨਾ\PR_PRL ਨੂੰ\PSP ਭਾਰਤ\N_NNP ਦਾ\PSP ਮਾਈਕਲ\N_NNP ਜੈਕਸਨ\N_NNP ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3619	ਮੇਰੇ\PR_PRP ਖਿਆਲ\N_NN ਨਾਲ\PSP ਮੇਰਾ\PR_PRP ਡਾਂਸ\N_NN ਦੇਖ\V_VM ਕੇ\RP_RPD ਲੋਕ\N_NN ਪਾਪਾ\N_NN ਨਾਲ\PSP ਮੇਰਾ\PR_PRP ਮੁਕਾਬਲਾ\N_NN ਕਰਨਾ\V_VM_VINF ਛੱਡ\V_VM ਦੇਣਗੇ\V_VM_VF |\RD_PUNC
+PBED3620	ਸਿਲਵਰ\N_NN ਸਕਰੀਨ\N_NN ਦਾ\PSP ਸ਼ਿੰਗਾਰ\N_NN ਬਣੀਆਂ\V_VM_VF ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਦੇਸੀ\N_NNP ਬੁਆਏਜ਼\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਜੋਕਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਇਨਕਾਰ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਆਈ\N_NNP ਮੀ\N_NNP ਔਰ\N_NNP ਮੈਂ\N_NNP `\RD_PUNC ਆਦਿ\RP_CL ਨਾਲ\PSP ਦਰਸ਼ਕਾਂ\N_NN `\RD_PUNC ਚ\PSP ਚਰਚਾ\N_NN ਦਾ\PSP ਵਿਸ਼ਾ\N_NN ਬਣੀ\V_VM_VINF ਅਭਿਨੇਤਰੀ\N_NN ਚਿਤਰਾਂਗਦਾ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਭਾਵੇਂ\RB ਗ੍ਰਹਿਸਥੀ\N_NN ਜੀਵਨ\N_NN ਪੂਰੀ\JJ ਤਰਾਂ\PSP ਰਾਸ\N_NN ਨਹੀਂ\RP_NEG ਆਇਆ\V_VM_VF |\RD_PUNC
+PBED3621	ਪਰ\CC_CCS ਬਾਲੀਵੁੱਡ\N_NN ਜ਼ਰੂਰ\JJ ਉਸ\PR_PRP ਨੂੰ\PSP ਹੱਥੀਂ\N_NN ਛਾਵਾਂ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3622	ਸਫ਼ਲਤਾ\N_NN ਲਈ\PSP ਡੱਟਵਾਂ\V_VM_VF ਸੰਘਰਸ਼\N_NN ਕਰਨ\V_VM_VNF ਦਾ\PSP ਜਿਗਰਾ\N_NN ਰੱਖਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਚਿਤਰਾਂਗਦਾ\N_NNP ਇਨੀ\DM_DMR ਦਿਨੀਂ\N_NN ਕਈ\QT_QTF ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਰਾਹੀਂ\PSP ਆਪਣੇ\PR_PRF ਚਾਹੁਣ\V_VM_VNF ਵਾਲਿਆਂ\V_VM_VF ਦੇ\PSP ਰੁਬਰੂ\N_NN ਹੋਣ\V_VM_VNF ਦੀ\PSP ਤਿਆਰੀ\N_NN ਵਿਚ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3623	ਮਹਾਨਾਇਕ\N_NN ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਨਾਲ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਨਿਰਮਾਣ\N_NN ਅਧੀਨ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਮੇਹਰੁ\N_NNP ਨਿਸਾ\N_NNP `\RD_PUNC ਹੁਣ\RB `\RD_PUNC ਪਹਿਲੇ\N_NNP ਆਪ\N_NNP ਜਨਾਬ\N_NNP `\RD_PUNC ਨਾਂਅ\N_NN ਹੇਠ\RB ਪ੍ਰਦਰਸ਼ਿਤ\N_NN ਹੋਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3624	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਲਾਵਾ\RB `\RD_PUNC ਨਵਾਬ\N_NNP ਦਾ\N_NNP ਕਾਊਚ\N_NNP `\RD_PUNC ਅਤੇ\CC_CCD `\RD_PUNC ਔਰ\N_NNP ਦੇਵਦਾਸ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਪਿ੍ਤੀਸ਼\N_NNP ਨੰਦੀ\N_NNP ਦੇ\PSP ਪੁੱਤਰ\N_NN ਕੁਸ਼ਾਨ\N_NNP ਵੱਲੋਂ\PSP ਬਣਾਈ\V_VM_VINF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN ਨਾਲ\PSP ਵੀ\RP_RPD ਫ਼ਿਲਮ\N_NN ਪ੍ਰੇਮੀਆਂ\N_NN ਦੀ\PSP ਨਜ਼ਰ\N_NN ਵਿਚ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3625	ਕਾਮੇਡੀ\N_NN ਭਰਪੂਰ\N_NN ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਉਸ\PR_PRP ਦੇ\PSP ਨਾਇਕ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਨਵਾਜੂਦੀਨ\N_NNP ਸਿੱਦੀਕੀ\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3626	`\RD_PUNC ਅਨਜਾਣ\N_NNP `\RD_PUNC ਨਾਮਕ\N_NN ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN ਨਾਲ\PSP ਤਾਮਿਲ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਪ੍ਰਵੇਸ਼\N_NN ਕਰ\V_VM ਗਈ\V_VM_VF ਚਿਤਰਾਂਗਦਾ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX |\RD_PUNC
+PBED3627	ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਪ੍ਰਭਾਵਸ਼ਾਲੀ\N_NN ਕਲਾ\N_NN ਦਾ\PSP ਹੀ\RP_RPD ਇਹ\DM_DMD ਨਤੀਜਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3628	ਕਿ\CC_CCS ਅਜੋਕੇ\RB ਸਮੇਂ\N_NN ਵਿਚ\PSP ਵੱਡੇ-ਵੱਡੇ\JJ ਫ਼ਿਲਮਕਾਰ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਕੰਮ\N_NN ਦੇ\PSP ਰਹੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3629	ਉਹ\PR_PRP ਇਹ\N_NN ਵੀ\RP_RPD ਮੰਨਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਨਾਲ\PSP ਫ਼ਿਲਮਾਂ\N_NN `\RD_PUNC ਪਹਿਲੇ\N_NNP ਆਪ\N_NNP ਜਨਾਬ\N_NNP `\RD_PUNC ਕਰਕੇ\V_VM_VF ਉਸ\PR_PRP ਦਾ\PSP ਫ਼ਿਲਮੀ\N_NN ਗ੍ਰਾਫ\N_NN ਉੱਚਾ\JJ ਉਠੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3630	ਚਿਤਰਾਂਗਦਾ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਜ਼ਿੰਦਗੀ\N_NN ਵਿਚ\PSP ਆਈ\V_VM_VF ਕਿਸੇ\DM_DMQ ਵੀ\RP_RPD ਤਰ੍ਹਾਂ\PSP ਦੀ\PSP ਮੁਸ਼ਕਿਲ\N_NN ਨੂੰ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਕਦੇ\RB ਦਿਲ\N_NN ਉੱਤੇ\RB ਨਹੀਂ\RP_NEG ਲਾਇਆ\V_VM_VF ।\RD_PUNC
+PBED3631	ਲਿਹਾਜ਼ਾ\N_NN ਪਰਿਵਾਰਕ\N_NN ਉਲਝਣਾਂ\N_NN ਦਾ\PSP ਆਉਣ\V_VM_VNF ਵਾਲੇ\V_VM_VF ਸਮੇਂ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਹੌਾਸਲਾ\N_NN ਰੱਖ\V_VM ਕੇ\RP_RPD ਮੁਕਾਬਲਾ\N_NN ਕਰੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3632	ਦਿੱਲੀ\N_NNP ਵਿਚ\PSP ਜਨਮੀ\N_NN ਤੇ\CC_CCD ਪਲੀ\N_NN ਕ੍ਰਿਤੀ\N_NNP ਸੈਨਨ\N_NNP ਪਹਿਲਾਂ\RB ਮਾਡਲ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBED3633	ਪਰ\CC_CCS ਹੁਣ\RB ਉਹ\PR_PRP ਨਾਇਕਾ\N_NN ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RB `\RD_PUNC ਹੀਰੋਪੰਤੀ\N_NNP `\RD_PUNC ਰਾਹੀਂ\PSP ਬਾਲੀਵੁੱਡ\N_NN ਦੇ\PSP ਆਸਮਾਨ\N_NN ਵਿਚ\PSP ਚਮਕਣ\V_VM_VNF ਲਈ\PSP ਆ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3634	ਕ੍ਰਿਤੀ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਪਹਿਲੀ\QT_QTO ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਹੀਰੋ\N_NN ਹਨ\V_VAUX ਟਾਈਗਰ\N_NNP ਸ਼ਰਾਫ\N_NNP ਜੋ\DM_DMR ਅਭਿਨੇਤਾ\N_NN ਜੈਕੀ\N_NNP ਸ਼ਰਾਫ\N_NNP ਦੇ\PSP ਬੇਟੇ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3635	ਉਹ\PR_PRP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC `\RD_PUNC ਮੈਂ\PR_PRP ਨਾ\RP_NEG ਤਾਂ\PSP ਸਟਾਰ\N_NN ਪੁੱਤਰੀ\N_NN ਹਾਂ\V_VAUX ,\RD_PUNC ਨਾ\RP_NEG ਹੀ\RP_RPD ਫ਼ਿਲਮੀ\N_NN ਪਰਿਵਾਰ\N_NN ਤੋਂ\PSP ਹਾਂ\V_VAUX ਜਦੋਂ\PR_PRL ਕਿ\CC_CCS ਟਾਈਗਰ\N_NNP ਨਾਮੀ\JJ ਐਕਟਰ\N_NN ਦੇ\PSP ਬੇਟੇ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3636	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਉਹ\PR_PRP ਹੀ\RP_RPD ਮੁੱਖ\JJ ਭੂਮਿਕਾ\N_NN ਵਿਚ\PSP ਰਹਿਣਗੇ,\V_VM_VF ਇਹ\DM_DMD ਗੱਲ\N_NN ਮੈਂ\PR_PRP ਚੰਗੀ\JJ ਤਰ੍ਹਾਂ\PSP ਜਾਣਦੀ\V_VM_VF ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3637	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਦੀ\PSP ਗੱਲ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ਕਿ\CC_CCS ਕ੍ਰਿਤੀ\N_NNP ਦਾ\PSP ਚਿਹਰਾ\N_NN ਦਰਸ਼ਕਾਂ\N_NN ਲਈ\PSP ਇਕਦਮ\N_NN ਅਣਜਾਣਿਆ\V_VM_VF ਜਿਹਾ\DM_DMR ਹੈ\V_VAUX |\RD_PUNC
+PBED3638	ਉਹ\PR_PRP ਕਈ\QT_QTF ਉਤਪਾਦਾਂ\N_NN ਲਈ\PSP ਬਣਾਏ\V_VM_VF ਇਸ਼ਤਿਹਾਰਾਂ\N_NN ਵਿਚ\PSP ਕੰਮ\N_NN ਕਰ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3639	ਇਕ\QT_QTC ਮੋਬਾਈਲ\N_NN ਦੀ\PSP ਐਡ\N_NN ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਉਹ\PR_PRP ਆਮਿਰ\N_NNP ਖਾਨ\N_NNP ਨਾਲ\PSP ਸੀ\V_VAUX |\RD_PUNC
+PBED3640	ਇਹਨਾਂ\DM_DMD ਐਡ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਵਜਾ\N_NN ਕਰਕੇ\V_VM_VF ਹੀ\RP_RPD ਕ੍ਰਿਤੀ\N_NNP ਨੂੰ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3641	ਹੋਇਆ\V_VM_VF ਇੰਜ\DM_DMR ਕਿ\CC_CCS `\RD_PUNC ਹੀਰੋਪੰਤੀ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਿਰਦੇਸ਼ਕ\N_NN ਸਾਬਿਰ\N_NNP ਖਾਨ\N_NNP ਆਪਣੀ\PR_PRF ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਨਵਾਂ\N_NN ਚਿਹਰਾ\N_NN ਲੱਭ\V_VM ਰਹੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3642	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਨਜ਼ਰ\N_NN ਕਲੋਜ਼\N_NNP ਅੱਪ\N_NNP ਟੁੱਥਪੇਸਟ\N_NN ਦੀ\PSP ਐਡ\N_NN ਉੱਤੇ\RB ਗਈ\V_VM_VF ਅਤੇ\CC_CCD ਕ੍ਰਿਤੀ\N_NNP ਦੇ\PSP ਚਿਹਰੇ\N_NN ਨੂੰ\PSP ਦੇਖ\V_VM ਕੇ\RP_RPD ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਲੱਗਿਆ\V_VM_VF ਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਭਾਲ\N_NN ਪੂਰੀ\JJ ਹੋ\V_VM ਗਈ\V_VM_VF ।\RD_PUNC
+PBED3643	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਐਡ\N_NN ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਬਦੌਲਤ\N_NN ਕ੍ਰਿਤੀ\N_NNP ਨੂੰ\PSP ਏਨਾ\QT_QTF ਵੱਡਾ\JJ ਮੌਕਾ\N_NN ਮਿਲ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3644	`\RD_PUNC ਹੀਰੋਪੰਤੀ\N_NNP `\RD_PUNC ਵਰਗੀ\V_VM_VF ਵੱਡੀ\JJ ਫ਼ਿਲਮ\N_NN ਹਾਸਲ\N_NN ਕਰਨ\V_VM_VNF ਬਾਰੇ\N_NN ਕ੍ਰਿਤੀ\N_NNP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC `\RD_PUNC ਮੈਂ\PR_PRP ਖੁਦ\PR_PRF ਨੂੰ\PSP ਲੱਕੀ\N_NN ਮੰਨਦੀ\V_VM_VF ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3645	ਬਿਨਾਂ\RP_NEG ਕੋਈ\QT_QTF ਸੰਘਰਸ਼\N_NN ਕੀਤੇ\V_VM_VF ਮੈਨੂੰ\PR_PRP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਮਿਲ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3646	ਹੁਣ\RB ਜਦੋਂ\PR_PRL ਮੈਂ\PR_PRP ਪਿੱਛੇ\N_NN ਮੁੜ\V_VM ਕੇ\RP_RPD ਦੇਖਦੀ\V_VM_VF ਹਾਂ\V_VAUX ਤਾਂ\PSP ਲਗਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉੱਪਰ\RB ਵਾਲੇ\PSP ਦੀ\PSP ਮਿਹਰਬਾਨੀ\N_NN ਮੇਰੇ\PR_PRP `\RD_PUNC ਤੇ\RB ਜ਼ਿਆਦਾ\JJ ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC `\RD_PUNC
+PBED3647	ਕ੍ਰਿਤੀ\N_NNP ਦੇ\PSP ਪਿਤਾ\N_NN ਚਾਰਟਡ\N_NN ਅਕਾਊਾਟੈਂਟ\N_NN ਹਨ\V_VAUX ਤੇ\CC_CCD ਮਾਂ\N_NN ਫਿਜ਼ਿਕਸ\N_NN ਦੀ\PSP ਪ੍ਰੋਫੈਸਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3648	ਖ਼ੁਦ\PR_PRF ਕ੍ਰਿਤੀ\N_NNP ਨੇ\PSP ਬੀ-ਟੈੱਕ\N_NN ਦੀ\PSP ਪੜ੍ਹਾਈ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3649	ਉਹ\PR_PRP ਇੰਜੀਨੀਅਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3650	ਦਿੱਲੀ\N_NNP ਵਿਚ\PSP ਪੜਾਈ\N_NN ਦੌਰਾਨ\RB ਕ੍ਰਿਤੀ\N_NNP ਨੇ\PSP ਸ਼ੌਕੀਆ\N_NN ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਮਾਡਿਲੰਗ\N_NN ਸ਼ੁਰੂ\RB ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBED3651	ਇਸ\DM_DMD ਦੀ\PSP ਬਦੌਲਤ\N_NN ਉਹ\PR_PRP ਇਕ\QT_QTC ਐਡ\N_NN ਏਜੰਸੀ\N_NN ਦਾ\PSP ਇਕਰਾਰ\N_NN ਹਾਸਲ\N_NN ਕਰਨ\V_VM_VNF ਵਿਚ\PSP ਕਾਮਯਾਬ\N_NN ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3652	ਕ੍ਰਿਤੀ\N_NNP ਮੁੰਬਈ\N_NNP ਆ\V_VM ਕੇ\RP_RPD ਗਲੈਮਰ\N_NN ਦੀ\PSP ਦੁਨੀਆ\N_NN ਦਾ\PSP ਹਿੱਸਾ\N_NN ਬਣਨਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3653	ਪਰ\CC_CCS ਪਿਤਾ\N_NN ਦੀ\PSP ਇੱਛਾ\N_NN ਸੀ\V_VAUX ਕਿ\CC_CCS ਪੜਨ-ਲਿਖਣ\V_VM_VNG ਵਿਚ\PSP ਤੇਜ਼\JJ ਉਹਨਾ\PR_PRL ਦੀ\PSP ਬੇਟੀ\N_NN ਐਮ.\N_NN ਬੀ.\N_NN ਏ.\N_NN ਦੀ\PSP ਪੜਾਈ\N_NN ਕਰੇ\V_VM_VF |\RD_PUNC
+PBED3654	ਆਖਿਰ\RB ਆਪਣੇ\PR_PRF ਘਰ\N_NN ਵਾਲਿਆਂ\N_NN ਨੂੰ\PSP ਮਨਾ\N_NN ਕੇ\RP_RPD ਕ੍ਰਿਤੀ\N_NNP ਮਾਇਆ\N_NN ਨਗਰੀ\N_NN ਮੁੰਬਈ\N_NNP ਆ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3655	ਇਥੇ\DM_DMR ਆ\V_VM ਕੇ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਵਨ\N_NNP `\RD_PUNC ਮਿਲੀ\V_VM_VF ਜਿਸ\PR_PRL ਵਿਚ\PSP ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਦੇ\PSP ਸੁਪਰ\N_NN ਸਟਾਰ\N_NN ਮਹੇਸ਼\N_NNP ਬਾਬੂ\N_NNP ਹੀਰੋ\N_NN ਸਨ\V_VAUX |\RD_PUNC
+PBED3656	ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਇਸੇ\DM_DMR ਸਾਲ\N_NN ਜਨਵਰੀ\N_NNP ਵਿਚ\PSP ਰਿਲੀਜ਼\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3657	`\RD_PUNC ਵਨ\N_NNP `\RD_PUNC ਹਾਲੇ\RB ਬਣ\V_VM ਹੀ\RP_RPD ਰਹੀ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਕ੍ਰਿਤੀ\N_NNP ਨੂੰ\PSP `\RD_PUNC ਹੀਰੋਪੰਤੀ\N_NNP `\RD_PUNC ਮਿਲ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3658	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਦਾਖਲਾ\N_NN ਮਿਲ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3659	ਕ੍ਰਿਤੀ\N_NNP ਨੇ\PSP ਕਦੀ\RB ਇਹ\DM_DMD ਨਹੀਂ\RP_NEG ਸੋਚਿਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਆਪਣੀ\PR_PRF ਪਹਿਲੀ\QT_QTO ਹੀ\RP_RPD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਜੈਕੀ\N_NNP ਸ਼ਰਾਫ\N_NNP ਦੇ\PSP ਬੇਟੇ\N_NN ਉਸ\PR_PRP ਦੇ\PSP ਹੀਰੋ\N_NN ਹੋਣਗੇ\V_VM_VF |\RD_PUNC
+PBED3660	ਇਸ\DM_DMD ਬਾਰੇ\N_NN ਉਹ\PR_PRP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC `\RD_PUNC ਇਹ\DM_DMD ਸਭ\QT_QTF ਕਿਸਮਤ\N_NN ਦੀ\PSP ਖੇਡ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3661	ਜਦੋਂ\PR_PRL ਮੈਂ\PR_PRP ਅੱਠ\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਸੀ\V_VAUX ,\RD_PUNC ਉਦੋਂ\DM_DMR ਦਿੱਲੀ\N_NNP ਵਿਚ\PSP ਕਿਸੇ\DM_DMQ ਦੇ\PSP ਵਿਆਹ\N_NN ਵਿਚ\PSP ਗਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3662	ਉਸ\PR_PRP ਵਿਆਹ\N_NN ਵਿਚ\PSP ਜੈਕੀ\N_NNP ਸ਼ਰਾਫ\N_NN ਵੀ\RP_RPD ਪਹੁੰਚੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBED3663	ਉਹ\PR_PRP ਵੱਡੇ\JJ ਸਟਾਰ\N_NN ਸਨ\V_VAUX ਅਤੇ\CC_CCD ਉਦੋਂ\DM_DMR ਮੈਂ\PR_PRP ਉਹਨਾਂ\PR_PRP ਨਾਲ\PSP ਤਸਵੀਰ\N_NN ਖਿਚਵਾਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3664	ਉਸ\PR_PRP ਤਸਵੀਰ\N_NN ਵਿਚ\PSP ਜੈਕੀ\N_NNP ਨੇ\PSP ਜੋ\DM_DMR ਟੋਪੀ\N_NN ਪਾਈ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਉੱਤੇ\RB ਟਾਈਗਰ\N_NNP ਲਿਖਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3665	ਉਦੋਂ\DM_DMR ਮੈਨੂੰ\PR_PRP ਇਹ\DM_DMD ਪਤਾ\N_NN ਨਹੀਂ\RP_NEG ਸੀ\V_VAUX ਕਿ\CC_CCS ਉਹਨਾ\PR_PRP ਨੇ\PSP ਆਪਣੇ\PR_PRF ਬੇਟੇ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਆਪਣੀ\PR_PRF ਟੋਪੀ\N_NN `\RD_PUNC ਤੇ\RB ਲਿਖਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3666	ਉਦੋਂ\DM_DMR ਮੈਂ\PR_PRP ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਸੋਚਿਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਭਵਿੱਖ\RB ਵਿਚ\PSP ਇਸੇ\DM_DMD ਟਾਈਗਰ\N_NNP ਦੀ\PSP ਹੀਰੋਇਨ\N_NN ਦੇ\PSP ਤੌਰ\RB ਉੱਤੇ\RB ਮੈਨੂੰ\PR_PRP ਮੌਕਾ\N_NN ਮਿਲੇਗਾ\V_VM_VF |\RD_PUNC `\RD_PUNC
+PBED3667	ਕਾਮਯਾਬੀ\N_NN ਉਸ\PR_PRP ਦੇ\PSP ਕਦਮ\N_NN ਚੁੰਮ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3668	ਨਪੂਰ\N_NNP ਅਸਥਾਨਾ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਬੇਵਕੂਫੀਆਂ\N_NNP `\RD_PUNC ਹੋਵੇ\V_VM_VF ਜਾਂ\CC_CCD ਫਿਰ\RB `\RD_PUNC ਰਾਂਝਣਾ\N_NNP `\RD_PUNC ਮੌਲਿਕ\N_NN ਅਭਿਨੈ\N_NN ਸੋਨਮ\N_NNP `\RD_PUNC ਚੋਂ\PSP ਨਜ਼ਰ\N_NN ਆਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3669	`\RD_PUNC ਖੂਬਸੂਰਤ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਮਿਰਜ਼ਾ\N_NNP ਸਾਹਿਬਾਂ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਕਮ\N_NNP ਆਨ\N_NNP ਪੱਪੂ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਪ੍ਰੇਮ\N_NNP ਰਤਨ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਡੌਲੀ\N_NNP ਕੀ\N_NNP ਡੋਲੀ\N_NNP `\RD_PUNC ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਅਨਿਲ\N_NNP ਕਪੂਰ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਲਾਡਲੀ\JJ ਧੀ\N_NN ਕੋਲ\RB ਹਨ\V_VAUX ।\RD_PUNC
+PBED3670	ਫੈਸ਼ਨਾਂ\N_NN ਦੀ\PSP ਰਾਣੀ\N_NN ਕਹਿ\V_VM ,\RD_PUNC ਕੇ\RP_RPD ਉਸ\PR_PRP ਦੇ\PSP ਤਵੇ\N_NN ਲਾਉਣ\V_VM_VNF ਵਾਲੇ\V_VM_VF ਆਲੋਚਕ\N_NN ਵੀ\RP_RPD ਮੂੰਹ\N_NN ਬੰਦ\N_NN ਕਰਕੇ\V_VM_VF ਬੈਠ\N_NN ਗਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3671	ਸ਼ੁਰੂ\RB ਵਿਚ\PSP ਸੋਨਮ\N_NNP ਦਾ\PSP ਮਖੌਲ\N_NN ਉਡਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਸੀ।\RD_PUNC
+PBED3672	ਬਹੁਤ\QT_QTF ਟੈਨਸ਼ਨ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਦਿੱਤੀ\V_VM_VF ਗਈ\V_VM_VF ਤੇ\CC_CCD ਮੀਡੀਆ\N_NN ਵੀ\RP_RPD ਉਸ\PR_PRP ਦੇ\PSP ਖਿਲਾਫ਼\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBED3673	ਪੰਜ\QT_QTC ਵਰਿਆਂ\N_NN ਵਿਚ\PSP ਸੋਨਮ\N_NNP ਨੇ\PSP ਇਹ\DM_DMD ਸਭ\QT_QTF ਬਦਲ\N_NN ਕੇ\RP_RPD ਰੱਖ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3674	ਸਾਦਗੀ\JJ ਅੱਜ\RB ਉਸ\PR_PRP ਦਾ\PSP ਮੁੱਖ\JJ ਗੁਣ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3675	`\RD_PUNC ਬੇਵਕੂਫ਼ੀਆਂ\N_NNP `\RD_PUNC ਦਾ\PSP ਲਾਭ\N_NN ਇਹ\DM_DMD ਕਿ\CC_CCS ਅਦਿੱਤਯ\N_NNP ਚੋਪੜਾ\N_NNP ਨੇ\PSP ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਨਾਲ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਨਾਇਕਾ\N_NN ਲੈਣ\V_VM_VNF ਦਾ\PSP ਮਨ\N_NN ਬਣਾ\V_VM_VINF ਲਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3676	ਸਭ\QT_QTF ਠੀਕ\N_NN ਰਿਹਾ\V_VM_VF ਤਾਂ\PSP ਯਸ਼ਰਾਜ\N_NNP ਫ਼ਿਲਮਜ਼\N_NNP ਦੀ\PSP ਨਵੀਂ\JJ ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਰਈਸ\N_NNP `\RD_PUNC `\RD_PUNC ਚ\PSP ਸ਼ਾਹਰੁਖ-ਸੋਨਮ\N_NNP ਕਪੂਰ\N_NNP ਦੀ\PSP ਜੋੜੀ\N_NN ਹੋਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBED3677	ਭਾਗ\N_NNP ਮਿਲਖਾ\N_NNP ਭਾਗ\N_NNP ਤੋਂ\PSP ਹੀ\RP_RPD ਉਸ\PR_PRP ਦੇ\PSP ਦਿਨ\N_NN ਚੰਗੇ\JJ ਸ਼ੁਰੂ\RB ਹੋਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3678	ਕੈਟ\N_NNP ,\RD_PUNC ਡਿੱਪੀ\N_NNP ਤੇ\CC_CCD ਪ੍ਰਿਅੰਕਾ\N_NNP ਦੇ\PSP ਰੁਝੇਵੇਂ\N_NN ਵੀ\RP_RPD ਸੋਨਮ\N_NNP ਲਈ\PSP ਵਰ\N_NN ਆ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3679	ਨਿਰਮਾਤਾ\N_NN ਉਸ\PR_PRP ਸਬੰਧੀ\N_NN ਸੋਚ\N_NN ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3680	ਨਿਰਦੇਸ਼ਕਾ\N_NN ਬਣਦੀ-ਬਣਦੀ\V_VM_VNG ਨਾਇਕਾ\N_NN ਬਣੀ\V_VM_VINF ਸੋਨਮ\N_NNP ਘੱਟ\QT_QTF ਸੋਹਣੀ\N_NN ਹੋਣ\V_VM_VNF ਦੇ\PSP ਬਾਵਜੂਦ\N_NN ਅੱਜ\RB `\RD_PUNC ਖੂਬਸੂਰਤ\N_NN `\RD_PUNC ਬਣੀ\V_VM_VINF ਹੋਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3681	ਚਹੇਤੇ\N_NN ਤਾਂ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਆਪਣੀ\PR_PRF ਆਈਕਾਨ\N_NN ਮੰਨਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3682	ਵੈਸੇ\CC_CCS ਕੈਟਰੀਨਾ\N_NNP ਕੈਫ਼\N_NNP ਉਸ\PR_PRP ਨੂੰ\PSP ਜ਼ਹਿਰ\N_NN ਦਿਖਾਈ\V_VM_VF ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3683	ਕੁਝ\QT_QTF ਗ਼ਲਤ\N_NN ਹੋਵੇ\V_VM_VF ਤਾਂ\PSP ਉਹ\PR_PRP ਚੁੱਪ\V_VM ਨਹੀਂ\RP_NEG ਰਹਿੰਦੀ\V_VM_VF ।\RD_PUNC
+PBED3684	ਇਸ\DM_DMD ਕਰਕੇ\V_VM_VF ਹੀ\RP_RPD ਸੋਨਮ\N_NNP ਨੂੰ\PSP ਵਿਵਾਦ\N_NN ਘੇਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3685	ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਖੁਸ਼ਕਿਸਮਤ\N_NN ਵਾਲਾ\V_VM_VF ਸਟਾਰ\N_NN ਮੰਨਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3686	ਜਿਸ\PR_PRL ਦੀਆਂ\PSP ਸੁਪਰ-ਡੁਪਰ\RD_ECH ਹਿੱਟ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਨੇ\PSP ਕਈ\QT_QTF ਰਿਕਾਰਡ\N_NN ਤੋੜੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3687	ਚਾਹੇ\RB ਉਹ\PR_PRP `\RD_PUNC ਚੇਨਈ\N_NNP ਐਕਸਪ੍ਰੈੱਸ\N_NNP `\RD_PUNC ਹੋਵੇ\V_VM_VF ਜਾਂ\CC_CCD ਫਿਰ\RB `\RD_PUNC ਡਾਨ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ।\RD_PUNC
+PBED3688	ਇਹ\DM_DMD ਸਾਰੀਆਂ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN 100\QT_QTC ਕਰੋੜ\QT_QTC ਕਲੱਬ\N_NN ਵਿਚ\PSP ਹਨ।\V_VAUX
+PBED3689	ਅੱਜ\RB ਕਲ\RB ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਨੂੰ\PSP ਆਪਣੀ\PR_PRF ਦੀਵਾਲੀ\N_NN `\RD_PUNC ਤੇ\RB ਰਿਲੀਜ਼\N_NN ਹੋਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਹੈਪੀ\N_NNP ਨਿਊ\N_NNP ਈਅਰ\N_NNP `\RD_PUNC ਦਾ\PSP ਬੇਸਬਰੀ\N_NN ਨਾਲ\PSP ਇੰਤਜ਼ਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3690	ਜਿਸ\PR_PRL ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਕੰਪਨੀ\N_NN `\RD_PUNC ਰੈੱਡ\N_NNP ਚਿਲੀਜ਼\N_NNP `\RD_PUNC ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3691	ਨਿਰਮਾਤਾ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਪਤਨੀ\N_NN ਗੌਰੀ\N_NNP ਖ਼ਾਨ\N_NNP ਤੇ\CC_CCD ਨਿਰਦੇਸ਼ਕ\N_NN ਫਰਾਹ\N_NNP ਖ਼ਾਨ\N_NNP ਹੈ\V_VAUX ।\RD_PUNC
+PBED3692	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨੂੰ\PSP ਯਸ਼ਰਾਜ\N_NNP ਫ਼ਿਲਮਜ਼\N_NNP ਵੱਡੇ\JJ ਪੈਮਾਨੇ\N_NN ਉੱਤੇ\RB ਦੇਸ਼\N_NN ਅਤੇ\CC_CCD ਵਿਦੇਸ਼\N_NN `\RD_PUNC ਚ\PSP ਰਿਲੀਜ਼\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3693	ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਨਾਇਕਾ\N_NN ਦੀਪਿਕਾ\N_NNP ਪਾਦੂਕੋਨ\N_NNP ਹੈ\V_VAUX ।\RD_PUNC
+PBED3694	ਅਭਿਸ਼ੇਕ\N_NNP ਬਚਨ\N_NNP ,\RD_PUNC ਬੋਮਨ\N_NNP ਇਰਾਨੀ\N_NNP ,\RD_PUNC ਸੋਨੂੰ\N_NNP ਸੂਦ\N_NNP ਤੇ\CC_CCD ਵਿਵਾਨ\N_NNP ਸ਼ਾਹ\N_NNP ਆਦਿ\RP_CL ਕਲਾਕਾਰ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBED3695	ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN 23\QT_QTC ਅਕਤੂਬਰ\N_NNP ਨੂੰ\PSP ਤਿੰਨ\QT_QTC ਭਾਸ਼ਾਵਾਂ\N_NN ਵਿਚ\PSP ਲੱਗ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3696	ਇਹ\DM_DMD ਐਕਸ਼ਨ\N_NN ਥਰਿਲਰ\N_NN ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3697	ਫਰਾਹ\N_NNP ਖ਼ਾਨ\N_NNP ਨਾਲ\PSP ਮੇਰੀ\PR_PRP ਤੀਜੀ\QT_QTO ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3698	ਇਸ\DM_DMD ਤੋਂ\PSP ਪਹਿਲਾਂ\QT_QTO `\RD_PUNC ਮੈਂ\N_NNP ਹੂੰ\N_NNP ਨਾ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਓਮ\N_NNP ਸ਼ਾਂਤੀ\N_NNP ਓਮ\N_NNP `\RD_PUNC ਆਦਿ\RP_CL ਦਾ\PSP ਨਿਰਦੇਸ਼ਨ\N_NN ਵੀ\RP_RPD ਫਰਾਹ\N_NNP ਖ਼ਾਨ\N_NNP ਦਾ\PSP ਹੀ\RP_RPD ਸੀ\V_VAUX ।\RD_PUNC
+PBED3699	ਫ਼ਿਲਮੀ\N_NN ਸੂਤਰਾਂ\N_NN ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਕਾਫੀ\QT_QTF ਦੇਰ\RB ਪਹਿਲਾਂ\QT_QTO ਹੀ\RP_RPD ਕਾਫ਼ੀ\QT_QTF ਮਹਿੰਗੀ\N_NN ਵਿਕੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3700	ਜਿਸ\PR_PRL ਵਿਚ\PSP ਵਿਤਰਣ\N_NN ,\RD_PUNC ਸੈਟੇਲਾਈਟ\N_NN ,\RD_PUNC ਵਿਦੇਸ਼ੀ\N_NN ਵਿਦੇਸ਼ੀ\N_NN ਰਿਲੀਜ਼\N_NN ,\RD_PUNC ਸੰਗੀਤ\N_NN ਆਦਿ\RP_CL ਤੋਂ\PSP 200\QT_QTC ਕਰੋੜ\QT_QTC ਤੋਂ\PSP ਵੱਧ\RB ਦੀ\PSP ਕਮਾਈ\N_NN ਹੋ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3701	ਨਿਰਦੇਸ਼ਕ\N_NN ਨਿਤੇਸ਼\N_NNP ਤਿਵਾੜੀ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਭੂਤਨਾਥ\N_NNP ਰਿਟਰਨਜ਼\N_NNP `\RD_PUNC ਵਿਚ\PSP ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਮਹਿਮਾਨ\N_NN ਭੂਮਿਕਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3702	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਮੁੱਖ\JJ ਭੂਮਿਕਾ\N_NN ਅਮਿਤਾਬ\N_NNP ਬਚਨ\N_NNP ਦੀ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBED3703	ਦਸ\QT_QTC ਸਾਲ\N_NN ਪਹਿਲਾਂ\RB `\RD_PUNC ਮਿਸ\N_NN ਵਰਲਡ\N_NN `\RD_PUNC ਦਾ\PSP ਤਾਜ\N_NN ਪਹਿਨਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਐਸ਼ਵਰਿਆ\N_NNP ਰਾਏ\N_NNP ਨੇ\PSP ਮਹੇਸ਼\N_NNP ਬਾਬੂ\N_NNP ਦੀ\PSP ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਛੱਡ\V_VM ਦਿੱਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3704	ਹੁਣ\RB ਉਹ\PR_PRP ਫ਼ਿਲਮ\N_NN ਅਸਿਨ\N_NNP ਨੂੰ\PSP ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3705	ਆਪਣੇ\PR_PRF ਚਹੇਤੇ\N_NN ਫ਼ਿਲਮਕਾਰ\N_NN ਮਣੀ\N_NNP ਰਤਨਮ\N_NNP ਨਾਲ\PSP ਇਕ\QT_QTC ਬਾਲੀਵੁੱਡ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਜ਼ਰੂਰ\N_NN ਬੱਚਨ\N_NNP ਪਰਿਵਾਰ\N_NN ਦੀ\PSP ਇਹ\DM_DMD ਮਾਣਮੱਤੀ\N_NN ਨੂੰਹ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3706	ਐਸ਼\N_NNP ਸੰਸਕਾਰੀ\N_NN ਔਰਤ\N_NN ਹੈ\V_VAUX ਤੇ\CC_CCD ਸ਼ੁਰੂ\RB ਵਿਚ\PSP ਹੀ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਮਾਂ\N_NN ਦੀ\PSP ਪਸੰਦ\N_NN ਨੂੰ\PSP ਤਰਜੀਹ\N_NN ਦਿੱਤੀ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBED3707	ਐਸ਼\N_NNP ਨੇ\PSP ਸੁਭਾਸ਼\N_NNP ਘਈ\N_NNP ਦੀ\PSP ਨਵੀਂ\JJ ਖੋਜ\N_NN ਮਿਸ਼ਠੀ\N_NNP ਦੀ\PSP ਜ਼ਰੂਰ\N_NN ਪ੍ਰਸੰਸਾ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3708	ਐਸ਼\N_NNP ਦੀਆਂ\PSP ਗੱਲਾਂ\N_NN `\RD_PUNC ਤੇ\RB ਘੱਟ\QT_QTF ਹੀ\RP_RPD ਵਿਵਾਦ\N_NN ਹੁੰਦੇ\V_VM_VF ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3709	ਸੁਸ਼ਮਿਤਾ\N_NNP ਸੇਨ\N_NNP ਨਾਲ\PSP ਜ਼ਰੂਰ\JJ ਉਸ\PR_PRP ਦੀ\PSP ਖਟਪਟ\N_NN ਹੋਈ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBED3710	ਸਹੁਰੇ\N_NN ਅਮਿਤਾਬ\N_NNP ਬੱਚਨ\N_NNP ਦੇ\PSP ਨਕਸ਼ੇ\N_NN ਕਦਮਾਂ\N_NN ਉੱਤੇ\RB ਚੱਲ\V_VM ਰਹੀ\V_VM_VF ਐਸ਼\N_NNP ਦੀ\PSP ਅੱਜ\RB ਵੀ\RP_RPD ਇੱਛਾ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS `\RD_PUNC ਆਸਕਰ\N_NNP `\RD_PUNC ਜਿਹੀਆਂ\DM_DMR ਵੱਡੀਆਂ\JJ ਟਰਾਫੀਆਂ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਬੈਠਕ\N_NN ਦਾ\PSP ਸ਼ਿੰਗਾਰ\N_NN ਬਣਨ\V_VM_VNF ।\RD_PUNC
+PBED3711	ਸਮਾਂ\N_NN ਮਿਲਿਆ\V_VM_VF ਤਾਂ\PSP ਫ਼ਿਲਮ\N_NN ਉੱਤੇ\RB ਇਕ\QT_QTC ਅਫਸਾਨਾ\N_NN ਲਿਖਣ\V_VM_VNF ਦੀ\PSP ਤਮੰਨਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3712	`\RD_PUNC ਮੁਹਬੱਤੇਂ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਜਿਹੜਾ\DM_DMR ਕਿਰਦਾਰ\N_NN ਐਸ਼ਵਰਿਆ\N_NNP ਨੇ\PSP ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਸੇ\PR_PRL ਤਰਾਂ\PSP ਦਾ\PSP ਕੰਮ\N_NN `\RD_PUNC ਗੱਭਰ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਕਰੀਨਾ\N_NNP ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3713	ਈਸ਼ਵਰ\N_NN ਹਮੇਸ਼ਾ\RB ਉਸ\PR_PRP ਦੇ\PSP ਨਾਲ\PSP ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3714	ਰਜਨੀਕਾਂਤ\N_NNP ਦੀ\PSP ਲੜਕੀ\N_NN ਸੌਂਦਰਿਆ\N_NNP ਦੀ\PSP ਨਵੀਂ\JJ ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਤੇ\N_NST ਖਾਸ\JJ ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਉਹ\PR_PRP ਆਸ਼ੀਰਵਾਦ\N_NN ਦੇਣ\V_VM_VNF ਗਈ\V_VM_VF ।\RD_PUNC
+PBED3715	ਸੋਚਾਂ\N_NN ਤੇ\CC_CCD ਫਿਕਰਾਂ\N_NN ਨੂੰ\PSP ਛੱਡ\V_VM ਖਤਰਿਆਂ\N_NN ਨੂੰ\PSP ਪਰੇ\N_NN ਕਰਦੀ\V_VM_VF ਐਸ਼\N_NNP ਨੇ\PSP ਅਭਿਸ਼ੇਕ\N_NNP ਦੇ\PSP ਇਕ\QT_QTC ਮਿੱਤਰ\N_NN ਦੀ\PSP ਪਾਰਟੀ\N_NN ਵਿਚ\PSP ਕੈਨੇਡਾ\N_NNP ਵਿਖੇ\N_NST ਖੂਬ\JJ ਧਮਾਲ\N_NN ਪਾ\V_VM ਕੇ\RP_RPD ਰਿਸ਼ਤਿਆਂ\N_NN ਦੀ\PSP ਕਦਰਦਾਨੀ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3716	ਬਨਾਉਟੀਪਨ\N_NN ਤੋਂ\PSP ਦੂਰ\RB ਐਸ਼\N_NNP ਨੇ\PSP ਇਨ੍ਹਾਂ\DM_DMR ਖ਼ਬਰਾਂ\N_NN ਦਾ\PSP ਖੰਡਨ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3717	ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਆਪਣੀ\PR_PRF ਸੱਸ\N_NN ਜਯਾ\N_NNP ਬੱਚਨ\N_NNP ਨਾਲ\PSP ਅੱਜ\RB ਕੱਲ\RB ਕੋਈ\QT_QTF ਗੜਬੜ\N_NN ਚਲ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3718	ਇਕ\QT_QTC ਹੋਰ\N_NN ਤਗਮਾ\N_NN ਐਸ਼ਵਰਿਆ\N_NNP ਨੂੰ\PSP ਮਿਲਿਆ\V_VM_VF ।\RD_PUNC
+PBED3719	ਕਾਮਯਾਬੀ\N_NN ਤਾਂ\PSP ਨਿੱਤ\N_NN ਐਸ਼ਵਰਿਆ\N_NNP ਰਾਏ\N_NNP ਨੂੰ\PSP ਮਿਲ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3720	ਸ੍ਰੀਮਤੀ\N_NNP ਬੱਚਨ\N_NNP ਗੂਗਲ\N_NNP ਦੀਆਂ\PSP 20\QT_QTC ਕਾਮਯਾਬ\N_NN ਭਾਰਤੀ\JJ ਔਰਤਾਂ\N_NN ਵਿਚ\PSP ਗਿਣੀ\V_VM_VINF ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3721	ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਤੋਂ\PSP ਇਲਾਵਾ\RB ਸੋਨੀਆ\N_NNP ਗਾਂਧੀ\N_NNP ਇਸ\DM_DMD ਸ਼੍ਰੇਣੀ\N_NN ਵਿਚ\PSP ਸ਼ਾਮਿਲ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3722	ਐਸ਼\N_NNP ਨੇ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਸਟੇਜ\N_NN ਉੱਤੇ\RB ਹੁਣ\RB ਉਦਘਾਟਨਾਂ\N_NN ਦੀ\PSP ਰਸਮ\N_NN ਵੱਧ\V_VM_VNG ਚੜ\V_VM_VNG ਕੇ\RP_RPD ਨਿਭਾਉਣੀ\V_VM_VINF ਜਾਰੀ\V_VM_VF ਰੱਖੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3723	ਗੂਗਲ\N_NNP ਨੂੰ\PSP ਧੰਨਵਾਦ\N_NN ਦਿੰਦੀ\V_VM_VF ਐਸ਼\N_NNP ਨੇ\PSP ਕਿਹਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਅੱਜ\RB ਤਕਨੀਕ\N_NN ਹੀ\RP_RPD ਫੈਸਲਾ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਵੱਧ\N_NN ਲੋਕ\N_NN ਕਿਸ\DM_DMQ ਨਾਲ\PSP ਜੁੜੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBED3724	ਬੱਚਨ\N_NNP ਪਰਿਵਾਰ\N_NN ਦਾ\PSP ਮਾਣ\N_NN ਵਧਾ\N_NN ਕੇ\RP_RPD ਐਸ਼\N_NNP ਨੇ\PSP ਸਾਬਤ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਬਿੱਗ\N_NN ਏ\N_NN ਵੀ\N_NN ਬਣੇਗੀ\V_VM_VINF ।\RD_PUNC
+PBED3725	`\RD_PUNC ਹਾਈਵੇ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਬਾਅਦ\RB ਆਲੀਆ\N_NNP ਭੱਟ\N_NNP ਦਾ\PSP ਸਮਾਂ\N_NN ਹੁਣ\RB ਆਪਣੀ\PR_PRF ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਟੂ\N_NNP ਸਟੇਟਸ\N_NNP `\RD_PUNC ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਵਿਚ\PSP ਗੁਜ਼ਰ\N_NN ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3726	ਚੰਡੀਗੜ੍ਹ\N_NNP ਵਿਖੇ\N_NST ਇਕ\QT_QTC ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਦੌਰਾਨ\RB ਵੀ\RP_RPD ਆਲੀਆ\N_NNP ਨੇ\PSP ਜਾਂ\CC_CCD ਤਾਂ\PSP `\RD_PUNC ਟੂ\N_NNP ਸਟੇਟਸ\N_NNP `\RD_PUNC ਦੀ\PSP ਗੱਲ\N_NN ਕੀਤੀ\V_VM_VF ਤੇ\CC_CCD ਜਾਂ\CC_CCD ਫਿਰ\RB ਕਰਨ\N_NNP ਜੌਹਰ\N_NNP ਦੇ\PSP ਸ਼ੋਅ\N_NN `\RD_PUNC ਕੌਫ਼ੀ\N_NNP ਵਿਦ\N_NNP ਕਰਨ\N_NNP `\RD_PUNC ਦੀਆਂ\PSP ਗੱਲਾਂ\N_NN ਉਹ\PR_PRP ਕਰਦੀ\V_VM_VF ਰਹੀ\V_VM_VF ।\RD_PUNC
+PBED3727	ਆਪਣਾ\PR_PRF 21ਵਾਂ\QT_QTO ਜਨਮ\N_NN ਦਿਨ\N_NN ਉਸ\PR_PRP ਨੇ\PSP ਚੰਡੀਗੜ\N_NNP ਹੀ\RP_RPD ਮਨਾਇਆ\V_VM_VF |\RD_PUNC
+PBED3728	ਵਰੁਣ\N_NNP ਧਵਨ\N_NNP ਤੋਂ\PSP ਇਲਾਵਾ\RB ਨਰਗਿਸ\N_NNP ਫਾਖਰੀ\N_NNP ਉਸ\PR_PRP ਦੇ\PSP ਨਾਲ\PSP ਸੀ\V_VAUX ।\RD_PUNC
+PBED3729	ਉਚੇਚੀ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਭੈਣ\N_NN ਸ਼ਾਹੀਨ\N_NNP ਤੇ\CC_CCD ਮਾਂ\N_NN ਸੋਨੀ\N_NNP ਰਾਜ਼ਦਾਨ\N_NNP ਵੀ\RP_RPD ਉਥੇ\N_NST ਆਈ\V_VM_VF ।\RD_PUNC
+PBED3730	ਗੱਲ\N_NN `\RD_PUNC ਟੂ\N_NNP ਸਟੇਟਸ\N_NNP `\RD_PUNC ਦੀ\PSP ਹੀ\RP_RPD ਹੋਈ\V_VM_VF ਤੇ\CC_CCD ਅਰਜੁਨ\N_NNP ਕਪੂਰ\N_NNP ਨੂੰ\PSP ਆਲੀਆ\N_NNP ਨੇ\PSP ਟਵਿੱਟਰ\N_NNP ਉੱਤੇ\RB ਨਵੇਂ\N_NN ਟਵੀਟ\N_NN ਵੀ\RP_RPD ਫ਼ਿਲਮ\N_NN ਸਬੰਧੀ\N_NN ਹੀ\RP_RPD ਕੀਤੇ\V_VM_VF ।\RD_PUNC
+PBED3731	ਦਿੱਲੀ\N_NNP ਉਸ\PR_PRP ਨੂੰ\PSP ਸਭ\QT_QTF ਤੋਂ\PSP ਜ਼ਿਆਦਾ\QT_QTF ਪਸੰਦ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3732	ਇਸ\DM_DMD ਦੌਰਾਨ\RB ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਸ਼ਾਨਦਾਰ\N_NNP `\RD_PUNC ਦੀ\PSP ਗੱਲ\N_NN ਚੱਲੀ\V_VM_VF ਤਾਂ\PSP ਪਤਾ\N_NN ਲੱਗਿਆ\V_VM_VF ਕਿ\CC_CCS ਵਿਕਾਸ\N_NNP ਬਹਿਲ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਆਲੀਆ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਸ਼ਾਹਿਦ\N_NNP ਕਪੂਰ\N_NNP ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBED3733	ਹੁਣੇ\RB ਜਿਹੇ\DM_DMR ਮਲਿਕਾ\N_NNP ਨੇ\PSP ਓਮਪੁਰੀ\N_NNP ਨਾਲ\PSP `\RD_PUNC ਦਾ\N_NNP ਡਰਟੀ\N_NNP ਪਾਲੇਟਿਕਸ\N_NNP `\RD_PUNC ਲਈ\PSP ਜ਼ਬਰਦਸਤ\N_NN ਦਿ੍ਸ਼\N_NN ਦਿੱਤੇ\V_VM_VF |\RD_PUNC
+PBED3734	ਮਲਿਕਾ\N_NNP ਸ਼ੇਰਾਵਤ\N_NNP ਦੀਆਂ\PSP ਫੇਸਬੁੱਕ\N_NN ਤੇ\RB ਗੁਲਾਬੀ\N_NN ਲਹਿੰਗੇ\N_NN ਵਾਲੀਆਂ\PSP ਤਸਵੀਰਾਂ\N_NN ਨੇ\PSP ਵੀ\RP_RPD ਉਸ\PR_PRP ਨੂੰ\PSP ਸੁਰਖੀਆਂ\N_NN ਵਿਚ\PSP ਬਰਕਰਾਰ\N_NN ਰੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3735	ਮਲਿਕਾ\N_NNP ਹਾਲੇ\RB ਵੀ\RP_RPD ਪੂਰਾ\N_NN ਦਮਖਮ\N_NN ਰੱਖਦੀ\V_VM_VF ਦਿਖਾਈ\V_VM_VF ਦੇ\PSP ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3736	ਹਰਿਆਣਵੀ\JJ ਕੁੜੀ\N_NN ਮਲਿਕਾ\N_NNP ਸ਼ੇਰਾਵਤ\N_NNP ਜੇ\DM_DMR ਅੱਜ\RB ਤੋਂ\PSP ਛੇ\QT_QTC ਸੱਤ\QT_QTC ਸਾਲ\N_NN ਪਹਿਲਾਂ\RB ਖੂਬ\JJ ਖ਼ਬਰਾਂ\N_NN ਵਿਚ\PSP ਸੀ\V_VAUX ਤਾਂ\CC_CCD ਅੱਜ\RB ਵੀ\RP_RPD ਸੁਰਖੀਆਂ\N_NN ਵਿਚ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਨਾਂਅ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3737	ਸਾਊਥ\N_NN ਦੀਆਂ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਵੀ\RP_RPD ਉਹ\PR_PRP ਕਰੀ\V_VM_VF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3738	`\RD_PUNC ਪੁਲਿਸ\N_NNP ਟਾਈਗਰ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਧਮਾਲ-2\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਫ਼ੌਜ\N_NNP ਮੇਂ\N_NNP ਮੌਜ\N_NNP `\RD_PUNC ਫ਼ਿਲਮਾਂ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਮਲਿਕਾ\N_NNP `\RD_PUNC ਦਾ\PSP ਬੈਚਲਰਿਟੀ\N_NN ਸ਼ੋਅ\N_NN `\RD_PUNC ਨਾਲ\PSP ਵੀ\RP_RPD ਕਾਫ਼ੀ\QT_QTF ਮਸ਼ਹੂਰ\N_NN ਹੋਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3739	ਕਦੇ-ਕਦੇ\RB ਚਿਰੋਕਣੀ\N_NN ਬਣ\V_VM ਰਹੀ\V_VM_VF `\RD_PUNC ਦਾ\N_NNP ਡਰਟੀ\N_NNP ਪਾਲੇਟਿਕਸ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਵੀ\RP_RPD ਉਹ\PR_PRP ਗੱਲ\N_NN ਕਰ\V_VM ਲੈਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3740	ਇਸ\DM_DMD ਵਿਚ\PSP ਉਹ\PR_PRP ਮਲਿਕਾ\N_NNP ਦੇ\PSP ਸ਼ੁਰੂ\RB ਵਾਲੇ\V_VM_VF ਤੇਵਰ\N_NN ਦਿਖਾ\V_VM_VF ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3741	ਅਮਰੀਕਾ\N_NNP ਤੇ\CC_CCD ਭਾਰਤ\N_NNP ਵਿਚਕਾਰ\RB ਹਰ\QT_QTF ਮਹੀਨੇ\N_NN ਉਸ\PR_PRP ਦਾ\PSP ਗੇੜਾ\N_NN ਐਨਾ\QT_QTF ਆਸਾਨ\N_NN ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL ਚੰਡੀਗੜ\N_NNP ਤੋਂ\PSP ਉਹ\PR_PRP ਅੰਬਾਲੇ\N_NNP ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੋਵੇ\V_VM_VF |\RD_PUNC
+PBED3742	ਹਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਸ਼ੇਰਾਵਤ\N_NNP ਦੀ\PSP ਪੁੱਛ-ਗਿੱਛ\V_VM_VNG ਹੈ\V_VAUX |\RD_PUNC
+PBED3743	ਸੁਰਖੀਆਂ\N_NN `\RD_PUNC ਚ\PSP ਤਾਂ\PSP ਉਹ\PR_PRP ਆਪ\PR_PRF ਹੀ\RP_RPD ਰਹੇਗੀ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਆਕਸਫੋਰਡ\N_NNP ਯੂਨੀਵਰਸਿਟੀ\N_NN `\RD_PUNC ਚ\PSP ਔਰਤ\N_NN ਬਰਾਬਰੀ\N_NN ਤੇ\CC_CCD ਔਰਤ\N_NN ਅਧਿਕਾਰ\N_NN ਵਿਸ਼ੇ\N_NN `\RD_PUNC ਤੇ\RB ਹੋਈ\V_VM_VF ਵਿਚਾਰ-ਚਰਚਾ\N_NN `\RD_PUNC ਚ\PSP ਉਹ\PR_PRP ਮੁੱਖ\JJ ਵਕਤਾ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3744	ਮਲਿਕਾ\N_NNP ਇਕ\QT_QTC ਪਾਸੇ\N_NN ਹਾਲੀਵੁੱਡ\N_NN ,\RD_PUNC ਕਾਲੀਵੁੱਡ\N_NN ਤੇ\CC_CCD ਬਾਲੀਵੁੱਡ\N_NN ਜਦ\DM_DMR ਕਿ\CC_CCS ਦੂਸਰੇ\QT_QTO ਪਾਸੇ\N_NN ਸਮਾਜਿਕ\N_NN ਮੰਚਾਂ\N_NN ਉੱਤੇ\RB ਵੀ\RP_RPD ਸਰਗਰਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3745	ਡੇਵਿਡ\N_NNP ਧਵਨ\N_NNP ਨੇ\PSP ਨਰਗਿਸ\N_NNP ਫਾਖਰੀ\N_NNP ਦਾ\PSP ਕੈਰੀਅਰ\N_NN ਉਭਾਰਨ\N_NN ਵਿਚ\PSP ਆਪਣਾ\PR_PRF ਸੌ\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਯੋਗਦਾਨ\N_NN ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3746	`\RD_PUNC ਮੈਂ\N_NNP ਤੇਰਾ\N_NNP ਹੀਰੋ\N_NNP `\RD_PUNC ਲਈ\PSP ਨਰਗਿਸ\N_NNP ਨੇ\PSP ਡੇਵਿਡ\N_NNP ਨੂੰ\PSP ਖ਼ਾਸ\JJ ਸਿਹਰਾ\N_NN ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3747	ਨਰਗਿਸ\N_NNP ਨੇ\PSP ਆਪਣੀ\PR_PRF ਵੈੱਬਸਾਈਟ\N_NN ਕੁਝ\QT_QTF ਦਿਨ\N_NN ਪਹਿਲਾਂ\RB ਹੀ\RP_RPD ਲੋਕ\N_NN ਨਜ਼ਰ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3748	ਨਵੀਂ\JJ ਵੈੱਬ\N_NN ਦੇ\PSP ਲਾਂਚ\N_NN ਸਮੇਂ\N_NN ਉਸ\PR_PRP ਨੇ\PSP ਇਲੀਆਨਾ\N_NNP ਡਿਕਰੂਜ਼\N_NNP ਤੇ\CC_CCD ਵਰੁਣ\N_NNP ਧਵਨ\N_NNP ਨੂੰ\PSP ਖ਼ਾਸ\N_NN ਤੌਰ\RB ਤੇ\RB ਸੱਦਾ\N_NN ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBED3749	`\RD_PUNC ਮੈਂ\N_NNP ਤੇਰਾ\N_NNP ਹੀਰੋ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਇਹ\DM_DMD ਦੋਵੇਂ\QT_QTO ਉਸ\PR_PRP ਨਾਲ\PSP ਸਾਥੀ\N_NN ਸਿਤਾਰੇ\N_NN ਰਹੇ\V_VM_VF |\RD_PUNC
+PBED3750	ਵੈਸੇ\CC_CCS `\RD_PUNC ਮੈਂ\N_NNP ਤੇਰਾ\N_NNP ਹੀਰੋ\N_NNP `\RD_PUNC ਦੀ\PSP ਨਿਰਮਾਣ\N_NN ਪ੍ਰਤੀਕਿਰਿਆ\N_NN ਦੌਰਾਨ\RB ਨਰਗਿਸ\N_NNP ਨੇ\PSP ਕਾਫ਼ੀ\QT_QTF ਆਨੰਦ\N_NN ਲਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3751	ਆਪਣਾ\PR_PRF ਵਜ਼ਨ\N_NN ਤਾਂ\PSP ਉਸ\PR_PRP ਨੇ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਪ੍ਰਚਾਰ\N_NN ਮੁਹਿੰਮ\N_NN ਲਈ\PSP ਘੱਟ\QT_QTF ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3752	34\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਇਹ\DM_DMD ਅਮਰੀਕਨ\JJ ਜੰਮਪਲ\N_NN `\RD_PUNC ਰੌਕਸਟਾਰ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਸਾਹਮਣੇ\RB ਆਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3753	ਹਾਲੇ\RB ਉਸ\PR_PRP ਕੋਲ\RB ਫ਼ਿਲਮਾਂ\N_NN ਚਾਹੇ\N_NN ਘੱਟ\QT_QTF ਹਨ\V_VAUX ਪਰ\CC_CCD ਉਹ\PR_PRP ਉਤਸ਼ਾਹਿਤ\JJ ਕਾਫ਼ੀ\QT_QTF ਹੈ\V_VAUX |\RD_PUNC
+PBED3754	ਉਸ\PR_PRP ਕੋਲ\RB ਤਾਂ\PSP ਵਿਗਿਆਪਨ\N_NN ਹੀ\RP_RPD ਬਹੁਤ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3755	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ,\RD_PUNC ਜਾਨ\N_NNP ਅਬਰਾਹਮ\N_NNP ਤੇ\CC_CCD ਵਰੁਣ\N_NNP ਧਵਨ\N_NNP ਨਾਲ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਕਰ\V_VM ਚੁੱਕੀ\V_VM_VF ਨਰਗਿਸ\N_NNP ਦੀ\PSP ਚਾਹਤ\N_NN ਯਸ਼ਰਾਜ\N_NNP ਫ਼ਿਲਮਜ਼\N_NNP ,\RD_PUNC ਆਮਿਰ\N_NNP ਖ਼ਾਨ\N_NNP ,\RD_PUNC ਸ਼ਾਹਰੁਖ\N_NNP ਖ਼ਾਨ\N_NNP ਤੇ\CC_CCD ਦਿਵਾਕਰ\N_NNP ਬੈਨਰਜੀ\N_NNP ਨਾਲ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਕਰਨ\V_VM_VNF ਦੀ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3756	38\QT_QTC ਕਰੋੜ\QT_QTF ਦਾ\PSP ਵਪਾਰ\N_NN ਤਿੰਨ\QT_QTC ਦਿਨ\N_NN ਵਿਚ\PSP `\RD_PUNC ਮੈਂ\N_NNP ਤੇਰਾ\N_NNP ਹੀਰੋ\N_NNP `\RD_PUNC ਦਾ\PSP ਹੋਣ\V_VM_VNF `\RD_PUNC ਤੇ\RB ਵੀ\RP_RPD ਉਹ\PR_PRP ਕਾਫ਼ੀ\QT_QTF ਪ੍ਰਸੰਨ\N_NN ਨਜ਼ਰ\N_NN ਆਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3757	ਅੱਜ\RB ਕਲ\RB ਨਰਗਿਸ\N_NNP ਦੀ\PSP ਖ਼ਬਰ\N_NN ਅਰਜਨ\N_NNP ਕਪੂਰ\N_NNP ਨਾਲ\PSP ਵੀ\RP_RPD ਮੀਡੀਆ\N_NN ਲਈ\PSP ਬਣੀ\V_VM_VINF ਪਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3758	ਇਧਰ\N_NST ਨਰਗਿਸ\N_NNP ਦੇ\PSP ਪ੍ਰਸੰਸਕਾਂ\N_NN ਲਈ\PSP ਵਧੀਆ\JJ ਖ਼ਬਰ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਨੂੰ\PSP ਇਕ\QT_QTC ਹਾਲੀਵੁੱਡ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਮਿਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3759	ਨਰਗਿਸ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਦੌਰਾਨ\RB ਐਮ.\N_NNP ਐਸ.\N_NNP ਧੋਨੀ\N_NNP ਕ੍ਰਿਕਟ\N_NN ਕਪਤਾਨ\N_NN ਟੀਮ\N_NN ਇੰਡੀਆ\N_NNP ਤੇ\CC_CCD ਜਾਨ\N_NNP ਅਬਰਾਹਮ\N_NNP ਨਾਲ\PSP ਖਿਚਵਾਈ\N_NN ਤਸਵੀਰ\N_NN ਨੇ\PSP ਅਰਜਨ\N_NNP ਕਪੂਰ\N_NNP ਦਾ\PSP ਰੰਗ\N_NN ਜ਼ਰੂਰ\N_NN ਉਡਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3760	ਨਰਗਿਸ\N_NNP ਨਾਲ\PSP ਰੁਮਾਂਟਿਕ\N_NN ਸਬੰਧਾਂ\N_NN ਨੂੰ\PSP ਲੈ\V_VM ਕੇ\RP_RPD ਚੁੱਪ\N_NN ਅਰਜਨ\N_NNP ਦੇ\PSP ਸਬੰਧ\N_NN ਵਿਚ\PSP ਪਤਾ\N_NN ਚੱਲਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਆਲੀਆ\N_NNP ਭੱਟ\N_NNP ਨਾਲੋਂ\PSP ਜ਼ਿਆਦਾ\JJ ਤਰਜੀਹ\N_NN ਨਰਗਿਸ\N_NNP ਨੂੰ\PSP ਦੇ\PSP ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3761	ਨਰਗਿਸ\N_NNP ਦੇ\PSP ਬਦਲਦੇ\V_VM_VF ਮਿਜਾਜ਼\N_NN ਨੇ\PSP ਅਰਜਨ\N_NNP ਕਪੂਰ\N_NNP ਦੇ\PSP ਦਿਲ\N_NN ਨੂੰ\PSP ਜ਼ਰੂਰ\JJ ਠੇਸ\N_NN ਪਹੁੰਚਾਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3762	ਜੂਸ\N_NN ਦੀ\PSP ਦੀਵਾਨੀ\N_NN ਨਰਗਿਸ\N_NNP ਹਾਲੀਵੁੱਡ\N_NN ਦੀ\PSP ਪਾਲਫੇਗ\N_NN ਦੁਆਰਾ\N_NN ਬਣਾਈ\V_VM_VF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਖੁਫੀਆ\N_NN ਏਜੰਟ\N_NN ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਨਿਭਾਅ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3763	ਇਹ\DM_DMD ਖੁਫੀਆ\N_NN ਏਜੰਟ\N_NN ਕਾਫ਼ੀ\JJ ਕਾਮੁਕ\N_NN ਖਿੱਚ\N_NN ਵਾਲੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3764	ਅਰਜਨ\N_NNP ਕਪੂਰ\N_NNP ਦਾ\PSP ਦਿਮਾਗ\N_NN ਇਸ\DM_DMD ਲਈ\PSP ਘੁੰਮ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕਿਤੇ\N_NN ਆਪਣੇ\PR_PRF ਕਿਰਦਾਰ\N_NN `\RD_PUNC ਖੁਫ਼ੀਆ\N_NN ਏਜੰਟ\N_NN `\RD_PUNC ਦੀ\PSP ਨਿਸਬਿਤ\N_NN ਨਰਗਿਸ\N_NNP ਵੀ\RP_RPD ਉਸ\PR_PRP ਦੀਆਂ\PSP ਖ਼ਬਰਾਂ\N_NN ਕਿਸੇ\DM_DMQ ਹੋਰ\N_NN ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਪਹੁੰਚਾ\V_VM_VF ਰਹੀ\V_VM_VF |\PSP
+PBED3765	ਖ਼ੈਰ\RP_INJ ,\RD_PUNC ਇਹ\DM_DMD ਤਾਂ\PSP ਆਪਣੀ-ਆਪਣੀ\PR_PRF ਸੋਚ\N_NN ਹੈ\V_VAUX ਪਰ\CC_CCD ਨਰਗਿਸ\N_NNP ਨੂੰ\PSP ਹਾਲੀਵੁੱਡ\N_NN ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਇਹ\DM_DMD ਭੂਮਿਕਾ\N_NN ਭਵਿੱਖ\RB ਵਿਚ\PSP ਕਾਫ਼ੀ\QT_QTF ਲਾਭ\N_NN ਪਹੁੰਚਾਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3766	ਬਾਕੀ\CC_CCS ਉਹ\PR_PRP ਕਿੱਥੇ\PR_PRQ ਕੁ\RP_RPD ਪਹੁੰਚਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਦੀ\PSP ਵੈੱਬਸਾਈਟ\N_NN ਸਭ\QT_QTF ਨੂੰ\PSP ਦੱਸਣ\V_VM_VNF ਲਈ\RD_PUNC ਕਾਫ਼ੀ\QT_QTF ਹੈ\V_VAUX |\V_VAUX
+PBED3767	ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਨਵੀਂ\JJ ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਫੈਂਟਮ\N_NNP `\RD_PUNC ਮੁੰਬਈ\N_NNP ਵਿਚ\PSP ਹੋਏ\V_VM_VF 26\QT_QTC /\RD_SYM 11\QT_QTC ਹਮਲੇ\N_NN ਉੱਤੇ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBED3768	ਸੈਫ਼\N_NNP ਦੀ\PSP ਨਾਇਕਾ\N_NN ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਕੈਟਰੀਨਾ\N_NNP ਕੈਫ਼\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3769	ਸੈਫ਼\N_NNP ਤੇ\CC_CCD ਕੈਟਰੀਨਾ\N_NNP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP `\RD_PUNC ਸੀਕਰੇਟ\N_NN ਏਜੰਟ\N_NN `\RD_PUNC ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਵਿਚ\PSP ਹਨ\V_VAUX |\RD_PUNC
+PBED3770	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਕਾਫ਼ੀ\QT_QTF ਹਿੱਸਾ\N_NN ਬੈਰੂਤ\N_NNP ਤੇ\CC_CCD ਲੈਬਨਾਨ\N_NNP ਵਿਚ\PSP ਫ਼ਿਲਮਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3771	ਇਹਨਾਂ\DM_DMD ਦੇਸ਼ਾਂ\N_NN ਵਿਚ\PSP ਹਾਲਾਤ\N_NN ਠੀਕ\N_NN ਨਾ\RP_NEG ਹੋਣ\V_VM_VNF ਕਰਕੇ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਪੂਰੀ\N_NN ਟੀਮ\N_NN ਨੂੰ\PSP ਸਪੈਸ਼ਲ\N_NN ਸੁਰੱਖਿਆ\N_NN ਮੁਹੱਈਆ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3772	ਜੰਮੂ-ਕਸ਼ਮੀਰ\N_NNP ਵਿਚ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਕੁਝ\QT_QTF ਹਿੱਸਾ\N_NN ਫ਼ਿਲਮਾਉਣ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਚੰਡੀਗੜ\N_NNP ਵਿਚ\PSP ਵੀ\RP_RPD ਫ਼ਿਲਮਾਇਆ\N_NN ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBED3773	ਜਿਥੇ\DM_DMR ਉਸ\PR_PRP ਦੇ\PSP ਸਪਾਟ\N_NN ਬੋਆਏ\N_NN ਦੇ\PSP ਕਾਫ਼ੀ\QT_QTF ਸੱਟਾਂ\N_NN ਲੱਗੀਆਂ\V_VM_VF |\RD_PUNC
+PBED3774	ਸਪਾਟ\N_NN ਬੋਆਏ\N_NN ਅਬਦੁਲ\N_NNP ਨੂੰ\PSP ਆਰਾਮ\N_NN ਕਰਨ\V_VM_VNF ਲਈ\PSP ਵਾਪਸ\N_NN ਮੁੰਬਈ\N_NNP ਭੇਜਿਆ\V_VM_VF |\RD_PUNC
+PBED3775	ਮਾਲੇਰਕੋਟਲਾ\N_NNP ਵਿਚ\PSP ਵੀ\RP_RPD ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨੂੰ\PSP ਫ਼ਿਲਮਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3776	ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਮੈਨੂੰ\PR_PRP ਅਲੱਗ\N_NN ਭੂਮਿਕਾ\N_NN ਵਾਲੀਆਂ\V_VM_VF ਫ਼ਿਲਮਾਂ\N_NN ਪਸੰਦ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3777	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਐਕਸ਼ਨ\N_NN ਵੀ\RP_RPD ਅਲੱਗ\N_NN ਹੀ\RP_RPD ਫ਼ਿਲਮਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3778	ਦਰਅਸਲ\CC_CCS ਅੱਜ\RB ਦਾ\PSP ਦਰਸ਼ਕ\N_NN ਐਕਸ਼ਨ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਪਸੰਦ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3779	ਰਾਸ਼ਟਰੀ\N_NN ,\RD_PUNC ਅੰਤਰਰਾਸ਼ਟਰੀ\N_NN ਐਵਾਰਡ\N_NN ਜਿੱਤਣ\V_VM_VNF ਵਾਲੇ\V_VM_VF ਸੈਫ਼\N_NNP ਨੂੰ\PSP 2010\QT_QTC ਵਿਚ\PSP ਪਦਮਸ੍ਰੀ\N_NNP ਨਾਲ\PSP ਵੀ\RP_RPD ਨਿਵਾਜਿਆ\V_VM_VF ਜਾ\V_VM ਚੁੱਕਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3780	ਨਿਰਮਾਤਾ\N_NN ਦੇ\PSP ਤੌਰ\RB ਤੇ\RB ਸੈਫ਼\N_NNP ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਆਪਣੀ\PR_PRF ਭੂਮਿਕਾ\N_NN ਨਿਭਾਅ\N_NN ਚੁੱਕਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3781	ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਤੇ\CC_CCD ਪਤਨੀ\N_NN ਕਰੀਨਾ\N_NNP ਕਪੂਰ\N_NNP ਖ਼ਾਨ\N_NNP ਮਿਲ\V_VM ਕੇ\RP_RPD ਇਕ\QT_QTC ਅਜਿਹੀ\RB ਕੰਪਨੀ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਵੀ\RP_RPD ਕਰਨਗੇ\V_VM_VF ।\RD_PUNC
+PBED3782	ਜਿਸ\PR_PRL ਵਿਚ\PSP ਹਾਲੀਵੁੱਡ\N_NN ਦੀਆਂ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਕੀਤਾ\V_VM_VF ਜਾਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3783	ਸ਼ਰਧਾ\N_NNP ਕਪੂਰ\N_NNP ਗਰਮੀ\N_NN ਸ਼ੁਰੂ\RB ਹੁੰਦੇ\V_VM_VF ਹੀ\RP_RPD ਕਸ਼ਮੀਰ\N_NNP ਚਲੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3784	ਹਜ਼ੂਰ\N_NN ਉਹ\PR_PRP ਦਿਲ\N_NN ਨੂੰ\PSP ਠੰਢ\N_NN ਪਾਉਣ\V_VM_VNF ਲਈ\PSP ਨਹੀਂ\RP_NEG ਗਈ\V_VM_VF ,\RD_PUNC ਇਤਫ਼ਾਕ\RB ਨਾਲ\PSP ਵਿਸ਼ਾਲ\N_NNP ਭਾਰਦਵਾਜ\N_NNP ਦੀ\PSP ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਹੈਦਰ\N_NNP `\RD_PUNC ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN ਕਸ਼ਮੀਰ\N_NNP ਵਿਖੇ\N_NST ਜਾਰੀ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਸ਼ਰਧਾ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3785	ਸ਼ਰਧਾ\N_NNP ਕਸ਼ਮੀਰ\N_NNP ਦੇ\PSP ਕੁਦਰਤੀ\N_NN ਵਾਤਾਵਰਨ\N_NN ਤੋਂ\PSP ਬਹੁਤ\JJ ਪ੍ਰਭਾਵਿਤ\N_NN ਹੋਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3786	ਸ਼ਰਧਾ\N_NNP ਖੇਡਾਂ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਅੱਗੇ\RB ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਕਸ਼ਮੀਰ\N_NNP ਦੀ\PSP ਬਰਫ਼\N_NN ਉੱਤੇ\RB ਉਹ\PR_PRP ਸਟਿਕ\N_NN ਖੇਡ\N_NN ਕੇ\RP_RPD ਆਪਣੇ-ਆਪ\PR_PRF ਨੂੰ\PSP ਸੰਤੁਸ਼ਟ\N_NN ਵੀ\RP_RPD ਕਰਦੀ\V_VM_VF ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3787	ਰਿਤੇਸ਼\N_NNP ਦੇਸ਼ਮੁਖ\N_NNP ਜੋ\DM_DMR ਸਬੱਬ\RB ਨਾਲ\PSP ਕਸ਼ਮੀਰ\N_NNP ਗਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਨੇ\PSP ਵੀ\RP_RPD ਸ਼ਰਧਾ\N_NNP ਨੂੰ\PSP ਉਥੇ\N_NST ਕਾਫ਼ੀ\QT_QTF ਹਸਾਇਆ\V_VM_VF ਤੇ\CC_CCD ਸੈੱਟ\N_NN ਉੱਤੇ\N_NST ਆ\V_VM ਕੇ\RP_RPD ਵਿਸ਼ੇਸ਼\N_NN ਤੌਰ\RB ਤੇ\RB ਉਸ\PR_PRP ਨੂੰ\PSP ਸ਼ੁੱਭਕਾਮਨਾਵਾਂ\N_NN ਦੇ\PSP ਕੇ\RP_RPD ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3788	`\RD_PUNC ਆਸ਼ਿਕੀ-2\N_NNP `\RD_PUNC ਵਾਲੇ\V_VM_VF ਅਦਿਤਯ\N_NNP ਰਾਏ\N_NNP ਕਪੂਰ\N_NNP ਦੀ\PSP ਯਾਦ\N_NN ਜ਼ਰੂਰ\JJ ਕਸ਼ਮੀਰ\N_NNP ਵਿਖੇ\N_NST ਸ਼ਰਧਾ\N_NNP ਨੂੰ\PSP ਆਈ\V_VM_VF ਤੇ\CC_CCD ਅਕਸਰ\RB ਉਹ\PR_PRP ਅਦਿਤਯ\N_NNP ਦੀਆਂ\PSP ਗੱਲਾਂ\N_NN `\RD_PUNC ਹੈਦਰ\N_NNP `\RD_PUNC ਦੇ\PSP ਸੈੱਟ\N_NN ਉੱਤੇ\RB ਕਰਦੀ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਈ\V_VM_VF |\RD_PUNC
+PBED3789	`\RD_PUNC ਹੈਦਰ\N_NNP `\RD_PUNC ਦੀ\PSP ਸ਼ੂਟਿੰਗ\N_NN `\RD_PUNC ਤੇ\RB ਹੀ\RP_RPD ਪਤਾ\N_NN ਚੱਲਿਆ\V_VM_VF ਕਿ\CC_CCS ਮੋਹਿਤ\N_NNP ਸੂਰੀ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਹਮਾਰੀ\N_NNP ਅਧੂਰੀ\N_NNP ਕਹਾਨੀ\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਸ਼ਰਧਾ\N_NNP ਹੀ\RP_RPD ਕਰੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3790	ਪਹਿਲਾਂ\RB ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਕੋਲ\RB ਸੀ\V_VAUX |\RD_PUNC
+PBED3791	ਹੁਣ\RB ਵਿਦਿਆ\N_NNP ਦੀ\PSP ਛੱਡੀ\V_VM_VF ਹੋਈ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਸ਼ਰਧਾ\N_NNP ਨੂੰ\PSP ਮਿਲੇ\V_VM_VF ਤਾਂ\PSP ਸ਼ਰਧਾ\N_NNP ਦਾ\PSP ਖੁਸ਼\N_NN ਹੋਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\JJ ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਵੀ\RP_RPD ਕਿਸੇ\DM_DMQ ਗਿਣਤੀ\N_NN ਵਿਚ\PSP ਆਉਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3792	`\RD_PUNC ਹੈਦਰ\N_NNP `\RD_PUNC ਸ਼ਰਧਾ\N_NNP ਲਈ\PSP ਭਾਗਾਂਵਾਲੀ\N_NN ਫ਼ਿਲਮ\N_NN ਸਾਬਤ\N_NN ਹੋ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3793	ਪਵਨ\N_NNP ਕਲਿਆਣ\N_NNP ਨੇ\PSP ਵੀ\RP_RPD ਆਪਣੀ\PR_PRF ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਗੱਬਰ\N_NNP ਸਿੰਘ-2\N_NNP `\RD_PUNC ਲਈ\PSP ਸ਼ਰਧਾ\N_NNP ਦਾ\PSP ਨਾਂਅ\N_NN ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3794	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਕਸ਼ਮੀਰ\N_NNP ਦੀ\PSP ਸੈਰ\N_NN ਸ਼ਰਧਾ\N_NNP ਨੂੰ\PSP ਵਧੀਆ\JJ ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3795	ਇਕ\QT_QTC ਤਾਂ\PSP ਵਿਸ਼ਾਲ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ,\RD_PUNC ਦੂਸਰੀ\QT_QTO ਸੈਰ\N_NN ,\RD_PUNC ਤੀਸਰਾ\QT_QTO ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਦੀ\PSP ਥਾਂ\N_NN ਨਵੀਂ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਹਮਾਰੀ\N_NNP ਅਧੂਰੀ\N_NNP ਕਹਾਨੀ\N_NNP `\RD_PUNC ਤੇ\CC_CCD ਚੌਥੀ\QT_QTO ਪਵਨ\N_NNP ਦੀ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਗੱਬਰ\N_NNP ਸਿੰਘ-2\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਉਸ\PR_PRP ਕੋਲ\RB ਹੀ\RP_RPD ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3796	ਸ਼ਰਧਾ\N_NNP ਨੂੰ\PSP ਹੁਣ\RB ਅੱਜ\RB ਦੇ\PSP ਜ਼ਮਾਨੇ\N_NN ਦੀ\PSP ਆਧੁਨਿਕ\N_NN ਦੇਸੀ\N_NN ਗਰਲ\N_NN ਕਿਹਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3797	ਰੈਂਪ\N_NN ਤੇ\RB ਵੀ\RP_RPD ਉਸ\PR_PRP ਨੂੰ\PSP `\RD_PUNC ਦੇਸੀ\N_NN ਕੁੜੀ\N_NN `\RD_PUNC ਵਜੋਂ\PSP ਪੇਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3798	ਸ਼ਰਧਾ\N_NNP ਲਈ\PSP ਆ\V_VM ਰਿਹਾ\V_VM_VF ਸਮਾਂ\N_NN ਸ਼ੁੱਭ\N_NN ਨਜ਼ਰ\N_NN ਆ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3799	ਅਦਿਤਯ\N_NNP ਰਾਏ\N_NNP ਕਪੂਰ\N_NNP ਮਿਲੇ\V_VM_VF ਜਾਂ\CC_CCD ਨਾ\RP_NEG ਮਿਲੇ\V_VM_VF ਪਰ\CC_CCD ਫ਼ਿਲਮਾਂ\N_NN ਚੋਟੀ\N_NN ਦੀਆਂ\PSP ਮਿਲ\V_VM ਰਹੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3800	ਸ਼ਰਧਾ\N_NNP ਕਹਿ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕੋਈ\QT_QTF ਥਾਂ\N_NN ਤੁਸਾਂ\PR_PRL ਲਈ\PSP ਚੰਗੀ\JJ ਸਾਬਤ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3801	ਇਸੇ\DM_DMD ਤਰਾਂ\PSP ਕਸ਼ਮੀਰ\N_NNP ਉਸ\PR_PRP ਲਈ\PSP ਭਾਗਾਂਵਾਲੀ\N_NN ਥਾਂ\N_NN ਸਾਬਤ\N_NN ਹੋ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3802	ਰਿਤੇਸ਼\N_NNP ਦੇਸ਼ਮੁਖ\N_NNP ਖੁਦ\PR_PRF ਗੁਲਾਬ\N_NN ਦੇ\PSP ਫੁੱਲ\N_NN ਭੇਟ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3803	`\RD_PUNC ਹੈਦਰ\N_NNP `\RD_PUNC ਦਾ\PSP ਯੂਨਿਟ\N_NN ਤਾਰੀਫਾਂ\N_NN ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3804	ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਵਾਲੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN ਉਸ\PR_PRP ਕੋਲ\RB ਆ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3805	ਗੱਬਰ\N_NNP ਸਿੰਘ-2\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਉਹ\PR_PRP ਕਰੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3806	ਹਾਂ,\RP_INJ ਕਸ਼ਮੀਰ\N_NNP ਦੂਸਰੀ\QT_QTO ਵਾਰ\RB ਗਈ\V_VM_VF ਤਾਂ\PSP ਸ਼ਾਇਦ\RB ਅਦਿਤਯ\N_NNP ਰਾਏ\N_NNP ਕਪੂਰ\N_NNP ਵੀ\RP_RPD ਉਸ\PR_PRP ਦਾ\PSP ਹੋ\V_VM ਜਾਵੇ\V_VM_VF |\RD_PUNC
+PBED3807	ਕਸ਼ਮੀਰ\N_NNP ਹੈ\V_VAUX ਹੀ\RP_RPD ਕੁਦਰਤ\N_NN ਦਾ\PSP ਅਨਮੋਲ\N_NN ਖਜ਼ਾਨਾ\N_NN ਸ਼ਰਧਾ\N_NNP ਜੀ\N_NNP ...\RD_SYM |\RD_PUNC
+PBED3808	ਪੰਜਾਬੀ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਦੇ\PSP ਚਰਚਿਤ\N_NN ਨਾਇਕ\N_NN ਤੇ\CC_CCD ਗਾਇਕ\N_NN ਗਿੱਪੀ\N_NNP ਗਰੇਵਾਲ\N_NNP ਦੀ\PSP ਚਿਰਾਂ\N_NN ਤੋਂ\PSP ਉਡੀਕੀ\N_NN ਜਾ\V_VM ਰਹੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਜੱਟ\N_NNP ਜੇਮਸ\N_NNP ਬਾਂਡ\N_NNP `\RD_PUNC ਅੱਜ\RB ਤੋਂ\PSP ਦੇਸ਼-ਵਿਦੇਸ਼\N_NN ਵਿਚ\PSP ਇਕੋ\QT_QTO ਸਮੇਂ\N_NN ਸਿਨੇਮਾ\N_NN ਘਰਾਂ\N_NN ,\RD_PUNC ਮਲਟੀਪਲੈਕਸਾਂ\N_NN ਦਾ\PSP ਸ਼ਿੰਗਾਰ\N_NN ਬਣ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3809	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਗਿੱਪੀ\N_NNP ਗਰੇਵਾਲ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਹਿੰਦੀ\N_NNP ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਨਾਮਵਰ\N_NN ਨਾਇਕਾ\N_NN ਜ਼ਰੀਨ\N_NNP ਖ਼ਾਨ\N_NNP ਜਿਸ\PR_PRL ਦੀ\PSP ਇਹ\DM_DMD ਪਹਿਲੀ\QT_QTO ਪੰਜਾਬੀ\N_NNP ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3810	ਪੰਜਾਬਣ\JJ ਮੁਟਿਆਰ\N_NN ਬਣੀ\V_VM_VINF ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3811	ਜ਼ਰੀਨ\N_NNP ਖ਼ਾਨ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਪੰਜਾਬ\N_NNP ਮੈਨੂੰ\PR_PRP ਆਪਣਾ-ਆਪਣਾ\PR_PRF ਲੱਗਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3812	ਹਾਂ\RP_INJ ਪੰਜਾਬੀ\N_NNP ਬੋਲਣ\V_VM_VNF ਵਿਚ\PSP ਥੋੜੀ\QT_QTF ਦਿੱਕਤ\N_NN ਜ਼ਰੂਰ\N_NN ਆਈ\V_VM_VF ਸੀ\V_VAUX ਪਰ\CC_CCD ਹੌਲੀ-ਹੌਲੀ\RB ਇਹ\DM_DMD ਮੁਸ਼ਕਿਲ\N_NN ਵੀ\RP_RPD ਹੱਲ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3813	ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਨਾਇਕ\N_NN ਗਿੱਪੀ\N_NNP ਗਰੇਵਾਲ\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਸੀਂ\PR_PRP ਇਕ\QT_QTC ਵੱਖਰੇ\N_NN ਜਿਹੇ\DM_DMR ਵਿਸ਼ੇ\N_NN ਉੱਤੇ\RB ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਬਣਾਉਣ\V_VM_VNF ਦਾ\PSP ਯਤਨ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3814	ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਦੱਸਿਆ\V_VM_VF ਕਿ\CC_CCS ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਗੁਰਦੀਪ\N_NNP ਢਿੱਲੋਂ\N_NNP ਫ਼ਿਲਮਜ਼\N_NNP ਦੇ\PSP ਸਹਿਯੋਗ\N_NN ਨਾਲ\PSP ਫਾਰਚਿਊਨ\N_NNP ਹਾਊਸ\N_NNP ਪ੍ਰੋਡਕਸ਼ਨ\N_NNP ਇਨਕਾਰਪੋਰੇਸ਼ਨ\N_NNP ਦੇ\PSP ਬੈਨਰ\N_NN ਹੇਠ\RB ਬਣਾਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3815	ਇਸ\DM_DMD ਦੇ\PSP ਨਿਰਦੇਸ਼ਨ\N_NN ਦੀ\PSP ਜ਼ਿੰਮੇਵਾਰੀ\N_NN ਰੋਹਿਤ\N_NNP ਜੁਗਰਾਜ\N_NNP ਨੇ\PSP ਨਿਭਾਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3816	ਫ਼ਿਲਮ\N_NN ਦੇ\PSP ਹੋਰ\N_NN ਕਲਾਕਾਰਾਂ\N_NN ਵਿਚ\PSP ਗੁਰਪ੍ਰੀਤ\N_NNP ਘੁੱਗੀ\N_NNP ,\RD_PUNC ਯਸ਼ਪਾਲ\N_NNP ਸ਼ਰਮਾ\N_NNP ,\RD_PUNC ਮੁਕੇਸ਼\N_NNP ਰਿਸ਼ੀ\N_NNP ,\RD_PUNC ਸਰਦਾਰ\N_NNP ਸੋਹੀ\N_NNP ,\RD_PUNC ਸ਼ਾਹਬਾਜ਼\N_NNP ਖ਼ਾਨ\N_NNP ਅਤੇ\CC_CCD ਵਿੰਦੂ\N_NNP ਦਾਰਾ\N_NNP ਸਿੰਘ\N_NNP ਸ਼ਾਮਲ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3817	ਉਨ੍ਹਾਂ\DM_DMR ਦੱਸਿਆ\V_VM_VF ਕਿ\CC_CCS ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਅੱਠ\QT_QTC ਗੀਤ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBED3818	ਜਿੰਨਾ\DM_DMR ਨੂੰ\PSP ਖ਼ੁਦ\PR_PRF ਮੈਂ\PR_PRP ,\RD_PUNC ਸੁਨਿਧੀ\N_NNP ਚੌਹਾਨ\N_NNP ,\RD_PUNC ਸ਼੍ਰੇਆ\N_NNP ਘੋਸ਼ਾਲ\N_NNP ,\RD_PUNC ਅਦਰੀਜਾ\N_NNP ਗੁਪਤਾ\N_NNP ਦੇ\PSP ਨਾਲ-ਨਾਲ\PSP ਰਾਹਤ\N_NNP ਫਤਹਿ\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਅਤੇ\CC_CCD ਆਰਿਫ਼\N_NNP ਲੁਹਾਰ\N_NNP ਵਰਗੇ\V_VM_VF ਪਾਕਿਸਤਾਨੀ\JJ ਗਾਇਕਾਂ\N_NN ਨੇ\PSP ਗਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3819	`\RD_PUNC ਕਰੀਏਚਰ\N_NNP `\RD_PUNC ਥ੍ਰੀ-ਡੀ\N_NN ਤੇ\CC_CCD `\RD_PUNC ਹਮ\N_NNP ਸ਼ਕਲਜ਼\N_NNP `\RD_PUNC ਬਿਪਸ\N_NN ਦੀਆਂ\PSP ਇਕ-ਦੋ\QT_QTC ਮਹੀਨਿਆਂ\N_NN ਦੇ\PSP ਅੰਤਰ\N_NN `\RD_PUNC ਚ\PSP ਅੱਗੇ-ਪਿੱਛੇ\RB ਆ\V_VM ਰਹੀਆਂ\V_VM_VF ਦੋ\QT_QTC ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3820	ਉਹ\PR_PRP ਫ਼ਿਲਮ\N_NN ਜਗਤ\N_NN ਦੀ\PSP ਸਭ\QT_QTF ਤੋਂ\PSP ਫਿਟ\N_NN ਸਰੀਰ\N_NN ਵਾਲੀ\V_VM_VF ਅਣਖੀ\JJ ਮੁਟਿਆਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3821	ਔਰਤਾਂ\N_NN ਦੀ\PSP ਭਲਾਈ\N_NN ਹਿਤ\N_NN ਉਹ\PR_PRP ਹਮੇਸ਼ਾ\RB ਕੁਝ\QT_QTF ਨਾ\RP_NEG ਕੁਝ\QT_QTF ਕਰਦੀ\V_VM_VF ਰਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3822	ਜ਼ਿੰਦਗੀ\N_NN ਔਰਤ\N_NN ਦੀ\PSP ਵੀ\RP_RPD ਬਹੁਤ\N_NN ਹੀ\RP_RPD ਕੀਮਤੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3823	ਮਾਂ-ਭੈਣ\N_NN ,\RD_PUNC ਪਤਨੀ-ਬੇਟੀ\N_NN ਇਹ\DM_DMD ਹਨ\V_VAUX ਜੋ\DM_DMR ਘਰ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਸੂਤਰ\N_NN ਵਿਚ\PSP ਪਰੋਅ\N_NN ਕੇ\RP_RPD ਰੱਖਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3824	ਬਿਪਾਸ਼ਾ\N_NNP ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਮੁਹੱਬਤ\N_NN ਔਰਤ\N_NN ਨੂੰ\PSP ਹਰ\QT_QTF ਰੂਪ\N_NN ਵਿਚ\PSP ਮਿਲੇ\V_VM_VF |\RD_PUNC
+PBED3825	ਪਿਆਰ\N_NN ਦੇ\PSP ਕਈ\QT_QTF ਰੂਪ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3826	ਬਿਪਾਸ਼ਾ\N_NNP ਨੇ\PSP ਇਹ\DM_DMD ਸਭ\QT_QTF ਕੁਝ\QT_QTF ਆਪਣੀ\PR_PRF ਮਾਂ\N_NN ਤੋਂ\PSP ਸਿੱਖਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3827	`\RD_PUNC ਆਪਣੀ\PR_PRF ਜਾਨ\N_NN ਨਾਲ\PSP ਪਿਆਰ\N_NN ਕਰੋ\V_VM_VF `\RD_PUNC ਇਹ\DM_DMD ਸਿਧਾਂਤ\N_NN ਇਸ\DM_DMD ਨਾਇਕਾ\N_NN ਦਾ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3828	`\RD_PUNC ਕਰੀਏਚਰ\N_NNP `\RD_PUNC ਦੇ\PSP ਸੈੱਟ\N_NN ਉੱਤੇ\N_NST ਅਕਸਰ\RB ਉਹ\PR_PRP ਅਜਿਹੀਆਂ\DM_DMR ਗੱਲਾਂ\N_NN ਕਰਦੀ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਈ\V_VM_VF |\RD_PUNC
+PBED3829	ਉਸ\PR_PRP ਦੀ\PSP ਮਾਂ\N_NN ਨੇ\PSP ਜੀਵਨ\N_NN ਜਾਚ\N_NN ਦਾ\PSP ਇਹ\DM_DMD ਮੰਤਰ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਸਮਝਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3830	ਉਹ\PR_PRP ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਆਲਾ-ਦੁਆਲਾ\RD_ECH ਵੀ\RP_RPD ਇਸ\DM_DMD ਦਾ\PSP ਪਾਲਣ\V_VM_VNF ਕਰੇ\V_VM_VF |\RD_PUNC
+PBED3831	ਬਿਪਸ\N_NNP ਹੁਰੀਂ\N_NN ਤਿੰਨ\QT_QTC ਭੈਣਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3832	ਸਭ\QT_QTF ਨੂੰ\PSP ਬਰਾਬਰ\N_NN ਦੀ\PSP ਸਿੱਖਿਆ\V_VM_VF ਦਿੱਤੀ\V_VM_VF ਤੇ\CC_CCD ਚੰਗਾ\JJ ਪਾਲਣ-ਪੋਸ਼ਣ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਮਾਂ\N_NN ਨੇ\PSP ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3833	ਇਸ\DM_DMD ਦੇ\PSP ਬਾਵਜੂਦ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਮਾਂ\N_NN ਨੇ\PSP ਆਪਣੀ\PR_PRF ਸਿਹਤ\N_NN ਵਧੀਆ\JJ ਰੱਖੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3834	ਸਰੀਰ\N_NN ਦੇ\PSP ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਮਾਂ\N_NN ਹੀ\RP_RPD ਉਸ\PR_PRP ਦੀ\PSP ਉਦਾਹਰਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3835	ਬਿਪਾਸ਼ਾ\N_NNP ਵੀ\RP_RPD ਮਾਂ\N_NN ਦੇ\PSP ਦੱਸੇ\V_VM_VF ਹੋਏ\V_VM_VF ਰਸਤੇ\N_NN ਤੇ\RB ਚੱਲ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3836	ਬਿਪਸ\N_NNP ਰੋਜ਼\N_NN ਸਵੇਰੇ\N_NN ਉੱਠ\V_VM ਕੇ\RP_RPD ਇਕ\QT_QTC ਕਾਲ\N_NN ਆਪਣੀ\PR_PRF ਦੀਦੀ\N_NN ਜੋ\DM_DMR ਵਿਦੇਸ਼\N_NN ਵਿਚ\PSP ਹੈ\V_VAUX ,\RD_PUNC ਨੂੰ\PSP ਕਰਕੇ\V_VM_VF ਸਿਹਤ\N_NN ਪ੍ਰਤੀ\N_NN ਟਿਪਸ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3837	ਆਪਣੀ\PR_PRF ਨਿੱਕੀ\N_NN ਦੀਦੀ\N_NN ਵਿਜੇਤਾ\N_NNP ਨੂੰ\PSP ਦੂਸਰਾ\QT_QTO ਫੋਨ\N_NN ਕਰਕੇ\V_VM_VF ਉਹ\PR_PRP ਟਿਪਸ\N_NN ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3838	ਘਰ\N_NN ਪ੍ਰਤੀ\N_NN ਜ਼ਿੰਮੇਵਾਰੀ\N_NN ਤੇ\CC_CCD ਪਰਿਵਾਰ\N_NN ਪ੍ਰਤੀ\N_NN ਜ਼ਿੰਮੇਵਾਰੀ\N_NN ਬਿਪਸ\N_NNP ਲਈ\PSP ਪਹਿਲਾ\QT_QTO ਕੰਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3839	ਅੱਜ\RB ਦੇ\PSP ਸਿਤਾਰੇ\N_NN ਤਕਰੀਬਨ\RB ਫਿੱਟ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3840	ਅਕਸ਼ੈ\N_NNP ਦੀ\PSP ਉਹ\PR_PRP ਇਸ\DM_DMD ਗੱਲ\N_NN ਤੋਂ\PSP ਮੁਰੀਦ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3841	ਮਿਲੰਦ\N_NNP ਸੋਮਨ\N_NNP ਦੌੜਨ\N_NN ਵਿਚ\PSP ਅੱਗੇ\RB ਹੈ\V_VAUX |\RD_PUNC
+PBED3842	ਦਿਨ\N_NN ਭਰ\RB ਦੀ\PSP ਚੁਸਤੀ\N_NN ਉਸ\PR_PRP ਮੁਤਾਬਿਕ\N_NN ਜ਼ਰੂਰੀ\JJ ਹੈ\V_VAUX |\RD_PUNC
+PBED3843	ਬਿਪਾਸ਼ਾ\N_NNP ਵਾਰ-ਵਾਰ\RB ਇਹ\DM_DMD ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਆਪਣੇ-ਆਪ\PR_PRF ਨਾਲ\PSP ਪਿਆਰ\N_NN ਕਰੋ\V_VM_VF |\RD_PUNC
+PBED3844	ਜਿਸ\PR_PRL ਦਿਨ\N_NN ਸਰੀਰ\N_NN ਅਨੁਸਾਰ\N_NN ਚੱਲੋਗੇ\V_VM_VF ਹਰ\QT_QTF ਚੀਜ਼\N_NN ਆਪਣੇ-ਆਪ\PR_PRF ਠੀਕ\N_NN ਹੁੰਦੀ\V_VM_VF ਚਲੀ\V_VM_VF ਜਾਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3845	ਬਿਪਾਸ਼ਾ\N_NNP ਬਸੂ\N_NNP ਵਾਰ-ਵਾਰ\RB ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਿਹਤ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ਤਾਂ\PSP ਕੁਝ\QT_QTF ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3846	ਪਿਆਰ-ਵਿਆਰ\RD_ECH ਤਾਂ\PSP ਸਭ\QT_QTF ਕੁਝ\QT_QTF ਉਲਟਾ-ਸਿੱਧਾ\V_VM_VNG ਉਸ\PR_PRP ਨੇ\PSP ਛੱਡ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3847	ਹੁਣ\RB ਉਸ\PR_PRP ਨੂੰ\PSP ਦੌੜਨ\V_VM_VNF ਨਾਲ\PSP ਪਿਆਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3848	8\QT_QTC ਵਜੇ\N_NN ਉਹ\PR_PRP ਰੋਜ਼\N_NN ਜਿਮ\N_NN ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3849	ਆਲੇ-ਦੁਆਲੇ\RD_ECH ,\RD_PUNC ਕੁਦਰਤ\N_NN ਤੇ\RB ਸਿਹਤ\N_NN ਨਾਲ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਪਿਆਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3850	ਮਾਂ\N_NN ਨੇ\PSP ਬਿਪਾਸ਼ਾ\N_NNP ਨੂੰ\PSP ਜੋ\DM_DMR ਮਾਰਗ\N_NN ਦਰਸ਼ਨ\N_NN ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਦਾ\PSP ਹੀ\RP_RPD ਅਸਰ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਕਈ\QT_QTF ਵਿਵਾਦਾਂ\N_NN ਵਿਚੋਂ\PSP ਨਿਕਲ\N_NN ਕੇ\RP_RPD ,\RD_PUNC ਦੁਖ\N_NN ਸਹਿ\V_VM ਕੇ\RP_RPD ਵੀ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਸਿਹਤ\N_NN ਸਹੀ\N_NN ਰੱਖੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3851	ਪਿਛਲੇ\RB ਕੁਝ\QT_QTF ਮਹੀਨੇ\N_NN ਜਾਂ\CC_CCD ਦਿਨ\N_NN ਛੋਟੀ\QT_QTF ਬੇਗ਼ਮ\N_NN ਲਈ\PSP ਸਹੀ\N_NN ਨਹੀਂ\RP_NEG ਸਨ\V_VAUX |\RD_PUNC
+PBED3852	ਇਕ\QT_QTC ਤਾਂ\PSP `\RD_PUNC ਗੋਰੀ\N_NNP ਤੇਰੇ\N_NNP ਪਿਆਰ\N_NNP ਮੇਂ\N_NNP `\RD_PUNC ਦਾ\PSP ਹਸ਼ਰ\N_NN ਮਾੜਾ\N_NN ਰਿਹਾ\V_VM_VF ਤੇ\CC_CCD ਦੂਸਰਾ\QT_QTO ਕਰਨ\N_NNP ਜੌਹਰ\N_NNP ਦੀ\PSP `\RD_PUNC ਸ਼ੁੱਧੀ\N_NN `\RD_PUNC ਵੀ\RP_RPD ਉਸ\PR_PRP ਦੇ\PSP ਹੱਥੋਂ\N_NN ਨਿਕਲ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3853	ਫਿਰ\RB ਵੀ\RP_RPD ਪੰਦਰਾਂ\QT_QTC ਸਾਲ\N_NN ਘੱਟ\QT_QTF ਨਹੀਂ\RP_NEG ਹੁੰਦੇ\V_VM_VF ਤੇ\CC_CCD ਐਨੇ\QT_QTF ਵਕਤ\N_NN ਤੋਂ\PSP ਉਹ\PR_PRP `\RD_PUNC ਬਾਲੀਵੁੱਡ\N_NN ਦੀ\PSP ਮਹਾਰਾਣੀ\N_NN `\RD_PUNC ਬਣੀ\V_VM_VINF ਹੋਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3854	ਫ਼ਿਲਮਾਂ\N_NN ਹੁਣ\RB ਵੀ\RP_RPD ਕਰੀਨਾ\N_NNP ਕਪੂਰ\N_NNP ਖ਼ਾਨ\N_NNP ਕੋਲ\RB ਕਾਫ਼ੀ\QT_QTF ਤੇ\RB ਚੋਟੀ\N_NN ਦੀਆਂ\PSP ਹਨ\V_VAUX |\RD_PUNC
+PBED3855	`\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਸਿੰਘਮ-2\N_NNP `\RD_PUNC ਤੋਂ\PSP ਇਲਾਵਾ\RB `\RD_PUNC ਬੇਬੇ\N_NNP ਸਮੁਰਾਏ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਬਦਤਮੀਜ਼\N_NNP ਦਿਲ\N_NNP `\RD_PUNC ਇਨ੍ਹਾਂ\DM_DMR ਵਿਚੋਂ\PSP ਖਾਸ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3856	ਟੱਕਰ\N_NN ਦੇਣ\V_VM_VNF ਲਈ\PSP ਤੇ\CC_CCD ਯਾਰੀ\N_NN ਤੇ\RB ਮਰ\N_NN ਮਿਟਣ\V_VM_VNF ਲਈ\PSP ਬੇਗਮ\N_NNP ਖ਼ਾਨ\N_NNP ਕਹੇ\V_VM_VF ,\RD_PUNC ਵਚਨਾਂ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਉਲਟ\N_NN ਹੋਣ\V_VM_VNF ਨੂੰ\PSP ਬੁਰਾ\N_NN ਨਹੀਂ\RP_NEG ਸਮਝਦੀ\V_VM_VF |\RD_PUNC
+PBED3857	`\RD_PUNC ਯੇ\N_NN ਮੇਰਾ\PR_PRP ਦਿਲ\N_NN `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਫੈਵੀ\N_NN ਕੋਲ\N_NN ਸੇ\N_NN `\RD_PUNC ਆਈਟਮ\N_NN ਨਗਮੇ\N_NN ਕਰਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਸੈਫੀਨਾ\N_NNP ਨੇ\PSP ਕਿਹਾ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਅਗਾਂਹ\RB ਤੋਂ\PSP ਆਈਟਮ\N_NN ਬੰਦ\N_NN ਪਰ\CC_CCD `\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਚ\PSP ਇਕ\QT_QTC ਵਾਰ\RB ਫਿਰ\RB ਉਹ\PR_PRP ਆਈਟਮ\N_NN ਕਰਦੀ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3858	ਗੁਲਾਬੀ\N_NN ਟੌਪ\N_NN ,\RD_PUNC ਜੀਨਸ\N_NN ਤੇ\CC_CCD ਬੂਟ\N_NN ਪਾ\V_VM ਕੇ\RP_RPD `\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਲਈ\PSP ਉਸ\PR_PRP `\RD_PUNC ਆਈਟਮ\N_NN ਨਾਚ\N_NN `\RD_PUNC ਨੱਚ\N_NN ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3859	ਜੀ\RP_INJ ਹਾਂ\RP_INJ ,\RD_PUNC ਇਹ\DM_DMD ਵੀ\RP_RPD ਦੱਸਣਾ\V_VM_VINF ਜ਼ਰੂਰੀ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS `\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਉਹ\PR_PRP ਅਕਸ਼ੈ\N_NNP ਕੁਮਾਰ\N_NNP ਦੀ\PSP ਘਰਵਾਲੀ\N_NN ਬਣੀ\V_VM_VINF ਹੈ\V_VAUX ਯਾਨਿ\CC_CCD `\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਦੀ\PSP ਕਰੀਨਾ\N_NNP ਹੀਰੋਇਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3860	ਫਿਰ\RB ਆਈਟਮ\N_NN ਅਸਲ\N_NN ਵਿਚ\PSP ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਨਿਰਮਾਤਰੀ\N_NN ਸ਼ਬੀਨਾ\N_NNP ਖ਼ਾਨ\N_NNP ਉਸ\PR_PRP ਦੀ\PSP ਖਾਸ\JJ ਸਹੇਲੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3861	ਅੰਦਰਲੀ\RB ਗੱਲ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS `\RD_PUNC ਰਾਮ\N_NNP ਲੀਲਾ\N_NNP ਗੋਲੀਓਾ\N_NNP ਕੀ\N_NNP `\RD_PUNC ਹਿੱਟ\N_NN ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3862	ਉਸ\PR_PRP ਦਾ\PSP ਆਈਟਮ\N_NN ਗੀਤ\N_NN ਚੋਟੀ\JJ ਤੇ\RB ਰਿਹਾ\V_VM_VF |\RD_PUNC
+PBED3863	ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਕਰੀਨਾ\N_NNP ਨੇ\PSP ਛੱਡ\V_VM ਦਿੱਤੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3864	ਉਹੀ\DM_DMD ਕਸਕ\N_NN ਕੱਢਣ\V_VM_VNF ਲਈ\PSP `\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਵਾਸਤੇ\N_NN ਉਹ\PR_PRP ਪੂਰਾ\N_NN ਜ਼ੋਰ\N_NN ਲਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3865	ਇਹ\DM_DMD ਤਾਂ\PSP ਸਮਾਂ\N_NN ਹੀ\RP_RPD ਦੱਸੇਗਾ\V_VM_VF ਪਰ\CC_CCD `\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਤੇ\RB ਨਿੱਕੀ\N_NN ਬੇਗਮ\N_NN ਬਹੁਤ\JJ ਮਿਹਨਤ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3866	ਵੈਸੇ\CC_CCS ਬੇਗਮ\N_NN `\RD_PUNC ਬਿਕਨੀ\N_NN `\RD_PUNC ਗਰਮ\N_NN ਦਿ੍ਸ਼\N_NN ਸਭ\QT_QTF ਕਰ\V_VM ਚੁੱਕੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਬਿਆਨ\N_NN ਚਾਹੇ\N_NN ਕੁਝ\QT_QTF ਵੀ\RP_RPD ਰਹੇ\V_VM_VF ਹੋਣ\V_VM_VNF |\RD_PUNC
+PBED3867	ਕੁਰਸੀ\N_NN ਹਿਲਦੀ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\PSP ਸੌ\QT_QTC ਪਾਪੜ\N_NN ਵੇਲਣੇ\V_VM_VINF ਪੈਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3868	`\RD_PUNC ਗੱਬਰ\N_NNP `\RD_PUNC ਲਈ\PSP ਆਈਟਮ\N_NN ਵੀ\RP_RPD ਇਕ\QT_QTC ਪਾਪੜ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3869	ਕਾਮਯਾਬੀ-ਅਸਫ਼ਲਤਾ\N_NN ਨੂੰ\PSP ਉਹ\PR_PRP ਜੀਵਨ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਹਿੱਸਾ\N_NN ਹੀ\RP_RPD ਮੰਨਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3870	ਪਰ\CC_CCS ਫਿਰ\RB ਘਬਰਾਹਟ\N_NN ਕਿਉਂ\PR_PRQ ?\RD_PUNC
+PBED3871	ਉਂਜ\PR_PRC ਅਭਿਨੈ\N_NN ਕਰੀਨਾ\N_NNP ਦੇ\PSP ਖੂਨ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3872	ਸਲਮਾਨ\N_NNP ਦੇ\PSP ਦਿਲ\N_NN `\RD_PUNC ਤੇ\RB ਅਸਰ\N_NN ਕਰਨ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਕੈਟਰੀਨਾ\N_NNP ਕੈਫ਼\N_NNP `\RD_PUNC ਧੂਮ-3\N_NNP `\RD_PUNC ਹੋਵੇ\V_VM_VF ਜਾਂ\CC_CCD `\RD_PUNC ਫਤੂਰ\N_NNP `\RD_PUNC ਤੇ\CC_CCD ਜਾਂ\CC_CCD ਫਿਰ\RB `\RD_PUNC ਜੱਗਾ\N_NNP ਜਾਸੂਸ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਫੈਂਟਮ\N_NNP `\RD_PUNC ਸੁਰਖ\JJ ਗੁਲਾਬੀ\N_NN ਬੁੱਲ੍ਹੀਆਂ\N_NN ਨਾਲ\PSP ਦਰਸ਼ਕਾਂ\N_NN ਨੂੰ\PSP ਖੁਸ਼\N_NN ਕਰਕੇ\V_VM_VF ਆਪਣੇ\PR_PRF ਕੈਰੀਅਰ\N_NN ਦੇ\PSP ਨੂੰ\PSP ਉਚਾਈ\N_NN `\RD_PUNC ਤੇ\RB ਹੀ\RP_RPD ਰੱਖੇਗੀ\V_VM_VF |\RD_PUNC `\RD_PUNC
+PBED3873	`\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਪਾਰਟਨਰ-2\N_NNP `\RD_PUNC ਆਦਿ\RP_CL ਵੱਡੀਆਂ\JJ ਫ਼ਿਲਮਾਂ\N_NN ਵੀ\RP_RPD ਕੈਟ\N_NNP ਕੋਲ\RB ਹਨ\V_VAUX |\RD_PUNC
+PBED3874	ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਉਹ\PR_PRP ਰਿਤਿਕ\N_NNP ਰੌਸ਼ਨ\N_NNP ਨਾਲ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3875	`\RD_PUNC ਫੈਂਟਮ\N_NNP `\RD_PUNC ਸ਼ਾਇਦ\RB 15\QT_QTC ਅਗਸਤ\N_NNP ਨੂੰ\PSP ਆ\V_VM ਜਾਵੇ\V_VM_VF ਤੇ\CC_CCD ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਕੈਟਰੀਨਾ\N_NNP ਦਾ\PSP ਨਾਇਕ\N_NN ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3876	ਸਲਮਾਨ\N_NNP ਦੀ\PSP ਕਦੇ\RB ਚਹੇਤੀ\N_NN ਰਹਿਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF ਕੈਟਰੀਨਾ\N_NNP ਸਬੰਧੀ\N_NN ਹੁਣ\RB ਇਹ\DM_DMD ਆਮ\N_NN ਗੱਲ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3877	ਸਲਮਾਨ\N_NNP ਨਾਲ\PSP ਕਰੀਨਾ\N_NNP ਜ਼ਿਆਦਾ\JJ ਜਚਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3878	ਇਕ\QT_QTC ਸਰਵੇ\N_NN ਵਿਚ\PSP ਕਰੀਨਾ\N_NNP ਨੂੰ\PSP 52\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਤੇ\N_NN ਕੈਟਰੀਨਾ\N_NNP ਨੂੰ\PSP 48\QT_QTC ਫ਼ੀਸਦੀ\N_NN ਵੋਟ\N_NN ਮਿਲੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3879	ਰਣਬੀਰ\N_NNP ਕਪੂਰ\N_NNP ਨੇ\PSP ਪਿਛਲੇ\RB ਹਫਤੇ\N_NN ਕੈਟਰੀਨਾ\N_NNP ਦੇ\PSP ਜਨਮ\N_NN ਦਿਨ\N_NN ਮੌਕੇ\N_NN ਪਾਰਟੀ\N_NN ਦੀ\PSP ਸਾਰੀ\QT_QTF ਜ਼ਿੰਮੇਵਾਰੀ\N_NN ਸੰਭਾਲ\N_NN ਕੇ\RP_RPD ਕਈ\QT_QTF ਚਰਚਾਵਾਂ\N_NN ਸ਼ੁਰੂ\RB ਕੀਤੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3880	ਹੁਣ\RB ਤਾਂ\PSP ਕੈਟਰੀਨਾ\N_NNP ਰਣਬੀਰ\N_NNP ਨੂੰ\PSP ਅਸਲੀ\N_NN ਜੋੜੀ\N_NN ਵੀ\RP_RPD ਕਿਹਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3881	`\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ਦੀ\PSP ਰਿਪੋਰਟ\N_NN ਵਧੀਆ\JJ ਹੋਣ\V_VM_VNF ਉੱਤੇ\RB ਕੈਟ\N_NNP ਕਾਫ਼ੀ\QT_QTF ਖੁਸ਼\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3882	30\QT_QTC ਦੀ\PSP ਹੋ\V_VM ਕੇ\RP_RPD ਵੀ\RP_RPD `\RD_PUNC ਧੂਮ-3\N_NNP `\RD_PUNC ਲਈ\PSP ਜ਼ਬਰਦਸਤ\JJ ਸਟੰਟ\N_NN ਆਪ\PR_PRF ਉਸ\PR_PRP ਦੀ\PSP ਫਿਟਨੈੱਸ\N_NN ਕਹਾਣੀ\N_NN ਬਿਆਨਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3883	ਜੈਕਲਿਨ\N_NNP ਫਰਨਾਂਡਿਜ਼\N_NNP ਨੇ\PSP ਵੀ\RP_RPD ਕੈਟ\N_NNP ਦੀ\PSP ਖੂਬ\JJ ਤਾਰੀਫ਼\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3884	ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ਹਿੰਦੀ\N_NNP ,\RD_PUNC ਤਾਮਿਲ\N_NNP ਤੇ\CC_CCD ਤੇਲਗੂ\N_NNP ਵਿਚ\PSP ਵੀ\RP_RPD ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3885	ਸੱਲੂ\N_NNP ਦੀ\PSP `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਵੱਜਣ\V_VM_VNF ਦੀ\PSP ਦੇਰ\N_NN ਤੇ\CC_CCD ਕੈਟ\N_NNP `\RD_PUNC ਬੈਂਗ\N_NNP ਬੈਂਗ\N_NNP `\RD_PUNC ਨਾਲ\PSP ਤਿੰਨ\QT_QTC ਫ਼ਿਲਮ\N_NN ਨਗਰੀਆਂ\N_NN ਵਿਚ\PSP ਦਸਤਕ\N_NN ਦੇ\PSP ਕੇ\RP_RPD ਮੋੜਵਾਂ\N_NN ਜਵਾਬ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਦਿੰਦੀ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3886	ਦੁੱਧ\N_NN ਰੰਗੀ\N_NN ਯਾਨੀ\N_NN `\RD_PUNC ਮਿਲਕੀ\N_NN ਬਿਊਟੀ\N_NN `\RD_PUNC ਤਮੰਨਾ\N_NNP ਭਾਟੀਆ\N_NNP ਹੈਰਾਨ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਨੂੰ\PSP ਇਹ\DM_DMD ਰੁਤਬਾ\N_NN ਕਿਵੇਂ\DM_DMQ ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3887	ਦੱਖਣ\N_NN ਭਾਰਤ\N_NNP ਦੀ\PSP ਰਾਣੀ\N_NN ਤਮੰਨਾ\N_NNP ਹੈ\V_VAUX ਤਾਂ\PSP ਸਾਫ਼\N_NN ਰੰਗ\N_NN ਦੀ\PSP ਪਰ\CC_CCD ਨਕਸ਼\N_NN ਤੇ\CC_CCD ਨੈਣ\N_NN ਖਿੱਚਵੇਂ\N_NN ਹੋਣ\V_VM_VNF ਕਾਰਨ\N_NN ਅਤੇ\CC_CCD ਜ਼ਬਰਦਸਤ\N_NN ਖਿੱਚ\N_NN ਕਾਰਨ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP `\RD_PUNC ਮਿਲਕੀ\N_NN ਬਿਊਟੀ\N_NN `\RD_PUNC ਦਾ\PSP ਤਗਮਾ\N_NN ਮਿਲ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBED3888	`\RD_PUNC ਹਿੰਮਤਵਾਲਾ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਅਜੈ\N_NNP ਦੇਵਗਨ\N_NNP ਦੀ\PSP ਨਾਇਕਾ\N_NN ਬਣ\V_VM ਚੁੱਕੀ\V_VM_VF ਤਮੰਨਾ\N_NNP 10\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਸੀ\V_VAUX ਤਾਂ\PSP ਅਕਸ਼ੈ\N_NNP ਕੁਮਾਰ\N_NNP ਦੀ\PSP ਪ੍ਰਸੰਸਕ\N_NN ਬਣ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3889	`\RD_PUNC ਧੜਕਣ\N_NNP `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਦੇਖ\V_VM ਕੇ\RP_RPD ਉਸ\PR_PRP ਨੇ\PSP ਕਿਹਾ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਅਕਸ਼ੈ\N_NNP ਐਕਸ਼ਨ\N_NN ਨਹੀਂ\RP_NEG ਰੁਮਾਂਟਿਕ\N_NN ਫ਼ਿਲਮਾਂ\N_NN ਹੀ\RP_RPD ਕਰਿਆ\V_VM_VF ਕਰੇ\V_VM_VF |\RD_PUNC
+PBED3890	ਸੰਤੋਸ਼\N_NNP ਭਾਟੀਆ\N_NNP ਤੇ\CC_CCD ਰਜਨੀ\N_NNP ਭਾਟੀਆ\N_NNP ਦੀ\PSP ਬੇਟੀ\N_NN ਤਮੰਨਾ\N_NNP ਨੇ\PSP ਕਾਫ਼ੀ\QT_QTF ਸਾਰੇ\QT_QTF ਵਿਗਿਆਪਨ\N_NN ਵੀ\RP_RPD ਕੀਤੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3891	ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਚਾਹੇ\RB ਉਸ\PR_PRP ਦਾ\PSP ਆਧਾਰ\N_NN ਨਹੀਂ\RP_NEG ਬਣਿਆ\V_VM_VF ਪਰ\CC_CCD ਤਾਮਿਲ\N_NNP ਤੇ\CC_CCD ਤੇਲਗੂ\N_NNP ਵਿਚ\PSP ਉਸ\PR_PRP ਦੀ\PSP ਬੱਲੇ-ਬੱਲੇ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3892	ਬਹੁ-ਭਾਸ਼ੀ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਬਾਹੂਬਲੀ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਤਮੰਨਾ\N_NNP ਜ਼ਿੰਦਗੀ\N_NN ਦਾ\PSP ਸਭ\QT_QTF ਤੋਂ\PSP ਅਹਿਮ\N_NN ਕਿਰਦਾਰ\N_NN ਨਿਭਾਉਣ\V_VM_VNF ਜਾ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3893	ਤਮੰਨਾ\N_NNP ਦੀ\PSP ਖੂਬੀ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹ\PR_PRP ਬਹੁਤ\N_NN ਘੱਟ\QT_QTF ਰੂਪ\N_NN ਸੱਜਾ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3894	ਕੇਵਲ\RB ਕੈਮਰੇ\N_NN ਦੇ\PSP ਅਸਰ\N_NN ਲਈ\PSP ਹੀ\RP_RPD ਉਹ\PR_PRP ਥੋੜ੍ਹਾ\QT_QTF ਜਿਹਾ\DM_DMR ਮੇਕਅਪ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3895	ਅੱਜ\RB ਕੱਲ\RB ਤਮੰਨਾ\N_NNP ਦਾ\PSP ਜ਼ਿਆਦਾ\JJ ਧਿਆਨ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਬਾਹੂਬਲੀ\N_NNP `\RD_PUNC ਵੱਲ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3896	ਤਮੰਨਾ\N_NNP ਦੀ\PSP ਤਮੰਨਾ\N_NN ਅਕਸ਼ੈ\N_NNP ਕੁਮਾਰ\N_NNP ਨਾਲ\PSP ਇਕ\QT_QTC ਟੀ.\N_NN ਵੀ.\N_NN ਸ਼ੋਅ\N_NN ਕਰਨ\N_NN ਦੀ\PSP ਵੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3897	ਤਾਮਿਲ\N_NNP ਅਭਿਨੇਤਰੀ\N_NN ਦਾ\PSP ਉਸ\PR_PRP ਉਪਰ\N_NN ਲੱਗਾ\V_VM_VF ਠੱਪਾ\N_NN ਲੱਥ\RB ਨਹੀਂ\RP_NEG ਰਿਹਾ\V_VM_VF |\RD_PUNC
+PBED3898	ਅਭਿਨੇਤਾ\N_NN ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਨੇ\PSP ਜਿਥੇ\DM_DMR ਬਹੁਤ\JJ ਸਾਰੀਆਂ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਅਭਿਨੈ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਥੇ\N_NST ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਵੀ\RP_RPD ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3899	ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀ\PSP ਇਕ\QT_QTC ਰੁਮਾਂਟਿਕ\N_NN ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਲੇਕਰ\N_NNP ਹਮ\N_NNP ਦੀਵਾਨਾ\N_NNP ਦਿਲ\N_NNP `\RD_PUNC ਵੀ\RP_RPD ਰਿਲੀਜ਼\N_NN ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBED3900	ਜਿਸ\PR_PRL ਵਿਚ\PSP ਰਾਜ\N_NNP ਕਪੂਰ\N_NNP ਦਾ\PSP ਦੋਹਤਾ\N_NN ਅਰਮਾਨ\N_NNP ਜੈਨ\N_NNP ਤੇ\CC_CCD ਨਵੀਂ\N_NN ਨਾਇਕਾ\N_NN ਦੀਕਸ਼ਾ\N_NNP ਸੇਠ\N_NNP ਵੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3901	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਸੰਗੀਤ\N_NN ਏ.\N_NNP ਆਰ.\N_NNP ਰਹਿਮਾਨ\N_NNP ਦਾ\PSP ਤੇ\CC_CCD ਨਿਰਦੇਸ਼ਨ\N_NN ਆਰਿਫ਼\N_NNP ਅਲੀ\N_NNP ਦਾ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBED3902	ਜੋ\DM_DMR ਇਮਤਿਆਜ਼\N_NNP ਅਲੀ\N_NNP ਦਾ\PSP ਭਰਾ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3903	ਸੈਫ਼\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨੂੰ\PSP ਇਰੋਸ\N_NNP ਇੰਟਰਨੈਸ਼ਨਲ\N_NNP ਨੇ\PSP ਪੂਰੀ\JJ ਦੁਨੀਆ\N_NN ਵਿਚ\PSP ਰਿਲੀਜ਼\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3904	ਸੈਫ਼\N_NNP ਅਲੀ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀਆਂ\PSP ਦੋ\QT_QTC ਫ਼ਿਲਮਾਂ\N_NN ਬਤੌਰ\N_NN ਨਿਰਮਾਤਾ\N_NN `\RD_PUNC ਹੈਪੀ\N_NNP ਐਾਡਿੰਗ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਫੈਂਟਮ\N_NNP `\RD_PUNC ਆ\V_VM ਰਹੀਆਂ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3905	ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਪੈਸਾ\N_NN ਤਾਂ\PSP ਲੱਗਾ\V_VM_VF ਹੈ\V_VAUX ਪਰ\CC_CCD ਸ਼ੋਅ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBED3906	`\RD_PUNC ਹੈਪੀ\N_NNP ਐਾਡਿੰਗ\N_NNP `\RD_PUNC ਕਾਮੇਡੀ\N_NN ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਵਿਚ\PSP ਗੋਵਿੰਦਾ\N_NNP ਤੇ\CC_CCD ਰਣਬੀਰ\N_NNP ਸ਼ੋਰੀ\N_NNP ਹਨ\V_VAUX |\RD_PUNC
+PBED3907	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਪ੍ਰੀਟੀ\N_NNP ਜ਼ਿੰਟਾ\N_NNP ,\RD_PUNC ਕਰੀਨਾ\N_NNP ਕਪੂਰ\N_NNP ਖ਼ਾਨ\N_NNP ਦੀਆਂ\PSP ਮਹਿਮਾਨ\N_NN ਭੂਮਿਕਾਵਾਂ\N_NN ਹਨ\V_VAUX |\RD_PUNC
+PBED3908	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਨੂੰ\PSP ਵਿਦੇਸ਼\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਫ਼ਿਲਮਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3909	ਕਾਮੇਡੀ\N_NN ਫ਼ਿਲਮ\N_NN ਬਾਰੇ\PSP ਸੈਫ਼\N_NNP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VINF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕਾਮੇਡੀ\N_NN ਫ਼ਿਲਮ\N_NN ਬਣਾਉਣਾ\V_VM_VINF ਸੌਖਾ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3910	ਫ਼ਿਲਮ\N_NN ਬਣਾਉਣਾ\V_VM_VINF ਹੀ\RP_RPD ਅੱਜਕਲ੍ਹ\RB ਕਾਫ਼ੀ\QT_QTF ਮਹਿੰਗਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBED3911	ਕਿਉਂਕਿ\CC_CCS ਹਰੇਕ\QT_QTF ਫ਼ਿਲਮ\N_NN ਨੂੰ\PSP ਅਲੱਗ\N_NN ਹੀ\RP_RPD ਅੰਦਾਜ਼\N_NN ਵਿਚ\PSP ਪੇਸ਼\N_NN ਕਰਨਾ\V_VM_VF ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਵੀ\RP_RPD ਦਰਸ਼ਕਾਂ\N_NN ਦਾ\PSP ਟੇਸਟ\N_NN ਦੇਖ\V_VM ਕੇ\RP_RPD |\RD_PUNC
+PBED3912	ਇਕ\QT_QTC ਫ਼ਿਲਮ\N_NN ਕਬੀਰ\N_NNP ਖ਼ਾਨ\N_NNP ਦੇ\PSP ਨਿਰਦੇਸ਼ਨ\N_NN ਵਿਚ\PSP `\RD_PUNC ਫੈਂਟਮ\N_NNP `\RD_PUNC ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਵਿਚ\PSP ਕੈਟਰੀਨਾ\N_NNP ਕੈਫ਼\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3913	ਸਾਜਿਦ\N_NNP ਨਾਡਿਆਡਵਾਲਾ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਅੱਤਵਾਦ\N_NN ਤੇ\CC_CCD ਆਧਾਰਿਤ\N_NN ਐਕਸ਼ਨ\N_NN ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3914	ਅੱਜਕਲ\RB ਸਭ\QT_QTF ਤੋਂ\PSP ਜ਼ਿਆਦਾ\JJ ਚਰਚਾ\N_NN ਸੋਨਾਕਸ਼ੀ\N_NNP ਸਿਨਹਾ\N_NNP ਦੀ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3915	ਅਰਜੁਨ\N_NNP ਕਪੂਰ\N_NNP ਨਾਲ\PSP ਉਹ\PR_PRP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਤੇਵਰ\N_NNP `\RD_PUNC ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ਤੇ\CC_CCD ਨਾਲ\PSP ਹੀ\RP_RPD ਸਾਰੀਆਂ\QT_QTF ਫ਼ਿਲਮੀ\N_NN ਸਰਗਰਮੀਆਂ\N_NN ਤੇ\RB ਉਸ\PR_PRP ਦੀ\PSP ਨਜ਼ਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3916	ਪਹਿਲਾਂ\RB ਤਾਂ\PSP ਸੋਨਾਕਸ਼ੀ\N_NNP ਨੇ\PSP ਪਿ੍ਅੰਕਾ\N_NNP ਲਈ\PSP ਕਸੀਦੇ\N_NN ਪੜੇ\V_VM_VF ਤੇ\CC_CCD ਫਿਰ\RB ਕਿਹਾ\V_VM_VF ਕਿ\CC_CCS ਉਹ\PR_PRP ਪੀ.\N_NNP ਟੀ.\N_NNP ਊਸ਼ਾ\N_NNP ਬਣਨਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3917	ਮਤਲਬ\N_NN ਕਿ\CC_CCS `\RD_PUNC ਪੀ.\N_NNP ਟੀ.\N_NNP ਊਸ਼ਾ\N_NNP ਬਾਇਓਪਿਕ\N_NN `\RD_PUNC ਫ਼ਿਲਮ\N_NN ਬਣੇ\V_VM_VINF |\RD_PUNC
+PBED3918	ਉਹ\PR_PRP ਮੁੱਖ\JJ ਭੂਮਿਕਾ\N_NN ਨਿਭਾਉਣ\V_VM_VNF ਨੂੰ\PSP ਤਿਆਰ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3919	ਲਓ\RP_INJ ਜੀ\RP_INJ ਕ੍ਰਿਕਟ\N_NNP ,\RD_PUNC ਫੁੱਟਬਾਲ\N_NNP ਤੋਂ\PSP ਬਾਅਦ\RB `\RD_PUNC ਵਿਸ਼ਵ\N_NNP ਕਬੱਡੀ\N_NNP ਲੀਗ\N_NNP `\RD_PUNC ਆ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3920	ਪੂਨਮ\N_NNP ਦੀ\PSP ਸ਼ਹਿਜ਼ਾਦੀ\N_NN ਸੋਨਾਕਸ਼ੀ\N_NNP ਨੇ\PSP ਕਬੱਡੀ\N_NNP ਦੀ\PSP ਟੀਮ\N_NN ਖਰੀਦ\N_NN ਲਈ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3921	`\RD_PUNC ਯੂਨਾਈਟਿਡ\N_NNP ਸਿੰਘ\N_NNP `\RD_PUNC ਵਾਲੀ\V_VM_VF ਕਬੱਡੀ\N_NNP ਟੀਮ\N_NN ਸੋਨਾਕਸ਼ੀ\N_NNP ਦੀ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3922	ਅਕਸ਼ੈ\N_NNP ਕੁਮਾਰ\N_NNP ਤੇ\CC_CCD ਹਨੀ\N_NNP ਸਿੰਘ\N_NNP ਤੋਂ\PSP ਬਾਅਦ\RB ਸੋਨਾ\N_NNP ਕਬੱਡੀ-ਕਬੱਡੀ\N_NN ਕਰਾਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3923	ਹਨੀ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਵੀਡੀਓ\N_NN `\RD_PUNC ਇਸੇ\DM_DMD ਕਹਿਤੇ\V_VM_VF ਹੈ\V_VAUX ਹਿੱਪ\N_NN ਹੋਪ\N_NN `\RD_PUNC ਵਿਚ\PSP ਵੀ\RP_RPD ਸੋਨਾ\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3924	ਕਈ\QT_QTF ਫ਼ਿਲਮਾਂ\N_NN ਦਾ\PSP ਨਿਰਮਾਣ\N_NN ਕਰਨ\V_VM_VNF ਵਾਲੇ\V_VM_VF ਸਾਜਿਦ\N_NNP ਨਡਿਆਦਵਾਲਾ\N_NNP ਹੁਣ\RB ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਤੋਂ\PSP ਨਿਰਦੇਸ਼ਕ\N_NN ਬਣ\V_VM ਗਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3925	ਸਲਮਾਨ\N_NNP ਅਤੇ\CC_CCD ਸਾਜਿਦ\N_NNP ਦਾ\PSP ਆਪਸ\PR_PRC ਵਿਚ\PSP ਪੁਰਾਣਾ\N_NN ਸਬੰਧ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3926	ਸਾਜਿਦ\N_NNP ਵੱਲੋਂ\PSP ਬਣਾਈ\V_VM_VF ਗਈ\V_VM_VF `\RD_PUNC ਜੀਤ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਜੁੜਵਾਂ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਹਰ\N_NNP ਦਿਲ\N_NNP ਜੋ\N_NNP ਪਿਆਰ\N_NNP ਕਰੇਗਾ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਜਾਨੇਮਨ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਮੁਝਸੇ\N_NNP ਸ਼ਾਦੀ\N_NNP ਕਰੋਗੀ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਸਲਮਾਨ\N_NNP ਨੇ\PSP ਕੰਮ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3927	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਜਦੋਂ\PR_PRL ਸਾਜਿਦ\N_NNP ਨੇ\PSP ਨਿਰਦੇਸ਼ਕ\N_NN ਬਣਨ\V_VM_VNF ਦਾ\PSP ਮਨ\N_NN ਬਣਾਇਆ\V_VM_VF |\RD_PUNC
+PBED3928	ਤਾਂ\CC_CCS ਉਨ੍ਹਾਂ\PR_PRL ਨੇ\PSP ਸਲਮਾਨ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਹੀ\RP_RPD ਆਪਣੀ\PR_PRF ਨਿਰਦੇਸ਼ਕ\N_NN ਬਣਨ\V_VM_VNF ਦੀ\PSP ਪਾਰੀ\N_NN ਸ਼ੁਰੂ\RB ਕਰਨਾ\V_VM_VINF ਚੰਗਾ\JJ ਸਮਝਿਆ\V_VM_VF |\RD_PUNC
+PBED3929	ਸਾਜਿਦ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਹਿੱਟ\JJ ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਨਕਲ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3930	ਉਸ\PR_PRP ਤੇਲਗੂ\N_NNP ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਵੀ\RP_RPD `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਹੀ\RP_RPD ਸੀ\V_VAUX |\RD_PUNC
+PBED3931	ਨਿਰਦੇਸ਼ਕ\N_NN ਦੇ\PSP ਤੌਰ\RB ਤੇ\RB ਸਾਜਿਦ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਪਹਿਲੀ\QT_QTO ਪੇਸ਼ਕਸ਼\N_NN ਵਿਚ\PSP ਸਲਮਾਨ\N_NNP ਵੱਲੋਂ\PSP ਇਕ\QT_QTC ਚੋਰ\N_NN ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਨਿਭਾਈ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3932	ਇਸ\DM_DMD ਚੋਰ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਡੇਵਿਲ\N_NNP ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\DM_DMD ਡੇਵਿਲ\N_NNP ਸ਼ੌਕੀਆ\N_NN ਤੌਰ\RB ਤੇ\RB ਚੋਰੀ\N_NN ਕਰਦਾ\V_VM_VF ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3933	ਉਸ\PR_PRP ਨੂੰ\PSP ਲੋਕਾਂ\N_NN ਦੀਆਂ\PSP ਚੀਜ਼ਾਂ\N_NN ਉਡਾ\N_NN ਲੈਣ\V_VM_VNF ਵਿਚ\PSP ਮਜ਼ਾ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC 
+PBED3934	ਖ਼ੁਦ\PR_PRF ਨੂੰ\PSP ਕਿੱਕ\N_NN ਲਗਵਾਉਣ\V_VM_VNF ਦੀ\PSP ਖਾਤਿਰ\N_NN ਸ਼ੌਕੀਆ\JJ ਚੋਰ\N_NN ਬਣਿਆ\V_VM_VF ਡੇਵਿਲ\N_NNP ਬਾਅਦ\RB ਵਿਚ\PSP ਸ਼ਾਤਿਰ\N_NN ਚੋਰ\N_NN ਬਣ\V_VM ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3935	ਉਸ\PR_PRP ਦੇ\PSP ਕਾਰਨਾਮੇ\N_NN ਦੇਖ\V_VM ਕੇ\RP_RPD ਅੰਤਰਰਾਸ਼ਟਰੀ\JJ ਪੁਲਿਸ\N_NN ਉਸ\PR_PRP ਦੇ\PSP ਪਿੱਛੇ\N_NN ਲੱਗ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3936	ਪੁਲਿਸ\N_NN ਅਤੇ\CC_CCD ਡੇਵਿਲ\N_NN ਵਿਚਾਲੇ\RB ਖੇਡੀ\N_NN ਗਈ\V_VM_VF ਚੂਹੇ-ਬਿੱਲੀ\N_NN ਦੀ\PSP ਖੇਡ\N_NN ਨੂੰ\PSP ਇਸ\DM_DMD ਵਿਚ\PSP ਰੌਚਕ\N_NN ਅੰਦਾਜ਼\N_NN ਵਿਚ\PSP ਪੇਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3937	ਸਲਮਾਨ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਜੈਕਲਿਨ\N_NNP ਫਰਨਾਂਡਿਸ\N_NNP ,\RD_PUNC ਰਣਦੀਪ\N_NNP ਹੁੱਡਾ\N_NNP ,\RD_PUNC ਨਵਾਜੂਦੀਨ\N_NNP ਸਿਦੀਕੀ\N_NNP ,\RD_PUNC ਸੌਰਭ\N_NNP ਸ਼ੁਕਲਾ\N_NNP ,\RD_PUNC ਸੰਜੈ\N_NNP ਮਿਸ਼ਰਾ\N_NNP ,\RD_PUNC ਅਰਚਨਾ\N_NNP ਪੂਰਨ\N_NNP ਸਿੰਘ\N_NNP ,\RD_PUNC ਸੁਮੋਨਾ\N_NNP ਚੱਕਰਵਰਤੀ\N_NNP ,\RD_PUNC ਕਵਿਨ\N_NNP ਦਵੇ\N_NNP ਅਤੇ\CC_CCD ਮਿਠੁਨ\N_NNP ਚੱਕਰਵਰਤੀ\N_NNP ਹੈ\V_VAUX |\RD_PUNC
+PBED3938	ਨਰਗਿਸ\N_NNP ਫਾਖਰੀ\N_NNP ਉੱਤੇ\RB ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਇਕ\QT_QTC ਆਈਟਮ\N_NN ਗੀਤ\N_NN ਫ਼ਿਲਮਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3939	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦੀ\PSP ਪਟਕਥਾ\N_NN ਦੇ\PSP ਲੇਖਨ\N_NN ਵਿਚ\PSP ਨਾਮੀ\JJ ਨਾਵਲਕਾਰ\N_NN ਚੇਤਨ\N_NNP ਭਗਤ\N_NNP ਨੇ\PSP ਵੀ\RP_RPD ਹੱਥ\N_NN ਵੰਡਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3940	ਆਪਣੀ\PR_PRF ਪਹਿਲੀ\QT_QTO ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਰਾਕ\N_NNP ਸਟਾਰ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਾ\RP_NEG ਚੱਲਣ\V_VM_VNF ਤੋਂ\PSP ਬਾਅਦ\RB ਨਰਗਿਸ\N_NNP ਫਾਖਰੀ\N_NNP ਦੇ\PSP ਹੌਸਲੇ\N_NN ਪਸਤ\N_NN ਨਹੀਂ\RP_NEG ਹੋਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3941	ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਨਰਗਿਸ\N_NNP ਨੇ\PSP `\RD_PUNC ਮਦਰਾਸ\N_NNP ਕੈਫੇ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਪੱਤਰਕਾਰ\N_NN ਦੀ\PSP ਗਲੈਮਰਵਿਹੀਨ\JJ ਭੂਮਿਕਾ\N_NN ਨਿਭਾਈ\V_VM_VF ਤਾਂ\PSP ਲੱਗੇ\V_VM_VF ਹੱਥ\N_NN `\RD_PUNC ਫਟਾ\N_NNP ਪੋਸਟਰ\N_NNP ਨਿਕਲਾ\N_NNP ਹੀਰੋ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਆਈਟਮ\N_NN ਗੀਤ\N_NN ਵੀ\RP_RPD ਕਰ\V_VM ਲਿਆ\V_VM_VF |\RD_PUNC
+PBED3942	ਹੁਣ\RB ਸਲਮਾਨ\N_NNP ਖਾਨ\N_NNP ਨੂੰ\PSP ਚਮਕਾਉਂਦੀ\V_VM_VF `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਵੀ\RP_RPD ਉਹ\PR_PRP ਇਕ\QT_QTC ਆਈਟਮ\N_NN ਗੀਤ\N_NN ਵਿਚ\PSP ਆਪਣੀਆਂ\PR_PRP ਅਦਾਵਾਂ\N_NN ਦੇ\PSP ਜਲਵੇ\N_NN ਬਿਖੇਰਦੀ\V_VM_VF ਨਜ਼ਰ\N_NN ਆਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3943	ਇਸ\DM_DMD ਗੀਤ\N_NN ਨੂੰ\PSP ਕਰਨ\V_VM_VNF ਬਾਰੇ\N_NN ਉਹ\PR_PRP ਕਹਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC `\RD_PUNC ਕਿੱਕ\N_NNP `\RD_PUNC ਵੱਡੇ\JJ ਬਜਟ\N_NN ਦੀ\PSP ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3944	ਸਲਮਾਨ\N_NNP ਖਾਨ\N_NNP ਵਰਗਾ\V_VM_VF ਵੱਡਾ\JJ ਸਟਾਰ\N_NN ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਦਾ\PSP ਹੀਰੋ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3945	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਜਦੋਂ\PR_PRL ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਰਿਲੀਜ਼\N_NN ਹੋਵੇਗੀ\V_VM_VF ਤਾਂ\PSP ਹਰ\QT_QTF ਕਿਸੇ\DM_DMQ ਦਾ\PSP ਧਿਆਨ\N_NN ਫ਼ਿਲਮ\N_NN ਵੱਲ\PSP ਜਾਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3946	ਹੁਣ\RB ਇਸ\DM_DMD ਤਰਾਂ\PSP ਦੀ\PSP ਵੱਡੀ\JJ ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਮੈਨੂੰ\PR_PRP ਕੁਝ\QT_QTF ਕਰਨ\V_VM_VNF ਦਾ\PSP ਮੌਕਾ\N_NN ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਭਲਾ\N_NN ਮੈਂ\PR_PRP ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਦਾ\PSP ਮੌਕਾ\N_NN ਕਿਵੇਂ\DM_DMQ ਛੱਡ\V_VM ਦੇਵਾਂ\V_VM_VF |\RD_PUNC
+PBED3947	ਇਸ\DM_DMD ਗੀਤ\N_NN ਦੀ\PSP ਬਦੌਲਤ\N_NN ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਇਹ\DM_DMD ਸੰਦੇਸ਼\N_NN ਜਾਵੇਗਾ\V_VM_VF ਕਿ\CC_CCS ਮੈਂ\PR_PRP ਅੱਜ\RB ਵੀ\RP_RPD ਅਭਿਨੈ\N_NN ਵਿਚ\PSP ਸਰਗਰਮ\N_NN ਹਾਂ\V_VAUX |\RD_PUNC
+PBED3948	ਅਸਲ\N_NN ਵਿਚ\PSP ਨਰਗਿਸ\N_NNP ਦੇ\PSP ਕੈਰੀਅਰ\N_NN ਨੂੰ\PSP ਉਦੋਂ\DM_DMR ਨੁਕਸਾਨ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBED3949	ਜਦੋਂ\PR_PRL ਉਸ\PR_PRP ਦਾ\PSP ਨਾਂਅ\N_NN ਉਦੈ\N_NNP ਚੋਪੜਾ\N_NNP ਦੇ\PSP ਨਾਲ\PSP ਜੋੜਿਆ\V_VM_VF ਜਾਣ\V_VM_VNF ਲੱਗਾ\V_VM_VF |\RD_PUNC
+PBED3950	ਉਦੋਂ\DM_DMR ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਲੋਕਾਂ\N_NN ਨੇ\PSP ਇਹ\DM_DMD ਮੰਨਣਾ\V_VM_VINF ਸ਼ੁਰੂ\RB ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਕਿ\CC_CCS ਹੁਣ\RB ਨਰਗਿਸ\N_NNP ਵਿਆਹ\N_NN ਕਰਵਾ\V_VM_VF ਕੇ\RP_RPD ਆਪਣਾ\PR_PRF ਘਰ\N_NN ਵਸਾ\N_NN ਲਵੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3951	ਇਸ\DM_DMD ਵਜਾ\N_NN ਨਾਲ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਦੀ\PSP ਪੇਸ਼ਕਸ਼\N_NN ਆਉਣੀ\V_VM_VINF ਬੰਦ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF |\RD_PUNC
+PBED3952	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਆਪਣੇ\PR_PRF ਕੈਰੀਅਰ\N_NN ਰੂਪੀ\N_NN ਗੁਬਾਰੇ\N_NN ਵਿਚ\PSP ਨਵੀਂ\JJ ਹਵਾ\N_NN ਭਰਨ\N_NN ਲਈ\PSP ਹੁਣ\RB ਨਰਗਿਸ\N_NNP ਨੇ\PSP ਆਈਟਮ\N_NN ਗੀਤ\N_NN ਦਾ\PSP ਸਹਾਰਾ\N_NN ਲਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3953	ਤਾਂ\CC_CCS ਕਿ\CC_CCS ਉਹ\PR_PRP ਦੁਨੀਆ\N_NN ਨੂੰ\PSP ਦੱਸ\V_VM ਸਕੇ\V_VM_VF ਕਿ\CC_CCS ਉਹ\PR_PRP ਹੁਣ\RB ਵੀ\RP_RPD ਅਭਿਨੈ\N_NN ਵਿਚ\PSP ਰੁੱਝੀ\V_VM ਹੋਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3954	ਅੱਗੇ\RB ਹੋਰ\N_NN ਵੀ\RP_RPD ਫ਼ਿਲਮਾਂ\N_NN ਕਰਨਾ\V_VM_VINF ਚਾਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3955	ਜਦੋਂ\PR_PRL ਯਸ਼\N_NNP ਰਾਜ\N_NNP ਬੈਨਰ\N_NNP ਨੇ\PSP ਕਾਮੇਡੀਅਨ\N_NN ਕਪਿਲ\N_NNP ਸ਼ਰਮਾ\N_NNP ਨੂੰ\PSP ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਬੈਂਕ\N_NN ਚੋਰ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਹੋਰ\N_NN ਦੋ\QT_QTC ਫ਼ਿਲਮਾਂ\N_NN ਲਈ\PSP ਇਕਰਾਰਬੱਧ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਦੋਂ\DM_DMR ਇਹ\DM_DMD ਮੰਨਿਆ\N_NN ਜਾਣ\V_VM_VNF ਲੱਗਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3956	ਕਿ\CC_CCS ਹੁਣ\RB ਕਪਿਲ\N_NNP ਆਪਣੇ\PR_PRF ਕਾਮੇਡੀ\N_NN ਸ਼ੋਅ\N_NN ਨੂੰ\PSP ਸਮੇਟ\N_NN ਕੇ\RP_RPD ਫ਼ਿਲਮਾਂ\N_NN ਵਿਚ\PSP ਰੁੱਝ\QT_QTF ਜਾਵੇਗਾ\V_VM_VF |\RD_PUNC
+PBED3957	ਕਪਿਲ\N_NNP ਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਚਾਹੁਣ\V_VM_VNF ਵਾਲਿਆਂ\V_VM_VF ਨੂੰ\PSP ਉਦੋਂ\DM_DMR ਝਟਕਾ\N_NN ਲੱਗਾ\N_NN ਜਦੋਂ\PR_PRL ਯਸ਼\N_NNP ਰਾਜ\N_NNP ਬੈਨਰ\N_NNP ਵੱਲੋਂ\PSP ਇਹ\DM_DMR ਐਲਾਨ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਕਿ\CC_CCS ਹੁਣ\RB ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਕਪਿਲ\N_NNP ਸ਼ਰਮਾ\N_NNP ਕੰਮ\N_NN ਨਹੀਂ\RP_NEG ਕਰ\V_VM ਰਿਹਾ\V_VM_VF |\RD_PUNC
+PBED3958	ਇਸ\DM_DMD ਮਾਮਲੇ\N_NN ਵਿਚ\PSP ਤਾਜ਼ਾ\JJ ਖ਼ਬਰ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਹੁਣ\RB ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਲਈ\PSP ਕਪਿਲ\N_NNP ਦੀ\PSP ਥਾਂ\N_NN ਰਿਤੇਸ਼\N_NNP ਦੇਸ਼ਮੁੱਖ\N_NNP ਨੂੰ\PSP ਇਕਰਾਰਬੱਧ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਗਿਆ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3959	ਬੱਪੀ\N_NNP ਵੱਲੋਂ\PSP ਨਿਰਦੇਸ਼ਿਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਣ\V_VM_VNF ਵਾਲੀ\V_VM_VF `\RD_PUNC ਬੈਂਕ\N_NN ਚੋਰ\N_NN `\RD_PUNC ਵਿਚ\PSP ਤਿੰਨ\QT_QTC ਇਸ\DM_DMD ਤਰਾਂ\PSP ਦੇ\PSP ਚੋਰਾਂ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਪੇਸ਼\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3960	ਜੋ\DM_DMR ਇਕ\QT_QTC ਬੈਂਕ\N_NN ਨੂੰ\PSP ਲੁੱਟਣ\V_VM_VNF ਦੀ\PSP ਯੋਜਨਾ\N_NN ਬਣਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBED3961	ਉਸ\PR_PRP ਬੈਂਕ\N_NN ਵਿਚ\PSP ਭਿ੍ਸ਼ਟ\N_NN ਨੇਤਾਵਾਂ\N_NN ਦਾ\PSP ਕਾਲੀ\JJ ਕਮਾਈ\N_NN ਦਾ\PSP ਕਰੋੜਾਂ\N_NN ਰੁਪਿਆ\N_NN ਜਮਾਂ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3962	ਹੁਣ\RB ਖ਼ੁਦ\PR_PRF ਨੂੰ\PSP ਦੁੱਧ\N_NN ਧੋਤਾ\N_NN ਸਾਬਤ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਨੇਤਾਵਾਂ\N_NN ਤੇ\CC_CCD ਪੁਲਿਸ\N_NN ਵੱਲੋਂ\PSP ਇਨ੍ਹਾਂ\DM_DMR ਤਿੰਨਾਂ\QT_QTC ਨੂੰ\PSP ਕਿਵੇਂ\DM_DMQ ਫਸਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3963	ਇਹ\DM_DMD ਇਸ\DM_DMD ਦੀ\PSP ਕਹਾਣੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3964	ਹੁਣ\RB ਕਪਿਲ\N_NNP ਤਾਂ\PSP ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਕੰਮ\N_NN ਨਹੀਂ\RP_NEG ਕਰ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3965	ਦੇਖਣਾ\V_VM_VINF ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਛੋਟੇ\N_NN ਪਰਦੇ\N_NN ਦੇ\PSP ਇਸ\DM_DMD ਸਟਾਰ\N_NN ਨੂੰ\PSP ਵੱਡੇ\JJ ਪਰਦੇ\N_NN ਦਾ\PSP ਸਟਾਰ\N_NN ਬਣਨ\V_VM_VNF ਦਾ\PSP ਮੌਕਾ\N_NN ਕਿਸ\DM_DMQ ਫ਼ਿਲਮ\N_NN ਤੋਂ\PSP ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3966	ਜਦ\DM_DMR ਵੀ\RP_RPD ਪ੍ਰਾਚੀ\N_NNP ਦੇਸਾਈ\N_NNP ਦਾ\PSP ਕੈਰੀਅਰ\N_NN ਥੋੜਾ\QT_QTF ਜਿਹਾ\DM_DMR ਡੋਲਣ\V_VM_VNF ਲਗਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBED3967	ਤਦ\DM_DMR ਹੀ\RP_RPD ਏਕਤਾ\N_NNP ਕਪੂਰ\N_NNP ਉਸ\PR_PRP ਲਈ\PSP ਢਾਲ\N_NN ਬਣ\V_VM ਕੇ\RP_RPD ਆ\V_VM ਖੜਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3968	ਪ੍ਰਾਚੀ\N_NNP ਹੈ\V_VAUX ਹੀ\RP_RPD ਏਕਤਾ\N_NNP ਦੀ\PSP ਖੋਜ\N_NN ਤੇ\CC_CCD ਦੋਵਾਂ\QT_QTO ਦਾ\PSP ਸਹੇਲਪੁਣਾ\N_NN ਬਾਲੀਵੁੱਡ\N_NN ਵਿਚ\PSP ਉਦਾਹਰਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBED3969	ਪ੍ਰਾਚੀ\N_NNP ਨੇ\PSP ਏਕਤਾ\N_NNP ਦੀ\PSP ਨਵੀਂ\N_NN ਅੱਜ\RB ਆ\V_VM ਰਹੀ\V_VM_VF ਫ਼ਿਲਮ\N_NN `\RD_PUNC ਏਕ\N_NNP ਵਿਲੇਨ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਕੰਮ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3970	`\RD_PUNC ਅਵਾਰੀ\N_NN `\RD_PUNC ਗਾਣਾ\N_NN ਪ੍ਰਾਚੀ\N_NNP `\RD_PUNC ਤੇ\RB ਹੀ\RP_RPD ਹੈ\V_VAUX |\RD_PUNC
+PBED3971	ਹਾਲਾਂਕਿ\CC_CCS ਇਸ\DM_DMD ਫ਼ਿਲਮ\N_NN ਵਿਚ\PSP ਸ਼ਰਧਾ\N_NNP ਕਪੂਰ\N_NNP ,\RD_PUNC ਸਿਧਾਰਥ\N_NNP ਮਲਹੋਤਰਾ\N_NNP ਹਨ\V_VAUX |\RD_PUNC
+PBED3972	ਪ੍ਰਾਚੀ\N_NNP ਵੀ\RP_RPD ਏਕਤਾ\N_NNP ਲਈ\PSP `\RD_PUNC ਦੋ\QT_QTC ਜਿਸਮ\N_NN ਇਕ\QT_QTC ਜਾਨ\N_NN ਹੈਂ\N_NN ਹਮ\N_NN `\RD_PUNC ਵਾਲੀ\PSP ਗੱਲ\N_NN ਤੇ\RB ਫੁੱਲ\N_NN ਅਰਪਿਤ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3973	`\RD_PUNC ਏਕ\N_NNP ਵਿਲੇਨ\N_NNP `\RD_PUNC ਦੇ\PSP `\RD_PUNC ਅਵਾਰੀ\N_NN `\RD_PUNC ਗਾਣੇ\N_NN ਲਈ\PSP ਜੋ\DM_DMR ਸੂਰਤ\N_NN ਦੀ\PSP ਪਿਆਰੀ\N_NN ਮੂਰਤ\N_NN ਪ੍ਰਾਚੀ\N_NNP ਨੇ\PSP ਕਰ\V_VM ਦਿਖਾਇਆ\V_VM_VF ਉਹ\PR_PRP ਵੀ\RP_RPD ਆਪਣੇ-ਆਪ\PR_PRF ਵਿਚ\PSP ਪ੍ਰਾਚੀ\N_NNP ਦੇ\PSP ਅਭਿਨੈ\N_NN ਪ੍ਰਤੀ\N_NN ਜਨੂੰਨ\N_NN ਤੇ\CC_CCD ਏਕਤਾ\N_NNP ਲਈ\PSP ਸਰਮਪਣ\N_NN ਦੀ\PSP ਕਹਾਣੀ\N_NN ਹੀ\RP_RPD ਤਾਂ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3974	ਪ੍ਰਾਚੀ\N_NNP ਦੇ\PSP ਦੰਦਾਂ\N_NN ਵਿਚ\PSP ਪੀੜ\N_NN ਸੀ\V_VAUX ਸਮਝ\N_NN ਲਵੋ\V_VM_VF ਸਖਤ\JJ ਜਾੜ\N_NN ਪੀੜ\N_NN ਨਾਲ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਬੁਰਾ\N_NN ਹਾਲ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3975	ਪ੍ਰਾਚੀ\N_NNP ਨੇ\PSP ਦੰਦ\N_NN ਦਰਦ\N_NN ਦੀ\PSP ਪ੍ਰਵਾਹ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBED3976	ਉਹ\PR_PRP ਦਰਦ\N_NN ਦੀਆਂ\PSP ਗੋਲੀਆਂ\N_NN ਖਾ\V_VM ਕੇ\RP_RPD ਗਾਣੇ\N_NN ਦਾ\PSP ਫ਼ਿਲਮਾਂਕਣ\N_NN ਕਰਦੀ\V_VM_VF ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3977	ਸਾਰਾ\QT_QTF ਯੂਨਿਟ\N_NN ਪ੍ਰਾਚੀ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਕੁਰਬਾਨੀ\N_NN ਤੇ\RB ਹੈਰਾਨ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBED3978	ਪ੍ਰਾਚੀ\N_NNP ਗਰਮੀ\N_NN ਵਿਚ\PSP ਦੰਦ\N_NN ਦਰਦ\N_NN ਦੌਰਾਨ\RB ਜਦ\DM_DMR ਇਹ\DM_DMD ਗਾਣਾ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਸੀ\V_VAUX ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਨੱਕ\N_NN ਵਿਚੋਂ\PSP ਲਹੂ\N_NN ਵਹਿ\V_VM ਪਿਆ\V_VM_VF ।\RD_PUNC
+PBED3979	ਪਰ\CC_CCS ਉਹ\PR_PRP ਸਭ\QT_QTF ਦੇ\PSP ਕਹਿਣ\V_VM_VNF ਤੇ\RB ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹਟੀ\V_VM_VF ਤੇ\CC_CCD ਠੀਕ-ਠਾਕ\N_NN ਕਰਕੇ\V_VM_VF ਸ਼ੂਟਿੰਗ\N_NN ਕਰਦੀ\V_VM_VF ਰਹੀ\V_VM_VF |\RD_PUNC
+PBED3980	ਪ੍ਰਾਚੀ\N_NNP ਦੀ\PSP ਇਹ\DM_DMD ਗੱਲ\N_NN ਭਲਾ\N_NN ਏਕਤਾ\N_NNP ਕਿਵੇਂ\DM_DMQ ਭੁੱਲ\V_VM ਜਾਏਗੀ\V_VM_VF |\RD_PUNC
+PBED3981	ਬਾਨੀ\N_NN ਬਣ\V_VM ਘਰ-ਘਰ\N_NN ਦੀ\PSP ਚਹੇਤੀ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਏਕਤਾ\N_NNP ਨੇ\PSP ਹੀ\RP_RPD ਬਣਾਇਆ\V_VM_VF |\RD_PUNC
+PBED3982	ਏਕਤਾ\N_NNP ਦੇ\PSP ਹਰ\QT_QTF ਕਰਜ਼\N_NN ਦਾ\PSP ਮੁੱਲ\N_NN ਉਹ\PR_PRP ਗਾਹੇ-ਬਗਾਹੇ\V_VM_VNG ਤਾਰ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3983	`\RD_PUNC ਆਈ\N_NNP ਮੀ\N_NNP ਔਰ\N_NNP ਮੈਂ\N_NNP `\RD_PUNC ਤੇ\CC_CCD `\RD_PUNC ਰੌਕਆਨ\N_NNP `\RD_PUNC ਵਾਲੀ\V_VM_VF ਪ੍ਰਾਚੀ\N_NNP ਹੁਣ\RB ਅਭਿਨੈ\N_NN ਵਿਚ\PSP ਪ੍ਰਪੱਕ\N_NN ਹੋ\V_VM ਗਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3984	`\RD_PUNC 1920\N_NNP ਲੰਦਨ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਇਲਾਵਾ\RB ਇਕ\QT_QTC ਕੰਨੜ\N_NNP ਫ਼ਿਲਮ\N_NN ਵੀ\RP_RPD ਪ੍ਰਾਚੀ\N_NNP ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3985	ਮਾਧੁਰੀ\N_NNP ਦੀਕਸ਼ਤ\N_NNP ਤੇ\CC_CCD ਕੰਗਨਾ\N_NNP ਰਾਣਾਵਤ\N_NNP ਦੀ\PSP ਪ੍ਰਸੰਸਕਾ\N_NN ਪ੍ਰਾਚੀ\N_NNP ਦੇ\PSP ਕੰਮ\N_NN ਉੱਤੇ\RB ਕਿਸੇ\DM_DMQ ਨੂੰ\PSP ਸ਼ੱਕ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX |\RD_PUNC
+PBED3986	ਉਹ\PR_PRP ਗੰਭੀਰ\JJ ਭੂਮਿਕਾਵਾਂ\N_NN ਕਰਕੇ\V_VM_VF ਜ਼ਿਆਦਾ\JJ ਖੁਸ਼\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3987	`\RD_PUNC ਅਵਾਰੀ\N_NN `\RD_PUNC ਵਿਚ\PSP ਏਕਤਾ\N_NNP ਨੇ\PSP ਜ਼ਰੂਰ\N_NN ਉਸ\PR_PRP ਦੀ\PSP `\RD_PUNC ਕਾਮੁਕ\N_NN `\RD_PUNC ਦਿੱਖ\N_NN ਦਿਖਾਈ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3988	`\RD_PUNC ਏਕ\N_NNP ਵਿਲੇਨ\N_NNP `\RD_PUNC ਪ੍ਰਾਚੀ\N_NNP ਨੂੰ\PSP `\RD_PUNC ਕਾਮੁਕ\N_NN ਰੂਪ\N_NN ਦੀ\PSP ਰਾਣੀ\N_NN `\RD_PUNC ਦੇ\PSP ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਫ਼ਿਲਮ\N_NN ਨਗਰੀ\N_NN ਵਿਚ\PSP ਪੇਸ਼\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3989	ਪ੍ਰਾਚੀ\N_NNP ਦਾ\PSP ਕੈਰੀਅਰ\N_NN ਇਕ\QT_QTC ਵਾਰ\RB ਫਿਰ\RB ਵਧੀਆ\N_NN ਅੰਗੜਾਈ\N_NN ਲੈ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3990	ਏਕਤਾ\N_NNP ਹੁਣ\RB ਪ੍ਰਾਚੀ\N_NNP ਲਈ\PSP ਜ਼ਰੂਰ\N_NN ਕੋਈ\QT_QTF ਵੱਡੀ\JJ ਫ਼ਿਲਮ\N_NN ਕਰੇਗੀ\V_VM_VF |\RD_PUNC
+PBED3991	ਸੁਜਾਏ\N_NNP ਘੋਸ਼\N_NNP ਖੁਸ਼ਕਿਸਮਤ\N_NN ਹੈ\V_VAUX ਕਿਉਂਕਿ\CC_CCS ਅਨੁਰਾਗ\N_NNP ਕਸ਼ਯਪ\N_NNP ਨੂੰ\PSP ਨਾਂਹ\RP_NEG ਕਰਨ\N_NN ਵਾਲੀ\V_VM_VF ਕਰੀਨਾ\N_NNP ਕਪੂਰ\N_NNP ਨੇ\PSP ਉਸਦੀ\DM_DMD ਫ਼ਿਲਮ\N_NN ਸਵੀਕਾਰ\N_NN ਕਰ\V_VM ਲਈ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3992	`\RD_PUNC ਦੁਰਗਾ\N_NNP ਰਾਣੀ\N_NNP ਸਿੰਘ\N_NNP `\RD_PUNC ਬਣਨ\V_VM_VNF ਦਾ\PSP ਮੌਕਾ\N_NN ਬੇਗਮ\N_NNP ਖ਼ਾਨ\N_NNP ਨੂੰ\PSP ਮਿਲ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3993	ਵੈਸੇ\CC_CCS ਇਹ\DM_DMD ਖ਼ਬਰ\N_NN ਹਾਲ\RB ਦੀ\PSP ਘੜੀ\N_NN ਹਵਾ\N_NN ਵਿਚ\PSP ਉੱਡ\V_VM ਰਹੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3994	ਵੈਸੇ\CC_CCS ਇਹ\DM_DMD ਖ਼ਬਰ\N_NN ਪੁਖਤਾ\N_NN ਸੂਤਰਾਂ\N_NN ਦੀ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBED3995	ਦੇਖੀਏ\V_VM_VF ਤਾਂ\PSP `\RD_PUNC ਸਿੰਘਮ-2\N_NNP `\RD_PUNC ਤੋਂ\PSP ਇਲਾਵਾ\RB ਕਰੀਨਾ\N_NNP ਕੋਲ\RB ਕਿਹੜੀ\DM_DMQ ਦੂਸਰੀ\QT_QTO ਫ਼ਿਲਮ\N_NN ਹੈ\V_VAUX ?\RD_SYM
+PBED3996	ਪਹਿਲਾਂ\RB ਵਿਦਿਆ\N_NNP ਬਾਲਨ\N_NNP ਇਹ\DM_DMD ਫ਼ਿਲਮ\N_NN ਕਰ\V_VM ਰਹੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBED3997	ਗੱਲ\N_NN ਕੰਗਨਾ\N_NNP ਨਾਲ\PSP ਵੀ\RP_RPD ਚੱਲੀ\V_VM_VF |\RD_PUNC
+PBED3998	ਮਤਲਬ\N_NN ਕਿ\CC_CCS ਬੇਬੋ\N_NNP ਹੁਣ\RB ਠੁਕਰਾਈਆਂ\N_NN ਦੂਸਰਿਆਂ\QT_QTO ਦੀਆਂ\PSP ਫ਼ਿਲਮਾਂ\N_NN ਵੀ\RP_RPD ਕਰਨ\V_VM_VNF ਲੱਗੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBED3999	ਮਰਦੀ\N_NN ਕੀ\DM_DMQ ਨਾ\RP_NEG ਕਰਦੀ\V_VM_VF ਵਾਲੀ\V_VM_VF ਗੱਲ\N_NN ਤਾਂ\PSP ਨਹੀਂ\RP_NEG |\RD_PUNC
+PBED4000	ਕੰਗਨਾ\N_NNP ਨਿਊਯਾਰਕ\N_NNP ਕੋਰਸ\N_NN ਕਰਨ\V_VM_VNF ਵਾਲੀ\PSP ਹੈ\V_VAUX |\RD_PUNC

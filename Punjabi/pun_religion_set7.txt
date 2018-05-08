@@ -1,0 +1,1001 @@
+ID	Value
+PBRED6001	ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਦੁਨੀਆ\N_NN ਦਾ\PSP ਮਹਾਨ\N_NN ,\RD_PUNC ਨਿਵੇਕਲਾ\JJ ਅਤੇ\CC_CCD ਵਿਗਿਆਨਕ\N_NN ਧਰਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6002	ਇਸ\PR_PRP ਧਰਮ\N_NN ਦੀ\PSP ਨੀਂਹ\N_NN ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਰੱਖੀ\V_VM_VF |\RD_PUNC
+PBRED6003	ਅਤੇ\CC_CCD ਇਸ\PR_PRP ਨੂੰ\PSP ਬੁਲੰਦ\N_NN ਮਹਿਲ\N_NN ਵਜੋਂ\PSP ਸਥਾਪਿਤ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਪਿਤਾ\N_NN ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਤੇਗ\N_NNP ਬਹਾਦਰ\N_NNP ਜੀ\RP_INJ ,\RD_PUNC ਮਾਤਾ\N_NN ਗੁਜਰੀ\N_NNP ਜੀ\RP_INJ ਤੇ\CC_CCD ਚਾਰੇ\N_NN ਸਪੁੱਤਰਾਂ\N_NN ਭਾਵ\N_NN ਸਮੁੱਚੇ\DM_DMQ ਪਰਿਵਾਰ\N_NN ਨੂੰ\PSP ਕੁਰਬਾਨ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6004	ਅੰਤ\JJ ਦਸਮ\N_NNP ਪਾਤਸ਼ਾਹ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਸਵਾਸ\N_NN ਵੀ\RP_RPD ਇਸੇ\DM_DMD ਧਰਮ\N_NN ਲਈ\PSP ਹੀ\RP_RPD ਦੇ\PSP ਦਿੱਤੇ\V_VM_VF ।\RD_PUNC
+PBRED6005	ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਵਰਗਾ\PSP ਧਰਮ\N_NN ਤੇ\CC_CCD ਮਨੁੱਖਤਾ\N_NN ਦਾ\PSP ਬੇਜੋੜ\N_NN ਉਪਾਸ਼ਕ\N_NN ਸਮੁੱਚੇ\DM_DMQ ਵਿਸ਼ਵ\N_NN ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਤਾਂ\CC_CCD ਅੱਜ\N_NN ਤੱਕ\PSP ਪੈਦਾ\V_VM_VF ਹੋਇਆ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਨਾ\RP_NEG ਹੀ\RP_RPD ਸ਼ਾਇਦ\RB ਕਦੇ\RB ਪੈਦਾ\V_VM_VF ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBRED6006	ਧਰਮ\N_NN ਤੇ\CC_CCD ਮਾਨਵਤਾ\N_NN ਦੀ\PSP ਰੱਖਿਆ\V_VM_VF ਲਈ\PSP ਹੀ\RP_RPD `\RD_PUNC ਅਕਾਲ\N_NN ਪੁਰਖ\N_NN `\RD_PUNC ਨੇ\PSP ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਇਸ\DM_DMD ਜਗਤ\N_NN ਵਿਚ\PSP ਭੇਜਿਆ\V_VM_VF ਸੀ\V_VAUX :\RD_PUNC
+PBRED6007	ਹਮ\PR_PRP ਇਹ\PR_PRP ਕਾਜ\N_NN ਜਗਤ\N_NN ਮੋ\PSP ਆਏ\V_VM_VF ॥\RD_PUNC
+PBRED6008	ਧਰਮ\N_NN ਹੇਤ\N_NN ਗੁਰਦੇਵ\N_NN ਪਠਾਏ\V_VM_VF ॥\RD_PUNC
+PBRED6009	ਜਹਾਂ\PR_PRL ਤਹਾਂ\N_NN ਤੁਮ\N_NN ਧਰਮ\N_NN ਬਿਥਾਰੋ\V_VM_VF ॥\RD_PUNC
+PBRED6010	ਦੁਸਟ\N_NN ਦੋਖੀਯਨਿ\N_NN ਪਕਰਿ\N_NN ਪਛਾਰੋ\V_VM_VF ॥\RD_PUNC
+PBRED6011	ਅਦੁੱਤੀ\JJ ਵਿਦਵਾਨ\N_NN ,\RD_PUNC ਵਿਦਵਾਨਾਂ\N_NN ਦੇ\PSP ਕਦਰਦਾਨ\N_NN ਤੇ\CC_CCD ਨੀਚੋਂ\JJ -\RD_PUNC ਊਚ\JJ ਕਰਨ\N_NN ਵਾਲੇ\PSP ਦਸਮ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਸਾਰਾ\QT_QTF ਜੀਵਨ\N_NN ਹੀ\RP_RPD ਮਹਾਨ\N_NN ਅਤੇ\CC_CCD ਰਾਹ\N_NN ਦਸੇਰਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6012	ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਜੀਵਨ\N_NN -\RD_PUNC ਦਰਸ਼ਨ\N_NN ਭਾਈਚਾਰਕ\N_NN ਏਕਤਾ\JJ ਤੇ\CC_CCD ਮਨੁੱਖੀ\N_NN ਅਖੰਡਤਾ\JJ ਦਾ\PSP ਹਾਮੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6013	ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਦੇ\PSP ਨਿਵਾਜੇ\V_VM_VF ਹੋਏ\V_VM_VF ਸਤਿਗੁਰੂ\N_NN ਜੀ\RP_INJ ਪਰਮ\N_NN ਪੁਰਖ\N_NN ਦਾ\PSP ਦਾਸ\N_NN ਬਣ\V_VM_VF ਕੇ\V_VM_VNF ਇਸ\DM_DMD ਸੰਸਾਰ\N_NN ਵਿਚ\PSP ਵਿਚਰੇ\V_VM_VF ।\RD_PUNC
+PBRED6014	ਉਹਨਾਂ\PR_PRP ਆਪਣੀ\PR_PRF ਜੀਵਨ\N_NN ਯਾਤਰਾ\N_NN ਦੌਰਾਨ\RB ਅਨੇਕਾਂ\QT_QTC ਕਾਰਜ\N_NN ਕੀਤੇ\V_VM_VF ।\RD_PUNC
+PBRED6015	ਮਰਦ\JJ ਅਗੰਮੜੇ\JJ ,\RD_PUNC ਪੁਰਖ\N_NN ਭਗਵੰਤ\N_NN ,\RD_PUNC ਸ਼ਹੀਦ\N_NN ਪਿਤਾ\N_NN ਦੇ\PSP ਪੁੱਤਰ\N_NN ,\RD_PUNC ਸ਼ਹੀਦ\N_NN ਪੁੱਤਰਾਂ\N_NN ਦੇ\PSP ਪਿਤਾ\N_NN ਦਸਮ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਜੀ\RP_INJ ਦਾ\PSP 22\QT_QTC ਦਸੰਬਰ\N_NNP 1666\QT_QTC ਈ\N_NN :\RD_PUNC ਨੂੰ\PSP ਪਿਤਾ\N_NN ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਤੇਗ\N_NNP ਬਹਾਦਰ\N_NNP ਜੀ\RP_INJ ਤੇ\CC_CCD ਮਾਤਾ\N_NN ਗੁਜਰੀ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਗ੍ਰਹਿ\N_NN ਸ੍ਰੀ\N_NN ਪਟਨਾ\N_NNP ਸਾਹਿਬ\N_NN ਵਿਖੇ\PSP ਪ੍ਰਕਾਸ਼\JJ ਹੋਇਆ\V_VM_VF :\RD_PUNC
+PBRED6016	ਤਹੀ\RB ਪ੍ਰਕਾਸ\JJ ਹਮਾਰਾ\PR_PRP ਭਯੋ\V_VM_VF ॥\RD_PUNC
+PBRED6017	ਪਟਨਾ\N_NNP ਸਹਰ\N_NN ਬਿਖੈ\PSP ਭਵ\N_NN ਲਯੋ\V_VM_VF ॥\RD_SYM
+PBRED6018	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੀ\PSP ਮਹਾਨ\N_NN ਸ਼ਖ਼ਸੀਅਤ\N_NN ਨੂੰ\PSP ਕਲਮਬੱਧ\N_NN ਕਰਨਾ\V_VM_VF ਕੋਈ\DM_DMQ ਸੌਖਾ\JJ ਕਾਰਜ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6019	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਜੀਵਨ\N_NN ਹਰ\DM_DMQ ਪੱਖੋਂ\N_NN ਮੁਕੰਮਲ\RB `\RD_PUNC ਤੇ\CC_CCD ਆਦਰਸ਼ਕ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6020	ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਪੈਰਾਂ\N_NN ਹੇਠ\JJ ਲਿਤਾੜੀ\N_NN ਜਾ\V_VM ਰਹੀ\V_VM_VF ਮਨੁੱਖਤਾ\N_NN ਦੀ\PSP ਰੱਖਿਆ\V_VM_VF ਕਰਨ\V_VM_VF ਲਈ\PSP ਯਤਨਸ਼ੀਲ\N_NN ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBRED6021	ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਨੇ\PSP ਆਪਣੀ\PR_PRF ਸੰਸਾਰਕ\N_NN ਯਾਤਰਾ\N_NN ਦੌਰਾਨ\RB ਪਰਮਾਤਮਾ\N_NN ਵੱਲੋਂ\PSP ਸੌਂਪੇ\V_VM_VF ਕਾਰਜ\N_NN ਨੂੰ\PSP ਸਫਲਤਾ\JJ ਨਾਲ\PSP ਸੰਪੂਰਨ\JJ ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6022	ਆਪ\PR_PRF ਨੇ\PSP 9\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਛੋਟੀ\JJ ਉਮਰ\N_NN ਵਿਚ\PSP ਆਪਣੇ\PR_PRF ਪਿਤਾ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਮਨੁੱਖਤਾ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਲਈ\PSP ਬਲੀਦਾਨ\N_NN ਦੇਣ\V_VM_VF ਲਈ\PSP ਤੋਰਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6023	ਫਿਰ\RB ਖਾਲਸਾ\N_NNP ਪੰਥ\N_NNP ਦੀ\PSP ਸਿਰਜਣਾ\V_VM_VF ਕੀਤੀ\V_VM_VF ,\RD_PUNC ਧਰਮ\N_NN ਯੁੱਧ\N_NN ਲੜੇ\V_VM_VF ,\RD_PUNC ਮੁਰਦਾ\N_NN ਹੋ\V_VAUX ਚੁੱਕੀ\V_VM_VF ਕੌਮ\N_NN ਵਿਚ\PSP ਨਵੀਂ\JJ ਰੂਹ\N_NN ਫੂਕ\V_VM ਕੇ\V_VM_VNF ਜਾਗ੍ਰਿਤੀ\JJ ਪੈਦਾ\V_VM_VF ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6024	ਔਰੰਗਜ਼ੇਬ\N_NN ਦੇ\PSP ਵਿਸ਼ਾਲ\JJ ਰਾਜ\N_NN ਨਾਲ\PSP ਟੱਕਰ\N_NN ਲਈ\V_VM_VF ।\RD_PUNC
+PBRED6025	ਆਪ\PR_PRF ਨੇ\PSP ਸਮਾਜ\N_NN ਦੇ\PSP ਦੱਬੇ\JJ -\RD_PUNC ਕੁਚਲੇ\JJ ਲੋਕਾਂ\N_NN ਦੀ\PSP ਸਾਰ\N_NN ਲਈ\V_VM_VF ਤੇ\PSP ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਸੀਨੇ\N_NN ਨਾਲ\PSP ਲਾ\V_VM ਕੇ\V_VM_VNF ਸਾਰੀਆਂ\PR_PRQ ਪ੍ਰਾਪਤੀਆਂ\N_NN ਦਾ\PSP ਸਿਹਰਾ\N_NN ਗਰੀਬ\JJ ਸਿੱਖਾਂ\N_NN ਦੇ\PSP ਸਿਰ\N_NN ਬੰਨਿਆ\V_VM_VF ਤੇ\PSP ਕਿਹਾ\V_VM_VF :\RD_PUNC
+PBRED6026	ਇਨ\PR_PRP ਹੀ\RP_RPD ਕੀ\PSP ਕ੍ਰਿਪਾ\N_NN ਕੇ\PSP ਸਜੇ\N_NN ਹਮ\PR_PRP ਹੈਂ\V_VM ,\RD_PUNC
+PBRED6027	ਨਹੀਂ\RP_NEG ਮੋ\PR_PRP ਸੇ\PSP ਗਰੀਬ\N_NN ਕਰੋਰ\N_NN ਪਰੇ\V_VM_VF ॥\RD_PUNC
+PBRED6028	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਨੇ\PSP 1699\QT_QTC ਈ:\N_NN ਵਿਚ\PSP ਖਾਲਸਾ\N_NNP ਪੰਥ\N_NNP ਦੀ\PSP ਸਿਰਜਣਾ\V_VM_VF ਕਰਕੇ\V_VM_VF ਅਜਿਹੇ\RB ਮਰਜੀਵੜਿਆਂ\N_NN ਦੀ\PSP ਕੌਮ\N_NN ਪੈਦਾ\V_VM_VF ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6029	ਜਿਸ\PR_PRL ਨੇ\PSP ਕੌਮ\N_NN ਅੰਦਰ\JJ ਏਕਤਾ\JJ ,\RD_PUNC ਕੁਰਬਾਨੀ\N_NN ,\RD_PUNC ਦਲੇਰੀ\JJ ਤੇ\PSP ਜ਼ੁਲਮ\JJ ਵਿਰੁੱਧ\N_NN ਡਟਣ\V_VM_VF ਦੀ\PSP ਭਾਵਨਾ\N_NN ਪੈਦਾ\V_VM_VF ਕਰ\V_VM ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6030	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਸਾਰੀਆਂ\PR_PRQ ਸ਼੍ਰੇਣੀਆਂ\N_NN ਦੇ\PSP ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਏਕਤਾ\JJ ਦੇ\PSP ਸੂਤਰ\N_NN ਵਿਚ\PSP ਪਰੋ\V_VM ਲੈਣ\V_VM_VF ਦਾ\PSP ਅਦੁੱਤੀ\JJ ਤੇ\PSP ਮਹਾਨ\N_NN ਕਾਰਜ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6031	ਖਾਲਸਾ\N_NNP ਪੰਥ\N_NNP ਦੀ\PSP ਸਿਰਜਣਾ\V_VM_VF ਕਰਨ\V_VM_VF ਸਮੇਂ\N_NN ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਪੰਜ\QT_QTC ਪਿਆਰਿਆਂ\N_NN ਵਿਚ\PSP ਭਿੰਨ\RB -\RD_PUNC ਭਿੰਨ\RB ਸ਼੍ਰੇਣੀਆਂ\N_NN ਨੂੰ\PSP ਸ਼ਾਮਲ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6032	`\RD_PUNC ਮਾਨਸ\N_NN ਕੀ\PSP ਜਾਤ\N_NN ਸਬੈ\PR_PRQ ਏਕੈ\QT_QTC ਪਹਿਚਾਨਬੋ\V_VM_VF `\RD_PUNC ਦੇ\PSP ਸਿਧਾਂਤ\N_NN ਨੂੰ\PSP ਅਮਲ\N_NN ਵਿਚ\PSP ਲਿਆ\V_VM_VF ਕੇ\V_VM_VNF ਵੱਖ\RB -\RD_PUNC ਵੱਖ\RB ਸ਼੍ਰੇਣੀਆਂ\N_NN ਦੇ\PSP ਲੋਕਾਂ\N_NN ਭਾਵ\N_NN ਪੰਜ\QT_QTC ਪਿਆਰਿਆਂ\N_NN ਨੂੰ\PSP ਇਕੋ\QT_QTC ਹੀ\RP_RPD ਬਾਟੇ\N_NN ਤੋਂ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਛਕਾ\V_VM_VF ਕੇ\V_VM_VNF ਊਚ\JJ -\RD_PUNC ਨੀਚ\JJ ਤੇ\PSP ਇਲਾਕਿਆਂ\N_NN ਦਾ\PSP ਭੇਦ-ਭਾਵ\RB ਮਿਟਾ\V_VM_VF ਕੇ\V_VM_VNF ਲਿਤਾੜੇ\JJ ਤੇ\N_NN ਨਿਮਾਣੇ\JJ ਲੋਕਾਂ\N_NN ਵਿਚ\PSP ਅਜਿਹੀ\RB ਸ਼ਕਤੀ\N_NN ਦਾ\PSP ਸੰਚਾਰ\N_NN ਕੀਤਾ\V_VM_VF ਕਿ\CC_CCS ਉਹ\PR_PRP ਗਿੱਦੜਾਂ\N_NN ਤੋਂ\PSP ਸ਼ੇਰ\N_NN ਬਣ\V_VM ਕੇ\V_VM_VNF ਸਵਾ\QT_QTC -\RD_PUNC ਸਵਾ\QT_QTC ਲੱਖ\QT_QTC ਅੱਤਿਆਚਾਰੀਆਂ\N_NN ਨਾਲ\PSP ਟੱਕਰ\N_NN ਲੈਣ\V_VM_VF ਦੇ\PSP ਸਮਰੱਥ\JJ ਬਣ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6033	ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਏਕਤਾ\JJ ,\RD_PUNC ਸਮਾਨਤਾ\JJ ਤੇ\PSP ਨਿਆਂ\N_NN ਦਾ\PSP ਝੰਡਾ\N_NN ਬੁਲੰਦ\N_NN ਰੱਖਣ\V_VM_VF ਲਈ\PSP ਸਮੇਂ\N_NN ਦੀ\PSP ਵੱਡੀ\JJ ਤੋਂ\PSP ਵੱਡੀ\JJ ਤਾਕਤ\N_NN ਨਾਲ\PSP ਟੱਕਰ\N_NN ਵੀ\RP_RPD ਜਾ\V_VM ਲਈ\V_VM_VF ।\RD_PUNC
+PBRED6034	ਜਿਨਾਂ\PR_PRL ਨੇ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਦਾ\PSP ਘੁੱਟ\N_NN ਪੀਤਾ\V_VM_VF ,\RD_PUNC ਉਹ\PR_PRP ਸ਼ੇਰ\N_NN ਬਣ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6035	ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦੁਆਰਾ\PSP ਸਾਜੇ\V_VM_VF ਗਏ\V_VM_VF ਖਾਲਸੇ\N_NN ਨੇ\PSP ਹੱਕ\N_NN -\RD_PUNC ਸੱਚ\JJ ਖ਼ਾਤਰ\N_NN ਜਾਬਰ\JJ ਮੁਗ਼ਲ\N_NN ਸਾਮਰਾਜ\N_NN ਨਾਲ\PSP ਹਥਿਆਰਬੰਦ\N_NN ਯੁੱਧਾਂ\N_NN ਵਿਚ\PSP ਜਿੱਤਾਂ\JJ ਪ੍ਰਾਪਤ\N_NN ਕੀਤੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6036	ਸਦੀਆਂ\N_NN ਤੋਂ\PSP ਬੁਜ਼ਦਿਲ\JJ ਅਤੇ\CC_CCD ਕਾਇਰ\JJ ਸਮਝੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਲੋਕਾਂ\N_NN ਨੇ\PSP ਖੰਡੇ\N_NN -\RD_PUNC ਬਾਟੇ\N_NN ਦੀ\PSP ਪਾਹੁਲ\N_NN ਛਕ\V_VM ਕੇ\V_VM_VNF ਕਹਿੰਦੇ\V_VM_VF -\RD_PUNC ਕਹਾਉਂਦੇ\V_VM_VF ਲੜਾਕੂਆਂ\N_NN ਨੂੰ\PSP ਜੰਗਾਂ\N_NN ਵਿਚ\PSP ਕਰਾਰੀ\JJ ਮਾਤ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6037	ਸਤਿਗੁਰਾਂ\N_NN ਦਾ\PSP ਧਰਮ\N_NN ਯੁੱਧ\N_NN ਕਿਸੇ\DM_DMD ਜਾਤ\N_NN ਜਾਂ\CC_CCD ਮਜ਼੍ਹਬ\N_NN ਵਿਰੁੱਧ\JJ ਨਹੀਂ\RP_NEG ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6038	ਬਲਕਿ\CC_CCS ਹਰ\PR_PRQ ਤਰਾਂ\PSP ਦੇ\PSP ਅਨਿਆਂ\JJ ਦੇ\PSP ਵਿਰੁੱਧ\JJ ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6039	ਖਾਲਸਾ\N_NN ਸਿਰਜਣਾ\V_VM_VF ਦਾ\PSP ਮੁੱਖ\N_NN ਉਦੇਸ਼\N_NN ਮਨੁੱਖਤਾ\N_NN ਨੂੰ\PSP ਨਿਰਭੈ\JJ ਤੇ\PSP ਨਿਡਰ\JJ ਬਣਾਉਣਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6040	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨਾ\RP_NEG ਕਿਸੇ\DM_DMD ਨੂੰ\PSP ਡਰਾਉਣ\N_NN ਤੇ\PSP ਨਾ\RP_NEG ਹੀ\RP_RPD ਕਿਸੇ\DM_DMD ਤੋਂ\PSP ਡਰਨ\N_NN ਦੇ\PSP ਹੱਕ\N_NN ਵਿਚ\PSP ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6041	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਸਨਮੁੱਖ\N_NN ਨੌਵੇਂ\QT_QTC ਪਾਤਸ਼ਾਹ\N_NN ਦਾ\PSP ਇਹ\PR_PRP ਉਪਦੇਸ਼\N_NN ਸੀ\V_VAUX :\RD_PUNC
+PBRED6042	ਭੈ\N_NN ਕਾਹੂ\DM_DMD ਕਉ\PSP ਦੇਤ\V_VM_VF ਨਹਿ\RP_NEG ਨਹਿ\RP_NEG ਭੈ\N_NN ਮਾਨਤ\V_VM_VF ਆਨ\V_VM_VF ॥\RD_SYM (\RD_SYM ਪੰਨਾ\N_NN 1427\QT_QTC )\RD_SYM
+PBRED6043	ਦਸਮੇਸ਼\N_NNP ਪਿਤਾ\N_NN ਨੇ\PSP ਖਾਲਸਾ\N_NNP ਪੰਥ\N_NNP ਦੀ\PSP ਸ਼ਕਤੀ\JJ ਦੇ\PSP ਸਹਾਰੇ\N_NN ਸ਼ਕਤੀਸ਼ਾਲੀ\JJ ,\RD_PUNC ਅੱਤਿਆਚਾਰੀ\JJ ਮੁਗ਼ਲ\N_NN ਸ਼ਾਸਨ\N_NN ਦੀਆਂ\PSP ਜੜਾਂ\N_NN ਹਿਲਾ\V_VM_VF ਕੇ\V_VM_VNF ਰੱਖ\V_VM ਦਿੱਤੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6044	ਅੱਤਿਆਚਾਰੀ\N_NN ਮੁਗ਼ਲ\N_NN ਸ਼ਾਸਨ\N_NN ਦੀਆਂ\PSP ਜੜਾਂ\N_NN ਹਿਲਾ\V_VM_VF ਕੇ\V_VM_VNF ਰੱਖ\V_VM ਦਿੱਤੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6045	ਇਥੇ\RB ਹੀ\RP_RPD ਬੱਸ\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਸਗੋਂ\CC_CCD ਆਪ\PR_PRF ਪੰਜ\QT_QTC ਪਿਆਰਿਆਂ\N_NN ਤੋਂ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਛਕ\V_VM ਕੇ\V_VM_VNF ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਚੇਲੇ\N_NN ਬਣ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6046	ਸੰਸਾਰ\N_NN ਦੇ\PSP ਕਿਸੇ\DM_DMD ਪੀਰ\N_NN -\RD_PUNC ਪੈਗ਼ੰਬਰ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਪੈਰੋਕਾਰਾਂ\N_NN ਨੂੰ\PSP ਚੇਲੇ\N_NN ਤੋਂ\PSP ਵਧੇਰੇ\JJ ਮਹਾਨਤਾ\N_NN ਨਹੀਂ\RP_NEG ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBRED6047	ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਆਪ\PR_PRF ਖਾਲਸਾ\N_NN ਬਣਿਆ\V_VM_VF ਤੇ\PSP ਖਾਲਸੇ\N_NN ਨੂੰ\PSP ਗੁਰੂ\N_NN ਬਣਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6048	ਇਹ\PR_PRP ਗੁਰੂ\N_NN -\RD_PUNC ਚੇਲੇ\N_NN ਦਾ\PSP ਕੌਤਕ\N_NN ਵਾਹ\JJ -\RD_PUNC ਵਾਹ\JJ ਦੇ\PSP ਯੋਗ\JJ ਸੀ\V_VAUX :\RD_PUNC
+PBRED6049	ਵਾਹ\JJ ਵਾਹ\JJ ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਆਪੇ\PR_PRF ਗੁਰੁ\N_NN ਚੇਲਾ\N_NN ॥\RD_PUNC (\RD_SYM ਵਾਰ\N_NN 41\QT_QTC )\RD_SYM
+PBRED6050	`\RD_PUNC ਬਚਿਤ੍ਰ\N_NNP ਨਾਟਕ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਦਸਮੇਸ਼\N_NNP ਪਿਤਾ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਜੀਵਨ\N_NN ਦੇ\PSP ਮੂਲ\N_NN ਉਦੇਸ਼\N_NN ਬਾਰੇ\PSP ਕਈ\RB ਥਾਵਾਂ\N_NN `\RD_PUNC ਤੇ\RB ਸੰਕੇਤ\N_NN ਦਿੱਤੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6051	ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਜੀਵਨ\N_NN ਦਾ\PSP ਮੁੱਖ\N_NN ਉਦੇਸ਼\N_NN ਦੁਸ਼ਟਾਂ\JJ ਦਾ\PSP ਨਾਸ਼\N_NN ਕਰਨਾ\V_VM_VF ਤੇ\PSP ਸੰਤਾਂ\N_NN ਨੂੰ\PSP ਉਭਾਰਨਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6052	ਆਪਣੇ\PR_PRF ਕਲਿਆਣਕਾਰੀ\JJ ਜੀਵਨ\N_NN ਦੇ\PSP ਉਦੇਸ਼\N_NN ਤੇ\PSP ਸ਼ੁਭ\JJ -\RD_PUNC ਆਗਮਨ\N_NN ਨੂੰ\PSP ਸਪੱਸ਼ਟ\N_NN ਕਰਦਿਆਂ\V_VM_VF ਕਿਹਾ\V_VM_VF ਹੈ\V_VAUX :\RD_PUNC
+PBRED6053	ਧਰਮ\N_NN ਚਲਾਵਨ\V_VM_VF ਸੰਤ\N_NN ਉਬਾਰਨ\V_VM_VF ॥\RD_PUNC
+PBRED6054	ਦੁਸਟ\JJ ਸਭਨ\DM_DMQ ਕੋ\PSP ਮੂਲ\N_NN ਉਪਾਰਨ\V_VM_VF ॥\RD_PUNC (\RD_SYM ਬਚਿਤ੍ਰ\N_NNP ਨਾਟਕ\N_NNP )\RD_SYM
+PBRED6055	ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਵਿਚ\PSP ਮਨੁੱਖਤਾ\N_NN ਨੂੰ\PSP ਸੰਗਠਤ\JJ ਕਰਨ\V_VM_VF ਦੀ\PSP ਬਾ\RP_RPD -\RD_PUNC ਕਮਾਲ\JJ ਸ਼ਕਤੀ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6056	ਇਸੇ\DM_DMD ਕਰਕੇ\V_VM_VF ਹੀ\RP_RPD ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਉਪਦੇਸ਼ਾਂ\N_NN ਦਾ\PSP ਮਨੁੱਖਤਾ\N_NN ਨੇ\PSP ਭਰਪੂਰ\JJ ਅਸਰ\N_NN ਕਬੂਲਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਉਹ\PR_PRP ਮਹਾਨ\JJ ਯੋਧੇ\N_NN ਬਣ\V_VM ਕੇ\V_VM_VNF ਵਿਚਰਨ\V_VM_VF ਲੱਗੇ\V_VM_VF ।\RD_PUNC
+PBRED6057	ਉਨ੍ਹਾਂ\PR_PRP ਦਾ\PSP ਉਦੇਸ਼\N_NN ਜਾਂ\CC_CCD ਨਿਸ਼ਾਨਾ\N_NN ਨਿੱਜੀ\N_NN ਗਰਜ\N_NN ਜਾਂ\CC_CCD ਵੈਰ\N_NN ਦੀ\PSP ਭਾਵਨਾ\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਬਲਕਿ\CC_CCS ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਦੇ\PSP ਉਪਦੇਸ਼\N_NN ਦੀ\PSP ਪਾਲਣਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6058	ਆਪ\PR_PRF ਨੇ\PSP ਕੇਵਲ\RB ਜੰਗ\N_NN ਵਿਚ\PSP ਸਿੰਘਾਂ\N_NN ਨੂੰ\PSP ਹੀ\RP_RPD ਸ਼ਹੀਦ\N_NN ਨਹੀਂ\RP_NEG ਕਰਵਾਇਆ\V_VM_VF ਬਲਕਿ\CC_CCS ਸਾਹਿਬਜ਼ਾਦਿਆਂ\N_NN ,\RD_PUNC ਮਾਤਾ\N_NN ਜੀ\RP_INJ ਤੇ\N_NN ਪਿਤਾ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਸ਼ਹੀਦੀ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਸਰਬੰਸਦਾਨੀ\JJ ਦਾ\PSP ਰੁਤਬਾ\N_NN ਪ੍ਰਾਪਤ\N_NN ਕੀਤਾ\V_VM_VF ਤੇ\PSP ਪਰਮਾਤਮਾ\N_NN ਦਾ\PSP ਸ਼ੁਕਰਾਨਾ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6059	ਕਲਗੀਧਰ\N_NN ਪਿਤਾ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਚਾਰੇ\QT_QTC ਪੁੱਤਰ\N_NN ਧਰਮ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਲਈ\PSP ਸ਼ਹੀਦ\N_NN ਕਰਵਾ\V_VM_VF ਦਿੱਤੇ\V_VM_VF ।\RD_PUNC
+PBRED6060	ਵੱਡੇ\JJ ਸਾਹਿਬਜ਼ਾਦੇ\N_NN ਚਮਕੌਰ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਯੁੱਧ\N_NN ਵਿਚ\PSP ਤੇ\PSP ਛੋਟੇ\JJ ਸਾਹਿਬਜ਼ਾਦੇ\N_NN ਸਰਹਿੰਦ\N_NNP ਵਿਖੇ\PSP ਦੀਵਾਰ\N_NN ਵਿਚ\PSP ਚਿਣ\V_VM ਕੇ\V_VM_VNF ਸ਼ਹੀਦ\N_NN ਕੀਤੇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6061	ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਅਨੰਦਮਈ\JJ ਦਿਨ\N_NN ਦੇਖੇ\V_VM_VF ,\RD_PUNC
+PBRED6062	ਪਾਉਂਟਾ\N_NNP ਸਾਹਿਬ\N_NNP ਦੀ\PSP ਧਰਤੀ\N_NN `\RD_PUNC ਤੇ\RB ਕੁਦਰਤੀ\N_NN ਨਜ਼ਾਰੇ\N_NN ਵੀ\RP_RPD ਮਾਣੇ\V_VM_VF ,\RD_PUNC ਭੁੱਖਾਂ\N_NN ਕੱਟੀਆਂ\V_VM_VF ,\RD_PUNC
+PBRED6063	ਉਨੀਂਦਰੇ\N_NN ਵੀ\RP_RPD ਕੱਟੇ\V_VM_VF ,\RD_PUNC ਨੰਗੇ\JJ ਪੈਰੀਂ\N_NN ਕੰਡਿਆਂ\N_NN ਉੱਪਰ\RB ਮਾਛੀਵਾੜੇ\N_NNP ਦੇ\PSP ਜੰਗਲਾਂ\N_NN ਵਿਚ\PSP ਸਫਰ\N_NN ਵੀ\RP_RPD ਕੀਤੇ\V_VM_VF ਅਤੇ\CC_CCD ਧਰਮ\N_NN ਲਈ\PSP ਜੰਗਾਂ\N_NN ਵੀ\RP_RPD ਲੜੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6064	ਇਸ\DM_DMD ਸਭ\PR_PRQ ਦੇ\PSP ਬਾਵਜੂਦ\RB ਵੀ\RP_RPD ਕੋਈ\RB ਸ਼ਿਕਵਾ\N_NN ,\RD_PUNC ਸ਼ਿਕਾਇਤ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6065	ਬਸ\N_NN ਕੀਤਾ\V_VM_VF ਤਾਂ\CC_CCD ਕੇਵਲ\RB ਪਰਮਾਤਮਾ\N_NN ਦਾ\PSP ਸ਼ੁਕਰਾਨਾ\V_VM_VF ।\RD_PUNC
+PBRED6066	ਅਨੇਕਾਂ\RB ਮੁਸ਼ਕਿਲਾਂ\JJ ਝੱਲਣ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB ਵੀ\RP_RPD ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਫਰਕ\N_NN ਨਾ\RP_NEG ਆਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6067	ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਇਸ\PR_PRP ਸਹਿਜ\N_NN ਸੁਭਾਅ\N_NN ਨੇ\PSP ਹਜ਼ਾਰਾਂ\QT_QTC ਸ਼ਹੀਦ\N_NN ਪੈਦਾ\V_VM_VF ਕਰ\V_VM ਦਿੱਤੇ\V_VM_VF ,\RD_PUNC
+PBRED6068	ਜਿੰਨਾਂ\PR_PRL ਨੇ\PSP ਸਮਾਂ\N_NN ਆਉਣ\V_VM_VF `\RD_PUNC ਤੇ\RB ਮਨੁੱਖਤਾ\N_NN ਅਤੇ\CC_CCD ਮਜ਼ਲੂਮਾਂ\JJ ਦੀ\PSP ਖ਼ਾਤਰ\N_NN ਕੁਰਬਾਨੀ\N_NN ਕਰਨ\V_VM_VF ਤੋਂ\PSP ਵੀ\RP_RPD ਗੁਰੇਜ਼\N_NN ਨਾ\RP_NEG ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6069	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਅਸੀਂ\PR_PRP ਕਹਿ\V_VM ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਕਿ\CC_CCS ਦਸਮ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣਾ\PR_PRF ਸਾਰਾ\DM_DMQ ਜੀਵਨ\N_NN ਹੀ\RP_RPD ਮਨੁੱਖਤਾ\N_NN ਦੇ\PSP ਸਨਮਾਨ\N_NN ਨੂੰ\PSP ਉੱਚਾ\JJ ਚੁੱਕਣ\V_VM_VF ਅਤੇ\CC_CCD ਮਨੁੱਖੀ\N_NN ਹੱਕਾਂ\N_NN ਦੀ\PSP ਰਖਵਾਲੀ\N_NN ਲਈ\PSP ਲਗਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6070	ਸਤਿਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਸਾਡੇ\PR_PRP ਸਿਰ\N_NN `\RD_PUNC ਤੇ\RB ਵੱਡਾ\JJ ਕਰਜ਼\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6071	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਅਸੀਂ\PR_PRP ਉਤਾਰ\N_NN ਤਾਂ\CC_CCD ਨਹੀਂ\RP_NEG ਸਕਦੇ\V_VM_VF ਪਰ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਉਪਦੇਸ਼ਾਂ\N_NN ਨੂੰ\PSP ਕਮਾ\N_NN ਕੇ\PSP ਅਸੀਂ\PR_PRP ਕੁਝ\RB ਹੱਦ\N_NN ਤੱਕ\PSP ਸੁਰਖਰੂ\N_NN ਜ਼ਰੂਰ\N_NN ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBRED6072	ਸੋ\PR_PRL ਦਸਮ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਪ੍ਰਕਾਸ਼\N_NN ਪੁਰਬ\N_NN ਮੌਕੇ\N_NN ਸਾਨੂੰ\PR_PRP ਪ੍ਰਣ\N_NN ਕਰਨਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX
+PBRED6073	ਕਿ\CC_CCS ਅਸੀਂ\PR_PRP ਜਾਤ\N_NN -\RD_PUNC ਪਾਤ\N_NN ਤੋਂ\PSP ਉੱਪਰ\RB ਉੱਠ\V_VM ਕੇ\V_VM_VNF ਮਾਨਵਤਾ\N_NN ਦੀ\PSP ਸੇਵਾ\N_NN ਲਈ\PSP ਸਦਾ\N_NN ਤਤਪਰ\N_NN ਰਹਾਂਗੇ\V_VM_VF |\RD_PUNC
+PBRED6074	ਧਰਮ\N_NN ਦੀ\PSP ਚੜਦੀ\N_NN ਕਲਾ\N_NN ਲਈ\PSP ਹਰ\DM_DMD ਕੁਰਬਾਨੀ\N_NN ਕਰਨ\V_VM_VF ਨੂੰ\PSP ਸਦਾ\N_NN ਤਿਆਰ\N_NN -\RD_PUNC ਬਰ\N_NN -\RD_PUNC ਤਿਆਰ\N_NN ਰਹਾਂਗੇ\V_VM_VF ।\RD_PUNC
+PBRED6075	ਹਕੀਮ\N_NNP ਅੱਲਾ\N_NNP ਯਾਰ\N_NNP ਖਾਂ\N_NNP ਜੋਗੀ\N_NNP ਨੇ\PSP ਆਪਣੀ\PR_PRF ਰਚਨਾ\N_NN `\RD_PUNC ਗੰਜਿ\N_NNP -\RD_PUNC ਸ਼ਹੀਦਾਂ\N_NNP `\RD_PUNC ਵਿਚ\PSP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਪਾਤਸ਼ਾਹ\N_NN ਦੀ\PSP ਸ਼ਖ਼ਸੀਅਤ\N_NN ਦਾ\PSP ਬਿਆਨ\N_NN ਬੜੇ\N_NN ਖੂਬਸੂਰਤ\JJ ਸ਼ਬਦਾਂ\N_NN ਵਿਚ\PSP ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6076	ਉਸ\PR_PRP ਦਾ\PSP ਕਹਿਣਾ\V_VM_VF ਹੈ\V_VAUX :\RD_PUNC ਇਨਸਾਫ਼\N_NN ਕਰੇ\V_VM_VF ਜੀ\N_NN ਮੇਂ\PSP ਜ਼ਮਾਨਾ\N_NN ਤੋਂ\PSP ਯਕੀਂ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6077	ਕਹਿ\V_VM_VF ਦੇ\PSP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਕਾ\PSP ਸਾਨੀ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6078	ਯਹ\PR_PRP ਪਿਆਰ\N_NN ਮੁਰੀਦੋਂ\N_NN ਸੇ\PSP ਯੇਹ\PR_PRP ਸ਼ਫ਼ਕਤ\N_NN ਭੀ\RP_RPD ਕਹੀਂ\N_NN ਹੈ\V_VAUX ?\RD_PUNC
+PBRED6079	ਭਗਤੀ\N_NN ਮੇਂ\PSP ਗੁਰੂ\N_NN ਅਰਸ਼\N_NN ,\RD_PUNC ਸੰਸਾਰ\N_NN ਜ਼ਿਮੀਂ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6080	ਉਲਫ਼ਤ\N_NN ਕੇ\PSP ਯੇ\PR_PRP ਜਜ਼ਬੇ\N_NN ਨਹੀਂ\RP_NEG ਦੇਖੇ\V_VM_VF ਕਹੀਂ\N_NN ਹਮ\PR_PRP ਨੇ\PSP ।\RD_PUNC
+PBRED6081	ਹੈ\V_VAUX ਦੇਖਨਾ\V_VM_VF ਇਕ\QT_QTC ਬਾਤ\N_NN ਸੁਨੇ\V_VM_VF ਭੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹਮ\PR_PRP ਨੇ\PSP
+PBRED6082	ਇਕ\QT_QTC ਹੋਰ\PR_PRQ ਥਾਂ\N_NN ਪੀਰਾਂ\N_NN -\RD_PUNC ਪੈਗੰਬਰਾਂ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਸਿਰਮੌਰ\N_NN ਰੁਤਬੇ\N_NN ਬਾਰੇ\PSP ਉਸ\PR_PRP ਦਾ\PSP ਕਥਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBRED6083	ਕਿ\CC_CCS ਯਾਕੂਬ\N_NNP ਨੂੰ\PSP ਆਪਣੇ\PR_PRF ਪੁੱਤਰ\N_NN ਯੂਸਫ਼\N_NNP ਦੀ\PSP ਜੁਦਾਈ\N_NN ਵਿਚ\PSP ਉਮਰ\N_NN ਭਰ\N_NN ਰੋਣਾ\N_NN ਪਿਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6084	ਪਰ\CC_CCD ਸਾਰੇ\DM_DMQ ਰਸੂਲਾਂ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਵਰਗਾ\PSP ਸਬਰ\JJ -\RD_PUNC ਸਬੂਰੀ\JJ ਵਾਲਾ\V_VM_VF ਕੋਈ\RB ਹੋਰ\PR_PRQ ਨਹੀਂ\RP_NEG ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6085	ਜਿਸ\PR_PRL ਨੇ\PSP ਚਾਰ\QT_QTC ਬੇਟੇ\N_NN ਕਟਵਾ\V_VM_VF ਕੇ\V_VM_VNF ਇਕ\QT_QTC ਹੰਝੂ\N_NN ਵੀ\RP_RPD ਨਹੀਂ\RP_NEG ਕੇਰਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6086	ਕੋਈ\DM_DMQ ਸ਼ੱਕ\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਰਿਸ਼ੀਆਂ\N_NN ਦੇ\PSP ਮਰਤਬੇ\N_NN ਨੂੰ\PSP ਹੋਰ\DM_DMQ ਉੱਚਾ\JJ ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6087	ਯਾਕੂਬ\N_NNP ਕੋ\PSP ਯੂਸਫ਼\N_NNP ਕੇ\PSP ਬਿਛੜਨੇ\V_VM_VF ਨੇ\PSP ਰੁਲਾਯਾ\V_VM_VF ।\RD_PUNC
+PBRED6088	ਸਾਬਰ\N_NN ਕੋਈ\DM_DMQ ਕਮ\N_NN ਐਸਾ\RB ਰਸੂਲੋਂ\N_NN ਮੇਂ\PSP ਹੈ\V_VAUX ਆਯਾ\V_VM_VF ।\RD_PUNC
+PBRED6089	ਕਟਵਾ\V_VM_VF ਕੇ\V_VM_VNF ਪਿਸਰ\N_NN ਚਾਰ\QT_QTC ਇਕ\QT_QTC ਆਂਸੂ\N_NN ਨਾ\RP_NEG ਗਿਰਾਯਾ\V_VM_VF ।\RD_PUNC
+PBRED6090	ਰੁਤਬਾ\N_NN ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਨੇ\PSP ਰਿਸ਼ੀਓਂ\N_NN ਕਾ\PSP ਬੜਾਯਾ\V_VM_VF ।\RD_PUNC
+PBRED6091	ਅਦੁੱਤੀ\JJ ਸ਼ਖ਼ਸੀਅਤ\N_NN ਦੇ\PSP ਮਾਲਕ\N_NN ,\RD_PUNC ਸਾਹਿਬ\N_NN ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਜੀਵਨ\N_NN ਦੇ\PSP ਕਿਸੇ\DM_DMQ ਵੀ\RP_RPD ਪਹਿਲੂ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਕਰੀਏ\V_VM_VF ਤਾਂ\CC_CCD ਕਲਮ\N_NN ਜੁਆਬ\N_NN ਦੇ\V_VM ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6092	ਇਨਸਾਨੀ\N_NN ਸਮਰੱਥਾ\JJ ਤੋਂ\PSP ਪਰੇ\N_NN ਹੈ\V_VAUX ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਸ਼ਖ਼ਸੀਅਤ\N_NN ਦਾ\PSP ਬਿਆਨ\N_NN ।\RD_PUNC
+PBRED6093	ਇਕ\QT_QTC ਧਰਮ\N_NN -\RD_PUNC ਗੁਰੂ\N_NN ,\RD_PUNC ਇਕ\QT_QTC ਵਿਚਾਰਕ\N_NN ,\RD_PUNC ਇਕ\QT_QTC ਕ੍ਰਾਂਤੀਕਾਰੀ\JJ ,\RD_PUNC ਇਕ\QT_QTC ਯੋਧਾ\JJ -\RD_PUNC ਜਰਨੈਲ\JJ ,\RD_PUNC ਇਕ\QT_QTC ਸਰਬੰਸਦਾਨੀ\JJ ,\RD_PUNC ਇਕ\QT_QTC ਸ਼ਾਇਰ\N_NN ,\RD_PUNC ਇਕ\QT_QTC ਸਾਹਿਤਕਾਰ\N_NN ਅਤੇ\CC_CCD ਸਾਹਿਤਕਾਰਾਂ\N_NN ਦੀ\PSP ਸਰਪ੍ਰਸਤੀ\N_NN ਕਰਨ\V_VM_VF ਵਾਲੇ\PSP ਯੁਗਪੁਰਸ਼\JJ ਦੀ\PSP ਤਰਾਂ\PSP ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਭੂਮਿਕਾ\N_NN ਅਦੁੱਤੀ\JJ ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6094	ਆਪਣੇ\PR_PRF ਜੀਵਨ\N_NN ਦੇ\PSP ਉਦੇਸ਼\N_NN ਨੂੰ\PSP ਸਪੱਸ਼ਟ\N_NN ਕਰਦਿਆਂ\V_VM_VF ਆਪਣੀ\PR_PRF ਆਤਮਕਥਾ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਕਿਹਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6095	ਕਿ\CC_CCS ਮੈਨੂੰ\PR_PRP ਪਰਮ\N_NN -\RD_PUNC ਪੁਰਖ\N_NN ਪਰਮਾਤਮਾ\N_NN ਨੇ\PSP ਸੰਸਾਰ\N_NN `\RD_PUNC ਤੇ\RB ਧਰਮ\N_NN ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਤੇ\CC_CCD ਪ੍ਰਸਾਰ\N_NN ਲਈ\PSP ਭੇਜਿਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6096	ਅਤੇ\CC_CCD ਨਾਲ\PSP ਹੀ\RP_RPD ਇਹ\PR_PRP ਫ਼ਰਮਾਨ\N_NN ਵੀ\RP_RPD ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਜਿਥੇ\RB ਕਿਤੇ\RB ਲੋੜ\N_NN ਪਵੇ\V_VM_VF ,\RD_PUNC
+PBRED6097	ਧਰਮ\N_NN ਦੇ\PSP ਪਾਸਾਰ\N_NN ਵਿਚ\PSP ਰੁਕਾਵਟ\N_NN ਬਣਨ\V_VM_VF ਵਾਲੇ\PSP ਦੋਖੀਆਂ\N_NN ਤੇ\CC_CCD ਦੁਸ਼ਟਾਂ\N_NN ਨੂੰ\PSP ਸਬਕ\N_NN ਸਿਖਾਵਾਂ\V_VM_VF ।\RD_PUNC
+PBRED6098	`\RD_PUNC ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਸੋਭਾ\N_NNP `\RD_PUNC ਦੇ\PSP ਰਚਨਾਕਾਰ\N_NN ਕਵੀ\N_NN ਸੈਨਾਪਤੀ\N_NN ਦਾ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਜੀਵਨ\N_NN ਉਦੇਸ਼\N_NN ਬਾਰੇ\PSP ਕਥਨ\N_NN ਹੈ\V_VAUX -\RD_PUNC `\RD_PUNC ਦੁਸ਼ਟ\JJ ਬਿਡਾਰਣ\V_VM_VF ਸੰਤ\N_NN ਉਬਾਰਨ\V_VM_VF ,\RD_PUNC ਸਭ\DM_DMQ ਜਗ\N_NN ਤਾਰਣ\N_NN ਭਵ\N_NN ਹਰਣੰ\V_VM_VF `\RD_PUNC ,\RD_PUNC ਅਰਥਾਤ\N_NN ਧਰਮ\N_NN ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਲਈ\PSP ,\RD_PUNC ਸੰਤਾਂ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਕਰਨੀ\V_VM_VF ਅਤੇ\CC_CCD ਧਰਮੀ\N_NN ਨਿਜਾਮ\N_NN ਦੀ\PSP ਕਾਇਮੀ\N_NN ਦੀ\PSP ਰਾਹ\N_NN ਵਿਚ\PSP ਰੁਕਾਵਟ\N_NN ਪਾਉਣ\V_VM_VF ਵਾਲੇ\PSP ਦੁਸ਼ਟਾਂ\N_NN ਦਾ\PSP ਨਾਸ਼\N_NN ਕਰਨਾ\V_VM_VF ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਜੀਵਨ\N_NN ਦਾ\PSP ਮੁੱਖ\N_NN ਉਦੇਸ਼\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6099	ਪਰ\CC_CCD ਇਹ\DM_DMD ਵੀ\RP_RPD ਜੱਗ\N_NN ਜ਼ਾਹਿਰ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਸ\DM_DMD ਮਹਾਨ\JJ -\RD_PUNC ਪਵਿੱਤਰ\JJ ਉਦੇਸ਼\N_NN ਦੀ\PSP ਪ੍ਰਾਪਤੀ\N_NN ਲਈ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਸਾਰਾ\QT_QTF ਜੀਵਨ\N_NN ਸੰਘਰਸ਼\N_NN ਕਰਨਾ\V_VM_VF ਪਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6100	ਅਤਿ\QT_QTF ਦੀ\PSP ਅਡੋਲਤਾ\JJ ,\RD_PUNC ਦ੍ਰਿੜਤਾ\JJ ਅਤੇ\CC_CCD ਪਰਿਪੱਕਤਾ\JJ ਇਸ\DM_DMD ਨਿਸ਼ਾਨੇ\N_NN ਦੀ\PSP ਪ੍ਰਾਪਤੀ\N_NN ਲਈ\PSP ਜ਼ਰੂਰੀ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6101	ਅਕਾਲ\JJ -\RD_PUNC ਪੁਰਖ\N_NN ਨਾਲ\PSP ਕੀਤੇ\V_VM_VF ਅਹਿਦ\N_NN ਉੱਪਰ\RB ਕਿਸ\N_NN ਤਰਾਂ\PSP ਪਰਵਾਨ\N_NN ਚੜੇ\V_VM_VF ਹਨ\V_VAUX ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ,\RD_PUNC
+PBRED6102	ਇਸ\DM_DMD ਦੀ\PSP ਜਿਊਂਦੀ\N_NN ਜਾਗਦੀ\N_NN ਮਿਸਾਲ\N_NN ਪਟਨੇ\N_NNP ਵਿਚ\PSP ਪ੍ਰਕਾਸ਼\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਅਨੰਦਪੁਰ\N_NNP ਤੱਕ\PSP ਅਤੇ\CC_CCD ਅਨੰਦਪੁਰ\N_NNP ਤਿਆਗਣ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਹਜ਼ੂਰ\N_NNP ਸਾਹਿਬ\N_NNP ਤੱਕ\PSP ਦੀ\PSP ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਜੀਵਨ\N_NN ਯਾਤਰਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6103	ਇਤਿਹਾਸ\N_NN ਗੁਆਹ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਅਨੰਦਪੁਰ\N_NNP ਦਾ\PSP ਉਜਾੜਾ\V_VM_VF ,\RD_PUNC ਪਰਿਵਾਰ\N_NN ਦਾ\PSP ਵਿਛੋੜਾ\V_VM_VF ,\RD_PUNC ਸਾਹਿਬਜ਼ਾਦਿਆਂ\N_NN ਦੀ\PSP ਸ਼ਹਾਦਤ\N_NN ਆਦਿ\RP_CL ਘਟਨਾਵਾਂ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਦ੍ਰਿੜ\JJ ਸੰਕਲਪ\N_NN ਨੂੰ\PSP ਡੁਲਾ\V_VM_VF ਨਹੀਂ\RP_NEG ਸਕੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6104	ਚਾਰੇ\QT_QTC ਸਾਹਿਬਜ਼ਾਦਿਆਂ\N_NN ਦੀ\PSP ਕੁਰਬਾਨੀ\N_NN ਦੇਣ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB ਜ਼ਫ਼ਰਨਾਮੇ\N_NNP ਵਿਚ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਫ਼ਰਮਾਇਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਕੀ\PR_PRQ ਹੋਇਆ\V_VM_VF |\RD_PUNC
+PBRED6105	ਜੇ\CC_CCD ਮੇਰੇ\PR_PRP ਚਾਰ\QT_QTC ਬੱਚੇ\N_NN ਮਾਰ\V_VM_VF ਦਿੱਤੇ\V_VM_VF ਗਏ\V_VM_VF ,\RD_PUNC ਆਖਰ\RB ਵਿਚ\PSP ਸ਼ਹਿਨਸ਼ਾਹੀਅਤ\N_NN ਭੁਜੰਗੀ\N_NN ਖਾਲਸੇ\N_NN ਪਾਸੋਂ\PSP ਮਾਰ\V_VM_VF ਖਾਵੇਗੀ\V_VM_VF ।\RD_PUNC
+PBRED6106	ਔਰੰਗਜ਼ੇਬ\N_NNP ਨੂੰ\PSP ਕਹੇ\V_VM_VF ਤਾੜਨਾ\N_NN ਭਰੇ\V_VM_VF ਇਹ\DM_DMD ਬਚਨ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਬੁਲੰਦ\JJ ਹੌਸਲਿਆਂ\N_NN ਦੀ\PSP ਗਵਾਹੀ\N_NN ਭਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\N_NN
+PBRED6107	-\RD_PUNC `\RD_PUNC ਚੰਗਿਆੜੀਆਂ\N_NN ਨੂੰ\PSP ਬੁਝਾਉਣ\V_VM_VF ਵਿਚ\PSP ਤੇਰੀ\PR_PRP ਕੀ\PR_PRQ ਬਹਾਦਰੀ\N_NN ਹੈ\V_VAUX ਜਦਕਿ\CC_CCD ਤੂੰ\PR_PRP ਇਕ\QT_QTC ਪਰਚੰਡ\JJ ਜਵਾਲਾ\N_NN ਨੂੰ\PSP ਹੋਰ\DM_DMQ ਭੜਕਾ\V_VM_VF ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX `\RD_PUNC :\RD_PUNC
+PBRED6108	ਚਿਹਾ\N_NN ਸ਼ੁਦ\N_NN ਕਿ\CC_CCS ਚੂੰ\N_NN ਬਚਗਾਂ\N_NN ਕੁਸ਼ਤ\N_NN ਚਾਰ।\N_NN
+PBRED6109	ਕਿ\CC_CCS ਬਾਕੀ\N_NN ਬਿਮਾਂਦਸਤ\N_NN ਪੇਚੀਦਾ\N_NN ਮਾਰ\V_VM_VF ।\RD_PUNC
+PBRED6110	ਚਿਹ\N_NN ਮਰਦੀ\N_NN ਕਿ\CC_CCS ਅਖ਼ਗਰ\N_NN ਖਮੋਸ਼ਾਂ\N_NN ਕੁਨੀ\N_NN ।\RD_PUNC
+PBRED6111	ਕਿ\CC_CCS ਆਤਿਸ਼\N_NN ਦਮਾਂ\N_NN ਰਾ\N_NN ਫਰੋਜ਼ਾਂ\N_NN ਕੁਨੀ\N_NN ।\RD_PUNC
+PBRED6112	ਸੁਆਮੀ\N_NNP ਵਿਵੇਕਾਨੰਦ\N_NNP ਨੇ\PSP ਭਾਰਤ\N_NNP ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਵਿਲੱਖਣ\JJ ਮੁਕਾਮ\N_NN ਬਾਰੇ\PSP ਟਿੱਪਣੀ\N_NN ਕਰਦਿਆਂ\V_VM_VNF ਅਤੇ\CC_CCD ਆਪਣੀ\PR_PRF ਅਕੀਦਤ\N_NN ਪੇਸ਼\N_NN ਕਰਦਿਆਂ\V_VM_VNF ਕਿਹਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6113	`\RD_PUNC ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਸਿੱਖਾਂ\N_NN ਨੂੰ\PSP ਇਹੋ\RB ਜਿਹੀ\RB ਦੀਖਿਆ\N_NN (\RD_SYM ਅੰਮ੍ਰਿਤ\N_NN ਦੀ\PSP ਦਾਤ\N_NN )\RD_SYM ਦਿੱਤੀ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6114	ਜਿਸ\PR_PRL ਨਾਲ\PSP ਉਨ੍ਹਾਂ\PR_PRP ਵਿਚ\PSP ਅਥਾਹ\JJ ਸ਼ਕਤੀ\N_NN ਦਾ\PSP ਸੰਚਾਰ\N_NN ਹੋ\V_VAUX ਗਿਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6115	ਹਰ\DM_DMQ ਇਕ\QT_QTC ਦੀਖਿਅਤ\N_NN ਮਨੁੱਖ\N_NN ਵਿਚ\PSP ਸਵਾ\QT_QTC ਲੱਖ\QT_QTC ਲੋਕਾਂ\N_NN ਦੀ\PSP ਸ਼ਕਤੀ\N_NN ਸਮਾਹਿਤ\N_NN ਹੋ\V_VAUX ਗਈ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6116	ਭਾਰਤ\N_NNP ਵਿਚ\PSP ,\RD_PUNC ਉਸ\PR_PRP ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਵਰਗੀ\PSP ਕੋਈ\DM_DMQ ਹੋਰ\DM_DMQ ਮਿਸਾਲ\N_NN ਵਿਰਲੀ\JJ ਹੀ\RP_RPD ਮਿਲੇਗੀ\V_VM_VF ,\RD_PUNC
+PBRED6117	ਜੋ\DM_DMR ਕੁਝ\DM_DMQ ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਕਰ\V_VM ਦਿਖਾਇਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC `\RD_PUNC
+PBRED6118	ਹਿੰਦੀ\N_NN ਜਗਤ\N_NN ਦੇ\PSP ਮੰਨੇ\RB -\RB ਪ੍ਰਮੰਨੇ\N_NN ਸਾਹਿਤਕਾਰ\N_NN ਹਜਾਰੀ\N_NNP ਪ੍ਰਸਾਦ\N_NNV ਦਿਵੇਦੀ\N_NNP ਮੁਤਾਬਿਕ\PSP ਜੋ\PR_PRL ਕੁਝ\DM_DMQ ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਕਰ\V_VM ਵਿਖਾਇਆ,\V_VM_VF
+PBRED6119	ਉਹ\PR_PRP ਇਕ\QT_QTC ਬਹੁਤ\RB ਵੱਡਾ\JJ ਇਤਿਹਾਸਕ\N_NN ਚਮਤਕਾਰ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6120	ਉਹਨਾਂ\PR_PRP ਦੁਆਰਾ\PSP ਲਿਖੀ\V_VM_VF ਇਬਾਰਤ\N_NN ਇਸ\DM_DMD ਤਰਾਂ\PSP ਹੈ\V_VAUX :\RD_PUNC
+PBRED6121	`\RD_PUNC ਧੰਨ\N_NN ਹੈ\V_VAUX ਉਹ\PR_PRP ਦੇਸ਼\N_NN ,\RD_PUNC ਜਿਥੇ\RB ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਪੈਦਾ\V_VM_VF ਹੋਏ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6122	ਉਹ\PR_PRP ਮਹਾਨ\JJ ਸੰਤ\JJ ਅਤੇ\CC_CCD ਮਹਾਨ\JJ ਯੋਧਾ\JJ ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6123	ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਇਸ\DM_DMD ਦੇਸ਼\N_NN ਦੀ\PSP ਜਨਤਾ\N_NN ਦੀ\PSP ਅਪਾਰ\JJ ਸ਼ਕਤੀ\N_NN ਦਾ\PSP ਉਦਘਾਟਨ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6124	ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਯਾਦ\N_NN ਕਰਕੇ\V_VM_VF ਅਸੀਂ\PR_PRP ਅੱਜ\RB ਵੀ\RP_RPD ਨਵੀਂ\JJ ਪ੍ਰੇਰਨਾ\N_NN ਅਤੇ\CC_CCD ਸ਼ਕਤੀ\N_NN ਹਾਸਲ\N_NN ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX ,\RD_PUNC
+PBRED6125	ਹਾਸਲ\N_NN ਕਰ\V_VM ਵੀ\RP_RPD ਰਹੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBRED6126	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਮਹਾਨ\JJ ਸੰਤ\N_NN ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6127	ਪ੍ਰਸਥਿਤੀਆਂ\N_NN ਨੇ\PSP ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਸ਼ਸਤਰ\N_NN ਧਾਰਨ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਚੁਣੌਤੀ\N_NN ਦਿੱਤੀ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6128	ਉਹਨਾ\PR_PRP ਨੇ\PSP ਉਸ\PR_PRP ਨੂੰ\PSP ਸਵੀਕਾਰ\N_NN ਕੀਤਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6129	ਇਤਿਹਾਸ\N_NN ਦੇ\PSP ਪੰਡਿਤਾਂ\N_NN ਨੇ\PSP ਬੜੇ\N_NN ਅਸਚਰਜ\N_NN ਨਾਲ\PSP ਦੇਖਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਅਦਭੁੱਤ\JJ ਚਮਤਕਾਰ\N_NN ਕਰ\V_VM ਦਿਖਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6130	ਜਨਤਾ\N_NN ਨਿਰਾਸ਼\N_NN ਸੀ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਵਿਚ\PSP ਕਿਸੇ\DM_DMQ ਕਿਸਮ\N_NN ਦਾ\PSP ਆਤਮ\N_NN -\RD_PUNC ਸਨਮਾਨ\N_NN ਨਹੀਂ\RP_NEG ਸੀ\V_VAUX ਰਹਿ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6131	ਅੱਤਿਆਚਾਰ\N_NN ਅਤੇ\CC_CCD ਅਨਾਚਾਰ\N_NN ਨੂੰ\PSP ਕਿਸਮਤ\N_NN ਦਾ\PSP ਦੋਸ਼\N_NN ਕਹਿ\V_VM ਕੇ\V_VM_VNF ਸਵੀਕਾਰ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6132	ਐਸੇ\RB ਹੀ\RP_RPD ਲੋਕਾਂ\N_NN ਵਿਚ\PSP ਉਹਨਾ\PR_PRP ਨੇ\PSP ਮਹਾਨ\N_NN ਸੂਰਬੀਰ\JJ ਪੈਦਾ\V_VM_VF ਕਰ\V_VM ਦਿੱਤੇ\V_VM_VF ।\RD_PUNC
+PBRED6133	ਮੌਤ\N_NN ਦੇ\PSP ਡਰ\JJ ਨੂੰ\PSP ਮੰਨੋ\V_VM_VF ,\RD_PUNC
+PBRED6134	ਮੰਤਰ\N_NN ਦੀ\PSP ਸ਼ਕਤੀ\N_NN ਨਾਲ\PSP ਉੜਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6135	ਸਿਰ\N_NN ਹਥੇਲੀ\N_NN ਉੱਤੇ\RB ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਇਹਨਾ\PR_PRP ਯੋਧਿਆਂ\N_NN ਨੇ\PSP ਅਨਿਆਂ\N_NN ਨੂੰ\PSP ਲਲਕਾਰਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਦੇਖਦਿਆਂ\V_VM_VNF -\RD_PUNC ਦੇਖਦਿਆਂ\V_VM_VNF ਇਤਿਹਾਸ\N_NN ਪਲਟ\N_NN ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6136	ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਇਹੋ\RB ਜਿਹੀ\RB ਕੋਈ\DM_DMQ ਹੋਰ\DM_DMQ ਘਟਨਾ\N_NN ਘੱਟ\JJ ਹੀ\RP_RPD ਵੇਖੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6137	ਕਾਲ\N_NN ਦੇ\PSP ਰਥ\N_NN -\RD_PUNC ਚੱਕਰ\N_NN ਨੂੰ\PSP ਇਸ\DM_DMD ਤਰਾਂ\PSP ਮੋੜ\N_NN ਦੇਣਾ\V_VM_VF ,\RD_PUNC ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਹੀ\RP_RPD ਕਰਾਮਾਤ\N_NN ਸੀ\V_VAUX ।\RD_PUNC `\RD_PUNC
+PBRED6138	ਭਾਈ\N_NNP ਵੀਰ\N_NNP ਸਿੰਘ\N_NNP ਦੀ\PSP ਇਕ\QT_QTC ਲਿਖਤ\N_NN ਦਾ\PSP ਜ਼ਿਕਰ\N_NN ਵੀ\RP_RPD ਮੈਂ\PR_PRP ਇਥੇ\RB ਕਰਨਾ\V_VM_VF ਚਾਹੁੰਦਾ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBRED6139	ਭਾਈ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਬੜੇ\JJ ਨਿਵੇਕਲੇ\JJ ਅੰਦਾਜ਼\N_NN ਵਿਚ\PSP ਭਾਰਤੀ\N_NNP ਇਤਿਹਾਸ\N_NN ਦੀ\PSP ਸਚਾਈ\N_NN ਬਿਆਨ\N_NN ਕਰਦਿਆਂ\V_VM_VNF ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸ਼ਖ਼ਸੀਅਤ\N_NN ਨੂੰ\PSP ਕਲਮਬੰਦ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6140	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਲਿਖਤ\N_NN ਇਸ\DM_DMD ਤਰਾਂ\PSP ਹੈ\V_VAUX :\RD_PUNC
+PBRED6141	`\RD_PUNC ਅਸੀਂ\PR_PRP ਉਹਨਾਂ\PR_PRP ਵਿਚੋਂ\PSP ਹੀ\RP_RPD ਨਿਕਲੇ\V_VM_VF ਹਾਂ\V_VAUX ,\RD_PUNC ਜਿੰਨਾਂ\PR_PRL ਦੀਆਂ\PSP ਸਦੀਆਂ\N_NN ਦੀਆਂ\PSP ਬੇਵੱਸ\N_NN ਮੌਤਾਂ\N_NN ਦੇ\PSP ਕਾਰਨ\N_NN ਇਕ\QT_QTC ਪਹਾੜ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਹੀ\RP_RPD `\RD_PUNC ਹਿੰਦੂ\N_NNP ਕੁਸ਼\N_NNP `\RD_PUNC ਰੱਖ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6142	ਜਿਥੋਂ\RB ਲੰਘਦੇ\V_VM_VF ਹਿੰਦੂ\N_NN ਕੈਦੀ\N_NN ਸਰਦੀ\N_NN ਨਾ\RP_NEG ਝੱਲ\V_VM ਸਕਣ\V_VM_VF ਕਰਕੇ\V_VM_VF ਮਰ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBRED6143	ਤੇ\CC_CCD ਜਰਵਾਣਿਆਂ\N_NN ਨੇ\PSP ਉਸ\PR_PRP ਪਹਾੜ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਹਿੰਦੂ\N_NNP ਕੁਸ਼\N_NNP ਧਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6144	ਸੁਹਣੇ\JJ ਕੁੰਡਿਆਲੇ\JJ ਕੇਸਾਂ\N_NN ਵਾਲੇ\PSP ਕਲਗੀਧਰ\JJ !\RD_PUNC ਧੰਨ\RP_INJ ਤੇਰੀ\PR_PRP ਜਿੰਦ\N_NN !\RD_PUNC ਤੇ\CC_CCD ਜਿੰਦ\N_NN ਪਾਣ\N_NN ਦੀ\PSP ਰੱਬੀ\N_NN ਤਾਕਤ\N_NN !\RD_PUNC ਇਨ੍ਹਾਂ\PR_PRP ਮਰ\V_VM ਮਿਟਿਆਂ\V_VM_VF ਹਿੰਦੀਆਂ\N_NN ਵਿਚ\PSP ਤੂੰ\PR_PRP ਕਿਹੜੀ\PR_PRQ ਅਮਰ\JJ ,\RD_PUNC ਅਝੁਕ\JJ ,\RD_PUNC ਸਦਾ\RB ਬਲਦੀ\V_VM_VF ਜ਼ਿੰਦਗੀ\N_NN ਫੂਕ\V_VM ਦਿੱਤੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਜਿਸ\PR_PRL ਦੇ\PSP ਬੱਚੇ\N_NN ਵੀ\RP_RPD ,\RD_PUNC ਤੇਰੇ\PR_PRP ਆਪਣੇ\PR_PRF ਬੱਚਿਆਂ\N_NN ਵਾਲੀ\PSP ,\RD_PUNC ਬੀਰਤਾ\JJ ਦਿਖਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6145	ਹਾਂ\V_VAUX ,\RD_PUNC ਸੁਹਣੇ\JJ ਕੇਸਾਂ\N_NN ਵਾਲਿਆ\PSP !\RD_PUNC
+PBRED6146	ਤੂੰ\PR_PRP ਹੀ\RP_RPD ਆਪਣੇ\PR_PRF ਜਾਏ\V_VM_VF ,\RD_PUNC ਸਾਡੇ\PR_PRP ਪਾਪਾਂ\N_NN ਦੀ\PSP ਜਗਵੇਦੀ\N_NN ਤੇ\CC_CCD ਬਲੀ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਆਖਿਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਇਹ\DM_DMD ਮੇਰੇ\PR_PRP ਚਾਰ\QT_QTC ਪੁੱਤਰ\N_NN ਸ਼ਹੀਦ\N_NN ਹੋਏ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਪਰ\CC_CCD ਮੇਰੇ\PR_PRP ਲੱਖਾਂ\QT_QTC ਪੁੱਤਰ\N_NN ਹੋਰ\DM_DMQ ਹਨ\V_VAUX -\RD_PUNC ਜੋ\PR_PRL ਖਾਲਸਾ\N_NN ਕਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX ਤੇ\CC_CCD ਏਹ\DM_DMD ਮੇਰੇ\PR_PRP ਖਾਲਸਾ\N_NN ਜੀ\RP_INJ ਇਕ\QT_QTC `\RD_PUNC ਪੁੱਤਰ\N_NN -\RD_PUNC ਸੋਮਾ\N_NN `\RD_PUNC ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6147	ਮੇਰਾ\PR_PRP ਇਹ\DM_DMD ਪੁੱਤਰ\N_NN -\RD_PUNC ਅਮਰ\JJ ਪੁੱਤਰ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਸਦਾ\RB ਜੀਏਗਾ\V_VM_VF ।\RD_PUNC `\RD_PUNC ਖਾਲਸਾ\N_NN `\RD_PUNC ਅਮਰ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6148	ਹਾਂ\RP_RPD ,\RD_PUNC ਤੂੰ\PR_PRP ਸਾਨੂੰ\PR_PRP ਪੁੱਤਰ\N_NN ਬਨਾਇਆ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਤੇ\CC_CCD ਅਮਰ\JJ ਪੁੱਤਰ\N_NN ਬਨਾਇਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6149	ਫੇਰ\RB ਤੇਰੇ\PR_PRP ਇਹ\DM_DMD ਅਮਰ\JJ ਬੱਚੇ\N_NN ਕੀਕੂੰ\PR_PRQ ਨਾ\RP_NEG ,\RD_PUNC ਤੇਰੇ\PR_PRP ਆਪਣੇ\PR_PRF ਜਾਏ\V_VM_VF ਬੱਚਿਆਂ\N_NN ਵਾਲੀ\PSP ਅਹਿੱਲ\JJ ,\RD_PUNC ਅਝੁੱਕ\JJ ,\RD_PUNC ਅਬੁਝ\JJ ਅੱਗ\N_NN ਦਾ\PSP ਅਲਾਂਬਾ\N_NN ਹੋਣ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6150	ਆਖਰ\RB ਵਿਚ\PSP ਮਹਾਂਕਵੀ\N_NNP ਸੰਤੋਖ\N_NNP ਸਿੰਘ\N_NNP ਦੀ\PSP ਇਕ\QT_QTC ਰਚਨਾ\N_NN ਦਾ\PSP ਹਵਾਲਾ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਲੇਖ\N_NN ਨੂੰ\PSP ਸਮਾਪਤ\N_NN ਕਰਨਾ\V_VM_VF ਚਾਹੁੰਦਾ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBRED6151	ਭਾਰਤ\N_NN ਦੇਸ਼\N_NN ਦੀ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਵੱਡੀ\JJ ਖੂਬਸੂਰਤੀ\N_NN ਅਤੇ\CC_CCD ਤਾਕਤ\N_NN ਉਸ\PR_PRP ਦੀ\PSP ਵਿਭਿੰਨਤਾ\JJ ,\RD_PUNC ਉਸ\PR_PRP ਦੀ\PSP ਵੰਨ\JJ -\RD_PUNC ਸੁਵੰਨਤਾ\JJ ਵਿਚ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBRED6152	ਪਰ\CC_CCD ਭਾਈ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਇਹ\DM_DMD ਨਿਰਣਾ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਜੇ\PR_PRL ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਓਪਕਾਰ\N_NN ਨਾ\RP_NEG ਕਰਦੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦੀ\PSP ਅਨੇਕਤਾ\JJ ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦੀ\PSP ਅਨੇਕਤਾ\JJ ਵਾਲੀ\PSP ਹੋਂਦ\N_NN ਹੀ\RP_RPD ਖਤਮ\N_NN ਹੋ\V_VAUX ਜਾਣੀ\V_VM_VF ਸੀ\V_VAUX :\RD_PUNC
+PBRED6153	`\RD_PUNC ਛਾਇ\V_VM ਜਾਤੀ\V_VM_VF ਏਕਤਾ\JJ ਅਨੇਕਤਾ\JJ ਬਿਲਾਇ\V_VM_VF ਜਾਤੀ\V_VM_VF ਹੋਵਤੀ\V_VM_VF ਕੁਚੀਲਤਾ\JJ ਕਤੇਬਨ\N_NNP ਕੁਰਾਨ\N_NNP ਕੀ\PSP ।\RD_PUNC
+PBRED6154	ਪਾਪ\N_NN ਹੀ\RP_RPD ਪਰਪੱਕ\JJ ਜਾਤੇ\V_VM_VF ,\RD_PUNC ਧਰਮ\N_NN ਧਸੱਕ\V_VM ਜਾਤੇ\V_VM_VF ਵਰਨ\N_NN ਗਰਕ\N_NN ਜਾਤੇ\V_VM_VF ,\RD_PUNC ਸਾਹਿਤ\N_NN ਬਿਧਾਨ\N_NN ਕੀ\PSP ।\RD_PUNC
+PBRED6155	ਦੇਵੀ\N_NN ਦੇਵ\N_NN ਦੇਹੁਰਾ\N_NN ਸੰਤੋਖ\N_NN ਸਿੰਘ\N_NN ਦੂਰ\JJ ਹੋ\V_VAUX ਤੇ\PSP ਰੀਤਿ\N_NN ਮਿਟ\V_VM ਜਾਤੀ\V_VM_VF ਕਥਾ\N_NN ਬੇਦਨ\N_NN ਪੁਰਾਨ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBRED6156	ਮੂਰਤਿ\N_NN ਨਾ\RP_NEG ਹੋਤੀ\V_VM_VF ਜਓਮੈ\N_NN ਕਰੁਣਾ\JJ ਨਿਧਾਨ\N_NN ਕੀ\V_VM ॥\RD_PUNC `\RD_PUNC
+PBRED6157	ਗੁਰੂ\N_NNP ਨਾਨਕ\N_NNP ਪਾਤਸ਼ਾਹ\N_NNP ਦੀ\PSP ਦਸਵੀਂ\QT_QTC ਇਲਾਹੀ\JJ ਜੋਤਿ\N_NN ਸਰਬੰਸਦਾਨੀ\JJ ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਸਾਹਿਬ\N_NN ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਸਰਬ\JJ ਕਲਾ\JJ ਸੰਪੂਰਨ\JJ ਸ਼ਖ਼ਸੀਅਤ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6158	`\RD_PUNC ਸਰਬ\JJ ਕਲਾ\N_NN ਲੈ\V_VM ਠਾਕੁਰ\N_NN ਚੜਿਆ\V_VM_VF `\RD_PUNC ਦੇ\PSP ਵਾਕ\N_NN ਅਨੁਸਾਰ\PSP ਤਖ਼ਤ\N_NN `\RD_PUNC ਤੇ\RB ਬੈਠ\V_VM ਕੇ\V_VM_VNF ਗੁਰੂ\N_NN ਕਲਗੀਆਂ\JJ ਵਾਲੇ\PSP ਸਾਹਿਬ\JJ ਤੇ\CC_CCD ਸੱਚੇ\JJ ਪਾਤਸ਼ਾਹ\JJ ਹਨ\V_VAUX |\N_NN
+PBRED6159	ਜਦਕਿ\RB ਸੰਗਤ\N_NN ਵਿਚ\PSP ਬੈਠੇ\V_VM_VF ਦਰਵੇਸ਼\JJ ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6160	ਮਰਦ\JJ ਅਗੰਮੜੇ\JJ ਤੇ\CC_CCD ਵਰਿਆਮ\JJ ਪਾਤਸ਼ਾਹ\JJ ਰਣਭੂਮੀ\N_NN ਵਿਚ\PSP ਸੂਰਬੀਰ\JJ ਜਰਨੈਲ\JJ ਹਨ\V_VAUX |\RD_PUNC
+PBRED6161	ਲੇਕਿਨ\CC_CCD ਦਇਆਵਾਨ\JJ ਇਤਨੇ\RB ਕਿ\CC_CCS ਉਹਨਾ\PR_PRP ਦੇ\PSP ਹਰ\DM_DMQ ਤੀਰ\N_NN ਨਾਲ\PSP ਇਕ\QT_QTC ਤੋਲਾ\QT_QTC ਸੋਨਾ\N_NN ਲੱਗਾ\V_VM_VF ਹੋਇਆ\V_VM_VF ਜੋ\PR_PRL ਮਰਨ\V_VM_VF ਵਾਲੇ\PSP ਦੇ\PSP ਅੰਤਿਮ\RB ਕਿਰਿਆ\N_NN ਕਰਮ\N_NN ਤੇ\CC_CCD ਫੱਟੜ\N_NN ਹੋਏ\V_VM_VF ਦੇ\PSP ਇਲਾਜ\N_NN ਦੇ\PSP ਕੰਮ\N_NN ਆ\V_VM ਸਕੇ\V_VM_VF ।\RD_PUNC
+PBRED6162	14\QT_QTC ਯੁੱਧ\N_NN ਲੜਦੇ\V_VM_VF ਹਨ\V_VAUX ਲੇਕਿਨ\CC_CCD ਦੁਸ਼ਮਣ\N_NN `\RD_PUNC ਤੇ\RB ਪਹਿਲਾਂ\RB ਵਾਰ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6163	ਸਾਰੇ\DM_DMQ ਹੀ\RP_RPD ਯੁੱਧ\N_NN ਕਿਸੇ\PR_PRQ ਇਕ\QT_QTC ਇੰਚ\QT_QTC ਜ਼ਮੀਨ\N_NN ਜਾਂ\CC_CCD ਜ਼ਰ\N_NN ਜ਼ੋਰੂ\N_NN ਲਈ\PSP ਨਹੀਂ\RP_NEG ਬਲਕਿ\CC_CCS ਧਰਮ\N_NN ਦੀ\PSP ਰਾਖੀ\N_NN ਲਈ\PSP ,\RD_PUNC ਜ਼ੁਲਮ\JJ ਦੇ\PSP ਨਾਸ਼\N_NN ਲਈ\PSP ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6164	ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਦੇ\PSP ਪੁੱਤਰ\N_NN ਦਾ\PSP ਕੋਈ\DM_DMQ ਦੁਸ਼ਮਣ\JJ ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6165	ਬ੍ਰਹਮ\N_NN ਗਿਆਨਤਾ\N_NN ਨੂੰ\PSP ਪ੍ਰਾਪਤ\N_NN ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਇਕ\QT_QTC ਸਿੱਖ\N_NN ,\RD_PUNC ਭਾਈ\N_NNP ਘਨੱਈਆ\N_NNP ਸਿੱਖਾਂ\N_NN ਤੇ\CC_CCD ਦੁਸ਼ਮਣਾਂ\N_NN ਵਿਚ\PSP ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਦੀ\PSP ਇਕ\QT_QTC ਜੋਤ\N_NN ਦੇਖ\V_VM ਮਿੱਤਰ\N_NN ਅਤੇ\CC_CCD ਦੁਸ਼ਮਣ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਸਮਾਨ\N_NN ਜਾਣ\V_VM_VF ,\RD_PUNC ਜਲ\N_NN ਛਕਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6166	ਜਦ\RB ਸਿੱਖਾਂ\N_NN ਨੇ\PSP ਸ਼ਿਕਾਇਤ\N_NN ਕੀਤੀ\V_VM_VF ਤਾਂ\CC_CCD ਭਾਈ\N_NNP ਘਨੱਈਆ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਉੱਤਰ\N_NN ਕਿ\CC_CCS `\RD_PUNC ਪਾਤਸ਼ਾਹ\JJ ਮੈਨੂੰ\PR_PRP ਤਾਂ\RP_RPD ਜੰਗ\N_NN ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਮਿੱਤਰ\N_NN ਜਾਂ\CC_CCD ਦੁਸ਼ਮਣ\N_NN ਨਹੀਂ\RP_NEG ਬਲਕਿ\CC_CCS ਆਪ\PR_PRF ਹੀ\RP_RPD ਨਜ਼ਰ\N_NN ਆਉਂਦੇ\V_VM_VF ਹੋ\V_VAUX `\RD_PUNC ,\RD_PUNC
+PBRED6167	ਸੁਣ\V_VM ਕੇ\V_VM_VNF ਪਾਤਸ਼ਾਹ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਮਰਹਮ\N_NN ਪੱਟੀ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਹੁਣ\RB ਤੁਸੀਂ\PR_PRP ਜਲ\N_NN ਦੇ\PSP ਨਾਲ\RB -\RD_PUNC ਨਾਲ\RB ਮਰਹਮ\N_NN ਪੱਟੀ\N_NN ਵੀ\RP_RPD ਕਰਨੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6168	ਸੀਸ\N_NN ਭੇਟ\N_NN ਕਰਨ\V_VM_VF ਆਏ\V_VM_VF ਪੰਜ\QT_QTC ਪਿਆਰਿਆਂ\N_NN ਨੂੰ\PSP ਖੰਡੇ\N_NN ਬਾਟੇ\N_NN ਦੀ\PSP ਪਾਹੁਲ\N_NN ਛਕਾ\V_VM_VF ਕੇ\V_VM_VNF ਦਸਮੇਸ਼\N_NNP ਪਿਤਾ\N_NN ਖਾਲਸੇ\N_NN ਦੀ\PSP ਸਾਜਨਾ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ਤੇ\CC_CCD ਫਿਰ\RB ਉਨ੍ਹਾਂ\PR_PRP ਹੀ\RP_RPD ਪੰਜ\QT_QTC ਪਿਆਰਿਆਂ\N_NN ਪਾਸੋਂ\RB ਅੰਮ੍ਰਿਤ\N_NN ਦੀ\PSP ਪਾਹੁਲ\N_NN ਦੀ\PSP ਯਾਚਨਾ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6169	ਧਰਮ\N_NN ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਪਹਿਲੀ\QT_QTO ਵਾਰ\N_NN ਗੁਰੂ\N_NN ਤੇ\CC_CCD ਚੇਲੇ\N_NN ਦਰਮਿਅਨ\N_NN ਵਿੱਥ\N_NN ਖਤਮ\N_NN ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBRED6170	ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਬਚਨ\N_NN ,\RD_PUNC `\RD_PUNC ਗੁਰੂ\N_NN ਸਿਖ\N_NN ਸਿਖ\N_NN ਗੁਰੁ\N_NN ਹੈ\V_VAUX `\RD_PUNC ਇਉਂ\RB ਪ੍ਰਤੱਖ\N_NN ਹੋਏ\V_VM_VF ਅਤੇ\CC_CCD ਇਕ\QT_QTC ਨਿਵੇਕਲੇ\JJ ਤੇ\N_NN ਵਿਲੱਖਣ\JJ ਅਧਿਆਤਮਕ\N_NN ਲੋਕਤੰਤਰ\N_NN ਤੇ\CC_CCD ਗੁਣਤੰਤਰ\N_NN (\RD_SYM ਖਾਲਸਾ\N_NN )\RD_SYM ਦੀ\PSP ਸਿਰਜਣਾ\V_VM_VF ਕਰ\V_VM ਦਸਮੇਸ਼\JJ ਪਿਤਾ\N_NN ,\RD_PUNC
+PBRED6171	`\RD_PUNC ਵਾਹ\JJ ਵਾਹ\JJ ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਆਪੇ\PR_PRF ਗੁਰੂ\N_NN ਚੇਲਾ\N_NN `\RD_PUNC ਕਹਿਲਾਏ\V_VM_VF ।\RD_PUNC
+PBRED6172	ਆਪਣੇ\PR_PRF ਸੰਸਾਰ\N_NN ਆਗਮਨ\N_NN ਦਾ\PSP ਮਕਸਦ\N_NN ਤੇ\CC_CCD ਆਪਣੀ\PR_PRF ਅਵਸਥਾ\N_NN ਵੀ\RP_RPD ਪਾਤਸ਼ਾਹ\N_NN ਆਪ\PR_PRF ਹੀ\RP_RPD ਆਪਣੀ\PR_PRF ਆਤਮ\N_NN ਕਥਾ\N_NN ,\RD_PUNC ਜਿਸ\PR_PRL ਦਾ\PSP ਨਾਂਅ\N_NN ਦਸਵੇਂ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਨੇ\PSP ਬਚਿੱਤਰ\N_NNP ਨਾਟਕ\N_NNP ਲਿਖਿਆ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6173	`\RD_PUNC ਚਿਤ\N_NN ਨ\RP_NEG ਭਯੋ\V_VM_VF ਹਮਰੋ\PR_PRP ਆਵਨ\V_VM_VF ਕਹ\V_VM_VF ॥\RD_PUNC
+PBRED6174	ਚੁਭੀ\V_VM_VF ਰਹੀ\V_VM_VF ਸ੍ਰੁਤਿ\N_NN ਪ੍ਰਭ\N_NN ਚਰਨਨ\N_NN ਮਹਿ\PSP ॥\RD_PUNC `\RD_PUNC
+PBRED6175	`\RD_PUNC ਮੈ\PR_PRP ਅਪੁਨਾ\PR_PRF ਸੁਤ\N_NN ਤੋਹਿ\PR_PRP ਨਿਵਾਜਾ\V_VM_VF ॥\RD_PUNC
+PBRED6176	ਪੰਥੁ\N_NN ਪ੍ਰਚੁਰ\N_NN ਕਰਬੇ\V_VM_VF ਕਹੁ\PSP ਸਾਜਾ\V_VM_VF ॥\RD_PUNC
+PBRED6177	ਜਾਹਿ\RB ਤਹਾਂ\RB ਤੈ\PR_PRP ਧਰਮ\N_NN ਚਲਾਇ\V_VM_VF ॥\RD_PUNC
+PBRED6178	ਕਬੁਧਿ\N_NN ਕਰਨ\V_VM_VF ਤੇ\RB ਲੋਕ\N_NN ਹਟਾਇ\V_VM_VF ॥\RD_PUNC `\RD_PUNC
+PBRED6179	ਕੁੱਲ\QT_QTF ਆਲਮ\N_NN ਵਿਚ\PSP ਐਸਾ\RB ਕੋਈ\DM_DMQ ਪੀਰ\JJ ,\RD_PUNC ਪੈਗ਼ੰਬਰ\JJ ,\RD_PUNC ਔਲੀਆ\JJ ,\RD_PUNC ਸੰਤ\JJ ,\RD_PUNC ਭਗਤ\JJ ਨਹੀਂ\RP_NEG ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBRED6180	ਜਿਸ\PR_PRL ਦਾ\PSP ਰੱਬ\N_NN ਨਾਲ\PSP ਇਸ਼ਕ\N_NN ਐਸਾ\JJ ਸਾਦਿਕ\JJ ਹੋਇਆ\V_VM_VF ਹੋਵੇ\V_VM_VF ਜੈਸਾ\RB 42\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਹਯਾਤੀ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਨੇ\PSP ਨਿਭਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6181	ਪਰਮ\JJ ਪੁਰਖ\N_NN ਦੇ\PSP ਦਾਸ\N_NN ਵਜੋਂ\PSP ਇਹ\DM_DMD ਜਗਤ\N_NN ਤਮਾਸ਼ਾ\N_NN ਵੇਖਿਆ\V_VM_VF ,\RD_PUNC
+PBRED6182	ਮਾਣਿਆ\V_VM_VF ,\RD_PUNC ਧਰਮ\N_NN ਚਲਾਵਣ\V_VM_VF ,\RD_PUNC ਦੁਸਟ\JJ ਉਪਾਰਣ\V_VM_VF ਅਤੇ\CC_CCD ਪੰਥ\N_NN ਪ੍ਰਚੁਰ\N_NN ਕਰਨ\V_VM_VF ਦੇ\PSP ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਵਾਹਿਗੁਰੂ\N_NN ਦੇ\PSP ਆਦੇਸ਼\N_NN ਨੂੰ\PSP ਨਿਭਾਉਣ\V_VM_VF ਵਿਚ\PSP ਸਰਬੰਸ\N_NN ਵਾਰ\N_NN ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6183	ਦੁਨੀਆਂ\N_NN ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਗੁਰੂ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਦਾ\PSP ਸਾਨੀ\N_NN ਨਹੀਂ\RP_NEG ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6184	ਜਿਸ\PR_PRL ਨੇ\PSP ਆਪ\PR_PRF ਆਪਣੇ\PR_PRF ਪਿਤਾ\N_NN ਨੂੰ\PSP ਪਰ\QT_QTO ਧਰਮ\N_NN ਬਚਾਉਣ\V_VM_VF ਹਿੱਤ\PSP ਤੋਰਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6185	ਚਮਕੌਰ\N_NNP ਦੀ\PSP ਅਸਾਵੀਂ\JJ ਜੰਗ\N_NN ਵਿਚ\PSP ਦੋ\QT_QTC ਪੁੱਤਰਾਂ\N_NN ਨੂੰ\PSP ਹੱਥੀਂ\N_NN ਤਿਆਰ\N_NN ਕਰਕੇ\V_VM_VF ਮੈਦਾਨੇ\N_NN ਜੰਗ\N_NN ਤੋਰਿਆ\V_VM_VF ਤੇ\CC_CCD ਸਾਹਮਣੇ\JJ ਸ਼ਹੀਦ\N_NN ਹੁੰਦਾ\V_VM_VF ਵੇਖਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6186	ਪਰਮ\JJ ਪਿਤਾ\N_NN ਦੇ\PSP ਹੁਕਮ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਵਿਖੇ\PSP ਸ਼ਹਿਨਸ਼ਾਹ\JJ ਦਾ\PSP ਜੀਵਨ\N_NN ਜੀਵਿਆ\V_VM_VF ਤੇ\CC_CCD ਮਾਛੀਵਾੜੇ\N_NNP ਦੇ\PSP ਜੰਗਲ\N_NN ਵਿਚ\PSP ਨੰਗੇ\JJ ਪੈਰੀਂ\N_NN ਕੱਖ\N_NN -\RD_PUNC ਕੰਡੇ\N_NN ਮਿੱਧਦਿਆਂ\V_VM_VNF ਇੱਟ\N_NN ਦਾ\PSP ਸਿਰਹਾਣਾ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ਆਰਾਮ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6187	ਅਜਿਹੇ\RB ਹਾਲਾਤ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਜਦੋਂ\PR_PRL ਮਾਹੀ\N_NN ਨੇ\PSP ਦੋ\QT_QTC ਛੋਟੇ\N_NN ਸਾਹਿਬਜ਼ਾਦਿਆਂ\N_NN ਦੇ\PSP ਸਰਹਿੰਦ\N_NNP ਦੇ\PSP ਜ਼ਾਲਮ\N_NN ਨਵਾਬ\N_NN ਵੱਲੋਂ\PSP ਕੰਧਾਂ\N_NN ਵਿਚ\PSP ਚਿਣਵਾ\V_VM_VF ਕੇ\V_VM_VNF ਸ਼ਹੀਦ\N_NN ਕਰਨ,\V_VM_VF ਮਾਤਾ\N_NN ਗੁਜਰੀ\N_NNP ਦੀ\PSP ਸ਼ਹਾਦਤ\N_NN ਦੀ\PSP ਦਰਦਨਾਕ\JJ ਗਾਥਾ\N_NN ਸੁਣਾਈ\V_VM_VF ਤਾਂ\RP_RPD ਗੁਰਦੇਵ\N_NN ਨੇ\PSP ਤੀਰ\N_NN ਨਾਲ\PSP ਘਾਹ\N_NN ਦਾ\PSP ਤਿਣਕਾ\N_NN ਪੁਟ\V_VM ਐਨਾ\RB ਹੀ\RP_RPD ਕਿਹਾ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਮੁਗਲ\N_NN ਰਾਜ\N_NN ਦੀ\PSP ਜੜ\N_NN ਪੁੱਟੀ\V_VM_VF ਗਈ\V_VM_VF `\RD_PUNC ।\RD_PUNC
+PBRED6188	ਲੇਕਿਨ\CC_CCD ਕੋਈ\DM_DMQ ਗਮ\N_NN ਜਾਂ\CC_CCD ਰੰਜ\N_NN ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਚਿਹਰੇ\N_NN `\RD_PUNC ਤੇ\RB ਨਹੀਂ\RP_NEG ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6189	ਕੋਈ\DM_DMQ ਉਲ੍ਹਾਮਾ\N_NN ਆਪਣੇ\PR_PRF ਪ੍ਰੀਤਮ\JJ ਪਿਆਰੇ\JJ ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6190	ਗੁਰਮਤਿ\N_NN ਅਨੁਸਾਰ\PSP ,\RD_PUNC `\RD_PUNC ਉਲਾਹਣ\N_NN ਮੈ\PR_PRP ਕਾਹੁੰ\DM_DMQ ਨਾ\RP_NEG ਦੀਓ\V_VM_VF ਮਨਿ\N_NN ਮੀਠ\N_NN ਤਹਾਰੋ\PR_PRP ਕੀਓ\V_VM_VF `\RD_PUNC ।\RD_PUNC
+PBRED6191	ਅਰਦਾਸ\N_NN ਕੀਤੀ\V_VM_VF ਉਸ\PR_PRP ਪਰਮ\JJ ਪਿਤਾ\N_NN ਪਰਮਾਤਮਾ\N_NN ਪਾਸ\RB ,\RD_PUNC
+PBRED6192	`\RD_PUNC ਜਿਸ\PR_PRL ਕੀ\PSP ਵਸਤ\N_NN ਤਿਸ\PR_PRP ਆਗੇ\N_NN ਰਾਖੇ\V_VM_VF ਪ੍ਰਭ\N_NN ਕੀ\PSP ਆਗਿਆ\N_NN ਮਾਨੇ\V_VM_VF ਮਾਥੇ\N_NN `\RD_PUNC ,\RD_PUNC
+PBRED6193	`\RD_PUNC ਸ਼ੁਕਰ\N_NN ਹੈ\V_VAUX ਆਜ\RB ਤੇਰੀ\PR_PRP ਅਮਾਨਤ\N_NN ਅਦਾ\N_NN ਹੁਈ\V_VM_VF `\RD_PUNC ।\RD_PUNC
+PBRED6194	ਧਰਤੀ\N_NN ਤੇ\CC_CCD ਆਸਮਾਨ\N_NN ਕੰਬ\N_NN ਉਠਿਆ\V_VM_VF ਲੇਕਿਨ\CC_CCD ਸਤਿਗੁਰੂ\N_NN ਅਡੋਲ\JJ ਰਹੇ\V_VM_VF ਤੇ\CC_CCD ਆਪਣੇ\PR_PRF ਮਿੱਤਰ\N_NN -\RD_PUNC ਪਿਆਰੇ\N_NN (\RD_SYM ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਵਾਹਿਗੁਰੂ\N_NN )\RD_SYM ਨੂੰ\PSP ਮੁਖਾਤਬ\N_NN ਹੋ\V_VAUX ਆਪਣੀ\PR_PRF ਪ੍ਰੀਤ\N_NN ਪੁਗਾਉਣ\V_VM_VF ਦੀ\PSP ਬੇਨਤੀ\N_NN ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBRED6195	`\RD_PUNC ਮਿਤ੍ਰ\N_NN ਪਿਆਰੇ\JJ ਨੂੰ\PSP ਹਾਲ\N_NN ਮੁਰੀਦਾਂ\N_NN ਦਾ\PSP ਕਹਿਣਾ...\V_VM_VF ਯਾਰੜੇ\N_NN ਦਾ\PSP ਸਾਨੂੰ\PR_PRP ਸੱਥਰ\N_NN ਚੰਗਾ...\JJ `\RD_PUNC `\RD_PUNC ਤੇ\RB ਚੱਲ\V_VM ਕੇ\V_VM_VNF ਹੁਕਮ\N_NN ਦੀ\PSP ਰਜ਼ਾ\N_NN ਵਿਚ\PSP ਚੱਲਣ\V_VM_VF ਦਾ\PSP ਸੰਕਲਪ\N_NN ਆਉਂਦੀਆਂ\V_VM_VF ਪੀੜ੍ਹੀਆਂ\N_NN ਲਈ\PSP ਪ੍ਰਕਾਸ਼ਮਾਨ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6196	ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਐਸੇ\RB ਹੀ\RP_RPD ਸੰਤ\JJ -\RD_PUNC ਸਿਪਾਹੀ\JJ ਸੂਰਮੇ\JJ ਹਨ\V_VAUX |\N_NN
+PBRED6197	ਜੋ\PR_PRL ਆਪਣਾ\PR_PRF ਜੀਵਨ\N_NN ਮਨੋਰਥ\N_NN ਵੀ\RP_RPD ਦੱਸਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBRED6198	`\RD_PUNC ਸੰਤਾ\N_NN ਮਾਨਉ\V_VM_VF ਦੂਤਾ\N_NN ਡਾਨਉ\V_VM_VF ਇਹ\DM_DMD ਕੁਟਵਾਰੀ\N_NN ਮੇਰੀ\PR_PRP ॥\RD_PUNC
+PBRED6199	ਗੁਰਬਾਣੀ\N_NN ਵਿਚ\PSP ਐਸੇ\RB ਪੁਰਖ\N_NN ਨੂੰ\PSP ਹੀ\RP_RPD ਧੰਨਤਾ\JJ ਦੇ\PSP ਯੋਗ\N_NN ਮੰਨਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6200	`\RD_PUNC ਧੰਨ\RP_INJ ਜੀਓ\RP_INJ ਤਿਹ\PR_PRP ਕੋ\PSP ਜਗ\N_NN ਮੈ\PSP ਮੁਖ\N_NN ਤੇ\RB ਹਰਿ\N_NN ਚਿੱਤ\N_NN ਮੈ\PSP ਜੁੱਧ\N_NN ਬਿਚਾਰੈ\V_VM_VF `\RD_PUNC ਗੁਰੂ\N_NN ਦਸਮੇਸ਼\N_NN ਨੇ\PSP ਸ਼ਸਤਰ\N_NN ਧਾਰਨ\V_VM_VF ਕਰਕੇ\V_VM_VF ਸ਼ਸਤਰਾਂ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6201	ਬਲਕਿ\CC_CCS ਸ਼ਸਤਰਾਂ\N_NN ਨੂੰ\PSP ਮਾਣਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6202	`\RD_PUNC ਨਮੋ\N_NN ਸ਼ਸਤ੍ਰ\N_NN ਮਾਣੇ\V_VM_VF `\RD_PUNC ।\RD_PUNC
+PBRED6203	ਗੁਰ\N_NN ਇਤਿਹਾਸ\N_NN `\RD_PUNC ਤੇ\RB ਝਾਤੀ\N_NN ਮਾਰੀ\V_VM_VF ਜਾਏ\V_VM_VF ਤਾਂ\CC_CCD ਤਾਕਤਵਰ\N_NN ਬਾਦਸ਼ਾਹ\N_NN ਤੇ\N_NN ਜ਼ਾਲਮ\N_NN ਦੇ\PSP ਸਨਮੁਖ\N_NN ਸੱਚ\JJ ਨੂੰ\PSP ਸੱਚ\JJ ਕਹਿਣ\V_VM_VF ਦੀ\PSP ਜੁਰਅੱਤ\N_NN ,ਸ਼ਾਂਤ\JJ ,\RD_PUNC ਸਹਿਜ\JJ ,\RD_PUNC ਸੁਹਜ\JJ ,\RD_PUNC ਕੁਰਬਾਨੀ\JJ ,\RD_PUNC ਆਪਾ\N_NN ਵਾਰਨ\V_VM_VF ਦੀ\PSP ਹਕੀਕਤ\JJ ,\RD_PUNC ਸਚਾਈ\N_NN ਤੇ\N_NN ਸਿੱਖਿਆ\N_NN ਸਾਫ\JJ ਵੇਖਣ\V_VM_VF ਨੂੰ\PSP ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6204	ਸ਼ਾਂਤ\JJ ,\RD_PUNC ਸਹਿਜ\JJ ,\RD_PUNC ਸੁਹਜ\JJ ,\RD_PUNC ਕੁਰਬਾਨੀ\N_NN ,\RD_PUNC ਆਪਾ\PR_PRF ਵਾਰਨ\V_VM_VF ਦੀ\PSP ਹਕੀਕਤ\N_NN ,\RD_PUNC ਸਚਾਈ\N_NN ਤੇ\CC_CCD ਸਿੱਖਿਆ\N_NN ਸਾਫ\JJ ਵੇਖਣ\V_VM_VF ਨੂੰ\PSP ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6205	ਹੱਕ\N_NN ਸੱਚ\JJ ਇਨਸਾਫ\N_NN ਖਾਤਰ\N_NN ਸਾਰੇ\DM_DMQ ਹੀਲੇ\N_NN ਵਿਅਰਥ\JJ ਚਲੇ\V_VM_VF ਜਾਣ\V_VM_VF `\RD_PUNC ਤੇ\RB ਹੀ\RP_RPD ਸ਼ਸਤਰ\N_NN ਦਾ\PSP ਸਹਾਰਾ\N_NN ਲਿਆ\V_VM_VF `\RD_PUNC ਚੂੰ\N_NN ਕਾਰ\N_NN ਅਜ਼\N_NN ਹਮਾ\N_NN ਹੀਲਤੇ\N_NN ਦਰ\N_NN ਗੁਜ਼ਸ਼ਤ\N_NN ॥\RD_PUNC
+PBRED6206	ਹਲਾਲ\N_NN ਅਸਤ\N_NN ਬੁਰਦਨ\N_NN ਬ\PSP ਸ਼ਮਸ਼ੀਰ\N_NN ਦਸਤ\N_NN ॥\RD_PUNC `\RD_PUNC
+PBRED6207	ਆਪਣੇ\PR_PRF `\RD_PUNC ਤੇ\RB ਹੋਣ\V_VM_VF ਵਾਲੇ\PSP ਹਰ\DM_DMQ ਹਮਲੇ\N_NN ਦੇ\PSP ਮੁਕਾਬਲੇ\N_NN ਲਈ\PSP ਯੁੱਧ\N_NN ਕੀਤਾ\V_VM_VF ਅਤੇ\CC_CCD 14\QT_QTC ਜੰਗਾਂ\N_NN ਲੜਨ\V_VM_VF ਉਪਰੰਤ\RB ਵੀ\RP_RPD ਇਕ\QT_QTC ਇੰਚ\QT_QTC ਭਰ\V_VM ਵੀ\RP_RPD ਕਿਸੇ\PR_PRQ ਦੀ\PSP ਜ਼ਮੀਨ\N_NN `\RD_PUNC ਤੇ\RB ਕਬਜ਼ਾ\N_NN ਕਰ\V_VM ਦੁਨਿਆਵੀ\N_NN ਬਾਦਸ਼ਾਹਤ\N_NN ਕਾਇਮ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6208	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਪ੍ਰਭੂ\N_NN ਦੇ\PSP ਚਰਨਾਂ\N_NN ਵਿਚ\PSP ਐਸੀ\RB ਪ੍ਰੀਤ\N_NN ,\RD_PUNC ਲਿਵ\N_NN ਜੁੜੀ\V_VM_VF ਕਿ\CC_CCS ਉਹ\PR_PRP ਯੁੱਧ\N_NN ਗਰੀਬ\JJ (\RD_SYM ਦੀਨ\JJ )\RD_SYM ਮਜ਼ਲੂਮਾਂ\JJ ਦੀ\PSP ਰੱਖਿਆ\N_NN ਲਈ\PSP ਅਤੇ\CC_CCD ਜ਼ਾਲਮ\JJ ਜਰਵਾਣੇ\JJ ਦੀ\PSP ਭੱਛਿਆ\N_NN ਲਈ\PSP ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBRED6209	ਪਰ\CC_CCD ਮੰਤਵ\N_NN ਇਹੀ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਜਾਲਮ\N_NN -\RD_PUNC ਜ਼ੁਲਮ\N_NN ਦਾ\PSP ਰਾਹ\N_NN ਛੱਡ\V_VM_VF ਦੇਵੇ\V_VM_VF ਅਤੇ\CC_CCD ਰਾਜ\N_NN ਨੂੰ\PSP ਲੋਕਾਂ\N_NN ਦੇ\PSP ਹਿਤ\N_NN ਵਿਚ\PSP ਚਲਾਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6210	ਇਸੇ\DM_DMD ਲਈ\PSP ਉਹ\PR_PRP ਐਸੇ\RB ਯੁੱਧਾਂ\N_NN ਨੂੰ\PSP `\RD_PUNC ਨਮੋ\N_NN ਜੁੱਧ\N_NN ਜੁੱਧੇ\N_NN `\RD_PUNC ਉਚਾਰ\V_VM ਕੇ\V_VM_VNF ਸਿਜਦਾ\V_VM_VF ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6211	ਗੁਰੂ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਦੇ\PSP ਸ਼ਸਤਰਾਂ\N_NN ਦੇ\PSP ਜੌਹਰ\N_NN ਬਾਰੇ\PSP ਤਾਂ\RP_RPD ਦੁਨੀਆ\N_NN ਜਾਣਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਲੇਕਿਨ\CC_CCD ਉਹ\PR_PRP ਕਲਮ\N_NN ਦੇ\PSP ਵੀ\RP_RPD ਅਜ਼ੀਮ\JJ ਧਨੀ\JJ ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6212	ਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿਚ\PSP ਕਵਿਤਾ\N_NN ਦੀ\PSP ਹਰ\DM_DMQ ਵੰਨਗੀ\N_NN ਮਿਲਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6213	ਕਲਮ\N_NN ਦੀ\PSP ਕਰਾਮਾਤ\N_NN ਉਸ\PR_PRP ਜ਼ਫਰਨਾਮੇ\N_NNP ਵਿਚ\PSP ਹੈ\V_VAUX |\RD_PUNC
+PBRED6214	ਜੋ\PR_PRL ਉਨ੍ਹਾਂ\PR_PRP ਬੇਸਰੋ\N_NN ਸਮਾਨਗੀ\N_NN ਦੀ\PSP ਹਾਲਤ\N_NN ਵਿਚ\PSP ਦੀਨਾ\N_NNP ਕਾਂਗੜ\N_NNP ਬੈਠ\V_VM ਜ਼ਾਲਮ\JJ ਔਰੰਗਜ਼ੇਬ\N_NNP ਬਦਸ਼ਾਹ\N_NN ਨੂੰ\PSP ਲਿਖ\V_VM ਭੇਜਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6215	ਜਿਸ\PR_PRL ਨਿਰਮਲ\JJ ਪੰਥ\N_NN ਦੀ\PSP ਸਥਾਪਨਾ\N_NN ਗੁਰੂ\N_NNP ਨਾਨਕ\N_NNP ਸਾਹਿਬ\N_NNP ਨੇ\PSP ਵੇਈਂ\N_NNP ਨਦੀ\N_NN ਦੇ\PSP ਕੰਢੇ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC ਦਸਮ\N_NN ਪਿਤਾ\N_NN ਨੇ\PSP ਸਤਲੁਜ\N_NNP ਦਰਿਆ\N_NN ਦੇ\PSP ਤੱਟ\N_NN ਨੇੜੇ\RB ਉਸੇ\DM_DMD ਧਰਮ\N_NN ਪੰਧ\N_NN ਨੂੰ\PSP ਸੰਪੂਰਨ\N_NN ਕੀਤਾ\V_VM_VF -\RD_PUNC
+PBRED6216	ਗੁਰੁਬਰ\N_NN ਅਕਾਲ\JJ ਕੇ\PSP ਹੁਕਮ\N_NN ਸਿਉਂ\PSP ਉਪਜਿਓ\V_VM_VF ਬਿਗਿਆਨਾ\N_NN ।\RD_PUNC
+PBRED6217	ਤਬ\RB ਸਹਿਜੇ\JJ ਰਚਿਓ\V_VM_VF ਖਾਲਸਾ\N_NN ਸਾਬਤ\JJ ਮਰਦਾਨਾ\N_NN ।\RD_PUNC
+PBRED6218	ਹਰ\DM_DMQ ਸੰਕਟ\N_NN ਤੇ\CC_CCD ਮੁਸ਼ਕਿਲ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਆਪ\PR_PRF ਅਡਿੱਗ\JJ ਅਤੇ\CC_CCD ਅਡੋਲ\JJ ਰਹੇ\V_VM_VF `\RD_PUNC ਮਨੁ\N_NN ਨ\RP_NEG ਡਿਗੈ\V_VM_VF ਤਨੁ\N_NN ਕਾਹੇ\PR_PRQ ਕਅੁ\N_NN ਡਰਾਇ\V_VM_VF ॥\RD_PUNC `\RD_PUNC ਬਲਕਿ\CC_CCS ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਜਿਸ\PR_PRL ਖ਼ਾਲਸੇ\N_NN ਦੀ\PSP ਸਿਰਜਣਾ\V_VM_VF ਕੀਤੀ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਨੂੰ\PSP ਵੀ\RP_RPD ਅਜਿੱਤ\JJ ਬਣਾ\V_VM_VF ਦਿੱਤਾ।\V_VM_VF `\RD_PUNC
+PBRED6219	ਉਸ\PR_PRP ਨੂੰ\PSP ਵੀ\RP_RPD ਅਜਿੱਤ\JJ ਬਣਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6220	`\RD_PUNC ਨ\RP_NEG ਡਰੋਂ\V_VM_VF ਅਰਿ\RB ਸੋਂ\PR_PRP ਜਬ\RB ਜਾਇ\V_VM_VF ਲਰੋਂ\N_NN ॥\RD_PUNC
+PBRED6221	ਅਤ\N_NN ਹੀ\RP_RPD ਰਨ\N_NN ਮੈ\PSP ਤਬ\RB ਜੂਝ\N_NN ਮਰੋਂ\V_VM_VF `\RD_PUNC ਦੇ\PSP ਐਸੇ\RB ਪ੍ਰੇਰਨਾ\N_NN ਭਰੇ\V_VM_VF ਮਾਰਗ\N_NN `\RD_PUNC ਤੇ\RB ਆਪ\PR_PRF ਚੱਲੇ\V_VM_VF ਅਤੇ\CC_CCD ਚੱਲਣ\V_VM_VF ਦੀ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6222	ਜੇ\CC_CCD ਉਹ\PR_PRP ਖ਼ਾਲਸਾ\N_NN ਸਾਜਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਦੇ\PSP ਆਦੇਸ਼\N_NN ਅਨੁਸਾਰ\PSP ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਦੇ\PSP ਲੜ\V_VM ਲਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6223	`\RD_PUNC ਗੁਰੁਬਰ\N_NN ਅਕਾਲ\JJ ਕੇ\PSP ਹੁਕਮ\N_NN ਸਿਉਂ\PSP ਉਪਜਿਓ\V_VM_VF ਬਿਗਿਆਨਾ\N_NN ।\RD_PUNC
+PBRED6224	ਤਬ\RB ਸਹਿਜੇ\N_NN ਰਚਿਓ\V_VM_VF ਖਾਲਸਾ\N_NN ਸਾਬਤ\JJ ਮਰਦਾਨਾ\N_NN ।\RD_PUNC `\RD_PUNC
+PBRED6225	ਜੇ\CC_CCS ਉਹ\PR_PRP ਬਾਣੀ\N_NN ਉਚਾਰਦੇ\V_VM_VF ਹਨ\V_VAUX ਤਾਂ\CC_CCD `\RD_PUNC ਗੁਰ\N_NN ਪ੍ਰਸਾਦਿ\N_NN ,\RD_PUNC ਤ੍ਵ\N_NN ਪ੍ਰਸਾਦਿ\N_NN ,\RD_PUNC ਕਬਿਯੋ\N_NN ਬਾਚ\N_NN ਬੇਨਤੀ\N_NN ਚੌਪਈ\N_NN `\RD_PUNC ਹੀ\RP_RPD ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6226	ਅੱਜ\RB ਲੋੜ\N_NN ਹੈ\V_VAUX ਐਸੇ\RB ਮਹਾਨ\JJ ਸਰਬੰਸਦਾਨੀ\JJ ਯੋਧੇ\JJ ਦੁਆਰਾ\PSP ਸਥਾਪਿਤ\N_NN ਕੀਤੇ\V_VM_VF ਆਦਰਸ਼ਾਂ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਵਾਰ\N_NN ਫਿਰ\RB ਪ੍ਰਚਾਰਨ\N_NN ਤੇ\CC_CCD ਪ੍ਰਸਾਰਨ\N_NN ਦੀ\PSP ,\RD_PUNC ਤਾਂ\CC_CCD ਜੋ\PR_PRL ਅਸੀਂ\PR_PRP ਨਸ਼ਿਆਂ\N_NN ਤੇ\CC_CCD ਪਤਿਤਪੁਣੇ\JJ ਵਿਚ\PSP ਗਲਤਾਨ\N_NN ਹੋ\V_VAUX ਰਹੇ\V_VM_VF ਨੌਜੁਆਨਾਂ\N_NN ਨੂੰ\PSP ਮੁੜ\N_NN ਸਿੱਖੀ\N_NN ਮਾਰਗ\N_NN `\RD_PUNC ਤੇ\RB ਲਿਆ\V_VM_VF ਸਕੀਏ\V_VM_VF ।\RD_PUNC
+PBRED6227	ਗੁਰੂ\N_NNP ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸ਼ਹੀਦੀ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਗੁਰੂ\N_NNP ਤੇਗ\N_NNP ਬਹਾਦਰ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸ਼ਹੀਦੀ\N_NN ਤੱਕ\PSP ਗੁਰੂ\N_NN -\RD_PUNC ਘਰ\N_NN ਦਾ\PSP ਮੁਗਲ\N_NN ਸਰਕਾਰ\N_NN ਨਾਲ\PSP ਟਕਰਾਓ\V_VM_VF ਚਲਦਾ\V_VM_VF ਰਿਹਾ\V_VM_VF ।\RD_PUNC
+PBRED6228	ਫਿਰ\RB ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਗੁਰਗੱਦੀ\N_NN `\RD_PUNC ਤੇ\RB ਬੈਠੇ\V_VM_VF ।\RD_PUNC
+PBRED6229	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਉਮਰ\N_NN 24\QT_QTC -\RD_PUNC 25\QT_QTC ਸਾਲ\N_NN ਹੋਈ\V_VM_VF ਤਾਂ\RP_RPD ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਉੱਤੇ\RB ਕਦੀ\JJ ਲਾਹੌਰ\N_NNP ਤੋਂ\PSP ਅਤੇ\CC_CCD ਕਦੀ\RB ਕਾਂਗੜੇ\N_NNP ਦੇ\PSP ਫੌਜਦਾਰ\N_NN ਵੱਲੋਂ\PSP ਹਮਲੇ\N_NN ਹੋਣੇ\V_VM_VF ਸ਼ੁਰੂ\RB ਹੋ\V_VAUX ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6230	ਇਹਨਾਂ\DM_DMD ਹਮਲਿਆਂ\N_NN ਵਿਚ\PSP ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਦਾ\PSP ਵੀ\RP_RPD ਹੱਥ\N_NN ਹੁੰਦਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6231	ਪਰ\CC_CCD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਵਿਰੁੱਧ\N_NN ਇਹ\PR_PRP ਸਾਰੀਆਂ\DM_DMQ ਮੁਹਿੰਮਾਂ\N_NN ਅਸਫਲ\JJ ਹੋ\V_VAUX ਗਈਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6232	ਇਹਨਾਂ\PR_PRP ਸਾਰੀਆਂ\DM_DMQ ਮੁਹਿੰਮਾਂ\N_NN ਦੀ\PSP ਖਬਰ\N_NN ਬਾਦਸ਼ਾਹ\N_NN ਔਰੰਗਜ਼ੇਬ\N_NNP ਨੂੰ\PSP ਦੱਖਣ\N_NN ਵਿਚ\PSP ਮਿਲਦੀ\V_VM_VF ਰਹਿੰਦੀ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6233	ਸ਼ਾਹੀ\N_NN ਫੌਜਾਂ\N_NN ਦੀ\PSP ਹਾਰ\N_NN ਤੋਂ\PSP ਔਰੰਗਜ਼ੇਬ\N_NNP ਬੜਾ\RB ਪ੍ਰੇਸ਼ਾਨ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6234	ਉਸ\PR_PRP ਨੇ\PSP ਗੁੱਸਾ\N_NN ਖਾ\V_VM ਕੇ\V_VM_VNF ਆਪਣੇ\PR_PRF ਪੁੱਤਰ\N_NN ਮੁਹੰਮਦ\N_NNP ਮੁਅੱਜ਼ਮ\N_NNP ਸ਼ਾਹ\N_NNP ਆਲਮ\N_NNP ਨੂੰ\PSP ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਹਾਲਾਤ\N_NN ਠੀਕ\JJ ਕਰਨ\V_VM_VF ਲਈ\PSP ਭੇਜਿਆ\V_VM_VF -\RD_PUNC
+PBRED6235	ਤਬ\RB ਅਉਰੰਗ\N_NNP ਮਨ\N_NN ਮਾਹਿ\PSP ਰਿਸਾਵਾ\V_VM_VF ।\RD_PUNC
+PBRED6236	ਮਦ੍ਰ\N_NN ਦੇਸ\N_NN ਕੋ\PSP ਪੂਤ\N_NN ਪਠਾਵਾ\V_VM_VF ।\RD_PUNC
+PBRED6237	ਸ਼ਹਿਜ਼ਾਦੇ\N_NN ਦੀ\PSP ਆਮਦ\N_NN ਦੀ\PSP ਖ਼ਬਰ\N_NN ਸੁਣ\V_VM ਕੇ\V_VM_VNF ਪਹਾੜੀ\N_NN ਰਾਜੇ\N_NN ਤੇ\CC_CCD ਕੁਝ\DM_DMQ ਹੋਰ\DM_DMQ ਲੋਕ\N_NN ਬਹੁਤ\RB ਡਰ\N_NN ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6238	ਕੁਝ\DM_DMQ ਲੋਕਾਂ\N_NN ਨੇ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਵੀ\RP_RPD ਡਰਾਉਣ\N_NN ਦੀ\PSP ਕੋਸ਼ਿਸ਼\N_NN ਕੀਤੀ\V_VM_VF ਪਰ\CC_CCD ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਅਡੋਲ\JJ ਬੈਠੇ\V_VM_VF ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBRED6239	ਸ਼ਹਿਜ਼ਾਦੇ\N_NN ਨੇ\PSP ਆ\V_VM ਕੇ\V_VM_VNF ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਉੱਤੇ\RB ਫੌਜ\N_NN ਚੜ੍ਹਾ\V_VM_VF ਕੇ\V_VM_VNF ਸ਼ਾਹੀ\N_NN ਕਰ\N_NN ਉਗਰਾਹਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਕਈ\DM_DMQ ਗੁਰੂ\N_NN -\RD_PUNC ਦੋਖੀਆਂ\N_NN ਦੇ\PSP ਘਰ\N_NN -\RD_PUNC ਘਾਟ\N_NN ਢਾਹ\V_VM_VF ਦਿੱਤੇ\V_VM_VF -\RD_PUNC
+PBRED6240	ਹਮ\PR_PRP ਤੇ\RB ਭਾਜਿ\V_VM_VF ਬਿਮੁਖ\JJ ਜੇ\PR_PRL ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6241	ਤਿੰਨ\PR_PRP ਕੇ\PSP ਧਾਮ\N_NN ਗਿਰਾਵਤ\V_VM_VF ਭਏ\V_VM_VF ।\RD_PUNC -\RD_PUNC ਬਚਿੱਤਰ\N_NNP ਨਾਟਕ\N_NNP
+PBRED6242	ਪਰ\CC_CCD ਭਾਈ\N_NNP ਨੰਦ\N_NNP ਲਾਲ\N_NNP ਦੇ\PSP ਪ੍ਰਭਾਵ\N_NN ਕਾਰਨ\N_NN ,\RD_PUNC ਜੋ\PR_PRL ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਅਤੇ\CC_CCD ਸ਼ਹਿਜ਼ਾਦਾ\N_NNP ਮੁਅੱਜ਼ਮ\N_NNP ,\RD_PUNC ਦੋਵਾਂ\QT_QTO ਦੇ\PSP ਬਹੁਤ\RB ਨਜ਼ਦੀਕੀ\JJ ਸਨ\V_VAUX ,\RD_PUNC
+PBRED6243	ਸ਼ਹਿਜ਼ਾਦੇ\N_NN ਨੇ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਉੱਤੇ\RB ਕੋਈ\DM_DMQ ਹਮਲਾ\N_NN ਨਹੀਂ\RP_NEG ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6244	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਗੁਰੂ\N_NN -\RD_PUNC ਘਰ\N_NN ਅਤੇ\CC_CCD ਮੁਗਲ\N_NN ਸਰਕਾਰ\N_NN ਦੇ\PSP ਉਸ\PR_PRP ਸਮੇਂ\N_NN ਦੇ\PSP ਸਬੰਧਾਂ\N_NN ਨੂੰ\PSP ਦੇਖ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਦੋਵਾਂ\QT_QTO ਦੀ\PSP ਹੋਂਦ\N_NN ਨੂੰ\PSP ਸਵੀਕਾਰ\N_NN ਕਰਦਿਆਂ\V_VM_VF ਲਿਖਿਆ\V_VM_VF -\RD_PUNC
+PBRED6245	ਬਾਬੇ\N_NN ਕੇ\PSP ਬਾਬਰ\N_NNP ਕੇ\PSP ਦੋਊ\QT_QTO ।\RD_PUNC ਆਪ\PR_PRF ਕਰੈ\V_VM_VF ਪਰਮੇਸਰ\N_NN ਸੋਊ\PR_PRL ।\RD_PUNC
+PBRED6246	ਦੀਨਸਾਹ\N_NN ਇਨ\PR_PRP ਕੋ\PSP ਪਹਿਚਾਨੋ\V_VM_VF ।\RD_PUNC
+PBRED6247	ਦੁਨੀਪਤ\N_NN ਉਨ\PR_PRP ਕੋ\PSP ਅਨੁਮਾਨੋ\V_VM_VF ।\RD_PUNC
+PBRED6248	ਜੋ\PR_PRL ਬਾਬੇ\N_NN ਕੇ\PSP ਦਾਮ\N_NN ਨਾ\RP_NEG ਦੈ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6249	ਤਿਨ\PR_PRP ਤੇ\PSP ਗਹਿ\N_NN ਬਾਬਰ\N_NNP ਕੇ\PSP ਲੈ\V_VM ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6250	ਦਸਮ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX :\RD_PUNC ਬਾਬਾ\N_NN ਨਾਨਕ\N_NNP ਦੇ\PSP ਵਾਰਸ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬਾਨ\N_NN ਅਤੇ\CC_CCD ਬਾਬਰ\N_NNP ਦੇ\PSP ਵੰਸ਼ਜ\N_NN ਮੁਗਲ\N_NN ਬਾਦਸ਼ਾਹ\N_NN ਇਹ\DM_DMD ਦੋਵੇਂ\QT_QTO ਤਾਕਤਾਂ\N_NN ਈਸ਼ਵਰ\N_NN ਨੇ\PSP ਬਣਾਈਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6251	ਬਾਬੇ\N_NN -\RD_PUNC ਕਿਆਂ\PSP ਨੂੰ\PSP ਧਰਮ\N_NN ਦੇ\PSP ਬਾਦਸ਼ਾਹ\N_NN ਅਤੇ\CC_CCD ਬਾਬਰ\N_NNP -\RD_PUNC ਕਿਆਂ\PSP ਨੂੰ\PSP ਦੁਨੀਆ\N_NN ਦੇ\PSP ਬਾਦਸ਼ਾਹ\N_NN ਸਮਝੋ\V_VM_VF ।\RD_PUNC
+PBRED6252	ਧਰਮ\N_NN ਦੀ\PSP ਰਾਖੀ\N_NN ਲਈ\PSP ਜਿਹੜੇ\PR_PRL ਲੋਕ\N_NN ਗੁਰੂ\N_NN ਨੂੰ\PSP ਧਨ\N_NN ਭੇਟ\N_NN ਨਹੀਂ\RP_NEG ਕਰਨਗੇ\V_VM_VF ,\RD_PUNC ਉਨ੍ਹਾਂ\PR_PRP ਤੋਂ\PSP ਬਾਬਰੀ\N_NN ਹਾਕਮ\N_NN ਧਨ\N_NN ਖੋਹ\V_VM ਕੇ\V_VM_VNF ਲੈ\V_VM ਜਾਣਗੇ\V_VM_VF ।\RD_PUNC
+PBRED6253	ਭਾਵ\N_NN -\RD_PUNC ਅਰਥ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਜੇ\PR_PRL ਧਰਮ\N_NN ਬਚਾਉਣਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\CC_CCD ਗੁਰੂ\N_NN ਦੀ\PSP ਸ਼ਰਨ\N_NN ਵਿਚ\PSP ਆਓ\V_VM_VF ।\RD_PUNC
+PBRED6254	ਇਹ\DM_DMD ਹੈ\V_VAUX ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਸਮੇਂ\N_NN ਦੀਆਂ\PSP ਹਕੀਕਤਾਂ\N_NN ਨੂੰ\PSP ਸਵੀਕਾਰ\N_NN ਕਰਨ\V_VM_VF ਦਾ\PSP ਹੌਸਲਾ\N_NN ।\RD_PUNC
+PBRED6255	ਜਿਹੜਾ\PR_PRL ਆਗੂ\N_NN ਸਮੇਂ\N_NN ਦੀਆਂ\PSP ਹਕੀਕਤਾਂ\N_NN ਨੂੰ\PSP ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਸਮਝਦਾ\V_VM_VF ,\RD_PUNC ਉਹ\PR_PRP ਸਮੇਂ\N_NN ਦਾ\PSP ਮੁਕਾਬਲਾ\N_NN ਕਿਵੇਂ\PR_PRQ ਕਰੇਗਾ\V_VM_VF ?\RD_PUNC
+PBRED6256	1707\QT_QTC ਈ:\N_NN ਵਿਚ\PSP ਔਰੰਗਜ਼ੇਬ\N_NNP ਦੀ\PSP ਮੌਤ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਤਖ਼ਤ\N_NN -\RD_PUNC ਨਸ਼ੀਨੀ\N_NN ਦੀ\PSP ਜੰਗ\N_NN ਹੋਣ\V_VM_VF ਵਾਲੀ\PSP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6257	ਸ਼ਹਿਜ਼ਾਦਾ\N_NN ਮੁਹੰਮਦ\N_NNP ਮੁਅੱਜ਼ਮ\N_NNP ਨੇ\PSP ਭਾਈ\N_NNP ਨੰਦ\N_NNP ਲਾਲ\N_NNP ਰਾਹੀਂ\PSP ਇਕ\QT_QTC ਪੱਤਰ\N_NN ਲਿਖ\V_VM ਕੇ\V_VM_VNF ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਬੇਨਤੀ\N_NN ਕੀਤੀ\V_VM_VF ਕਿ\CC_CCS ਇਸ\DM_DMD ਜੰਗ\N_NN ਵਿਚ\PSP ਮੇਰੀ\PR_PRP ਮਦਦ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6258	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਸਿੰਘਾਂ\N_NN ਦਾ\PSP ਵੱਡਾ\JJ ਜਥਾ\N_NN ਮੁਹੰਮਦ\N_NNP ਮੁਅੱਜ਼ਮ\N_NNP ਦੀ\PSP ਮਦਦ\N_NN ਲਈ\PSP ਭੇਜ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6259	ਮੁਹੰਮਦ\N_NNP ਮੁਅੱਜ਼ਮ\N_NNP ਤਖ਼ਤ\N_NN -\RD_PUNC ਨਸ਼ੀਨੀ\N_NN ਦੀ\PSP ਜੰਗ\N_NN ਜਿੱਤ\JJ ਕੇ\PSP ਬਹਾਦਰ\N_NNP ਸ਼ਾਹ\N_NNP ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਹਿੰਦੁਸਤਾਨ\N_NNP ਦਾ\PSP ਸੱਤਵਾਂ\QT_QTO ਮੁਗਲ\N_NN ਬਾਦਸ਼ਾਹ\N_NN ਬਣ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6260	ਬਹਾਦਰ\N_NNP ਸ਼ਾਹ\N_NNP ਨੇ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਧੰਨਵਾਦ\N_NN ਤੇ\N_NN ਸਤਿਕਾਰ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਦਿੱਲੀ\N_NNP ਤੋਂ\PSP ਆਗਰੇ\N_NNP ਆਉਣ\V_VM_VF ਦਾ\PSP ਸੱਦਾ\N_NN ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6261	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਇਕ\QT_QTC ਦਿਨ\N_NN ਆਗਰੇ\N_NNP ਵਿਚ\PSP ਵਜ਼ੀਰ\N_NN -\RD_PUNC ਇ\N_NN -\RD_PUNC ਆਜ਼ਮ\N_NN ਮੁਨਇਮ\N_NNP ਖਾਨ\N_NNP ਦੀ\PSP ਹਵੇਲੀ\N_NN ਵਿਚ\PSP ਬੈਠੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6262	ਸੰਗਤ\N_NN ਵਿਚ\PSP ਮੁਗਲ\N_NN ਦਰਬਾਰ\N_NN ਦੇ\PSP ਕੁਝ\DM_DMQ ਅਹਿਲਕਾਰ\N_NN ਅਤੇ\CC_CCD ਮੌਲਵੀ\N_NN -\RD_PUNC ਮੌਲਾਣੇ\N_NN ਵੀ\RP_RPD ਹਾਜ਼ਰ\N_NN ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6263	ਇਕ\QT_QTC ਮੌਲਵੀ\N_NN ਨੇ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਅਜ਼ਮਤ\N_NN ਨੂੰ\PSP ਪਰਖਣ\V_VM_VF ਲਈ\PSP ਇਕ\QT_QTC ਸਵਾਲ\N_NN ਪੁੱਛਿਆ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਹਜ਼ੂਰ\N_NN ,\RD_PUNC ਆਪ\PR_PRF ਹਿੰਦੂਆਂ\N_NN ਦੇ\PSP ਬਹੁਤ\RB ਵੱਡੇ\JJ ਪੀਰ\N_NN ਹੋ\V_VAUX ।\RD_PUNC
+PBRED6264	ਕੀ\PR_PRQ ਆਪ\PR_PRF ਵਿਚ\PSP ਕਰਾਮਾਤ\N_NN ਦੀ\PSP ਕੋਈ\DM_DMQ ਸ਼ਕਤੀ\N_NN ਹੈ\V_VAUX ?\RD_PUNC
+PBRED6265	ਜੇ\PR_PRL ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਕੋਈ\DM_DMQ ਕਰਾਮਾਤ\N_NN ਦਿਖਾਓ\V_VM_VF ,\RD_PUNC ਜਿਸ\PR_PRL ਤੋਂ\PSP ਅਸੀਂ\PR_PRP ਮੰਨ\V_VM ਜਾਈਏ\V_VM_VF ਕਿ\CC_CCS ਆਪ\PR_PRF ਸੱਚਮੁੱਚ\JJ ਹੀ\RP_RPD ਇਕ\QT_QTC ਪਹੁੰਚੇ\V_VM_VF ਹੋਏ\V_VM_VF ਪੀਰ\N_NN ਹੋ\V_VAUX ।\RD_PUNC
+PBRED6266	ਗੁਰਮਤਿ\N_NN ਵਿਚ\PSP ਕਰਾਮਾਤ\N_NN ਦਾ\PSP ਕੋਈ\DM_DMQ ਸਥਾਨ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6267	ਇਸ\DM_DMD ਲਈ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਦੁਨਿਆਵੀ\N_NN ਯਥਾਰਥ\N_NN ਨੂੰ\PSP ਮੁੱਖ\N_NN ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਫ਼ਰਮਾਇਆ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਸਭ\DM_DMQ ਤੋਂ\PSP ਵੱਡੀ\JJ ਕਰਾਮਾਤ\N_NN ਤਾਂ\RP_RPD ਬਾਦਸ਼ਾਹ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6268	ਉਹ\PR_PRP ਰੰਕ\N_NN ਨੂੰ\PSP ਰਾਜਾ\N_NN ਅਤੇ\CC_CCD ਰਾਜਾ\N_NN ਨੂੰ\PSP ਰੰਕ\N_NN ਬਣਾ\V_VM_VF ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6269	ਉਹ\PR_PRP ਕਿਸੇ\DM_DMQ ਦਾ\PSP ਜੀਵਨ\N_NN ਲੈ\V_VM ਵੀ\RP_RPD ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਕਿਸੇ\DM_DMQ ਨੂੰ\PSP ਜੀਵਨ\N_NN ਦੇ\V_VM ਵੀ\RP_RPD ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6270	`\RD_PUNC ਮੌਲਵੀ\N_NN ਜੀ\RP_INJ ਬੋਲੇ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਨਹੀਂ\RP_NEG ਜੀ\RP_INJ ,\RD_PUNC ਅਸੀਂ\PR_PRP ਤਾਂ\RP_RPD ਆਪ\PR_PRF ਦੀ\PSP ਕੋਈ\DM_DMQ ਕਰਾਮਾਤ\N_NN ਦੇਖਣਾ\V_VM_VF ਚਾਹੁੰਦੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBRED6271	ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਦਿਖਾਓ\V_VM_VF ।\RD_PUNC
+PBRED6272	`\RD_PUNC ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੀ\PR_PRF ਜੇਬ\N_NN ਵਿਚੋਂ\PSP ਸੋਨੇ\N_NN ਦੇ\PSP ਕੁਝ\DM_DMQ ਸਿੱਕੇ\N_NN ਆਪਣੇ\PR_PRF ਹੱਥ\N_NN ਉੱਤੇ\RB ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਕਿਹਾ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਦੂਜੀ\QT_QTO ਕਰਾਮਾਤ\N_NN ਇਹ\DM_DMD ਧਨ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6273	ਜਿਸ\PR_PRL ਕੋਲ\JJ ਧਨ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਉਹ\PR_PRP ਜੋ\PR_PRL ਚਾਹੇ\N_NN ,\RD_PUNC ਸੋ\PR_PRL ਕਰ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC `\RD_PUNC
+PBRED6274	ਪਰ\CC_CCD ਮੌਲਵੀ\N_NN ਦੀ\PSP ਤਸੱਲੀ\N_NN ਨਹੀਂ\RP_NEG ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBRED6275	ਉਹ\PR_PRP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੀ\PSP ਕਰਾਮਾਤ\N_NN ਦੇਖਣ\V_VM_VF ਲਈ\PSP ਤੁਲਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6276	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਮੌਲਵੀ\N_NN ਦੀਆਂ\PSP ਹੁੱਜਤਾਂ\N_NN ਦੇਖ\V_VM ਕੇ\V_VM_VNF ਰੋਹ\N_NN ਚੜ\V_VM ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6277	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਆਪਣੇ\PR_PRF ਗਾਤਰੇ\N_NN ਦੀ\PSP ਕਿਰਪਾਨ\N_NN ਹਵਾ\N_NN ਵਿਚ\PSP ਲਹਿਰਾਉਂਦਿਆਂ\V_VM_VF ਆਖਿਆ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਤੀਜੀ\QT_QTO ਕਰਾਮਾਤ\N_NN ਇਹ\DM_DMD ਤਲਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6278	ਇਹ\DM_DMD ਪਲ\N_NN -\RD_PUNC ਛਿੰਨ\N_NN ਵਿਚ\PSP ਕ੍ਰਿਸ਼ਮਾ\N_NN ਕਰ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6279	ਜਿਹੜਾ\PR_PRL ਬੰਦਾ\N_NN ਦਲੀਲ\N_NN ਨੂੰ\PSP ਨਾ\RP_NEG ਸਮਝੇ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਨੂੰ\PSP ਇਸ\DM_DMD ਨਾਲ\PSP ਸਮਝਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6280	`\RD_PUNC ਵਜ਼ੀਰ-ਇ-ਆਜ਼ਮ\N_NN ਮੁਨਇਮ\N_NNP ਖਾਨ\N_NNP ਅਤੇ\CC_CCD ਕੁਝ\DM_DMQ ਹੋਰ\DM_DMQ ਅਹਿਲਕਾਰਾਂ\N_NN ਨੇ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਸ਼ਾਂਤ\JJ ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6281	ਮਾਹੌਲ\N_NN ਕੁਝ\DM_DMQ ਸਾਂਵਾਂ\N_NN ਹੋਇਆ\V_VM_VF ਤਾਂ\CC_CCD ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਬੋਲੇ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਮਨੁੱਖ\N_NN ਨੂੰ\PSP ਕੁਝ\DM_DMQ ਸਾਰਥਕ\JJ ਅਤੇ\CC_CCD ਸ਼ੁੱਭ\JJ ਕੰਮ\N_NN ਕਰਨੇ\V_VM_VF ਚਾਹੀਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6282	ਫਜ਼ੂਲ\JJ ਦੇ\PSP ਵਾਦ\N_NN -\RD_PUNC ਵਿਵਾਦ\N_NN ਵਿਚ\PSP ਜੀਵਨ\N_NN ਨਹੀਂ\RP_NEG ਗੁਆਉਣਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6283	ਗੁਰੂ\N_NNP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦੱਖਣ\N_NN ਦੀ\PSP ਪਹਿਲੀ\QT_QTO ਯਾਤਰਾ\N_NN ਸਮੇਂ\N_NN ਔਰੰਗਜ਼ੇਬ\N_NNP ਨੂੰ\PSP ਮਿਲਣ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਰਾਹ\N_NN ਵਿਚ\PSP ਦਾਦੂ\N_NNP -\RD_PUNC ਦੁਆਰੇ\N_NNP ਪਹੁੰਚੇ\V_VM_VF ।\RD_PUNC
+PBRED6284	ਦਾਦੂ\N_NNP -\RD_PUNC ਦੁਆਰਾ\N_NNP ਰਾਜਸਥਾਨ\N_NNP ਦੇ\PSP ਜ਼ਿਲਾ\N_NN ਕੇਂਦਰ\N_NN ਜੈਪੁਰ\N_NNP ਦੇ\PSP ਪੱਛਮ\N_NN ਵਿਚ\PSP 60\QT_QTC ਕਿਲੋਮੀਟਰ\N_NN ਦੂਰ\JJ ਸ਼ਹਿਰ\N_NN ਨਰਾਇਣੇ\N_NNP ਵਿਚ\PSP ਸਥਿਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6285	ਦਾਦੂ\N_NNP -\RD_PUNC ਦੁਆਰਾ\N_NNP ਦਾਦੂ\N_NNP ਪੰਥ\N_NNP ਦਾ\PSP ਆਦਿ\RP_CL -\RD_PUNC ਕੇਂਦਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6286	ਸੰਤ\N_NN ਦਾਦੂ\N_NNP ਦਿਆਲ\N_NNP ਜੀ\RP_INJ (\RD_SYM 1544\QT_QTC -\RD_PUNC 1603\QT_QTC ਈ:\N_NN )\RD_SYM ਅਹਿੰਸਾਵਾਦੀ\N_NN ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6287	ਉਹ\PR_PRP ਨਿਰ\N_NN -\RD_PUNC ਦਾਅਵਾ\N_NN ਜੀਵਨ\N_NN ਜਿਊਣ\N_NN ਦੀ\PSP ਸਿੱਖਿਆ\N_NN ਦਿੰਦੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6288	ਕੋਈ\DM_DMQ ਇੱਟ\N_NN ਢੀਮ\N_NN ਮਾਰ\V_VM ਜਾਏ\V_VM_VF ਤਾਂ\CC_CCD ਸੀਸ\N_NN ਉੱਤੇ\RB ਸਹਿਣ\N_NN ਕਰ\V_VM ਲੈਣੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6289	ਦਾਦੂ\N_NN ਦਾਵਾ\N_NN ਦੂਰ\N_NN ਕਰਿ\V_VM_VF ਬਿਨ\RP_NEG ਦਾਵੇ\N_NN ਦਿਨ\N_NN ਕਟਿ\V_VM_VF ।\RD_PUNC
+PBRED6290	ਕੇਤੀ\RB ਸੌਦਾ\N_NN ਕਰਿ\V_VM ਗਈ\V_VM_VF ਏਤ\DM_DMD ਪਸਾਰੀ\N_NN ਦੇ\PSP ਹੱਟ\N_NN ।\RD_PUNC
+PBRED6291	ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਜਦੋਂ\PR_PRL 1706\QT_QTC ਈ:\N_NN ਵਿਚ\PSP ਦਾਦੂ\N_NNP -\RD_PUNC ਦੁਆਰੇ\N_NN ਪਹੁੰਚੇ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਸਮੇਂ\N_NN ਸੰਤ\N_NN ਦਾਦੂ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਪੰਜਵੇਂ\QT_QTO ਵਾਰਸ\N_NN ,\RD_PUNC ਮਹੰਤ\N_NN ਜੈਤ\N_NNP ਰਾਮ\N_NNP ਗੱਦੀਨਸ਼ੀਨ\N_NN ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6292	ਉਹਨਾਂ\PR_PRP ਨਾਲ\PSP ਦਸਮ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਦੀ\PSP ਗੋਸ਼ਟੀ\N_NN ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBRED6293	ਮਹੰਤ\N_NN ਜੀ\RP_INJ ਦਾਦੂ\N_NNP ਦਿਆਲ\N_NNP ਦੀ\PSP ਅਹਿੰਸਾਵਾਦੀ\N_NN ਨੀਤੀ\N_NN ਉੱਤੇ\RB ਹੀ\RP_RPD ਜ਼ੋਰ\N_NN ਦੇ\V_VM ਰਹੇ\V_VM_VF ਸਨ\V_VAUX ਪਰ\CC_CCD ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਮਹੰਤ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਕਿਹਾ\V_VM_VF ,\RD_PUNC `\RD_PUNC ਮਹਾਂਪੁਰਸ਼ੋ\N_NN ,\RD_PUNC ਸਮਾਂ\N_NN ਬਦਲ\V_VM ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6294	ਸਾਡੇ\PR_PRP ਪੰਚਮ\N_NN ਗੁਰੂ\N_NN ,\RD_PUNC ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਸ਼ਹੀਦ\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6295	ਛੇਵੀਂ\QT_QTO ਪਾਤਸ਼ਾਹੀ\N_NN ਗੁਰੂ\N_NN ਹਰਿਗੋਬਿੰਦ\N_NNP ਸਾਹਿਬ\N_NNP ਨੂੰ\PSP ਗਵਾਲੀਅਰ\N_NNP ਦੇ\PSP ਕਿਲੇ\N_NN ਵਿਚ\PSP ਕੈਦ\N_NN ਰੱਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6296	ਸਾਰੇ\DM_DMQ ਦੇਸ਼\N_NN ਵਿਚ\PSP ਧਰਮ\N_NN ਅਤੇ\CC_CCD ਭਾਰਤੀ\N_NN ਸੱਭਿਅਤਾ\N_NN ਦੀ\PSP ਹਾਨੀ\JJ ਹੋ\V_VAUX ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6297	ਅਸੀਂ\PR_PRP ਮਜਬੂਰ\N_NN ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਸ਼ਸਤਰ\N_NN ਚੁੱਕੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6298	ਸਮਾਂ\N_NN ਮੰਗ\V_VM ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6299	ਜਗ\N_NN ਮੇਂ\PSP ਦਾਵਾ\N_NN ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਦੁਸ਼ਟ\N_NN ਜਨਾਂ\N_NN ਲੋ\V_VM_VF ਲੁੱਟ\N_NN ।\RD_PUNC
+PBRED6300	ਬੁਰਾ\JJ ਕਰੇ\V_VM_VF ਜੋ\PR_PRL ਆਪਨੋ\PR_PRF ਜੜ੍ਹ\N_NN ਤਾਂ\CC_CCD ਕੀ\PSP ਦੇਹੁ\V_VM_VF ਪੁੱਟ\V_VM ।\RD_PUNC
+PBRED6301	ਮਹੰਤ\N_NN ਜੈਤ\N_NNP ਰਾਮ\N_NNP ਨੇ\PSP ਆਪਣੀ\PR_PRF ਨੀਤੀ\N_NN ਅਨੁਸਾਰ\N_NN ਫੇਰ\RB ਆਖਿਆ\V_VM_VF -\RD_PUNC
+PBRED6302	ਦਾਦੂ\N_NN ਸਮਾਂ\N_NN ਬਿਚਾਰਿ\V_VM_VF ਕੈ\PSP ਕਲਿ\N_NN ਕਾ\PSP ਲੀਜੈ\V_VM_VF ਭਾਇ\N_NN ।\RD_PUNC
+PBRED6303	ਜੇ\PR_PRL ਕੋ\DM_DMQ ਮਾਰੈ\V_VM_VF ਢੀਮ\N_NN ਇਟ\N_NN ਲੀਜੈ\V_VM_VF ਸੀਸ\N_NN ਚਢਾਇ\V_VM_VF ।\RD_PUNC
+PBRED6304	ਇਸ\DM_DMD ਸਮੇਂ\N_NN ਦਾਦੂ\N_NNP -\RD_PUNC ਦੁਆਰੇ\N_NNP ਦੇ\PSP ਕਈ\DM_DMQ ਸਾਧੂ\N_NN -\RD_PUNC ਸੰਤ\N_NN ਇਸ\DM_DMD ਵਿਚਾਰ\N_NN -\RD_PUNC ਗੋਸ਼ਟੀ\N_NN ਨੂੰ\PSP ਸੁਣ\V_VM ਰਹੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6305	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਮਹੰਤ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਕਥਨ\N_NN ਦਾ\PSP ਉੱਤਰ\N_NN ਦਿੰਦਿਆਂ\V_VM_VF ਆਖਿਆ\V_VM_VF -\RD_PUNC
+PBRED6306	ਦਾਦੂ\N_NN ਸਮਾਂ\N_NN ਬਿਚਾਰ\V_VM_VF ਕੈ\PSP ਕਲਿ\N_NN ਕਾ\PSP ਲੀਜੈ\V_VM_VF ਭਾਇ\N_NN ।\RD_PUNC
+PBRED6307	ਜੇ\PR_PRF ਕੋ\DM_DMQ ਮਾਰੈ\V_VM_VF ਈਟ\N_NN ਢੀਮ\N_NN ਪਾਥਰ\N_NN ਹਨੈ\V_VM_VF ਰਿਸਾਇ\V_VM_VF ।\RD_PUNC
+PBRED6308	(\RD_SYM ਜੇ\CC_CCS ਕੋਈ\DM_DMQ ਇੱਟ\N_NN ਢੀਮ\N_NN ਮਾਰੇ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦਾ\PSP ਜਵਾਬ\N_NN ਪੱਥਰ\N_NN ਨਾਲ\PSP ਦੇਣਾ\V_VM_VF ਚਾਹੀਦਾ\V_VM_VF ਹੈ\V_VAUX )\RD_SYM
+PBRED6309	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਵਿਚਾਰਾਂ\N_NN ਦਾ\PSP ਕਈ\DM_DMQ ਦਾਦੂ\N_NNP -\RD_PUNC ਪੰਥੀ\N_NNP ਸਾਧੂਆਂ\N_NN ਉੱਤੇ\RB ਬਹੁਤ\QT_QTF ਡੂੰਘਾ\JJ ਅਸਰ\N_NN ਪਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6310	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਦਾਦੂ\N_NNP -\RD_PUNC ਦੁਆਰੇ\N_NNP ਤੋਂ\PSP ਜਾਣ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB ਛੇਤੀ\RB ਹੀ\RP_RPD ਦਾਦੂ\N_NNP ਪੰਥ\N_NNP ਵਿਚ\PSP ਫੁੱਟ\N_NN ਪੈ\V_VM ਗਈ\V_VM_VF ।\RD_PUNC
+PBRED6311	ਕੁਝ\DM_DMQ ਦਾਦੂ\N_NNP -\RD_PUNC ਪੰਥੀ\N_NNP ਸਾਧੂ\N_NN ਕੇਸਾਧਾਰੀ\N_NN ਹੋ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6312	ਕੁਝ\N_NN ਸਾਲਾਂ\N_NN ਬਾਅਦ\JJ ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਸ਼ਸਤਰ\N_NN ਵੀ\RP_RPD ਧਾਰਨ\V_VM_VF ਕਰ\V_VM ਲਏ\V_VM_VF ।\RD_PUNC
+PBRED6313	ਦਾਦੂ\N_NNP ਪੰਥ\N_NNP ਦੀ\PSP ਇਸ\DM_DMD ਸ਼ਾਖਾ\N_NN ਨੂੰ\PSP ਨਾਗਾ\N_NNP ਪੰਥ\N_NNP ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6314	ਨਾਗਾ\N_NNP ਪੰਥ\N_NNP ਦੀ\PSP ਮਰਿਆਦਾ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਹਰ\DM_DMQ ਨਾਗਾ\N_NNP -\RD_PUNC ਪੰਥੀ\N_NNP ਅੱਠ\QT_QTC ਸ਼ਸਤਰਾਂ\N_NN ਵਿਚੋਂ\PSP ਪੰਚ\QT_QTC ਸ਼ਸਤਰ\N_NN ਜ਼ਰੂਰ\N_NN ਪਹਿਨੇਗਾ\V_VM_VF ।\RD_PUNC
+PBRED6315	ਅੱਠ\QT_QTC ਸ਼ਸਤਰ\N_NN ਇਹ\PR_PRP ਹਨ\V_VAUX -\RD_PUNC ਤਲਵਾਰ\N_NNP ,\RD_PUNC ਢਾਲ\N_NNP ,\RD_PUNC ਕਟਾਰ\N_NNP ,\RD_PUNC ਖੰਡਾ\N_NNP ,\RD_PUNC ਫਰਸਾ\N_NNP ,\RD_PUNC ਭਾਲਾ\N_NNP ,\RD_PUNC ਧਨੁਸ਼\N_NNP ਤੇ\CC_CCD ਬੰਦੂਕ\N_NNP ।\RD_PUNC
+PBRED6316	ਦਾਦੂ\N_NNP ਪੰਥ\N_NNP ਦੇ\PSP ਨਾਗਾ\N_NNP ਪੰਥੀ\N_NNP ਸਾਧੂ\N_NN ਕੇਸਾਧਾਰੀ\N_NN ਵੀ\RP_RPD ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਸ਼ਸਤਰਧਾਰੀ\N_NN ਵੀ\RP_RPD ।\RD_PUNC
+PBRED6317	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਸਮੇਂ\N_NN ਦੇ\PSP ਹਾਣੀ\N_NN ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6318	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਯਥਾਰਥਵਾਦੀ\N_NN ਸੋਚ\N_NN ਨੇ\PSP ਕੁਝ\DM_DMQ ਹੋਰ\DM_DMQ ਸੰਪਰਦਾਵਾਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਪ੍ਰਭਾਵਿਤ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6319	ਦਸਮ\QT_QTO ਪਾਤਸ਼ਾਹ\N_NN ਦੇ\PSP ਵਾਸਤਵਿਕ\JJ ਅਨੁਭਵ\N_NN ਦੀ\PSP ਸਿਖਰ\JJ ਉਦੋਂ\RB ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6320	ਜਦੋਂ\PR_PRL ਉਹ\PR_PRP ਆਪਣੇ\PR_PRF ਅਨੁਯਾਈਆਂ\N_NN ਅਤੇ\CC_CCD ਸਿੱਖਾਂ\N_NN ਨੂੰ\PSP ਤਾਕੀਦ\N_NN ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਮੈਨੂੰ\PR_PRP ਪਰਮੇਸ਼ਰ\N_NN ਨਹੀਂ\RP_NEG ਕਹਿਣਾ\V_VM_VF ।\RD_PUNC
+PBRED6321	ਜਿਹੜਾ\PR_PRL ਕਹੇਗਾ\V_VM_VF ,\RD_PUNC ਸਿੱਧਾ\JJ ਨਰਕ\JJ ਨੂੰ\PSP ਜਾਏਗਾ\V_VM_VF ।\RD_PUNC
+PBRED6322	ਮੈਂ\PR_PRP ਤਾਂ\RP_RPD ਪਰਮ\N_NN ਪੁਰਖ\N_NN ਪਰਮੇਸ਼ਰ\N_NN ਦਾ\PSP ਦਾਸ\N_NN ਹਾਂ\V_VAUX ਅਤੇ\CC_CCD ਜਗਤ\N_NN -\RD_PUNC ਵਰਤਾਰੇ\N_NN ਨੂੰ\PSP ਦੇਖਣ\V_VM_VF ਆਇਆ\V_VM_VF ਹਾਂ\V_VAUX -\RD_PUNC
+PBRED6323	ਜੋ\PR_PRL ਹਮ\PR_PRP ਕੋ\PSP ਪਰਮੇਸੁਰ\N_NN ਉਚਰਿ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6324	ਤੇ\CC_CCD ਸਭ\DM_DMQ ਨਰਕਿ\N_NN ਕੁੰਡ\N_NN ਮਹਿ\PSP ਪਰਿ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6325	ਮੈ\PR_PRP ਹੋ\V_VAUX ਪਰਮ\N_NN ਪੁਰਖ\N_NN ਕੋ\PSP ਦਾਸਾ\N_NN ।\RD_PUNC
+PBRED6326	ਦੇਖਨਿ\V_VM_VF ਆਯੋ\V_VM_VF ਜਗਤ\N_NN ਤਮਾਸਾ\N_NN ।\RD_PUNC -ਬਚਿੱਤਰ\N_NNP ਨਾਟਕ\N_NNP ,\RD_PUNC ਅਧਿ\N_NN :\RD_PUNC ਛੇਵਾਂ\QT_QTO
+PBRED6327	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਵਿਲੱਖਣ\JJ ਤੇ\N_NN ਬਹੁਪੱਖੀ\JJ ਸ਼ਖ਼ਸੀਅਤ\N_NN ਨੂੰ\PSP ਕਲਮ\N_NN ਦੀ\PSP ਬੰਦਿਸ਼\N_NN ਵਿਚ\PSP ਲਿਆਉਣਾ\V_VM_VF ਇਕ\QT_QTC ਬੜਾ\RB ਕਠਿਨ\JJ ਕੰਮ\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6328	ਕਿਉਂਕਿ\CC_CCS ਹਰ\DM_DMQ ਲੇਖਕ\N_NN /\RD_SYM ਕਵੀ\N_NN ਦੀ\PSP ਆਪਣੀ\PR_PRF ਇਕ\QT_QTC ਸੀਮਾ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6329	ਅੱਲਾ\N_NNP ਯਾਰ\N_NNP ਖਾਂ\N_NNP ਜੋਗੀ\N_NNP ਵਰਗਾ\PSP ਉਸਤਾਦ\N_NN ਸ਼ਾਇਰ\N_NN ਵੀ\RP_RPD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੀ\PSP ਬਹੁਪੱਖੀ\JJ ਸ਼ਖ਼ਸੀਅਤ\N_NN ਨੂੰ\PSP ਬਿਆਨ\V_VM ਕਰਨ\V_VM_VF ਲਈ\PSP ਸ਼ਬਦਾਂ\N_NN ਦੀ\PSP ਘਾਟ\JJ ਮਹਿਸੂਸ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6330	ਆਪਣੀ\PR_PRF ਸਮਰੱਥਾ\N_NN `\RD_PUNC ਤੇ\RB ਸ਼ੱਕ\N_NN ਕਰਦਾ\V_VM_VF ਹੋਇਆ\V_VM_VF ਲਿਖਦਾ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC ਕਰਤਾਰ\N_NN ਕੀ\PSP ਸੌਗੰਧ\N_NN ,\RD_PUNC ਨਾਨਕ\N_NN ਕੀ\PSP ਕਸਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6331	ਜਿਤਨੀ\RB ਭੀ\RP_RPD ਹੋ\V_VAUX ਗੋਬਿੰਦ\N_NNP ਕੀ\PSP ਤਾਰੀਫ਼\N_NN ਵੋਹ\DM_DMD ਕਮ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6332	ਹਰ\DM_DMQ ਚੰਦ\N_NN ਮੇਰੇ\PR_PRP ਹਾਥ\N_NN ਮੇਂ\PSP ਪੁਰਜ਼ੋਰ\N_NN ਕਲਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6333	ਸਤਿਗੁਰੂ\N_NN ਕੇ\PSP ਲਿਖੂੰ\V_VM_VF ਵਸਫ\N_NN ਕਹਾਂ\PR_PRQ ਤਾਬਿ\N_NN ਰਕਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6334	ਦਰਅਸਲ\N_NN ,\RD_PUNC ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਬਾਰੇ\PSP ਲਿਖਣ\V_VM_VF ਵਾਲਾ\PSP ਲਗਭਗ\QT_QTF ਹਰ\DM_DMQ ਲੇਖਕ\N_NN /\RD_SYM ਕਵੀ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਸ਼ਖ਼ਸੀਅਤ\N_NN ਦੇ\PSP ਉਨ੍ਹਾਂ\PR_PRP ਪੱਖਾਂ\N_NN ਨੂੰ\PSP ਹੀ\RP_RPD ਉਘਾੜਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6335	ਜਿਹੜੇ\PR_PRL ਪੱਖ\N_NN ਉਸ\PR_PRP ਦੇ\PSP ਮਨ\N_NN `\RD_PUNC ਤੇ\RB ਡੂੰਘਾ\JJ ਪ੍ਰਭਾਵ\N_NN ਛੱਡਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6336	ਉਂਜ\RB ਤਾਂ\RP_RPD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਬਹੁਪੱਖੀ\N_NN ਵਡਿਆਈ\JJ ਦੇ\PSP ਮਾਲਕ\N_NN ਹਨ\V_VAUX ਪਰ\CC_CCD ਜੇਕਰ\CC_CCS ਉਨ੍ਹਾਂ\PR_PRP ਦੀ\PSP ਸ਼ਖ਼ਸੀਅਤ\N_NN ਨੂੰ\PSP ਬਹੁਤ\QT_QTF ਹੀ\RP_RPD ਸੰਖੇਪ\JJ ਵਿਚ\PSP ਬਿਆਨ\V_VM ਕਰਨਾ\V_VM_VF ਹੋਵੇ\V_VM_VF ਤਾਂ\CC_CCD ਕਹਿ\V_VM_VF ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX ਕਿ\CC_CCS ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਇਕੋ\QT_QTO ਸਮੇਂ\N_NN ਬਾਦਸ਼ਾਹ\JJ ਤੇ\CC_CCD ਦਰਵੇਸ਼\JJ ਅਤੇ\CC_CCD ਸੰਤ\JJ ਤੇ\N_NN ਸਿਪਾਹੀ\JJ ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6337	ਇਹ\DM_DMD ਗੱਲ\N_NN ਵੱਖਰੀ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਿੱਖ\N_NN ਆਪਣੇ\PR_PRF ਮਹਾਨ\JJ ਨਾਇਕ\N_NN ਨੂੰ\PSP ਸੰਤ\JJ ਨਾਲੋਂ\PSP ਸਿਪਾਹੀ\JJ ਵਜੋਂ\PSP ਵੱਧ\JJ ਮਾਨਤਾ\N_NN ਦਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6338	ਤਾਹੀਓਂ\RP_RPD ਸਿੱਖਾਂ\N_NN ਤੇ\CC_CCD ਗ਼ੈਰ\N_NN -\RD_PUNC ਸਿੱਖਾਂ\N_NN ਨੇ\PSP ਵੀ\RP_RPD ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਯੁੱਧ\N_NN ਦੇ\PSP ਮੈਦਾਨ\N_NN ਨੂੰ\PSP ਜਾਂਦੇ\V_VM_VF ਹੀ\RP_RPD ਚਿਤਰਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6339	ਘੋੜੇ\N_NN `\RD_PUNC ਤੇ\RB ਸਵਾਰ\N_NN ਅਤੇ\CC_CCD ਹੱਥ\N_NN ਵਿਚ\PSP ਤਲਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6340	ਵੈਸੇ\RB ,\RD_PUNC ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਕੱਦ\N_NN -\RD_PUNC ਕਾਠ\N_NN ਨੂੰ\PSP ਕੇਵਲ\RB ਉਹਨਾਂ\PR_PRP ਦੀਆਂ\PSP ਜੰਗੀ\N_NN ਪ੍ਰਾਪਤੀਆਂ\N_NN ਦੇ\PSP ਰਾਜ਼\N_NN ਨਾਲ\PSP ਨਹੀਂ\RP_NEG ਮਾਪਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ,\RD_PUNC
+PBRED6341	ਕਿਉਂਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਦੀਆਂ\PSP ਪ੍ਰਾਪਤੀਆਂ\N_NN ਸਰਬ\N_NN -\RD_PUNC ਪੱਖੀ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6342	ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਹਰ\DM_DMQ ਪੱਖ\N_NN ਤੋਂ\PSP ਇਕ\QT_QTC ਮਹਾਨ\JJ ਵਿਅਕਤੀ\N_NN ਸਨ\V_VAUX ,\RD_PUNC
+PBRED6343	ਜਿੰਨਾਂ\RB ਨੇ\PSP ਸਿਰਫ\RB 42\QT_QTC ਸਾਲਾਂ\N_NN ਦੇ\PSP ਆਪਣੇ\PR_PRF ਜੀਵਨ\N_NN -\RD_PUNC ਕਾਲ\N_NN (\RD_SYM 1666\QT_QTC -\RD_PUNC 1708\QT_QTC ਈ:\N_NN )\RD_SYM ਦੌਰਾਨ\RB ਵੱਡੀਆਂ\JJ ਮੱਲਾਂ\N_NN ਮਾਰੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6344	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਉੱਤਰੀ\N_NN ਭਾਰਤ\N_NN ਦੀ\PSP ਪੂਰੀ\JJ ਦੀ\PSP ਪੂਰੀ\JJ ਤਵਾਰੀਖ\N_NN ਹੀ\RP_RPD ਬਦਲ\V_VM ਕੇ\V_VM_VNF ਰੱਖ\V_VM ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC -\RD_PUNC ਖੁਸ਼ਵੰਤ\N_NNP ਸਿੰਘ\N_NNP
+PBRED6345	ਗੱਲ\N_NN ਕੀ\PR_PRQ ,\RD_PUNC ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਸਮੇਂ\N_NN ਦੀ\PSP ਹਿੱਕ\N_NN `\RD_PUNC ਤੇ\RB ਕਦੇ\RB ਨਾ\RP_NEG ਮਿਟਣ\V_VM_VF ਵਾਲੀਆਂ\PSP ਪੈੜਾਂ\N_NN ਪਾ\V_VM ਗਏ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC
+PBRED6346	ਜਿੰਨਾਂ\RB ਤੋਂ\PSP ਆਉਣ\V_VM_VF ਵਾਲੀਆਂ\PSP ਨਸਲਾਂ\N_NN ਸੇਧ\N_NN ਲੈਂਦੀਆਂ\V_VM_VF ਰਹਿਣਗੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6347	ਇਹੋ\DM_DMD ਕਾਰਨ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੀ\PSP ਫਿਲਾਸਫੀ\N_NN ਜੋਸ਼\JJ ਦੇ\PSP ਨਾਲ\PSP ਹੋਸ਼\N_NN ਤੋਂ\PSP ਕੰਮ\N_NN ਲੈਣ\V_VM_VF ਦੀ\PSP ਗੱਲ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6348	ਮਿਸਾਲ\RP_CL ਵਜੋਂ\PSP ,\RD_PUNC ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਸੰਘਰਸ਼ਮਈ\JJ ਜੀਵਨ\N_NN ਦੇ\PSP ਆਰੰਭਕ\JJ ਪੜਾਅ\N_NN ਦੌਰਾਨ\RB ਆਪਣੇ\PR_PRF -\RD_PUNC ਆਪ\PR_PRF ਨੂੰ\PSP ਵਾਹ\N_NN ਲਗਦੀ\V_VM_VF ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਨਾਲ\PSP ਛੋਟੇ\JJ -\RD_PUNC ਮੋਟੇ\JJ ਝਗੜਿਆਂ\N_NN ਵਿਚ\PSP ਉਲਝਣ\N_NN ਤੋਂ\PSP ਬਚਾਈ\V_VM_VF ਰੱਖਿਆ\V_VM_VF ,\RD_PUNC
+PBRED6349	ਕਿਉਂਕਿ\CC_CCS ਉਹ\PR_PRP ਅਜਿਹੇ\RB ਝਗੜਿਆਂ\N_NN ਵਿਚ\PSP ਆਪਣੀ\PR_PRF ਸੈਨਿਕ\N_NN ਸ਼ਕਤੀ\N_NN ਨੂੰ\PSP ਕਮਜ਼ੋਰ\JJ ਨਹੀਂ\RP_NEG ਸਨ\V_VAUX ਕਰਨਾ\V_VM_VF ਚਾਹੁੰਦੇ\V_VM_VF ,\RD_PUNC
+PBRED6350	ਬਲਕਿ\CC_CCS ਕੁਝ\DM_DMQ ਵਰਿਆਂ\N_NN ਤੱਕ\PSP ਵੱਡੇ\JJ ਪੈਮਾਨੇ\N_NN `\RD_PUNC ਤੇ\RB ਮੁਗਲਾਂ\N_NN ਵਿਰੁੱਧ\N_NN ਸੈਨਿਕ\N_NN ਤਿਆਰੀਆਂ\V_VM_VF ਕਰਨਾ\V_VM_VF ਚਾਹੁੰਦੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6351	ਸੋ\PR_PRL ,\RD_PUNC ਵਕਤ\N_NN ਦੀ\PSP ਨਜ਼ਾਕਤ\N_NN ਨੂੰ\PSP ਧਿਆਨ\N_NN ਵਿਚ\PSP ਰੱਖਦਿਆਂ\V_VM_VF ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਆਪਣੇ\PR_PRF ਪਰਿਵਾਰ\N_NN ਤੇ\CC_CCD ਸੈਨਿਕਾਂ\N_NN ਸਹਿਤ\N_NN ਨਾਹਨ\N_NNP ਰਿਆਸਤ\N_NN ਦੇ\PSP ਇਲਾਕੇ\N_NN ਵਿਚ\PSP ਚਲੇ\V_VM_VF ਗਏ\V_VM_VF ਅਤੇ\CC_CCD ਪਾਉਂਟਾ\N_NNP ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਆਪਣੀਆਂ\PR_PRF ਸਰਗਰਮੀਆਂ\N_NN ਦਾ\PSP ਕੇਂਦਰ\N_NN ਬਣਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6352	ਇਥੇ\RB ਰਹਿੰਦਿਆਂ\V_VM_VF ਹੀ\RP_RPD ਸੰਨ\N_NN 1688\QT_QTC ਈ:\N_NN ਵਿਚ\PSP ਭੰਗਾਣੀ\N_NNP ਦੀ\PSP ਜੰਗ\N_NN ਲੜੀ\V_VM_VF ਅਤੇ\CC_CCD ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਨੂੰ\PSP ਸ਼ਿਕਸਤ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6353	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਜੋਸ਼\N_NN ਤੇ\N_NN ਹੋਸ਼\N_NN ਦਾ\PSP ਸੰਤੁਲਨ\N_NN ਕਾਇਮ\N_NN ਰੱਖਦਿਆਂ\V_VM_VNF ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਕੇਵਲ\RB 22\QT_QTC ਵਰਿਆਂ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਵਿਚ\PSP ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਨੂੰ\PSP ਲੱਕ\N_NN -\RD_PUNC ਤੋੜਵੀਂ\V_VM_VF ਹਾਰ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6354	ਭੰਗਾਣੀ\N_NNP ਦੀ\PSP ਜਿੱਤ\N_NN ਤੋਂ\PSP ਬਾਅਦ\JJ ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਮੁੜ\N_NN ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਨੂੰ\PSP ਆਪਣੀਆਂ\PR_PRF ਸਰਗਰਮੀਆਂ\N_NN ਦਾ\PSP ਮੁੱਖ\N_NN ਕੇਂਦਰ\N_NN ਬਣਾ\V_VM_VF ਲਿਆ\V_VM_VF |\RD_PUNC
+PBRED6355	ਮੌਕੇ\N_NN ਤੋਂ\PSP ਲਾਭ\JJ ਉਠਾਉਂਦਿਆਂ\V_VM_VNF ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP (\RD_SYM ਜਿਸ\PR_PRL ਦਾ\PSP ਨਾਂਅ\N_NN ਉਦੋਂ\RB ਮਾਖੋਵਾਲ\N_NNP ਸੀ\V_VAUX )\RD_SYM ਵਿਖੇ\PSP ਅਨੰਦਗੜ੍ਹ\N_NNP ,\RD_PUNC ਕੇਸਗੜ੍ਹ\N_NNP ,\RD_PUNC ਲੋਹਗੜ\N_NNP ,\RD_PUNC ਫਤਹਿਗੜ\N_NNP ਅਤੇ\CC_CCD ਹੋਲਗੜ\N_NNP ਨਾਮੀ\N_NN ਪੰਜ\QT_QTC ਕਿਲਿਆਂ\N_NN ਦੀ\PSP ਉਸਾਰੀ\V_VM_VF ਕਰਵਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6356	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਏਨੀ\RB ਤੀਖਣ\JJ ਬੁੱਧੀ\N_NN ਦੇ\PSP ਮਾਲਕ\N_NN ਸਨ\V_VAUX ਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਹੱਥ\N_NN ਆਏ\V_VM_VF ਕਿਸੇ\DM_DMQ ਵੀ\RP_RPD ਅਵਸਰ\N_NN ਨੂੰ\PSP ਕਦੇ\RB ਅਜਾਈਂ\N_NN ਨਹੀਂ\RP_NEG ਗਵਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6357	ਇਹ\DM_DMD ਪੰਜਾਬ\N_NN ਦਾ\PSP ਲੋਕ\N_NN -\RD_PUNC ਸਾਹਿਤ\N_NN ਹੈ\V_VAUX ,\RD_PUNC `\RD_PUNC ਮੇਰਾ\PR_PRP ਰੁੱਸੇ\N_NN ਨਾ\RP_NEG ਕਲਗੀਆਂ\N_NN ਵਾਲਾ\PSP ਜੱਗ\N_NN ਭਾਵੇਂ\RB ਸਾਰਾ\DM_DMQ ਰੁੱਸ\N_NN ਜਾਏ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6358	ਕਿਸੇ\PR_PRQ ਗੁੰਮਨਾਮ\N_NN ਕਵੀ\N_NN ਦੀ\PSP ਕਲਗੀਧਰ\N_NNP ਪਾਤਸ਼ਾਹ\N_NN ਪ੍ਰਤੀ\PSP ਮੋਹ\N_NN ਭਿੱਜੀ\V_VM_VF ਸ਼ਰਧਾ\N_NN ਵਿਚੋਂ\PSP ਭਾਵਨਾਵਾਂ\N_NN ਨੂੰ\PSP ਟੁੰਬਣ\V_VM_VF ਵਾਲੀ\PSP ਹਿਰਦੇ\N_NN ਦੀ\PSP ਪੁਕਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6359	ਗੁਰੂ\N_NN ਪੰਥ\N_NN ਕਿੰਨੀਆਂ\RB ਤਸ਼ਬੀਹਾਂ\N_NN ਤੇ\CC_CCD ਵਿਸ਼ੇਸ਼ਣਾਂ\JJ ਨਾਲ\PSP ਕਲਗੀਧਰ\N_NNP ਪਾਤਸ਼ਾਹ\N_NN ਨੂੰ\PSP ਯਾਦ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6360	`\RD_PUNC ਚੋਜੀ\JJ ਪ੍ਰੀਤਮ\JJ ,\RD_PUNC ਕਲਗੀਆਂ\JJ ਵਾਲੇ\PSP ,\RD_PUNC ਬਾਜਾਂ\JJ ਵਾਲੇ\PSP ,\RD_PUNC ਨੀਲੇ\JJ ਦੇ\PSP ਸ਼ਾਹ\N_NN ਸਵਾਰ\N_NN ,\RD_PUNC ਪੁੱਤਰਾਂ\N_NN ਦੇ\PSP ਦਾਨੀ\JJ ,\RD_PUNC ਪਰਮ\JJ ਪੁਰਖ\N_NN ,\RD_PUNC ਅੰਮ੍ਰਿਤ\N_NNP ਦੇ\PSP ਦਾਤੇ\N_NN ,\RD_PUNC ਪੰਥ\JJ ਦੇ\PSP ਵਾਲੀ\JJ ,\RD_PUNC ਦੁਸ਼ਟ\JJ ਦਮਨ\JJ ,\RD_PUNC ਸੰਤ\JJ ਸਿਪਾਹੀ\JJ ,\RD_PUNC ਸਾਹਿਬੇ\JJ ਕਮਾਲ\JJ ,\RD_PUNC ਮਰਦ\JJ ਅਗੰਮੜਾ\JJ ,\RD_PUNC ਬਾਦਸ਼ਾਹ\JJ ਦਰਵੇਸ਼\JJ ,\RD_PUNC ਸ਼ਮਸ਼ੀਰ\JJ -\RD_PUNC ਏ\JJ -\RD_PUNC ਬਹਾਦਰ\JJ ,\RD_PUNC ਸਰਬੰਸਦਾਨੀ\JJ ...\RD_PUNC ।\RD_PUNC
+PBRED6361	ਕਈ\DM_DMQ ਵਾਰ\PSP ਸਤਿਗੁਰਾਂ\N_NN ਦੀ\PSP ਦੈਵੀ\JJ ਸ਼ਖ਼ਸੀਅਤ\N_NN ਦੇ\PSP ਸਾਹਵੇਂ\RB ਸਾਨੂੰ\PR_PRP ਏਨੇ\RB ਸ਼ਬਦ\N_NN ਵੀ\RP_RPD ਅਧੂਰੇ\JJ ਜਾਪਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6362	ਇਸੇ\DM_DMD ਲਈ\PSP ਸਤਿਗੁਰਾਂ\N_NN ਦੇ\PSP ਵਚਿੱਤਰ\JJ ਜੀਵਨ\N_NN ਤੋਂ\PSP ਗ਼ੈਰ\N_NN -\RD_PUNC ਸਿੱਖ\N_NN ਲੇਖਕ\N_NN ਵੀ\RP_RPD ਬਹੁਤ\QT_QTF ਪ੍ਰਭਾਵਿਤ\N_NN ਹੋਏ\V_VM_VF ।\RD_PUNC
+PBRED6363	ਮੈਕਾਲਫ\N_NNP ਨੇ\PSP ਲਿਖਿਆ\V_VM_VF -\RD_PUNC ਆਪ\PR_PRF ਨੇ\PSP ਲਿਤਾੜੇ\N_NN ਹੋਏ\V_VM_VF ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਸੰਸਾਰ\N_NN ਦੇ\PSP ਪ੍ਰਸਿੱਧ\JJ ਯੋਧੇ\JJ ਬਣਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6364	ਗਾਰਡਨ\N_NN ਕਹਿੰਦਾ\V_VM_VF -\RD_PUNC ਜਨਤਾ\N_NN ਦੀਆਂ\PSP ਮੁਰਦਾ\N_NN ਹੱਡੀਆਂ\N_NN ਵਿਚ\PSP ਜ਼ਿੰਦਗੀ\N_NN ਦੀ\PSP ਲਹਿਰ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਦੌੜਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6365	ਲਤੀਫ\N_NN ਲਿਖਦਾ\V_VM_VF -\RD_PUNC ਜਿਸ\PR_PRL ਕਾਰਜ\N_NN ਨੂੰ\PSP ਉਨਾਂ\PR_PRP ਹੱਥ\N_NN ਪਾਇਆ\V_VM_VF ,\RD_PUNC ਉਹ\PR_PRP ਮਹਾਨ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6366	ਗੋਕਲ\N_NN ਚੰਦ\N_NN ਨਾਰੰਗ\N_NN ਲਿਖ\V_VM ਰਿਹਾ\V_VM_VF -\RD_PUNC ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਚਿੜੀਆਂ\N_NN ਨੂੰ\PSP ਸ਼ਾਹੀ\N_NN ਬਾਜਾਂ\N_NN ਦਾ\PSP ਸ਼ਿਕਾਰ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਜਾਚ\N_NN ਸਿਖਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6367	ਅੱਲਾ\N_NN ਯਾਰ\N_NN ਖਾਂ\N_NN ਜੋਗੀ\N_NN ਤਾਂ\RP_RPD ਪੁਕਾਰ\N_NN ਉਠਿਆ\V_VM_VF -\RD_PUNC
+PBRED6368	ਇਨਸਾਫ\N_NN ਗਰ\PR_PRL ਕਰੇ\V_VM_VF ਜ਼ਮਾਨਾ\N_NN ਤੋ\CC_CCD ਯਕੀਂ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6369	ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਕਾ\PSP ਤੋ\RP_RPD ਸਾਨੀ\N_NN ਹੀ\RP_RPD ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6370	ਕਰਤਾਰ\N_NN ਕੀ\PSP ਸੌਗੰਧ\N_NN ਅੱਲਾ\N_NN ਕੀ\PSP ਕਸਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6371	ਜਿਤਨੀ\RB ਭੀ\RP_RPD ਤਾਰੀਫ਼\N_NN ਹੋ\V_VAUX ਗੋਬਿੰਦ\N_NNP ਕੀ\PSP ਵੋਹ\DM_DMD ਕਮ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6372	ਕਲਗੀਧਰ\JJ ਪਾਤਸ਼ਾਹ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਕਲਮ\N_NN ਤੇ\CC_CCD ਤੇਗ\N_NN ਦੇ\PSP ਧਨੀ\JJ ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6373	ਇਸ\DM_DMD ਲਈ\PSP ਜੇਕਰ\CC_CCS ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਤੇਗ\N_NN ਦੇ\PSP ਜੌਹਰ\N_NN ਦੇਖੋ\V_VM_VF ਤਾਂ\RP_RPD 14\QT_QTC ਦੇ\PSP ਕਰੀਬ\QT_QTF ਧਰਮ\N_NN ਯੁੱਧ\N_NN ਹੋਏ\V_VM_VF ,\RD_PUNC
+PBRED6374	ਜਿਨ੍ਹਾਂ\PR_PRL ਵਿਚ\PSP ਸਤਿਗੁਰਾਂ\N_NN ਦੀ\PSP ਫਤਹਿ\N_NN ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBRED6375	ਸਗੋਂ\CC_CCD ਸਤਿਗੁਰਾਂ\N_NN ਦੀ\PSP ਜੀਵਨ\N_NN ਕਥਾ\N_NN ਅਨੁਸਾਰ\N_NN `\RD_PUNC ਧਰਮ\N_NN ਚਲਾਵਨ\V_VM_VF ਸੰਤ\N_NN ਉਬਾਰਨ\V_VM_VF `\RD_PUNC ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6376	ਦੂਜੇ\QT_QTO ਪਾਸੇ\N_NN ਕਲਗੀਧਰ\JJ ਪਾਤਸ਼ਾਹ\N_NN ਦੀ\PSP ਕਲਮ\N_NN ਦੀ\PSP ਸ਼ਕਤੀ\N_NN ਦੇਖੋ\V_VM_VF ਤਾਂ\RP_RPD ਬਚਿੱਤਰ\N_NNP ਨਾਟਕ\N_NNP ਅਸਚਰਜ\JJ ਜਨਕ\N_NN ਸਵੈਜੀਵਨੀ\N_NN ਹੈ\V_VAUX ਪਰ\CC_CCD ਇਸ\DM_DMD ਵਿਚ\PSP ਇਤਿਹਾਸਕ\N_NN ਪੱਖ\N_NN ਵੀ\RP_RPD ਕਮਾਲ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6377	ਕਲਗੀਧਰ\N_NN ਰਚਿਤ\V_VM_VF ਜਾਪੁ\N_NNP ਸਾਹਿਬ\N_NNP ,\RD_PUNC ਸਵੱਯੇ\N_NNP ਤੇ\CC_CCD ਅਕਾਲ\N_NNP ਉਸਤਤਿ\N_NNP ਬਾਣੀਆਂ\N_NN ਵਿਚੋਂ\PSP ਅਧਿਆਤਮਿਕਤਾ\N_NN ਤੇ\CC_CCD ਦੈਵੀ\N_NN ਰਮਜਾਂ\N_NN ਦੇ\PSP ਦਰਸ਼ਨ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6378	ਜਾਪੁ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਸਮੂਹ\QT_QTF ਛੰਦਾਂ\N_NN ਦੀ\PSP ਚਾਲ\N_NN ਤੇ\CC_CCD ਵਿਸ਼ੇਸ਼\N_NN ਕਰਕੇ\V_VM_VF `\RD_PUNC ਏਕ\N_NNP ਅਛਰੀ\N_NNP ਛੰਦ\N_NNP `\RD_PUNC ਭਾਰਤੀ\N_NN ਅਧਿਆਤਮਿਕ\N_NN ਕਾਵਿ\N_NN ਪਰੰਪਰਾ\N_NN `\RD_PUNC ਚ\PSP ਕਾਵਿ\N_NN ਕਲਾ\N_NN ਦੀ\PSP ਸਿਖਰ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6379	ਜ਼ਫ਼ਰਨਾਮਾ\N_NNP ਪੜ੍ਹੋ\V_VM_VF ਤਾਂ\RP_RPD ਸਮੇਂ\N_NN ਦੇ\PSP ਬਾਦਸ਼ਾਹ\N_NN ਔਰੰਗਜ਼ੇਬ\N_NNP ਦੇ\PSP ਜਬਰ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਬਾਦਸ਼ਾਹ\N_NN ਦਰਵੇਸ਼\N_NN ਕਲਗੀਧਰ\JJ ਪਾਤਸ਼ਾਹ\N_NN ਦੀ\PSP ਕਲਮ\N_NN ਦੀ\PSP ਸ਼ਕਤੀ\N_NN ਦੇ\PSP ਦੀਦਾਰ\N_NN ਹੋਣਗੇ\V_VM_VF ।\RD_PUNC
+PBRED6380	ਇਸੇ\DM_DMD ਤਰਾਂ\PSP ਚੰਡੀ\N_NNP ਚਰਿੱਤਰ\N_NNP ,\RD_PUNC ਚੌਬੀਸ\N_NNP ਅਵਤਾਰ\N_NNP ,\RD_PUNC ਵਾਰ\N_NNP ਦੁਰਗਾ\N_NNP ਕੀ\PSP ,\RD_PUNC ਸ਼ਸਤ੍ਰ\N_NNP ਨਾਮ\N_NNP ਮਾਲਾ\N_NNP ,\RD_PUNC ਚਰਿਤ੍ਰੋ\N_NNP ਪਖਯਾਨ\N_NNP ਆਦਿ\RP_CL ਰਚਨਾਵਾਂ\N_NN ਵਿਚੋਂ\PSP ਨੀਤੀ\N_NN ਕਥਾ\N_NN ,\RD_PUNC ਉਚਤਮ\JJ ਸਾਹਿਤ\N_NN ਤੇ\CC_CCD ਮਨੋਵਿਗਿਆਨਕ\N_NN ਫਲਸਫੇ\N_NN ਦੇ\PSP ਦਰਸ਼ਨ\N_NN ਹੋਣਗੇ\V_VM_VF ।\RD_PUNC
+PBRED6381	ਹੁਣ\RB ਜੇਕਰ\CC_CCS ਕਲਗੀਧਰ\JJ ਪਾਤਸ਼ਾਹ\N_NN ਦੀ\PSP ਸਦੀਵੀ\RB ਖੁਸ਼ੀ\N_NN ਪ੍ਰਾਪਤ\N_NN ਕਰਨੀ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਇਸ\DM_DMD ਲੋਕ\N_NN ਟੱਪੇ\N_NN ਅਨੁਸਾਰ\N_NN ਜੱਗ\N_NN ਰੁੱਸਦਾ\V_VM_VF ਤਾਂ\RP_RPD ਰੁੱਸ\N_NN ਜਾਏ\V_VM_VF ਪਰ\CC_CCD ਮੇਰਾ\PR_PRP ਕਲਗੀਆਂ\N_NN ਵਾਲਾ\PSP ਮੇਰੀ\PR_PRP ਜੀਵਨ\N_NN ਜਾਚ\N_NN ਤੋਂ\PSP ਨਿਰਾਸ਼\N_NN ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF ,\RD_PUNC
+PBRED6382	ਕਿਉਂਕਿ\CC_CCS ਸੰਸਾਰੀ\N_NN ਲੋਕਾਂ\N_NN ਦੇ\PSP ਜੀਵਨ\N_NN ਜਿਊਣ\N_NN ਦੇ\PSP ਕਈ\DM_DMQ ਵਾਰ\N_NN ਆਪਣੇ\PR_PRF ਹੀ\RP_RPD ਪੈਮਾਨੇ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6383	ਜੋ\PR_PRL ਇਕ\QT_QTC ਸਿੱਖ\N_NN ਨੂੰ\PSP ਸਰੂਪ\N_NN ਤੇ\CC_CCD ਸਿਧਾਂਤ\N_NN ਤੋਂ\PSP ਤੋੜਨ\V_VM_VF ਵਾਲੇ\PSP ਵੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6384	ਪਰ\CC_CCD ਸੱਚਾ\N_NN ਸਿੱਖ\N_NN ਜੋ\PR_PRL ਸਦੀਵੀ\RB ਖੁਸ਼ੀ\N_NN ਦੀ\PSP ਲੋਚਾ\N_NN ਰੱਖਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6385	ਉਹ\PR_PRP ਸਤਿਗੁਰਾਂ\N_NN ਵੱਲੋਂ\PSP ਬਖਸ਼ੇ\V_VM_VF ਸਰੂਪ\N_NN ਤੇ\CC_CCD ਸਿਧਾਂਤ\N_NN ਤੋਂ\PSP ਬੇਮੁੱਖ\N_NN ਨਹੀਂ\RP_NEG ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBRED6386	ਇਸੇ\DM_DMD ਤਰਾਂ\PSP ਚੰਗੀ\JJ ਜੀਵਨ\N_NN ਜਾਚ\N_NN ਤੇ\CC_CCD ਉਸਾਰੂ\N_NN ਕਾਰਜਾਂ\N_NN ਵਿਚ\PSP ਸੰਸਾਰ\N_NN ਤੇ\CC_CCD ਸਮਾਜ\N_NN ਦੇ\PSP ਭਲੇ\N_NN ਲਈ\PSP ਕਾਰਜਸ਼ੀਲ\N_NN ਹੋਣ\V_VM_VF ਵਾਸਤੇ\PSP ਕਲਗੀਧਰ\N_NN ਦੇ\PSP ਇਹ\DM_DMD ਬੋਲ\N_NN ਪ੍ਰੇਰਕ\N_NN ਸ਼ਕਤੀ\N_NN ਹਨ\V_VAUX ,\RD_PUNC `\RD_PUNC ਦੇਹਿ\N_NN ਸ਼ਿਵਾ\N_NN ਬਰ\N_NN ਮੋਹਿ\PR_PRP ਇਹੈ\DM_DMD ਸ਼ੁਭ\N_NN ਕਰਮਨ\N_NN ਤੇ\PSP ਕਬਹੂੰ\RB ਨ\RP_NEG ਟਰੋਂ\V_VM_VF ॥\RD_PUNC `\RD_PUNC
+PBRED6387	ਕੌਮੀ\N_NN ਜਾਹੋ\N_NN -\RD_PUNC ਜਲਾਲ\N_NN ਤੇ\CC_CCD ਨਿਰਮਲ\JJ ਪੰਥ\N_NN ਦੀਆਂ\PSP ਰਵਾਇਤਾਂ\N_NN ਤੇ\CC_CCD ਬੀਰ\JJ ਰਸ\N_NN ਦੀ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਹਨ\V_VAUX ਇਹ\DM_DMD ਬੋਲ\N_NN ,\RD_PUNC `\RD_PUNC ਧੰਨ\RP_INJ ਜੀਓ\RP_INJ ਤਿਹ\RB ਕੋ\PSP ਜਗ\N_NN ਮੈ\PSP ਮੁਖ\N_NN ਤੇ\RB ਹਰਿ\N_NN ਚਿਤ\N_NN ਮੈ\PSP ਜੁਧੁ\N_NN ਬਿਚਾਰੈ\V_VM_VF `\RD_PUNC ਜਾਂ\CC_CCD `\RD_PUNC ਜਬੋ\RB ਬਾਣ\N_NN ਲਾਗਿਯੋ\V_VM_VF ,\RD_PUNC ਤਬੈ\RB ਰੋਸ\N_NN ਜਾਗਿਯੋ\V_VM_VF `\RD_PUNC ਆਦਿ\RP_CL ।\RD_PUNC
+PBRED6388	ਇਸ\DM_DMD ਸੰਸਾਰ\N_NN ਵਿਚ\PSP ਫੋਕਟ\N_NN ਕਰਮਕਾਂਡ\N_NN ,\RD_PUNC ਵਹਿਮ\N_NN -\RD_PUNC ਭਰਮ\N_NN ,\RD_PUNC ਜੰਤਰਾਂ\N_NN ,\RD_PUNC ਮੰਤਰਾਂ\N_NN ,\RD_PUNC ਤੰਤਰਾਂ\N_NN ਦੇ\PSP ਪਾਖੰਡ\N_NN ਕਰਮਾਂ\N_NN ਦਾ\PSP ਕਲਗੀਧਰ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਨੇ\PSP ਇਉਂ\RB ਖੰਡਨ\N_NN ਕੀਤਾ\V_VM_VF :\RD_PUNC `\RD_PUNC ਸਭੈ\DM_DMQ ਝੂਠੁ\N_NN ਮਾਨੋ\V_VM_VF ਜਿਤੇ\N_NN ਜੰਤ੍ਰ\N_NN ਮੰਤ੍ਰੰ\N_NN ॥\RD_PUNC
+PBRED6389	ਸਭੈ\QT_QTF ਫੋਕਟੰ\N_NN ਧਰਮ\N_NN ਹੈ\V_VAUX ਭਰਮ\N_NN ਤੰਤ੍ਰੰ\N_NN ॥\RD_PUNC `\RD_PUNC
+PBRED6390	ਕਲਗੀਧਰ\N_NN ਪਿਤਾ\N_NN ਦੀਆਂ\PSP ਖੁਸ਼ੀਆਂ\N_NN ਪ੍ਰਾਪਤ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਮੁਰਦੇ\N_NN ਖਿਆਲ\N_NN ,\RD_PUNC ਮੁਰਦਿਆਂ\N_NN ਦੀ\PSP ਪੂਜਾ\N_NN ਤੇ\CC_CCD ਮੜੀ\N_NN -\RD_PUNC ਮਸਾਣਾਂ\N_NN ਦੀ\PSP ਕੂਰ\N_NN ਕਿਰਿਆ\N_NN ਤਿਆਗ\V_VM ਕੇ\V_VM_VNF ਇਹਨਾਂ\PR_PRP ਅੰਮ੍ਰਿਤ\N_NN ਬਚਨਾਂ\N_NN ਉੱਪਰ\RB ਭਰੋਸਾ\N_NN ਰੱਖਣਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6391	ਮੁਰਦਿਆਂ\N_NN ਦੀ\PSP ਪੂਜਾ\N_NN ਤੇ\CC_CCD ਮੜੀ\N_NN -\RD_PUNC ਮਸਾਣਾਂ\N_NN ਦੀ\PSP ਕੂਰ\N_NN ਕਿਰਿਆ\N_NN ਤਿਆਗ\V_VM ਕੇ\V_VM_VNF ਇਹਨਾਂ\PR_PRP ਅੰਮ੍ਰਿਤ\N_NN ਬਚਨਾਂ\N_NN ਉੱਪਰ\RB ਭਰੋਸਾ\N_NN ਰੱਖਣਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6392	`\RD_PUNC ਇਕ\QT_QTC ਮੜੀਅਨ\N_NN ਕਬਰਨ\N_NN ਵੈ\RB ਜਾਹੀ\V_VM_VF ॥\RD_PUNC ਦੁਹੂੰਅਨ\QT_QTO ਮਹਿ\PSP ਪਰਮੇਸਰ\N_NN ਨਾਹੀ\RP_NEG ॥\RD_PUNC `\RD_PUNC
+PBRED6393	ਇਸੇ\DM_DMD ਤਰਾਂ\PSP ਹਰ\DM_DMQ ਪ੍ਰਕਾਰ\N_NN ਦੇ\PSP ਨਸ਼ਿਆਂ\N_NN ਤੋਂ\PSP ,\RD_PUNC ਬੇਲੋੜਾ\JJ ਖਾਣ\N_NN ਤੋਂ\PSP ਅਤੇ\CC_CCD ਆਲਸ\N_NN ਤਿਆਗ\V_VM_VF ਕੇ\V_VM_VNF ਸਰੀਰ\N_NN ਨੂੰ\PSP ਰਿਸ਼ਟ\JJ -\RD_PUNC ਪੁਸ਼ਟ\JJ ਰੱਖਣ\V_VM_VF ਲਈ\PSP ਕਲਗੀਧਰ\N_NN ਪਿਤਾ\N_NN ਦਾ\PSP ਸਬਕ\N_NN `\RD_PUNC ਅਲਪ\N_NN ਆਹਾਰ\N_NN ਸੁਲਪ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6394	ਨਿੰਦ੍ਰਾ\N_NN ਦਯਾ\N_NN ਛਿਮਾ\N_NN ਤਨ\N_NN ਪ੍ਰੀਤਿ\N_NN `\RD_PUNC ਦ੍ਰਿੜ੍ਹ\N_NN ਕਰਨਾ\V_VM_VF ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਫਿਰ\RB `\RD_PUNC ਸਦਾ\N_NN ਰਹੈ\V_VM_VF ਕੰਚਨ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBRED6395	ਕਾਯਾ\N_NN `\RD_PUNC ਗੁਰ\N_NN ਸਬਕ\N_NN ਦੀ\PSP ਸ਼ਕਤੀ\N_NN ਪ੍ਰਤੱਖ\N_NN ਨਜ਼ਰ\N_NN ਆਏਗੀ\V_VM_VF ।\RD_PUNC
+PBRED6396	ਵਿਸ਼ਵ\N_NN ਸ਼ਾਂਤੀ\N_NN ਲਈ\PSP ਜਾਤ\N_NN -\RD_PUNC ਪਾਤ\N_NN ,\RD_PUNC ਊਚ\N_NN -\RD_PUNC ਨੀਚ\N_NN ਦੇ\PSP ਭੇਦ\N_NN -\RD_PUNC ਭਾਵ\N_NN ਖਤਮ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਅਤੇ\CC_CCD ਸਰਬੱਤ\N_NN ਦੇ\PSP ਭਲੇ\N_NN ਦਾ\PSP ਅਮਲੀ\N_NN ਪ੍ਰਤਾਪ\N_NN ਕਲਗੀਧਰ\N_NN ਪਿਤਾ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਇਹ\DM_DMD ਉਪਦੇਸ਼\N_NN ਦ੍ਰਿੜ\N_NN ਕੀਤਿਆਂ\V_VM_VF ਪ੍ਰਗਟ\N_NN ਹੋਵੇਗਾ\V_VM_VF ।\RD_PUNC
+PBRED6397	`\RD_PUNC ਹਿੰਦੂ\N_NN ਤੁਰਕ\N_NN ਕੋਊ\DM_DMQ ਰਾਫ਼ਜ਼ੀ\N_NN ਇਮਾਮ\N_NN ਸ਼ਾਫੀ\N_NN ਮਾਨਸ\N_NN ਕੀ\PSP ਜਾਤ\N_NN ਸਬੈ\QT_QTF ਏਕੋ\QT_QTO ਪਹਚਾਨਬੋ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6398	ਇਸ\DM_DMD ਲਈ\PSP ਸਦਾ\RB ਹੀ\RP_RPD ਸਵੈਚੇਤਨਾ\N_NN ਤੇ\CC_CCD ਜਾਗ੍ਰਿਤੀ\N_NN ਲਈ\PSP ਗੁਣਗੁਣਾਉਂਦੇ\N_NN ਰਹਿਣਾ\V_VM_VF ,\RD_PUNC ਮੇਰਾ\PR_PRP ਰੁੱਸੇ\N_NN ਨਾ\RP_NEG ਕਲਗੀਆਂ\N_NN ਵਾਲਾ\PSP ...\RD_PUNC ॥\RD_PUNC
+PBRED6399	ਦੁਸ਼ਟ\JJ ਦਮਨ\JJ ,\RD_PUNC ਸੰਤ\JJ ਸਿਪਾਹੀ\JJ ,\RD_PUNC ਮਹਾਨ\N_NN ਇਨਕਲਾਬੀ\JJ ਅਤੇ\CC_CCD ਸਾਹਿਤ\N_NN ਸ਼੍ਰੋਮਣੀ\N_NN ,\RD_PUNC ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਜਨਮ\N_NN ਸੰਮਤ\N_NN 1723\QT_QTC ਬਿਕਰਮੀ\N_NN ਨੂੰ\PSP ਅਰਥਾਤ\N_NN ਪੋਹ\N_NN ਸੁਦੀ\N_NN ਸੱਤਵੀਂ\QT_QTO ਨੂੰ\PSP ਬਿਹਾਰ\N_NNP ਦੀ\PSP ਰਾਜਧਾਨੀ\N_NN ਪਟਨਾ\N_NNP ਵਿਚ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6400	ਉਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਪ੍ਰਕਾਸ਼\N_NN ਸਮੇਂ\N_NN ਨੌਵੇਂ\QT_QTC ਗੁਰੂ\N_NN ਅਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਪਿਤਾ\N_NN ਗੁਰੂ\N_NN ਤੇਗ\N_NNP ਬਹਾਦਰ\N_NNP ਜੀ\RP_INJ ਆਸਾਮ\N_NNP ਦੇ\PSP ਦੌਰੇ\N_NN `\RD_PUNC ਤੇ\RB ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6401	ਆਪਣੇ\PR_PRF ,\RD_PUNC ਦੁਨੀਆ\N_NN ਵਿਚ\PSP ਅਵਤਾਰ\N_NN ਧਾਰਨ\V_VM_VF ਦੇ\PSP ਮਕਸਦ\N_NN ਬਾਰੇ\PSP ਬਿਆਨ\N_NN ਕਰਦਿਆਂ\V_VM_VNF ਦਸਮ\N_NN ਪਾਤਸ਼ਾਹ\N_NN ਇਉਂ\RB ਦੱਸਦੇ\V_VM_VF ਹਨ\V_VAUX -\RD_PUNC
+PBRED6402	ਜਹਾਂ\RB ਤਹਾ\RB ਤੁਮ\PR_PRP ਧਰਮ\N_NN ਬਿਥਾਰੋ\V_VM_VF ਦੁਸਟ\N_NN ਦੋਖਯਨਿ\N_NN ਪਕਰਿ\V_VM_VF ਪਛਾਰੋ\V_VM_VF ॥\RD_PUNC
+PBRED6403	ਯਾਹੀ\DM_DMD ਕਾਜ\N_NN ਧਰਾ\V_VM_VF ਹਮ\PR_PRP ਜਨਮੰ\N_NN ਸਮਝ\N_NN ਲੇਹੁ\V_VM_VF ਸਾਧੂ\N_NN ਸਭ\QT_QTF ਮਨਮੰ\N_NN ॥\RD_PUNC
+PBRED6404	ਧਰਮ\N_NN ਚਲਾਵਨ\V_VM_VF ਸੰਤ\N_NN ਉਬਾਰਿਨ\V_VM_VF ਦੁਸਟ\N_NN ਸਭਨ\DM_DMQ ਕੋ\PSP ਮੂਲ\N_NN ਉਪਾਰਨ\V_VM_VF ॥\RD_PUNC
+PBRED6405	ਹਮ\PR_PRP ਇਹ\PR_PRP ਕਾਜ\N_NN ਜਗਤ\N_NN ਮੋ\PSP ਆਏ\V_VM_VF ਧਰਮ\N_NN ਹੇਤੁ\PSP ਗੁਰਦੇਵ\N_NN ਪਠਾਏ\V_VM_VF ॥\RD_PUNC (\RD_SYM ਬਚਿਤ੍ਰ\N_NNP ਨਾਟਕ\N_NNP ,\RD_PUNC ਅਧਿਆਇ\N_NN 6\QT_QTC )\RD_SYM
+PBRED6406	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਜਨਮ\N_NN ਪਟਨੇ\N_NNP ਵਿਚ\PSP ਹੀ\RP_RPD ਬੀਤਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6407	ਉਹਨਾਂ\PR_PRP ਹਿੰਦੀ\N_NNP ,\RD_PUNC ਬਰਿਜ\N_NNP ,\RD_PUNC ਫਾਰਸੀ\N_NNP ,\RD_PUNC ਉਰਦੂ\N_NNP ਅਤੇ\CC_CCD ਪੰਜਾਬੀ\N_NNP ਦੀ\PSP ਉੱਚ\N_NN ਵਿੱਦਿਆ\N_NN ਹਾਸਲ\N_NN ਕੀਤੀ\V_VM_VF ਅਤੇ\CC_CCD ਨਾਲ\RB -\RD_PUNC ਨਾਲ\RB ਸ਼ਸਤਰ\N_NN ਵਿੱਦਿਆ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਉੱਚਕੋਟੀ\N_NN ਦੀ\PSP ਮੁਹਾਰਤ\N_NN ਹਾਸਲ\N_NN ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6408	ਪਿਤਾ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਅਜ਼ੀਮ\N_NN ਸ਼ਹਾਦਤ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਬਾਲਕ\N_NN ਗੋਬਿੰਦ\N_NN ਰਾਇ\N_NN ਨੇ\PSP ਗੁਰਗੱਦੀ\N_NN ਸੰਭਾਲੀ\V_VM_VF ।\RD_PUNC
+PBRED6409	1699\QT_QTC ਈ:\N_NN ਦੀ\PSP ਵਿਸਾਖੀ\N_NN ਵਾਲੇ\PSP ਦਿਨ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਵਿਖੇ\PSP ਹੋਏ\V_VM_VF ਵਿਸ਼ਾਲ\JJ ਇਕੱਠ\N_NN ਵਿਚ\PSP ਇਕ\QT_QTC ਅਜੀਬ\JJ ਕੌਤਕ\N_NN ਵਰਤਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6410	ਕੀਰਤਨ\N_NN ਦੀ\PSP ਸਮਾਪਤੀ\N_NN ਉਪਰੰਤ\RB ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਹੱਥ\N_NN ਵਿਚ\PSP ਨੰਗੀ\N_NN ਤਲਵਾਰ\N_NN ਲੈ\V_VM ,\RD_PUNC ਸਟੇਜ\N_NN ਉੱਤੇ\RB ਆਏ\V_VM_VF ਅਤੇ\CC_CCD ਵਾਰੀ\RB -\RD_PUNC ਵਾਰੀ\RB ਪੰਜ\QT_QTC ਸਿਰਾਂ\N_NN ਦੀ\PSP ਮੰਗ\V_VM ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6411	ਸੰਗਤ\N_NN ਵਿਚੋਂ\PSP ਪੰਜ\QT_QTC ਸਿੱਖ\N_NN ਨਿੱਤਰੇ\V_VM_VF ,\RD_PUNC ਜਿੰਨਾਂ\RB ਨੂੰ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਛਕਾ\V_VM_VF ਕੇ\V_VM_VNF ਸਿੰਘ\N_NN ਥਾਪਿਆ\N_NN ਅਤੇ\CC_CCD ਪੰਜ\QT_QTC ਪਿਆਰੇ\N_NN ਹੋਣ\V_VM_VF ਦਾ\PSP `\RD_PUNC ਵਰ\N_NN `\RD_PUNC ਬਖਸ਼ਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6412	ਫਿਰ\RB ਉਹਨਾਂ\PR_PRP ਸਨਮੁਖ\N_NN ਨਿਮਰਤਾ\JJ ਨਾਲ\PSP ਆਪ\PR_PRF ਅੰਮ੍ਰਿਤ\N_NN ਛਕਣ\V_VM_VF ਦੀ\PSP ਬੇਨਤੀ\N_NN ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6413	ਅੰਮ੍ਰਿਤ\N_NN ਛਕਣ\V_VM_VF ਤੋਂ\PSP ਬਾਅਦ\RB ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਨਾਂ\N_NN ਵੀ\RP_RPD ਗੋਬਿੰਦ\N_NN ਰਾਇ\N_NN ਤੋਂ\PSP ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਹੋ\V_VAUX ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6414	ਲੋਕਤੰਤਰ\N_NN ਵਿਚ\PSP ਸੱਤਾ\N_NN ਦੇ\PSP ਜਿਸ\PR_PRL ਵਿਕੇਂਦਰੀਕਰਨ\N_NN ਅਤੇ\CC_CCD ਸਮਾਨਤਾ\N_NN ਦੀ\PSP ਗੱਲ\N_NN ਕੀਤੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਦੀ\PSP ਬੁਨਿਆਦ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਗੁਰੂ\N_NN ਅਤੇ\CC_CCD ਸਿੱਖ\N_NN ਵਿਚਾਲੇ\PSP ਫਰਕ\N_NN ਨੂੰ\PSP ਦੂਰ\N_NN ਕਰਕੇ\V_VM_VF 1699\QT_QTC ਈ:\N_NN ਦੀ\PSP ਵਿਸਾਖੀ\N_NN ਵਾਲੇ\PSP ਦਿਨ\N_NN ਰੱਖੀ\V_VM_VF ।\RD_PUNC
+PBRED6415	ਤਾਂ\CC_CCD ਹੀ\RP_RPD ਤਾਂ\CC_CCD ਕਵੀ\N_NN ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NN ਦੂਜੇ\QT_QTO ਨੇ\PSP ਲਿਖਿਆ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6416	`\RD_PUNC ਵਾਹੁ\RP_INJ ਵਾਹੁ\RP_INJ ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਆਪੇ\PR_PRF ਗੁਰ\N_NN ਚੇਲਾ\N_NN ।\RD_PUNC `\RD_PUNC
+PBRED6417	ਜਮਹੂਰੀਅਤ\N_NN ਦੇ\PSP ਬਾਨੀ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ,\RD_PUNC ਖਾਲਸੇ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਅਪਾਰ\N_NN ਜਨਸ਼ਕਤੀ\N_NN ਨੂੰ\PSP ਮਾਣ\N_NN ਦਿੰਦਿਆਂ\V_VM_VNF ਇਉਂ\RB ਮੁਖਾਤਿਬ\N_NN ਹੁੰਦੇ\V_VM_VF ਹਨ\V_VAUX -\RD_PUNC
+PBRED6418	`\RD_PUNC ਇਨਹੀਂ\DM_DMD ਕੀ\PSP ਕਿਰਪਾ\N_NN ਸੇ\PSP ਸਜੇ\N_NN ਹਮ\PR_PRP ਹੈਂ\V_VAUX ਨਹੀਂ\RP_NEG ਮੋ\PR_PRP ਸੇ\PSP ਗਰੀਬ\N_NN ਕਰੋਰ\N_NN ਪਰੇ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6419	ਖਾਲਸੇ\N_NN ਦੀ\PSP ਸਿਰਜਣਾ\N_NN ,\RD_PUNC ਸਮੇਂ\N_NN ਦੀ\PSP ਬਹੁਤ\QT_QTF ਵੱਡੀ\JJ ਲੋੜ\N_NN ਸੀ\V_VAUX ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਨੇ\PSP ਭਾਰਤ\N_NN ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਉਸਾਰੂ\JJ ,\RD_PUNC ਨਰੋਆ\JJ ਅਤੇ\CC_CCD ਕ੍ਰਾਂਤੀਕਾਰੀ\N_NN ਮੋੜਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6420	ਪੰਜ\QT_QTC ਪਿਆਰੇ\N_NN ਵੱਖ\RB -\RD_PUNC ਵੱਖ\RB ਪ੍ਰਾਂਤਾਂ\N_NN ਦੇ\PSP ,\RD_PUNC ਵੱਖ\RB -\RD_PUNC ਵੱਖ\RB ਭਾਸ਼ਾਵਾਂ\N_NN ਬੋਲਣ\V_VM_VF ਵਾਲੇ\PSP ਅਤੇ\CC_CCD ਵਿਭਿੰਨ\RB ਜਾਤਾਂ\N_NN ਦੇ\PSP ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6421	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਇਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਇਕੋ\QT_QTC ਬਾਟੇ\N_NN ਵਿਚੋਂ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਦੀ\PSP ਦਾਤ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਜਿਥੇ\RB ਸਦੀਆਂ\N_NN ਤੋਂ\PSP ਸਮਾਜ\N_NN ਨੂੰ\PSP ਚਿੰਬੜੀ\N_NN ਹੋਈ\V_VM_VF ਜਾਤ\N_NN -\RD_PUNC ਪਾਤ\N_NN ਦੀ\PSP ਕੁਪ੍ਰਥਾ\N_NN ਉੱਤੇ\RB ਤਕੜੀ\JJ ਸੱਟ\N_NN ਮਾਰੀ\V_VM_VF ਅਤੇ\CC_CCD ਸਮਾਜ\N_NN ਵਿਚ\PSP ਬਰਾਬਰੀ\N_NN ਲਿਆਉਣ\V_VM_VF ਦਾ\PSP ਬੀੜਾ\N_NN ਚੁੱਕਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6422	ਉਥੇ\RB ਸਮਾਜ\N_NN ਦੇ\PSP ਲਿਤਾੜੇ\N_NN ਅਤੇ\CC_CCD ਆਪਣੇ\PR_PRF -\RD_PUNC ਆਪ\PR_PRF ਨੂੰ\PSP ਨਿਮਾਣੇ\JJ ,\RD_PUNC ਬੇਕਸ\JJ ਅਤੇ\CC_CCD ਨਿਆਸਰੇ\JJ ਮਜ਼ਲੂਮ\JJ ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਮਰਦੇ\N_NN -\RD_PUNC ਕਾਮਿਲ\N_NN ਬਣਾ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6423	ਉਨ੍ਹਾਂ\PR_PRP ਵਿਚ\PSP ਆਪਣੇ\PR_PRF ਹੱਕਾਂ\N_NN ਲਈ\PSP ਅਤੇ\CC_CCD ਜ਼ੁਲਮ\N_NN ਤੇ\CC_CCD ਅਨਿਆਂ\N_NN ਵਿਰੁੱਧ\N_NN ਉਠ\N_NN ਖਲੋਣ\V_VM_VF ਦੀ\PSP ਪ੍ਰਚੰਡ\N_NN ਜਵਾਲਾ\N_NN ਜਗਾ\V_VM_VF ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6424	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਅਨਿਆਂ\N_NN ਅਤੇ\CC_CCD ਧਾਰਮਿਕ\N_NN ਕੱਟੜਪੁਣੇ\N_NN ਵਿਰੁੱਧ\N_NN ਲਾਸਾਨੀ\JJ ਸੰਘਰਸ਼\N_NN ਵਿਚ\PSP ਬੇਮਿਸਾਲ\JJ ਕੁਰਬਾਨੀਆਂ\N_NN ਦਿੱਤੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6425	ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਆਪਣੇ\PR_PRF ਪੂਜ\N_NN ਪਿਤਾ\N_NN ,\RD_PUNC ਮਾਤਾ\N_NN ਜੀ\RP_INJ ,\RD_PUNC ਚਾਰੇ\QT_QTC ਸਾਹਿਬਜ਼ਾਦਿਆਂ\N_NN ਅਤੇ\CC_CCD ਅਣਗਿਣਤ\QT_QTF ਸਿੰਘਾਂ\N_NN ਨੂੰ\PSP ਹੱਸਦਿਆਂ\V_VM_VNF -\RD_PUNC ਹੱਸਦਿਆਂ\V_VM_VNF ,\RD_PUNC ਦੇਸ਼\N_NN ਧਰਮ\N_NN ਤੋਂ\PSP ਕੁਰਬਾਨ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6426	ਅਜਿਹੇ\RB ਮਹਾਨ\N_NN ਤਿਆਗ\N_NN ਅਤੇ\CC_CCD ਬੇਜੋੜ\JJ ਕੁਰਬਾਨੀ\N_NN ਦੀ\PSP ਮਿਸਾਲ\N_NN ਸੰਸਾਰ\N_NN ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਵਿਚੋਂ\PSP ਭਾਲਣੀ\V_VM_VF ਮੁਸ਼ਕਿਲ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6427	ਉਨ੍ਹਾਂ\DM_DMD ਦੀ\PSP ਲੜਾਈ\N_NN ਕਿਸੇ\DM_DMD ਖਾਸ\N_NN ਫਿਰਕੇ\N_NN ਦੇ\PSP ਵਿਰੁੱਧ\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਬਲਕਿ\CC_CCS ਫਿਰਕਾਪ੍ਰਸਤੀ\N_NN ਅਤੇ\CC_CCD ਕੱਟੜਪੁਣੇ\N_NN ਵਿਰੁੱਧ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6428	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਤਾਂ\RP_RPD ਧਾਰਮਿਕ\N_NN ਸਹਿਣਸ਼ੀਲਤਾ\N_NN ਅਤੇ\CC_CCD ਮਨੁੱਖੀ\N_NN ਏਕਤਾ\N_NN ਦੇ\PSP ਮਹਾਨ\N_NN ਅਲੰਬਰਦਾਰ\N_NN ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6429	ਆਪ\PR_PRF ਫ਼ਰਮਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX -\RD_PUNC `\RD_PUNC ਹਿੰਦੂ\N_NN ਤੁਰਕ\N_NN ਕੋਊ\DM_DMQ ਰਾਫਜੀ\N_NN ਇਮਾਮ\N_NN ਸਾਫੀ\N_NN ਮਾਨਸ\N_NN ਕੀ\PSP ਜਾਤ\N_NN ਸਭੈ\DM_DMQ ਏਕੋ\QT_QTC ਪਹਿਚਾਨਬੋ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6430	ਉਹਨਾਂ\PR_PRP ਅਨੁਸਾਰ\N_NN ਮਾਨਵਤਾ\N_NN ਨੂੰ\PSP ਪਿਆਰ\N_NN ਕਰਨਾ\V_VM_VF ਸੱਚੀ\N_NN ਇਬਾਦਤ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਕਿਉਂਕਿ\CC_CCS ਪਿਆਰ\N_NN ਦਾ\PSP ਦੂਜਾ\QT_QTO ਨਾਂਅ\N_NN ਹੀ\RP_RPD `\RD_PUNC ਰੱਬ\N_NN `\RD_PUNC ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6431	`\RD_PUNC ਸਾਚ\N_NN ਕਹੋਂ\V_VM_VF ਸੁਨ\N_NN ਲੇਹੁ\V_VM_VF ਸਭੈ\DM_DMQ ਜਿਨ\RB ਪ੍ਰੇਮ\N_NN ਕੀਓ\V_VM_VF ,\RD_PUNC ਤਿਨਹੀ\RB ਪ੍ਰਭੁ\N_NN ਪਾਯੋ\V_VM_VF ।\RD_PUNC `\RD_PUNC
+PBRED6432	ਬਹੁਤ\QT_QTF ਸਾਰੇ\DM_DMQ ਮੁਸਲਮਾਨ\N_NN ਵੀ\RP_RPD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਮੁਰੀਦ\N_NN ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਜਿਨ੍ਹਾਂ\RB ਵਿਚ\PSP ਪੀਰ\N_NNP ਭੀਖਨ\N_NNP ਸ਼ਾਹ\N_NNP ,\RD_PUNC ਪੀਰ\N_NNP ਬੁੱਧੂ\N_NNP ਸ਼ਾਹ\N_NNP ,\RD_PUNC ਗਨੀ\N_NNP ਖਾਂ\N_NNP ,\RD_PUNC ਨਬੀ\N_NNP ਖਾਂ\N_NNP ,\RD_PUNC ਨੂਰਾ\N_NNP ਮਾਹੀ\N_NNP ਅਤੇ\CC_CCD ਜਰਨੈਲ\N_NNP ਸੈਦ\N_NNP ਖਾਂ\N_NNP ਦੇ\PSP ਨਾਂਅ\N_NN ਖਾਸ\N_NN ਤੌਰ\PSP `\RD_PUNC ਤੇ\CC_CCD ਕਾਬਲੇ\N_NN ਜ਼ਿਕਰ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6433	ਕਿਸੇ\DM_DMD ਮਹਾਨ\N_NN ਸ਼ਖ਼ਸੀਅਤ\N_NN ਦੀ\PSP ਜ਼ਿੰਦਗੀ\N_NN ਦਾ\PSP ਮੁੱਲਾਂਕਣ\N_NN ਕਰਨ\V_VM_VF ਲੱਗਿਆਂ\V_VM_VF ਜ਼ਿੰਦਗੀ\N_NN ਦੇ\PSP ਵਰੇ\N_NN ਨਹੀਂ\RP_NEG ਵੇਖੇ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ,\RD_PUNC ਸਗੋਂ\CC_CCD ਉਸ\PR_PRP ਦੀਆਂ\PSP ਮਹਾਨ\N_NN ਘਾਲਣਾਵਾਂ\N_NN ,\RD_PUNC ਸਮਾਜ\N_NN ਨੂੰ\PSP ਦੇਣ\N_NN ਅਤੇ\CC_CCD ਪ੍ਰਾਪਤੀਆਂ\N_NN ਨੂੰ\PSP ਤੋਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6434	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਭਾਵੇਂ\RB 42\QT_QTC ਸਾਲ\N_NN ਦੇ\PSP ਥੋੜੇ\RB ਜਿਹੇ\RB ਅਰਸੇ\N_NN ਲਈ\PSP ਮਾਤਲੋਕ\N_NN ਵਿਚ\PSP ਵਿਚਰੇ\V_VM_VF ਪਰ\CC_CCD ਆਪਣੀ\PR_PRF ਮਹਾਨ\N_NN ਅਤੇ\CC_CCD ਉੱਚ\N_NN ਕਰਨੀ\V_VM_VF ਦੁਆਰਾ\PSP ਉਹਨਾਂ\PR_PRP ਨੇ\PSP ਦੇਸ਼\N_NN ਅਤੇ\CC_CCD ਸੰਸਾਰ\N_NN ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਉੱਤੇ\RB ਸਦੀਵੀ\RB ਨਕਸ਼\N_NN ਛੱਡੇ\V_VM_VF ।\RD_PUNC
+PBRED6435	42\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਸੰਸਾਰਕ\N_NN ਉਮਰ\N_NN ਤੋਂ\PSP ਬਾਅਦ\JJ ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਮਹਾਂਰਾਸ਼ਟਰ\N_NNP ਵਿਚ\PSP ਨਾਂਦੇੜ\N_NNP ਵਿਖੇ\PSP ਸੰਮਤ\N_NN 1765\QT_QTC ਵਿਚ\PSP ਜੋਤੀ\N_NN ਜੋਤ\N_NN ਸਮਾ\N_NN ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6436	ਜਉ\RB ਤਉ\RB ਪ੍ਰੇਮ\N_NN ਖੇਲਣ\V_VM_VF ਕਾ\PSP ਚਾਉ\N_NN ॥\RD_PUNC
+PBRED6437	ਸਲੋਕ\N_NN ਵਾਰਾਂ\N_NN ਤੇ\PSP ਵਧੀਕ\N_NN ਮਹਲਾ\N_NN ੧\QT_QTC ਜਉ\CC_CCD ਤਉ\PR_PRP ਪ੍ਰੇਮ\N_NN ਖੇਲਣ\V_VM_VF ਕਾ\PSP ਚਾਉ\N_NN ॥\RD_PUNC
+PBRED6438	ਸਿਰੁ\N_NN ਧਰਿ\V_VM_VF ਤਲੀ\N_NN ਗਲੀ\N_NN ਮੇਰੀ\PR_PRP ਆਉ\V_VM_VF ॥\RD_PUNC
+PBRED6439	ਇਤੁ\RB ਮਾਰਗਿ\N_NN ਪੈਰੁ\N_NN ਧਰੀਜੈ\V_VM_VF ਸਿਰੁ\N_NN ਦੀਜੈ\V_VM_VF ਕਾਣਿ\N_NN ਨ\RP_NEG ਕੀਜੈ\V_VM_VF ॥\RD_PUNC (\RD_SYM ਅੰਗ\N_NN 1412\QT_QTC )\RD_SYM
+PBRED6440	ਪਦ\N_NN ਅਰਥ\N_NN :\RD_PUNC ਜਉ\CC_CCD -\RD_PUNC ਜੇਕਰ\CC_CCS ।\RD_PUNC ਤਉ\PR_PRP -\RD_PUNC ਤੈਨੂੰ\PR_PRP ।\RD_PUNC ਪ੍ਰੇਮ\N_NN ਖੇਲਣ\V_VM_VF ਕਾ\PSP ਚਾਉ\N_NN -\RD_PUNC ਪ੍ਰੇਮ\N_NN ਦੀ\PSP ਖੇਲ\N_NN ਖੇਲਣ\V_VM_VF ਦਾ\PSP ਚਾਅ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜੇਕਰ\CC_CCS ਤੂੰ\PR_PRP ਪਰਮਾਤਮਾ\N_NN ਨਾਲ\PSP ਪ੍ਰੇਮ\N_NN ਪਾਉਣਾ\V_VM_VF ਚਾਹੁੰਦਾ\V_VM_VF ਹੈਂ\V_VAUX ।\RD_PUNC
+PBRED6441	ਸਿਰੁ\N_NN ਧਰਿ\V_VM_VF ਤਲੀ\N_NN -ਸਿਰ\N_NN ਨੂੰ\PSP ਤਲੀ\N_NN `\RD_PUNC ਤੇ\RB ਰੱਖ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਸਾਰੇ\QT_QTF ਭੈਅ\N_NN ਡਰ\N_NN ਦੂਰ\N_NN ਕਰਕੇ\V_VM_VF ।\RD_PUNC
+PBRED6442	ਗਲੀ\N_NN ਮੇਰੀ\PR_PRP ਆਉ\V_VM_VF -\RD_PUNC ਮੇਰੀ\PR_PRP ਗਲੀ\N_NN ਆਵੋ\V_VM_VF ,\RD_PUNC ਮੇਰੇ\PR_PRP ਪਾਸ\RB ਆਵੋ\V_VM_VF ।\RD_PUNC ਇਤੁ\RB ਮਾਰਗਿ\N_NN -\RD_PUNC ਅਜਿਹੇ\RB ਮਾਰਗ\N_NN `\RD_PUNC ਤੇ\RB ।\RD_PUNC
+PBRED6443	ਧਰੀਜੈ\V_VM_VF -\RD_PUNC ਰੱਖਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6444	ਸਿਰੁ\N_NN ਦੀਜੈ\V_VM_VF -\RD_PUNC ਸਿਰ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਸਿਰ\N_NN ਭੇਟ\N_NN ਕਰਕੇ\V_VM_VF ।\RD_PUNC
+PBRED6445	ਕਾਣਿ\N_NN -\RD_PUNC ਝਿਜਕ\N_NN ।\RD_PUNC
+PBRED6446	ਨ\RP_NEG ਕੀਜੈ\V_VM_VF -\RD_PUNC ਨਹੀਂ\RP_NEG ਕਰਨੀ\V_VM_VF ਚਾਹੀਦੀ\V_VM_VF ।\RD_PUNC
+PBRED6447	ਅੱਜ\RB ਸਾਹਿਬ-ਏ-ਆਲਮ\JJ ,\RD_PUNC ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਪਾਵਨ\N_NN ਜਨਮ\N_NN ਦਿਹਾੜਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6448	ਅੱਜ\RB ਦੇ\PSP ਸ਼ਬਦ\N_NN ਵਿਚਾਰ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਜੀਵਨ\N_NN `\RD_PUNC ਤੇ\RB ਸੰਖੇਪ\JJ ਰੂਪ\N_NN ਵਿਚ\PSP ਵਿਚਾਰ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6449	ਸਲੋਕ\N_NN ਵਿਚ\PSP ਜਗਤ\N_NN ਗੁਰੂ\N_NN ਬਾਬਾ\N_NN ਦ੍ਰਿੜ\N_NN ਕਰਵਾ\V_VM_VF ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਹੇ\RP_INJ ਭਾਈ\N_NN ,\RD_PUNC ਜੇਕਰ\CC_CCS ਤੈਨੂੰ\PR_PRP ਪਰਮਾਤਮਾ\N_NN ਨਾਲ\PSP ਪ੍ਰੇਮ\N_NN ਪਾਉਣ\V_VM_VF ਦਾ\PSP ਚਾਅ\N_NN ਹੈ\V_VAUX ਤਾਂ\RP_RPD ਆਪਣੇ\PR_PRF ਸੀਸ\N_NN ਨੂੰ\PSP ਤਲੀ\N_NN `\RD_PUNC ਤੇ\RB ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਮੇਰੇ\PR_PRP ਪਾਸ\RB ਆ\V_VM ।\RD_PUNC
+PBRED6450	ਆਪ\PR_PRF ਜੀ\RP_INJ ਸੋਝੀ\N_NN ਬਖਸ਼ਿਸ਼\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ਕਿ\CC_CCS ਅਜਿਹੇ\RB ਮਾਰਗ\N_NN `\RD_PUNC ਤੇ\RB ਪੈਰ\N_NN ਤਾਂ\RP_RPD ਹੀ\RP_RPD ਧਰਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਜੇਕਰ\CC_CCS ਸਿਰ\N_NN ਨੂੰ\PSP ਭੇਟ\N_NN ਕਰਨ\V_VM_VF `\RD_PUNC ਤੇ\RB ਕੋਈ\DM_DMQ ਝਿਜਕ\N_NN ਨਾ\RP_NEG ਕੀਤੀ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6451	ਪ੍ਰੇਮ\N_NN ਦੇ\PSP ਮਾਰਗ\N_NN ਤੋਂ\PSP ਭਾਵ\N_NN ਹੈ\V_VAUX ਪਿਆਰ\N_NN ,\RD_PUNC ਸਨੇਹ\JJ ,\RD_PUNC ਨੇਕੀ\JJ ,\RD_PUNC ਸੱਚ\JJ ਆਦਿ\RP_CL ਦਾ\PSP ਮਾਰਗ\N_NN ।\RD_PUNC
+PBRED6452	ਇਹ\DM_DMD ਮਾਰਗ\N_NN ਭਾਵੇਂ\RB ਬਿਖਮ\JJ ਅਰਥਾਤ\N_NN ਕਠਿਨ\JJ ਜ਼ਰੂਰ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL `\RD_PUNC ਤੇ\RB ਕੇਵਲ\RB ਸੱਚ\N_NN ਦੇ\PSP ਧਾਰਨੀ\N_NN ਹੀ\RP_RPD ਚੱਲ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ਪਰ\CC_CCD ਆਤਮਿਕ\N_NN ਪੱਖ\N_NN ਤੋਂ\PSP ਇਹ\PR_PRP ਸਭ\QT_QTF ਤੋਂ\PSP ਉੱਤਮ\JJ ਮਾਰਗ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6453	ਸੁਖ\JJ ,\RD_PUNC ਦੁੱਖ\JJ ,\RD_PUNC ਤ੍ਰਿਸ਼ਨਾਵਾਂ\N_NN ਨੂੰ\PSP ਤਿਆਗ\V_VM ਕੇ\V_VM_VNF ਹੀ\RP_RPD ਇਸ\PR_PRP ਮਾਰਗ\N_NN ਦੇ\PSP ਪਾਂਧੀ\N_NN ਬਣਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6454	ਅਤੇ\CC_CCD ਜਗਿਆਸੂ\N_NN ਹਰ\DM_DMQ ਅਵਸਥਾ\N_NN ਵਿਚ\PSP ਪ੍ਰਭੂ\N_NN ਦੀ\PSP ਰਜ਼ਾ\N_NN ਜਾਂ\CC_CCD ਭਾਣੇ\N_NN ਵਿਚ\PSP ਵਿਚਰਦਾ\V_VM_VF ਹੋਇਆ\V_VM_VF ਆਪਣਾ\PR_PRF ਮਨ\N_NN ,\RD_PUNC ਤਨ\N_NN ਸਭ\DM_DMQ ਕੁਝ\DM_DMQ ਆਪਣੇ\PR_PRF ਪਿਆਰੇ\N_NN `\RD_PUNC ਤੋਂ\PSP ਨਿਛਾਵਰ\N_NN ਕਰ\V_VM ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6455	ਜੇ\PR_PRL ਸੁਖੁ\JJ ਦੇਹਿ\V_VM_VF ਤ\RP_RPD ਤੁਝਹਿ\N_NN ਅਰਾਧੀ\V_VM_VF ਦੁਖਿ\JJ ਭੀ\RP_RPD ਤੁਝੈ\PR_PRP ਧਿਆਈ\V_VM_VF ॥\RD_PUNC
+PBRED6456	ਜੇ\PR_PRL ਭੁਖ\N_NN ਦੇਹਿ\V_VM_VF ਤ\RP_RPD ਇਤ\RB ਹੀ\RP_RPD ਰਾਜਾ\N_NN ਦੁਖ\JJ ਵਿਚਿ\PSP ਸੂਖ\JJ ਮਨਾਈ\V_VM_VF ॥\RD_PUNC (\RD_SYM ਰਾਗੁ\N_NN ਸੂਹੀ\N_NNP ਮਹਲਾ\N_NNP ੪\QT_QTC ,\RD_PUNC ਅੰਗ\N_NN 757\QT_QTC )\RD_SYM
+PBRED6457	ਜਿਥੇ\RB ਇਕ\QT_QTC ਗੱਲ\N_NN ਬੜੀ\QT_QTF ਸਪੱਸ਼ਟ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਸਮੇਂ\N_NN ਤੋਂ\PSP ਹੀ\RP_RPD ਭਗਤੀ\N_NN ਰਸ\N_NN ਦੇ\PSP ਨਾਲ\RB -\RD_PUNC ਨਾਲ\RB ਸਿਰ\N_NN ਤਲੀ\N_NN `\RD_PUNC ਤੇ\RB ਰੱਖਣ\V_VM_VF ਜਿਹੀ\RB ਸ਼ਬਦਾਵਲੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\N_NN ਅਰੰਭ\N_NN ਹੋ\V_VAUX ਚੁੱਕੀ\V_VM_VF ਸੀ\V_VAUX |\N_NN
+PBRED6458	ਪੰਜਵੇਂ\QT_QTC ਜਾਮੇ\N_NN ਵਿਚ\PSP ਇਕ\QT_QTC ਵਾਰੀ\N_NN ਇਸੇ\DM_DMD ਉਪਦੇਸ਼\N_NN ਨੂੰ\PSP ਫਿਰ\RB ਦੁਹਰਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF :\RD_PUNC
+PBRED6459	ਪਹਿਲਾ\QT_QTO ਮਰਣੁ\N_NN ਕਬੂਲਿ\N_NN ਜੀਵਣ\N_NN ਕੀ\PSP ਛਡਿ\V_VM_VF ਆਸ\N_NN ॥\RD_PUNC
+PBRED6460	ਹੋਹੁ\V_VM_VF ਸਭਨਾ\DM_DMQ ਕੀ\PSP ਰੇਣੁਕਾ\N_NN ਤਉ\RP_RPD ਆਉ\V_VM ਹਮਾਰੇ\PR_PRP ਪਾਸਿ\N_NN ॥\RD_PUNC
+PBRED6461	(\RD_SYM ਰਾਗੁ\N_NNP ਮਾਰੂ\N_NNP ਕੀ\PSP ਵਾਰ\N_NN ਮਹਲਾ\N_NN ੫\QT_QTC ,\RD_PUNC ਅੰਗ\N_NN 1102\QT_QTC )\RD_SYM
+PBRED6462	ਰੇਣਕਾ\N_NN -\RD_PUNC ਚਰਨ\N_NN ਧੂੜ\N_NN ।\RD_PUNC ਉਥੇ\RB ਬਾਹਰਮੁਖੀ\N_NN ਤੌਰ\PSP `\RD_PUNC ਤੇ\RB ਇਹ\DM_DMD ਦ੍ਰਿੜ\N_NN ਕਰਵਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਕਿ\CC_CCS ਜੋ\PR_PRL ਸੂਰਮਾ\N_NN ਆਪਣੇ\PR_PRF ਹੱਕਾਂ\N_NN ਲਈ\PSP ਲੜ\V_VM ਮਰਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਹ\PR_PRP ਪ੍ਰਭੂ\N_NN ਦੀ\PSP ਦਰਗਾਹੇ\N_NN ਪ੍ਰਵਾਨ\N_NN ਚੜ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਭਾਵ\N_NN ਦਰਗਾਹੇ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਇੱਜ਼ਤ\N_NN ਤੇ\CC_CCD ਮਾਣ\N_NN ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6463	ਮਰਣੁ\N_NN ਮੁਣਸਾ\N_NN ਸੂਰਿਆ\N_NN ਹਕੁ\N_NN ਹੈ\V_VAUX ਜੋ\PR_PRL ਹੋਇ\V_VM_VF ਮਰਨਿ\N_NN ਪਰਵਾਣੋ\N_NNP ॥\RD_PUNC
+PBRED6464	ਸੂਰੇ\JJ ਸੇਈ\PR_PRP ਆਗੈ\N_NN ਆਖੀਅਹਿ\V_VM_VF ਦਰਗਹ\N_NN ਪਾਵਹਿ\V_VM_VF ਸਾਚੀ\JJ ਮਾਣੋ\N_NN ॥\RD_PUNC (\RD_SYM ਰਾਗੁ\N_NNP ਵਡਹੰਸ\N_NNP ਮਹਲਾ\N_NNP ੧\QT_QTC ,\RD_PUNC ਅੰਗ\N_NN 579\QT_QTC -\RD_PUNC 80\QT_QTC )\RD_SYM
+PBRED6465	ਮੁਣਸਾ\N_NN -\RD_PUNC ਮਨੁੱਖ\N_NN ।\RD_PUNC ਮਾਣੋ\N_NN -\RD_PUNC ਮਾਣ\N_NN ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6466	ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਜਿਨ੍ਹਾਂ\PR_PRL ਦਾ\PSP ਅੱਜ\RB ਸੰਸਾਰ\N_NN ਭਰ\N_NN ਵਿਚ\PSP ਜਨਮ\N_NN ਦਿਵਸ\N_NN ਮਨਾਇਆ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਦੇ\PSP ਬੜੇ\RB ਅਨਮੋਲ\JJ ਬਚਨ\N_NN ਹਨ\V_VAUX ਕਿ\CC_CCS ਜਿਨ੍ਹਾਂ\PR_PRL ਨੇ\PSP ਪਰਮਾਤਮਾ\N_NN ਨਾਲ\PSP ਪ੍ਰੇਮ\N_NN ਪਿਆਰ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਹੀ\RP_RPD ਪਰਮਾਤਮਾ\N_NN ਨੂੰ\PSP ਪਾਇਆ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6467	ਸਾਚੁ\JJ ਕਹੌ\V_VM_VF ਸੁਨ\N_NN ਲੇਹੁ\V_VM_VF ਸਭੈ\DM_DMQ ਜਿਨ\RB ਪ੍ਰੇਮ\N_NN ਕੀਓ\V_VM_VF ਤਿਨ\RB ਹੀ\RP_RPD ਪ੍ਰਭ\N_NN ਪਾਇਓ\V_VM_VF ॥\RD_PUNC
+PBRED6468	ਪਣੇ\N_NN ਜਨਮ\N_NN ਲੈਣ\V_VM_VF ਦੇ\PSP ਉਦੇਸ਼\N_NN ਬਾਰੇ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਦਰਸਾਇਆ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6469	ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਜਨਮ\N_NN ਲੈਣ\V_VM_VF ਦਾ\PSP ਉਦੇਸ਼\N_NN ਧਰਮ\N_NN ਦਾ\PSP ਪਸਾਰ\N_NN ਕਰਨਾ\V_VM_VF ,\RD_PUNC ਸੰਤ\N_NN ਜਨਾਂ\N_NN ਅਰਥਾਤ\N_NN ਧਰਮੀਆਂ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਕਰਨਾ\V_VM_VF ਅਤੇ\CC_CCD ਦੁਸ਼ਟਾਂ\N_NN ਦਾ\PSP ਨਾਸ\N_NN ਕਰਨਾ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6470	ਯਾਹੀ\DM_DMD ਕਾਜ\N_NN ਧਰਾ\V_VM_VF ਹਮ\PR_PRP ਜਨਮੰ\N_NN ॥\RD_PUNC
+PBRED6471	ਸਮਝ\N_NN ਲੇਹੁ\V_VM_VF ਸਾਧੂ\N_NN ਸਭ\DM_DMQ ਮਨਮੰ\N_NN ॥\RD_PUNC
+PBRED6472	ਧਰਮ\N_NN ਚਲਾਵਨ\V_VM_VF ਸੰਤ\N_NN ਉਬਾਰਨ\V_VM_VF ਦੁਸਟ\N_NN ਸਭਨ\DM_DMQ ਕੋ\PSP ਮੂਲ\N_NN ਉਪਾਰਿਨ\V_VM_VF ॥\RD_PUNC (\RD_SYM ਬਚਿੱਤ੍ਰ\N_NNP ਨਾਟਕ\N_NNP ,\RD_PUNC ਪਾਤਸ਼ਾਹੀ\N_NN ੧੦\QT_QTC )\RD_SYM
+PBRED6473	ਮੂਲ\N_NN ਉਪਾਰਨ\V_VM_VF -\RD_PUNC ਮੁੱਢੋਂ\N_NN ਪੁੱਟਣਾ\V_VM_VF ,\RD_PUNC ਨਾਸ\N_NN ਕਰਨਾ\V_VM_VF ।\RD_PUNC
+PBRED6474	ਆਪ\PR_PRF ਜੀ\RP_INJ ਜੀਵਨ\N_NN ਭਰ\N_NN ਅਨਿਆਂ\N_NN ਅਤੇ\CC_CCD ਜ਼ੁਲਮ\N_NN ਵਿਰੁੱਧ\N_NN ਜੂਝਦੇ\V_VM_VF ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBRED6475	ਆਪ\PR_PRF ਜੀ\RP_INJ 9\QT_QTC ਸਾਲਾਂ\N_NN ਦੇ\PSP ਸਨ\V_VAUX ਜਦੋਂ\PR_PRL ਆਪ\PR_PRF ਦੇ\PSP ਪਿਤਾ\N_NN ਗੁਰੂ\N_NN ਤੇਗ\N_NNP ਬਹਾਦਰ\N_NNP ਜੀ\RP_INJ ਧਰਮ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਕਰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਅਤੇ\CC_CCD ਹਿੰਦ\N_NN ਦੀ\PSP ਡੁੱਬ\N_NN ਰਹੀ\V_VM_VF ਨਈਆ\N_NN ਨੂੰ\PSP ਬਚਾਉਣ\V_VM_VF ਲਈ\PSP ਸ਼ਹਾਦਤ\N_NN ਪਾ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6476	ਜਿਸ\PR_PRL ਬਾਰੇ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਦਾ\PSP ਕਥਨ\N_NN ਹੈ\V_VAUX -\RD_PUNC
+PBRED6477	ਧਰਮ\N_NN ਹੇਤ\PSP ਸਾਕਾ\N_NN ਜਿਨਿ\PR_PRL ਕੀਆ\V_VM_VF ਸੀਸੁ\N_NN ਦੀਆ\V_VM_VF ਪਰੁ\CC_CCD ਸਿਰਰੁ\N_NN ਨ\RP_NEG ਦੀਆ\V_VM_VF ॥\RD_PUNC
+PBRED6478	ਤੇਗ\N_NNP ਬਹਾਦਰ\N_NNP ਕੇ\PSP ਚਲਤ\V_VM_VF ਭਯੋ\V_VM_VF ਜਗਤ\N_NN ਕੋ\PSP ਸੋਕ\N_NN ॥\RD_PUNC
+PBRED6479	ਹੈ\RP_INJ ਹੈ\RP_INJ ਹੈ\RP_INJ ਸਭ\DM_DMQ ਜਗ\N_NN ਭਯੋ\V_VM_VF ਜੈ\N_NN ਜੈ\N_NN ਜੈ\N_NN ਸੁਰ\N_NN ਲੋਕਿ\N_NN ॥\RD_PUNC
+PBRED6480	ਹੇਤ\PSP -\RD_PUNC ਦੀ\PSP ਖਾਤਰ\N_NN ।\RD_PUNC ਸੋਕ\N_NN -\RD_PUNC ਸੋਗ\N_NN ,\RD_PUNC ਗਮ\N_NN ।\RD_PUNC ਸੁਰ\N_NN ਲੋਕ\N_NN -\RD_PUNC ਦੇਵਲੋਕ\N_NN ,\RD_PUNC ਸਵਰਗ\N_NN ।\RD_PUNC
+PBRED6481	ਸਮਾਂ\N_NN ਆ\V_VM ਗਿਆ\V_VM_VF ਜਦੋਂ\PR_PRL ਜ਼ੁਲਮ\N_NN ਅਤੇ\CC_CCD ਅਨਿਆਂ\N_NN ਦਾ\PSP ਟਾਕਰਾ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਇਕ\QT_QTC ਵਾਰੀ\N_NN ਫਿਰ\RB ਸ਼ਮਸ਼ੀਰ\N_NN ਚੁੱਕਣੀ\V_VM_VF ਪਈ\V_VM_VF |\RD_PUNC
+PBRED6482	(\RD_SYM ਪਹਿਲੀ\QT_QTO ਵਾਰੀ\N_NN ਗੁਰੂ\N_NN ਹਰਿਗੋਬਿੰਦ\N_NNP ਸਾਹਿਬ\N_NNP ਨੂੰ\PSP ਜ਼ੁਲਮ\N_NN ਦਾ\PSP ਟਾਕਰਾ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਸ਼ਮਸ਼ੀਰ\N_NN ਚੁੱਕਣੀ\V_VM_VF ਪਈ\V_VM_VF ਸੀ\V_VAUX )\RD_SYM ।\RD_PUNC
+PBRED6483	ਸੰਨ\N_NN 1699\QT_QTC ਦੀ\PSP ਵੈਸਾਖੀ\N_NN ਵਾਲੇ\PSP ਦਿਨ\N_NN ਪੰਜ\QT_QTC ਪਿਆਰਿਆਂ\N_NN ਦੀ\PSP ਚੋਣ\N_NN ਕਰਕੇ\V_VM_VF ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਨੇ\PSP ਖੰਡੇ\N_NN ਬਾਟੇ\N_NN ਦਾ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਤਿਆਰ\N_NN ਕਰਕੇ\V_VM_VF ਸਿੱਖ\N_NN ਸੇਵਕਾਂ\N_NN ਵਿਚ\PSP ਭਗਤੀ\N_NN ਅਤੇ\CC_CCD ਬੀਰਤਾ\JJ ਦੁਆਰਾ\PSP ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਕਾਇਆ\N_NN ਕਲਪ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6484	ਹੁਣ\RB ਉਹ\PR_PRP ਸਿੰਘ\N_NN ਸੂਰਮੇ\N_NN ਸਜ\V_VM_VF ਗਏ\V_VM_VF ਸਨ\V_VAUX ,\RD_PUNC ਜੋ\PR_PRL ਸਿਰਾਂ\N_NN ਨੂੰ\PSP ਤਲੀਆਂ\N_NN `\RD_PUNC ਤੇ\RB ਰੱਖ\V_VM_VF ਕੇ\V_VM_VNF ਦੀਨਾਂ\N_NN (\RD_SYM ਗਰੀਬਾਂ\N_NN )\RD_SYM ਅਤੇ\CC_CCD ਧਰਮ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਮੈਦਾਨ\N_NN ਵਿਚ\PSP ਨਿਤਰੇ\V_VM_VF ।\RD_PUNC
+PBRED6485	ਸ਼ੁਭ\N_NN ਕਰਮ\N_NN ਕਰਨਾ\V_VM_VNF ਉਨ੍ਹਾਂ\PR_PRP ਦਾ\PSP ਲਕਸ਼\N_NN ਸੀ\V_VAUX ,\RD_PUNC ਜੋ\PR_PRL ਉਨ੍ਹਾਂ\PR_PRP ਦੇ\PSP ਗੁਰੂ\N_NN ਦਾ\PSP ਉਪਦੇਸ਼\N_NN ਸੀ\V_VAUX -\RD_PUNC
+PBRED6486	ਦੇਹ\V_VM ਸਿਵਾ\N_NN ਬਰੁ\N_NN ਮੋਹਿ\PR_PRP ਇਹੈ\DM_DMD ਸੁਭ\N_NN ਕਰਮਨ\N_NN ਤੇ\PSP ਕਬਹੂੰ\RB ਨ\RP_NEG ਟਰੋ\V_VM_VF ॥\RD_PUNC
+PBRED6487	ਨ\RP_NEG ਡਰੋ\N_NN ਅਰਿ\DM_DMD ਸੋ\PSP ਜਬ\RB ਜਾਇ\V_VM_VF ਲਰੋਂ\N_NN ਨਿਸਚੈ\N_NN ਕਰ\V_VM ਅਪਨੀ\PR_PRF ਜੀਤ\N_NN ਕਰੋ\V_VM_VF ॥\RD_PUNC
+PBRED6488	ਅਰ\N_NN ਸਿਖ\N_NN ਹੌ\V_VAUX ਅਪਨੇ\PR_PRF ਹੀ\RP_RPD ਮਨ\N_NN ਕੌ\RB ਇਹ\DM_DMD ਲਾਲਚ\N_NN ਹਉ\PR_PRP ਗੁਨ\N_NN ਤਉ\PSP ਉਚਰੋਂ\V_VM_VF ।\RD_PUNC
+PBRED6489	ਜਬ\RB ਆਵ\N_NN ਕੀ\PSP ਅਉਧ\N_NN ਨਿਧਾਨ\N_NN ਬਨੈ\V_VM_VF ਅਤਿ\N_NN ਹੀ\RP_RPD ਰਨ\N_NN ਮੈਂ\PR_PRP ਤਬੁ\RB ਜੂਝ\N_NN ਮਰੋਂ\V_VM_VF ॥\RD_PUNC (\RD_SYM ਚੰਡੀ\N_NNP ਚਰਿਤ੍ਰ\N_NNP ,\RD_PUNC ਪਾਤਸ਼ਾਹੀ\N_NN ੧੦\QT_QTC )\RD_SYM
+PBRED6490	ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਸਿੱਖ\N_NN ਸੇਵਕਾਂ\N_NN ਨੂੰ\PSP ਬੜਾ\JJ ਮਾਣ\N_NN ਦਿੱਤਾ\V_VM_VF ,\RD_PUNC ਜੋ\PR_PRL ਅੱਜ\RB ਤਾਈਂ\PSP ਕਿਸੇ\DM_DMD ਧਾਰਮਿਕ\N_NN ਰਹਿਬਰ\N_NN ਨੇ\PSP ਆਪਣੇ\PR_PRF ਸੇਵਕਾਂ\N_NN ਨੂੰ\PSP ਨਹੀਂ\RP_NEG ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6491	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਪਾਵਨ\N_NN ਬਚਨ\N_NN ਹਨ\V_VAUX -\RD_PUNC
+PBRED6492	ਇਨ\PR_PRP ਹੀ\RP_RPD ਕੀ\PSP ਕ੍ਰਿਪਾ\N_NN ਕੇ\PSP ਸਜੇ\N_NN ਹਮ\PR_PRP ਹੈਂ\V_VAUX ਨਹੀਂ\RP_NEG ਮੋ\PR_PRP ਸੇ\PSP ਗਰੀਬ\N_NN ਕਰੋਰ\QT_QTC ਪਰੇ\V_VM_VF ॥\RD_PUNC
+PBRED6493	ਮੋ\PR_PRP ਸੇ-ਮੇਰੇ\PR_PRP ਵਰਗੇ\PSP ।\RD_PUNC ਕਰੋਰ-ਕਰੋੜਾਂ\QT_QTC ।\RD_PUNC
+PBRED6494	ਖਾਲਸਾ\N_NN ਮੇਰੋ\PR_PRP ਰੂਪ\N_NN ਹੈ\V_VAUX ਖਾਸ\N_NN ॥\RD_PUNC
+PBRED6495	ਖਾਲਸੇ\N_NN ਮਹਿ\PSP ਹਉਂ\PR_PRP ਕਰਉ\V_VM_VF ਨਿਵਾਸ\N_NN ॥\RD_PUNC
+PBRED6496	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਜ਼ਫ਼ਰਨਾਮਾ\N_NNP (\RD_SYM ਫਤਹਿ\N_NN ਦੀ\PSP ਚਿੱਠੀ\N_NN )\RD_SYM ਵਿਚ\PSP ਔਰੰਗਜ਼ੇਬ\N_NNP ਨੂੰ\PSP ਲਿਖਿਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਜਦੋਂ\PR_PRL ਸ਼ਾਂਤੀ\N_NN ਲਈ\PSP ਕੀਤੇ\V_VM_VF ਹੀਲੇ\N_NN -\RD_PUNC ਵਸੀਲੇ\N_NN ਸਭ\DM_DMQ ਖਤਮ\N_NN ਹੋ\V_VAUX ਜਾਣ\N_NN ਤਾਂ\CC_CCD ਤਲਵਾਰ\N_NN ਚੁੱਕਣੀ\V_VM_VF ਉਚਿਤ\JJ ਹੈ\V_VAUX -\RD_PUNC
+PBRED6497	ਚੂੰ\N_NN ਕਾਰ\N_NN ਅਜ਼\N_NN ਹਮਾਹ\N_NN ਹੀਲਤੇ\N_NN ਦਰ\N_NN ਗੁਜ਼ਸ਼ਤ॥\N_NN
+PBRED6498	ਹਲਾਲ\N_NN ਅਸਤੁ\N_NN ਬੁਰਦਨ\N_NN ਬ\N_NN ਸ਼ਮਸ਼ੀਰ\N_NN ਦਸਤ॥\N_NN
+PBRED6499	ਚਮਕੌਰ\N_NNP ਦੀ\PSP ਜੰਗ\N_NN ਵਿਚ\PSP 40\QT_QTC ਸਿੰਘਾਂ\N_NN ਨੇ\PSP ਲਗਭਗ\QT_QTF 10\QT_QTC ਲੱਖ\QT_QTC ਮੁਗਲੀ\N_NN ਫੌਜ\N_NN ਦਾ\PSP ਟਾਕਰਾ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6500	ਇਥੇ\RB ਹੀ\RP_RPD 21\QT_QTC ਦਸੰਬਰ\N_NNP 1704\QT_QTC ਨੂੰ\PSP ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਦੇ\PSP ਵੱਡੇ\JJ ਦੋ\QT_QTC ਸਾਹਿਬਜ਼ਾਦੇ\N_NN ਬਾਬਾ\N_NNP ਅਜੀਤ\N_NNP ਸਿੰਘ\N_NNP ਅਤੇ\CC_CCD ਬਾਬਾ\N_NNP ਜੁਝਾਰ\N_NNP ਸਿੰਘ\N_NNP ਸੂਰਮਗਤੀ\N_NN ਨਾਲ\PSP ਲੜਦੇ\N_NN ਹੋਏ\V_VM_VF ਸ਼ਹੀਦ\N_NN ਹੋਏ\V_VM_VF ।\RD_PUNC
+PBRED6501	ਇਸ\DM_DMD ਜੰਗ\N_NN ਵਿਚ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਤਿੰਨ\QT_QTC ਪਿਆਰੇ\N_NN ਭਾਈ\N_NNP ਮੋਹਕਮ\N_NNP ਸਿੰਘ\N_NNP ,\RD_PUNC ਭਾਈ\N_NNP ਹਿੰਮਤ\N_NNP ਸਿੰਘ\N_NNP ਅਤੇ\CC_CCD ਭਾਈ\N_NNP ਸਾਹਿਬ\N_NNP ਸਿੰਘ\N_NNP ਵੀ\RP_RPD ਧਰਮ\N_NN ਦੀ\PSP ਰੱਖਿਆ\N_NN ਕਰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਸ਼ਹੀਦ\N_NN ਹੋਏ\V_VM_VF ।\RD_PUNC
+PBRED6502	26\QT_QTC ਦਸੰਬਰ\N_NNP 1704\QT_QTC ਨੂੰ\PSP 7\QT_QTC ਸਾਲ\N_NN ਅਤੇ\CC_CCD 9\QT_QTC ਸਾਲ\N_NN ਦੇ\PSP ਸੂਰਮੇ\N_NN ਸਾਹਿਬਜ਼ਾਦੇ\N_NN ਬਾਬਾ\N_NNP ਜ਼ੋਰਾਵਰ\N_NNP ਸਿੰਘ\N_NNP ਅਤੇ\CC_CCD ਬਾਬਾ\N_NNP ਫਤਹਿ\N_NNP ਸਿੰਘ\N_NNP ਨੂੰ\PSP ਜ਼ਾਲਮ\N_NN ਸਰਹਿੰਦ\N_NNP ਦੇ\PSP ਸੂਬੇ\N_NN ਨਵਾਬ\N_NN ਖਾਂ\N_NN ਨੇ\PSP ਇੱਟਾਂ\N_NN ਵਿਚ\PSP ਚਿਣ\V_VM ਕੇ\V_VM_VNF ਸ਼ਹੀਦ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6503	ਸੰਸਾਰ\N_NN ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਇਸ\DM_DMD ਤੋਂ\PSP ਵੱਡਾ\JJ ਹੋਰ\DM_DMQ ਕੋਈ\DM_DMQ ਜ਼ੁਲਮ\N_NN ਜਾਂ\CC_CCD ਕਹਿਰ\N_NN ਨਹੀਂ\RP_NEG ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ।\RD_PUNC
+PBRED6504	ਜਦੋਂ\PR_PRL ਮਾਤਾ\N_NNP ਜੀਤੋ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਪਾਸੋਂ\RB ਪੁੱਛਿਆ\V_VM_VF ਸੀ\V_VAUX ਕਿ\CC_CCS ਚਾਰੇ\QT_QTC ਸਾਹਿਬਜ਼ਾਦੇ\N_NN ਕਿਥੇ\RB ਹਨ\V_VAUX ਤਾਂ\RP_RPD ਭਰੇ\N_NN ਦੀਵਾਨ\N_NN ਵਿਚ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਖਾਲਸੇ\N_NN ਵੱਲ\N_NN ਇਸ਼ਾਰਾ\N_NN ਕਰਕੇ\N_NN ਆਖਿਆ\V_VM_VF ਸੀ\V_VAUX -\RD_PUNC
+PBRED6505	ਇਨ\DM_DMD ਪੁਤਰਨ\N_NN ਕੇ\PSP ਸੀਸ\N_NN ਪਰ\RB ਵਾਰ\N_NN ਦੀਏ\V_VM_VF ਸੁਤ\N_NN ਚਾਰ\QT_QTC ॥\RD_PUNC
+PBRED6506	ਚਾਰ\QT_QTC ਮੂਏ\V_VM_VF ਤੋ\RP_RPD ਕਿਆ\PR_PRQ ਹੂਆ\V_VM_VF ਜੀਵਤ\N_NN ਕਈ\DM_DMQ ਹਜ਼ਾਰ\QT_QTC ॥\RD_PUNC
+PBRED6507	ਸੰਸਾਰ\N_NN ਦੇ\PSP ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਅਜਿਹਾ\RB ਪੈਗੰਬਰ\N_NN ਜਾਂ\CC_CCD ਸੂਰਮਾ\N_NN ਪੈਦਾ\V_VM_VF ਨਹੀਂ\RP_NEG ਹੋਇਆ\V_VM_VF ,\RD_PUNC ਜਿਸ\PR_PRL ਨੇ\PSP ਲਖਤੇ\N_NN ਜਿਗਰ\N_NN ਦੇ\PSP ਟੋਟਿਆਂ\N_NN ਦੀ\PSP ਕੁਰਬਾਨੀ\N_NN `\RD_PUNC ਤੇ\RB ਇਹ\PR_PRP ਕੁਝ\DM_DMQ ਆਖਿਆ\V_VM_VF ਹੋਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6508	ਸਮਾਂ\N_NN ਹੁੰਦਾ\V_VM_VF ਸੀ\V_VAUX ਜਦੋਂ\PR_PRL ਗੁਰੂ\N_NN ਦੇ\PSP ਸਿੱਖ\N_NN ਸੰਗਤੀ\N_NN ਰੂਪ\N_NN ਵਿਚ\PSP ਢੋਲਕੀ\N_NN -\RD_PUNC ਛੈਣਿਆਂ\N_NN ਨਾਲ\PSP ਉੱਚੀ\JJ -\RD_PUNC ਉੱਚੀ\JJ ਗਾਇਆ\V_VM_VF ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX -\RD_PUNC
+PBRED6509	ਗੁਰੂ\N_NN ਦੀ\PSP ਜੇ\PR_PRL ਲੋੜ\N_NN ਹੋਵੇ\V_VM_VF ,\RD_PUNC ਗੁਰੂ\N_NN ਵੀ\RP_RPD ਅਜੇਹਾ\RB ਹੋਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6510	ਜੈਸੇ\RP_CL ਦਸਮੇਸ਼\N_NNP ਮਾਤਾ\N_NN ਗੁਜਰੀ\N_NNP ਦੇ\PSP ਲਾਲ\N_NN ਨੇ\PSP ।\RD_PUNC
+PBRED6511	ਅੱਜ\RB ਇਹ\DM_DMD ਭਾਵਨਾ\N_NN ਅਤੇ\CC_CCD ਜਜ਼ਬਾ\N_NN ਕਿਥੇ\PR_PRQ ਗਏ\V_VM_VF ?\RD_PUNC
+PBRED6512	ਜਿਸ\PR_PRL ਮਰਦ\N_NN ਅਗੰਮੜੇ\N_NN ਨੇ\PSP ਕੌਮ\N_NN ਅਤੇ\CC_CCD ਦੇਸ਼\N_NN ਦੀ\PSP ਪੱਤ\N_NN ਰੱਖਣ\V_VM_VF ਲਈ\PSP ਸਰਬੰਸ\N_NN (\RD_SYM ਮਾਤਾ\N_NN ,\RD_PUNC ਪਿਤਾ\N_NN ,\RD_PUNC ਚਾਰ\QT_QTC ਸਾਹਿਬਜ਼ਾਦੇ\N_NN ,\RD_PUNC ਅਨੇਕਾਂ\QT_QTF ਪਿਆਰੇ\N_NN ਸਿੰਘ\N_NN )\RD_SYM ਵਾਰ\V_VM ਕੇ\V_VM_VNF ਸਾਨੂੰ\PR_PRP ਸਰਦਾਰੀਆਂ\N_NN ਬਖਸ਼ੀਆਂ\V_VM_VF ,\RD_PUNC ਉਸ\PR_PRP ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਵੱਲੋਂ\PSP ਬਖਸ਼ੇ\V_VM_VF ਹੋਏ\V_VM_VF ਅਨਮੋਲ\N_NN ਕੇਸ\N_NN ਅਤੇ\CC_CCD ਦਸਤਾਰ\N_NN ਅੱਜ\RB ਸਾਨੂੰ\PR_PRP ਸਿਰ\N_NN `\RD_PUNC ਤੇ\RB ਭਾਰੇ\N_NN ਕਿਉਂ\PR_PRQ ਲੱਗਣ\V_VM_VF ਲੱਗ\V_VM ਪਏ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBRED6513	ਅਸੀਂ\PR_PRP ਪਤਿਤ\N_NN ਕਿਉਂ\PR_PRQ ਹੁੰਦੇ\V_VM_VF ਜਾ\V_VM ਰਹੇ\V_VM_VF ਹਾਂ\V_VAUX ?\RD_PUNC
+PBRED6514	ਸਿੱਖ\N_NN ਨੌਜਵਾਨ\N_NN ਅਜੋਕੀ\RB ਪੀੜੀ\N_NN ਨੂੰ\PSP ਇਹ\DM_DMD ਵਿਚਾਰਨ\N_NN ਵਾਲੀ\PSP ਗੱਲ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6515	ਸ਼ਹੀਦੀ\N_NN ਪਰੰਪਰਾ\N_NN ਦਾ\PSP ਮੁੱਢ\N_NN ਸਿੱਖ\N_NN ਇਤਿਹਾਸ\N_NN ਦੇ\PSP ਸੁਨਹਿਰੀ\N_NN ਪੰਨਿਆਂ\N_NN ਵਿਚੋਂ\PSP ਵਿਕਸਿਤ\JJ ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6516	ਇਸ\DM_DMD ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਅਤਿਕਥਨੀ\N_NN ਨਹੀਂ\RP_NEG ਕਿ\CC_CCS ਸਿੱਖ\N_NN ਇਤਿਹਾਸ\N_NN ਸ਼ਹੀਦਾਂ\N_NN ਦੀ\PSP ਉਹ\PR_PRP ਦਾਸਤਾਨ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਦੀ\PSP ਮਿਸਾਲ\N_NN ਪੂਰੀ\JJ ਦੁਨੀਆ\N_NN ਦੇ\PSP ਇਤਿਹਾਸਾਂ\N_NN ਵਿਚ\PSP ਨਹੀਂ\RP_NEG ਮਿਲ\V_VM ਸਕਦੀ\V_VM_VF |\RD_PUNC
+PBRED6517	ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਅਨੁਸਾਰ\N_NN ਸ਼ਹੀਦ\N_NN ਉਹ\PR_PRP ਹੈ\V_VAUX ਜੋ\PR_PRL ਭਰਮ\N_NN ਭਾਉ\N_NN ਗਵਾ\V_VM ਕੇ\V_VM_VNF ਸਿਦਕ\N_NN ਦਾ\PSP ਧਾਰਨੀ\V_VM_VF ਬਣਦਾ\V_VM_VF ਹੈ\V_VAUX :\RD_PUNC
+PBRED6518	ਸਾਬਰੁ\N_NN ਸਿਦਕਿ\N_NN ਸਹੀਦੁ\N_NN ਭਰਮ\N_NN ਭਉ\N_NN ਖੋਵਣਾ\V_VM_VF |\RD_PUNC
+PBRED6519	ਸ਼ਹੀਦ\N_NN ਜਨਮ\N_NN -\RD_PUNC ਮਰਨ\N_NN ਦੇ\PSP ਬੰਧਨਾਂ\N_NN ਤੋਂ\PSP ਮੁਕਤ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6520	ਦੁਨਿਆਵੀ\N_NN ਵਿਸ਼ੇ\N_NN -\RD_PUNC ਵਿਕਾਰਾਂ\N_NN ਅਤੇ\CC_CCD ਐਸ਼ੋ-ਇਸ਼ਰਤ\N_NN ਨੂੰ\PSP ਠੁਕਰਾ\V_VM_VF ਕੇ\V_VM_VNF ਗੁਰੁੂ\N_NN ਦੇ\PSP ਅੱਗੇ\RB ਆਪਾ\PR_PRF ਭਾਵ\N_NN ਸਮਰਪਣ\N_NN ਕਰਕੇ\V_VM_VF ਸ਼ਹੀਦ\N_NN ਮੁਕਤਾ\N_NN ਕਹਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਕਿਉਂਕਿ\CC_CCS ਜਨਮ\N_NN -\RD_PUNC ਮਰਨ\N_NN ,\RD_PUNC ਮੋਹ\N_NN -\RD_PUNC ਮਾਇਆ\N_NN ,\RD_PUNC ਦੁੱਖ\JJ -\RD_PUNC ਸੁੱਖ\JJ ਆਦਿ\RP_CL ਬੰਧਨਾਂ\N_NN ਤੋਂ\PSP ਛੁਟਕਾਰੇ\N_NN ਦਾ\PSP ਨਾਂਅ\N_NN ਹੀ\RP_RPD ਮੁਕਤੀ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBRED6521	`\RD_PUNC ਮੁਕਤਾ\N_NN `\RD_PUNC ਸ਼ਬਦ\N_NN ਸਿੱਖ\N_NN ਇਤਿਹਾਸ\N_NN ਵਿਚ\PSP ਇਕ\QT_QTC ਖਾਸ\N_NN ਸੰਦਰਭ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਵਰਤਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\N_NN
+PBRED6522	ਇਹ\DM_DMD ਸੰਕਲਪ\N_NN ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਦੇ\PSP ਮਹਾਨ\N_NN ਅਤੇ\CC_CCD ਪਵਿੱਤਰ\N_NN ਅਸਥਾਨ\N_NN ਸ੍ਰੀ\N_NN ਮੁਕਤਸਰ\N_NNP ਸਾਹਿਬ\N_NNP ਨਾਲ\PSP ਸਬੰਧਤ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBRED6523	ਸ੍ਰੀ\N_NN ਮੁਕਤਸਰ\N_NNP ਸਾਹਿਬ\N_NNP ਨੂੰ\PSP ਪਹਿਲਾਂ\QT_QTO ਖਿਦਰਾਣੇ\N_NNP ਦੀ\PSP ਢਾਬ\N_NN ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਜਾਣਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6524	ਰੇਤਲੇ\N_NN ਟਿੱਬਿਆਂ\N_NN ਅਤੇ\CC_CCD ਖੁਸ਼ਕ\N_NN ਝਾੜੀਆਂ\N_NN ਵਾਲੀ\PSP ਇਸ\DM_DMD ਧਰਤੀ\N_NN ਨੂੰ\PSP ਭਾਗ\N_NN ਕਿਵੇਂ\PR_PRQ ਲੱਗੇ\V_VM_VF ?\RD_PUNC
+PBRED6525	ਇਹ\DM_DMD ਇਤਿਹਾਸ\N_NN ਦੀ\PSP ਇਕ\QT_QTC ਲਾਸਾਨੀ\JJ ਅਤੇ\CC_CCD ਬੇਮਿਸਾਲ\JJ ਦਾਸਤਾਨ\N_NN ਹੈ\V_VAUX |\RD_PUNC
+PBRED6526	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਹੱਕ\N_NN -\RD_PUNC ਸੱਚ\JJ ਅਤੇ\CC_CCD ਧਰਮ\N_NN ਦੀ\PSP ਖਾਤਰ\N_NN ਕਈ\DM_DMQ ਜੰਗਾਂ\N_NN ਲੜੀਆਂ\V_VM_VF ਅਤੇ\CC_CCD ਹਰ\DM_DMQ ਵਾਰ\N_NN ਚੜ੍ਹਦੀ\N_NN ਕਲਾ\N_NN ਅਤੇ\CC_CCD ਬਹਾਦਰੀ\JJ ਨਾਲ\PSP ਦੁਸ਼ਮਣਾਂ\N_NN ਦਾ\PSP ਟਾਕਰਾ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBRED6527	ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਨੂੰ\PSP ਹਰ\DM_DMQ ਯੁੱਧ\N_NN ਵਿਚ\PSP ਹਾਰ\N_NN ਦਾ\PSP ਮੂੰਹ\N_NN ਦੇਖਣਾ\V_VM_VF ਪਿਆ\V_VM_VF |\RD_PUNC
+PBRED6528	ਅਖੀਰ\RB ਉਹਨਾਂ\PR_PRP ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਹਰਾਉਣ\N_NN ਲਈ\PSP ਔਰੰਗਜ਼ੇਬ\N_NNP ਅੱਗੇ\RB ਫਰਿਆਦ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6529	ਜਿਸ\PR_PRL ਨੇ\PSP ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਦੀ\PSP ਮਦਦ\N_NN ਲਈ\PSP ਲਾਹੌਰ\N_NNP ਅਤੇ\CC_CCD ਸਰਹੰਦ\N_NNP ਦੇ\PSP ਸੂਬੇਦਾਰਾਂ\N_NN ਨੂੰ\PSP ਫ਼ਰਮਾਨ\N_NN ਜਾਰੀ\N_NN ਕਰ\V_VM ਦਿੱਤੇ\V_VM_VF |\RD_PUNC
+PBRED6530	ਲਾਹੌਰ\N_NNP ,\RD_PUNC ਸਰਹਿੰਦ\N_NNP ਅਤੇ\CC_CCD ਪਹਾੜੀ\N_NN ਰਾਜਿਆਂ\N_NN ਦੇ\PSP ਟਿੱਡੀ\N_NN ਦਲਾਂ\N_NN ਨੇ\PSP ਸ੍ਰੀ\N_NN ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਕਿਲੇ\N_NN ਨੂੰ\PSP ਘੇਰਾ\N_NN ਪਾ\V_VM ਲਿਆ\V_VM_VF |\RD_PUNC
+PBRED6531	ਗੁਰੁੂ\N_NN ਜੀ\N_NN ਦੇ\PSP ਸੂਰਬੀਰ\N_NN ਯੋਧਿਆਂ\N_NN ਨੇ\PSP ਕਈ\N_NN ਮਹੀਨੇ\N_NN ਡਟ\V_VM ਕੇ\V_VM_VNF ਮੁਕਾਬਲਾ\N_NN ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBRED6532	ਖ਼ਾਲਸਾ\N_NN ਫ਼ੌਜ\N_NN ਦੇ\PSP ਛਾਪਾਮਾਰ\N_NN ਹਮਲਿਆਂ\N_NN ਨਾਲ\PSP ਦੁਸ਼ਮਣ\N_NN ਦੇ\PSP ਹੌਸਲੇ\N_NN ਪਸਤ\N_NN ਹੋ\V_VAUX ਚੁੱਕੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6533	ਪਰ\CC_CCD ਰਾਸ਼ਨ\N_NN -\RD_PUNC ਪਾਣੀ\N_NN ਵੀ\RP_RPD ਮੁੱਕਦਾ\V_VM_VF ਜਾ\V_VM ਰਿਹਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6534	ਇਸ\DM_DMD ਦੇ\PSP ਬਾਵਜੂਦ\RB ਵੀ\RP_RPD ਸਿੰਘ\N_NN ਸ਼ੇਰਾਂ\N_NN ਵਾਂਗੂੰ\PSP ਲੜ\V_VM ਰਹੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6535	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਦੂਰਅੰਦੇਸ਼ੀ\N_NN ਨਾਲ\PSP ਕੁਝ\DM_DMQ ਸਮਾਂ\N_NN ਹੋਰ\DM_DMQ ਉਡੀਕ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਕਿਹਾ\V_VM_VF |\RD_PUNC
+PBRED6536	ਇਸ\DM_DMD ਦੇ\PSP ਬਾਵਜੂਦ\JJ ਕੁਝ\DM_DMQ ਕਾਹਲੇ\JJ ਸਿੰਘ\N_NN ,\RD_PUNC ਭਰਮ\N_NN ਦਾ\PSP ਸ਼ਿਕਾਰ\N_NN ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਡੋਲ\N_NN ਗਏ\V_VM_VF |\RD_PUNC
+PBRED6537	ਉਹਨਾਂ\PR_PRP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਸਾਥ\N_NN ਛੱਡ\V_VM ਦਿੱਤਾ\V_VM_VF ਅਤੇ\CC_CCD `\RD_PUNC ਬੇਦਾਵਾ\N_NNP `\RD_PUNC ਦੇ\V_VM ਕੇ\V_VM_VNF ਆਪਣੇ\PR_PRF ਘਰਾਂ\N_NN ਨੂੰ\PSP ਚਲੇ\V_VM_VF ਗਏ\V_VM_VF |\RD_PUNC
+PBRED6538	ਥੋੜੇ\RB ਦਿਨਾਂ\N_NN ਪਿੱਛੋਂ\RB ਕਿਲੇ\N_NN ਅੰਦਰ\RB ਬਾਕੀ\N_NN ਬਚੇ\V_VM_VF ਸਿੰਘਾਂ\N_NN ਵੱਲੋਂ\PSP ,\RD_PUNC ਦੁਸ਼ਮਣ\N_NN ਵੱਲੋਂ\PSP ਖਾਧੀਆਂ\V_VM_VF ਕਸਮਾਂ\N_NN `\RD_PUNC ਤੇ\CC_CCD ਕਿਲਾ\N_NN ਖਾਲੀ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਸਲਾਹ\N_NN `\RD_PUNC ਤੇ\RB ਸ੍ਰੀ\N_NN ਗੁਰੂੁ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਸ੍ਰੀ\N_NN ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਛੱਡ\V_VM ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBRED6539	ਸਰਸਾ\N_NN ਨਦੀ\N_NN ਪਾਰ\N_NN ਕਰਦਿਆਂ\V_VM_VNF ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਸਾਰਾ\QT_QTF ਪਰਿਵਾਰ\N_NN ਵਿਛੜ\V_VM ਗਿਆ\V_VM_VF |\RD_PUNC
+PBRED6540	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਥੋੜੇ\RB ਜਿਹੇ\JJ ਸਿੰਘਾਂ\N_NN ਸਮੇਤ\RB ਚਮਕੌਰ\N_NNP ਦੀ\PSP ਗੜੀ\N_NN ਪਹੁੰਚੇ\V_VM_VF ,\RD_PUNC ਜਿਥੇ\RB ਸੰਸਾਰ\N_NN ਦਾ\PSP ਅਨੋਖਾ\JJ ਤੇ\CC_CCD ਅਸਾਵਾਂ\JJ ਯੁੱਧ\N_NN ਲੜਿਆ\V_VM_VF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBRED6541	ਇਥੋਂ\RB ਆਪ\PR_PRF ਦੁਸ਼ਮਣ\N_NN ਫੌਜਾਂ\N_NN ਨੂੰ\PSP ਵੰਗਾਰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਮਾਛੀਵਾੜੇ\N_NNP ਦੇ\PSP ਜੰਗਲ\N_NN ਵੱਲ\PSP ਚਲੇ\V_VM_VF ਗਏ\V_VM_VF |\RD_PUNC
+PBRED6542	ਉਧਰ\RB ਸਰਹਿੰਦ\N_NNP ਦੇ\PSP ਸੂਬੇਦਾਰ\N_NN ਵਜ਼ੀਰ\N_NN ਖਾਂ\N_NN ਦੀਆਂ\PSP ਫੌਜਾਂ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਪਿੱਛਾ\RB ਕਰਦੀਆਂ\V_VM_VF ਆ\V_VM ਰਹੀਆਂ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6543	ਰਸਤੇ\N_NN ਵਿਚੋਂ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਕਾਫਲੇ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਕਾਫੀ\RB ਸਿੰਘ\N_NN ਸ਼ਾਮਲ\N_NN ਹੋ\V_VAUX ਰਹੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6544	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀਨੇ\N_NNP ਤੋਂ\PSP ਜੈਤੋ\N_NNP ਹੁੰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਕੋਟਕਪੂਰੇ\N_NNP ਪੁੱਜੇ\V_VM_VF ,\RD_PUNC ਜਿਥੇ\RB ਉਹਨਾਂ\PR_PRP ਉਥੋਂ\RB ਦੇ\PSP ਹਾਕਮ\N_NN ਕਪੂਰੇ\N_NN ਤੋਂ\PSP ਕਿਲੇ\N_NN ਦੀ\PSP ਮੰਗ\V_VM ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBRED6545	ਮੁਗ਼ਲਾਂ\N_NN ਤੋਂ\PSP ਡਰਦਿਆਂ\N_NN ਕਪੂਰੇ\N_NN ਨੇ\PSP ਕਿਲਾ\N_NN ਤਾਂ\RP_RPD ਨਾ\RP_NEG ਦਿੱਤਾ\V_VM_VF ਪਰ\CC_CCD ਉਸ\PR_PRP ਨੇ\PSP ਗੁਰੁੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਸੰਘਣੀਆਂ\N_NN ਝਾੜੀਆਂ\N_NN ਵਾਲੇ\PSP ਰੇਤਲੇ\N_NN ਇਲਾਕੇ\N_NN (\RD_SYM ਖਿਦਰਾਣੇ\N_NNP ਦੀ\PSP ਢਾਬ\N_NNP )\RD_SYM ਵੱਲ\N_NN ਜਾਣ\V_VM_VF ਦੀ\PSP ਸਲਾਹ\N_NN ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBRED6546	ਵੱਡੇ\JJ ਫ਼ੌਜੀ\N_NN ਕੈਂਪ\N_NN ਦਾ\PSP ਭੁਲੇਖਾ\N_NN ਦੇਣ\V_VM_VF ਲਈ\PSP ਸਿੰਘ\N_NN ਝਾੜੀਆਂ\N_NN `\RD_PUNC ਤੇ\RB ਕੱਪੜੇ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਦੁਸ਼ਮਣ\N_NN ਦੀ\PSP ਉਡੀਕ\N_NN ਕਰਨ\V_VM_VF ਲੱਗੇ\V_VM_VF |\RD_PUNC
+PBRED6547	ਦੂਜੇ\QT_QTO ਪਾਸੇ\RB ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਬੇਦਾਵਾ\N_NN ਦੇਣ\V_VM_VF ਵਾਲੇ\PSP ਸਿੰਘ\N_NN ਜਦ\RB ਘਰੀਂ\N_NN ਪਹੁੰਚੇ\V_VM_VF ਤਾਂ\RP_RPD ਮਾਈ\N_NNP ਭਾਗੋ\N_NNP ਜੀ\N_NN ਤੇ\CC_CCD ਹੋਰ\DM_DMQ ਬੀਬੀਆਂ\N_NN ਨੇ\PSP ਉਨ੍ਹਾਂ\PR_PRP ਨੂੰ\PSP ਫਿਟਕਾਰਾਂ\N_NN ਪਾਈਆਂ\V_VM_VF ਅਤੇ\CC_CCD ਮੁੜ\RB ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਚਰਨੀਂ\N_NN ਲੱਗਣ\V_VM_VF ਦੀ\PSP ਸਲਾਹ\N_NN ਦਿੱਤੀ\V_VM_VF |\RD_PUNC
+PBRED6548	ਇਸ\DM_DMD ਦੇ\PSP ਨਾਲ\PSP ਹੀ\RP_RPD ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਗੁਰੂ\N_NN ਜੀ\N_NN ਦੇ\PSP ਪਰਿਵਾਰ\N_NN ਦੇ\PSP ਖੇਰੂੰ\RB -\RD_PUNC ਖੇਰੂੰ\RB ਹੋਣ\V_VM_VF ,\RD_PUNC ਸਾਹਿਬਜ਼ਾਦਿਆਂ\N_NN ਦੀ\PSP ਸ਼ਹੀਦੀ\N_NN ਅਤੇ\CC_CCD ਮੁਗ਼ਲ\N_NN ਫੌਜਾਂ\N_NN ਵੱਲੋਂ\PSP ਗੁਰੂ\N_NN ਜੀ\N_NN ਦਾ\PSP ਪਿੱਛਾ\RB ਕਰਨ\V_VM_VF ਦੀਆਂ\PSP ਖ਼ਬਰਾਂ\N_NN ਵੀ\RP_RPD ਮਿਲ\V_VM ਰਹੀਆਂ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6549	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਜ਼ਮੀਰ\N_NN ਨੇ\PSP ਹਲੂਣਾ\N_NN ਖਾਧਾ\V_VM_VF ਅਤੇ\CC_CCD ਔਖੀ\JJ ਘੜੀ\N_NN ਗੁਰੂ\N_NN ਜੀ\N_NN ਦਾ\PSP ਸਾਥ\N_NN ਛੱਡਣ\V_VM_VF ਦਾ\PSP ਅਹਿਸਾਸ\N_NN ਵੀ\RP_RPD ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਸਤਾਉਣ\N_NN ਲੱਗਾ\V_VM_VF |\RD_PUNC
+PBRED6550	ਮੁਗ਼ਲ\N_NN ਫੌਜਾਂ\N_NN ਦੇ\PSP ਖਿਦਰਾਣਾ\N_NNP ਪਹੁੰਚਣ\V_VM_VF ਤੋਂ\PSP ਐਨ\N_NN ਪਹਿਲਾਂ\RB ਮਾਝੇ\N_NN ਦੇ\PSP ਸਿੰਘਾਂ\N_NN ਦਾ\PSP ਇਹ\N_NN ਜਥਾ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਕੈਂਪ\N_NN ਦੇ\PSP ਨੇੜੇ\RB ਪਹੁੰਚ\V_VM ਚੁੱਕਾ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6551	ਮੁਗ਼ਲਾਂ\N_NN ਦੀ\PSP ਟੱਕਰ\N_NN ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਇਸੇ\DM_DMD ਜਥੇ\N_NN ਨਾਲ\PSP ਹੋਈ\V_VM_VF |\RD_PUNC
+PBRED6552	ਘਮਸਾਨ\N_NN ਦਾ\PSP ਯੁੱਧ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC ਉੱਚੀ\JJ ਟਿੱਬੀ\N_NN ਤੋਂ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਖੁਦ\PR_PRF ਤੀਰਾਂ\N_NN ਦੀ\PSP ਵਰਖਾ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6553	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਨਾਲ\PSP ਵਾਲੇ\N_NN ਸਿੰਘ\N_NN ਵੀ\RP_RPD ਮੈਦਾਨੇ\N_NN -\RD_PUNC ਜੰਗ\N_NN ਵਿਚ\PSP ਜੂਝ\V_VM ਕੇ\V_VM_VNF ਸ਼ਹੀਦੀਆਂ\N_NN ਪਾ\V_VM ਰਹੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6554	ਸਿੰਘ\N_NN ਅਜਿਹੀ\RB ਬਹਾਦਰੀ\JJ ਅਤੇ\CC_CCD ਜੋਸ਼\N_NN ਨਾਲ\PSP ਲੜੇ\V_VM_VF ਕਿ\CC_CCS ਦੁਸ਼ਮਣ\N_NN ਫੌਜਾਂ\N_NN ਵਿਚ\PSP ਖਲਬਲੀ\N_NN ਮਚ\N_NN ਗਈ\V_VM_VF |\RD_PUNC
+PBRED6555	ਦੁਸ਼ਮਣ\N_NN ਹਾਰ\N_NN ਖਾ\V_VM ਕੇ\V_VM_VNF ਭੱਜ\N_NN ਉੱਠੇ\V_VM_VF ਅਤੇ\CC_CCD ਖ਼ਾਲਸੇ\N_NN ਨੇ\PSP ਮੈਦਾਨ\N_NN ਫ਼ਤਹਿ\N_NN ਕਰ\V_VM ਲਿਆ\V_VM_VF |\RD_PUNC
+PBRED6556	ਪਰ\CC_CCD `\RD_PUNC ਬੇਦਾਵਾ\N_NN `\RD_PUNC ਦੇ\V_VM ਗਏ\V_VM_VF 40\QT_QTC ਸਿੰਘਾਂ\N_NN ਸਮੇਤ\DM_DMQ ਬਹੁਤ\DM_DMQ ਸਾਰੇ\DM_DMQ ਸਿੰਘ\N_NN ਬੜੀ\RB ਬਹਾਦਰੀ\JJ ਨਾਲ\PSP ਜੂਝਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਸ਼ਹੀਦੀ\N_NN ਪ੍ਰਾਪਤ\N_NN ਕਰ\V_VM ਗਏ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6557	ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਮੈਦਾਨੇ\N_NN -\RD_PUNC ਜੰਗ\N_NN ਵਿਚ\PSP ਪਈਆਂ\V_VM_VF ਸਿੰਘਾਂ\N_NN ਦੀਆਂ\PSP ਦੇਹਾਂ\N_NN ਨੂੰ\PSP ਪਿਆਰ\N_NN ਨਾਲ\PSP ਨਿਹਾਰਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਹਰ\DM_DMQ ਇਕ\QT_QTC ਸਿੰਘ\N_NN ਨੂੰ\PSP ਛਾਤੀ\N_NN ਨਾਲ\PSP ਲਗਾ\V_VM_VF ਕੇ\V_VM_VNF ਅਤਿਅੰਤ\RB ਸਨੇਹ\N_NN ਨਾਲ\PSP ਬਖਸ਼ਿਸ਼ਾਂ\N_NN ਕੀਤੀਆਂ\V_VM_VF |\RD_PUNC
+PBRED6558	ਜਦ\RB ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਭਾਈ\N_NN ਮਹਾਂ\N_NNP ਸਿੰਘ\N_NNP ਪਾਸ\RB ਪਹੁੰਚੇ\V_VM_VF ਤਾਂ\RP_RPD ਉਹ\PR_PRP ਸਹਿਕ\N_NN ਰਹੇ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6559	ਗੁਰਦੇਵ\N_NN ਨੇ\PSP ਸੀਸ\N_NN ਗੋਦ\N_NN ਵਿਚ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਮੁੱਖੜਾ\N_NN ਸਾਫ\JJ ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBRED6560	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਕਮਰਕੱਸੇ\N_NN `\RD_PUNC ਚੋਂ\PSP ਬੇਦਾਵੇ\N_NN ਵਾਲਾ\PSP ਕਾਗਜ਼\N_NN ਕੱਢਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਭਾਈ\N_NN ਮਹਾਂ\N_NNP ਸਿੰਘ\N_NNP ਦੇ\PSP ਸਾਹਮਣੇ\RB ਟੁਕੜੇ\N_NN -\RD_PUNC ਟੁਕੜੇ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBRED6561	ਸ਼ੁਕਰਾਨਾ\N_NN ਕਰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਭਾਈ\N_NN ਮਹਾਂ\N_NNP ਸਿੰਘ\N_NNP ਦਸਮੇਸ਼\N_NN ਪਿਤਾ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਗੋਦ\N_NN ਵਿਚ\PSP ਹੀ\RP_RPD ਸਵਾਸ\N_NN ਤਿਆਗ\V_VM ਗਏ\V_VM_VF |\RD_PUNC
+PBRED6562	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਸਮੂਹ\DM_DMQ ਸ਼ਹੀਦਾਂ\N_NN ਦਾ\PSP ਸਸਕਾਰ\N_NN ਆਪਣੇ\PR_PRF ਹੱਥੀਂ\N_NN ਕੀਤਾ\V_VM_VF ਅਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਮੁਕਤਿਆਂ\N_NN ਦੀ\PSP ਉਪਾਧੀ\N_NN ਬਖਸ਼ਿਸ਼\N_NN ਕੀਤੀ\V_VM_VF |\RD_PUNC
+PBRED6563	ਇਸ\DM_DMD ਤਰਾਂ\PSP ਸ਼ਹੀਦਾਂ\N_NN ਦੀ\PSP ਇਹ\PR_PRP ਧਰਤੀ\N_NN ,\RD_PUNC `\RD_PUNC ਖਿਦਰਾਣੇ\N_NNP ਦੀ\PSP ਢਾਬ\N_NNP `\RD_PUNC ਤੋਂ\PSP ਸ੍ਰੀ\N_NN ਮੁਕਤਸਰ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਜਾਣੀ\V_VM_VF ਜਾਣ\V_VM_VF ਲੱਗ\V_VM ਪਈ\V_VM_VF |\RD_PUNC
+PBRED6564	ਮੁਕਤਸਰ\N_NNP ਸਾਹਿਬ\N_NNP ਦਾ\PSP ਇਤਿਹਾਸ\N_NN ਅੱਜ\RB ਵੀ\RP_RPD ਸਾਨੂੰ\PR_PRP ਚਾਲੀ\QT_QTO ਮੁਕਤਿਆਂ\N_NN ਦੀ\PSP ਦੇਸ਼\N_NN ਤੇ\CC_CCD ਕੌਮ\N_NN ਪ੍ਰਤੀ\PSP ਆਪਾ\PR_PRF ਵਾਰਨ\V_VM_VF ਦੀ\PSP ਭਾਵਨਾ\N_NN ਨੂੰ\PSP ਦਿ੍ੜ੍\N_NN ਕਰਵਾਉਣ\V_VM_VF ਦੇ\PSP ਨਾਲ\RB -\RD_PUNC ਨਾਲ\RB ਇਹ\DM_DMD ਅਹਿਸਾਸ\N_NN ਵੀ\RP_RPD ਕਰਵਾਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6565	ਕਿ\CC_CCS ਗੁਰੂ\N_NN ਨੂੰ\PSP ਤਿਲਾਂਜਲੀ\N_NN ਦੇ\PSP ਦੁਨਿਆਵੀ\N_NN ਪਦਾਰਥਾਂ\N_NN ਵਿਚ\PSP ਗਲਤਾਨ\N_NN ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਅਸੀਂ\PR_PRP ਕਦੇ\RB ਵੀ\RP_RPD ਆਤਮਿਕ\N_NN ਤੌਰ\RB `\RD_PUNC ਤੇ\RB ਸੰਤੁਸ਼ਟ\N_NN ਨਹੀਂ\RP_NEG ਹੋ\V_VAUX ਸਕਦੇ\V_VM_VF |\RD_PUNC
+PBRED6566	ਸਦੀਵੀ\RB ਅਨੰਦ\N_NN ਤਾਂ\RP_RPD ਕੇਵਲ\RB ਗੁਰੂ\N_NN ਦੀ\PSP ਸ਼ਰਨ\N_NN ਵਿਚ\PSP ਜਾ\V_VM ਕੇ\V_VM_VNF ਗੁਰਮਤਿ\N_NN ਵਿਚਾਰਧਾਰਾ\N_NN ਅਨੁਸਾਰ\N_NN ਜੀਵਨ\N_NN ਜੀਉ\V_VM ਕੇ\V_VM_VNF ਹੀ\RP_RPD ਪ੍ਰਾਪਤ\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6567	ਜੰਗ\N_NN ਲੜਨ\V_VM_VF ਵਿਚ\PSP ਅਤੇ\CC_CCD ਦਸਵੇਂ\QT_QTO ਪਾਤਸ਼ਾਹ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਸਾਥ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਮਾਈ\N_NNP ਭਾਗੋ\N_NNP ਨੇ\PSP ਸਿੱਖ\N_NN ਇਤਿਹਾਸ\N_NN ਨੂੰ\PSP ਇਕ\QT_QTC ਨਵਾਂ\JJ ਹੀ\RP_RPD ਮੋੜ\N_NN ਦਿੱਤਾ\V_VM_VF |\RD_PUNC
+PBRED6568	ਸ੍ਰੀ\N_NN ਅਨੰਦਪੁਰ\N_NNP ਸਾਹਿਬ\N_NNP ਤੋਂ\PSP ਬੇਦਾਵਾ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਗਏ\V_VM_VF 40\QT_QTC ਮਝੈਲ\N_NN ਸਿੰਘਾਂ\N_NN ਨੂੰ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਅਤੇ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRP ਦੀ\PSP ਆਪ\PR_PRF ਅਗਵਾਈ\N_NN ਕਰਕੇ\V_VM_VF ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਭਾਲ\N_NN ਵਿਚ\PSP ਮਾਈ\N_NNP ਭਾਗੋ\N_NNP ਨੇ\PSP ਖਿਦਰਾਣੇ\N_NNP ਦੀ\PSP ਧਰਤੀ\N_NN (\RD_SYM ਹੁਣ\RB ਸ੍ਰੀ\N_NN ਮੁਕਤਸਰ\N_NNP ਸਾਹਿਬ\N_NNP )\RD_SYM ਦੇ\PSP ਜੰਗੇ\N_NN ਮੈਦਾਨ\N_NN ਵਿਚ\PSP ਦੁਸ਼ਮਣ\N_NN ਦੀਆਂ\PSP ਫ਼ੌਜਾਂ\N_NN ਦਾ\PSP ਮੁਕਾਬਲਾ\N_NN ਕੀਤਾ\V_VM_VF ਤੇ\CC_CCD ਜੰਗ\N_NN ਵਿਚ\PSP ਆਪ\PR_PRF ਜ਼ਖ਼ਮੀ\N_NN ਹੋ\V_VAUX ਗਏ\V_VM_VF |\RD_PUNC
+PBRED6569	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗੋਬਿੰਦ\N_NNP ਸਿੰਘ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਸਹਿਕਦੀ\V_VM_VF ਮਾਈ\N_NNP ਭਾਗੋ\N_NNP ਨੂੰ\PSP ਵੇਖਿਆ\V_VM_VF ਤਾਂ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਜ਼ਖਮ\N_NN ਸਾਫ਼\JJ ਕਰਕੇ\V_VM_VF ਮਰ੍ਹਮ\N_NN ਪੱਟੀ\N_NN ਕਰਕੇ\V_VM_VF ਉਸ\PR_PRP ਨੂੰ\PSP ਠੀਕ\JJ ਕੀਤਾ\V_VM_VF |\RD_PUNC
+PBRED6570	ਝਬਾਲ\N_NNP ਦੇ\PSP ਪੇਰੋ\N_NNP ਸ਼ਾਹ\N_NNP ਦੇ\PSP ਦੋ\QT_QTC ਪੁੱਤਰ\N_NN ਸਨ\V_VAUX |\RD_PUNC
+PBRED6571	ਮਾਲੇ\N_NNP ਸ਼ਾਹ\N_NNP ਅਤੇ\CC_CCD ਹਰੂ\N_NNP |\RD_PUNC
+PBRED6572	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸਿੱਖੀ\N_NN ਦਾ\PSP ਉਹਨਾਂ\PR_PRP `\RD_PUNC ਤੇ\RB ਕਾਫੀ\RB ਅਸਰ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBRED6573	ਮਾਲੇ\N_NNP ਸ਼ਾਹ\N_NNP ਦੇ\PSP ਘਰ\N_NN ਚਾਰ\QT_QTC ਪੁੱਤਰ\N_NN ਹੋਏ\V_VM_VF ,\RD_PUNC ਜੋ\PR_PRL ਬੜੇ\RB ਸੂਰਬੀਰ\JJ ਸਨ\V_VAUX |\RD_PUNC
+PBRED6574	ਇਹਨਾਂ\PR_PRP ਤੋਂ\PSP ਮਗਰੋਂ\RB ਉਸ\PR_PRP ਦੇ\PSP ਘਰ\N_NN ਇਕ\QT_QTC ਬੀਬੀ\N_NN ਨੇ\PSP ਜਨਮ\N_NN ਲਿਆ\V_VM_VF |\RD_PUNC
+PBRED6575	ਇਸ\DM_DMD ਦੇ\PSP ਪੈਦਾ\V_VM_VF ਹੋਣ\V_VM_VF ਮਗਰੋਂ\RB ਸਾਰਾ\QT_QTF ਪਰਿਵਾਰ\N_NN ਉਨਤੀ\JJ ਦੀ\PSP ਸਿਖਰ\JJ ਵੱਲ\N_NN ਜਾਣ\V_VM_VF ਲੱਗਾ\V_VM_VF |\RD_PUNC
+PBRED6576	ਸਾਰੇ\DM_DMQ ਜਣੇ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP `\RD_PUNC ਭਾਗ\N_NN ਭਰੀ\N_NN `\RD_PUNC ਕਹਿਣ\V_VM_VF ਲੱਗੇ\V_VM_VF ਪਰ\CC_CCD ਉਸ\PR_PRP ਦੀਆਂ\PSP ਸਹੇਲੀਆਂ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP `\RD_PUNC ਭਾਗੋ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਸੱਦਦੀਆਂ\V_VM_VF ਰਹੀਆਂ\V_VM_VF |\RD_PUNC
+PBRED6577	ਅਜੇ\RB ਭਾਗੋ\N_NNP ਸੱਤਾਂ\QT_QTC -\RD_PUNC ਅੱਠਾਂ\QT_QTC ਵਰਿਆਂ\N_NN ਦੀ\PSP ਹੀ\RP_RPD ਸੀ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੇ\PSP ਮਾਤਾ\N_NN ਜੀ\N_NN ਉਸ\PR_PRP ਨੂੰ\PSP ਸਤਿਗੁਰੂ\N_NN ਦੇ\PSP ਦਰਬਾਰ\N_NN ਲੈ\V_VM ਜਾਂਦੇ\V_VM_VF |\RD_PUNC
+PBRED6578	ਉਸ\PR_PRP ਵੇਲੇ\N_NN ਗੁਰਿਆਈ\N_NN ਦੀ\PSP ਗੱਦੀ\N_NN ਉੱਤੇ\RB ਸਾਹਿਬ\N_NN ਸ੍ਰੀ\N_NN ਹਰਿ\N_NNP ਰਾਏ\N_NNP ਜੀ\RP_INJ ਬਿਰਾਜਮਾਨ\V_VM_VF ਸਨ\V_VAUX |\RD_PUNC
+PBRED6579	ਉਸ\PR_PRP ਨਿੱਕੀ\JJ ਜਿਹੀ\RB ਲੜਕੀ\N_NN ਦੀ\PSP ਸ਼ਰਧਾ\N_NN ਤੇ\CC_CCD ਪਿਆਰ\N_NN ਦੇਖ\V_VM_VF ਕੇ\V_VM_VNF ਇਕ\QT_QTC ਦਿਨ\N_NN ਸੱਤਵੇਂ\QT_QTO ਪਾਤਸ਼ਾਹ\N_NN ਨੇ\PSP ਸਿਰ\N_NN `\RD_PUNC ਤੇ\RB ਪਿਆਰ\N_NN ਦਿੰਦਿਆਂ\V_VM_VF ਕਿਹਾ\V_VM_VF ਕਿ,\CC_CCS `\RD_PUNC ਇਹ\DM_DMD ਬੜੀ\RB ਸਿਦਕਵਾਨ\JJ ਤੇ\CC_CCD ਭਾਗਾਂ\N_NN ਵਾਲੀ\PSP ਹੋਵੇਗੀ\V_VM_VF ਤੇ\CC_CCD ਇਸ\PR_PRP ਦਾ\PSP ਨਾਂਅ\N_NN ਬੜਾ\RB ਉੱਘਾ\JJ ਹੋਵੇਗਾ\V_VM_VF |\RD_PUNC `\RD_PUNC
+PBRED6580	ਸਤਿਗੁਰਾਂ\N_NN ਤੋਂ\PSP ਇਹ\PR_PRP ਵਰ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ਮਾਤਾ\N_NN ਜੀ\N_NN ਬੜੇ\RB ਪ੍ਰਸੰਨ\N_NN ਹੋਏ\V_VM_VF ਤੇ\CC_CCD ਬੀਬੀ\N_NN ਨੂੰ\PSP ਸਤਿਗੁਰਾਂ\N_NN ਦੇ\PSP ਚਰਨਾਂ\N_NN ਨਾਲ\PSP ਹੀ\RP_RPD ਲਾਈ\V_VM_VF ਰੱਖਿਆ\V_VM_VF |\RD_PUNC
+PBRED6581	ਪੰਜਾਬੀ\N_NN ਭਾਸ਼ਾ\N_NN ,\RD_PUNC ਪੰਜਾਬ\N_NN ਵਾਸੀ\N_NN ,\RD_PUNC ਸਾਰੇ\DM_DMQ ਹਿੰਦੂ\N_NN ,\RD_PUNC ਸਿੱਖਾਂ\N_NN ,\RD_PUNC ਮੁਸਲਮਾਨਾਂ\N_NN ਅਤੇ\CC_CCD ਇਸਾਈਆਂ\N_NN ਆਦਿ\RP_CL ਦੀ\PSP ਭਾਸ਼ਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6582	ਭਾਰਤ\N_NN ਦੀ\PSP ਸੂਬਾ\N_NN ਬੰਦੀ\N_NN ਕਰਦਿਆਂ\V_VM_VNF ਹੋਇਆਂ\V_VM_VF 1947\QT_QTC ਤੋਂ\PSP ਬਾਅਦ\RB ਇਸ\PR_PRP ਨੂੰ\PSP ਬਦਕਿਸਮਤੀ\N_NN ਨਾਲ\PSP ਕੇਵਲ\RB ਸਿੱਖਾਂ\N_NN ਦੇ\PSP ਨਾਂਅ\N_NN ਨਾਲ\PSP ਜੋੜ\N_NN ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBRED6583	ਰਾਜਨੀਤੀ\N_NN ਦੇ\PSP ਖਿਡਾਰੀ\N_NN ਅੱਜ\RB ਤੱਕ\PSP ਇਸ\DM_DMD ਖੇਡ\N_NN ਦਾ\PSP ਲਾਭ\JJ ਉਠਾਉਂਦੇ\V_VM_VF ਆ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6584	ਫਿਰ\RB ਵੀ\RP_RPD ਇਹ\DM_DMD ਸਹਿਜੇ\N_NN ਹੀ\RP_RPD ਕਿਹਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਵੈਦਿਕ\N_NN ਸਾਹਿਤ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਸੰਨ\N_NN 1604\QT_QTC ਵਿਚ\PSP ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\N_NN ਦੁਆਰਾ\PSP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦਾ\PSP ਸੰਕਲਨ-ਸੰਪਾਦਨ\N_NN ਪੰਜਾਬ\N_NN ਦੀ\PSP ,\RD_PUNC ਭਾਰਤੀ\N_NN ਤੱਤ\N_NN ਚਿੰਤਨ\N_NN ਨੂੰ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਵੱਡੀ\JJ ਦੇਣ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6585	ਬਾਅਦ\RB ਦਾ\PSP ਸਾਹਿਤ\N_NN ਕਿਸੇ\DM_DMQ ਨਾ\RP_NEG ਕਿਸੇ\DM_DMQ ਰੂਪ\N_NN ਵਿਚ\PSP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਬਾਣੀਕਾਰਾਂ\N_NN ਤੋਂ\PSP ਪ੍ਰਭਾਵਿਤ\N_NN ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6586	ਇਸ\DM_DMD ਲਈ\PSP ਪੰਜਾਬ\N_NN ਦੇ\PSP ਭਗਤੀ\N_NN ਤੱਤ\N_NN ਦੀ\PSP ਪੜਚੋਲ\N_NN ਲਈ\PSP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ,\RD_PUNC ਸ੍ਰੀ\N_NNP ਦਸਮ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ,\RD_PUNC ਵਾਰਾਂ\N_NNP ਭਾਈ\N_NNP ਗੁਰਦਾਸ\N_NNP ਨੂੰ\PSP ਮੁੱਖ\N_NN ਆਧਾਰ\N_NN ਵਜੋਂ\PSP ਸਹਿਜੇ\N_NN ਹੀ\RP_RPD ਅਪਣਾਇਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6587	ਅਤੇ\CC_CCD ਵਿਸ਼ੇਸ਼\N_NN ਕਰਕੇ\V_VM_VF ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਸਿਧਾਂਤਾਂ\N_NN ਤੋਂ\PSP ਪ੍ਰਗਟ\N_NN ਹੋਈ\V_VM_VF ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਦੇ\PSP ਸੰਦਰਭ\N_NN ਵਿਚ\PSP ਭਗਤੀ\N_NN ਭਾਵਨਾ\N_NN ਦੇ\PSP ਸਰੂਪ\N_NN ਨੂੰ\PSP ਸਮਝਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6588	ਇਸ\DM_DMD ਸਚਾਈ\N_NN ਤੋਂ\PSP ਇਨਕਾਰੀ\N_NN ਨਹੀਂ\RP_NEG ਹੋਇਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਕਿ\CC_CCS ਜਿਸ\PR_PRL ਤਰ੍ਹਾਂ\PSP ਸਾਡਾ\PR_PRP ਸੂਰਜ\N_NN ਸਾਡੀ\PR_PRP ਧਰਤੀ\N_NN ਸਮੇਤ\DM_DMQ ਹੋਰ\DM_DMQ ਗ੍ਰਹਿਆਂ\N_NN ਦਾ\PSP ਕੇਂਦਰ\N_NN -\RD_PUNC ਬਿੰਦੂ\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6589	ਉਸੇ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਮਨੁੱਖ\N_NN ਇਸ\DM_DMD ਧਰਤੀ\N_NN ਦੀ\PSP ਅੰਡਜ\N_NN ,\RD_PUNC ਜੇਰਜ\N_NN ,\RD_PUNC ਸਵੇਦਜ\N_NN ਅਤੇ\CC_CCD ਉਤਭੁਜ\N_NN ਸ੍ਰਿਸ਼ਟੀ\N_NN ਦਾ\PSP ਕੇਂਦਰ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਸਰਬਉੱਚ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6590	ਮਨੁੱਖ\N_NN ਨੇ\PSP ਵਿਕਾਸ\N_NN ਦੇ\PSP ਅਨੇਕਾਂ\QT_QTF ਪੜਾਅ\N_NN ਪਾਰ\N_NN ਕੀਤੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBRED6591	ਅਤੇ\CC_CCD ਹਰ\DM_DMQ ਪੜਾਅ\N_NN `\RD_PUNC ਤੇ\RB ਉਸ\PR_PRP ਨੇ\PSP ਦੇਖਿਆ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕੋਈ\DM_DMQ ਅਦ੍ਰਿਸ਼ਟ\N_NN ਸ਼ਕਤੀ\N_NN ਜਿਥੇ\RB ਉਸ\PR_PRP ਦੇ\PSP ਲਈ\PSP ਸਦਾ\RB ਚੁਣੌਤੀ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਵਿਦਮਾਨ\N_NN ਰਹੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6592	ਉਥੇ\RB ਨਾਲ\RB ਹੀ\RP_RPD ਨਾਲ\RB ਉਹ\PR_PRP ਸ਼ਕਤੀ\N_NN ਉਸ\PR_PRP ਦੇ\PSP ਆਪਣੇ\PR_PRF ਅੰਦਰ\N_NN ਵੀ\RP_RPD ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਨੂੰ\PSP ਵਿਕਾਸ\N_NN ਦੀਆਂ\N_NN ਨਵੀਆਂ\N_NN ਮੰਜ਼ਿਲਾਂ\N_NN ਵੱਲ\N_NN ਵਧਣ\N_NN ਲਈ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਦੇਣ\V_VM_VF ਵਾਲੀ\PSP ਵੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6593	ਵਿਅਕਤੀ\N_NN ਦਾ\PSP ਕਾਰਜਸ਼ੀਲ\N_NN ਬਣੇ\V_VM_VF ਰਹਿਣਾ\V_VM_VNF ਤਾਂ\RP_RPD ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਵਿਚ\PSP ਪਹਿਲ\RB ਰੂਪ\N_NN ਵਿਚ\PSP ਵੇਖਿਆ\V_VM_VF ,\RD_PUNC ਸਮਝਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6594	ਪਰ\CC_CCD ਕਾਰਜਸ਼ੀਲਤਾ\N_NN ਦੀ\PSP ਹਉਮੈ\N_NN ਨੂੰ\PSP ਮਨ\N_NN ਵਿਚ\PSP ਨਾ\RP_NEG ਆਉਣ\V_VM_VF ਦੇਣਾ\V_VM_VF ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਦੀ\PSP ਜੀਵਨ\N_NN ਜੁਗਤ\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6595	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਸਿੱਖ\N_NN ਭਗਤੀ\N_NN ਵੀ\RP_RPD ਕਿਹਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6596	ਵਿਹਾਰਕ\N_NN ਜੀਵਨ\N_NN ਕਿਵੇਂ\PR_PRQ ਉਸ\PR_PRP ਅਨੰਤ\JJ ਸੁਹਜ\JJ -\RD_PUNC ਸਰੋਤ\N_NN ਦਾ\PSP ਤਰੋਤਾਜ਼ਾ\JJ ਭਾਗ\N_NN ਬਣ\V_VM_VF ਸਕੇ\V_VM_VF ,\RD_PUNC
+PBRED6597	ਇਹੋ\DM_DMD ਸਿੱਖ\N_NN ਭਗਤੀ\N_NN ਦਾ\PSP ਮੁੱਖ\N_NN ਉਦੇਸ਼\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6598	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਪੂਰਾ\N_NN ਕਰਨ\N_NN ਲਈ\PSP ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਸਦਾ\RB ਯਤਨਸ਼ੀਲ\N_NN ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6599	ਇਸੇ\DM_DMD ਲਈ\PSP ਇਸ\DM_DMD ਵਿਚ\PSP ਸੱਚ\JJ ਨੂੰ\PSP ਸਰਬਉੱਚ\N_NN ਹਸਤੀ\N_NN ਮੰਨਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਵੀ\RP_RPD ਸੱਚ\JJ ਉੱਤੇ\RB ਆਚਰਣ\N_NN ਕਰਨ\V_VM_VF ਨੂੰ\PSP ਅਰਥਾਤ\N_NN ਸੱਚਿਆਰ\N_NN ਬਣਨ\N_NN ਨੂੰ\PSP ਸੱਚ\JJ ਤੋਂ\PSP ਵੀ\RP_RPD ਸ੍ਰੇਸ਼ਠ\JJ ਮੰਨਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX -\RD_PUNC
+PBRED6600	ਸਚਹੁ\JJ ਓਰੈ\V_VM_VF ਸਭ\DM_DMQ ਕੋ\PSP ਉਪਰਿ\N_NN ਸਚੁ\JJ ਆਚਾਰ\N_NN ॥\RD_PUNC
+PBRED6601	12\QT_QTO ਵੀਂ\RP_RPD ਅਤੇ\CC_CCD 13\QT_QTC ਵੀਂ\RP_RPD ਸਦੀ\N_NN ਦਾ\PSP ਭਗਤੀ\N_NN ਸਾਹਿਤ\N_NN ਆਉਣ\V_VM_VF ਵਾਲੀਆਂ\PSP ਤਿੰਨ\QT_QTC ਸਦੀਆਂ\N_NN ਦੇ\PSP ਭਗਤੀ\N_NN ਕਾਵਿ\N_NN ਦੀ\PSP ਆਧਾਰਸ਼ਿਲਾ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਮੰਨਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6602	ਆਰੀਆ\N_NNP ਦੇ\PSP ਭਾਰਤ\N_NNP ਆਗਮਨ\N_NN ਦੇ\PSP ਸਮੇਂ\N_NN ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਬਾਹਰੀ\N_NN ਤੱਤਾਂ\N_NN ਦੇ\PSP ਭਾਰਤ\N_NN ਪ੍ਰਵੇਸ਼\N_NN ਦਾ\PSP ਕੁਦਰਤੀ\N_NN ਦਰਵਾਜ਼ਾ\N_NN ਪੰਜਾਬ\N_NNP ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6603	ਜਿਥੇ\RB ਇਕ\QT_QTO ਪਾਸੇ\N_NN ਇਥੇ\RB ਅਨੇਕਾਂ\DM_DMQ ਰਾਜਨੀਤਕ\N_NN ਅਤੇ\CC_CCD ਭੂਗੋਲਿਕ\N_NN ਸਮੀਕਰਣ\N_NN ਬਣਦੇ\V_VM_VF -\RD_PUNC ਵਿਗੜਦੇ\V_VM_VF ਰਹੇ\V_VM_VF ,\RD_PUNC
+PBRED6604	ਉਥੇ\RB ਨਾਲ\RB ਹੀ\RP_RPD ਨਾਲ\RB ਸੱਭਿਆਚਾਰਕ\N_NN ਉਥਲ\N_NN -\RD_PUNC ਪੁਥਲ\N_NN ਵੀ\RP_RPD ਇਥੇ\RB ਸਦਾ\RB ਹੁੰਦੀ\V_VM_VF ਰਹੀ\V_VM_VF ,\RD_PUNC
+PBRED6605	ਅਤੇ\CC_CCD ਇਹ\DM_DMD ਕੋਈ\DM_DMQ ਅਸਚਰਜ\N_NN ਨਹੀਂ\RP_NEG ਕਿ\CC_CCS ਉਸ\PR_PRP ਪਰਮਹਸਤੀ\N_NN ਪ੍ਰਤੀ\PSP ਸਮਰਪਿਤ\N_NN ਹੋਣ\V_VM_VF ਲਈ\PSP ਭਾਰਤ\N_NN ਭਰ\N_NN ਵਿਚ\PSP ਜਾਂ\CC_CCD ਘੱਟੋ\RB -\RD_PUNC ਘੱਟ\RB ਉੱਤਰੀ\N_NN ਭਾਰਤ\N_NN ਵਿਚ\PSP ਜਿਹੜੇ\PR_PRL `\RD_PUNC ਮਾਡਲ\N_NN `\RD_PUNC ਅੱਜ\RB ਵੀ\RP_RPD ਕੰਮ\N_NN ਕਰ\V_VM ਰਹੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC
+PBRED6606	ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਵੱਡ\RB -\RD_PUNC ਵਡੇਰਾ\RB ਪੰਜਾਬ\N_NNP ਹੀ\RP_RPD ਰਿਹਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6607	ਇਹ\DM_DMD ਵੀ\RP_RPD ਇਕ\QT_QTC ਹਕੀਕਤ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਇਥੋਂ\RB ਦੇ\PSP ਸਮਾਜਿਕ\N_NN -\RD_PUNC ਧਾਰਮਿਕ\N_NN ਜੀਵਨ\N_NN ਵਿਚ\PSP ਤਬਦੀਲੀਆਂ\N_NN ਸਮੇਂ\N_NN ਦੀ\PSP ਤੇਜ਼\JJ ਚਾਲ\N_NN ਦੇ\PSP ਉਤਰਾਅ\N_NN -\RD_PUNC ਚੜ੍ਹਾਵਾਂ\N_NN ਦੇ\PSP ਫਲਸਰੂਪ\PSP ਬਹੁਤ\RB ਤੇਜ਼ੀ\RB ਨਾਲ\PSP ਆਉਂਦੀਆਂ\V_VM_VF ਰਹੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6608	ਜਦੋਂ\PR_PRL ਕਿ\CC_CCS ਭਾਰਤ\N_NNP ਦੇ\PSP ਦੂਜੇ\QT_QTO ਭਾਗ\N_NN ਇਹਨਾਂ\PR_PRP ਤੋਂ\PSP ਅਛੋਹ\N_NN ਹੀ\RP_RPD ਰਹੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6609	ਨਤੀਜੇ\N_NN ਵਜੋਂ\PSP ਜਿਥੇ\RB ਪੰਜਾਬ\N_NNP ਨੇ\PSP ਪਰੰਪਰਾਵਾਂ\N_NN ਨੂੰ\PSP ਤੋੜਨ\V_VM_VF ਅਤੇ\CC_CCD ਨਵੇਂ\JJ ਹਾਲਾਤ\N_NN ਦੇ\PSP ਅਨੁਸਾਰ\N_NN ਆਪਣੇ\PR_PRF -\RD_PUNC ਆਪ\PR_PRF ਨੂੰ\PSP ਤਤਕਾਲ\RB ਢਾਲ\V_VM_VF ਲੈਣ\V_VM_VF ਵਿਚ\PSP ਦੂਰਅੰਦੇਸ਼ੀ\JJ ਵਿਖਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6610	ਉਥੇ\RB ਭਾਰਤ\N_NNP ਦੇ\PSP ਦੂਜੇ\QT_QTO ਹਿੱਸੇ\N_NN ਪਰੰਪਰਾਵਾਦੀ\N_NN ਬਣੇ\V_VM_VF ਰਹਿਣ\V_VM_VF ਵਿਚ\PSP ਵੀ\RP_RPD ਕੁਸ਼ਲ\JJ -\RD_PUNC ਮੰਗਲ\N_NN ਦੇਖਣ\V_VM_VF ਦੇ\PSP ਆਦੀ\N_NN ਹੋ\V_VAUX ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6611	ਸ਼ਾਇਦ\RB ਇਹੋ\DM_DMD ਕਾਰਨ\N_NN ਹੈ\V_VAUX ਕਿ\CC_CCS ਪੰਜਾਬ\N_NNP ਵਾਸੀ\N_NN ਨੂੰ\PSP ਭਾਰਤ\N_NNP ਭਰ\N_NN ਵਿਚ\PSP ਕਿਤੇ\RB ਵੀ\RP_RPD ਵਸਣ\V_VM_VF -\RD_PUNC ਰਸਣ\V_VM_VF ਵਿਚ\PSP ਕੋਈ\DM_DMQ ਵੀ\RP_RPD ਸੰਕੋਚ\N_NN ਨਹੀਂ\RP_NEG ਹੁੰਦਾ\V_VM_VF ,\RD_PUNC
+PBRED6612	ਪਰ\CC_CCD ਪੰਜਾਬੋਂ\N_NNP ਬਾਹਰ\RB ਤੋਂ\PSP ਆਏ\V_VM_VF ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਪੰਜਾਬ\N_NNP ਵਿਚ\PSP ਸਥਾਪਿਤ\N_NN ਹੁੰਦੇ\V_VM_VF ਘੱਟ\JJ ਹੀ\RP_RPD ਦੇਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6613	ਫਿਲਹਾਲ\N_NN ਇਥੇ\RB ਏਨਾ\RB ਹੀ\RP_RPD ਕਹਿਣਾ\V_VM_VNF ਕਾਫੀ\RB ਹੈ\V_VAUX ਕਿ\CC_CCS ਪੰਜਾਬ\N_NNP ਵਾਸੀ\N_NN ਅਤੇ\CC_CCD ਖਾਸ\N_NN ਕਰਕੇ\V_VM_VF ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਸਾਰੇ\DM_DMQ ਭਾਰਤ\N_NNP ਵਾਸੀਆਂ\N_NN ਨਾਲੋਂ\PSP ਭਿੰਨ\RB ਤਾਂ\RP_RPD ਹੈ\V_VAUX ਪਰ\CC_CCD ਭਾਰਤ\N_NNP ਦੀ\PSP ਮਿੱਟੀ\N_NN ਤੋਂ\PSP ਇਹ\DM_DMD ਵਿਛਿੰਨ\JJ ਜਾਂ\CC_CCD ਟੁੱਟਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6614	ਸਗੋਂ\CC_CCD ਪੰਜਾਬ\N_NNP ਨੂੰ\PSP ਸਾਰੇ\DM_DMQ ਭਾਰਤ\N_NNP ਦੀ\PSP ਜੜ੍ਹ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਦੇਖਿਆ\V_VM_VF ,\RD_PUNC ਸਮਝਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6615	ਕੀ\PR_PRQ ਇਹੋ\DM_DMD ਕਾਰਨ\N_NN ਨਹੀਂ\RP_NEG ਹੈ\V_VAUX ਕਿ\CC_CCS ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਅਤੇ\CC_CCD ਹੋਰ\DM_DMQ ਗੁਰੂ\N_NN ਸਾਹਿਬਾਨ\N_NN ਅਤੇ\CC_CCD ਖਾਸ\N_NN ਕਰਕੇ\N_NN ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP ਸੰਪਾਦਕ\N_NN ਪੰਜਵੇਂ\QT_QTO ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਭਾਰਤ\N_NNP ਭਰ\N_NN ਵਿਚ\PSP ਖਿਲਰੀਆਂ\V_VM_VF ਪਈਆਂ\V_VM_VF ,\RD_PUNC ਸੰਤਾਂ-ਭਗਤਾਂ\N_NN ਦੀਆਂ\N_NN ਬਾਣੀਆਂ\N_NN ਦੀ\PSP ਜੜ੍ਹ\N_NN ਵਿਚ\PSP ਪੰਜਾਬ\N_NNP ਨੂੰ\PSP ਦੇਖਿਆ,\V_VM_VF
+PBRED6616	ਸੰਤਾਂ\N_NN -\RD_PUNC ਭਗਤਾਂ\N_NN ਦੀਆਂ\PSP ਬਾਣੀਆਂ\N_NN ਦੀ\PSP ਜੜ੍ਹ\N_NN ਵਿਚ\PSP ਪੰਜਾਬ\N_NNP ਨੂੰ\PSP ਦੇਖਿਆ\V_VM_VF ,\RD_PUNC
+PBRED6617	ਪੰਜਾਬ\N_NNP ਦੇ\PSP ਚਿੰਤਨ\N_NN ਨੂੰ\PSP ਦੇਖਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਆਪਣੀ\PR_PRF ਵਿਚਾਰਧਾਰਾ\N_NN ਦੇ\PSP ਅਨੁਰੂਪ\N_NN ਅਨੁਭਵ\N_NN ਕੀਤਾ\V_VM_VF ਅਤੇ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRP ਬਾਣੀਆਂ\N_NN ਨੂੰ\PSP ਇਕੱਤਰ\JJ ਕਰਕੇ\V_VM_VF ਇਕ\QT_QTC ਅਖਿਲ\N_NN ਭਾਰਤੀ\N_NN ਧਰਮ\N_NN ਗ੍ਰੰਥ\N_NN ਮਨੁੱਖਤਾ\N_NN ਮਾਤਰ\N_NN ਨੂੰ\PSP ਸੰਪਾਦਿਤ\N_NN ਕਰਕੇ\V_VM_VF ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6618	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਵਿਚ\PSP ਬੰਗਾਲ\N_NNP ਦੇ\PSP ਜੇਦੈਵ\N_NNP ,\RD_PUNC ਮਹਾਂਰਾਸ਼ਟਰ\N_NNP ਦੇ\PSP ਤ੍ਰਿਲੋਚਨ\N_NNP ,\RD_PUNC ਨਾਮਦੇਵ\N_NNP ,\RD_PUNC ਬਨਾਰਸ\N_NNP ਦੇ\PSP ਕਬੀਰ\N_NNP ,\RD_PUNC ਰਵਿਦਾਸ\N_NNP ,\RD_PUNC ਰਾਮਾਨੰਦ\N_NNP ,\RD_PUNC ਸਿੰਧ\N_NNP ਦੇ\PSP ਸਧਨਾ\N_NNP ,\RD_PUNC ਰਾਜਸਥਾਨ\N_NNP ਦੇ\PSP ਧੰਨਾ\N_NNP ਭਗਤ\N_NN ,\RD_PUNC ਉੱਤਰ\N_NNP -\RD_PUNC ਪੱਛਮੀ\N_NN ਭਾਰਤ\N_NN ਦੇ\PSP ਸ਼ੇਖ\N_NNP ਫਰੀਦ\N_NNP ,\RD_PUNC ਕਾਕੋਰੀ\N_NNP (\RD_SYM ਲਖਨਊ\N_NNP )\RD_SYM ਦੇ\PSP ਸ਼ੇਖ\N_NNP ਭੀਖਨ\N_NNP ਅਤੇ\CC_CCD ਅਜਿਹੇ\RB ਹੋਰ\DM_DMQ ਕਈਆਂ\DM_DMQ ਨੂੰ\PSP ਜੋ\PR_PRL ਸਥਾਨ\N_NN ਮਿਲਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6619	ਮਹਾਂਰਾਸ਼ਟਰ\N_NNP ਦੇ\PSP ਤ੍ਰਿਲੋਚਨ\N_NNP ,\RD_PUNC ਨਾਮਦੇਵ\N_NNP ,\RD_PUNC ਬਨਾਰਸ\N_NNP ਦੇ\PSP ਕਬੀਰ\N_NNP ,\RD_PUNC ਰਵਿਦਾਸ\N_NNP ,\RD_PUNC ਰਾਮਾਨੰਦ\N_NNP ,\RD_PUNC ਸਿੰਧ\N_NNP ਦੇ\PSP ਸਧਨਾ,\N_NNP ਰਾਜਸਥਾਨ\N_NNP ਦੇ\PSP ਧੰਨਾ\N_NNP ਭਗਤ\N_NN ,\RD_PUNC ਉੱਤਰ\N_NNP -\RD_PUNC ਪੱਛਮੀ\N_NNP ਭਾਰਤ\N_NNP ਦੇ\PSP ਸ਼ੇਖ\N_NNP ਫਰੀਦ\N_NNP ,\RD_PUNC ਕਾਕੋਰੀ\N_NNP (\RD_SYM ਲਖਨਊ\N_NNP )\RD_SYM ਦੇ\PSP ਸ਼ੇਖ\N_NNP ਭੀਖਨ\N_NNP ਅਤੇ\CC_CCD ਅਜਿਹੇ\RB ਹੋਰ\DM_DMQ ਕਈਆਂ\DM_DMQ ਨੂੰ\PSP ਜੋ\PR_PRL ਸਥਾਨ\N_NN ਮਿਲਿਆ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6620	ਉਸ\PR_PRP ਦਾ\PSP ਕਾਰਨ\N_NN ਕੋਈ\N_NN ਮਾਮੂਲੀ\N_NN ਨਾ\RP_NEG ਹੋ\V_VAUX ਕੇ\N_NN ਸਗੋਂ\CC_CCD ਸੰਪੂਰਨ\JJ ਭਾਰਤ\N_NNP ਦੀ\PSP ਮੱਧਕਾਲੀ\N_NN ਸੱਭਿਆਚਾਰਕ\N_NN -\RD_PUNC ਧਾਰਮਿਕ\N_NN ਵਿਰਾਸਤ\N_NN ਦੀ\PSP ਜੜ੍ਹ\N_NN ਵਿਚ\PSP ਪੰਜਾਬ\N_NNP ਨੂੰ\PSP ਮੂਲ\N_NN ਰੂਪ\N_NN ਵਿਚ\PSP ਦੇਖਿਆ\V_VM_VF ਜਾਣਾ\V_VM_VNF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6621	ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਅਥਵਾ\CC_CCD ਗੁਰਬਾਣੀ\N_NN ਵਿਚ\PSP ਭਗਤੀ\N_NN ਦੇ\PSP ਸਰੂਪ\N_NN ਨੂੰ\PSP ਸਮਝਣ\V_VM_VF ਲਈ\PSP ਪਹਿਲਾਂ\RB ਇਹ\DM_DMD ਜਾਣ\V_VM_VF ਲੈਣਾ\V_VM_VNF ਅਯੋਗ\JJ ਨਹੀਂ\RP_NEG ਹੋਵੇਗਾ\V_VM_VF ਕਿ\CC_CCS ਜਿਸ\PR_PRL ਪਰਮਾਤਮਾ\N_NN ਨੂੰ\PSP ਇਹ\DM_DMD ਭਗਤੀ\N_NN ਸਮਰਪਿਤ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਪਰਮਾਤਮਾ\N_NN ਦਾ\PSP ਸਰੂਪ\N_NN ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦਾ\PSP ਵਿਅਕਤੀ\N_NN ਨਾਲ\PSP ਸਬੰਧ\N_NN ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਅਨੁਸਾਰ\N_NN ਕੀ\PR_PRQ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6622	ਉਸ\PR_PRP ਪਰਮਾਤਮਾ\N_NN ਦਾ\PSP ਸਰੂਪ\N_NN ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦਾ\PSP ਵਿਅਕਤੀ\N_NN ਨਾਲ\PSP ਸਬੰਧ\N_NN ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਅਨੁਸਾਰ\N_NN ਕੀ\PR_PRQ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6623	ਗੁਰੂ\N_NN ਸਾਹਿਬਾਨ\N_NN ਦਾ\PSP ਬ੍ਰਹਮ\N_NN ਨਾਮਰੂਪ\N_NN ਵਿਚ\PSP ਮਾਲਾ\N_NN ਦੇ\PSP ਧਾਗੇ\N_NN ਦੀ\PSP ਤਰ੍ਹਾਂ\PSP ਸਾਰੇ\DM_DMQ ਜੀਵਰੂਪੀ\N_NN ਮਣਕਿਆਂ\N_NN ਵਿਚ\PSP ਸਮਾਇਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਵੀ\RP_RPD ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6624	ਅਤੇ\CC_CCD ਉਨ੍ਹਾਂ\PR_PRL ਦਾ\PSP ਮੂਲ\N_NN ਆਧਾਰ\N_NN ਵੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6625	ਹਾਂ\RP_INJ ,\RD_PUNC ਉਹ\PR_PRP ਹੈ\V_VAUX ਕੇਵਲ\RB ਇਕ\QT_QTC ਅਤੇ\CC_CCD ਕੇਵਲ\RB ਇਕ\QT_QTC ਹੀ\RP_RPD -\RD_PUNC
+PBRED6626	ਗਹਿਰ\JJ ਗੰਭੀਰੁ\JJ ਅਥਾਹੁ\JJ ਅਪਾਰੁ\JJ ਅਗਣਤੁ\JJ ਤੂੰ\PR_PRP ॥\RD_PUNC
+PBRED6627	ਨਾਨਕ\N_NNP ਵਰਤੈ\V_VM_VF ਇਕੁ\QT_QTC ਇਕੋ\RB ਇਕੁ\RB ਤੂੰ\PR_PRP ॥\RD_PUNC
+PBRED6628	ਸਮੁੱਚੇ\RB ਰੂਪ\N_NN ਵਿਚ\PSP ਗੁਰਬਾਣੀ\N_NN ਦਾ\PSP ਬ੍ਰਹਮ\N_NN ਨਿਰਗੁਣ\JJ ਅਰਥਾਤ\N_NN ਸਾਰੇ\DM_DMQ ਗੁਣਾਂ\N_NN ਤੋਂ\PSP ਵੀ\RP_RPD ਪਰੇ\RB ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6629	ਪਰ\CC_CCD ਇਹ\DM_DMD ਵੇਦਾਂਤ\N_NNP ਦਾ\PSP ਤਟਸਥ\N_NN ਬ੍ਰਹਮ\N_NN ਨਹੀਂ\RP_NEG ,\RD_PUNC ਜਿਸ\PR_PRL ਦਾ\PSP ਸੰਸਾਰ\N_NN ਦੇ\PSP ਦੁੱਖ\JJ -\RD_PUNC ਸੁੱਖ\JJ ਨਾਲ\PSP ਕੋਈ\DM_DMQ ਸਬੰਧ\N_NN ਹੀ\RP_RPD ਨਾ\RP_NEG ਹੋਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6630	ਆਪਣੀ\PR_PRF ਰਚਨਾ\N_NN ਮਨੁੱਖ\N_NN ਦੀ\PSP ਬੇਵਸੀ\JJ ਦੇ\PSP ਪਲਾਂ\N_NN ਵਿਚ\PSP ਇਹ\DM_DMD ਉਸ\PR_PRP ਨੂੰ\PSP ਮਾਤਾ\N_NN -\RD_PUNC ਪਿਤਾ\N_NN ,\RD_PUNC ਭਰਾਤਾ\N_NN ,\RD_PUNC ਪਾਲਕ\N_NN ,\RD_PUNC ਰੱਖਿਅਕ\N_NN ਰੂਪ\N_NN ਵਿਚ\PSP ਨਜ਼ਰ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਸ਼ੁੱਭ\JJ ਕਰਮਾਂ\N_NN ਲਈ\PSP ਜੂਝਣ\V_VM_VF ਦੀ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਦੇਣ\V_VM_VF ਵਾਲਾ\PSP ਵੀ\RP_RPD ਇਹ\PR_PRP ਹੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6631	ਉਂਜ\RB ਮਾਨਵੀ\N_NN ਸੰਵੇਦਨਾਵਾਂ\N_NN ਨੂੰ\PSP ਦ੍ਰਿਸ਼ਟੀ\N_NN ਵਿਚ\PSP ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਬ੍ਰਹਮ\N_NN ਦੇ\PSP ਅਨੇਕਾਂ\QT_QTF ਕਿਰਤਮ\N_NN ਨਾਮਾਂ\N_NN ਦੀ\PSP ਕਲਪਨਾ\N_NN ਕੀਤੀ\V_VM_VF ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6632	ਪਰ\CC_CCD ਜੇਕਰ\CC_CCS ਵਿਹਾਰਕ\N_NN ਅਰਥਾਂ\N_NN ਵਿਚ\PSP ਬ੍ਰਹਮ\N_NN ਨੂੰ\PSP ਕੋਈ\DM_DMQ ਨਾਂਅ\N_NN ਦੇਣਾ\V_VM_VF ਜ਼ਰੂਰੀ\N_NN ਹੀ\RP_RPD ਹੋਵੇ\V_VM_VF ਤਾਂ\RP_RPD ਇਸ\PR_PRP ਦਾ\PSP ਨਾਂਅ\N_NN ਗੁਰਬਾਣੀ\N_NN ਅਨੁਸਾਰ\N_NN `\RD_PUNC ਸਤਿ\JJ `\RD_PUNC ਹੀ\RP_RPD ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6633	ਜਿਹੜਾ\PR_PRL ਆਦਿ\JJ ਜੁਗਾਦਿ\JJ ਵਿਚ\PSP ਵੀ\RP_RPD ਸੀ\V_VAUX ਅਤੇ\CC_CCD ਜਿਹੜਾ\PR_PRL ਵਰਤਮਾਨ\JJ ਵਿਚ\PSP ਵੀ\RP_RPD ਸਾਰੇ\QT_QTF ਵਰਤਾਰੇ\N_NN ਦਾ\PSP ਆਧਾਰ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਭਵਿੱਖ\N_NN ਵਿਚ\PSP ਵੀ\RP_RPD ਰਹੇਗਾ\V_VM_VF ।\RD_PUNC
+PBRED6634	ਇਸ\DM_DMD ਸਤਿ\JJ ਨੂੰ\PSP ਭਗਤੀ\N_NN ,\RD_PUNC ਸਮਰਪਣ\N_NN ਅਤੇ\CC_CCD ਤਰਕ\N_NN -\RD_PUNC ਮੁਖੀ\N_NN ਡੂੰਘੇ\JJ ਵਿਸ਼ਵਾਸ\N_NN ਰਾਹੀਂ\PSP ਹੀ\RP_RPD ਅਨੁਭਵ\N_NN ਕੀਤਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6635	ਗੁਰਬਾਣੀ\N_NN ਦਾ\PSP ਅੱਖਾਂ\N_NN ਖੋਲ\V_VM ਕੇ\V_VM_VNF ਕੀਤਾ\V_VM_VF ਪਠਨ\N_NN ਪਾਠਨ\N_NN ਇਸ\PR_PRP ਤੱਥ\N_NN ਨੂੰ\PSP ਉਜਾਗਰ\N_NN ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਬਾਣੀ\N_NN ਦਾ\PSP ਮੁੱਖ\N_NN ਚਿੰਤਨ\N_NN ਸੱਚ\JJ ਦੇ\PSP ਧੁਰੇ\N_NN ਦੇ\PSP ਦੁਆਲੇ\N_NN ਹੀ\RP_RPD ਘੁੰਮਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6636	ਉਦਾਹਰਨ\N_NN ਵਜੋਂ\PSP `\RD_PUNC ਜਪੁਜੀ\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ਸਿਧ\N_NNP ਗੋਸਟਿ\N_NNP `\RD_PUNC ਅਤੇ\CC_CCD ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਦੇ\PSP ਸਾਰ\N_NN ਰੂਪ\N_NN ਮੁੰਦਾਵਣੀ\N_NNP ਨੂੰ\PSP ਖਾਸ\N_NN ਤੌਰ\PSP `\RD_PUNC ਤੇ\RB ਦੇਖਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6637	ਸੱਚ\JJ -\RD_PUNC ਸਰੂਪ\N_NN ਅਤੇ\CC_CCD ਦੇਸ਼\N_NN -\RD_PUNC ਕਾਲਾਤੀਤ\N_NN ਪਰਮਾਤਮਾ\N_NN ਨੂੰ\PSP ਕਰਮਕਾਂਡਾਂ\N_NN ਦੀ\PSP ਨਾ\RP_NEG ਤਾਂ\RP_RPD ਲੋੜ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਨਾ\RP_NEG ਹੀ\RP_RPD ਇਹ\PR_PRP ਉਸ\PR_PRP ਨੂੰ\PSP ਪ੍ਰਭਾਵਿਤ\N_NN ਜਾਂ\CC_CCD ਖੁਸ਼\N_NN ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6638	ਸਿੱਖੀ\N_NN ,\RD_PUNC ਧਰਮ\N_NN ਦੇ\PSP ਨਾਂਅ\N_NN `\RD_PUNC ਤੇ\RB ਢਕੋਸਲੇਬਾਜ਼ੀ\N_NN ਤੋਂ\PSP ਸਿਧਾਂਤ\N_NN ਰੂਪ\N_NN ਵਿਚ\PSP ਮੁਕਤ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6639	ਬ੍ਰਹਮ\N_NN ਦੇ\PSP ਅਵਤਾਰਾਂ\N_NN ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਰੂਪਾਂਤਰਣ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਗੁਰਬਾਣੀ\N_NN ਵਿਚ\PSP ਮਾਨਤਾ\N_NN ਦਿੱਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6640	ਦਰਅਸਲ\RB ਜਿਸ\PR_PRL ਕਾਰਜਸ਼ੀਲ\N_NN ਸਮਾਜ\N_NN ਦੀ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬਾਨ\N_NN ਨੇ\PSP ਕਲਪਨਾ\N_NN ਕੀਤੀ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਦੇ\PSP ਚਿੰਤਨ\N_NN ਚੌਖਟੇ\N_NN ਵਿਚ\PSP ਦੇਵੀ\N_NN -\RD_PUNC ਦੇਵਤੇ\N_NN ਅਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਨਾਲ\PSP ਸਬੰਧਤ\N_NN ਕਰਮਕਾਂਡ\N_NN ਕਿਤੇ\RB ਵੀ\RP_RPD ਢੁਕਵੇਂ\JJ ਨਹੀਂ\RP_NEG ਬੈਠਦੇ\V_VM_VF ।\RD_PUNC
+PBRED6641	ਉਸ\PR_PRP ਦੇ\PSP ਚਿੰਤਨ\N_NN ਚੌਖਟੇ\N_NN ਵਿਚ\PSP ਦੇਵੀ\N_NN -\RD_PUNC ਦੇਵਤੇ\N_NN ਅਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਨਾਲ\PSP ਸਬੰਧਤ\N_NN ਕਰਮਕਾਂਡ\N_NN ਕਿਤੇ\RB ਵੀ\RP_RPD ਢੁਕਵੇਂ\RB ਨਹੀਂ\RP_NEG ਬੈਠਦੇ\V_VM_VF ।\RD_PUNC
+PBRED6642	ਕਿਉਂਕਿ\CC_CCS ਪਰਮ\N_NN ਸਤਿ\JJ ਨੂੰ\PSP ਵੱਖਰੇ\RB -\RD_PUNC ਵੱਖਰੇ\RB ਰੂਪਾਂ\N_NN ਵਿਚ\PSP ਮੰਨਣ\V_VM_VF ਦਾ\PSP ਵਿਘਟਨਕਾਰੀ\N_NN ਪ੍ਰਭਾਵ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬਾਨ\N_NN ਨੇ\PSP ਭਾਰਤੀ\N_NN ਜਨਤਾ\N_NN ਦੇ\PSP ਵੱਖ\RB -\RD_PUNC ਵੱਖ\RB ਸੰਪਰਦਾਵਾਂ\N_NN ਦੇ\PSP ਪਰਸਪਰ\PR_PRC ਵਿਰੋਧਾਂ\JJ ਦੇ\PSP ਰੂਪ\N_NN ਵਿਚ\PSP ਦੇਖ\V_VM_VF ਲਿਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6643	ਗੁਰਬਾਣੀ\N_NN ਦਰਅਸਲ\RB ਅਗਿਆਨ\JJ ,\RD_PUNC ਦੁਬਿਧਾ\JJ ,\RD_PUNC ਕਰਮਹੀਣਤਾ\JJ ,\RD_PUNC ਘਿਰਣਾ\JJ ਆਦਿ\RP_CL ਦੇ\PSP ਬੰਧਨਾਂ\N_NN ਤੋਂ\PSP ਆਜ਼ਾਦੀ\N_NN ਲਈ\PSP ਪਰਸਪਰ\PR_PRC ਇਕਮੁੱਠ\RB ਯਤਨ\N_NN ਦੀ\PSP ਮੰਗ\V_VM ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6644	ਘਿਰਣਾ\JJ ਆਦਿ\RP_CL ਦੇ\PSP ਬੰਧਨਾਂ\N_NN ਤੋਂ\PSP ਆਜ਼ਾਦੀ\N_NN ਲਈ\PSP ਪਰਸਪਰ\PR_PRC ਇਕਮੁੱਠ\RB ਯਤਨ\N_NN ਦੀ\PSP ਮੰਗ\V_VM ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6645	ਅਤੇ\CC_CCD ਇਹ\DM_DMD ਤਾਂ\RP_RPD ਹੀ\RP_RPD ਸੰਭਵ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਾਰੇ\QT_QTF ਆਪਣੇ\PR_PRF -\RD_PUNC ਆਪ\PR_PRF ਨੂੰ\PSP `\RD_PUNC ਏਕ\QT_QTC ਪਿਤਾ\N_NN ਏਕਸ\N_NN ਕੇ\PSP ਹਮ\N_NN ਬਾਰਿਕ\N_NN `\RD_PUNC ਸਮਝ\V_VM ਕੇ\V_VM_VNF ਵਰਤਾਰਾ\N_NN ਕਰਨ\V_VM_VF ।\RD_PUNC
+PBRED6646	ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਨੇ\PSP ਵਿਹਾਰਕ\N_NN ਰੂਪ\N_NN ਵਿਚ\PSP `\RD_PUNC ਭਾਈ\N_NN `\RD_PUNC ਸ਼ਬਦ\N_NN ਨੂੰ\PSP ਨਾਂਅ\N_NN ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਜੋੜਨ\N_NN ਦੀ\PSP ਪਰੰਪਰਾ\N_NN ਪਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6647	ਜਿਹੜੀ\PR_PRL ਹੋਰ\DM_DMQ ਕਿਸੇ\DM_DMQ ਵੀ\RP_RPD ਭਾਰਤੀ\N_NN -\RD_PUNC ਅਭਾਰਤੀ\N_NN ਧਰਮ\N_NN ਵਿਚ\PSP ਵਿਦਮਾਨ\N_NN ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBRED6648	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਪਰਮਾਰਥਕ\N_NN ਅਰਥਾਂ\N_NN ਵਿਚ\PSP ਪਰਮਾਤਮਾ\N_NN ਜਿੰਨਾ\RB ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਵਿਚ\PSP ਸਾਰਥਿਕ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਉਸ\PR_PRP ਤੋਂ\PSP ਵੀ\RP_RPD ਵੱਧ\JJ ਉਹ\PR_PRP ਵਿਹਾਰਕ\N_NN ਅਰਥਾਂ\N_NN ਵਿਚ\PSP ਸਿੱਖ\N_NN ਸੰਗਤ\N_NN ਵਿਚ\PSP ਪ੍ਰਸੰਗਿਕ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6649	ਉਸ\PR_PRP ਤੋਂ\PSP ਵੀ\RP_RPD ਵੱਧ\JJ ਉਹ\PR_PRP ਵਿਹਾਰਕ\N_NN ਅਰਥਾਂ\N_NN ਵਿਚ\PSP ਸਿੱਖ\N_NN ਸੰਗਤ\N_NN ਵਿਚ\PSP ਪ੍ਰਸੰਗਿਕ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6650	ਇਸ\DM_DMD ਤਰ੍ਹਾਂ\PSP ਕਿਹਾ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸਿੱਖ\N_NN ਭਗਤੀ\N_NN ਦਾ\PSP ਆਧਾਰ\N_NN ਬਹੁਤ\QT_QTF ਹੀ\RP_RPD ਸਰਲ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6651	ਸਵੱਛ\JJ ਅਤੇ\CC_CCD ਧਰਤੀ\N_NN ਨਾਲ\PSP ਜੁੜਿਆ\V_VM_VF ਹੋਇਆ\V_VM_VF ਪਰਮਾਤਮਾ\N_NN ਅਤੇ\CC_CCD ਪਰਮਾਤਮਾ\N_NN -\RD_PUNC ਮੁਖੀ\N_NN ਮਨੁੱਖ\N_NN ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6652	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਕਿਰਤ\N_NN ਕਰਨ\V_VM_VF ,\RD_PUNC ਨਾਮ\N_NN ਜਪਣ\V_VM_VF ,\RD_PUNC ਵੰਡ\N_NN ਛਕਣ\V_VM_VF ਦੇ\PSP ਗੁਣਾਂ\N_NN ਦਾ\PSP ਧਾਰਨੀ\V_VM_VF ਹੋਣ\V_VM_VF ਕਾਰਨ\N_NN ਗੁਰਮੁਖ\N_NN ,\RD_PUNC ਬ੍ਰਹਮ\N_NN ਗਿਆਨੀ\N_NN ਅਥਵਾ\CC_CCS ਖਾਲਸਾ\N_NN ਵੀ\RP_RPD ਕਿਹਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6653	ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਜਨਮ\N_NN 15\QT_QTC ਅਪ੍ਰੈਲ\N_NNP 1469[੬]\QT_QTC ਨੂੰ\PSP ਲਾਹੌਰ\N_NNP ,\RD_PUNC ਪਾਕਿਸਤਾਨ\N_NNP ਨੇੜੇ\RB ਰਾਇ\N_NNP ਭੋਇ\N_NNP ਦੀ\PSP ਤਲਵੰਡੀ\N_NN ,\RD_PUNC ਜਿਸ\PR_PRL ਨੂੰ\PSP ਹੁਣ\RB ਨਨਕਾਣਾ\N_NNP ਸਾਹਿਬ\N_NNP ਆਖਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਵਿਖੇ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6654	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਹੁਣ\RB ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਪ੍ਰਕਾਸ਼\N_NN ਦਿਹਾੜੇ\N_NN (\RD_SYM ਗੁਰਪੁਰਬ\N_NN )\RD_SYM ਵਜੋਂ\PSP ਮਨਾਇਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6655	ਇਸ\DM_DMD ਸਥਾਨ\N_NN `\RD_PUNC ਤੇ\RB ਹੁਣ\RB ਗੁਰਦੁਆਰਾ\N_NN ਜਨਮ\N_NN -\RD_PUNC ਅਸਥਾਨ\N_NN ਸੁਸ਼ੋਭਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6656	ਇਹਨਾਂ\PR_PRP ਦੇ\PSP ਪਿਤਾ\N_NN ,\RD_PUNC ਕਲਿਆਣ\N_NNP ਚੰਦ\N_NNP ਦਾਸ\N_NNP ਬੇਦੀ\N_NNP ਜਾਂ\CC_CCD ਮਹਿਤਾ\N_NNP ਕਾਲੂ\N_NNP [\RD_SYM ੭\QT_QTC ]\RD_SYM ਪਿੰਡ\N_NN ਤਲਵੰਡੀ\N_NNP ਦੇ\PSP ਫ਼ਸਲ\N_NN -\RD_PUNC ਮਾਮਲੇ\N_NN ਦੇ\PSP ਪਟਵਾਰੀ\N_NN ਸਨ\V_VAUX |\RD_PUNC
+PBRED6657	ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਇਲਾਕੇ\N_NN ਦੇ\PSP ਇੱਕ\QT_QTC ਮੁਸਲਮਾਨ\N_NN ਜਿਮੀਂਦਾਰ\N_NN ਰਾਇ\N_NNP ਬੁਲਾਰ\N_NNP ਹੇਠ\RB ਨੌਕਰੀ\N_NN ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6658	ਇਹਨਾਂ\PR_PRP ਦੀ\PSP ਮਾਤਾ\N_NN ਦਾ\PSP ਨਾਂ\N_NN ਤ੍ਰਿਪਤਾ\N_NNP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6659	ਇਹਨਾਂ\PR_PRP ਦੀ\PSP ਵੱਡੀ\JJ ਭੈਣ\N_NN ਦਾ\PSP ਨਾਂ\N_NN ਬੇਬੇ\N_NN ਨਾਨਕੀ\N_NNP ਸੀ\V_VAUX |\RD_PUNC
+PBRED6660	ਜੋ\PR_PRL ਇਹਨਾਂ\PR_PRP ਦੀ\PSP ਪਹਿਲੀ\QT_QTO ਸਿੱਖ\N_NN ਬਣੀ\V_VM_VF ।\RD_PUNC
+PBRED6661	ਬੇਬੇ\N_NN ਨਾਨਕੀ\N_NNP ਦਾ\PSP ਵਿਆਹ\N_NN ਜੈ\N_NNP ਰਾਮ\N_NNP ਨਾਲ\PSP ਸੁਲਤਾਨਪੁਰ\N_NNP ਲੋਧੀ\N_NNP ਵਿਖੇ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6662	ਜੋ\PR_PRL ਲਾਹੌਰ\N_NNP ਦੇ\PSP ਗਵਰਨਰ\N_NNP ਦੌਲਤ\N_NNP ਖ਼ਾਨ\N_NNP ਦੇ\PSP ਮੋਦੀਖਾਨੇ\N_NN ਵਿੱਚ\PSP ਕੰਮ\N_NN ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6663	ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦਾ\PSP ਵੱਡੀ\JJ ਭੈਣ\N_NN ਨਾਲ\PSP ਕਾਫ਼ੀ\RB ਪਿਆਰ\N_NN ਹੋਣ\V_VM_VF ਕਾਰਨ\N_NN ਪੁਰਾਤਨ\N_NN ਰਸਮਾਂ\N_NN ਮੁਤਾਬਕ\N_NN ਉਹ\PR_PRP ਵੀ\RP_RPD ਸੁਲਤਾਨਪੁਰ\N_NNP ਆਪਣੇ\PR_PRF ਜੀਜੇ\N_NN ਦੇ\PSP ਘਰ\N_NN ਰਹਿਣ\V_VM_VF ਚਲੇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6664	ਉੱਥੇ\RB ਉਹ\PR_PRP ੧੬\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਵਿੱਚ\PSP ਮੋਦੀਖਾਨੇ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਕੰਮ\N_NN ਕਰਨ\V_VM_VF ਲੱਗ\V_VM ਪਏ\V_VM_VF ।\RD_PUNC
+PBRED6665	ਪੁਰਾਤਨ\N_NN ਜਨਮ\N_NN -\RD_PUNC ਸਾਖੀਆਂ\N_NN ਮੁਤਾਬਕ\N_NN ਇਹ\PR_PRP ਸਮਾਂ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਲਈ\PSP ਇੱਕ\QT_QTC ਰਚਨਾਤਮਕ\N_NN ਸਮਾਂ\N_NN ਸੀ\V_VAUX |\RD_PUNC
+PBRED6666	ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਦੌਰਾਨ\RB ਹੀ\RP_RPD ਇਹਨਾਂ\N_NN ਦੀ\PSP ਅਕਾਲ\JJ ਪੁਰਖ\N_NN ਨੂੰ\PSP ਮਿਲਣ\V_VM_VF ਦੀ\PSP ਤਾਂਘ\N_NN ਵਧੀ\V_VM_VF [\RD_SYM ੯\QT_QTC ]\RD_SYM
+PBRED6667	ਉਦਾਸੀਆਂ\N_NN :-\N_NN ਭਾਰਤੀ\N_NN ਜਨਤਾ\N_NN ਦੀ\PSP ਦਰਦਨਾਕ\JJ ਹਾਲਤ\N_NN ਨੂੰ\PSP ਤੱਕਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਮੋਦੀਖਾਨੇ\N_NN ਦੀ\PSP ਨੌਕਰੀ\N_NN ਤੋਂ\PSP ਅਸਤੀਫ਼ਾ\N_NN ਦੇ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6668	ਭਾਈ\N_NN ਮਰਦਾਨਾ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਨਾਲ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਦੀਨ\JJ -\RD_PUNC ਦੁਖੀਆਂ\JJ ਦੀ\PSP ਸਹਾਇਤਾ\N_NN ਲਈ\PSP ਇੱਕ\QT_QTC ਲੰਮੇਰੀ\RB ਸੰਸਾਰ\N_NN -\RD_PUNC ਯਾਤਰਾ\N_NN ਲਈ\PSP ਕਮਰਕੱਸੇ\N_NN ਕਰ\V_VM ਕੇ\V_VM_VNF ਸੰਸਾਰ\N_NN -\RD_PUNC ਯਾਤਰਾ\N_NN ਆਰੰਭੀ\V_VM_VF ।\RD_PUNC
+PBRED6669	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਦੈਵੀ\N_NN ਸੰਦੇਸ਼\N_NN ਨੂੰ\PSP ਸਮਸਤ\QT_QTF ਲੋਕਾਈ\N_NN ਵਿੱਚ\N_NN ਪ੍ਰਚਾਰਨ\V_VM_VF ਹਿਤ\PSP ਸੰਸਾਰ\N_NN -\RD_PUNC ਯਾਤਰਾ\N_NN ਆਰੰਭ\JJ ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6670	ਜਿਸ\PR_PRL ਬਾਰੇ\PSP ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਕਥਨ\N_NN ਹੈ\V_VAUX :-\RD_PUNC
+PBRED6671	ਬਾਬੇ\N_NN ਭੇਖ\N_NN ਬਣਾਇਆ\V_VM_VF ਉਦਾਸੀ\N_NN ਕੀ\PSP ਰੀਤਿ\N_NN ਚਲਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6672	ਚੜਿਆ\V_VM_VNF ਸੋਧਣਿ\N_NN ਧਰਤਿ\N_NN ਲੁਕਾਈ\V_VM_VF ॥\RD_PUNC
+PBRED6673	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਵਿਸ਼ਾਲ\JJ ਭਾਰਤ\N_NN ਦੇ\PSP ਹਰ\DM_DMQ ਕੋਨੇ\N_NN ’ਤੇ\RB ਪਹੁੰਚੇ\V_VM_VF ।\RD_PUNC
+PBRED6674	ਉਹਨਾਂ\PR_PRP ਮੱਧ\N_NN ਪੂਰਬ\N_NN ਵਿਚ\PSP ਸਥਿਤ\N_NN ਇਸਲਾਮੀ\N_NN ਦੇਸ਼ਾਂ\N_NN ਦੇ\PSP ਲੱਗਭਗ\QT_QTF ਸਾਰੇ\QT_QTF ਧਰਮ\N_NN ਕੇਂਦਰਾਂ\N_NN ਉਂਤੇ\RB ਜਾ\V_VM ਕੇ\V_VM_VNF ਵਿਵਿਧ\RB ਪ੍ਰਕਾਰ\N_NN ਦੀਆਂ\PSP ਭਾਰਤੀ\N_NN ਤੇ\N_NN ਸ਼ਾਮੀ\N_NN ਧਰਮੀ\N_NN ਪਰੰਪਰਾਵਾਂ\N_NN ਨੂੰ\PSP ਨੇੜੇ\RB ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਵੇਖਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6675	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਦਾਰਸ਼ਨਿਕ\JJ ਆਧਾਰਾਂ\N_NN ਤੇ\CC_CCD ਅਭਿਆਸ\N_NN ਪ੍ਰਣਾਲੀਆਂ\N_NN ਦਾ\PSP ਅਧਿਐਨ\N_NN ਕੀਤਾ\V_VM_VF ਅਤੇ\CC_CCD ਅਗਿਆਨ\JJ -\RD_PUNC ਗ੍ਰਸਤ\N_NN ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਕਿਰਿਆਚਾਰੀ\N_NN ਖੰਡ\N_NN ਅਤੇ\CC_CCD ਰਿੱਧੀਆਂ\N_NN -\RD_PUNC ਸਿੱਧੀਆਂ\N_NN ਅਥਵਾ\CC_CCD ਕਰਮਕਾਂਡਾਂ\N_NN ,\RD_PUNC ਕਰਾਮਾਤਾਂ\N_NN ਆਦਿ\RP_CL ਦੀ\PSP ਨਿਰਾਰਥਕਤਾ\JJ ਦੀ\PSP ਪ੍ਰੇਰਨਾ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6676	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੀ\PSP ਲੋਕ\N_NN ਉਧਾਰਣ\N_NN ਦੀ\PSP ਜੁਗਤੀ\N_NN ਇਹ\DM_DMD ਸੀ\V_VAUX ਕਿ\CC_CCS ਆਪ\PR_PRF ਕਿਸੇ\PR_PRQ ਧਰਮ\N_NN ਉਤਸਵ\N_NN ’ਤੇ\RB ਇਕੱਤਰ\N_NN ਹੋਏ\V_VM_VF ਲੋਕਾਂ\N_NN ਵਿੱਚ\PSP ਜਾ\V_VM ਕੇ\V_VM_VNF ਅਨੋਖੇ\JJ ਨਾਟਕੀ\N_NN ਅੰਦਾਜ਼\N_NN ਨਾਲ\PSP ਲੋਕਾਂ\N_NN ਦਾ\PSP ਧਿਆਨ\N_NN ਆਪਣੇ\PR_PRF ਵੱਲ\PSP ਖਿੱਚਦੇ\V_VM_VF ,\RD_PUNC
+PBRED6677	ਅਤੇ\CC_CCD ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਫੋਕਟ\N_NN ਕਰਮਾਂ\N_NN ਦਾ\PSP ਖੰਡਨ\N_NN ਕਰ\V_VM_VF ਕੇ\V_VM_VF ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਸਤਿ\JJ ਵਿਵਹਾਰ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਸਿੱਖਿਆ\N_NN -\RD_PUNC ਦੀਖਿਆ\N_NN ਦੇਂਦੇ\V_VM_VF ।\RD_PUNC
+PBRED6678	ਅਨੇਕਾਂ\DM_DMQ ਹੀ\RP_RPD ਉਦਾਹਰਣਾਂ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਜੀਵਨ\N_NN ਵਿੱਚੋਂ\PSP ਮਿਲਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6679	ਹਰਿਦੁਆਰ\N_NNP ਵਿਖੇ\PSP ਸੂਰਜ\N_NNP ਨੂੰ\PSP ਪਾਣੀ\N_NN ਦੇਣ\V_VM_VF ਦੀ\PSP ਬਜਾਇ\RB ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਇਸ\DM_DMD ਕਰਮ\N_NN ਦੀ\PSP ਨਿਰਾਰਥਕਤਾ\JJ ਦਰਸਾਉਣ\V_VM_VF ਲਈ\PSP ਪੱਛਮ\N_NN ਵੱਲ\PSP ਆਪਣੇ\PR_PRF ਖੇਤਾਂ\N_NN ਨੂੰ\PSP ਪਾਣੀ\N_NN ਦੇਣਾ\V_VM_VF ਸ਼ੁਰੂ\JJ ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6680	ਲੋਕਾਈ\N_NN ਦੇ\PSP ਇਸ\DM_DMD ਭਰਮ\N_NN ਨੂੰ\PSP ਰਹੱਸਮਈ\JJ ਢੰਗ\N_NN ਨਾਲ\PSP ਖੰਡਨ\N_NN ਕਰ\N_NN ਕੇ\N_NN ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਪਰਮਾਤਮਾ\N_NN ਦੇ\PSP ਰਾਹੇ\N_NN ਤੋਰਿਆ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6681	ਪਹਿਲੀ\QT_QTO ਉਦਾਸੀ\N_NN ਪੂਰਬ\N_NN ਦੀ\PSP :-\RD_SYM ਇਹਨਾਂ\PR_PRP ਉਦਾਸੀਆਂ\N_NN ਵਿੱਚੋਂ\PSP ਪਹਿਲੀ\QT_QTO ਉਦਾਸੀ\N_NN ਬਹੁਤ\QT_QTF ਲੰਮੇਰੀ\JJ ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6682	ਪ੍ਰੋ.\N_NN ਸਾਹਿਬ\N_NN ਗੁਰਮਤਿ\N_NNP ਪ੍ਰਕਾਸ਼\N_NNP ੧੨\QT_QTC ਨਵੰਬਰ\N_NNP ੨੦੦੭\QT_QTC ਸਿੰਘ\N_NN ਜੀ\RP_INJ ਅਨੁਸਾਰ\PSP ਭਾਦਰੋਂ\N_NNP ਸੰਮਤ\N_NN ੧੫੬੪\QT_QTC ਤੋਂ\PSP ੧੫੭੨\QT_QTC (\RD_SYM ੮\QT_QTC ਸਾਲ\N_NN )\RD_SYM ਸੰਨ\N_NN ੧੫੦੭\QT_QTC ਤੋਂ\PSP ੧੫੧੫\QT_QTC ਈ.\N_NN ਤਕ\PSP ਦੀ\PSP ਇਹ\PR_PRP ਯਾਤਰਾ\N_NN ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6683	ਇਸ\DM_DMD ਯਾਤਰਾ\N_NN ਦੌਰਾਨ\RB ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਛੇ\QT_QTC -\RD_PUNC ਸੱਤ\QT_QTC ਹਜ਼ਾਰ\QT_QTC ਮੀਲ\N_NN ਦਾ\PSP ਸਫ਼ਰ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6684	ਇਸ\DM_DMD ਉਦਾਸੀ\N_NN ਵਿੱਚ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਪ੍ਰਸਿੱਧ\JJ ਹਿੰਦੂ\N_NN ਤੀਰਥਾਂ\N_NN ਹਰਿਦੁਆਰ\N_NNP ,\RD_PUNC ਗੋਰਖ\N_NNP ਮਤਾ\N_NNP ,\RD_PUNC ਅਯੁੱਧਿਆ\N_NNP ,\RD_PUNC ਪ੍ਰਯਾਗ\N_NNP ,\RD_PUNC ਬਨਾਰਸ\N_NNP ,\RD_PUNC ਗਯਾ\N_NNP ,\RD_PUNC ਜਗਨਨਾਥਪੁਰੀ\N_NNP ,\RD_PUNC ਮਦੁਰਾਈ\N_NNP ,\RD_PUNC ਰਾਮੇਸ਼੍ਵਰਮ\N_NNP ,\RD_PUNC ਸੋਮਨਾਥ\N_NNP ,\RD_PUNC ਦਵਾਰਕਾ\N_NNP ,\RD_PUNC ਪੁਸ਼ਕਰ\N_NNP ,\RD_PUNC ਮਥਰਾ\N_NNP ,\RD_PUNC ਬਿੰਦਰਾਬਨ\N_NNP ਅਤੇ\CC_CCD ਕੁਰੂਕਸ਼ੇਤਰ\N_NNP ਆਦਿ\RP_CL ਤੋਂ\PSP ਇਲਾਵਾ\RB ਸਿੰਗਲਾ\N_NNP ਦੀਪ\N_NNP ,\RD_PUNC ਸਿੱਕਮ\N_NNP ,\RD_PUNC ਆਸਾਮ\N_NNP ,\RD_PUNC ਬੰਗਾਲ\N_NNP ,\RD_PUNC ਉੜੀਸਾ\N_NNP ,\RD_PUNC ਦਰਾਵੜ\N_NNP ਦੇਸ਼\N_NN ਬੰਬਈ\N_NNP ,\RD_PUNC ਔਰੰਗਾਬਾਦ\N_NNP ,\RD_PUNC ਉਜੈਨ\N_NNP ,\RD_PUNC ਕੱਛ\N_NNP ,\RD_PUNC ਅਜਮੇਰ\N_NNP ਆਦਿ\RP_CL ਸਥਾਨਾਂ\N_NN ਦੀ\PSP ਯਾਤਰਾ\N_NN ਕੀਤੀ\V_VM ।\RD_PUNC
+PBRED6685	ਇਸ\DM_DMD ਉਦਾਸੀ\N_NN ਦੌਰਾਨ\RB ਹੀ\RP_RPD ਸਤਿਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਅਧਿਆਤਮਕ\N_NN ਅਨੁਭਵਾਂ\N_NN ਨੂੰ\PSP ਇੱਕ\QT_QTC ਸੁਨਿਸ਼ਚਿਤ\JJ ਤੇ\N_NN ਵਿਧੀਵਤ\N_NN ਜੀਵਨਦਰਸ਼ਨ\N_NN ਦਾ\PSP ਰੂਪ\N_NN ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6686	ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਲਈ\PSP ਕੇਂਦਰ\N_NN ਸਥਾਪਤ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਯੋਜਨਾ\N_NN ਬਣਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6687	ਇਸ\PR_PRP ਉਦਾਸੀ\N_NN ਤੋਂ\PSP ਵਾਪਸ\N_NN ਆ\V_VM ਕੇ\V_VM_VNF ਆਪ\PR_PRF ਜੀ\RP_INJ ਆਪਣੇ\PR_PRF ਕੁਝ\DM_DMQ ਕੁ\RB ਪ੍ਰਮੁੱਖ\N_NN ਸਿੱਖ\N_NN ਸ਼ਰਧਾਲੂਆਂ\N_NN ਦੀ\PSP ਸਹਾਇਤਾ\N_NN ਨਾਲ\PSP ਗੁਰਦਾਸਪੁਰ\N_NNP ਜ਼ਿਲੇ\N_NN ਵਿੱਚ\PSP ਰਾਵੀ\N_NNP ਦੇ\PSP ਕੰਢੇ\N_NN ’ਤੇ\RB ਇਕ\QT_QTC ਨਵਾਂ\JJ ਪਿੰਡ\N_NN ਕਰਤਾਰਪੁਰ\N_NNP ਵਸਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6688	ਜਦੋਂ\PR_PRL ਇਥੇ\RB ਇੱਕ\QT_QTC ਛੋਟੀ\JJ ਜਿਹੀ\RB ਧਰਮਸ਼ਾਲ\N_NN ਬਣ\V_VM_VF ਗਈ\V_VM_VF ਤਾਂ\CC_CCD ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਮਾਤਾ\N_NN -\RD_PUNC ਪਿਤਾ\N_NN ਵੀ\RP_RPD ਇਥੇ\RB ਹੀ\RP_RPD ਆ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6689	ਭਾਈ\N_NN ਮਰਦਾਨਾ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਪਰਵਾਰ\N_NN ਵੀ\RP_RPD ਇਥੇ\RB ਹੀ\RP_RPD ਆ\V_VM ਵੱਸਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6690	ਕੁਝ\DM_DMQ ਚਿਰ\N_NN ਸਤਿਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨਗਰ\N_NN ਵਸਾਉਣ\V_VM_VF ਦੇ\PSP ਆਹਰ\N_NN ਵਿੱਚ\PSP ਰੁੱਝੇ\V_VM_VF ਰਹੇ\V_VM_VF ਪਰੰਤੂ\CC_CCS ਛੇਤੀ\RB ਹੀ\RP_RPD ਦੂਜੀ\QT_QTO ਉਦਾਸੀ\N_NN ਲਈ\PSP ਚੱਲ\V_VM ਪਏ\V_VM_VF ।\RD_PUNC
+PBRED6691	ਦੂਜੀ\QT_QTC ਉਦਾਸੀ\N_NN ਉੱਤਰ\N_NN ਦੀ\PSP :-\RD_SYM ਦੂਜੀ\QT_QTO ਉਦਾਸੀ\N_NN ਦੋ\QT_QTC -\RD_PUNC ਤਿੰਨ\QT_QTC ਕੁ\RP_RPD ਸਾਲਾਂ\N_NN ਦੀ\PSP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6692	ਪ੍ਰੋ.\N_NN ਸਾਹਿਬ\N_NNP ਸਿੰਘ\N_NNP ਅਨੁਸਾਰ\PSP ਇਹ\DM_DMD ਉਦਾਸੀ\N_NN ਸੰਨ\N_NN ੧੫੧੭\QT_QTC ਤੋਂ\PSP ੧੫੧੮\QT_QTC ਤਕ\PSP ਦੀ\PSP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6693	ਇਸ\PR_PRP ਉਦਾਸੀ\N_NN ਦੌਰਾਨ\RB ਗੁਰਦੇਵ\N_NN ਨੇ\PSP ਜੰਮੂ\N_NNP ਤੇ\CC_CCD ਕਸ਼ਮੀਰ\N_NNP ਦੀ\PSP ਯਾਤਰਾ\N_NN ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6694	ਆਪ\PR_PRF ਗਿਆਨ\N_NNP ਕੋਟ\N_NNP ਅਤੇ\CC_CCD ਜੰਮੂ\N_NNP ਤੋਂ\PSP ਹੁੰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਪਹਿਲਾਂ\RB ਵੈਸ਼ਨੋ\N_NNP ਦੇਵੀ\N_NN ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6695	ਫਿਰ\RB ਮਟਨ\N_NNP ਵਿੱਚ\PSP ਅਮਰਨਾਥ\N_NNP ਤੇ\CC_CCD ਉਸ\PR_PRP ਤੋਂ\PSP ਵੀ\RP_RPD ਪਰੇ\RB ਬਰਫ਼ਾਂ\N_NN ਲੱਦੀ\V_VM_VF ਪਰਬਤ\N_NN ਮਾਲਾ\N_NN ਉਂਤੇ\RB ,\RD_PUNC ਜਿਥੇ\RB ਕੁਝ\DM_DMQ ਸਿੱਧਾਂ\N_NN ਨਾਲ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਦਾ\PSP ਸੰਵਾਦ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6696	ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਕਥਨ\N_NN ਹੈ\V_VAUX :\RD_PUNC
+PBRED6697	-ਫਿਰਿ\RB ਜਾਇ\V_VM ਚੜਿਆ\V_VM_VF ਸੁਮੇਰ\N_NNP ਪਰਿ\N_NN ਸਿਧਿ\N_NN ਮੰਡਲੀ\N_NN ਦ੍ਰਿਸਟਿ\N_NN ਆਈ\V_VM_VF ।\RD_PUNC
+PBRED6698	ਤੀਜੀ\QT_QTO ਉਦਾਸੀ\N_NN ਪੱਛਮ\N_NN ਦੀ\PSP :\RD_PUNC ਤੀਜੀ\QT_QTO ਉਦਾਸੀ\N_NN (\RD_SYM ਸੰਨ\N_NN ੧੫੧੮\QT_QTC ਤੋਂ\PSP ੧੫੨੧\QT_QTC )\RD_SYM ਤਕ\PSP ਹੈ\V_VAUX ,\RD_PUNC ਆਪ\PR_PRF ਜੀ\RP_INJ ਕਰਤਾਰਪੁਰ\N_NNP ਤੋਂ\PSP ਪੱਛਮ\N_NN (\RD_SYM ਮੱਧ\N_NN ਪੂਰਬ\N_NN )\RD_SYM ਦੇ\PSP ਦੇਸ਼ਾਂ\N_NN ਦੀ\PSP ਯਾਤਰਾ\N_NN ਲਈ\PSP ਚੱਲੇ\V_VM_VF ।\RD_PUNC
+PBRED6699	ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP :-\N_NN ਕਥਨ\N_NN ਅਨੁਸਾਰ\PSP :\RD_PUNC ਬਾਬਾ\N_NN ਫਿਰਿ\RB ਮੱਕੇ\N_NNP ਗਇਆ\V_VM_VF ਨੀਲ\N_NN ਬਸਤ੍ਰ\N_NN ਧਾਰੇ\V_VM_VF ਬਨਵਾਰੀ\N_NN ।\RD_PUNC
+PBRED6700	ਓਪਰੀਆਂ\JJ ਧਰਤੀਆਂ\N_NN ਓਪਰੇ\JJ ਲੋਕ\N_NN ਪਰ\CC_CCD ਸਤਿਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਤਾਂ\RP_RPD ਕੁਝ\DM_DMQ ਵੀ\RP_RPD ਓਪਰਾ\JJ ਨਹੀਂ\RP_NEG ਸੀ\V_VAUX ਲੱਗਦਾ\V_VM_VF ।\RD_PUNC
+PBRED6701	ਸਾਰੇ\QT_QTF ਹੀ\RP_RPD ਆਪਣੇ\PR_PRF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6702	ਇਸ\DM_DMD ਵਾਰ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਕਰਤਾਰਪੁਰ\N_NNP ਤੋਂ\PSP ਗੁਰਮਤਿ\N_NNP ਪ੍ਰਕਾਸ਼\N_NNP ੧੩\QT_QTC ਨਵੰਬਰ\N_NNP ੨੦੦੭\QT_QTC ਤੁਰੇ\V_VM_VF ਤਾਂ\RP_RPD ਕਸੂਰ\N_NNP ,\RD_PUNC ਪਾਕਪਟਨ\N_NNP ,\RD_PUNC ਤੁਲੰਭਾ\N_NNP ,\RD_PUNC ਮੁਲਤਾਨ\N_NNP ,\RD_PUNC ਬਹਾਵਲਪੁਰ\N_NNP ,\RD_PUNC ਸ਼ੱਖਰ\N_NNP ਆਦਿ\RP_CL ਕਈ\DM_DMQ ਥਾਵਾਂ\N_NN ਤੋਂ\PSP ਹੁੰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਮੁਸਲਿਮ\N_NN ਹਾਜ਼ੀਆਂ\N_NN ਦੇ\PSP ਕਾਫ਼ਿਲੇ\N_NN ਵਿੱਚ\PSP ਸ਼ਾਮਿਲ\N_NN ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਮਕਰਾਨ\N_NNP ਦੇ\PSP ਇਲਾਕੇ\N_NN ਵਿੱਚ\PSP ਪੁੱਜੇ\V_VM_VF ।\RD_PUNC
+PBRED6703	ਫਿਰ\RB ਮੱਕੇ\N_NNP ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6704	ਮੱਕੇ\N_NNP ਹਾਜ਼ੀਆਂ\N_NN ਨਾਲ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦਾ\PSP ਵਿਚਾਰ\N_NN -\RD_PUNC ਵਟਾਂਦਰਾ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6705	ਰੁਕਨਦੀਨ\N_NNP ਨਾਲ\PSP ਬਹਿਸ\N_NN ਹੋਈ\V_VM_VF ।\RD_PUNC
+PBRED6706	ਉਸ\PR_PRP ਨੂੰ\PSP ਆਪਣੀ\PR_PRF ਖੜਾਂਵ\N_NN ਨਿਸ਼ਾਨੀ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6707	ਫਿਰ\RB ਮਦੀਨੇ\N_NNP ਗਏ\V_VM_VF ,\RD_PUNC ਫਿਰ\RB ਬਸਰੇ\N_NNP ਤੇ\CC_CCD ਬਸਰੇ\N_NNP ਤੋਂ\PSP ਕਰਬਲਾ\N_NNP ,\RD_PUNC ਫਿਰ\RB ਬਗ਼ਦਾਦ\N_NNP ।\RD_PUNC
+PBRED6708	ਇਸ\DM_DMD ਦਾ\PSP ਵਰਨਣ\N_NN ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX :\RD_PUNC ਫਿਰਿ\RB ਬਾਬਾ\N_NN ਗਇਆ\V_VM_VF ਬਗਦਾਦਿ\N_NNP ਨੋ\PSP ਬਾਹਰਿ\RB ਜਾਇ\V_VM ਕੀਆ\V_VM_VF ਅਸਥਾਨਾ\N_NN ।\RD_PUNC
+PBRED6709	ਇਕੁ\QT_QTC ਬਾਬਾ\N_NN ਅਕਾਲ\JJ ਰੂਪੁ\N_NN ਦੂਜਾ\QT_QTO ਰਬਾਬੀ\N_NN ਮਰਦਾਨਾ\N_NNP ।\RD_PUNC (ਵਾਰ\N_NN ੧\QT_QTC ;\RD_PUNC ੩੫\QT_QTC )\RD_SYM ਰਾਗ\N_NN ਨੂੰ\PSP ਹਰਾਮ\N_NN ਸਮਝੇ\V_VM_VF ਜਾਣ\V_VM_VF ਵਾਲੇ\PSP ਸ਼ਹਿਰ\N_NN ਵਿੱਚ\PSP ਕੀਰਤਨ\N_NN ,\RD_PUNC ਸੱਤ\QT_QTC ਜ਼ਿਮੀਂ\N_NN ,\RD_PUNC ਅਸਮਾਨ\N_NN ਮੰਨਣ\V_VM_VF ਵਾਲਿਆਂ\PSP ਨੂੰ\PSP ‘\N_NN ਪਾਤਾਲਾ\N_NN ਪਾਤਾਲ\N_NN ,\RD_PUNC ਲਖ\QT_QTC ਆਗਾਸਾ\N_NN ਆਗਾਸ\N_NN ’\N_NN ਦੱਸਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਫਿਰ\RB ਬਗ਼ਦਾਦ\N_NNP ਤੋਂ\PSP ਇਸਫਰਾਨ\N_NNP ,\RD_PUNC ਤਹਿਰਾਨ\N_NNP ,\RD_PUNC ਮਸਤੱਕ\N_NN ਬੁਖ਼ਾਰਾ\N_NNP ਤੇ\CC_CCD ਸਮਰਕੰਦ\N_NNP ਹੁੰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਕਾਬੁਲ\N_NNP ਤੇ\CC_CCD ਜਲਾਲਾਬਾਦ\N_NNP ਦੇ\PSP ਰਸਤੇ\N_NN ਰਾਵਲਪਿੰਡੀ\N_NNP ਦੇ\PSP ਲਾਗੇ\RB ਹਸਨ\N_NNP ਅਬਦਾਲ\N_NNP ਪੁੱਜੇ\V_VM_VF ।\RD_PUNC
+PBRED6710	ਸੱਤ\QT_QTC ਜ਼ਿਮੀਂ\N_NN ,\RD_PUNC ਅਸਮਾਨ\N_NN ਮੰਨਣ\V_VM_VNG ਵਾਲਿਆਂ\PSP ਨੂੰ\PSP ‘\RD_PUNC ਪਾਤਾਲਾ\N_NN ਪਾਤਾਲ\N_NN ,\RD_PUNC ਲਖ\QT_QTC ਆਗਾਸਾ\N_NN ਆਗਾਸ’\N_NN ਦੱਸਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਫਿਰ\RB ਬਗ਼ਦਾਦ\N_NNP ਤੋਂ\PSP ਇਸਫਰਾਨ\N_NNP ,\RD_PUNC ਤਹਿਰਾਨ,\N_NNP ਮਸਤੱਕ\N_NNP ਬੁਖ਼ਾਰਾ\N_NNP ਤੇ\CC_CCD ਸਮਰਕੰਦ\N_NNP ਹੁੰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਕਾਬੁਲ\N_NNP ਤੇ\CC_CCD ਜਲਾਲਾਬਾਦ\N_NNP ਦੇ\CC_CCD ਰਸਤੇ\N_NN ਰਾਵਲਪਿੰਡੀ\N_NNP ਦੇ\CC_CCD ਲਾਗੇ\RB ਹਸਨ\N_NNP ਅਬਦਾਲ\N_NNP ਪੁੱਜੇ\V_VM_VF ।\RD_PUNC
+PBRED6711	ਫਿਰ\RB ਐਮਨਾਬਾਦ\N_NNP ਤੋਂ\PSP ਕਰਤਾਰਪੁਰ\N_NNP ।\RD_PUNC
+PBRED6712	ਇਸ\DM_DMD ਉਦਾਸੀ\N_NN ਦੌਰਾਨ\RB ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਮੁਸਲਿਮ\N_NN ਵਿਸ਼ਵਾਸਾਂ,\N_NN ਰਹੁਰੀਤਾਂ\N_NN ਤੇ\CC_CCD ਧਰਮ\N_NN -\RD_PUNC ਗ੍ਰੰਥਾਂ\N_NN ਦਾ\PSP ਡੂੰਘਾ\JJ ਅਧਿਐਨ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6713	ਐਮਨਾਬਾਦ\N_NNP ਬਾਬਰ\N_NNP ਦਾ\PSP ਹਮਲਾ\N_NN ਹੋਇਆ\V_VM_VF ,\RD_PUNC ਜਿਸ\PR_PRL ਦਾ\PSP ਵਰਣਨ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੀ\PR_PRF ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6714	ਕਰਤਾਰਪੁਰ\N_NNP ਨਿਵਾਸ\N_NN :\RD_PUNC -\RD_PUNC ਆਪਣੇ\PR_PRF ਜੀਵਨ\N_NN ਦੇ\PSP ਅੰਤਿਮ\RB ਅੱਠ\QT_QTC -\RD_PUNC ਦਸ\QT_QTC ਸਾਲ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਕਰਤਾਰਪੁਰ\N_NNP ਵਿਖੇ\PSP ਨਿਵਾਸ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6715	ਜਿਥੇ\RB ਆਪ\PR_PRF ਜੀ\RP_INJ ਨਿਤਨੇਮ\N_NN ,\RD_PUNC ਕਥਾ-ਕੀਰਤਨ\N_NN ਤੇ\CC_CCD ਭਜਨ\N_NN -\RD_PUNC ਬੰਦਗੀ\N_NN ਕਰਦੇ\V_VM_VF ਅਤੇ\CC_CCD ਹਰ\DM_DMQ ਕਿਸੇ\DM_DMQ ਨੂੰ\PSP ਪ੍ਰਭੂ\N_NN ਹੁਕਮ\N_NN ਅਨੁਸਾਰ\PSP ਜੀਵਨ\N_NN ਬਿਤਾਉਣ\V_VM_VF ਤੇ\CC_CCD ਸਤਿਨਾਮ\N_NN ਦਾ\PSP ਅਭਿਆਸ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਸਿਖਿਆ\N_NN ਦੇਂਦੇ\V_VM_VF ।\RD_PUNC
+PBRED6716	ਭਾਈ\N_NN ਮਰਦਾਨਾ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਅੰਤਿਮ\RB ਸਵਾਸ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੀ\PSP ਗੋਦ\N_NN ਵਿੱਚ\PSP ਲਏ\V_VM_VF ।\RD_PUNC
+PBRED6717	ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਕਰਤਾਰਪੁਰ\N_NNP ਦੀ\PSP ਧਰਮਸ਼ਾਲਾ\N_NN ਦਾ\PSP ਵਰਣਨ\N_NN ਕਰਦੇ\V_VM_VF ਫ਼ੁਰਮਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX :\RD_PUNC
+PBRED6718	ਇਥੇ\RB ਹੀ\RP_RPD ਆਪ\PR_PRF ਜੀ\RP_INJ ਦਾ\PSP ਦੀਦਾਰ\N_NN ਕਰਨ\V_VM_VF ਭਾਈ\N_NN ਲਹਿਣਾ\N_NNP ਜੀ\RP_INJ ਆਏ\V_VM_VF ।\RD_PUNC
+PBRED6719	ਦੀਦਾਰ\N_NN ਐਸਾ\RB ਹੋਇਆ\V_VM_VF ਕਿ\CC_CCS ਜੋਤੀ\N_NN ਜੋਤਿ\N_NN ਰਲੀ\V_VM_VF ।\RD_PUNC
+PBRED6720	ਦੋਵੇਂ\QT_QTO ਇੱਕ\QT_QTC ਜੋਤ\N_NN ਹੋ\V_VAUX ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6721	ਭਾਈ\N_NN ਲਹਿਣਾ\N_NNP ਜੀ\RP_INJ ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਅੰਗ\N_NN ਬਣ\V_VM ਕੇ\V_VM_VNF ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅੰਗਦ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਹੋ\V_VAUX ਨਿਬੜੇ\V_VM_VF ।\RD_PUNC
+PBRED6722	7\QT_QTC ਸਤੰਬਰ\N_NNP ,\RD_PUNC ਸੰਨ\N_NN 1539\QT_QTC ਨੂੰ\PSP ਸਤਿਗੁਰੂ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਆਪਣਾ\PR_PRF ਜੋਤਿ\N_NN ਰੂਪੀ\N_NN ਨੂਰ\N_NN ਭਾਈ\N_NN ਲਹਿਣਾ\N_NNP ਜੀ\RP_INJ (\RD_SYM ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅੰਗਦ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ )\RD_SYM ਵਿੱਚ\PSP ਟਿਕਾ\V_VM_VF ਕੇ\V_VM_VNF ਅਕਾਲ\JJ ਸਤਿ\JJ ਵਿੱਚ\PSP ਸਮਾ\V_VM ਗਏ\V_VM_VF :\RD_PUNC
+PBRED6723	ਸੂਰਜ\N_NN ਕਿਰਣਿ\N_NN ਮਿਲੇ\V_VM_VF ਜਲ\N_NN ਕਾ\PSP ਜਲੁ\N_NN ਹੂਆ\V_VM_VF ਰਾਮ\N_NN ॥\RD_PUNC
+PBRED6724	ਜੋਤੀ\N_NN ਜੋਤਿ\N_NN ਰਲੀ\V_VM_VF ਸੰਪੂਰਨੁ\N_NN ਥੀਆ\V_VM_VF ਰਾਮ\N_NN ॥\RD_PUNC
+PBRED6725	ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਕਾਲ\N_NN ਵਿੱਚ\PSP ਸਮੁੱਚੇ\QT_QTF ਸਾਹਿੱਤ\N_NN ਵਿਚੋਂ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਸ਼ੇ੍ਰਸਠ\JJ ਰਚਨਾ\N_NN ਸਿੱਖ\N_NN ਗੁਰੂ\N_NN ਸਹਿਬਾਨ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6726	ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਦਾ\PSP ਸਿੱਖ\N_NN ਮੱਤ\N_NN ਭਗਤੀ\N_NN ਮੱਤ\N_NN ਵਿੱਚ\PSP ਉਤਪੰਨ\RB ਹੋਇਆ\V_VM_VF |\RD_PUNC
+PBRED6727	ਪੰਜਾਬ\N_NNP ਵਿੱਚ\PSP ਸਿੱਖ\N_NN ਧਰਮ\N_NN ਦਾ\PSP ਉਦਪਨ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਤੋਂ\PSP ਹੋਇਆ\V_VM_VF ਮੰਨਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6728	ਸਿੱਖਾਂ\N_NN ਦੇ\PSP ਦਸ\QT_QTC ਗੁਰੂ\N_NN ਸਹਿਬਾਨ\N_NN ਹੋਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6729	ਜਿੰਨਾ\RB ਨੇ\PSP ਆਪਣੇ\PR_PRF -\RD_PUNC ਆਪਣੇ\PR_PRF ਮੱਤ\N_NN ਅਨੁਸਾਰ\PSP ਗੁਰਮਤਿ\N_NN ਸਾਹਿੱਤ\N_NN ਵਿੱਚ\PSP ਯੋਗਦਾਨ\N_NN ਪਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6730	ਇਸ\PR_PRP ਯੋਗਦਾਨ\N_NN ਨੂੰ\PSP ਅਸੀਂ\PR_PRP ਗੁਰੂ\N_NN ਸਹਿਬਾਨਾਂ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਕਹਿ\V_VM ਸਕਦੇ\V_VM_VF ਹਾਂ\V_VAUX ।\RD_PUNC
+PBRED6731	ਜਿਹੜੀ\PR_PRL ‘ਆਦਿ\N_NNP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ`\N_NNP ਵਿੱਚ\PSP ਦਰਜ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6732	ਇਹ\DM_DMD ਬਾਣੀ\N_NN ਸਿਧਾਂਤਕ\N_NN ਪਕਿਆਈ\N_NN ਤੇ\PSP ਕਲਾਗਤ\N_NN ਅਧਿਆਤਮਿਕ\N_NN ਸਾਹਿੱਤ\N_NN ਵਿੱਚ\PSP ਵਿਸ਼ੇਸ਼\JJ ਸਥਾਨ\N_NN ਰੱਖਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6733	ਗੁਰਮਤਿ\N_NNP ਕਾਵਿ\N_NN -\RD_PUNC ਧਾਰਾ\N_NN ਬਾਰੇ\PSP ਵਿਚਾਰਧਾਰਾਈ\N_NN ਸਮੁੱਚੇ\RB ਤੌਰ\PSP ਤੇ\RB ਆਖਿਆ\V_VM_VF ਜਾ\V_VM ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6734	ਕਿ\CC_CCS ਗੁਰਮਤਿ\N_NNP ਕਾਵਿ\N_NN -\RD_PUNC ਧਾਰਾ\N_NN ਆਪਣੇ\PR_PRF ਸਮਕਾਲੀਨ\N_NN ਸੰਦਰਭ\N_NN ਵਿੱਚ\PSP ਕ੍ਰਾਂਤੀਕਾਰੀ\N_NN ਵਿਚਾਰਧਾਰਾ\N_NN ਬਣ\V_VM ਕੇ\V_VM_VNF ਉਜਾਗਰ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6735	ਇਸਦਾ\DM_DMD ਸਿਰਜਿਤ\V_VM_VF ਪ੍ਰਵਚਨ\N_NN ਹਕੂਮਤੀ\N_NN ਤਸ਼ਦੱਦ\N_NN ਅਤੇ\CC_CCD ਸਮਾਜਿਕ\N_NN ਅਨਿਆਂ\N_NN ਭੋਗਣ\V_VM_VF ਵਾਲੇ\PSP ਸਾਧਾਰਣ\JJ ਲੋਕਾਂ\N_NN ਅਤੇ\CC_CCD ਦਲਿਤ\N_NN ਵਰਗਾਂ\N_NN ਵਿੱਚ\PSP ਨਵਜਾਗ੍ਰਿਤੀ\N_NN ਦੀ\PSP ਲਹਿਰ\N_NN ਦਾ\PSP ਅਲੰਬਰਦਾਰ\N_NN ਮੰਨਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6736	ਜੋ\PR_PRL ਹੱਕੀ\N_NN ਤੌਰ\PSP ਤੇ\JJ ਦਰੁਸਤ\N_NN ਵੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6737	2\QT_QTC ਮਿਸ਼ਾਲ\N_NN ਵਜੋਂ\PSP ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਦੀਆਂ\PSP ਇਹ\PR_PRP ਕਾਵਿ\N_NN -\RD_PUNC ਪੰਗਤੀਆਂ\N_NN ਦੇਖੀਆਂ\V_VM_VF ਜਾ\V_VM ਸਕਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX :-\RD_PUNC
+PBRED6738	ਨੀਚਾ\JJ ਅੰਦਰਿ\RB ਨੀਚ\JJ ਜਾਤਿ\N_NN ਨੀਚੀ\JJ ਹੂ\V_VAUX ਅਤਿ\JJ ਨੀਚੂ\JJ ॥\RD_PUNC
+PBRED6739	ਨਾਨਕ\N_NNP ਤਿਨ\RB ਕੈ\PSP ਸੰਗਿ\N_NN ਸਾਥਿ\N_NN ਵਡਿਆ\JJ ਸਿਊ\PSP ਕਿਆ\PSP ਰੀਸ\N_NN
+PBRED6740	ਜਿਥੇ\RB ਨੀਚ\JJ ਸਮਾਲੀਆਨਿ\V_VM_VF ਤਿਥੈ\RB ਨਦਰਿ\N_NN ਤੇਰੀ\PR_PRP ਬਖਸੀਸ\N_NN
+PBRED6741	ਗੁਰੂ\N_NN ਅੰਗਦ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਸਿੱਖਾਂ\N_NN ਦੇ\PSP ਦੂਜੇ\QT_QTC ਗੁਰੂ\N_NN ਹੋਏ\V_VM_VF ।\RD_PUNC
+PBRED6742	ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਜਨਮ\N_NN 31\QT_QTC ਮਾਰਚ\N_NNP 1504\QT_QTC ਈ:\N_NN ਨੂੰ\PSP ‘\RD_PUNC ਮੱਤੇ\N_NNP ਦੀ\PSP ਸਹਾਇ\N_NNP `\RD_PUNC ਨਾਮੀ\N_NN ਪਿੰਡ\N_NN ਵਿੱਚ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6743	ਲਹਿਣਾ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਜਨਮ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਛੇਤੀ\JJ ਹੀ\RP_RPD ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ‘\N_NN ਮਾਤਾ\N_NN -\RD_PUNC ਪਿਤਾ\N_NN `\RD_PUNC ਮੱਤੇ\N_NNP ਦੀ\PSP ਸਹਾਇ`\N_NNP ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਪਹਿਲਾ\RB ਹਰੀਕੇ\N_NNP ਅਤੇ\CC_CCD ਫਿਰ\RB ਖਡੂਰ\N_NNP ਚਲੇ\V_VM_VF ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6744	ਉਹਨਾਂ\PR_PRP ਦਾ\PSP ਬਚਪਨ\N_NN ਹਰੀਕੇ\N_NNP ਅਤੇ\CC_CCD ਖਡੂਰ\N_NNP ਵਿਖੇ\PSP ਹੀ\RP_RPD ਬੀਤਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6745	15\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਉਮਰ\N_NN ਵਿੱਚ\PSP ਭਾਈ\N_NN ਲਹਿਣਾ\N_NNP ਦਾ\PSP ਵਿਆਹ\N_NN ‘\N_NN ਮੱਤੇ\N_NNP ਦੀ\PSP ਸਰਾਇ\N_NNP `\RD_PUNC ਦੇ\PSP ਨਿਵਾਸੀ\N_NN ਸ੍ਰੀ\N_NN ਦੇਵੀ\N_NN ਚੰਦ\N_NNP ਦੀ\PSP ਸਪੁੱਤਰੀ\N_NN ਬੀਬੀ\N_NN ਖੀਵੀ\N_NNP ਨਾਲ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6746	ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਘਰ\N_NN ਦੋ\QT_QTC ਪੁੱਤਰ\N_NN ਹੋਏ\V_VM_VF ‘\N_NN ਦਾਤੂ\N_NNP ਅਤੇ\CC_CCD ਦਾਸੂ\N_NNP `\RD_PUNC ਅਤੇ\CC_CCD ਦੋ\QT_QTC ਲੜਕੀਆਂ\N_NN ਨੇ\PSP ਜਨਮ\N_NN ਲਿਆ\V_VM_VF ‘\N_NN ਬੀਬੀ\N_NN ਅਨੋਖੀ\N_NNP ਅਤੇ\CC_CCD ਬੀਬੀ\N_NN ਅਮਰੋ\N_NNP `\RD_PUNC
+PBRED6747	“\RD_PUNC ਗੁਰੂ\N_NN ਅੰਗਦ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਗੁਰਮਤਿ\N_NNP ਕਾਵਿ\N_NN -\RD_PUNC ਧਾਰਾ\N_NN ਵਿੱਚ\PSP ਯੋਗਦਾਨ\N_NN :\RD_PUNC ਗੁਰੂ\N_NN ਅੰਗਦ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਰਚੀ\V_VM_VF ਹੋਈ\V_VM_VF ਬਾਣੀ\N_NN ‘\N_NN ਗੁਰੂ\N_NN ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP `\RD_PUNC ਵਿੱਚ\PSP ਬਾਕੀ\N_NN ਸਭ\DM_DMQ ਗੁਰੂਆਂ\N_NN ਨਾਲੋਂ\PSP ਘੱਟ\RB ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6748	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਰਚੇ\V_VM_VF ਹੋਏ\V_VM_VF 63\QT_QTC ਸ਼ਲੋਕ\N_NN ਦਾ\PSP ਮੂਲ\N_NN ਵਿਸ਼ਾ\N_NN ਨਿਰਮਾਣਤਾ\JJ ,\RD_PUNC ਗੁਰੂ\N_NN ਭਗਤੀ\N_NN ,\RD_PUNC ਸ਼ਰਧਾ\N_NN ਅਤੇ\CC_CCD ਪ੍ਰੇਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6749	ਇਹ\DM_DMD ਸ਼ਲੋਕ\N_NN ਜਾਂ\CC_CCD ਤਾਂ\RP_RPD ਬਾਕੀ\N_NN ਗੁਰੂਆਂ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿਚੋਂ\PSP ਆਉਂਦੇ\N_NN ਹਨ\V_VAUX ਜਾਂ\CC_CCD ‘\RD_PUNC ਵਾਰਾਂ\N_NN ਤੋਂ\PSP ਵਧੀਕ\N_NN `\RD_PUNC ਸ਼ਲੋਕਾਂ\N_NN ਦੇ\PSP ਸਿਰਲੇਖ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6750	ਇਹ\DM_DMD ਸ਼ਲੋਕ\N_NN ਬੜੀ\JJ ਸਾਦੀ\JJ ਤੇ\CC_CCD ਸਰਲ\JJ ਸ਼ੈਲੀ\N_NN ਵਿੱਚ\PSP ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6751	ਇਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਜ਼ਿੰਦਗੀ\N_NN ਦੀਆਂ\PSP ਧਰਮ\N_NN ਸਚਿਆਈਆਂ\N_NN ਪ੍ਰਗਟਾਈਆਂ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6752	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੀ\PSP ਰਚਨਾ\N_NN ਦੇ\PSP ਕੁਝ\DM_DMQ ਵੇਰਵੇ\N_NN ਇਸ\DM_DMD ਪ੍ਰਕਾਰ\N_NN ਹਨ\V_VAUX :-\RD_PUNC
+PBRED6753	1\QT_QTC ਜੇ\PR_PRL ਸਉ\QT_QTC ਚੰਦਾ\N_NN ਉਗਵਹਿ,\V_VM ਸੂਰਜ\N_NN ਚੜਹਿ\V_VM_VF ਹਜ਼ਾਰ\QT_QTC ।\RD_PUNC
+PBRED6754	ਏਤੇ\RB ਚਾਨਣ\N_NN ਹੋਂਦਿਆ,\V_VM_VNF ਗੁਰ\N_NN ਬਿਨ\RP_NEG ਘੋਰ\N_NN ਅੰਧਰ\JJ
+PBRED6755	2.\QT_QTC ਨਾਨਕ\N_NNP ਚਿੰਤਾ\N_NN ਮਤੁ\RP_NEG ਕਰੋ\V_VM_VF ਚਿੰਤਾ\N_NN ਤਿਸਿ\PR_PRP ਹੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6756	ਜਲ\N_NN ਮਹਿ\PSP ਜੰਤ\N_NN ਉਪਾਇਕੇ\V_VM_VF ,\RD_PUNC ਤਿਨਾ\PR_PRP ਭੀ\RP_RPD ਰੋਜੀ\N_NN ਦੇ\V_VM ।\RD_PUNC 
+PBRED6757	3.\QT_QTC ਜੋ\PR_PRL ਸਿਰਿ\N_NN ਸਾਂਈ\N_NN ਨਾ\RP_NEG ਨਿਵੇ\N_NN ਸੋ\PR_PRP ਸਿ\N_NN ਦੀਜੈ\V_VM_VF ਡਾਰ\N_NN ।\RD_PUNC
+PBRED6758	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP 63\QT_QTC ਸ਼ਲੋਕ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਨਾਂ\N_NN ਅਧੀਨ\RB ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦੀਾਂ\PSP 9\QT_QTC ਵਾਰਾਂ\N_NN ਵਿੱਚ\PSP ਦਰਜ\N_NN ਮਿਲਦੇ\V_VM_VF ਹਨ\V_VAUX :-\RD_PUNC ਜਿਵੇਂ\RP_CL
+PBRED6759	‘\RD_PUNC ਸਿਰੀ\N_NN ਰਾਗ\N_NN ਕੀ\PSP ਵਾਰ\N_NN `\RD_PUNC ਮ.\N_NN 8\QT_QTC ਵਿੱਚ\PSP 2\QT_QTC ਸ਼ਲੋਕ\N_NN (\RD_SYM ਪਾਉੜੀ\N_NN 3\QT_QTC ਅਤੇ\CC_CCD 15\QT_QTC ਨਾਲ\PSP ਇੱਕ\QT_QTC -\RD_PUNC ਇੱਕ\QT_QTC )\RD_SYM
+PBRED6760	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਪ੍ਰਕਾਸ਼\N_NN 24\QT_QTC ਸਤੰਬਰ\N_NNP ਸੰਨ\N_NN 1534\QT_QTC ਨੂੰ\PSP ਪਿਤਾ\N_NN ਹਰੀਦਾਸ\N_NNP ਜੀ\RP_INJ ਅਤੇ\CC_CCD ਮਾਤਾ\N_NN ਦਇਆ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਘਰ\N_NN ਚੂਨਾ\N_NNP ਮੰਡੀ\N_NNP ਲਾਹੌਰ\N_NNP ਵਿਖੇ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6761	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦਾ\PSP ਪਹਿਲਾ\QT_QTO ਨਾਮ\N_NN ਭਾਈ\N_NN ਜੇਠਾ\N_NNP ਜੀ\RP_INJ ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6762	ਛੋਟੀ\JJ ਉਮਰ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਮਾਤਾ\N_NN ਪਿਤਾ\N_NN ਅਕਾਲ\N_NN ਚਲਾਣਾ\N_NN ਕਰ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6763	ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮ\N_NNP ਦਾਸ\N_NN ਜੀ\RP_INJ ਨੂੰ\PSP ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਨਾਨੀ\N_NN ਜੀ\RP_INJ ਆਪਣੇ\PR_PRF ਨਾਲ\PSP ਪਿੰਡ\N_NN ਬਾਸਰਕੇ\N_NNP ਲੈ\V_VM ਆਏ\V_VM_VF ।\RD_PUNC
+PBRED6764	ਆਪ\PR_PRF ਜੀ\RP_INJ ਕੁੱਝ\DM_DMQ ਸਾਲ\N_NN ਪਿੰਡ\N_NN ਬਾਸਕਰੇ\N_NNP ਵਿੱਚ\PSP ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBRED6765	ਇਹਨਾਂ\PR_PRP ਵਿੱਚ\PSP ਭਾਈ\N_NN ਜੇਠਾ\N_NNP ਜੀ\RP_INJ ਵੀ\RP_RPD ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਨਾਨੀ\N_NN ਜੀ\N_NN ਦੇ\PSP ਨਾਲ\PSP ਗੋਵਿੰਦਵਾਲ\N_NNP ਸਾਹਿਬ\N_NN ਆ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6766	ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਬੀਬੀ\N_NN ਭਾਣੀ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਵਿਆਹ\N_NN ਜੇਠਾ\N_NNP ਜੀ\RP_INJ ਨਾਲ\PSP ਕਰਵਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6767	ਬਾਅਦ\JJ ਵਿੱਚ\PSP ਜੇਠਾ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਨਾਮ\N_NN ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਰੱਖਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6768	ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਦੀ\PSP ਸੇਵਾ\N_NN ਹਮੇਸ਼ਾ\RB ਇੱਕ\QT_QTC ਸਿੱਖ\N_NN ਦੀ\PSP ਤਰਾਂ\PSP ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6769	ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਕਹਿਣ\V_VM_VF ਤੇ\JJ ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਨਗਰ\N_NN ਵਸਾਇਆਂ\V_VM_VF ਜਿਸ\PR_PRL ਦਾ\PSP ਨਾਮ\N_NN ਗੁਰੂ\N_NNP ਕਾ\N_NNP ਚੱਕ\N_NNP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6770	ਬਾਅਦ\RB ਵਿੱਚ\PSP ਇਸ\PR_PRP ਦਾ\PSP ਨਾਮ\N_NN ਰਾਮਦਾਸਪੁਰ\N_NNP ਹੋ\V_VAUX ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6771	ਅੱਜ\RB ਇਹ\DM_DMD ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਦੇ\PSP ਨਾਂ\N_NN ਨਾਲ\PSP ਜਾਣਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6772	ਇੱਕ\QT_QTC ਸਤੰਬਰ\N_NNP 1574\QT_QTC ਈ:\N_NN ਵਿੱਚ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਗੁਰਗੱਦੀ\N_NN ਦੀ\PSP ਸੇਵਾ\N_NN ਸੰਭਾਲੀ\V_VM_VF ।\RD_PUNC
+PBRED6773	ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਘਰ\N_NN ਤਿੰਨ\QT_QTC ਸਪੁੱਤਰਾਂ\N_NN ਦਾ\PSP ਜਨਮ\N_NN ਹੋਇਆ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6774	ਬਾਬਾ\N_NN ਪ੍ਰਿਥੀ\N_NNP ਚੰਦ\N_NNP ,\RD_PUNC ਮਹਾਂਦੇਵ\N_NNP ਜੀ\RP_INJ ਅਤੇ\CC_CCD ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ |\RD_PUNC
+PBRED6775	ਕਿਹਾ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਜਦੋਂ\PR_PRL ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਗੋਇੰਦਵਾਲ\N_NNP ਬਾਉਲੀ\N_NNP ਸਾਹਿਬ\N_NN ਤਿਆਰ\N_NN ਕਰਵਾ\V_VM_VF ਰਹੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6776	ਤਾਂ\RP_RPD ਸੰਗਤ\N_NN ਨਾਲ\PSP ਭਾਈ\N_NN ਜੇਠਾ\N_NNP ਜੀ\RP_INJ ਵੀ\RP_RPD ਉੱਥੇ\RB ਆਏ\V_VM_VF ।\RD_PUNC
+PBRED6777	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਭਾਈ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਸਵੇਾ\N_NN ਅਤੇ\CC_CCD ਨਿਮਰਤਾ\N_NNP ਵੇਖ\V_VM ਕੇ\V_VM_VNF ਉਨ੍ਹਾਂ\PR_PRP ਵੱਲ\PSP ਖਿੱਚੇ\V_VM_VF ਗਏ\V_VM_VF ਅਤੇ\CC_CCD ਬੀਬੀ\N_NN ਭਾਈ\N_NN ਨਾਲ\PSP ਸ਼ਾਦੀ\N_NN ਕਰ\V_VM ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6778	ਸ਼ਾਦੀ\N_NN ਤੋਂ\PSP ਮਗਰੋਂ\RB ਭਾਈ\N_NN ਜੇਠਾ\N_NNP ਜੀ\RP_INJ ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਕੋਲ\RB ਹੀ\RP_RPD ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBRED6779	ਦੂਜੇ\QT_QTC ਅਤੇ\CC_CCD ਤੀਜੇ\QT_QTC ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਵਾਂਗ\PSP ਹੀ\RP_RPD ਇਹਨਾਂ\N_NN ਨੇ\PSP ਵੀ\RP_RPD ,\RD_PUNC ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਏਨੀ\RB ਸੇਵਾ\N_NN ਕੀਤੀ\V_VM_VF ਕਿ\CC_CCS ਉਹ\PR_PRP ਗੁਰੂ\N_NN ਗੱਦੀ\N_NN ਦੇ\PSP ਮਾਲਕ\N_NN ਬਣੇ\V_VM_VF ।\RD_PUNC
+PBRED6780	ਸਿੱਖ\N_NN ਇਤਿਹਾਸ\N_NN ਵਿੱਚ\PSP ਇੱਕ\QT_QTC ਹੋਰ\DM_DMQ ਘਟਨਾ\N_NN ਦਾ\PSP ਵੀ\RP_RPD ਜ਼ਿਕਰ\N_NN ਆਉਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਇੱਕ\QT_QTC ਵਾਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਬੀਬੀ\N_NN ਭਾਨੀ\N_NNP ਉਤੇ\RB ਖੁਸ਼\N_NN ਹੋ\V_VM ਕੇ\V_VM_VNF ਵਰ\N_NN ਮੰਗਣ\V_VM_VF ਲਈ\PSP ਕਿਹਾ\V_VM_VF ।\RD_PUNC
+PBRED6781	ਬੀਬੀ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਉਤਰ\N_NN ਦਿੱਤਾ\V_VM_VF ਕਿ\CC_CCS ਅੱਗੇ\JJ ਚੱਲ\V_VM ਕੇ\V_VM_VNF ਗੁਰਿਆਈ\N_NN ਘਰ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਰਹੇ\V_VM_VF ।\RD_PUNC
+PBRED6782	ਗੁਰੂ\N_NN ਰਾਮਾਦਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਮਗਰੋਂ\RB ਗੁਰਿਆਈ\N_NN ਸੋਢੀ\N_NNP ਖਾਨਦਾਨ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਰਹੀ\V_VM_VF ।\RD_PUNC
+PBRED6783	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਸਮੇਂ\N_NN ਹੀ\RP_RPD ਅੰਮ੍ਰਿਤ\N_NN ਸਰੋਵਰ\N_NN ਖੁਣਿਆ\V_VM_VF ਜਾ\V_VM ਚੁੱਕਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6784	ਗੁਰਿਆਈ\N_NN ਮਿਲਣ\V_VM_VF ਤੋਂ\PSP ਮਗਰੋਂ\RB ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਗੋਇੰਦਵਾਲ\N_NNP ਛੱਡ\V_VM ਕੇ\V_VM_VNF ਰਾਮਦਾਸਪੁਰ\N_NNP ਆ\V_VM ਗਏ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6785	ਏਥੇ\RB ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP 1577\QT_QTC ਵਿੱਚ\PSP ਅਕਬਰ\N_NNP ਬਾਦਸ਼ਾਹ\N_NN ਨੇ\PSP 500\QT_QTC ਵਿਘੇ\N_NN ਦੀ\PSP ਜਾਗੀਰ\N_NN ਦਿੱਤੀ\V_VM_VF ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਏਥੇ\RB ਹੀ\RP_RPD ਸਰੋਵਰ\N_NN ਖੁਦਵਾਇਆ\V_VM_VF ਅਤੇ\CC_CCD ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਸ਼ਹਿਰ\N_NN ਦੀ\PSP ਬੁਨਿਆਦ\N_NN ਰੱਖੀ\V_VM_VF ।\RD_PUNC
+PBRED6786	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਇੱਕ\QT_QTC ਸਤੰਬਰ\N_NNP ,\RD_PUNC 1581\QT_QTC ਵਿੱਚ\PSP ਗੋਇੰਦਵਾਲ\N_NNP ਵਿੱਚ\PSP ਜੋਤੀ\N_NN ਜੋਤ\N_NN ਸਮਾਏ\V_VM_VF ।\RD_PUNC
+PBRED6787	ਉਹਨਾਂ\PR_PRP ਦੇ\PSP ਤਿੰਨ\QT_QTC ਸਪੁੱਤਰ\N_NN ਸਨ\V_VAUX ,\RD_PUNC ਪ੍ਰਿਥੀ\N_NNP ਚੰਦ\N_NNP ,\RD_PUNC ਮਹਾਂਦੇਵ\N_NNP ਅਤੇ\CC_CCD ਅਰਜਨ\N_NNP ।\RD_PUNC
+PBRED6788	ਆਪ\PR_PRF ਨੇ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਛੋਟੇ\JJ ਨੂੰ\PSP ਯੋਗ\JJ ਸਮਝ\V_VM ਕੇ\V_VM_VNF ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਗੁਰ\N_NN -\RD_PUNC ਗੱਦੀ\N_NN ਦਿੱਤੀ\V_VM_VF ।\RD_PUNC [\RD_SYM ੨\QT_QTC ]\RD_SYM
+PBRED6789	ਗੁਰਬਾਣੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਰਚਿਤ\N_NN ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਤੇ\CC_CCD ਪ੍ਰਭੂ\N_NN ਲਈ\PSP ਅਥਾਂਹ\N_NN ਸ਼ਰਧਾ\N_NN ਅਤੇ\CC_CCD ਪੇ੍ਰਮ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6790	ਆਪ\PR_PRF ਨੇ\PSP ਗੁਰੂ\N_NN ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦੇ\PSP 31\QT_QTC ਰਾਗਾਂ\N_NN ਵਿਚੋਂ\PSP 29\QT_QTC ਰਾਗਾਂ\N_NN ਵਿੱਚ\PSP ਬਾਣੀ\N_NN ਰਚੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6791	ਉਨ੍ਹਾਂ\PR_PRP ਨੇ\PSP ਕੁਲ\QT_QTF 56\QT_QTC ਦੁਪਦੇ\N_NNP ,\RD_PUNC 2\QT_QTC ਪੰਚਪਦੇ\N_NNP ,\RD_PUNC 2\QT_QTC ਛਿਪਦੇ\N_NNP ,\RD_PUNC 12\QT_QTC ਪੜਤਾਲ\N_NNP ਦੁਪਦੇ\N_NNP ,\RD_PUNC 38\QT_QTC ਛੰਦ\N_NNP ਰਚੇ\V_VM_VF ।\RD_PUNC
+PBRED6792	ਛੰਤਾਂ\N_NNP ਨਾਲ\PSP ਸੰਬੰਧਿਤ\N_NN ਸਲੋਕ\N_NN ,\RD_PUNC ਇੱਕ\QT_QTC ਪਹਿਰਾ\N_NNP ,\RD_PUNC ਇੱਕ\QT_QTC ਵਣਜਾਰਾ\N_NNP ,\RD_PUNC 2\QT_QTC ਕਰਹਲੇ\N_NNP ,\RD_PUNC 2\QT_QTC ਘੋੜੀਆਂ\N_NNP ,\RD_PUNC 2\QT_QTC ਸੋਲਹੇ\N_NNP ,\RD_PUNC 30\QT_QTC ਸਲੋਕ\N_NNP ,\RD_PUNC ਵਾਰਾਂ\N_NNP ਤੇ\N_NNP ਵਧੀਕ\N_NNP ,\RD_PUNC 105\QT_QTC ਵਾਰਾਂ\N_NNP ਨਾਲ\PSP ਸੰਬੰਧਿਤ\N_NN ਸਲੋਕ\N_NN ਅਤੇ\CC_CCD 183\QT_QTC ਵਾਰਾਂ\N_NN ਦੀਆਂ\PSP ਪਉੜੀਆਂ\N_NN ਰਚੀਆਂ\V_VM_VF ।\RD_PUNC
+PBRED6793	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀਆਂ\PSP ਪ੍ਰਮੁੱਖ\N_NN ਬਾਣੀਆਂ\N_NN ਵਿਚੋਂ\PSP ਵਾਰਾਂ\N_NNP ,\RD_PUNC ਘੋੜੀਆਂ\N_NNP ,\RD_PUNC ਲਾਵਾਂ\N_NNP ,\RD_PUNC ਕਰਹਲੇ\N_NNP ,\RD_PUNC ਮਾਰੂ\N_NNP ਸੌਲਹੇ\N_NNP ,\RD_PUNC ਵਣਜਾਰਾ\N_NNP ਅਤੇ\CC_CCD ਛਕੇ\N_NNP ਛੰਤ\N_NNP ਵਿਸ਼ੇਸ਼\JJ ਤੌਰ\PSP ਤੇ\RB ਵਰਣਨ\N_NN ਯੋਗ\JJ ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6794	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀਆਂ\PSP ਪ੍ਰਮੁੱਖ\N_NN ਰਚਨਾਵਾਂ\N_NN ਬਾਰੇ\PSP ਵਿਸਤਰਿਤ\JJ ਵੇਰਵਾ\N_NN ਤੇ\CC_CCD ਵਿਸ਼ਲੇਸ਼ਣ\N_NN ਹੇਠ\RB ਦਰਜ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6795	ਵਾਰਾਂ\N_NNP ਪੰਜਾਬੀ\N_NN ਸਾਹਿਤਕ\N_NN ਪਰੰਪਰਾ\N_NN ਦੇ\PSP ਅੰਤਰਗਤ\PSP ਵਾਰ\N_NNP ਕਾਵਿ\N_NN ਰੂਪ\N_NN ਦਾ\PSP ਉਦਰਾਸ\N_NN ਲੋਕ\N_NN ਸਾਹਿਤ\N_NN ਦੇ\PSP ਇੱਕ\QT_QTC ਰੂਪ\N_NN ਵਜੋਂ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6796	ਹੌਲੀ\RB ਹੌਲੀ\RB ਬਦਲਦੀਆਂ\V_VM_VF ਸਥਿਤੀਆਂ\N_NN ਦੇ\PSP ਸੰਦਰਭ\N_NN ਵਿੱਚ\PSP ਇਸ\DM_DMD ਕਾਵਿ\N_NN ਰੂਪ\N_NN ਦਾ\PSP ਸਰੂਪ\N_NN ਵੀ\RP_RPD ਨਿਸ਼ਚਿਤ\JJ ਚੌਖਟਿਆਂ\N_NN ਦੀ\PSP ਵਲਗਣ\N_NN ,\RD_PUNC ਵਿਚੋਂ\PSP ਨਿਕਲਦਾ\V_VM_VF ਗਿਆ\V_VM_VF |\RD_PUNC
+PBRED6797	ਅਤੇ\CC_CCD ਬਹੁ\JJ ਪ੍ਰਕਾਰੀ\N_NN ਜੀਵਨ\N_NN ਅਨੁਭਵਾਂ\N_NN ਨੂੰ\PSP ਆਪਣੇ\PR_PRF ਕਲੇਵਰ\N_NN `ਚ\PSP ਲੈਣ\V_VM_VF ਦੇ\PSP ਸਮਰੱਥ\N_NN ਹੁੰਦਾ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6798	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਕੁਲ\QT_QTF 8\QT_QTC ਵਾਰਾਂ\N_NN ਦੀ\PSP ਸਿਰਜਣਾ\N_NN ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6799	ਇਹ\DM_DMD ਕ੍ਰਮਵਾਰ\N_NN ਸ੍ਰੀ\N_NNP ਰਾਗ\N_NN ,\RD_PUNC ਰਾਗ\N_NN ਗਉੜੀ\N_NNP ,\RD_PUNC ਰਾਗ\N_NN ਵਡਹੰਸ\N_NNP ,\RD_PUNC ਰਾਗ\N_NN ਬਿਲਾਵਲ\N_NNP ,\RD_PUNC ਰਾਗ\N_NN ਬਿਹਾਗੜਾ\N_NNP ,\RD_PUNC ਰਾਗ\N_NN ਸੋਰਠਿ\N_NNP ,\RD_PUNC ਰਾਗ\N_NN ਸਾਰੰਗ\N_NNP ਅਤੇ\CC_CCD ਰਾਗ\N_NN ਕਾਨੜਾ\N_NNP ਵਿੱਚ\PSP ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6800	ਸ੍ਰੀ\N_NNP ਰਾਗ\N_NNP ਕੀ\N_NNP ਵਾਰ\N_NNP ਦੀਆਂ\PSP 21\QT_QTC ਪਉੜੀਆਂ\N_NN ਹਨ\V_VAUX ਤੇ\CC_CCD ਹਰ\QT_QTF ਇੱਕ\QT_QTC ਪਉੜੀ\N_NN ਨਾਲ\PSP ਦੋ\QT_QTC ਦੋ\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6801	ਇਸ\DM_DMD ਤੋਂ\PSP ਇਹ\DM_DMD ਗੱਲ\N_NN ਵੀ\RP_RPD ਭਲੀ\RB ਭਾਂਤ\RB ਉਜਾਗਰ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਉਹਨਾਂ\PR_PRP ਨੇ\PSP 21\QT_QTC ਪਾਉੜੀਆਂ\N_NN ਦੀ\PSP ਹੀ\RP_RPD ਵਾਰ\N_NN ਲਿਖੀ\V_VM_VF ਸੀ\V_VAUX |\RD_PUNC
+PBRED6802	ਇਹਨਾਂ\PR_PRP ਨਾਲ\PSP ਸਲੋਕ\N_NN ਜੋੜਨ\V_VM_VF ਦਾ\PSP ਸਿਹਰਾ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਸਿਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6803	ਹਰ\QT_QTF ਇੱਕ\QT_QTC ਪਉੜੀ\N_NN ਦੀਆਂ\PSP ਪੰਜ\QT_QTC ਤੁਕਾਂ\N_NN ਹਨ\V_VAUX ਤੇ\CC_CCD ਪਉੜੀ\N_NN ਦੀ\PSP ਤੁਕ\N_NN ਦਾ\PSP ਠੀਕ\JJ ਵਜ਼ਨ\N_NN 15\QT_QTC +\RD_SYM 10\QT_QTC ਮਾਤਰਾਂ\N_NN ਦਾ\PSP ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL -\RD_PUNC
+PBRED6804	ਸਭਿ\QT_QTF ਤੁਝੇ\PR_PRP ਧਿਆਵਹਿ\V_VM_VF ਜੀਅ\N_NN ਜੰਤ\N_NN ,\RD_PUNC ਹਰਿ\N_NN ਸਾਰਗ\N_NN ਪਾਣਾ\V_VM_VF ॥\RD_PUNC
+PBRED6805	ਜੋ\PR_PRL ਗੁਰਮੁਖਿ\N_NN ਹਰਿ\N_NN ਅਰਾਧਦੇ\V_VM_VF ਤਿਨ\PR_PRP ਹਉ\PR_PRP ਕੁਰਬਾਣਾ\V_VM_VF ॥\RD_PUNC
+PBRED6806	ਤੂੰ\PR_PRP ਆਪੇ\PR_PRF ਆਪਿ\PR_PRF ਵਰਤਦਾ\V_VM_VF ਕਰਿ\V_VM ਚੋਜ\N_NN ਵਿਡਾਣਾ\N_NN ॥\RD_PUNC
+PBRED6807	ਦੂਸਰੀ\QT_QTO ਵਾਰ\N_NN ਗਉੜੀ\N_NNP ਦੀਆਂ\PSP ਕੁੱਲ\QT_QTF 33\QT_QTC ਪਉੜੀਆਂ\N_NN ਤੇ\CC_CCD 68\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6808	ਇਨ੍ਹਾਂ\PR_PRP ਵਿਚੋਂ\PSP ਪਹਿਲੀਆਂ\QT_QTO 26\QT_QTC ਪਉੜੀਆਂ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀਆਂ\PSP 27\QT_QTC ਤੋਂ\PSP 31\QT_QTC ਤੱਕ\PSP ਪੰਜ\QT_QTC ਪਉੜੀਆਂ\N_NN ਪੰਚਮ\QT_QTO ਪਾਤਸ਼ਾਹ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਦੀਆਂ\PSP ਅਤੇ\CC_CCD ਅੰਤਿਮ\RB ਦੋ\QT_QTC ਪਉੜੀਆਂ\N_NN ਵੀ\RP_RPD ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀਆਂ\PSP ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6809	ਗਉੜੀ\N_NNP ਦੀ\PSP ਵਾਰ\N_NN ਦੀ\PSP ਪਹਿਲੀ\QT_QTO ਪਉੜੀ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਈਸ਼ਵਰ\N_NN ਦੀ\PSP ਅਰਾਧਨਾ\N_NN ਕੀਤੀ\V_VM_VF ਗਈ\V_VM_VF ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL -\RD_PUNC
+PBRED6810	ਤੂੰ\PR_PRP ਸਚਾ\JJ ਸਾਹਿਬੁ\N_NN ਸਚੁ\JJ ਹੈ\V_VAUX ਸਚੁ\JJ ਸਚਾ\JJ ਗੁਸਾਈ\N_NN ॥\RD_PUNC
+PBRED6811	ਤੁਧੁ\PR_PRP ਨੋ\N_NN ਸਭ\QT_QTF ਧਿਆਇਦੀ\V_VM_VF ਸਭ\QT_QTF ਲਾਗੈ\V_VM_VF ਤੇਰੀ\PR_PRP ਪਾਈ\N_NN ॥\RD_PUNC
+PBRED6812	ਵਡੇ\JJ ਮੇਰੇ\PR_PRP ਸਾਹਿਬਾ\N_NN ਵਡੀ\JJ ਤੇਰੀ\PR_PRP ਵਡਿਆਈ\N_NN ॥\RD_PUNC
+PBRED6813	ਤੀਸਰੀ\QT_QTO ਵਾਰ\N_NN ਬਿਹਾਗੜੇ\N_NNP ਦੀ\PSP ਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6814	ਇਸ\DM_DMD ਦੀਆਂ\PSP ਕੁੱਲ\QT_QTF 21\QT_QTC ਪਉੜੀਆਂ\N_NN ਅਤੇ\CC_CCD 43\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6815	ਪਹਿਲੀਆਂ\QT_QTO ਵਾਰਾਂ\N_NN ਵਾਂਗ\PSP ਇਹ\DM_DMD ਵਾਰ\N_NN ਵੀ\RP_RPD ਵਾਹਿਗੁਰੂ\N_NN ਜਾਂ\CC_CCD ਬ੍ਰਹਮ\N_NN ਦੀ\PSP ਨਿਰੋਲ\JJ ਮਹਿਮਾ\N_NN ਦਾ\PSP ਹੀ\RP_RPD ਗਾਇਨ\N_NN ਕਰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6816	ਇਸ\DM_DMD ਦੇ\PSP ਪ੍ਰੇਰਕ\N_NN ਹੇਤੂ\PSP ਸੰਸਾਰ\N_NN ਦੀ\PSP ਅਸਥਿਰਤਾ\JJ ,\RD_PUNC ਨਾਸ਼ਮਾਨਤਾ\JJ ਅਤੇ\CC_CCD ਛਿੰਨਭੰਗਰਤਾ\JJ ਹੈ\V_VAUX ।\RD_PUNC [\RD_SYM ੫\QT_QTC ]\RD_SYM
+PBRED6817	ਚੌਥੀ\QT_QTO ਵਾਰ\N_NN ਵਡਹੰਸ\N_NNP ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਦੀਆਂ\PSP ਪਉੜੀਆਂ\N_NN 21\QT_QTC ਅਤੇ\CC_CCD ਸਲੋਕ\N_NN 43\QT_QTC ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6818	ਇਹ\DM_DMD ਸਮੁੱਚੀ\QT_QTF ਵਾਰ\N_NN ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲਾਂ\RB ਪਉੜੀਆਂ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਲਿਖੀ\V_VM_VF ਗਈ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6819	ਹਰੇਕ\DM_DMQ ਪਉੜੀ\N_NN ਪੰਜ\QT_QTC ਤੁਕੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6820	ਪੰਜਵੀਂ\QT_QTO ਵਾਰ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਸੋਰਠਿ\N_NNP ਦੀ\PSP ਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6821	ਇਸ\DM_DMD ਦੀਆਂ\PSP ਕੁੱਲ\QT_QTF 29\QT_QTC ਪਉੜੀਆਂ\N_NN ਅਤੇ\CC_CCD 58\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6822	ਹਰ\DM_DMQ ਇੱਕ\QT_QTC ਪਉੜੀ\N_NN ਨਾਲ\PSP ਦੋ\QT_QTC -\RD_PUNC ਦੋ\QT_QTC ਸ਼ਲੋਕ\N_NN ਅੰਕਿਤ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6823	ਇਸ\DM_DMD ਵਾਰ\N_NN ਦਾ\PSP ਕੇਂਦਰੀ\N_NN ਵਿਸ਼ਾ\N_NN ਵੀ\RP_RPD ਗੁਰੂ\N_NN -\RD_PUNC ਮਹਿਮਾ\N_NN ਹੀ\RP_RPD ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6824	ਸੋਰਠਿ\N_NNP ਦੀ\PSP ਵਾਰ\N_NN ਵਿੱਚ\PSP ‘\RD_PUNC ਗੁਰਮੁਖਿ\N_NN ਨਾਨਕ\N_NNP ਅਰਾਧਿਆ\V_VM_VF ਸਭਿ\DM_DMQ ਆਖਹੁ\V_VM_VF ਧੰਨੁ\RP_INJ ਧੰਨੁ\RP_INJ ਧੰਨੁ\RP_INJ ਗੁਰ\N_NN ਸੇਈ\N_NN `\RD_PUNC ਦਾ\PSP ਮਜ਼ਮੂਨ\N_NN ਲਾਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6825	ਛੇਵੀਂ\QT_QTO ਵਾਰ\N_NN ਬਿਲਾਵਲ\N_NNP ਦੀਆਂ\PSP ਸਿਰਫ਼\RB ਤੇਰਾਂ\QT_QTC ਪਉੜੀਆਂ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6826	ਇਹ\DM_DMD ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਲਘੂ\JJ ਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6827	ਇਸ\DM_DMD ਦੇ\PSP ਕੁਲ\QT_QTF 27\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6828	ਇਨ੍ਹਾਂ\PR_PRP ਵਿਚੋਂ\PSP ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP 2`\QT_QTC ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP 24\QT_QTC ਅਤੇ\CC_CCD ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਆਪਣਾ\PR_PRF ਸਿਰਫ਼\RB ਇੱਕ\QT_QTC ਸ਼ਲੋਕ\N_NN ਹੀ\RP_RPD ਅੰਕਿਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6829	ਇਸ\DM_DMD ਦਾ\PSP ਬੁਨਿਆਦੀ\N_NN ਵਜ਼ਨ\N_NN ਤੇ\CC_CCD ਤੋਲ\N_NN 15\QT_QTC +\RD_SYM 10\QT_QTC =\RD_SYM 25\QT_QTC ਮਾਤਰਾ\N_NN ਦਾ\PSP ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL :-\RD_SYM
+PBRED6830	ਤੂ\PR_PRP ਹਰਿ\N_NN ਪ੍ਰਭੂ\N_NN ਆਪਿ\PR_PRF ਅਗੰਮੁ\JJ ਹੈ\V_VAUX ਸਭਿ\DM_DMQ ਤੁਧੁ\PR_PRP ਉਪਾਇਆ\V_VM_VF ॥\RD_PUNC
+PBRED6831	ਤੂ\PR_PRP ਆਪੇ\PR_PRF ਆਪਿ\PR_PRF ਵਰਤਦਾ\V_VM_VF ॥\RD_PUNC
+PBRED6832	ਸਭੁ\DM_DMQ ਜਗਤੁ\N_NN ਸਬਾਇਆ\V_VM_VF ॥\RD_PUNC
+PBRED6833	ਸੱਤਵੀਂ\QT_QTO ਸਾਰੰਗ\N_NNP ਦੀ\PSP ਵਾਰ\N_NN ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਦੀਆਂ\PSP 36\QT_QTC ਪਉੜੀਆਂ\N_NN ਹਨ\V_VAUX ਅਤੇ\CC_CCD 74\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6834	ਇਹ\DM_DMD ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਵਿੱਚ\PSP ਅੰਕਿਤ\N_NN ਬਾਈ\QT_QTC ਵਾਰਾਂ\N_NN ਵਿਚੋਂ\PSP ਸਭ\DM_DMQ ਤੋਂ\PSP ਲੰਮੀ\JJ ਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6835	ਇਨ੍ਹਾਂ\PR_PRP ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP 33\QT_QTC ,\RD_PUNC ਗੁਰੂ\N_NN ਅੰਗਦ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP 9\QT_QTC ,\RD_PUNC ਸਲੋਕ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6836	ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP 23\QT_QTC ,\RD_PUNC ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਆਪਣੇ\PR_PRF 6\QT_QTC ਅਤੇ\CC_CCD ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਸਿਰਫ਼\RB ਤਿੰਨ\QT_QTC ਸ਼ਲੋਕ\N_NN ਵਿਦਮਾਨ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6837	ਆਪੇ\PR_PRF ਆਪਿ\PR_PRF ਨਿਰੰਜਨਾ\N_NN ਜਿਨਿ\PR_PRL ਆਪੁ\PR_PRF ਉਪਾਇਆ\V_VM_VF ॥\RD_PUNC
+PBRED6838	ਆਪੇ\PR_PRF ਖੇਲੁ\N_NN ਰਚਾਇਓਨੁ\V_VM_VF ਸਭ\DM_DMQ ਜਗਤੁ\N_NN ਸਬਾਇਆ\V_VM_VF ॥\RD_PUNC
+PBRED6839	ਅੱਠਵੀਂ\QT_QTO ਵਾਰ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਕਾਨੜੇ\N_NNP ਦੀ\PSP ਵਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6840	ਜਿਸ\PR_PRL ਦੀਆਂ\PSP 15\QT_QTC ਪਉੜੀਆਂ\N_NN ਅਤੇ\CC_CCD 30\QT_QTC ਸ਼ਲੋਕ\N_NN ਹਨ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\DM_DMD ਸਾਰੇ\QT_QTF ਦੇ\PSP ਸਾਰੇ\QT_QTF ਸ਼ਲੋਕ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੁਆਰਾ\PSP ਰਚੇ\V_VM_VF ਹੋਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6841	ਇਸ\DM_DMD ਵਾਰ\N_NN ਦਾ\PSP ਮੂਲ\N_NN ਵਿਸ਼ਾ\N_NN ਵੀ\RP_RPD ਪਹਿਲੀਆਂ\QT_QTO ਵਾਰਾਂ\N_NN ਵਾਂਗ\PSP ਗੁਰੂ\N_NN ਭਗਤੀ\N_NN ਅਤੇ\CC_CCD ਨਾਮ\N_NN ਭਗਤੀ\N_NN ਦੀ\PSP ਮਹਿਮਾ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6842	ਘੋੜੀਆਂ\N_NNP :\RD_PUNC ਰਾਗ\N_NN ਵਡਹੰਸ\N_NNP ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਲੋਕ\N_NN -\RD_SYM ਕਾਵਿ\N_NN ਰੂਪ\N_NN ‘\RD_SYM ਘੋੜੀਆਂ\N_NNP `\RD_PUNC ਵਿੱਚ\PSP ਵੀ\RP_RPD ਬਾਣੀ\N_NN ਦੀ\PSP ਰਚਨਾ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6843	ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਪੰਨਾ\N_NN ਨੰਬਰ\N_NN 575\QT_QTC ਅਤੇ\CC_CCD 576\QT_QTC ਵਿੱਚ\PSP ਦਰਜ\N_NN ਇਸ\DM_DMD ਬਾਣੀ\N_NN ਦੇ\PSP ਪਿਛੋਕੜ\N_NN ਬਾਰੇ\PSP ਵਿਚਾਰ\N_NN ਕਰਨਾ\V_VM_VF ਆਵੱਸ਼ਕ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6844	ਸਾਡੀ\PR_PRP ਜਾਚੇ\N_NN ‘\N_NN ਘੋੜੀਆਂ\N_NNP `\RD_PUNC ਵਿਆਹ\N_NN ਸਮੇਂ\N_NN ਗਾਏ\V_VM_VF ਜਾਣ\N_NN ਵਾਲੇ\PSP ਗੀਤਾਂ\N_NN ਦਾ\PSP ਨਾਂ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6845	ਜਦੋਂ\PR_PRL ਲਾੜਾ\N_NN ਸਜੀ\N_NN ਹੋਈ\V_VM_VF ਘੋੜੀ\N_NN ਤੇ\RB ਚੜਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6846	ਉਸ\PR_PRP ਨੂੰ\PSP ਘੋੜੀ\N_NN ਚੜਨ\V_VM_VF ਦੀ\PSP ਰੀਤ\N_NN ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6847	ਇਸ\DM_DMD ਰੀਤ\N_NN ਸਮੇਂ\N_NN ਜਿਹੜੇ\PR_PRL ਗੀਤ\N_NN ਗਾਏ\V_VM_VF ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ‘\RD_PUNC ਘੋੜੀਆਂ\N_NN `\RD_PUNC ਕਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6848	ਇਸ\DM_DMD ਸੰਸਾਰੀ\N_NN ਰੀਤ\N_NN ਨੂੰ\PSP ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਇੱਕ\QT_QTC ਅਧਿਆਤਮਕ\N_NN ਅਰਥ\N_NN ਅਤੇ\CC_CCD ਮੋੜ\N_NN ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6849	ਅਰਥਾਤ\N_NN ਸਰੀਰ\N_NN ਇੱਕ\QT_QTC ਸੁੰਦਰ\JJ ਘੋੜੀ\N_NN ਦੀ\PSP ਨਿਆਈਂ\PSP ਹੈ\V_VAUX ,\RD_PUNC ਜਿਸ\PR_PRL ਤੇ\RB ਚੜ\V_VM ਕੇ\V_VM_VNF ਪਰਮਾਤਮਾ\N_NN ਤੱਕ\PSP ਪਹੁੰਚਣਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6850	ਨਾਮ\N_NN ਰੂਪੀ\N_NN ਜੀਨ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ,\RD_PUNC ਗਿਆਨ\N_NN ਰੂਪੀ\N_NN ਕੰਡਿਆਰਾ\N_NN ਪਾ\V_VM ਕੇ\V_VM_VNF ਅਤੇ\CC_CCD ਪ੍ਰਭੂ\N_NN -\RD_PUNC ਪ੍ਰੇਮ\N_NN ਰੂਪੀ\N_NN ਚਾਬਕ\N_NN ਮਾਰ\V_VM_VF ਕੇ\V_VM_VNF ਨਾਮ\N_NN ਦ੍ਰਿੜ\N_NN ਕਰਨ\V_VM_VF ਦੀ\PSP ਰੀਤ\N_NN ਦਰਸਾਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6851	ਅਜਿਹੀ\RB ਘੋੜੀ\N_NN ਦੀ\PSP ਸਵਾਰੀ\N_NN ਛੇਤੀ\JJ ਹੀ\RP_RPD ਅਕਾਲਪੁਰਖ\N_NNP ਨਾਲ\PSP ਮੇਲ\N_NN ਕਰਵਾ\V_VM_VF ਦਿੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6852	ਲਾਵਾਂ\N_NN :\RD_PUNC ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਵਿੱਚ\PSP ਪੰਨਾ\N_NN 773\QT_QTC -\RD_PUNC 774\QT_QTC ਉਤੇ\RB ਸੂਹੀ\N_NNP ਰਾਗ\N_NN ਦੇ\PSP ਛੰਤਾਂ\N_NN ਵਿੱਚ\PSP ਹੀ\RP_RPD ਲਾਵਾਂ\N_NN ਦੇ\PSP ਚਾਰ\QT_QTC ਛੰਤ\N_NNP ਆਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6853	ਲਾਂਵ\N_NN ਦਰਅਸਲ\RB ਪ੍ਰਤੀਕ\N_NN ਹੈ\V_VAUX ,\RD_PUNC ਇੱਕ\QT_QTC ਅਜਿਹੀ\RB ਲੰਬੀ\JJ ,\RD_PUNC ਮਜ਼ਬੂਤ\JJ ਅਤੇ\CC_CCD ਅਟੁੱਟ\JJ ਰੱਸੀ\N_NN ਦਾ\PSP ਜਿਸ\PR_PRL ਨਾਲ\PSP ਪਸ਼ੂ\N_NN ਨੂੰ\PSP ਨੂੜ\N_NN ਕੇ\PSP ਬੰਨਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6854	ਇਹਨਾਂ\PR_PRP ਲਾਵਾਂ\N_NN ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਗੁਰਮਤਿ\N_NN ਦੇ\PSP ਪੂਰੇ\JJ ਰਹੱਸਵਾਦ\N_NN ਅਤੇ\CC_CCD ਜੀਵਨ\N_NN ਦੇ\PSP ਚਾਰ\QT_QTC ਮਹੱਤਵਪੂਰਨ\N_NN ਪੜਾਵਾਂ\N_NN ਦਾ\PSP ਉਲੇਖ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6855	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਕਾਵਿ\N_NN ਦਾ\PSP ਪ੍ਰਧਾਨ\JJ ਸੁਰ\N_NN ਅਧਿਆਤਮਿਕਤਾ\N_NN ਅਤੇ\CC_CCD ਭਗਤੀ\N_NN ਭਾਵਨਾ\N_NN ਦਾ\PSP ਹੈ\V_VAUX ਜੋ\PR_PRL ਵਿਸ਼ੇਸ਼\JJ ਕਰਕੇ\V_VM_VF ਜੀਵ\N_NN ਅਤੇ\CC_CCD ਪ੍ਰਭੂ\N_NN ਦੇ\PSP ਮਿਲਾਪ\N_NN ਨਾਲ\PSP ਸੰਬੰਧਿਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6856	ਪਹਿਲੀ\QT_QTO ਲਾਂਵ\N_NN ਵਿੱਚ\PSP ਮੂਲ\N_NN ਅਵਸਥਾ\N_NN ਆਪਣੇ\PR_PRF ਧਰਮ\N_NN ਕਰਮ\N_NN ਵਿੱਚ\PSP ਪੂਰੀ\JJ ਤਰਾਂ\PSP ਦ੍ਰਿੜ\N_NN ਹੋਣ\V_VM_VF ਦੀ\PSP ਅਤੇ\CC_CCD ਵਿਸ਼ਵਾਸ\N_NN ਦੀ\PSP ਪਕਿਆਈ\JJ ਦੀ\PSP ਹੈ\V_VAUX ਜਿਵੇਂ\RP_CL :\RD_PUNC
+PBRED6857	ਹਰਿ\N_NN ਪਹਿਲੜੀ\QT_QTO ਲਾਵ\N_NN ਪਰਵਿਰਤੀ\N_NN ਕਰਮ\N_NN ਦ੍ਰਿੜਾਇਆ\V_VM_VF ਬਲਿਰਾਮ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6858	ਬਾਣੀ\N_NN ਬ੍ਰਹਮਾ\N_NN ਵੇਦੁ\N_NN ਧਰਮੁ\N_NN ਦ੍ਰਿੜਹੁ\N_NN ਪਾਪ\N_NN ਤਜਾਇਆ\V_VM_VF ਬਲਿਰਾਮ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6859	ਧਰਮ\N_NN ਦ੍ਰਿੜਹੁ\N_NN ਹਰਿ\N_NN ਨਾਮ\N_NN ਧਿਆਵਹੁ\V_VM_VF ਸਿਮ੍ਰਤਿ\N_NN ਨਾਮ\N_NN ਦ੍ਰਿੜ੍ਹਾਇਆ\V_VM_VF ॥\RD_PUNC
+PBRED6860	ਸਤਿਗੁਰੂ\N_NN ਗੁਰੁ\N_NN ਪੂਰਾ\JJ ਅਰਾਧਹੁ\V_VM_VF ਸਭਿ\DM_DMQ ਕਿਲ\N_NN ਵਿਖ\N_NN ਪਾਪ\N_NN ਗਵਾਇਆ\V_VM_VF ॥\RD_PUNC
+PBRED6861	ਦੂਜੀ\QT_QTO ਲਾਂਵ\N_NN ਅਨੁਸਾਰ\PSP ਸਤਿਗੁਰੂ\N_NN ਦੇ\PSP ਮਿਲਾਪ\N_NN ਉਪਰੰਤ\RB ਮਨ\N_NN ਹਰ\DM_DMQ ਪ੍ਰਕਾਰ\N_NN ਦੇ\PSP ਭੈ\N_NN ਅਤੇ\CC_CCD ਵਿਸ਼ੇ\N_NN ਵਿਕਾਰਾਂ\N_NN ਤੋਂ\PSP ਵਿਮੁਕਤ\JJ ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC
+PBRED6862	ਅਤੇ\CC_CCD ਹਉਮੈ\N_NN ਦੀ\PSP ਮੈਲ\N_NN ਲਹਿਣ\V_VM_VF ਉਪਰੰਤ\RB ਚਾਰੇ\QT_QTO ਪਾਸੇ\N_NN ਆਨੰਦ\N_NN ਹੀ\RP_RPD ਆਨੰਦ\N_NN ਦਾ\PSP ਵਾਯੂਮੰਡਲ\N_NN ਉਤਪੰਨ\RB ਹੋ\V_VAUX ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6863	ਜਿਵੇਂ\RP_CL ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਫਰਮਾਉਂਦੇ\V_VM_VF ਹਨ\V_VAUX :-\RD_SYM
+PBRED6864	ਹਰਿ\N_NN ਦੂਜੜੀ\QT_QTO ਲਾਵ\N_NN ਸਤਿਗੁਰੂ\N_NN ਪੁਰਖ\N_NN ਮਿਲਾਇਆ\V_VM_VF ਬਲਿਰਾਮ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6865	ਨਿਰਭਉ\JJ ਭੈ\JJ ਮਨੁ\N_NN ਹੋਇ\V_VM_VF ਹਉਮੈ\N_NN ਮੈਲ\N_NN ਗਵਾਇਆ\V_VM_VF ਬਲਿਰਾਮ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6866	ਅੰਤਰਿ\JJ ਬਾਹਰਿ\JJ ਹਰਿ\N_NN ਪ੍ਰਭੂ\N_NN ਏਕੋ\QT_QTO ਮਿਲਿ\N_NN ਹਰਿ\N_NN ਜਨ\N_NN ਮੰਗਲ\N_NN ਗਾਏ\V_VM_VF ॥\RD_PUNC
+PBRED6867	ਜਨ\N_NN ਨਾਨਕ\N_NNP ਦੂਜੀ\QT_QTO ਲਾਵ\N_NN ਚਲਾਈ\N_NN ਅਨਹਦ\N_NN ਸ਼ਬਦ\N_NN ਵਜਾਏ\V_VM_VF ॥\RD_PUNC
+PBRED6868	ਤੀਸਰੀ\QT_QTO ਲਾਂਵ\N_NN ਵਿੱਚ\PSP ਵੈਰਾਗ\N_NN ਅਤੇ\CC_CCD ਪਿਆਰ\N_NN ਦੀ\PSP ਅਵਸਥਾ\N_NN ਦਾ\PSP ਸੁੰਦਰ\JJ ਵਰਣਨ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6869	ਹਰਿ\N_NN ਤੀਜੜੀ\QT_QTO ਲਾਵ\N_NN ਮਨਿ\N_NN ਚਾਉ\N_NN ਭਇਆ\V_VM_VF ਬੈਰਾਗੀਆਂ\N_NN ਬਲਿਰਾਮੁ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6870	ਹਿਰਦੈ\N_NN ਹਰਿ\N_NN ਹਰਿ\N_NN ਹਰਿ\N_NN ਧੁਨਿ\N_NN ਉਪਜੀ\V_VM_VF ਹਰਿ\N_NN ਜਪੀਐ\V_VM_VF ਮਸਤਕਿ\N_NN ਭਾਗੁ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6871	ਜਨੁ\N_NN ਨਾਨਕੁ\N_NN ਬੋਲੈ\V_VM_VF ਤੀਜੀ\QT_QTO ਲਾਵੈ\N_NN ਹਰਿ\N_NN ਉਪਜੈ\V_VM_VF ਮਨਿ\N_NN ਬੈਰਾਗ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6872	ਚੌਥੀ\QT_QTO ਲਾਂਵ\N_NN ਵਿੱਚ\PSP ਪਹਿਲਾਂ\RB ਸਹਿਜ\JJ ਦੀ\PSP ਅਵਸਥਾ\N_NN ਦੀ\PSP ਪ੍ਰਾਪਤੀ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਫਿਰ\RB ਪਤੀ\N_NN ਪਰਮਾਤਮਾ\N_NN ਦੀ\PSP ।\RD_PUNC
+PBRED6873	ਹਰਿ\N_NN ਚਉਥੜੀ\QT_QTO ਲਾਵ\N_NN ਮਨਿ\N_NN ਸਹਜੁ\N_NN ਭਇਆ\V_VM_VF ਹਰਿ\N_NN ਪਾਇਆ\V_VM_VF ਬਲਿਰਾਮੁ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6874	ਗੁਰਮੁਖਿ\N_NN ਮਿਲਿਆ\V_VM_VF ਸੁਭਾਇ\N_NN ਹਰਿ\N_NN ਮਨਿ\N_NN ਤਨਿ\N_NN ਮੀਠਾ\N_NN ਲਾਇਆ\V_VM_VF ਬਲਿਰਾਮ\N_NN ਜੀਉ\RP_INJ ॥\RD_PUNC
+PBRED6875	ਹਰਿ\N_NN ਮੀਠਾ\N_NN ਲਾਇਆ\V_VM_VF ਮੇਰੇ\N_NN ਪ੍ਰਭੁ\N_NN ਭਾਇਆ\V_VM_VF ਅਨਦਿਨੁ\N_NN ਹਰਿ\N_NN ਲਿਵਲਾਈ\V_VM_VF ॥\RD_PUNC
+PBRED6876	ਮਨ\N_NN ਚਿੰਦਿਆ\N_NN ਫਲੁ\N_NN ਪਾਇਆ\V_VM_VF ਸੁਆਸੀ\N_NN ਹਰਿਨਾਮਿ\N_NN ਵਜੀ\V_VM_VF ਵਾਧਾਈ\N_NN ॥\RD_PUNC
+PBRED6877	ਹਰਿ\N_NN ਪ੍ਰਭਿ\N_NN ਠਾਕੁਰਿ\N_NN ਕਾਜ\N_NN ਰਚਾਇਆ\V_VM_VF ਧਨ\N_NN ਹਿਰਦੈ\N_NN ਨਾਮਿ\N_NN ਵਿਗਾਸੀ\V_VM_VF ॥\RD_PUNC
+PBRED6878	ਜਨੁ\N_NN ਨਾਨਕੁ\N_NNP ਬੋਲੈ\V_VM_VF ਚਉਥੀ\QT_QTO ਲਾਵੇ\N_NN ਹਰਿ\N_NN ਪਾਇਆ\V_VM_VF ਪ੍ਰਭੁ\N_NN ਅਵਿਨਾਸ਼ੀ\N_NN ॥\RD_PUNC
+PBRED6879	ਕਰਹਲੇ\N_NNP ‘\N_NN ਕਰਹਲੇ\N_NNP `\RD_PUNC ਸਿਰਲੇਖ\N_NN ਹੇਠਾਂ\RB ਦੋ\QT_QTC ਸ਼ਬਦ\N_NN ਰਾਗੁ\N_NN ਗਉੜੀ\N_NNP ਪੂਰਬੀ\N_NNP ਵਿੱਚ\PSP ਮਿਲਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6880	ਕਰਹਲੇ\N_NNP ਦਾ\PSP ਭਾਵ\N_NN ਹੋਲਾ\N_NN ਕਰਨਾ\V_VM_VF ਜਾਂ\CC_CCD ਹੱਲਾ\N_NN ਸ਼ੇਰੀ\N_NN ਦੇਣੀ\V_VM_VF ਵੀ\RP_RPD ਲਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6881	ਉਂਝ\RB ‘\RD_SYM ਕਰਹਲਾ\N_NNP `\RD_PUNC ਊਠ\N_NN ਨੂੰ\PSP ਕਹਿੰਦਾ\V_VM_VF ਹਨ\V_VAUX ਇਥੇ\RB ‘\N_NN ਕਰਹਲ\N_NN `\RD_PUNC ਤੋਂ\PSP ਭਟਕਦੇ\N_NN ਜੀਵ\N_NN ਵਲ\PSP ਵੀ\RP_RPD ਇਸ਼ਾਰਾ\N_NN ਹੋ\V_VAUX ਸਕਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6882	ਕਰਹਲੇ`\N_NNP ਦੇ\PSP ਦੋਹਾਂ\QT_QTO ਸ਼ਬਦਾਂ\N_NN ਵਿੱਚ\PSP ਸਤਿਗੁਰੂ\N_NN ਦੀ\PSP ਸ਼ਰਨੀ\N_NN ਜਾਣ\V_VM_VF ਦਾ\PSP ਉਪਦੇਸ਼\N_NN ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਹੈ\V_VAUX ਜਿਥੇ\RB ਭਟਕਣ\N_NN ਖ਼ਤਮ\N_NN ਹੋ\V_VAUX ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6883	ਛੰਤ\N_NNP :\RD_PUNC ਛਕੇ\N_NNP ਛੰਤ\N_NNP ਛੇ\QT_QTC ਛੰਤਾਂ\N_NNP ਨੂੰ\PSP ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ਨਾਂ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6884	ਆਸਾ\N_NNP ਰਾਗ\N_NN ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਘਰੁ\N_NN 4\QT_QTC ਵਿੱਚ\PSP ਛੇ\QT_QTC ਛੰਤ\N_NNP ਮਿਲਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6885	ਹਰ\DM_DMQ ਛੰਤ\N_NNP ਦੇ\PSP ਚਾਰ\QT_QTC ਪਦੇ\N_NN ਹਨ\V_VAUX ,\RD_PUNC ਇਸ\DM_DMD ਲਈ\PSP ਕੁਲ\QT_QTF 35\QT_QTC ਪਦੇ\N_NN ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6886	ਹਰ\DM_DMQ ਪਦੇ\N_NN ਨੂੰ\PSP ਆਸਾ\N_NNP ਦੀ\N_NNP ਵਾਰ\N_NNP ਦੀ\PSP ਹਰ\DM_DMQ ਪਉੜੀ\N_NN ਨਾਲ\PSP ਤਰਤੀਬ\N_NN ਵਾਰ\N_NN ਪੜਿਆ\V_VM_VF ਜਾਂਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6887	ਵਣਜਾਰਾ\N_NNP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਵਿੱਚ\PSP ਪੰਨਾ\N_NN 81\QT_QTC ਉਤੇ\RB ਵਣਜਾਰਾ\N_NNP ਸਿਰਲੇਖ\N_NN ਹੇਠ\RB ਸਿਰਫ\RB ਇੱਕ\QT_QTC ਹੀ\RP_RPD ਸ਼ਬਦ\N_NN ਮਿਲਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6888	ਅਤੇ\CC_CCD ਇਸ\DM_DMD ਸ਼ਬਦ\N_NN ਦੇ\PSP ਰਚਣਹਾਰ\N_NN ਵੀ\RP_RPD ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਹੀ\RP_RPD ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6889	‘\RD_PUNC ਵਣਜਾਰਾ\N_NNP `\RD_PUNC ਇੱਕ\QT_QTC ਅਜਿਹਾ\RB ਸ਼ਬਦ\N_NN ਹੈ\V_VAUX ਜਿਸ\PR_PRL ਦੇ\PSP ਸਿੱਧੇ\JJ ਸਾਦੇ\JJ ਅਰਥ\N_NN ਹਨ\V_VAUX -\RD_PUNC ਵਣਜ\N_NN ਜਾਂ\CC_CCD ਵਪਾਰ\N_NN ਕਰਨ\V_VM_VF ਵਾਲਾ\PSP ।\RD_PUNC
+PBRED6890	ਵਿਚਾਰਧਾਰਾ\N_NN /\RD_PUNC ਫ਼ਲਸਫ਼ਾ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਅਨੁਸਾਰ\N_NN ਗੁਰੂ\N_NN ਅਤੇ\CC_CCD ਪ੍ਰਭੂ\N_NN ਵਿੱਚ\PSP ਅੰਤਰ\N_NN ਨਹੀਂ\RP_NEG ।\RD_PUNC
+PBRED6891	ਗੁਰੂ\N_NN ਰੱਬੀ\N_NN ਗੁਣਾਂ\N_NN ਨਾਲ\PSP ਸੰਚਾਰਿਤ\N_NN ਹੁੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6892	ਗੁਰੂ\N_NN ਦਾ\PSP ਬਚਨ\N_NN ਗੁਣਾਂ\N_NN ਦਾ\PSP ਸਾਗਰ\N_NN ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਜੀਵ\N_NN ਉਸ\PR_PRP ਸਾਗਰ\N_NN ਦੀ\PSP ਇੱਕ\QT_QTC ਇਕ\QT_QTC ਗੁਣਾਂ\N_NN ,\RD_PUNC ਰੂਪੀ\N_NN ਬੰਦ\N_NN ਨੂੰ\PSP ਪ੍ਰਾਪਤ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਯਤਨਸ਼ੀਲ\N_NN ਰਹਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6893	ਗੁਰੂ\N_NN ਅਤੇ\CC_CCD ਭਗਤ\N_NN ਦਾ\PSP ਅਜਿਹਾ\RB ਰਿਸ਼ਤਾ\N_NN ਹੈ\V_VAUX ਜਿਥੇ\RB ਬਾਕੀ\N_NN ਰਿਸ਼ਤਾ\N_NN ਨਿਰਾਰਥਕ\JJ ਅਨੁਭਵ\N_NN ਹੋਣ\V_VM_VF ਲੱਗ\V_VM ਜਾਂਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6894	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੀ\PR_PRF ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਪ੍ਰਭੂ\N_NN ਦੀ\PSP ਮਹਿਮਾ\N_NN ਹੀ\RP_RPD ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6895	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਅਨੁਸਾਰ\N_NN ,\RD_PUNC ਗੁਰੂ\N_NN ਦਾ\PSP ਮਹੱਤਵ\N_NN ਬਹੁ\JJ -\RD_PUNC ਪੱਖੀ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6896	ਆਪ\PR_PRF ਨੇ\PSP ਆਪਣੀ\PR_PRF ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਅਤੇ\CC_CCD ਸਾਧ\N_NN ਸੰਗਤ\N_NN ਦੀ\PSP ਮਹਿਮਾ\N_NN ਦੇ\PSP ਨਾਲ\RB -\RD_PUNC ਨਾਲ\RB ਹੋਰ\DM_DMQ ਪ੍ਰਾਸੰਗਿਕ\N_NN ਦਾਰਸ਼ਨਿਕ\N_NN ਪੱਖਾਂ\N_NN ਨੂੰ\PSP ਵੀ\RP_RPD ਉਜਾਗਰ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6897	ਸਤਿਗੁਰੂ\N_NN ਤੋਂ\PSP ਬੇਮੁੱਖ\JJ ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਜੀਵ\N_NN ਨੂੰ\PSP ਖੱਜਲ\N_NN ਖਵਾਰ\N_NN ਹੋਣਾ\V_VM_VF ਪੈਂਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਇਹ\DM_DMD ਭਟਕਣ\N_NN ਜਾਂ\CC_CCD ਖੱਜਲ\N_NN ਖੁਆਰੀ\N_NN ਗੁਰੂ\N_NN ਦੀ\PSP ਸ਼ਰਨੀ\N_NN ਜਾਇਆ\N_NN ਹੀ\RP_RPD ਦੂਰ\N_NN ਹੋ\V_VAUX ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6898	ਸਮੁੱਚੀ\QT_QTF ਬਾਣੀ\N_NN ਦਾ\PSP ਸਾਰ\N_NN ਇਹ\DM_DMD ਹੈ\V_VAUX ਕਿ\CC_CCS ਹਰ\DM_DMQ ਵਕਤ\N_NN ਵਾਹਿਗੁਰੂ\N_NN ਦੇ\PSP ਨਾਮ\N_NN ਦਾ\PSP ਸਿਮਰਨ\N_NN ਕਰੋ\V_VM_VF ਤੇ\CC_CCD ਸ਼ੁਭ\N_NN ਗੁਣਾਂ\N_NN ਨੂੰ\PSP ਧਾਰਨ\N_NN ਕਰਦੇ\V_VM_VF ਹੋਏ\V_VM_VF ਹਉਮੈ\N_NN ਤੇ\CC_CCD ਹੋਰ\N_NN ਵਿਕਾਰਾਂ\N_NN ਦਾ\PSP ਤਿਆਗ\N_NN ,\RD_PUNC ਗੁਰੂ\N_NN ਦੀ\PSP ਸ਼ਰਨ\N_NN ਲੈ\V_VM ਕੇ\V_VM_VNF ਸਤਿਸੰਗ\N_NN ਵਿੱਚ\PSP ਨਾਮ\N_NN ਸਿਮਰਨ\N_NN ਕਰਕੇ\V_VM_VF ਹੀ\RP_RPD ਪ੍ਰਭੂ\N_NN ਦੀ\PSP ਬਖਸ਼ਿਸ਼\N_NN ਸੰਭਵ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6899	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਅਨੁਸਾਰ\N_NN ਪ੍ਰਭੂ\N_NN ਆਕਾਰ\N_NN -\RD_PUNC ਯੁਕਤ\JJ ਨਹੀਂ\RP_NEG ਆਕਾਰ\N_NN ਮੁਕਤ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6900	ਗੁਰੂ\N_NN ਜੀ\N_NN ਅਨੁਸਾਰ\PSP ਇਹੋ\DM_DMD ਹੀ\RP_RPD ਗੁਰਮਤ\N_NN ਦਾ\PSP ਰਹੱਸਵਾਦ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6901	ਗੁਰਸਿਖ\N_NN ਸਭ\DM_DMQ ਦਾ\PSP ਭਲਾ\N_NN ਸੋਚਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6902	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਸਿੱਖ\N_NN ਲਈ\PSP ਇੱਕ\QT_QTC ਆਚਾਰ\N_NN ਨੀਤੀ\N_NN ਨੀਅਤ\N_NN ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6903	ਗੁਰਮੁਖ\N_NN ਨੂੰ\PSP ਹਰੀ\N_NN ਪ੍ਰਭੂ\N_NN ਦੀ\PSP ਭੁੱਖ\N_NN ਲਗਦੀ\V_VM_VF ।\RD_PUNC
+PBRED6904	ਨਵੇਂ\JJ ਗਿਆਨ\N_NN ਦੀ\PSP ਖੋਜ਼\N_NN ਵਿੱਚ\PSP ਇੱਕ\QT_QTC ਥਾਂ\N_NN ਤੋਂ\PSP ਦੂਜੀ\QT_QTO ਥਾਂ\N_NN ਅਕਸਰ\RB ਭਰਮਣ\N_NN ਕਰਦੇ\V_VM_VF ਰਹਿੰਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6905	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਅਰਬੀ\N_NNP ਫਾਰਸੀ\N_NNP ਤੇ\CC_CCD ਉਰਦੂ\N_NNP ਭਾਸ਼ਾ\N_NN ਦਾ\PSP ਪ੍ਰਭਾਵ\N_NN ਪ੍ਰਤੱਖ\JJ ਰੂਪ\N_NN ਵਿੱਚ\PSP ਉਜਾਗਰ\N_NN ਹੋਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6906	ਇਸ\DM_DMD ਸ਼ਬਦਾਵਲੀ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਤਤਸਮ\JJ ਅਤੇ\CC_CCD ਤਦਭਵ\JJ ਦੋਵੇਂ\QT_QTO ਰੂਪਾਂ\N_NN ਵਿੱਚ\PSP ਕੀਤੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6907	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬੋਲੀ\N_NN ਦੀ\PSP ਅਗਲੀ\JJ ਵਿਸ਼ੇਸ਼ਤਾ\N_NN ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਭਾਸ਼ਾਈ\N_NN ਸੁਹਜ\JJ ਨੂੰ\PSP ਉਤਪੰਨ\RB ਕਰਨ\V_VM_VF ਵਾਲੇ\PSP ਆਧਾਰਾਂ\N_NN ਨਾਲ\PSP ਸੰਬੰਧਿਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6908	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਸੁਹਜ\JJ ਮੁਹਾਵਰਿਆਂ\N_NN ,\RD_PUNC ਅਖਾਣਾਂ\N_NN ਦੀ\PSP ਉਚਿਤ\JJ ਅਤੇ\CC_CCD ਸੰਜਮਮਈ\JJ ਵਰਤੋਂ\V_VM_VF ਨਾਲ\PSP ਆਇਆ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6909	ਅਲੰਕਾਰ\N_NN -\RD_PUNC ਯੋਜਨਾ\N_NN :\RD_PUNC ਜਿਥੇ\RB ਅਨੇਕ\DM_DMQ ਵਰਣਾਂ\N_NN ਦੀ\PSP ਸਰੂਪ\N_NN ਅਤੇ\CC_CCD ਕ੍ਰਮ\N_NN ਨਾਲ\PSP ਇੱਕ\QT_QTC ਵਾਰ\N_NN ਵਰਤੋਂ\V_VM_VF ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਉਥੇ\RB ਛੇਕਾਂ\N_NNP ਅਨੁਪ੍ਰਾਸ\N_NNP ਅਲੰਕਾਰ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6910	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਛੇਕ\N_NNP ਅਨੁਪ੍ਰਾਸ\N_NNP ਅਲੰਕਾਰ\N_NN ਵਰਤੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6911	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਸੁਤਿਆਨੁਪ੍ਰਾਸ\N_NNP ਦੀ\PSP ਝਲਕ\N_NN ਵੀ\RP_RPD ਦ੍ਰਿਸ਼ਟੀਗੋਚਰ\JJ ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6912	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ੳ\N_NN ,\RD_PUNC ਅ\N_NN ,\RD_PUNC ੲ\N_NN ,\RD_PUNC ਸ\N_NN ,\RD_PUNC ਹ\N_NN ਦੇ\PSP ਵਰਗ\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਵੀ\RP_RPD ਵੇਖਣਯੋਗ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6913	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਅਲੰਕਾਰਾਂ\N_NNP ਨਾਲ\PSP ਭਰਪੂਰ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6914	ਛੰਦ\N_NNP :\RD_PUNC ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਕਈ\DM_DMQ ਛੰਦਾਂ\N_NNP ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਹੋਈ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6915	ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਉਗਾਹਾ\N_NNP ,\RD_PUNC ਅਤਿਗੀਤਾ\N_NNP ,\RD_PUNC ਰਵੱਈਆ\N_NNP ,\RD_PUNC ਚਿਤ੍ਰਕਲਾ\N_NNP ਜਾਂ\CC_CCD ਅਨਕਲਾ\N_NNP ,\RD_PUNC ਸੁਗੀਤਕਾ\N_NNP (\RD_SYM ਛੰਦ\N_NN )\RD_SYM ,\RD_PUNC ਪਉੜੀ\N_NNP ,\RD_PUNC ਸੋਰਠਾ\N_NNP ,\RD_PUNC ਦੋਹਰਾ\N_NNP ,\RD_PUNC ਚੌਪਈ\N_NNP ਆਦਿ\RP_CL ਛੰਦਾਂ\N_NNP ਦਾ\PSP ਪ੍ਰਯੋਗ\N_NN ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6916	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਛੰਤ\N_NNP ਰਚਨਾ\N_NN ਵਿਸਤ੍ਰਿਤ\JJ ਰੂਪ\N_NN ਵਿੱਚ\PSP ਪ੍ਰਾਪਤ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6917	ਉਹਨਾਂ\PR_PRP ਦੁਆਰਾ\PSP ਰਚਿਤ\N_NN ਕੁਲ\QT_QTF 29\QT_QTC ਛੰਤ\N_NNP ਹਨ\V_VAUX ਜੋ\PR_PRL ਵਿਭਿੰਨ\JJ ਰਾਗਾਂ\N_NN ਵਿੱਚ\PSP ਰਚੇ\V_VM_VF ਗਏ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6918	ਰਸ\N_NN ਵਿਧਾਨ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸਮੁੱਚੀ\QT_QTF ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਸ਼ਿੰਗਾਰ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਹਾਸ\N_NNP ਰਾਸ\N_NN ,\RD_PUNC ਕਰੁਣਾ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਰੌਦਰ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਬੀਰ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਭਿਆਨਕ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਵੀਭਤਸ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਅਦਭੁਤ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਸ਼ਾਂਤ\N_NNP ਰਸ\N_NN ,\RD_PUNC ਵਾਤਸ਼ਲਯ\N_NNP ਰਸ\N_NN ਅਤੇ\CC_CCD ਭਗਤੀ\N_NNP ਰਸ\N_NN ਵਧੇਰੇ\RB ਪਰਬਲ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6919	ਸ਼ੈਲੀ\N_NN :\RD_PUNC ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਦੀ\PSP ਪ੍ਰਥਮ\QT_QTO ਸ਼ੈਲਗਤ\N_NN ਖੂਬੀ\JJ ਅਰੁਕ\JJ ਵਹਾ\N_NN ,\RD_PUNC ਗਤੀਸ਼ੀਲਤਾ\JJ ਅਤੇ\CC_CCD ਰਵਾਨਗੀ\JJ ਦੀ\PSP ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6920	ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਬਾਣੀ\N_NN ਦੀ\PSP ਕਥਨ\N_NN ਵਿਧੀ\N_NN ਗ੍ਰਾਮੀਨ\N_NN ਨਹੀਂ\RP_NEG ਸ਼ਹਿਰੀ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6921	ਸ਼ੈਲੀ\N_NN ਦੀ\PSP ਰਵਾਨਗੀ\JJ ਦੀ\PSP ਇਕੋ\QT_QTC ਇੱਕ\QT_QTC ਖਾਸ਼ੀਅਤ\N_NN ਸ਼ਬਦਾਂ\N_NN ਦਾ\PSP ਦੁਹਰਾਉ\N_NN ਕਹੀ\V_VM_VF ਜਾ\V_VM ਸਕਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6922	ਆਮ\JJ ਰਚਨਾ\N_NN ਵਿੱਚ\PSP ਇਹ\DM_DMD ਦੁਹਰਾਉ\V_VM_VNF ਅਕੇਵੇਂ\JJ ਭਰਪੂਰ\JJ ਹੁੰਦਾ\V_VM_VF ਪ੍ਰਭੂ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਇਹ\DM_DMD ਦੁਹਰਾਉ\V_VM_VNF ਨੀਰਸ\JJ ਨਹੀਂ\RP_NEG ਬਣਦਾ\V_VM_VF ਸਗੋਂ\CC_CCS ਇੱਕ\QT_QTC ਵਿਸ਼ੇਸ਼\JJ ਕਿਸਮ\N_NN ਦਾ\PSP ਆਂਤਰਿਕ\N_NN ਸਰੋਦ\N_NN ਉਤਪੰਨ\RB ਕਰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6923	ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੀ\PR_PRF ਬਾਣੀ\N_NN ਵਿੱਚ\PSP ਇਹ\DM_DMD ਸੰਗੀਤਮਈ\N_NN ਪ੍ਰਭਾਵ\N_NN ਪ੍ਰਮੁੱਖ\N_NN ਤੌਰ\PSP ਤੇ\RB ਤਿੰਨ\QT_QTC ਸਾਧਨਾਂ\N_NN ਨਾਲ\PSP ਉਤਪੰਨ\RB ਕੀਤਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6924	ਵਿਅੰਗ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਬਾਣੀ\N_NN ਦੀ\PSP ਸ਼ੈਲੀ\N_NN ਦਾ\PSP ਇਹ\DM_DMD ਹੋਰ\DM_DMQ ਅਦੁੱਤੀ\JJ ਗੁਣ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6925	ਦਰ-ਬ-ਦਰ\JJ ਭਟਕਦੇ\V_VM_VF ਅਤੇ\CC_CCD ਅਟੁੱਟ\JJ ਬੰਧਨਾਂ\N_NN ਵਿੱਚ\PSP ਬੱਝੇ\V_VM_VF ਮਨਮੁਖਾਂ\JJ ,\RD_PUNC ਦੁਸ਼ਟਾਂ\JJ ਅਤੇ\CC_CCD ਨਿੰਦਕਾਂ\JJ ਤੇ\CC_CCD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਇਕੋ\QT_QTO ਜਿਹੀ\RB ਸ਼ਕਤੀ\N_NN ਨਾਲ\PSP ਬਾਹਰੋਂ\JJ ਮਿੱਠਾ\JJ ਪਰ\CC_CCD ਅੰਦਰੋਂ\JJ ਜ਼ਹਿਰੀਲਾ\JJ ਵਿਅੰਗ\N_NN ਕੱਸਦੇ\V_VM_VF ਹਨ\V_VAUX ।\RD_PUNC
+PBRED6926	ਪਾਖੰਡ\N_NN ,\RD_PUNC ਕੁਕਰਮ\N_NN ਅਤੇ\CC_CCD ਛਲਕਪਟ\N_NN ਕਰਕੇ\V_VM_VF ਆਪਣੇ\PR_PRF ਲਘੂ\JJ ਪਰਿਵਾਰ\N_NN ਨੂੰ\PSP ਤਾਂ\RP_RPD ਸੁਖ\V_VM_VF ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX |\RD_PUNC
+PBRED6927	ਪਰ\CC_CCD ਪਰਮਾਤਮਾ\N_NN ਨੂੰ\PSP ਦੁੱਖ\JJ ਦਿੰਦਾ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6928	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਕਟਾਖਸ਼\N_NN ਦੀ\PSP ਵਰਤੋਂ\V_VM_VF ਕਰਕੇ\V_VM_VF ਉਸ\PR_PRP ਨੂੰ\PSP ਸੁਚੇਤ\JJ ਕਰਦੇ\V_VM_VF ਹਨ\V_VAUX |\RD_PUNC
+PBRED6929	ਇਹ\DM_DMD ਉਹਨਾਂ\PR_PRP ਦੀ\PSP ਲਾਜਵਾਬ\JJ ਵਡਿਆਈ\JJ ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6930	ਜੀਵਨ\N_NN :\RD_PUNC ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਜਨਮ\N_NN ਚੌਥੇ\QT_QTO ਗੁਰੂ\N_NN ਸ਼੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਘਰ\N_NN ਮਾਤਾ\N_NN ਬੀਬੀ\N_NN ਭਾਨੀ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਕੁੱਖੋਂ\N_NN 19\QT_QTC ਵੈਸਾਖ\N_NNP ,\RD_PUNC ਸੰਮਤ\N_NN 1620\QT_QTC (\RD_SYM 15\QT_QTC ਅਪ੍ਰੈਲ\N_NNP ,\RD_PUNC 1563\QT_QTC ਈ.\N_NN )\RD_SYM ਨੂੰ\PSP ਗੋਇੰਦਵਾਲ\N_NNP ਵਿਖੇ\PSP ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6931	ਬਚਪਨ\N_NN ਦੇ\PSP ਮੁੱਢਲੇ\JJ 11\QT_QTC ਸਾਲ\N_NN ਆਪਣੇ\PR_PRF ਨਾਨਾ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਦੇਖ-ਰੇਖ\N_NN ਹੇਠ\RB ਗੁਜ਼ਾਰਨ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\RB ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਨਾਨਾ\N_NN ਗੁਰੂ\N_NN ਤੋਂ\PSP ਗੁਰਮੁਖੀ\N_NN ਦੀ\PSP ਵਿੱਦਿਆ\N_NN ਦੀ\PSP ਮੁਹਾਰਤ\N_NN ਹਾਸਲ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6932	ਦੇਵਨਾਗਰੀ\N_NNP ਪਿੰਡ\N_NN ਦੀ\PSP ਧਰਮਸ਼ਾਲਾ\N_NN ਤੋਂ\PSP ਸਿੱਖੀ\N_NN ,\RD_PUNC ਸੰਸਕ੍ਰਿਤ\N_NNP ਦਾ\PSP ਗਿਆਨ\N_NN ਪੰਡਿਤ\N_NN ਬੇਣੀ\N_NNP ਕੋਲੋਂ\RB ,\RD_PUNC ਗਣਿਤ\N_NN ਵਿੱਦਿਆ\N_NN ਮਾਮਾ\N_NN ਮੋਹਰੀ\N_NNP ਜੀ\RP_INJ ਤੋਂ\PSP ਹਾਸਲ\N_NN ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6933	ਅਤੇ\CC_CCD ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੂੰ\PSP ਧਿਆਨ\N_NN ਲਗਾਉਣ\V_VM_VF ਦੀ\PSP ਵਿੱਦਿਆ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੇ\PSP ਮਾਮਾ\N_NN ਜੀ\RP_INJ ,\RD_PUNC ਬਾਬਾ\N_NN ਮੋਹਨ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਸਿਖਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6934	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਸੱਚਖੰਡ\N_NN ਵਾਪਸੀ\V_VM_VF ਦਾ\PSP ਸਮਾਂ\N_NN ਨੇੜੇ\RB ਆ\V_VM ਜਾਣ\V_VM_VF ਕਰਕੇ\V_VM_VF ਤੀਜੇ\QT_QTO ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਨੇ\PSP 1\QT_QTC ਸਤੰਬਰ,\N_NNP 1574\QT_QTC ਚੌਥੇ\QT_QTO ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਗੁਰਗੱਦੀ\N_NN ਬਖਸ਼ਿਸ਼\V_VM_VF ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6935	ਬਾਬਾ\N_NN ਬੁੱਢਾ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਗੁਰਿਆਈ\N_NN ਤਿਲਕ\N_NN ਦੀ\PSP ਰਸਮ\N_NN ਅਦਾ\N_NN ਕੀਤੀ\V_VM_VF ,\RD_PUNC
+PBRED6936	ਉਸੇ\DM_DMD ਦਿਨ\N_NN ਹੀ\RP_RPD ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਜੋਤੀ\N_NN ਜੋਤਿ\N_NN ਸਮਾਏ\V_VM_VF ,\RD_PUNC
+PBRED6937	ਇਸ\DM_DMD ਤੋਂ\PSP ਬਾਅਦ\RB ਸਾਲ\N_NN 1574\QT_QTC ਵਿੱਚ\PSP ਹੀ\RP_RPD ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ,\N_NNP
+PBRED6938	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਆਸ਼ੇ\N_NN ਨੂੰ\PSP ਪੂਰਾ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਆਪਣੇ\PR_PRF ਤਿੰਨੋਂ\QT_QTO ਪੁੱਤਰਾਂ\N_NN ਪ੍ਰਿਥੀ\N_NNP ਚੰਦ,\N_NN
+PBRED6939	ਸ੍ਰੀ\N_NN ਮਹਾਂਦੇਵ\N_NNP ਅਤੇ\CC_CCD ਸ੍ਰੀ\N_NN (\RD_SYM ਗੁਰੂ\N_NN )\RD_SYM ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਨਾਲ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਗੁਰੂ\N_NNP ਕੇ\N_NNP ਚੱਕ\N_NNP (\RD_SYM ਅੰਮ੍ਰਿਤਸਰ\N_NNP )\RD_SYM ਆ\V_VM ਗਏ\V_VM_VF ;\RD_PUNC ਸਭ\DM_DMQ ਤੋਂ\PSP ਪਹਿਲੀ\QT_QTO ਸੇਵਾ\N_NN ਜੋ\PR_PRL ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਮਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਸਮੇਂ\N_NN ਸੰਤੋਖਸਰ\N_NNP ਦੀ\PSP ਚਲ\V_VM ਰਹੀ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6940	ਉਸ\PR_PRP ਨੂੰ\PSP ਅਰੰਭਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਜਿਸ\PR_PRL ਟਾਹਲੀ\N_NN ਹੇਠ\RB ਬੈਠ\V_VM ਕੇ\V_VM_VNF ਆਪ\PR_PRF ਜੀ\RP_INJ ਸੇਵਾ\N_NN ਕਰਵਾਇਆ\V_VM_VF ਕਰਦੇ\V_VM_VF ਸਨ\V_VAUX ,\RD_PUNC
+PBRED6941	ਅੱਜ\RB ਕਲ\RB ਉਥੇ\RB ਗੁਰਦੁਆਰਾ\N_NN ਟਾਹਲੀ\V_VM_VF ਸਾਹਿਬ\N_NN ਸੁਸ਼ੋਭਿਤ\N_NN ਹੈ\V_VAUX ।\RD_PUNC
+PBRED6942	ਫਿਰ\RB ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਸੰਨ\N_NN 1577\QT_QTC ਵਿੱਚ\PSP ਪਿੰਡ\N_NN ਤੁੰਗ\N_NNP ਦੇ\PSP ਜ਼ਿਮੀਂਦਾਰਾਂ\N_NN ਨੂੰ\PSP 700\QT_QTC ਅਕਬਰੀ\N_NN ਮੋਹਰਾਂ\N_NN ਦੇ\V_VM ਕੇ\V_VM_VNF ਪੰਜ\QT_QTC ਸੌ\QT_QTC ਵਿਘੇ\N_NN ਜ਼ਮੀਨ\N_NN ਗੁਰੂ\N_NNP ਕੇ\N_NNP ਚੱਕ\N_NNP ਵਾਲੀ\PSP ਥਾਂ\N_NN ਪ੍ਰਾਪਤ\N_NN ਕੀਤੀ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6943	ਜਿਸ\PR_PRL ਦਾ\PSP ਨਾਮ\N_NN ਬਾਅਦ\JJ ਵਿੱਚ\PSP ਚੱਕ\N_NNP ਰਾਮਦਾਸ\N_NNP ਪੈ\V_VM ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6944	ਇਸੇ\DM_DMD ਸਾਲ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਦੁਖਭੰਜਨੀ\N_NNP ਬੇਰੀ\N_NNP ਵਾਲੇ\PSP ਥਾਂ\N_NN ਇੱਕ\QT_QTC ਸਰੋਵਰ\N_NN ਦੀ\PSP ਖੁਦਵਾਈ\N_NN ਆਰੰਭੀ\V_VM_VF ,\RD_PUNC
+PBRED6945	ਜਿਸ\PR_PRL ਨੂੰ\PSP ਬਾਅਦ\RB ਵਿੱਚ\PSP ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਸੰਪੂਰਨ\JJ ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6946	ਇਸ\DM_DMD ਸਰੋਵਰ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਆਪਣੀ\PR_PRF ਦੂਰਅੰਦੇਸ਼ੀ\JJ ਨਾਲ\PSP ਅੰਮ੍ਰਿਤ\N_NNP ਸਰ\N_NN ਰੱਖਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6947	ਇਸ\DM_DMD ਤੋਂ\PSP ਹੀ\RP_RPD ਇਸ\DM_DMD ਨਗਰ\N_NN ਦਾ\PSP ਨਾਮ\N_NN ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਪਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6948	ਵਿਆਹ\N_NN ,\RD_PUNC ਪੁੱਤਰ\N_NN ਦੀ\PSP ਦਾਤ\N_NN ਤੇ\CC_CCD ਗੁਰਿਆਈ\N_NN :\RD_PUNC ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦਾ\PSP ਵਿਆਹ\N_NN 23\QT_QTC ਹਾੜ\N_NNP ਸੰਮਤ\N_NN 1636\QT_QTC ਨੂੰ\PSP ਮੌ\N_NNP ਪਿੰਡ\N_NN (\RD_SYM ਤਹਿਸੀਲ\N_NN ਫਿਲੌਰ\N_NNP )\RD_SYM ਦੇ\PSP ਵਸਨੀਕ\N_NN ਸ੍ਰੀ\N_NN ਕਿਸ਼ਨ\N_NNP ਚੰਦ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਸਪੁੱਤਰੀ\N_NN ਮਾਤਾ\N_NN ਗੰਗਾ\N_NNP ਜੀ\RP_INJ ਨਾਲ\PSP ਹੋਇਆ\V_VM_VF ,\RD_PUNC
+PBRED6949	ਉਸ\PR_PRP ਵੇਲੇ\N_NN ਆਪ\PR_PRF ਜੀ\RP_INJ ਦੀ\PSP ਉਮਰ\N_NN 16\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6950	ਬਾਬਾ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਵਰਦਾਨ\N_NN ਨਾਲ\PSP ਮਾਤਾ\N_NN ਗੰਗਾ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਕੁੱਖੋਂ\N_NN 21\QT_QTC ਹਾੜ\N_NNP ਸੰਮਤ\N_NN 1652\QT_QTC (\RD_SYM 19\QT_QTC ਜੂਨ\N_NNP 1595\QT_QTC )\RD_SYM ਨੂੰ\PSP ਛੇਵੇਂ\QT_QTC ਗੁਰੂ\N_NN ,\RD_PUNC ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਹਰਿਗੋਬਿੰਦ\N_NNP ਸਾਹਿਬ\N_NN ਯੋਧਾ\JJ ਪੁੱਤਰ\N_NN ਦਾ\PSP ਜਨਮ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6951	ਇਧਰ\RB ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਨਿੱਕੇ\JJ ਸਪੁੱਤਰ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਧਰਮ\N_NN ਪ੍ਰਤੀ\N_NN ਲਗਨ\JJ ,\RD_PUNC ਪਿਆਰ\N_NN ,\RD_PUNC ਸਤਿਕਾਰ,\JJ ਸੁਭਾਅ\N_NN ਵਿੱਚ\PSP ਨਿਮਰਤਾ\JJ ਆਦਿ\RP_CL ਦੇ\PSP ਗੁਣਾਂ\N_NN ਨੂੰ\PSP ਦੇਖਦੇ\V_VM_VF ਹੋਏ\V_VM_VF 1\QT_QTC ਸਤੰਬਰ\N_NNP 1581\QT_QTC ਨੂੰ\PSP ਜੋਤੀ\N_NN ਜੋਤਿ\N_NN ਸਮਾਉਣ\V_VM_VF ਵੇਲੇ\N_NN ਸ੍ਰੀ\N_NN ਗੋਇੰਦਵਾਲ\N_NNP ਸਾਹਿਬ\N_NN ਵਿਖੇ\PSP ,\RD_PUNC ਬਾਬਾ\N_NN ਬੁੱਢਾ\N_NNP ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਹੱਥੋਂ\N_NN ਗੁਰਿਆਈ\N_NN ਦਾ\PSP ਤਿਲਕ\N_NN ਬਖਸ਼ਿਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਅਤੇ\CC_CCD ਆਪ\PR_PRF ਚੌਥੇ\QT_QTC ਗੁਰੂ\N_NN ਉਸੇ\DM_DMD ਦਿਨ\N_NN ਹੀ\RP_RPD ਜੋਤੀ\N_NN ਜੋਤਿ\N_NN ਸਮਾ\N_NN ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6952	ਉਸ\PR_PRP ਵਕਤ\N_NN ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਦੀ\PSP ਉਮਰ\N_NN 18\QT_QTC ਸਾਲ\N_NN ਦੀ\PSP ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6953	ਦਸਤਾਰਬੰਦੀ\N_NN ਦੀ\PSP ਰਸਮ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਆਪ\PR_PRF ਜੀ\RP_INJ ਅਕਤੂਬਰ\N_NNP ਮਹੀਨੇ\N_NN ਸ੍ਰੀ\N_NN ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਆ\V_VM ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6954	ਗੁਰਗੱਦੀ\N_NN ਤੇ\RB ਬਿਰਾਜਮਾਨ\N_NN ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਧਰਮ\N_NN ਪ੍ਰਚਾਰ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\RB ਗੁਰੂ\N_NN ਰਾਮਦਾਸ\N_NNP ਜੀ\RP_INJ ਵੱਲੋਂ\PSP ਅਰੰਭੇ\N_NN ਕਾਰਜਾਂ\N_NN ਨੂੰ\PSP ਨੇਪਰੇ\JJ ਚਾੜਨਾ\V_VM_VF ਸ਼ੁਰੂ\JJ ਕੀਤਾ।\V_VM_VF
+PBRED6955	ਸੰਗਤਾਂ\N_NN ਦੇ\PSP ਨਾਲ-ਨਾਲ\RB ਬਾਬਾ\N_NN ਬੁੱਢਾ\N_NNP ਜੀ\RP_INJ ਅਤੇ\CC_CCD ਭਾਈ\N_NN ਸਾਲ੍ਹੋ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਇਨਾਂ\DM_DMD ਕੰਮਾਂ\N_NN ਲਈ\PSP ਜਥੇਦਾਰ\N_NN ਥਾਪਿਆ\V_VM_VF |\RD_PUNC
+PBRED6956	ਨਾਲ\PSP ਹੀ\RP_RPD ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਦੂਰ-ਦੂਰ\RB ਤਕ\PSP ਗੁਰਸਿੱਖੀ\N_NN ਨੂੰ\PSP ਪ੍ਰਚਾਰਿਆ\V_VM_VF |\RD_PUNC
+PBRED6957	ਆਗਰੇ\N_NNP ਤੋਂ\PSP ਚੱਲ\V_VM ਕੇ\V_VM_VNF ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਦਰਸ਼ਨਾਂ\N_NN ਹਿਤ\PSP ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਵਿਖੇ\PSP 1583\QT_QTC ਦੇ\PSP ਆਰੰਭ\RB ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਮਿਲੇ\V_VM_VF ।\RD_PUNC
+PBRED6958	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਵੱਲੋਂ\PSP ਆਰੰਭੀ\JJ ਸੰਨ\N_NN 1586\QT_QTC ਈ.\N_NN ਵਿੱਚ\PSP ਸੰਤੋਖਸਰ\N_NNP ਗੁਰਦੁਆਰਾ\N_NN ਸਾਹਿਬ\N_NN ਦੀ\PSP ਸੇਵਾ\N_NN ਵਿੱਚ\PSP ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਅਹਿਮ\JJ ਯੋਗਦਾਨ\N_NN ਪਾਇਆ\V_VM_VF ,\RD_PUNC
+PBRED6959	ਸ੍ਰੀ\N_NN ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਸ੍ਰੀ\N_NN ਹਰਿਮੰਦਰ\N_NNP ਸਾਹਿਬ\N_NN ਦੀ\PSP ਨੀਂਹ\N_NN ਰੱਖਣ\V_VM_VF ਦਾ\PSP ਪਵਿੱਤਰ\JJ ਕੰਮ\N_NN ਮੁਸਲਮਾਨ\N_NN ਫਕੀਰ\N_NN ਸਾਈਂ\N_NNP ਮੀਆਂ\N_NNP ਮੀਰ\N_NNP (\RD_SYM ਪੂਰਾ\JJ ਨਾਮ\N_NN ਮੁਅਈਨ-ਉਲ-ਅਸਲਾਮ\N_NNP )\RD_SYM ਤੋਂ\PSP ਕਰਵਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6960	ਸ੍ਰੀ\N_NN ਹਰਿਮੰਦਰ\N_NNP ਸਾਹਿਬ\N_NN ਦੇ\PSP ਚਾਰੇ\QT_QTO ਪਾਸੇ\RB ਦਰਵਾਜ਼ੇ\N_NN ਰਖਵਾਉਣ\V_VM_VF ਦਾ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਮੰਤਵ\N_NN ਸਾਰੇ\QT_QTF ਧਰਮਾਂ\N_NN ਨੂੰ\PSP ਬਰਾਬਰ\JJ ਦਾ\PSP ਸਤਿਕਾਰ\N_NN ਦੇਣਾ\V_VM_VF ਸੀ\V_VAUX ।\RD_PUNC
+PBRED6961	ਸਰੋਵਰ\N_NN ਵਿੱਚ\PSP ਬਿਰਾਜਮਾਨ\N_NN ਸ੍ਰੀ\N_NN ਹਰਿਮੰਦਰ\N_NNP ਸਾਹਿਬ\N_NN ਦੀ\PSP ਮੂਰਤ\N_NN ਅਤੇ\CC_CCD ਦਿਨ\JJ -\RD_PUNC ਰਾਤ\JJ ਹੁੰਦਾ\V_VM_VF ਗੁਰਬਾਣੀ\N_NN ਦਾ\PSP ਕੀਰਤਨ\N_NN ਸੁਣ\V_VM ਕੇ\V_VM_VNF ਅਤੇ\CC_CCD ਅਚਰਜ\JJ ਨਜ਼ਾਰੇ\N_NN ਤੱਕ\PSP ਕੇ\PSP ਦੇਖਣ\V_VM_VF ਵਾਲੇ\PSP ਦੇ\PSP ਮਨ\N_NN ਵਿੱਚ\PSP ਅਜਿਹਾ\RB ਸਵਾਲ\N_NN ਪੈਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਕੀ\PR_PRQ ਇਸ\DM_DMD ਤੋਂ\PSP ਅੱਗੇ\RB ਵੀ\RP_RPD ਕੋਈ\DM_DMQ ਸੱਚਖੰਡ\N_NN ਹੈ\V_VAUX ?\RD_PUNC
+PBRED6962	ਇਸੇ\DM_DMD ਹੀ\RP_RPD ਸਾਲ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP 15\QT_QTC ਅਪ੍ਰੈਲ\N_NNP 1590\QT_QTC ਈ.\N_NN ਬਾਬਾ\N_NN ਬੁੱਢਾ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਅਰਦਾਸਾ\N_NN ਸੋਧਣ\V_VM_VF ਉਪਰੰਤ\RB ਤਰਨ\N_NNP ਤਾਰਨ\N_NNP ਸਰੋਵਰ\N_NN ਦੀ\PSP ਨੀਂਹ\N_NN ਰੱਖੀ\V_VM_VF ,\RD_PUNC
+PBRED6963	ਕਿਉਂਕਿ\CC_CCS ਸਿੱਖੀ\N_NN ਦੇ\PSP ਅਸੂਲ\N_NN ਹਨ\V_VAUX ,\RD_PUNC ਆਪ\PR_PRF ਤਰਨਾ\V_VM_VF ਅਤੇ\CC_CCD ਦੂਜਿਆਂ\QT_QTO ਨੂੰ\PSP ਤਾਰਨਾ\V_VM_VF ਅਤੇ\CC_CCD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਮਨੋਰਥ\N_NN ਗੁਰੂ\N_NN ਨਾਨਕ\N_NNP ਸਾਹਿਬ\N_NN ਦੀ\PSP ਸਿੱਖੀ\N_NN ਨੂੰ\PSP ਪ੍ਰਚਾਰਨਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6964	ਅਤੇ\CC_CCD ਖਾਸ\JJ ਕਰਕੇ\V_VM_VNF ਇਸ\DM_DMD ਇਲਾਕੇ\N_NN ਦੇ\PSP ਹਾਕਮ\N_NN ਨੂਰਦੀਨ\N_NNP ਅਤੇ\CC_CCD ਉਸ\PR_PRP ਦੇ\PSP ਪੁੱਤਰ\N_NN ਅਮੀਰ\N_NNP ਦੀਨ\N_NNP ਅਤੇ\CC_CCD ਸਖੀ\N_NNP ਸਰਵਰਾਂ\N_NNP ਦੇ\PSP ਵਧ\JJ ਰਹੇ\V_VM_VF ਮੁਸਲਮਾਨੀ\N_NN ਪ੍ਰਭਾਵ\N_NN ਨੂੰ\PSP ਰੋਕਣਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6965	ਇਸ\DM_DMD ਲਈ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਖੁਦ\PR_PRF ਪ੍ਰਚਾਰ\N_NN ਹਿੱਤ\PSP ਖਡੂਰ\N_NNP ਸਾਹਿਬ\N_NN ਅਤੇ\CC_CCD ਹੋਰ\DM_DMQ ਇਲਾਕਿਆਂ\N_NN ਵਿੱਚ\PSP ਗਏ\V_VM_VF ।\RD_PUNC
+PBRED6966	ਤਰਨ\N_NNP ਤਾਰਨ\N_NNP ਵਿੱਚ\PSP ਕੋਹੜੀ\N_NN ਘਰ\N_NN ਬਣਵਾਉਣ\V_VM_VF ਉਪਰੰਤ\RB ਸਰੋਵਰ\N_NN ਦੇ\PSP ਪਾਣੀ\N_NN ਨੂੰ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਰੂਪ\N_NN ਵਿੱਚ\RB ਬਦਲ\N_NN ਕੇ\N_NN ਕੋਹੜਿਆਂ\N_NN ਦਾ\PSP ਕੋਹੜ\N_NN ਹਮੇਸ਼ਾ\RB ਲਈ\PSP ਖਤਮ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6967	1593\QT_QTC ਵਿੱਚ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਜਲੰਧਰ\N_NNP ਕੋਲ\RB (\RD_SYM ਦੁਆਬੇ\N_NNP ਵਿਚ\PSP )\RD_SYM ਧਰਮ\N_NN ਪ੍ਰਚਾਰ\N_NN ਕੇਂਦਰ\N_NN ਹਿਤ\RB ਕਰਤਾਰਪੁਰ\N_NNP ਵਸਾਇਆ\V_VM_VF ਅਤੇ\CC_CCD ਮਾਤਾ\N_NN ਗੰਗਾ\N_NNP ਜੀ\PSP ਦੇ\PSP ਨਾਮ\N_NN ’ਤੇ\RB ਖੂਹ\N_NN ਲਗਵਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6968	1594\QT_QTC ਈ.\N_NN ਨੂੰ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਗੁਰੂ\N_NNP ਕੀ\N_NNP ਵਡਾਲੀ\N_NNP ਨੂੰ\PSP ਧਰਮ\N_NN ਪ੍ਰਚਾਰ\N_NN ਹਿਤ\PSP ਪੱਕਾ\JJ ਟਿਕਾਣਾ\N_NN ਬਣਾਇਆ\V_VM_VF ,\RD_PUNC
+PBRED6969	ਇਥੇ\RB ਹੀ\RP_RPD ਛੇਵੇਂ\QT_QTC ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਜਨਮ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6970	ਇਨਾਂ\RB ਹੀ\RP_RPD ਸਾਲਾਂ\N_NN ਵਿੱਚ\PSP ਸੋਕਾ\JJ ਪੈ\V_VM ਜਾਣ\V_VM_VF ਕਾਰਨ\N_NN ਜਨਤਾ\N_NN ਦੀ\PSP ਲੋੜ\N_NN ਨੂੰ\PSP ਮੁੱਖ\N_NN ਰੱਖ\V_VM ਕੇ\V_VM_VNF ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਦੋ-ਹਰਟੇ\N_NNP ,\RD_PUNC ਚਾਰ-ਹਰਟੇ\N_NNP ਖੂਹ\N_NN ਲਗਵਾਏ\V_VM_VF ।\RD_PUNC
+PBRED6971	ਗੁਰੂ\N_NNP ਕੀ\N_NNP ਵਡਾਲੀ\N_NNP ਦੇ\PSP ਪੱਛਮ\N_NN ਵੱਲ\N_NN ਛੇ-ਹਰਟਾ\N_NNP ਖੂਹ\N_NN (\RD_SYM ਜਿੱਥੇ\PR_PRL ਗੁਰਦੁਆਰਾ\N_NN ਛੇਹਰਟਾ\N_NNP ਸਾਹਿਬ\N_NN ਹੈ\V_VAUX )\RD_SYM ਲਗਵਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6972	ਲਾਹੌਰ\N_NNP ਵਿੱਚ\PSP ਕਾਲ\N_NN ਤੇ\CC_CCD ਸਮਰਾਟ\N_NN ਅਕਬਰ\N_NNP ਨਾਲ\PSP ਮਿਲਾਪ\N_NN :\RD_PUNC ਲਾਹੌਰ\N_NNP ਵਿੱਚ\PSP ਭੁੱਖਮਰੀ\N_NN ਅਤੇ\CC_CCD ਕਾਲ\N_NN ਪੈ\V_VM ਜਾਣ\V_VM_VF ਕਾਰਨ\N_NN ਸੰਨ\N_NN 1597\QT_QTC ਵਿੱਚ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਲਹੌਰ\N_NNP ਪੁੱਜ\V_VM ਕੇ\V_VM_VNF ਚੂਨਾ\N_NNP ਮੰਡੀ\N_NNP ਵਿਖੇ\PSP ਨਿਥਾਵਿਆਂ\JJ ਨੂੰ\PSP ਥਾਂ\N_NN ਦੇਣ\V_VM_VF ਲਈ\PSP ਇਮਾਰਤ\N_NN ਅਤੇ\CC_CCD ਪਾਣੀ\N_NN ਦੀ\PSP ਜ਼ਰੂਰਤ\N_NN ਲਈ\PSP ਡੱਬੀ\N_NNP ਬਜ਼ਾਰ\N_NN ਵਿੱਚ\PSP ਬਾਉਲੀ\N_NNP ਬਣਵਾਈ\V_VM_VF ।\RD_PUNC
+PBRED6973	ਲੰਗਰ\N_NN ਲਗਵਾਏ\V_VM_VF ,\RD_PUNC ਦਵਾ\N_NN ਦਾ੍ਰੂ\N_NN ਦਾ\PSP ਇੰਤਜ਼ਾਮ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6974	1598\QT_QTC ਵਿੱਚ\N_NN ਹੀ\RP_RPD ਅਕਬਰ\N_NNP ਬਾਦਸ਼ਾਹ\N_NN ਗੋਇੰਦਵਾਲ\N_NNP ਵਿਖੇ\PSP ਗੁਰੂ\N_NN ਅਰਜਨ\N_NNP ਦੇਵ\N_NN ਜੀ\RP_INJ ਦੇ\PSP ਦਰਬਾਰ\N_NN ਵਿੱਚ\PSP ਹਾਜ਼ਰ\N_NN ਹੋਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6975	ਉਸ\PR_PRP ਨੇ\PSP ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਵਲੌਂ\N_NN ਲਾਹੌਰ\N_NNP ਕਾਲ\N_NN ਸਮੇਂ\N_NN ਪੀੜਤ\JJ ਲੋਕਾਂ\N_NN ਦੀ\PSP ਸੇਵਾ\N_NN ਲਈ\PSP ਸ਼ੁਕਰਾਨਾ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6976	ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਦੀ\PSP ਅਜ਼ੀਮ\JJ ਸ਼ਕਸੀਅਤ\N_NN ਤੇ\CC_CCD ਲੰਗਰ\N_NN ਪ੍ਰਥਾ\N_NN ਤੌਂ\PSP ਪ੍ਰਭਾਵਿਤ\N_NN ਹੋ\V_VAUX ਕੇ\V_VM_VNF ਲੰਗਰ\N_NN ਦੇ\PSP ਨਾਂ\N_NN ਜਗੀਰ\N_NN ਲਾਉਣ\V_VM_VF ਦੀ\PSP ਪੇਸ਼ਕਸ਼\N_NN ਕੀਤੀ\V_VM_VF ।\RD_PUNC
+PBRED6977	ਪਰ\CC_CCD ਗੁਰੂ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਜਗੀਰ\N_NN ਤੌਂ\PSP ਇਨਕਾਰ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਲੇਕਿਨ\CC_CCD ਬਾਦਸ਼ਾਹ\N_NN ਨੂੰ\PSP ਇਸ\PR_PRP ਇਲਾਕੇ\N_NN ਵਿਚੌਂ\PSP ਸ਼ਾਹੀ\N_NN ਫੌਜਾਂ\N_NN ਦੇ\PSP ਰਹਿਣ\V_VM_VF ਤੇ\CC_CCD ਕੂਚ\N_NN ਕਰਣ\V_VM_VF ਕਰਕੇ\V_VM_VNF ਹੋਏ\V_VM_VF ਨੁਕਸਾਨ\JJ ਕਾਰਨ\N_NN ਲਗਾਨ\N_NN ਮਾਫ\N_NN ਕਰਣ\V_VM_VF ਲਈ\PSP ਅਕਬਰ\N_NNP ਬਾਦਸ਼ਾਹ\N_NN ਨੂੰ\PSP ਰਾਜ਼ੀ\N_NN ਕਰ\V_VM ਲੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6978	ਸੰਨ\N_NN 1599\QT_QTC ਈ.\N_NN ਵਿੱਚ\PSP ਲੋਕਾਂ\N_NN ਨੂੰ\PSP ਵਹਿਮਾਂ-ਭਰਮਾਂ\N_NN ’ਚੋਂ\PSP ਕੱਢਣ\V_VM_VF ਲਈ\PSP ਧਰਮ\N_NN ਪ੍ਰਚਾਰ\N_NN ਹਿਤ\PSP ਆਪ\PR_PRF ਜੀ\RP_INJ ,\RD_PUNC ਡੇਰਾ\N_NNP ਬਾਬਾ\N_NNP ਨਾਨਕ\N_NNP ,\RD_PUNC ਕਰਤਾਰਪੁਰ\N_NNP (\RD_SYM ਰਾਵੀ\N_NNP ਵਾਲੇ\PSP )\RD_SYM ਕਲਾਨੌਰ\N_NNP ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਦੌਰੇ\N_NN ਤੋਂ\PSP ਬਾਰਠ\N_NNP ਵਿਖੇ\PSP ਬਾਬਾ\N_NN ਸ੍ਰੀ\N_NN ਚੰਦ\N_NNP ਜੀ\RP_INJ ਨੂੰ\PSP ਮਿਲੇ\V_VM_VF ।\RD_PUNC
+PBRED6979	ਇੱਕ\QT_QTC ਸਾਲ\N_NN ਦੇ\PSP ਪ੍ਰਚਾਰ\N_NN ਦੌਰੇ\N_NN ਤੋਂ\PSP ਬਾਅਦ\RB ਆਪ\PR_PRF ਜੀ\RP_INJ ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਪਹੁੰਚੇ\V_VM_VF ।\RD_PUNC
+PBRED6980	ਗੁਰੂ\N_NNP ਗਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਦਾ\PSP ਸੰਪਾਦਨ\N_NN :\RD_PUNC ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੇ\PR_PRF ਗੁਰਗੱਦੀ\N_NN ਕਾਲ\N_NN ਵਿਚ\PSP ,\RD_PUNC ਸਭ\DM_DMQ ਤੋਂ\PSP ਮਹਾਨ\N_NN ਕੰਮ\N_NN ਇਲਾਹੀ\N_NN ਬਾਣੀ\N_NN ਰਚਣ\V_VM_VF ਅਤੇ\CC_CCD ਪਹਿਲੇ\QT_QTO ਗੁਰੂ\N_NN ਸਾਹਿਬਾਂ\N_NN ਦੀ\PSP ,\RD_PUNC ਸੰਤਾਂ\N_NN ,\RD_PUNC ਭਗਤਾਂ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਨੂੰ\PSP ਇਕੱਤਰ\N_NN ਕਰਨ\V_VM_VF ਦਾ\PSP ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6981	ਇਸ\N_NN ਮਹਾਨ\JJ ਕੰਮ\N_NN ਨੂੰ\PSP ਕਰਨ\V_VM_VF ਲਈ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਇਕਾਂਤ\JJ ਵਾਸ\N_NN ਜਗ੍ਹਾ\N_NN ਸ੍ਰੀ\N_NN ਰਾਮਸਰ\N_NNP (\RD_SYM ਗੁਰਦੁਆਰੇ\N_NN ਸ਼ਸ਼ੋਭਿਤ\N_NN )\RD_SYM ਅੰਮ੍ਰਿਤਸਰ\N_NNP ਚੁਣੀ\V_VM_VF ।\RD_PUNC
+PBRED6982	ਆਪ\PR_PRF ਜੀ\RP_INJ ਨੇ\PSP ਸੰਨ\N_NN 1601\QT_QTC ਤੋਂ\PSP ਲੈ\V_VM ਕੇ\V_VM_VNF ਅਗਸਤ\N_NNP 1604\QT_QTC ਦੇ\PSP ਲੰਮੇ\JJ ਅਰਸੇ\N_NN ਦੌਰਾਨ\RB ਇਹ\PR_PRP ਕੰਮ\N_NN ਸੰਪੂਰਨ\JJ ਕੀਤਾ\V_VM_VF ਅਤੇ\CC_CCD ਇੱਕ\QT_QTC ਮਹਾਨ\JJ ਗ੍ਰੰਥ\N_NN ਤਿਆਰ\N_NN ਕੀਤਾ\V_VM_VF ,\RD_PUNC
+PBRED6983	ਜਿਸ\PR_PRL ਵਿੱਚ\PSP 36\QT_QTC ਮਹਾਂਪੁਰਸ਼ਾਂ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਅੰਕਿਤ\N_NN ਕੀਤੀ\V_VM_VF ਜਿਨ੍ਹਾਂ\PR_PRL ਵਿੱਚ\N_NN ਪੰਜ\QT_QTC ਗੁਰੂ\N_NN ਸਾਹਿਬਾਨ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ,\RD_PUNC 15\QT_QTC ਭਗਤਾਂ\N_NN ਦੀ\PSP ਬਾਣੀ\N_NN ਦਾ\PSP ਸੰਗ੍ਰਹਿ\N_NN ਤਿਆਰ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6984	ਇਸ\DM_DMD ਸੇਵਾ\N_NN ਲਈ\PSP ਭਾਈ\N_NN ਗੁਰਦਾਸ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੀ\PR_PRF ਲੇਖਣੀ\N_NN ਦੁਆਰਾ\PSP ਮਹਾਨ\JJ ਯੋਗਦਾਨ\N_NN ਪਾਇਆ\V_VM_VF ।\RD_PUNC
+PBRED6985	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਜੀ\RP_INJ ਨੇ\PSP ਆਪਣੀ\PR_PRF ਦੇਖ\N_NN ਰੇਖ\N_NN ਹੇਠ\RB ਜਿਲਦ\N_NN ਸਾਜ\N_NN ਕੀਤੀ\V_VM_VF ਅਤੇ\CC_CCD 30\QT_QTC ਅਗਸਤ\N_NNP 1604\QT_QTC ਨੂੰ\PSP ਇਸ\DM_DMD ਇਲਾਹੀ\JJ ਗ੍ਰੰਥ\N_NN ਦਾ\PSP ਪਹਿਲੀ\QT_QTO ਵਾਰ\N_NN ਦਰਬਾਰ\N_NNP ਸਾਹਿਬ\N_NNP ਅੰਦਰ\JJ ਪ੍ਰਕਾਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ,\RD_PUNC
+PBRED6986	ਬਾਬਾ\N_NN ਬੁੱਢਾ\N_NNP ਜੀ\RP_INJ ਨੇ\PSP ਪ੍ਰਥਮ\JJ ਗ੍ਰੰਥੀ\N_NN ਦੇ\PSP ਤੌਰ\PSP ’ਤੇ\RB ਪਹਿਲਾ\QT_QTC ਹੁਕਮਨਾਮਾ\N_NN ਲਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6987	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੀ\PSP ਸ਼ਹਾਦਤ\N_NN :\RD_PUNC ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NNP ਜੀ\RP_INJ ਦੇ\PSP ਅਦੁੱਤੀ\JJ ਉਪਦੇਸ਼ਾਂ\N_NN ਦਾ\PSP ਅਸਰ\N_NN ਮੁਸਲਮਾਨ\N_NN ਉਲਮਾਵਾਂ\N_NN ਅਤੇ\CC_CCD ਕਾਜ਼ੀਆਂ\N_NN ਨੇ\PSP ਕਬੂਲਿਆ\V_VM_VF ਕਿਉਂਕਿ\CC_CCS ਮੁਸਲਮਾਨ\N_NN ਕੱਟੜਪੰਥੀ\JJ ਆਪਣੇ\PR_PRF ਧਰਮ\N_NN ਦੀ\PSP ਬਰਾਬਰੀ\N_NN ਬਰਦਾਸ਼ਤ\N_NN ਨਹੀਂ\RP_NEG ਕਰ\V_VM ਸਕਦੇ\V_VM_VF ਸਨ\V_VAUX ।\RD_PUNC
+PBRED6988	ਅਕਬਰ\N_NNP ਦਾ\PSP ਪੁੱਤਰ\N_NN ਜਹਾਂਗੀਰ\N_NNP ਜਦੋਂ\PR_PRL ਤਖ਼ਤ\N_NN ’ਤੇ\JJ ਬੈਠਾ\V_VM_VF ਤਾਂ\RP_RPD ਵਿਰੋਧੀਆਂ\N_NN ਨੇ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਵਿਰੁੱਧ\JJ ਉਸ\PR_PRP ਦੇ\PSP ਕੰਨ\N_NN ਭਰਨੇ\V_VM_VF ਸ਼ੁਰੂ\JJ ਕੀਤੇ\V_VM_VF ।\RD_PUNC
+PBRED6989	ਇਸ\N_NN ਕੰਮ\N_NN ਵਿੱਚ\PSP ਚੰਦੂ\N_NN ਦੀ\PSP ਈਰਖਾ\JJ ਨੇ\PSP ਵੀ\RP_RPD ਬਹੁਤ\DM_DMQ ਜ਼ਿਆਦਾ\DM_DMQ ਰੋਲ\N_NN ਅਦਾ\N_NN ਕੀਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6990	ਜਹਾਂਗੀਰ\N_NNP ਨੇ\PSP ਮੁਰਤਜ਼ਾ\N_NNP ਖਾਨ\N_NNP ਨੂੰ\PSP ਕਿਹਾ\V_VM_VF ਕਿ\CC_CCS ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦਾ\PSP ਮਾਲ\N_NN ਅਸਬਾਬ\N_NN ਜ਼ਬਤ\N_NN ਕਰਕੇ\V_VM_VNF ਉਹਨਾਂ\PR_PRP ਨੂੰ\PSP ਉਸ\PR_PRP ਦੇ\PSP ਸਾਹਮਣੇ\JJ ਪੇਸ਼\N_NN ਕੀਤਾ\V_VM_VF ਜਾਵੇ\V_VM_VF ।\RD_PUNC
+PBRED6991	ਜਹਾਂਗੀਰ\N_NNP ਨੇ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਸ੍ਰੀ\N_NNP ਗੁਰੂ\N_NNP ਗ੍ਰੰਥ\N_NNP ਸਾਹਿਬ\N_NN ਵਿੱਚ\PSP ਹਜ਼ਰਤ\N_NNP ਮੁਹੰਮਦ\N_NNP ਦੀ\PSP ਖੁਸ਼ਾਮਦ\N_NN ਦੇ\PSP ਸ਼ਬਦ\N_NN ਦਰਜ\N_NN ਕਰਨ\V_VM_VF ਲਈ\PSP ਕਿਹਾ\V_VM_VF ,\RD_PUNC
+PBRED6992	ਜਿਸ\PR_PRL ’ਤੇ\RB ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਸਾਫ\JJ ਇਨਕਾਰ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ।\RD_PUNC
+PBRED6993	ਇੱਕ\QT_QTC ਪਾਸੇ\N_NN ਚੰਦੂ\N_NNP ਦੀ\PSP ਈਰਖਾ\JJ ਸੀ\V_VAUX ਕਿ\CC_CCS ਉਸ\PR_PRP ਦੀ\PSP ਲੜਕੀ\N_NN ਦਾ\PSP ਰਿਸ਼ਤਾ\N_NN ਗੁਰੂ\N_NN ਹਰਿਗੋਬਿੰਦ\N_NNP ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਕਰਨ\V_VM_VF ਤੋਂ\PSP ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ਇਨਕਾਰ\N_NN ਕਰ\V_VM ਦਿੱਤਾ\V_VM_VF ਸੀ\V_VAUX ,\RD_PUNC
+PBRED6994	ਅਖੀਰ\RB ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਸ਼ਹੀਦ\N_NN ਕਰਨ\V_VM_VF ਦਾ\PSP ਹੁਕਮ\N_NN ਦੇ\PSP ਦਿੱਤਾ\V_VM_VF ਗਿਆ\V_VM_VF ,\RD_PUNC
+PBRED6995	ਇਸ\DM_DMD ਕੰਮ\N_NN ਲਈ\PSP ਖਾਸ\JJ ਤੌਰ\PSP ’ਤੇ\RB ਨਿਰਦਈ\JJ ਚੰਦੂ\N_NNP ਨੂੰ\PSP ਲਗਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6996	ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੂੰ\PSP ਤੱਤੀ\JJ ਤਵੀ\N_NN ’ਤੇ\RB ਬਿਠਾ\V_VM_VF ਕੇ\V_VM_VNF ਸੀਸ\N_NN ’ਤੇ\RB ਤੱਤੀ\N_NNP ਰੇਤ\N_NN ਪਾਈ\V_VM_VF ਗਈ\V_VM_VF ਅਤੇ\CC_CCD ਬਾਅਦ\RB ਵਿੱਚ\PSP ਉਬਲਦੇ\JJ ਪਾਣੀ\N_NN ਦੀ\PSP ਦੇਗ\N_NN ਵਿੱਚ\PSP ਪਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6997	ਪਰ\CC_CCD ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਨੇ\PSP ‘\N_NN ਤੇਰੇ\PR_PRP ਭਾਣੇ\N_NN ਵਿੱਚ\PSP ਅੰਮ੍ਰਿਤ\N_NN ਵਸੇ\V_VM_VF ’\N_NN ਦੀ\PSP ਧੁਨੀ\N_NN ਜਾਰੀ\N_NN ਰੱਖੀ\V_VM_VF ,\RD_PUNC
+PBRED6998	ਅੰਤ\RB 30\QT_QTC ਮਈ,\N_NNP 1606\QT_QTC ਨੂੰ\PSP ਛੇਵੇਂ\QT_QTO ਦਿਨ\N_NN ਗੁਰੂ\N_NN ਸਾਹਿਬ\N_NN ਦੇ\PSP ਪਾਵਨ\JJ ਸਰੀਰ\N_NN ਨੂੰ\PSP ਰਾਵੀ\N_NNP ਦਰਿਆ\N_NN ਦੇ\PSP ਕਿਨਾਰੇ\N_NN ਲਿਜਾਇਆ\V_VM_VF ਗਿਆ\V_VM_VF ਅਤੇ\CC_CCD ਰਾਵੀ\N_NNP ਦਰਿਆ\N_NN ਵਿੱਚ\PSP ਰੋੜਿਆ\V_VM_VF ਗਿਆ\V_VM_VF ।\RD_PUNC
+PBRED6999	ਅੱਜਕਲ੍ਹ\JJ ਉਹ\PR_PRP ਜਗਾ\N_NN ਗੁਰਦੁਆਰਾ\N_NN ਡੇਹਰਾ\N_NNP ਸਾਹਿਬ\N_NN ਦੇ\PSP ਨਾਮ\N_NN ਨਾਲ\PSP ਜਾਣੀ\V_VM_VF ਜਾਂਦੀ\V_VM_VF ਹੈ\V_VAUX ਜੋ\PR_PRL ਕਿ\CC_CCS ਪਾਕਿਸਤਾਨ\N_NNP ਵਿੱਚ\PSP ਹੈ\V_VAUX -\RD_PUNC
+PBRED7000	ਉਮਦਤ\N_NNP ਤਵਾਰੀਕ\N_NNP ਦਾ\PSP ਲਿਖਾਰੀ\N_NN ਲਿਖਦਾ\V_VM_VF ਹੈ\V_VAUX ਕਿ\CC_CCS ਸ਼ਹਾਦਤ\N_NN ਨੂੰ\PSP ਲਿਖਣ\V_VM_VF ਲੱਗਿਆਂ\V_VM_VF ਕਲਮ\N_NN ਲਹੂ\N_NN ਦੇ\PSP ਹੰਝੂ\N_NN ਕੇਰਦੀ\V_VM_VF ਹੈ\V_VAUX ,\RD_PUNC ਅੱਖਾਂ\N_NN ਰੋਂਦੀਆਂ\V_VM_VF ਹਨ\V_VAUX ,\RD_PUNC ਦਿਲ\N_NN ਪਾਟਦਾ\V_VM_VF ਹੈ\V_VAUX ਅਤੇ\CC_CCD ਜਾਨ\N_NN ਹੈਰਾਨ\N_NN ਹੁੰਦੀ\V_VM_VF ਹੈ\V_VAUX ।\RD_PUNC
